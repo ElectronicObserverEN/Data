@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.1.6">
+<Ships Version="1.2.0">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -939,6 +939,178 @@
     <JP-Name>Roma</JP-Name>
     <TR-Name>Roma</TR-Name>
   </Ship>
+  <Ship>
+    <JP-Name>駆逐イ級</JP-Name>
+    <TR-Name>DD I-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>駆逐ロ級</JP-Name>
+    <TR-Name>DD Ro-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>駆逐ハ級</JP-Name>
+    <TR-Name>DD Ha-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>駆逐ニ級</JP-Name>
+    <TR-Name>DD Ni-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>軽巡ホ級</JP-Name>
+    <TR-Name>CL Ho-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>軽巡ヘ級</JP-Name>
+    <TR-Name>CL He-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>軽巡ト級</JP-Name>
+    <TR-Name>CL To-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>雷巡チ級</JP-Name>
+    <TR-Name>CLT Chi-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>重巡リ級</JP-Name>
+    <TR-Name>CA Ri-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>軽母ヌ級</JP-Name>
+    <TR-Name>CVL Nu-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>戦艦ル級</JP-Name>
+    <TR-Name>BB Ru-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>空母ヲ級</JP-Name>
+    <TR-Name>CV Wo-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>輸送ワ級</JP-Name>
+    <TR-Name>AP Wa-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>潜水カ級</JP-Name>
+    <TR-Name>SS Ka-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>潜水ヨ級</JP-Name>
+    <TR-Name>SS Yo-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>戦艦タ級</JP-Name>
+    <TR-Name>BB Ta-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>戦艦レ級</JP-Name>
+    <TR-Name>BB Re-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>潜水ソ級</JP-Name>
+    <TR-Name>SS So-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>軽巡ツ級</JP-Name>
+    <TR-Name>CL Tsu-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>重巡ネ級</JP-Name>
+    <TR-Name>CA Ne-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>装甲空母鬼</JP-Name>
+    <TR-Name>Armored Carrier Demon</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>装甲空母姫</JP-Name>
+    <TR-Name>Armored Carrier Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>浮遊要塞</JP-Name>
+    <TR-Name>Floating Fortress</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>泊地棲鬼</JP-Name>
+    <TR-Name>Anchorage Demon</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>泊地棲姫</JP-Name>
+    <TR-Name>Anchorage Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>護衛要塞</JP-Name>
+    <TR-Name>Escort Fortress</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>南方棲鬼</JP-Name>
+    <TR-Name>Southern Demon</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>南方棲戦鬼</JP-Name>
+    <TR-Name>Southern War Demon</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>南方棲戦姫</JP-Name>
+    <TR-Name>Southern War Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>飛行場姫</JP-Name>
+    <TR-Name>Airfield Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>戦艦棲姫</JP-Name>
+    <TR-Name>BB Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>港湾棲姫</JP-Name>
+    <TR-Name>Harbour Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>離島棲鬼</JP-Name>
+    <TR-Name>Isolated Island Demon</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>北方棲姫</JP-Name>
+    <TR-Name>Northern Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>中間棲姫</JP-Name>
+    <TR-Name>Midway Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>空母棲鬼</JP-Name>
+    <TR-Name>CV Demon</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>空母棲姫</JP-Name>
+    <TR-Name>CV Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>駆逐棲姫</JP-Name>
+    <TR-Name>DD Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>空母水鬼</JP-Name>
+    <TR-Name>CV Water Demon</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>軽巡棲鬼</JP-Name>
+    <TR-Name>CL Demon</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>戦艦水鬼</JP-Name>
+    <TR-Name>BB Water Demon</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>港湾水鬼</JP-Name>
+    <TR-Name>Harbour Water Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>泊地水鬼</JP-Name>
+    <TR-Name>Anchorage Water Princess</TR-Name>
+  </Ship>
   <Ship mode="suffix">
 	<JP-Name>改</JP-Name>
     <TR-Name> Kai</TR-Name>
@@ -982,5 +1154,17 @@
   <Ship mode="suffix">
 	<JP-Name>九</JP-Name>
     <TR-Name>9</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
+	<JP-Name>elite</JP-Name>
+	<TR-Name> elite</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
+	<JP-Name>flagship</JP-Name>
+	<TR-Name> flagship</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
+	<JP-Name>後期型</JP-Name>
+	<TR-Name> (Late Type)</TR-Name>
   </Ship>
 </Ships>

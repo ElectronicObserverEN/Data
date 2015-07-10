@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EquipmentTypes Version="1.0">
+	<Type>
+		<JP-Name>小口径主砲</JP-Name>
+		<TR-Name>Small-caliber Gun</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>中口径主砲</JP-Name>
+		<TR-Name>Medium-caliber Gun</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>大口径主砲</JP-Name>
+		<TR-Name>Large-caliber Gun</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>副砲</JP-Name>
+		<TR-Name>Secondary Gun</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>魚雷</JP-Name>
+		<TR-Name>Torpedo</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>艦上攻撃機</JP-Name>
+		<TR-Name>Torpedo Bomber</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>艦上戦闘機</JP-Name>
+		<TR-Name>Fighter Plane</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>艦上爆撃機</JP-Name>
+		<TR-Name>Dive Bomber</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>水上偵察機</JP-Name>
+		<TR-Name>Recon Seaplane</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>水上爆撃機</JP-Name>
+		<TR-Name>Seaplane Bomber</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>小型電探</JP-Name>
+		<TR-Name>Small RADAR</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>大型電探</JP-Name>
+		<TR-Name>Large RADAR</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>機関部強化</JP-Name>
+		<TR-Name>Turbine</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>対空強化弾</JP-Name>
+		<TR-Name>AA Shell</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>対艦強化弾</JP-Name>
+		<TR-Name>AP Shell</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>対空機銃</JP-Name>
+		<TR-Name>AA Gun</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>特殊潜航艇</JP-Name>
+		<TR-Name>Midget Submarine</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>応急修理要員</JP-Name>
+		<TR-Name>Damage Control</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>爆雷</JP-Name>
+		<TR-Name>Depth Charge</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>ソナー</JP-Name>
+		<TR-Name>SONAR</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>追加装甲(中型)</JP-Name>
+		<TR-Name>Add-on Armor (Medium)</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>追加装甲(大型)</JP-Name>
+		<TR-Name>Add-on Armor (Large)</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>探照灯</JP-Name>
+		<TR-Name>Searchlight</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>大型探照灯</JP-Name>
+		<TR-Name>Large Searchlight</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>大型ソナー</JP-Name>
+		<TR-Name>Large SONAR</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>対地装備</JP-Name>
+		<TR-Name>Anti-ground Artillery</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>対潜哨戒機</JP-Name>
+		<TR-Name>ASW Aircraft</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>潜水艦魚雷</JP-Name>
+		<TR-Name>Submarine-based Torpedo</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>水上艦要員</JP-Name>
+		<TR-Name>Personnel</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>上陸用舟艇</JP-Name>
+		<TR-Name>Landing Craft</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>照明弾</JP-Name>
+		<TR-Name>Star Shell</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>高射装置</JP-Name>
+		<TR-Name>AA Fire Director</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>航空要員</JP-Name>
+		<TR-Name>Aviation Personnel</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>艦艇修理施設</JP-Name>
+		<TR-Name>Repair Equipment</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>艦隊司令部施設</JP-Name>
+		<TR-Name>Command Equipment</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>艦上偵察機</JP-Name>
+		<TR-Name>Recon Plane</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>簡易輸送部材</JP-Name>
+		<TR-Name>Transport Equipment</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>オートジャイロ</JP-Name>
+		<TR-Name>Autogyro</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>司令部施設</JP-Name>
+		<TR-Name>Command Facility</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>大型飛行艇</JP-Name>
+		<TR-Name>Flying Boat</TR-Name>
+	</Type>
+</EquipmentTypes>
