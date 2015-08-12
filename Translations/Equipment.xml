@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1">
+<Equipment Version="1.2">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Cannon</TR-Name>
@@ -568,7 +568,40 @@
     <JP-Name>21号対空電探改</JP-Name>
     <TR-Name>Type 21 Air Radar Kai</TR-Name>
   </Item>
+  <Item>
+	<JP-Name>15m二重測距儀+21号電探改二</JP-Name>
+	<TR-Name>15m Duplex Rangefinder + Type 21 Air Radar Kai Ni</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>九七式艦攻(村田隊)</JP-Name>
+	<TR-Name>Type 97 Torpedo Bomber (Murata Squadron)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>天山一二型(村田隊)</JP-Name>
+	<TR-Name>Tenzan Model 12 (Murata Squadron)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>戦闘糧食</JP-Name>
+	<TR-Name>Combat Provisions</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>洋上補給</JP-Name>
+	<TR-Name>Offshore Supplies</TR-Name>
+  </Item>
+  
+  
+  
+  
+  
+  
+  
+  
   <!-- Abyssal Equipment !-->
+  
+  
+  
+  
+  
   <Item>
     <JP-Name>5inch単装砲</JP-Name>
     <TR-Name>5inch Single Cannon</TR-Name>
@@ -780,5 +813,33 @@
   <Item>
     <JP-Name>15inch要塞砲</JP-Name>
     <TR-Name>15inch Fortress Gun</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海猫艦戦改</JP-Name>
+	<TR-Name>Abyssalcat Fighter Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海地獄艦爆改</JP-Name>
+	<TR-Name>Abyssal Hell Diver Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海復讐艦攻改</JP-Name>
+	<TR-Name>Abyssal Avenger Torpedo Bomber Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海水上攻撃機</JP-Name>
+	<TR-Name>Abyssal Attack Seaplane</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海水上攻撃機改</JP-Name>
+	<TR-Name>Abyssal Attack Seaplane Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>4inch連装両用砲+CIC</JP-Name>
+	<TR-Name>4inch Dual Purpose Cannon + CIC</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海FCS+CIC</JP-Name>
+	<TR-Name>Abyssal Sonar + CIC</TR-Name>
   </Item>
 </Equipment>

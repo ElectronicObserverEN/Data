@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.2.1">
+<Ships Version="1.3">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -944,6 +944,14 @@
 	<TR-Name>Hayasui</TR-Name>
   </Ship>
   <Ship>
+	<JP-Name>瑞穂</JP-Name>
+	<TR-Name>Mizuho</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>Libeccio</JP-Name>
+	<TR-Name>Libeccio</TR-Name>
+  </Ship>
+  <Ship>
     <JP-Name>駆逐イ級</JP-Name>
     <TR-Name>DD I-Class</TR-Name>
   </Ship>
@@ -1114,6 +1122,14 @@
   <Ship>
     <JP-Name>泊地水鬼</JP-Name>
     <TR-Name>Anchorage Water Princess</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>水母棲姫</JP-Name>
+	<TR-Name>AV Princess</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>防空棲姫</JP-Name>
+	<TR-Name>Air Defence Princess</TR-Name>
   </Ship>
   <Ship mode="suffix">
 	<JP-Name>改</JP-Name>

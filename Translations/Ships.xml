@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.2.1">
+<Ships Version="1.3">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -639,8 +639,7 @@
   <Ship>
     <JP-Name>薄雲</JP-Name>
     <TR-Name>Usugumo</TR-Name>
-  </Ship>
-  <Ship>
+  </Ship><Ship>
     <JP-Name>白雲</JP-Name>
     <TR-Name>Shirakumo</TR-Name>
   </Ship>
@@ -941,8 +940,16 @@
     <TR-Name>Roma</TR-Name>
   </Ship>
   <Ship>
-    <JP-Name>速吸</JP-Name>
-    <TR-Name>Hayasui</TR-Name>
+	<JP-Name>速吸</JP-Name>
+	<TR-Name>Hayasui</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>瑞穂</JP-Name>
+	<TR-Name>Mizuho</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>Libeccio</JP-Name>
+	<TR-Name>Libeccio</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>駆逐イ級</JP-Name>
@@ -1116,60 +1123,68 @@
     <JP-Name>泊地水鬼</JP-Name>
     <TR-Name>Anchorage Water Princess</TR-Name>
   </Ship>
+  <Ship>
+	<JP-Name>水母棲姫</JP-Name>
+	<TR-Name>AV Princess</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>防空棲姫</JP-Name>
+	<TR-Name>Air Defence Princess</TR-Name>
+  </Ship>
   <Ship mode="suffix">
-    <JP-Name>改</JP-Name>
+	<JP-Name>改</JP-Name>
     <TR-Name> Kai</TR-Name>
   </Ship>
   <Ship mode="suffix">
-    <JP-Name> zwei</JP-Name>
+	<JP-Name> zwei</JP-Name>
     <TR-Name> Zwei</TR-Name>
   </Ship>
   <Ship mode="suffix">
-    <JP-Name> drei</JP-Name>
+	<JP-Name> drei</JP-Name>
     <TR-Name> Drei</TR-Name>
   </Ship>
   <Ship mode="suffix">
-    <JP-Name>二</JP-Name>
+	<JP-Name>二</JP-Name>
     <TR-Name> Ni</TR-Name>
   </Ship>
   <Ship mode="suffix">
-    <JP-Name>三</JP-Name>
+	<JP-Name>三</JP-Name>
     <TR-Name>3</TR-Name>
   </Ship>
   <Ship mode="suffix">
-    <JP-Name>四</JP-Name>
+	<JP-Name>四</JP-Name>
     <TR-Name>4</TR-Name>
   </Ship>
   <Ship mode="suffix">
-    <JP-Name>五</JP-Name>
+	<JP-Name>五</JP-Name>
     <TR-Name>5</TR-Name>
   </Ship>
   <Ship mode="suffix">
-    <JP-Name>六</JP-Name>
+	<JP-Name>六</JP-Name>
     <TR-Name>6</TR-Name>
   </Ship>
   <Ship mode="suffix">
-    <JP-Name>七</JP-Name>
+	<JP-Name>七</JP-Name>
     <TR-Name>7</TR-Name>
   </Ship>
   <Ship mode="suffix">
-    <JP-Name>八</JP-Name>
+	<JP-Name>八</JP-Name>
     <TR-Name>8</TR-Name>
   </Ship>
   <Ship mode="suffix">
-    <JP-Name>九</JP-Name>
+	<JP-Name>九</JP-Name>
     <TR-Name>9</TR-Name>
   </Ship>
   <Ship mode="suffix">
-    <JP-Name>elite</JP-Name>
-    <TR-Name> elite</TR-Name>
+	<JP-Name>elite</JP-Name>
+	<TR-Name> elite</TR-Name>
   </Ship>
   <Ship mode="suffix">
-    <JP-Name>flagship</JP-Name>
-    <TR-Name> flagship</TR-Name>
+	<JP-Name>flagship</JP-Name>
+	<TR-Name> flagship</TR-Name>
   </Ship>
   <Ship mode="suffix">
-    <JP-Name>後期型</JP-Name>
-    <TR-Name> (Late Type)</TR-Name>
+	<JP-Name>後期型</JP-Name>
+	<TR-Name> (Late Type)</TR-Name>
   </Ship>
 </Ships>
