@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.21">
+<Quests Version="1.1.22">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1262,9 +1262,9 @@
   </Quest>
   <Quest>
 	<ID>0</ID>
-	<JP-Name>精鋭艦隊練習</JP-Name>
+	<JP-Name>精鋭艦隊演習</JP-Name>
 	<TR-Name>Elite Fleet Exercises</TR-Name>
-	<JP-Detail>同日中に「練習」で7回以上「勝利」をおさめ、我が精鋭艦隊の練度を示そう！</JP-Detail>
+	<JP-Detail>同日中に「演習」で7回以上「勝利」をおさめ、我が精鋭艦隊の練度を示そう！</JP-Detail>
 	<TR-Detail>In one day, defeat 7 fleets in Practice mode and demonstrate our elite fleet's experience!</TR-Detail>
   </Quest>
   <Quest>
