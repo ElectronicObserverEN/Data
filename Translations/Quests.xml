@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.20">
+<Quests Version="1.1.21">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1259,5 +1259,26 @@
     <TR-Name>Sortie the surface attack fleet!</TR-Name>
     <JP-Detail>「比叡」「霧島」「長良」「暁」「雷」「電」の艦隊で、南方海域進出作戦を実施、敵を撃滅せ</JP-Detail>
     <TR-Detail>Deploy a fleet with Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma to world 5-1 and obtain an S victory at the boss.</TR-Detail>
+  </Quest>
+  <Quest>
+	<ID>0</ID>
+	<JP-Name>精鋭艦隊練習</JP-Name>
+	<TR-Name>Elite Fleet Exercises</TR-Name>
+	<JP-Detail>同日中に「練習」で7回以上「勝利」をおさめ、我が精鋭艦隊の練度を示そう！</JP-Detail>
+	<TR-Detail>In one day, defeat 7 fleets in Practice mode and demonstrate our elite fleet's experience!</TR-Detail>
+  </Quest>
+  <Quest>
+	<ID>0</ID>
+	<JP-Name>鎮守府正面の対潜哨戒を強化せよ！</JP-Name>
+	<TR-Name>Strengthen the Naval Base Anti-Submarine Patrols!</TR-Name>
+	<JP-Detail>鎮守府正面の対潜哨戒を強化し、海上資源輸送路の安全を確立せよ！</JP-Detail>
+	<TR-Detail>Strengthen the naval base's anti-submarine patrols, and establish safety for our transports! (Defeat the 1-5 boss with at least an A-rank four times.)</TR-Detail>
+  </Quest>
+  <Quest>
+	<ID>0</ID>
+	<JP-Name>「空母機動部隊」北方海域に進出せよ！</JP-Name>
+	<TR-Name>Advance the Carrier Task Force to the Northern Sea!</TR-Name>
+	<JP-Detail>航空母艦を旗艦とした空母機動部隊を北方AL海域方面に展開、敵戦力を撃滅せよ！</JP-Detail>
+	<TR-Detail>With an aircraft carrier as your flagship, expand into the Northern AL Sea, and destroy the enemy fleet! (Defeat the 3-5 boss with an S-rank with a CV or CVB as your flagship.)</TR-Detail>
   </Quest>
 </Quests>
