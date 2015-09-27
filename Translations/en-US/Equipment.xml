@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.2">
+<Equipment Version="1.3">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Cannon</TR-Name>
@@ -378,7 +378,7 @@
   </Item>
   <Item>
     <JP-Name>彗星(江草隊)</JP-Name>
-    <TR-Name>Suisei (Comet) (Egusa Squadron)</TR-Name>
+    <TR-Name>Suisei (Egusa Squadron)</TR-Name>
   </Item>
   <Item>
     <JP-Name>九七式艦攻(熟練)</JP-Name>
@@ -587,6 +587,18 @@
   <Item>
 	<JP-Name>洋上補給</JP-Name>
 	<TR-Name>Offshore Supplies</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>120mm連装砲</JP-Name>
+	<TR-Name>120mm Twin Gun Mount</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>試製南山</JP-Name>
+	<TR-Name>Prototype Nanzan</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>四式水中聴音機</JP-Name>
+	<TR-Name>Type 4 Passive Sonar</TR-Name>
   </Item>
   
   

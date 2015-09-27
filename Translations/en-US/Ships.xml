@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.3">
+<Ships Version="1.4">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -197,20 +197,12 @@
     <TR-Name>Chitose</TR-Name>
   </Ship>
   <Ship>
-    <JP-Name>千歳甲</JP-Name>
-    <TR-Name>Chitose A</TR-Name>
-  </Ship>
-  <Ship>
     <JP-Name>千歳航</JP-Name>
     <TR-Name>Chitose CVL</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千代田</JP-Name>
     <TR-Name>Chiyoda</TR-Name>
-  </Ship>
-  <Ship>
-    <JP-Name>千代田甲</JP-Name>
-    <TR-Name>Chiyoda A</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千代田航</JP-Name>
@@ -1174,6 +1166,10 @@
   <Ship mode="suffix">
 	<JP-Name>九</JP-Name>
     <TR-Name>9</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
+	<JP-Name>甲</JP-Name>
+    <TR-Name> A</TR-Name>
   </Ship>
   <Ship mode="suffix">
 	<JP-Name>elite</JP-Name>
