@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.23">
+<Quests Version="1.1.24">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -420,7 +420,35 @@
     <JP-Detail>「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！</JP-Detail>
     <TR-Detail>Have Ashigara (足柄) as the flagship, Kuma (球磨) and Nagara (長良) in your main fleet.</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
+    <ID>164</ID>
+    <JP-Name>「第三航空戦隊」を編成せよ！</JP-Name>
+    <TR-Name>A59: Organise the 3rd Carrier Division</TR-Name>
+    <JP-Detail>「瑞鶴改」を旗艦とし、「瑞鳳」「千歳」「千代田」を加えた4隻の空母部隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Zuikaku Kai (瑞鶴改) as the flagship and aircraft carriers Zuihou (瑞鳳), Chitose (千歳) and Chiyoda (千代田) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>165</ID>
+    <JP-Name>「第四航空戦隊」を編成せよ！</JP-Name>
+    <TR-Name>A60: Organise the 4th Carrier Division</TR-Name>
+    <JP-Detail>航空戦艦「伊勢改」及び「日向改」を基幹戦力とした第四航空戦隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Ise Kai (伊勢改) and Hyuuga Kai (日向改) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>166</ID>
+    <JP-Name>「小沢艦隊」を編成せよ！</JP-Name>
+    <TR-Name>A61: Organise the Ozawa Fleet</TR-Name>
+    <JP-Detail>「瑞鶴改」旗艦、空母「瑞鳳改」「千歳」「千代田」及び「伊勢改」「日向改」を配備せよ！</JP-Detail>
+    <TR-Detail>Have Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou Kai (瑞鳳改), Chitose (千歳) and Chiyoda (千代田), and aviation battleships Ise Kai (伊勢改) and Hyuuga Kai (伊勢改) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>167</ID>
+    <JP-Name>新航空戦隊を編成せよ！</JP-Name>
+    <TR-Name>A62: Organise the New Carrier Fleet</TR-Name>
+    <JP-Detail>改二改装を終えた翔鶴型航空母艦2隻と同護衛艦による新航空戦隊を新編成せよ！</JP-Detail>
+    <TR-Detail>Have Shoukaku Kai2 (翔鶴改二) and Zuikaku Kai2 (瑞鶴改) along with 2 destroyers as their escort in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>201</ID>
     <JP-Name>敵艦隊を撃破せよ！</JP-Name>
     <TR-Name>Bd1: Defeat an Enemy Fleet</TR-Name>
@@ -943,7 +971,7 @@
     <JP-Name>「空母機動部隊」北方海域に進出せよ！</JP-Name>
     <TR-Name>B49: Sortie an Aircraft Carrier Task Force to the Aleutian Islands</TR-Name>
     <JP-Detail>航空母艦を旗艦とした空母機動部隊を北方AL海域方面に展開、敵戦力を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with an CV flagship to World 3-5 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet with a CV flagship to World 3-5 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>286</ID>
@@ -972,6 +1000,41 @@
     <TR-Name>B52: Sortie the 16th Squadron (1st Gen.)</TR-Name>
     <JP-Detail>「第十六戦隊(第一次)」をバシー島沖に展開、敵艦隊を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie Ashigara (足柄) as the flagship, Kuma (球磨), Nagara (長良) and up to 3 additional ships to World 2-2 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>290</ID>
+    <JP-Name>秋刀魚漁：「秋刀魚」を収獲しよう！</JP-Name>
+    <TR-Name>Saury Fishing: Let's Harvest Some Saury</TR-Name>
+    <JP-Detail>近海及び北方海域の漁場に展開する敵艦隊を撃破して、「秋刀魚」を3尾入手せよ！</JP-Detail>
+    <TR-Detail>Defeat enemy fleets in Worlds 1 and 3 and gather 3 saury.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>291</ID>
+    <JP-Name>秋刀魚漁：「秋刀魚」をもっと収獲しなきゃ！</JP-Name>
+    <TR-Name>Saury Fishing: You've Got to Harvest More Saury</TR-Name>
+    <JP-Detail>ちょっと大変だけれど、漁場の安全を確保して「秋刀魚」を10尾確保しなきゃ駄目よ！</JP-Detail>
+    <TR-Detail>Ensure the safety of the fishing grounds and have a total of 10 saury.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>292</ID>
+    <JP-Name>秋刀魚漁：もっと頑張ってもいいのよ！</JP-Name>
+    <TR-Name>Saury Fishing: Let's Harvest Even More Saury</TR-Name>
+    <JP-Detail>かなり大変だけれど、秋刀魚漁、もっともっと頑張ってもいいのよ！</JP-Detail>
+    <TR-Detail>Work hard and have a total of 30 saury.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>293</ID>
+    <JP-Name>「第三航空戦隊」南西諸島防衛線に出撃！</JP-Name>
+    <TR-Name>B53: Sortie the 3rd Carrier Division to Protect the Nansei Islands</TR-Name>
+    <JP-Detail>編成した「第三航空戦隊」を南西諸島防衛線に展開、敵侵攻艦隊を捕捉撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou (瑞鳳), Chitose (千歳) and Chiyoda (千代田), and up to 2 additional ships to World 1-4 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>294</ID>
+    <JP-Name>「小沢艦隊」出撃せよ！</JP-Name>
+    <TR-Name>B54: Sortie the Ozawa Fleet</TR-Name>
+    <JP-Detail>「小沢艦隊」を沖ノ島海域前面に展開し、侵攻する敵機動部隊を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou Kai (瑞鳳改), Chitose (千歳) and Chiyoda (千代田), and aviation battleships Ise Kai (伊勢改) and Hyuuga Kai (伊勢改) to World 2-4 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
@@ -1291,23 +1354,23 @@
   <Quest>
     <ID>614</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>F13: Model Conversion (to Tenzan)</TR-Name>
+    <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「九七式艦攻(友永隊)」搭載空母を秘書艦にした状態で新たに「天山」を2つ廃棄！</JP-Detail>
     <TR-Detail>With an aircraft carrier equipped with Type 97 Torpedo Bomber (Tomonaga Squadron) as your secretary, scrap 2 Tenzans (simultaneously) to upgrade the Type 97 to Tenzan Model 12 (Tomonaga Squadron). The Type 97 must not be locked or you'll lose the Tenzans.</TR-Detail>
   </Quest>
   <Quest>
     <ID>615</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>F14: Model Conversion (to Suisei)</TR-Name>
+    <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「九九式艦爆(江草隊)」搭載空母を秘書艦にした状態で新たに「彗星」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Type 99 Dive Bomber (Ekusa Squadron) as your secretary, scrap 2 Suiseis (simultaneously) to upgrade the Type 99 to Suisei (Ekusa Squadron). The Type 99 must not be locked or you'll lose the Suiseis.</TR-Detail>
+    <TR-Detail>With an aircraft carrier equipped with Type 99 Dive Bomber (Egusa Squadron) as your secretary, scrap 2 Suiseis (simultaneously) to upgrade the Type 99 to Suisei (Egusa Squadron). The Type 99 must not be locked or you'll lose the Suiseis.</TR-Detail>
   </Quest>
   <Quest>
     <ID>616</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>F15: Model Conversion (to Reppuu)</TR-Name>
+    <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「零戦52型丙(六〇一空)」搭載空母を秘書艦にした状態で新たに「烈風」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Zero Fighter Type 52 Type C (601 Air Group) as your secretary, scrap 2 Reppuus to upgrade the Type 52 to Reppuu (601 Air Group). The Type 52 must not be locked or you'll lose the Reppuus.</TR-Detail>
+    <TR-Detail>With an aircraft carrier equipped with Zero Fighter Model 52C (601 Air Group) as your secretary, scrap 2 Reppuus to upgrade the Type 52 to Reppuu (601 Air Group). The Type 52 must not be locked or you'll lose the Reppuus.</TR-Detail>
   </Quest>
   <Quest>
     <ID>617</ID>
@@ -1333,16 +1396,86 @@
   <Quest>
     <ID>622</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>F20: Model Conversion</TR-Name>
+    <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！</JP-Detail>
     <TR-Detail>With Shoukaku equipped with a Type 97 Torpedo Bomber (Murata Squadron)‎ as your secretary, scrap 2 Tenzans to upgrade the Type 97 to Tenzan Model 12 (Murata Squadron).</TR-Detail>
   </Quest>
   <Quest>
     <ID>623</ID>
     <JP-Name>精鋭「九七式艦攻」部隊の編成</JP-Name>
-    <TR-Name>F19: Formation of the Elite Type 97 Torpedo Bomber Squadron</TR-Name>
+    <TR-Name>F20: Formation of the Elite Type 97 Torpedo Bomber Squadron</TR-Name>
     <JP-Detail>「翔鶴」または「赤城」を秘書艦にした状態で新たに「九七式艦攻」を3つ廃棄！</JP-Detail>
-    <TR-Detail>With Shoukaku (翔鶴) or Akagi (赤城) as your secretary, dismantle 3 Type 97 Torpedo Bombers to obtain a Type 97 Torpedo Bomber (Murata Squadron)‎.</TR-Detail>
+    <TR-Detail>With Shoukaku (翔鶴) or Akagi (赤城) as your secretary, dismantle 3 Type 97 Torpedo Bombers to obtain a Type 97 Torpedo Bomber (Murata Squadron).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>624</ID>
+    <JP-Name>試作艤装の準備</JP-Name>
+    <TR-Name>F21: Prototype Flight Deck Outfitting Preparations</TR-Name>
+    <JP-Detail>「工廠」で装備アイテムを7つ「廃棄」して、「試製甲板カタパルト」を準備します。</JP-Detail>
+    <TR-Detail>Scrap 7 pieces of equipment.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>625</ID>
+    <JP-Name>試製航空艤装の追加試作</JP-Name>
+    <TR-Name>F23: Additional Prototype Deck Outfitting</TR-Name>
+    <JP-Detail>「工廠」で装備アイテムを9つ「廃棄」して、「試製甲板カタパルト」を追加試作します。</JP-Detail>
+    <TR-Detail>Scrap 9 pieces of equipment.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>626</ID>
+    <JP-Name>精鋭「艦戦」隊の新編成</JP-Name>
+    <TR-Name>F22: Reorganisation of the Fighter Forces</TR-Name>
+    <JP-Detail>要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！</JP-Detail>
+    <TR-Detail>With Houshou (鳳翔) as the secretary equipped with a Zero Fighter Model 21 (零式艦戦21型) at maximum skill level, scrap two Zero Fighter Model 21 (零式艦戦21型) and a Type 96 Fighter (九六式艦戦). A Skilled Pilot (熟練搭乗員) must be present in your inventory; it will be consumed.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>627</ID>
+    <JP-Name>機種転換</JP-Name>
+    <TR-Name>Model Conversion</TR-Name>
+    <JP-Detail>「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！</JP-Detail>
+    <TR-Detail>With an aircraft carrier equipped with Zero Fighter Model 21 (Skilled) (零式艦戦21型(熟練)) as your secretary, scrap two Zero Fighter Model 52 (零式艦戦52型).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>628</ID>
+    <JP-Name>機種転換</JP-Name>
+    <TR-Name>Model Conversion</TR-Name>
+    <JP-Detail>練度max「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！</JP-Detail>
+    <TR-Detail>With an aircraft carrier equipped with Zero Fighter Model 21 (Skilled) (零式艦戦21型(熟練)) at maximum skill level as your secretary, scrap two Zero Fighter Model 52 (零式艦戦52型).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>629</ID>
+    <JP-Name>「艦戦」隊の再編成</JP-Name>
+    <TR-Name>F26: Reorganisation of the Fighter Forces</TR-Name>
+    <JP-Detail>練度max「零戦52型(熟練)」搭載「瑞鶴」秘書艦で「零戦52型丙(六〇一空)」を廃棄！</JP-Detail>
+    <TR-Detail>With Zuikaku equipped with Zero Fighter Model 52 (Skilled) (零式艦戦52型(熟練)) at maximum skill level as your secretary, scrap a Zero Fighter Model 52C (601 Air Group) (零戦52型丙(六〇一空)).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>630</ID>
+    <JP-Name>「艦戦」隊の再編成</JP-Name>
+    <TR-Name>F28: Reorganisation of the Fighter Forces</TR-Name>
+    <JP-Detail>練度max「零戦21型(熟練)」搭載「瑞鶴」が秘書の状態で、「零戦21型」を2つ廃棄！</JP-Detail>
+    <TR-Detail>With Zuikaku equipped with Zero Fighter Model 21 (Skilled) (零式艦戦21型(熟練)) at maximum skill level as your secretary, scrap two Zero Fighter Model 21 (零式艦戦21型).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>631</ID>
+    <JP-Name>機種転換＆部隊再編</JP-Name>
+    <TR-Name>Model Conversion and Force Reorganisation</TR-Name>
+    <JP-Detail>練度max「零戦52型丙(付岩井小隊)」搭載「瑞鶴」秘書艦で、「零戦62型(爆戦)」を2つ廃棄！</JP-Detail>
+    <TR-Detail>With Zuikaku equipped with Zero Fighter Model 52C (w/ Iwai Flight) (零戦52型丙(付岩井小隊)) at maximum skill level as your secretary, scrap two Zero Fighter-bomber Model 62 (零式艦戦62型(爆戦)).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>632</ID>
+    <JP-Name>機種転換</JP-Name>
+    <TR-Name>Model Conversion</TR-Name>
+    <JP-Detail>練度max「零戦21型(付岩本小隊)」搭載「瑞鶴」秘書艦で、「零戦52型」を2つ廃棄！</JP-Detail>
+    <TR-Detail>With Zuikaku equipped with Zero Fighter Model 21 (w/ Iwamoto Flight) (零戦21型(付岩本小隊)) at maximum skill level as your secretary, scrap two Zero Fighter Model 52 (零式艦戦52型).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>633</ID>
+    <JP-Name>機種転換＆部隊再編</JP-Name>
+    <TR-Name>Model Conversion and Force Reorganisation</TR-Name>
+    <JP-Detail>部隊を再編する！練度max「零戦52型甲(付岩本小隊)」搭載「瑞鶴」秘書艦で、「彩雲」を2つ廃棄！</JP-Detail>
+    <TR-Detail>With Zuikaku equipped with Zero Fighter Model 52A (w/ Iwamoto Flight) (零戦52型甲(付岩本小隊)) at maximum skill level as your secretary, scrap two Saiun (彩雲).</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
