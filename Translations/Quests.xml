@@ -1440,42 +1440,42 @@
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>練度max「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！</JP-Detail>
-    <TR-Detail>F25: Equip Lv.7 Zero Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Zero Fighter Model 52. The Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
+    <TR-Detail>F25: Equip Lv.7 Zero Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Zero Fighter Model 52. The Lv.7 Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>629</ID>
     <JP-Name>「艦戦」隊の再編成</JP-Name>
     <TR-Name>Reorganisation of the Fighter Forces</TR-Name>
     <JP-Detail>練度max「零戦52型(熟練)」搭載「瑞鶴」秘書艦で「零戦52型丙(六〇一空)」を廃棄！</JP-Detail>
-    <TR-Detail>F26: Equip Lv.7 Zero Fighter Model 52 (Skilled) on Zuikaku as secretary, then scrap a Zero Fighter Model 52C (601 Air Group). The Zero Fighter Model 52 (Skilled) must not be locked.</TR-Detail>
+    <TR-Detail>F26: Equip Lv.7 Zero Fighter Model 52 (Skilled) on Zuikaku as secretary, then scrap a Zero Fighter Model 52C (601 Air Group). The Lv.7 Zero Fighter Model 52 (Skilled) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>630</ID>
     <JP-Name>「艦戦」隊の再編成</JP-Name>
     <TR-Name>Reorganisation of the Fighter Forces</TR-Name>
     <JP-Detail>練度max「零戦21型(熟練)」搭載「瑞鶴」が秘書の状態で、「零戦21型」を2つ廃棄！</JP-Detail>
-    <TR-Detail>F28: Equip Lv.7 Zero Fighter Model 21 (Skilled) on Zuikaku as secretary, then scrap 2 Zero Fighter Model 21. The Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
+    <TR-Detail>F28: Equip Lv.7 Zero Fighter Model 21 (Skilled) on Zuikaku as secretary, then scrap 2 Zero Fighter Model 21. The Lv.7 Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>631</ID>
     <JP-Name>機種転換＆部隊再編</JP-Name>
     <TR-Name>Model Conversion and Force Reorganisation</TR-Name>
     <JP-Detail>練度max「零戦52型丙(付岩井小隊)」搭載「瑞鶴」秘書艦で、「零戦62型(爆戦)」を2つ廃棄！</JP-Detail>
-    <TR-Detail>F27: Equip Lv.7 Zero Fighter Model 52C (w/ Iwai Flight) on Zuikaku as secretary, then scrap 2 Zero Fighter-bomber Model 62. The Zero Fighter Model 52C (w/ Iwai Flight) must not be locked.</TR-Detail>
+    <TR-Detail>F27: Equip Lv.7 Zero Fighter Model 52C (w/ Iwai Flight) on Zuikaku as secretary, then scrap 2 Zero Fighter-bomber Model 62. The Lv.7 Zero Fighter Model 52C (w/ Iwai Flight) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>632</ID>
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>練度max「零戦21型(付岩本小隊)」搭載「瑞鶴」秘書艦で、「零戦52型」を2つ廃棄！</JP-Detail>
-    <TR-Detail>F29: Equip Lv.7 Zero Fighter Model 21 (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Zero Fighter Model 52. The Zero Fighter Model 21 (w/ Iwamoto Flight) must not be locked.</TR-Detail>
+    <TR-Detail>F29: Equip Lv.7 Zero Fighter Model 21 (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Zero Fighter Model 52. The Lv.7 Zero Fighter Model 21 (w/ Iwamoto Flight) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>633</ID>
     <JP-Name>機種転換＆部隊再編</JP-Name>
     <TR-Name>Model Conversion and Force Reorganisation</TR-Name>
     <JP-Detail>部隊を再編する！練度max「零戦52型甲(付岩本小隊)」搭載「瑞鶴」秘書艦で、「彩雲」を2つ廃棄！</JP-Detail>
-    <TR-Detail>F30: Equip Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Saiun. The Zero Fighter Model 52A (w/ Iwamoto Flight) must not be locked.</TR-Detail>
+    <TR-Detail>F30: Equip Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Saiun. The Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
