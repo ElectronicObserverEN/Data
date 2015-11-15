@@ -1356,21 +1356,21 @@
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「九七式艦攻(友永隊)」搭載空母を秘書艦にした状態で新たに「天山」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Type 97 Torpedo Bomber (Tomonaga Squadron) as your secretary, scrap 2 Tenzans (simultaneously) to upgrade the Type 97 to Tenzan Model 12 (Tomonaga Squadron). The Type 97 must not be locked or you'll lose the Tenzans.</TR-Detail>
+    <TR-Detail>F13: Equip a Type 97 Torpedo Bomber (Tomonaga Squadron) on a Carrier secretary, then scrap 2 Tenzan. The Type 97 Torpedo Bomber (Murata Squadron) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>615</ID>
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「九九式艦爆(江草隊)」搭載空母を秘書艦にした状態で新たに「彗星」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Type 99 Dive Bomber (Egusa Squadron) as your secretary, scrap 2 Suiseis (simultaneously) to upgrade the Type 99 to Suisei (Egusa Squadron). The Type 99 must not be locked or you'll lose the Suiseis.</TR-Detail>
+    <TR-Detail>F14: Equip a Type 99 Dive Bomber (Egusa Squadron) on a Carrier secretary, then scrap 2 Suisei. The Type 99 Dive Bomber (Egusa Squadron) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>616</ID>
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「零戦52型丙(六〇一空)」搭載空母を秘書艦にした状態で新たに「烈風」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Zero Fighter Model 52C (601 Air Group) as your secretary, scrap 2 Reppuus to upgrade the Type 52 to Reppuu (601 Air Group). The Type 52 must not be locked or you'll lose the Reppuus.</TR-Detail>
+    <TR-Detail>F15: Equip a Zero Fighter Model 52C (601 Air Group) on a Carrier secretary, then scrap 2 Reppuu. The Zero Fighter Model 52C (601 Air Group) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>617</ID>
@@ -1398,84 +1398,84 @@
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With Shoukaku equipped with a Type 97 Torpedo Bomber (Murata Squadron)‎ as your secretary, scrap 2 Tenzans to upgrade the Type 97 to Tenzan Model 12 (Murata Squadron).</TR-Detail>
+    <TR-Detail>F19: Equip a Type 97 Torpedo Bomber (Murata Squadron) on Shoukaku as secretary, then scrap 2 Tenzan. The Type 97 Torpedo Bomber (Murata Squadron) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>623</ID>
     <JP-Name>精鋭「九七式艦攻」部隊の編成</JP-Name>
     <TR-Name>F20: Formation of the Elite Type 97 Torpedo Bomber Squadron</TR-Name>
     <JP-Detail>「翔鶴」または「赤城」を秘書艦にした状態で新たに「九七式艦攻」を3つ廃棄！</JP-Detail>
-    <TR-Detail>With Shoukaku (翔鶴) or Akagi (赤城) as your secretary, dismantle 3 Type 97 Torpedo Bombers to obtain a Type 97 Torpedo Bomber (Murata Squadron).</TR-Detail>
+    <TR-Detail>With Shoukaku or Akagi as secretary, scrap 3 Type 97 Torpedo Bomber.</TR-Detail>
   </Quest>
   <Quest>
     <ID>624</ID>
     <JP-Name>試作艤装の準備</JP-Name>
     <TR-Name>F21: Prototype Flight Deck Outfitting Preparations</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを7つ「廃棄」して、「試製甲板カタパルト」を準備します。</JP-Detail>
-    <TR-Detail>Scrap 7 pieces of equipment.</TR-Detail>
+    <TR-Detail>Scrap equipment 7 times.</TR-Detail>
   </Quest>
   <Quest>
     <ID>625</ID>
     <JP-Name>試製航空艤装の追加試作</JP-Name>
     <TR-Name>F23: Additional Prototype Deck Outfitting</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを9つ「廃棄」して、「試製甲板カタパルト」を追加試作します。</JP-Detail>
-    <TR-Detail>Scrap 9 pieces of equipment.</TR-Detail>
+    <TR-Detail>Scrap equipment 9 times.</TR-Detail>
   </Quest>
   <Quest>
     <ID>626</ID>
     <JP-Name>精鋭「艦戦」隊の新編成</JP-Name>
-    <TR-Name>F22: Reorganisation of the Fighter Forces</TR-Name>
+    <TR-Name>Reorganisation of the Fighter Forces</TR-Name>
     <JP-Detail>要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！</JP-Detail>
-    <TR-Detail>With Houshou (鳳翔) as the secretary equipped with a Zero Fighter Model 21 (零式艦戦21型) at maximum skill level, scrap two Zero Fighter Model 21 (零式艦戦21型) and a Type 96 Fighter (九六式艦戦). A Skilled Pilot (熟練搭乗員) must be present in your inventory; it will be consumed.</TR-Detail>
+    <TR-Detail>F22: Equip a Lv.7 Zero Fighter Model 21 on Houshou as secretary, then scrap 2 Zero Fighter Model 21 and a Type 96 Fighter. A Skilled Pilot (熟練搭乗員) must be present in your inventory; it will be consumed. The Lv.7 Zero Fighter Model 21 must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>627</ID>
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Zero Fighter Model 21 (Skilled) (零式艦戦21型(熟練)) as your secretary, scrap two Zero Fighter Model 52 (零式艦戦52型).</TR-Detail>
+    <TR-Detail>F24: Equip Zero Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Zero Fighter Model 52. The Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>628</ID>
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>練度max「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Zero Fighter Model 21 (Skilled) (零式艦戦21型(熟練)) at maximum skill level as your secretary, scrap two Zero Fighter Model 52 (零式艦戦52型).</TR-Detail>
+    <TR-Detail>F25: Equip Lv.7 Zero Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Zero Fighter Model 52. The Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>629</ID>
     <JP-Name>「艦戦」隊の再編成</JP-Name>
-    <TR-Name>F26: Reorganisation of the Fighter Forces</TR-Name>
+    <TR-Name>Reorganisation of the Fighter Forces</TR-Name>
     <JP-Detail>練度max「零戦52型(熟練)」搭載「瑞鶴」秘書艦で「零戦52型丙(六〇一空)」を廃棄！</JP-Detail>
-    <TR-Detail>With Zuikaku equipped with Zero Fighter Model 52 (Skilled) (零式艦戦52型(熟練)) at maximum skill level as your secretary, scrap a Zero Fighter Model 52C (601 Air Group) (零戦52型丙(六〇一空)).</TR-Detail>
+    <TR-Detail>F26: Equip Lv.7 Zero Fighter Model 52 (Skilled) on Zuikaku as secretary, then scrap a Zero Fighter Model 52C (601 Air Group). The Zero Fighter Model 52 (Skilled) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>630</ID>
     <JP-Name>「艦戦」隊の再編成</JP-Name>
-    <TR-Name>F28: Reorganisation of the Fighter Forces</TR-Name>
+    <TR-Name>Reorganisation of the Fighter Forces</TR-Name>
     <JP-Detail>練度max「零戦21型(熟練)」搭載「瑞鶴」が秘書の状態で、「零戦21型」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With Zuikaku equipped with Zero Fighter Model 21 (Skilled) (零式艦戦21型(熟練)) at maximum skill level as your secretary, scrap two Zero Fighter Model 21 (零式艦戦21型).</TR-Detail>
+    <TR-Detail>F28: Equip Lv.7 Zero Fighter Model 21 (Skilled) on Zuikaku as secretary, then scrap 2 Zero Fighter Model 21. The Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>631</ID>
     <JP-Name>機種転換＆部隊再編</JP-Name>
     <TR-Name>Model Conversion and Force Reorganisation</TR-Name>
     <JP-Detail>練度max「零戦52型丙(付岩井小隊)」搭載「瑞鶴」秘書艦で、「零戦62型(爆戦)」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With Zuikaku equipped with Zero Fighter Model 52C (w/ Iwai Flight) (零戦52型丙(付岩井小隊)) at maximum skill level as your secretary, scrap two Zero Fighter-bomber Model 62 (零式艦戦62型(爆戦)).</TR-Detail>
+    <TR-Detail>F27: Equip Lv.7 Zero Fighter Model 52C (w/ Iwai Flight) on Zuikaku as secretary, then scrap 2 Zero Fighter-bomber Model 62. The Zero Fighter Model 52C (w/ Iwai Flight) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>632</ID>
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>練度max「零戦21型(付岩本小隊)」搭載「瑞鶴」秘書艦で、「零戦52型」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With Zuikaku equipped with Zero Fighter Model 21 (w/ Iwamoto Flight) (零戦21型(付岩本小隊)) at maximum skill level as your secretary, scrap two Zero Fighter Model 52 (零式艦戦52型).</TR-Detail>
+    <TR-Detail>F29: Equip Lv.7 Zero Fighter Model 21 (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Zero Fighter Model 52. The Zero Fighter Model 21 (w/ Iwamoto Flight) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>633</ID>
     <JP-Name>機種転換＆部隊再編</JP-Name>
     <TR-Name>Model Conversion and Force Reorganisation</TR-Name>
     <JP-Detail>部隊を再編する！練度max「零戦52型甲(付岩本小隊)」搭載「瑞鶴」秘書艦で、「彩雲」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With Zuikaku equipped with Zero Fighter Model 52A (w/ Iwamoto Flight) (零戦52型甲(付岩本小隊)) at maximum skill level as your secretary, scrap two Saiun (彩雲).</TR-Detail>
+    <TR-Detail>F30: Equip Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Saiun. The Zero Fighter Model 52A (w/ Iwamoto Flight) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
