@@ -668,4 +668,24 @@
     <JP-Name>深海東洋艦隊 機動部隊旗艦</JP-Name>
     <TR-Name>E2-K</TR-Name>
   </Sortie>
+  <Map>
+    <JP-Name>ショートランド泊地沖</JP-Name>
+    <TR-Name>Fall 2015 E1</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>コロネハイカラ島沖</JP-Name>
+    <TR-Name>Fall 2015 E2</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>コロネハイカラ島東方沖</JP-Name>
+    <TR-Name>Fall 2015 E3</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>西方海域戦線 ステビア海</JP-Name>
+    <TR-Name>Fall 2015 E4</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>バニラ湾沖</JP-Name>
+    <TR-Name>Fall 2015 E5</TR-Name>
+  </Map>
 </Operations>

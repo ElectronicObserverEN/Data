@@ -628,6 +628,18 @@
 	<JP-Name>零式艦戦53型(岩本隊)</JP-Name>
 	<TR-Name>Zero Fighter Model 53 (Iwamoto Squadron)</TR-Name>
   </Item>
+  <Item>
+	<JP-Name>Bf109T改</JP-Name>
+	<TR-Name>Bf 109T Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Fw190T改</JP-Name>
+	<TR-Name>Fw 190T Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>10.5cm連装砲</JP-Name>
+	<TR-Name>10.5cm Twin Gun Mount</TR-Name>
+  </Item>
   
   
   
@@ -877,5 +889,9 @@
   <Item>
 	<JP-Name>深海FCS+CIC</JP-Name>
 	<TR-Name>Abyssal FCS + CIC</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海探照灯</JP-Name>
+	<TR-Name>Abyssal Searchlight</TR-Name>
   </Item>
 </Equipment>
