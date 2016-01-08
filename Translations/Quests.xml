@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.24">
+<Quests Version="1.1.25">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -447,6 +447,27 @@
     <TR-Name>A62: Organise the New Carrier Fleet</TR-Name>
     <JP-Detail>改二改装を終えた翔鶴型航空母艦2隻と同護衛艦による新航空戦隊を新編成せよ！</JP-Detail>
     <TR-Detail>Have Shoukaku Kai2 (翔鶴改二) and Zuikaku Kai2 (瑞鶴改) along with 2 destroyers as their escort in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>168</ID>
+    <JP-Name>「第十六戦隊(第二次)」を編成せよ！</JP-Name>
+    <TR-Name>A63: Organise the 16th Squadron (2nd Gen.)</TR-Name>
+    <JP-Detail>「名取」を旗艦として「五十鈴」「鬼怒」を擁する、第十六戦隊(第二次)を編成せよ！</JP-Detail>
+    <TR-Detail>Have Natori (名取) as the flagship, Isuzu (五十鈴) and Kinu (鬼怒) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>169</ID>
+    <JP-Name>「新編成航空戦隊」を編成せよ！</JP-Name>
+    <TR-Name>A64: Organize the New Carrier Division</TR-Name>
+    <JP-Detail>空母2隻+航空戦艦/航空巡洋艦2隻+駆逐艦2隻の新航空戦隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have 2 fleet carriers, 2 aviation battleships or aviation cruisers and 2 destroyers in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>170</ID>
+    <JP-Name>精強な「水上反撃部隊」を再編成せよ！</JP-Name>
+    <TR-Name>A65: Strengthen the Surface Counterattack Fleet</TR-Name>
+    <JP-Detail>駆逐艦「霞」旗艦、「足柄」「大淀」「朝霜」「清霜」他の水上反撃部隊を再編成せよ！</JP-Detail>
+    <TR-Detail>Have Kasumi (霞) as the flagship, Ashigara (足柄), Ooyodo (大淀), Asashimo (朝霜) and Kiyoshimo (清霜) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>201</ID>
@@ -1037,6 +1058,41 @@
     <TR-Detail>Sortie Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou Kai (瑞鳳改), Chitose (千歳) and Chiyoda (千代田), and aviation battleships Ise Kai (伊勢改) and Hyuuga Kai (伊勢改) to World 2-4 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>295</ID>
+    <JP-Name>「第十六戦隊(第二次)」出撃せよ！</JP-Name>
+    <TR-Name>B55: Sortie the 16th Squadron (2nd Gen.)</TR-Name>
+    <JP-Detail>「第十六戦隊(第二次)」をオリョール海に展開、敵主力艦隊を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Natori (名取) as the flagship, Isuzu (五十鈴), Kinu (鬼怒) and up to 3 additional ships to World 2-3 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>296</ID>
+    <JP-Name>新編成航空戦隊、北方へ進出せよ！</JP-Name>
+    <TR-Name>B56: Sortie the New Carrier Division to the North</TR-Name>
+    <JP-Detail>「新編成航空戦隊」をアルフォンシーノ方面へ進出、敵泊地の機動部隊を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie 2 fleet carriers, 2 aviation battleships or aviation cruisers and 2 destroyers to World 3-3 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>297</ID>
+    <JP-Name>「礼号作戦」実施せよ！</JP-Name>
+    <TR-Name>B57: Operation Rei-go</TR-Name>
+    <JP-Detail>精強な「水上反撃部隊」で、南西諸島沖ノ島沖に突入！同海域の敵戦力を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Kasumi (霞) as the flagship, Ashigara (足柄), Ooyodo (大淀), Asashimo (朝霜) and Kiyoshimo (清霜) (you may add another ship) to World 2-5 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>298</ID>
+    <JP-Name>師走の「間宮」のお手伝い</JP-Name>
+    <TR-Name>Help Mamiya</TR-Name>
+    <JP-Detail>提督お手伝いすみません…「お飾り材料」を16個集めて頂けないでしょうか？</JP-Detail>
+    <TR-Detail>Have 16 decoration materials in your inventory.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>299</ID>
+    <JP-Name>年越し準備！師走の「間宮」のお手伝い</JP-Name>
+    <TR-Name>Preparation for New Year's Eve! Help Mamiya</TR-Name>
+    <JP-Detail>提督…もしよかったら…「お飾り材料」32個使って、お飾りを一緒に作りませんか？</JP-Detail>
+    <TR-Detail>Have 32 decoration materials in your inventory.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>301</ID>
     <JP-Name>はじめての「演習」！</JP-Name>
     <TR-Name>C1: Your First Exercise</TR-Name>
@@ -1504,5 +1560,33 @@
     <TR-Name>G4: Preparation for LSC (Part 1)</TR-Name>
     <JP-Detail>大型艦/新型艦建造のための準備を行う。任意の艦で近代化改修を4回成功させよ！</JP-Detail>
     <TR-Detail>Perform 4 successful modernizations.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>801</ID>
+    <JP-Name>謹賀新年！「水雷戦隊」出撃始め！</JP-Name>
+    <TR-Name>Happy New Year! Sortie a Torpedo Squadron</TR-Name>
+    <JP-Detail>水雷戦隊を製油所地帯沿岸に展開！同海域の敵艦隊を撃滅、新年の暁に勝利を刻むのです！</JP-Detail>
+    <TR-Detail>Sortie 1 CL and 3-5 DD to World 1-3 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>802</ID>
+    <JP-Name>新年の「伊良湖」のお手伝い！</JP-Name>
+    <TR-Name>Help Irako during New Year</TR-Name>
+    <JP-Detail>大丈夫、新年は収集任務じゃないんです！東部オリョール海の敵艦隊を三回撃滅してください！</JP-Detail>
+    <TR-Detail>Sortie a fleet to World 2-3 and score an S rank victory at the boss node 3 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>803</ID>
+    <JP-Name>漲る戦艦魂！大艦巨砲なお正月！</JP-Name>
+    <TR-Name>The burning soul of a battleship! A New Year with big ships and huge guns</TR-Name>
+    <JP-Detail>戦艦4隻を基幹戦力とする艦隊をカレー洋へ展開！敵艦隊を反復撃滅し、同海域を制圧せよ！</JP-Detail>
+    <TR-Detail>Sortie 4 BB/FBB/BBV to World 4-2 (you may add 2 more ships) and score an S rank victory at the boss node 2 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>804</ID>
+    <JP-Name>迎春！「機動部隊」抜錨せよ！</JP-Name>
+    <TR-Name>Happy New Year! Sortie a Carrier Task Force</TR-Name>
+    <JP-Detail>空母2隻を基幹戦力とする機動部隊をMS諸島沖に展開、来襲する敵攻略部隊を反復撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie 2 CV/CVB/CVL and up to 4 additional ships to World 6-2 and score an S rank victory at the boss node 2 times.</TR-Detail>
   </Quest>
 </Quests>
