@@ -944,6 +944,10 @@
 	<TR-Name>Libeccio</TR-Name>
   </Ship>
   <Ship>
+    <JP-Name>Graf Zeppelin</JP-Name>
+    <TR-Name>Graf Zeppelin</TR-Name>
+  </Ship>
+  <Ship>
     <JP-Name>駆逐イ級</JP-Name>
     <TR-Name>DD I-Class</TR-Name>
   </Ship>
@@ -1122,6 +1126,22 @@
   <Ship>
 	<JP-Name>防空棲姫</JP-Name>
 	<TR-Name>Air Defence Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>PT小鬼群</JP-Name>
+    <TR-Name>PT Imps</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>軽巡棲姫</JP-Name>
+    <TR-Name>CL Princess</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>潜水棲姫</JP-Name>
+	<TR-Name>SS Princess</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>駆逐水鬼</JP-Name>
+	<TR-Name>DD Water Princess</TR-Name>
   </Ship>
   <Ship mode="suffix">
 	<JP-Name>改</JP-Name>
