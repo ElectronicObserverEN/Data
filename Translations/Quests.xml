@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.25">
+<Quests Version="1.1.26">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1412,21 +1412,24 @@
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「九七式艦攻(友永隊)」搭載空母を秘書艦にした状態で新たに「天山」を2つ廃棄！</JP-Detail>
-    <TR-Detail>F13: Equip a Type 97 Torpedo Bomber (Tomonaga Squadron) on a Carrier secretary, then scrap 2 Tenzan. The Type 97 Torpedo Bomber (Murata Squadron) must not be locked.</TR-Detail>
+    <TR-Detail>F13: Equip a Type 97 Torpedo Bomber (Tomonaga Squadron) on a Carrier secretary, then scrap 2 Tenzan.
+The Type 97 Torpedo Bomber (Murata Squadron) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>615</ID>
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「九九式艦爆(江草隊)」搭載空母を秘書艦にした状態で新たに「彗星」を2つ廃棄！</JP-Detail>
-    <TR-Detail>F14: Equip a Type 99 Dive Bomber (Egusa Squadron) on a Carrier secretary, then scrap 2 Suisei. The Type 99 Dive Bomber (Egusa Squadron) must not be locked.</TR-Detail>
+    <TR-Detail>F14: Equip a Type 99 Dive Bomber (Egusa Squadron) on a Carrier secretary, then scrap 2 Suisei.
+The Type 99 Dive Bomber (Egusa Squadron) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>616</ID>
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「零戦52型丙(六〇一空)」搭載空母を秘書艦にした状態で新たに「烈風」を2つ廃棄！</JP-Detail>
-    <TR-Detail>F15: Equip a Zero Fighter Model 52C (601 Air Group) on a Carrier secretary, then scrap 2 Reppuu. The Zero Fighter Model 52C (601 Air Group) must not be locked.</TR-Detail>
+    <TR-Detail>F15: Equip a Zero Fighter Model 52C (601 Air Group) on a Carrier secretary, then scrap 2 Reppuu.
+The Zero Fighter Model 52C (601 Air Group) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>617</ID>
@@ -1454,7 +1457,8 @@
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！</JP-Detail>
-    <TR-Detail>F19: Equip a Type 97 Torpedo Bomber (Murata Squadron) on Shoukaku as secretary, then scrap 2 Tenzan. The Type 97 Torpedo Bomber (Murata Squadron) must not be locked.</TR-Detail>
+    <TR-Detail>F19: Equip a Type 97 Torpedo Bomber (Murata Squadron) on Shoukaku as secretary, then scrap 2 Tenzan.
+The Type 97 Torpedo Bomber (Murata Squadron) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>623</ID>
@@ -1482,56 +1486,64 @@
     <JP-Name>精鋭「艦戦」隊の新編成</JP-Name>
     <TR-Name>Reorganisation of the Fighter Forces</TR-Name>
     <JP-Detail>要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！</JP-Detail>
-    <TR-Detail>F22: Equip a Lv.7 Zero Fighter Model 21 on Houshou as secretary, then scrap 2 Zero Fighter Model 21 and a Type 96 Fighter. A Skilled Pilot (熟練搭乗員) must be present in your inventory; it will be consumed. The Lv.7 Zero Fighter Model 21 must not be locked.</TR-Detail>
+    <TR-Detail>F22: Equip a Lv.7 Zero Fighter Model 21 on Houshou as secretary, then scrap 2 Zero Fighter Model 21 and a Type 96 Fighter.
+A Skilled Pilot (熟練搭乗員) must be present in your inventory; it will be consumed. The Lv.7 Zero Fighter Model 21 must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>627</ID>
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！</JP-Detail>
-    <TR-Detail>F24: Equip Zero Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Zero Fighter Model 52. The Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
+    <TR-Detail>F24: Equip Zero Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Zero Fighter Model 52.
+The Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>628</ID>
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>練度max「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！</JP-Detail>
-    <TR-Detail>F25: Equip Lv.7 Zero Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Zero Fighter Model 52. The Lv.7 Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
+    <TR-Detail>F25: Equip Lv.7 Zero Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Zero Fighter Model 52.
+The Lv.7 Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>629</ID>
     <JP-Name>「艦戦」隊の再編成</JP-Name>
     <TR-Name>Reorganisation of the Fighter Forces</TR-Name>
     <JP-Detail>練度max「零戦52型(熟練)」搭載「瑞鶴」秘書艦で「零戦52型丙(六〇一空)」を廃棄！</JP-Detail>
-    <TR-Detail>F26: Equip Lv.7 Zero Fighter Model 52 (Skilled) on Zuikaku as secretary, then scrap a Zero Fighter Model 52C (601 Air Group). The Lv.7 Zero Fighter Model 52 (Skilled) must not be locked.</TR-Detail>
+    <TR-Detail>F26: Equip Lv.7 Zero Fighter Model 52 (Skilled) on Zuikaku as secretary, then scrap a Zero Fighter Model 52C (601 Air Group).
+The Lv.7 Zero Fighter Model 52 (Skilled) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>630</ID>
     <JP-Name>「艦戦」隊の再編成</JP-Name>
     <TR-Name>Reorganisation of the Fighter Forces</TR-Name>
     <JP-Detail>練度max「零戦21型(熟練)」搭載「瑞鶴」が秘書の状態で、「零戦21型」を2つ廃棄！</JP-Detail>
-    <TR-Detail>F28: Equip Lv.7 Zero Fighter Model 21 (Skilled) on Zuikaku as secretary, then scrap 2 Zero Fighter Model 21. The Lv.7 Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
+    <TR-Detail>F28: Equip Lv.7 Zero Fighter Model 21 (Skilled) on Zuikaku as secretary, then scrap 2 Zero Fighter Model 21.
+The Lv.7 Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>631</ID>
     <JP-Name>機種転換＆部隊再編</JP-Name>
     <TR-Name>Model Conversion and Force Reorganisation</TR-Name>
     <JP-Detail>練度max「零戦52型丙(付岩井小隊)」搭載「瑞鶴」秘書艦で、「零戦62型(爆戦)」を2つ廃棄！</JP-Detail>
-    <TR-Detail>F27: Equip Lv.7 Zero Fighter Model 52C (w/ Iwai Flight) on Zuikaku as secretary, then scrap 2 Zero Fighter-bomber Model 62. The Lv.7 Zero Fighter Model 52C (w/ Iwai Flight) must not be locked.</TR-Detail>
+    <TR-Detail>F27: Equip Lv.7 Zero Fighter Model 52C (w/ Iwai Flight) on Zuikaku as secretary, then scrap 2 Zero Fighter-bomber Model 62.
+The Lv.7 Zero Fighter Model 52C (w/ Iwai Flight) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>632</ID>
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>練度max「零戦21型(付岩本小隊)」搭載「瑞鶴」秘書艦で、「零戦52型」を2つ廃棄！</JP-Detail>
-    <TR-Detail>F29: Equip Lv.7 Zero Fighter Model 21 (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Zero Fighter Model 52. The Lv.7 Zero Fighter Model 21 (w/ Iwamoto Flight) must not be locked.</TR-Detail>
+    <TR-Detail>F29: Equip Lv.7 Zero Fighter Model 21 (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Zero Fighter Model 52.
+The Lv.7 Zero Fighter Model 21 (w/ Iwamoto Flight) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>633</ID>
     <JP-Name>機種転換＆部隊再編</JP-Name>
     <TR-Name>Model Conversion and Force Reorganisation</TR-Name>
     <JP-Detail>部隊を再編する！練度max「零戦52型甲(付岩本小隊)」搭載「瑞鶴」秘書艦で、「彩雲」を2つ廃棄！</JP-Detail>
-    <TR-Detail>F30: Equip Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Saiun. The Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) must not be locked.</TR-Detail>
+    <TR-Detail>F30: Equip Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Saiun.
+The Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
@@ -1588,5 +1600,19 @@
     <TR-Name>Happy New Year! Sortie a Carrier Task Force</TR-Name>
     <JP-Detail>空母2隻を基幹戦力とする機動部隊をMS諸島沖に展開、来襲する敵攻略部隊を反復撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie 2 CV/CVB/CVL and up to 4 additional ships to World 6-2 and score an S rank victory at the boss node 2 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>805</ID>
+    <JP-Name>旗艦「霞」北方海域を哨戒せよ！</JP-Name>
+    <TR-Name>B58: Send Kasumi to Patrol the Northern Sea</TR-Name>
+    <JP-Detail>旗艦「霞改二」で駆逐艦4隻を含む艦隊を北方海域に投入し、モーレイ海哨戒を実施せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Kasumi Kai2 (霞改二) as flagship, 3 DD and up to 2 additional ships to World 3-1 and score a victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>806</ID>
+    <JP-Name>旗艦「霞」出撃！敵艦隊を撃滅せよ！</JP-Name>
+    <TR-Name>B59: Sortie Kasumi and Defeat the Enemy Fleet</TR-Name>
+    <JP-Detail>旗艦「霞改二」で駆逐艦3隻を含む艦隊で南西諸島沖ノ島沖に突入！敵主力を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Kasumi Kai2 (霞改二) as flagship, 2 DD and up to 3 additional ships to World 2-5 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
 </Quests>
