@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.4.1">
+<Ships Version="1.4.2">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -948,6 +948,18 @@
     <TR-Name>Graf Zeppelin</TR-Name>
   </Ship>
   <Ship>
+    <JP-Name>Zara</JP-Name>
+    <TR-Name>Zara</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Pola</JP-Name>
+    <TR-Name>Pola</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Iowa</JP-Name>
+    <TR-Name>Iowa</TR-Name>
+  </Ship>
+  <Ship>
     <JP-Name>駆逐イ級</JP-Name>
     <TR-Name>DD I-Class</TR-Name>
   </Ship>
@@ -1143,6 +1155,22 @@
 	<JP-Name>駆逐水鬼</JP-Name>
 	<TR-Name>DD Water Princess</TR-Name>
   </Ship>
+  <Ship>
+	<JP-Name>集積地棲姫</JP-Name>
+	<TR-Name>Supply Depot Princess</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>重巡棲姫</JP-Name>
+	<TR-Name>CA Princess</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>砲台小鬼</JP-Name>
+	<TR-Name>Artillery Imp</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>離島棲姫</JP-Name>
+	<TR-Name>Isolated Island Princess</TR-Name>
+  </Ship>
   <Ship mode="suffix">
 	<JP-Name>改</JP-Name>
     <TR-Name> Kai</TR-Name>
@@ -1206,5 +1234,9 @@
   <Ship mode="suffix">
 	<JP-Name>後期型</JP-Name>
 	<TR-Name> (Late Type)</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
+	<JP-Name>-壊</JP-Name>
+	<TR-Name> - Damaged</TR-Name>
   </Ship>
 </Ships>

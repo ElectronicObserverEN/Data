@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.2">
+<Equipment Version="1.3.3">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -644,6 +644,30 @@
 	<JP-Name>16inch三連装砲 Mk.7</JP-Name>
 	<TR-Name>16inch Triple Gun Mount Mk.7</TR-Name>
   </Item>
+  <Item>
+	<JP-Name>203mm/53 連装砲</JP-Name>
+	<TR-Name>203mm/53 Twin Gun Mount</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Ro.43水偵</JP-Name>
+	<TR-Name>Ro.43 Reconnaissance Seaplane</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Ro.44水上戦闘機</JP-Name>
+	<TR-Name>Ro.44 Seaplane Fighter</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>二式水戦改</JP-Name>
+	<TR-Name>Type 2 Seaplane Fighter Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>大発動艇(八九式中戦車&amp;陸戦隊)</JP-Name>
+	<TR-Name>Daihatsu Landing Craft (Type 89 Medium Tank + Landing Force)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>特二式内火艇</JP-Name>
+	<TR-Name>Special Type 2 Amphibious Landing Craft</TR-Name>
+  </Item>
   
   
   
@@ -897,5 +921,33 @@
   <Item>
 	<JP-Name>深海探照灯</JP-Name>
 	<TR-Name>Abyssal Searchlight</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海解放陸爆</JP-Name>
+	<TR-Name>Abyssal Liberation Land-based Dive Bomber</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海解放陸爆Ace</JP-Name>
+	<TR-Name>Abyssal Liberation Land-based Dive Bomber Ace</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>8inch長射程連装砲</JP-Name>
+	<TR-Name>8inch Long Range Twin Gun Mount</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海水上偵察観測機</JP-Name>
+	<TR-Name>Abyssal Reconnaissance Observation Seaplane</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>5inch沿岸設置砲</JP-Name>
+	<TR-Name>5inch Coastal Gun</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海猫艦戦(爆装)</JP-Name>
+	<TR-Name>Abyssal Cat Fighter (Bombing)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>沿岸設置レーダー</JP-Name>
+	<TR-Name>Coastal Radar</TR-Name>
   </Item>
 </Equipment>

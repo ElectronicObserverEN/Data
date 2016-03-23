@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<EquipmentTypes Version="1.1">
+<EquipmentTypes Version="1.2">
 	<Type>
 		<JP-Name>小口径主砲</JP-Name>
 		<TR-Name>Small-caliber Gun</TR-Name>
@@ -167,5 +167,13 @@
 	<Type>
 		<JP-Name>補給物資</JP-Name>
 		<TR-Name>Supplies</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>水上戦闘機</JP-Name>
+		<TR-Name>Seaplane Fighter</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>特型内火艇</JP-Name>
+		<TR-Name>Amphibious Landing Craft</TR-Name>
 	</Type>
 </EquipmentTypes>

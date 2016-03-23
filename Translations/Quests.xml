@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.26">
+<Quests Version="1.1.27">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -470,6 +470,20 @@
     <TR-Detail>Have Kasumi (霞) as the flagship, Ashigara (足柄), Ooyodo (大淀), Asashimo (朝霜) and Kiyoshimo (清霜) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>171</ID>
+    <JP-Name>「第三十一戦隊(第一次)」を編成せよ！</JP-Name>
+    <TR-Name>A66: Organise the 31st Squadron (1st Gen.)</TR-Name>
+    <JP-Detail>「五十鈴改二」旗艦、「皐月改二」「卯月改」を含む、対潜機動水上部隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Isuzu Kai2 (五十鈴改二) as the flagship, Satsuki Kai2 (皐月改二) and Uzuki Kai (卯月改) in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>172</ID>
+    <JP-Name>「第二七駆逐隊」を編成せよ！</JP-Name>
+    <TR-Name>A67: Organize the 27th Destroyer Division</TR-Name>
+    <JP-Detail>「白露改」旗艦、「時雨」「春雨」「五月雨」4隻による第二七駆逐隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have ONLY Shiratsuyu Kai (as flagship), Shigure, Harusame and Samidare in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>201</ID>
     <JP-Name>敵艦隊を撃破せよ！</JP-Name>
     <TR-Name>Bd1: Defeat an Enemy Fleet</TR-Name>
@@ -698,7 +712,7 @@
     <JP-Name>「第六戦隊」出撃せよ！</JP-Name>
     <TR-Name>B19: Sortie the 6th Cruiser Division</TR-Name>
     <JP-Detail>編成した「第六戦隊」をもって出撃し、オリョール海の敵を撃滅「完全勝利」せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Furutaka (古鷹), Kako (加古), Kinugasa (衣笠), Aoba (青葉) and 2 additional ships. Score a S rank victory against World 2-3 Boss.</TR-Detail>
+    <TR-Detail>Sortie a fleet with Furutaka (古鷹), Kako (加古), Kinugasa (衣笠), Aoba (青葉) and 2 additional ships. Score an S rank victory against World 2-3 Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>239</ID>
@@ -1093,6 +1107,20 @@
     <TR-Detail>Have 32 decoration materials in your inventory.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>234</ID>
+    <JP-Name>水上反撃作戦【礼号作戦】を完遂せよ！</JP-Name>
+    <TR-Name>Complete Operation Rei-go</TR-Name>
+    <JP-Detail>カンパン湾より突入部隊を出撃させ、水上反撃作戦【礼号作戦】を完遂せよ！</JP-Detail>
+    <TR-Detail>Clear E-2.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>421</ID>
+    <JP-Name>親善艦参加観艦式を実施せよ！</JP-Name>
+    <TR-Name>Have Friendly Ship Participate in Naval Review</TR-Name>
+    <JP-Detail>期間限定海域において、海外からの親善艦を招いて特別観艦式を実施せよ！</JP-Detail>
+    <TR-Detail>Send six ships (flagship level 6+, summary level 15+) and complete expedition 175 (親善艦参加観艦式).</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>301</ID>
     <JP-Name>はじめての「演習」！</JP-Name>
     <TR-Name>C1: Your First Exercise</TR-Name>
@@ -1286,7 +1314,7 @@
     <JP-Name>機動部隊の運用を強化せよ！</JP-Name>
     <TR-Name>D19: Strengthen the Carrier Task Force Operations</TR-Name>
     <JP-Detail>機動部隊遠征を実施、「MO作戦」及び「敵母港空襲作戦」を展開、これを成功させよ！</JP-Detail>
-    <TR-Detail>Complete expeditions 26 (MO作戦) and 35 (敵母港空襲作戦).</TR-Detail>
+    <TR-Detail>Complete expeditions 26 (敵母港空襲作戦) and 35 (MO作戦).</TR-Detail>
   </Quest>
   <Quest>
     <ID>501</ID>
@@ -1486,7 +1514,7 @@ The Type 97 Torpedo Bomber (Murata Squadron) must not be locked.</TR-Detail>
     <JP-Name>精鋭「艦戦」隊の新編成</JP-Name>
     <TR-Name>Reorganisation of the Fighter Forces</TR-Name>
     <JP-Detail>要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！</JP-Detail>
-    <TR-Detail>F22: Equip a Lv.7 Zero Fighter Model 21 on Houshou as secretary, then scrap 2 Zero Fighter Model 21 and a Type 96 Fighter.
+    <TR-Detail>F22m1: Equip a Lv.7 Zero Fighter Model 21 on Houshou as secretary, then scrap 2 Zero Fighter Model 21 and a Type 96 Fighter.
 A Skilled Pilot (熟練搭乗員) must be present in your inventory; it will be consumed. The Lv.7 Zero Fighter Model 21 must not be locked.</TR-Detail>
   </Quest>
   <Quest>
@@ -1502,7 +1530,7 @@ The Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
     <JP-Name>機種転換</JP-Name>
     <TR-Name>Model Conversion</TR-Name>
     <JP-Detail>練度max「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！</JP-Detail>
-    <TR-Detail>F25: Equip Lv.7 Zero Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Zero Fighter Model 52.
+    <TR-Detail>F25m2: Equip Lv.7 Zero Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Zero Fighter Model 52.
 The Lv.7 Zero Fighter Model 21 (Skilled) must not be locked.</TR-Detail>
   </Quest>
   <Quest>
@@ -1614,5 +1642,26 @@ The Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) must not be locked.</TR-Deta
     <TR-Name>B59: Sortie Kasumi and Defeat the Enemy Fleet</TR-Name>
     <JP-Detail>旗艦「霞改二」で駆逐艦3隻を含む艦隊で南西諸島沖ノ島沖に突入！敵主力を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with Kasumi Kai2 (霞改二) as flagship, 2 DD and up to 3 additional ships to World 2-5 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>807</ID>
+    <JP-Name>「第三十一戦隊」出撃せよ！</JP-Name>
+    <TR-Name>B60: Deploy the 31st Squadron (1st Gen.)</TR-Name>
+    <JP-Detail>第三十一戦隊(第一次)を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Isuzu Kai2 (五十鈴改二) as flagship, Satsuki Kai2 (皐月改二) and Uzuki Kai (卯月改) and up to 3 additional ships to World 1-6 and complete the map.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>808</ID>
+    <JP-Name>「第二七駆逐隊」出撃せよ！</JP-Name>
+    <TR-Name>B61: Sortie the 27th Destroyer Division</TR-Name>
+    <JP-Detail>「白露改」旗艦の第二七戦隊を含む艦隊をオリョール海に展開、同海域の敵艦隊を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Shiratsuyu Kai as flagship, Shigure, Harusame and Samidare and up to 2 additional ships and score an S rank victory against World 2-3 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>809</ID>
+    <JP-Name>強襲上陸作戦用戦力を増強せよ！</JP-Name>
+    <TR-Name>B62: Bolster the Capability for Amphibious Assault Operations!</TR-Name>
+    <JP-Detail>中部海域における航空偵察「K作戦」を実施しつつ、強襲上陸作戦用戦力の強化を図れ！</JP-Detail>
+    <TR-Detail>Score a victory against World 6-3 Boss.</TR-Detail>
   </Quest>
 </Quests>
