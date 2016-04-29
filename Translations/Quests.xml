@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.28">
+<Quests Version="1.1.29">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -482,6 +482,13 @@
     <TR-Name>A67: Organize the 27th Destroyer Division</TR-Name>
     <JP-Detail>「白露改」旗艦、「時雨」「春雨」「五月雨」4隻による第二七駆逐隊を編成せよ！</JP-Detail>
     <TR-Detail>Have ONLY Shiratsuyu Kai (as flagship), Shigure, Harusame and Samidare in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>173</ID>
+    <JP-Name>強行高速輸送部隊を編成せよ！</JP-Name>
+    <TR-Name>A68: Organize the High-speed Transport Fleet</TR-Name>
+    <JP-Detail>「川内改二」旗艦、「江風改二」「時雨改二」他駆逐2隻による水雷戦隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Sendai Kai2 as flagship, Kawakaze Kai2, Shigure Kai2, and two other destroyers in your fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>201</ID>
@@ -1177,11 +1184,25 @@
     <TR-Detail>Get 4 victories in exercises within the same day.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>310</ID>
+    <JP-Name>FS作戦に備え、艦隊練度向上に努めよ！</JP-Name>
+    <TR-Name>Prepare for Operation FS</TR-Name>
+    <JP-Detail>FS作戦に備え、艦隊練度向上を図る！本日中に「演習」で4回以上「勝利」せよ！</JP-Detail>
+    <TR-Detail>Get 4 victories in exercises within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>311</ID>
     <JP-Name>精鋭艦隊演習</JP-Name>
-    <TR-Name>C8m: Exercises for the Elite</TR-Name>
+    <TR-Name>C8m: Elite Fleet Exercises</TR-Name>
     <JP-Detail>同日中に「演習」で7回以上「勝利」をおさめ、我が精鋭艦隊の練度を示そう！</JP-Detail>
     <TR-Detail>Get 7 victories in exercises within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>312</ID>
+    <JP-Name>上陸部隊演習</JP-Name>
+    <TR-Name>C9: Landing Force Exercises</TR-Name>
+    <JP-Detail>島嶼攻略部隊の練度向上のため、本日中に演習で4回以上「勝利」せよ！</JP-Detail>
+    <TR-Detail>Get 4 victories in exercises within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>401</ID>
@@ -1581,6 +1602,20 @@ The Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) must not be locked.</TR-Deta
     <TR-Detail>Scrap equipment 9 times.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>635</ID>
+    <JP-Name>新装備の準備</JP-Name>
+    <TR-Name>F32: Preparations for the New Equipment</TR-Name>
+    <JP-Detail>「工廠」で装備アイテムを5つ「廃棄」して、新装備配備の準備をします。</JP-Detail>
+    <TR-Detail>Scrap equipment 5 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>636</ID>
+    <JP-Name>上陸戦用新装備の調達</JP-Name>
+    <TR-Name>F33: Supply for the Landing Operation</TR-Name>
+    <JP-Detail>「工廠」で「7.7mm機銃」及び「12.7mm単装機銃」を二つずつ廃棄！</JP-Detail>
+    <TR-Detail>Scrap two 7.7mm Machine Gun and two 12.7mm Single Machine Gun Mount</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>701</ID>
     <JP-Name>はじめての「近代化改修」！</JP-Name>
     <TR-Name>G1: First Modernization</TR-Name>
@@ -1698,5 +1733,26 @@ The Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) must not be locked.</TR-Deta
     <TR-Name>B66: Flagship Ooshio, Sortie!</TR-Name>
     <JP-Detail>「大潮改二」旗艦の有力な艦隊を北方AL海域に展開、北方海域戦闘哨戒を実施せよ！</JP-Detail>
     <TR-Detail>Sortie fleet with Ooshio Kai2 as flagship and score an S rank victory against World 3-5 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>814</ID>
+    <JP-Name>強行高速輸送部隊、出撃せよ！</JP-Name>
+    <TR-Name>B67: High-speed Transport Fleet, sortie!</TR-Name>
+    <JP-Detail>「江風改二」「時雨改二」「川内改二」他駆逐2隻を含む艦隊で、ジャム島攻略作戦を実施せよ！</JP-Detail>
+    <TR-Detail>Sortie Sendai Kai2, Kawakaze Kai2, Shigure Kai2, 2 DD, and 1 additional ships and score an A rank victory against World 4-1 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>815</ID>
+    <JP-Name>「第一航空戦隊」西へ！</JP-Name>
+    <TR-Name>B68: 1st Carrier Division, to the West!</TR-Name>
+    <JP-Detail>旗艦「赤城」同僚艦「加賀」を中核とする艦隊で、深海東洋艦隊漸減作戦を貫徹せよ！</JP-Detail>
+    <TR-Detail>Sortie fleet with Akagi as flagship, Kaga, and 4 additional ships and score an S rank victory against World 4-5 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>816</ID>
+    <JP-Name>艦隊、三周年！</JP-Name>
+    <TR-Name>Fleet, Third Anniversary</TR-Name>
+    <JP-Detail>三周年を記念しバシー島沖及び東部オリョール海に出撃、同海域の敵艦隊を撃滅せよ！</JP-Detail>
+    <TR-Detail>Score an S rank victory each against World 2-2 and World 2-3 Boss.</TR-Detail>
   </Quest>
 </Quests>
