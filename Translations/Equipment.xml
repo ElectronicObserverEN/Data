@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.4">
+<Equipment Version="1.3.5">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -677,8 +677,32 @@
 	<TR-Name>Type 1 Attack Bomber</TR-Name>
   </Item>
   <Item>
+	<JP-Name>一式陸攻(野中隊)</JP-Name>
+	<TR-Name>Type 1 Attack Bomber (Nonaka Squadron)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>5inch連装砲 Mk.28 mod.2</JP-Name>
+	<TR-Name>5inch Twin Gun Mount Mk.28 mod.2</TR-Name>
+  </Item>
+  <Item>
 	<JP-Name>Bofors 40mm四連装機関砲</JP-Name>
 	<TR-Name>Bofors 40mm Quadruple Autocannon Mount</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>53cm連装魚雷</JP-Name>
+	<TR-Name>53cm Twin Torpedo Mount</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>雷電</JP-Name>
+	<TR-Name>Raiden</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>三式戦 飛燕</JP-Name>
+	<TR-Name>Type 3 Fighter Hien</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>三式戦 飛燕(飛行第244戦隊)</JP-Name>
+	<TR-Name>Type 3 Fighter Hien (244th Fighter Group)</TR-Name>
   </Item>
   
   
@@ -700,7 +724,7 @@
   </Item>
   <Item>
     <JP-Name>5inch連装砲</JP-Name>
-    <TR-Name>5inch Dual Gun Mount</TR-Name>
+    <TR-Name>5inch Twin Gun Mount</TR-Name>
   </Item>
   <Item>
     <JP-Name>3inch単装高角砲</JP-Name>
@@ -961,5 +985,9 @@
   <Item>
 	<JP-Name>沿岸設置レーダー</JP-Name>
 	<TR-Name>Coastal Radar</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海偵察飛行艇</JP-Name>
+	<TR-Name>Abyssal Reconnaissance Flying Boat</TR-Name>
   </Item>
 </Equipment>

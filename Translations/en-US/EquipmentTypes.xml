@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<EquipmentTypes Version="1.3.1">
+<EquipmentTypes Version="1.3.2">
 	<Type>
 		<JP-Name>小口径主砲</JP-Name>
 		<TR-Name>Small-caliber Gun</TR-Name>
@@ -179,5 +179,9 @@
 	<Type>
 		<JP-Name>陸上攻撃機</JP-Name>
 		<TR-Name>Land-based Attack Aircraft</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>局地戦闘機</JP-Name>
+		<TR-Name>Local Fighter</TR-Name>
 	</Type>
 </EquipmentTypes>
