@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.29">
+<Quests Version="1.1.30">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -491,6 +491,27 @@
     <TR-Detail>Have Sendai Kai2 as flagship, Kawakaze Kai2, Shigure Kai2, and two other destroyers in your fleet.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>174</ID>
+    <JP-Name>新編「水雷戦隊」を含む艦隊を再編成せよ！</JP-Name>
+    <TR-Name>A69: Organise a New Torpedo Squadron</TR-Name>
+    <JP-Detail>軽巡級を旗艦とした駆逐艦4隻からなる強力な水雷戦隊を含む艦隊を再編成せよ！</JP-Detail>
+    <TR-Detail>Have a CL as flagship and 4 DD in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>175</ID>
+    <JP-Name>新編「第八駆逐隊」を再編成せよ！</JP-Name>
+    <TR-Name>A70: Reorganise the New 8th Destroyer Division!</TR-Name>
+    <JP-Detail>「朝潮改二」を旗艦とした「満潮」「大潮」「荒潮」4隻による第八駆逐隊を再編成せよ！</JP-Detail>
+    <TR-Detail>Have ONLY Asashio Kai2/D as flagship, Michishio, Ooshio, and Arashio in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>176</ID>
+    <JP-Name>精鋭！八駆第一小隊！</JP-Name>
+    <TR-Name>A71: Elite! DesDiv 8, 1st platoon!</TR-Name>
+    <JP-Detail>「朝潮改二丁」及び「大潮改二」を含む艦隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Asashio Kai2 D and Ooshio Kai2 in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>201</ID>
     <JP-Name>敵艦隊を撃破せよ！</JP-Name>
     <TR-Name>Bd1: Defeat an Enemy Fleet</TR-Name>
@@ -720,6 +741,13 @@
     <TR-Name>B19: Sortie the 6th Cruiser Division</TR-Name>
     <JP-Detail>編成した「第六戦隊」をもって出撃し、オリョール海の敵を撃滅「完全勝利」せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with Furutaka (古鷹), Kako (加古), Kinugasa (衣笠), Aoba (青葉) and 2 additional ships. Score an S rank victory against World 2-3 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>234</ID>
+    <JP-Name>水上反撃作戦【礼号作戦】を完遂せよ！</JP-Name>
+    <TR-Name>Complete Operation Rei-go</TR-Name>
+    <JP-Detail>カンパン湾より突入部隊を出撃させ、水上反撃作戦【礼号作戦】を完遂せよ！</JP-Detail>
+    <TR-Detail>Clear E-2.</TR-Detail>
   </Quest>
   <Quest>
     <ID>239</ID>
@@ -1114,20 +1142,6 @@
     <TR-Detail>Have 32 decoration materials in your inventory.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>234</ID>
-    <JP-Name>水上反撃作戦【礼号作戦】を完遂せよ！</JP-Name>
-    <TR-Name>Complete Operation Rei-go</TR-Name>
-    <JP-Detail>カンパン湾より突入部隊を出撃させ、水上反撃作戦【礼号作戦】を完遂せよ！</JP-Detail>
-    <TR-Detail>Clear E-2.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>421</ID>
-    <JP-Name>親善艦参加観艦式を実施せよ！</JP-Name>
-    <TR-Name>Have Friendly Ship Participate in Naval Review</TR-Name>
-    <JP-Detail>期間限定海域において、海外からの親善艦を招いて特別観艦式を実施せよ！</JP-Detail>
-    <TR-Detail>Send six ships (flagship level 6+, summary level 15+) and complete expedition 175 (親善艦参加観艦式).</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>301</ID>
     <JP-Name>はじめての「演習」！</JP-Name>
     <TR-Name>C1: Your First Exercise</TR-Name>
@@ -1336,6 +1350,13 @@
     <TR-Name>D19: Strengthen the Carrier Task Force Operations</TR-Name>
     <JP-Detail>機動部隊遠征を実施、「MO作戦」及び「敵母港空襲作戦」を展開、これを成功させよ！</JP-Detail>
     <TR-Detail>Complete expeditions 26 (敵母港空襲作戦) and 35 (MO作戦).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>421</ID>
+    <JP-Name>親善艦参加観艦式を実施せよ！</JP-Name>
+    <TR-Name>Have Friendly Ship Participate in Naval Review</TR-Name>
+    <JP-Detail>期間限定海域において、海外からの親善艦を招いて特別観艦式を実施せよ！</JP-Detail>
+    <TR-Detail>Send six ships (flagship level 6+, summary level 15+) and complete expedition 175 (親善艦参加観艦式).</TR-Detail>
   </Quest>
   <Quest>
     <ID>501</ID>
@@ -1616,6 +1637,34 @@ The Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) must not be locked.</TR-Deta
     <TR-Detail>Scrap two 7.7mm Machine Gun and two 12.7mm Single Machine Gun Mount</TR-Detail>
   </Quest>
   <Quest>
+    <ID>637</ID>
+    <JP-Name>「熟練搭乗員」養成</JP-Name>
+    <TR-Name>F35: Skilled Crew Member Training</TR-Name>
+    <JP-Detail>勲章x2消費：「鳳翔」秘書艦に練度max及び改修max「九六式艦戦」を搭載、熟練搭乗員を養成せよ！&lt;br&gt;(任務達成後、部隊は消滅します)</JP-Detail>
+    <TR-Detail>Set Houshou as secretary and equip her with a Type 96 Fighter that is both rank 7 and ★max.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>638</ID>
+    <JP-Name>対空機銃量産</JP-Name>
+    <TR-Name>F34: AA Gun Mass Production</TR-Name>
+    <JP-Detail>「機銃」系装備を量産し、工廠で6個廃棄！ 「装備改修」強化をサポートせよ！</JP-Detail>
+    <TR-Detail>Scrap AA Guns six times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>639</ID>
+    <JP-Name>新型魚雷兵装の開発</JP-Name>
+    <TR-Name>F36: Development of a New Torpedo Armament</TR-Name>
+    <JP-Detail>勲章x2消費：「島風」秘書艦に改修max「61cm五連装(酸素)魚雷」と&lt;br&gt;改修max「61cm三連装(酸素)魚雷」を装備！(任務達成後、各装備は消滅します)</JP-Detail>
+    <TR-Detail>Set Shimakaze as secretary and equip her with a ★max 61cm Quintuple (Oxygen) Torpedo Mount &lt;br&gt;and a ★max 61cm Triple (Oxygen) Torpedo Mount.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>640</ID>
+    <JP-Name>初夏の整理整頓</JP-Name>
+    <TR-Name>SF: Early Summer Cleanup</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+    <TR-Detail>Scrap equipment 5 times.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>701</ID>
     <JP-Name>はじめての「近代化改修」！</JP-Name>
     <TR-Name>G1: First Modernization</TR-Name>
@@ -1754,5 +1803,61 @@ The Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) must not be locked.</TR-Deta
     <TR-Name>Fleet, Third Anniversary</TR-Name>
     <JP-Detail>三周年を記念しバシー島沖及び東部オリョール海に出撃、同海域の敵艦隊を撃滅せよ！</JP-Detail>
     <TR-Detail>Score an S rank victory each against World 2-2 and World 2-3 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>817</ID>
+    <JP-Name>新編艦隊、南西諸島防衛線へ急行せよ！</JP-Name>
+    <TR-Name>B70: Set Sail Towards the Nansei Islands Defence Line</TR-Name>
+    <JP-Detail>水雷戦隊を含む新編艦隊を南西諸島防衛線に展開、同方面に来襲する敵艦隊を撃破せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with a CL flagship, 4 DD, and up to 1 additional ship and score an A rank victory against World 1-4 boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>818</ID>
+    <JP-Name>鎮守府近海航路の安全確保を強化せよ！</JP-Name>
+    <TR-Name>B71: Ensure the Safety of the Naval Base's Nearby Routes</TR-Name>
+    <JP-Detail>水雷戦隊を含む新編艦隊を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with a CL flagship, 4 DD, and up to 1 additional ship and clear World 1-6.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>819</ID>
+    <JP-Name>「第三十一戦隊」敵潜を制圧せよ！</JP-Name>
+    <TR-Name>B72: 31st Cruiser Division, suppress the enemy submarines!</TR-Name>
+    <JP-Detail>第三十一戦隊(第一次)を鎮守府近海航路に再投入！反復出撃し、敵潜を制圧せよ！</JP-Detail>
+    <TR-Detail>Sortie Isuzu Kai2 as flagship, Satsuki Kai2, Uzuki Kai, and three wildcards and clear World 1-6 twice.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>820</ID>
+    <JP-Name>新編「第八駆逐隊」出撃せよ！</JP-Name>
+    <TR-Name>B73: New 8th Destroyer Division, sortie!</TR-Name>
+    <JP-Detail>新編「第八駆逐隊」を含む艦隊を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！</JP-Detail>
+    <TR-Detail>Sortie Asashio Kai2/D as flagship, Michishio, Ooshio, Arashio, and clear World 1-6.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>821</ID>
+    <JP-Name>精鋭「八駆第一小隊」対潜哨戒！</JP-Name>
+    <TR-Name>B74: Elite 8th Destroyer Division on ASW patrol!</TR-Name>
+    <JP-Detail>「第八駆逐隊第一小隊」を含む艦隊で鎮守府正面対潜哨戒を反復実施！敵潜を圧倒せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet which includes Asashio Kai2 D and Ooshio Kai2 and score two S rank victories against World 1-5 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>822</ID>
+    <JP-Name>沖ノ島海域迎撃戦</JP-Name>
+    <TR-Name>Bq1: Okinoshima Sea Counter Attack</TR-Name>
+    <JP-Detail>有力な艦隊を沖ノ島海域前面に反復投入、侵攻する敵機動部隊を迎撃、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Score two S rank victories against World 2-4 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>823</ID>
+    <JP-Name>水雷戦隊、南西防衛線に反復出撃せよ！</JP-Name>
+    <TR-Name>B75: Torpedo Squadron, repeatedly sortie to the Nansei Islands defence line!</TR-Name>
+    <JP-Detail>軽巡級旗艦と駆逐艦4隻の水雷戦隊を基幹とした艦隊を編成、&lt;br&gt;南西諸島防衛線に反復出撃し、同海域の制海権確保に努めよ！</JP-Detail>
+    <TR-Detail>Sortie a CL/CLT/CT as flagship, four DD, and a wildcard and score two S rank victories against World 1-4 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>824</ID>
+    <JP-Name>製油所地帯沿岸の哨戒を実施せよ！</JP-Name>
+    <TR-Name>B76: Patrol the Coastal Refinery Zone!</TR-Name>
+    <JP-Detail>軽空母旗艦と駆逐艦3隻を基幹とした護衛艦隊を編成、&lt;br&gt;製油所地帯沿岸に展開し、同海域の哨戒を実施、同海域の安全を確保せよ！</JP-Detail>
+    <TR-Detail>Sortie a CVL flagship, three DD, and two wildcards and score an S rank victory against World 1-3 Boss.</TR-Detail>
   </Quest>
 </Quests>

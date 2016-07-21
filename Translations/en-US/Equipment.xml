@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.5">
+<Equipment Version="1.3.6">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -703,6 +703,26 @@
   <Item>
 	<JP-Name>三式戦 飛燕(飛行第244戦隊)</JP-Name>
 	<TR-Name>Type 3 Fighter Hien (244th Fighter Group)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>試製61cm六連装(酸素)魚雷</JP-Name>
+	<TR-Name>Prototype 61cm Sextuple (Oxygen) Torpedo Mount</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>一式陸攻 二二型甲</JP-Name>
+	<TR-Name>Type 1 Attack Bomber Model 22A</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>零式艦戦32型</JP-Name>
+	<TR-Name>Zero Fighter Model 32</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>零式艦戦32型(熟練)</JP-Name>
+	<TR-Name>Zero Fighter Model 32 (Skilled)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>16inch三連装砲 Mk.7+GFCS</JP-Name>
+	<TR-Name>16inch Triple Gun Mount Mk.7 + GFCS</TR-Name>
   </Item>
   
   
