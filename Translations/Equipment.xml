@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.6">
+<Equipment Version="1.3.7">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -723,6 +723,10 @@
   <Item>
 	<JP-Name>16inch三連装砲 Mk.7+GFCS</JP-Name>
 	<TR-Name>16inch Triple Gun Mount Mk.7 + GFCS</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Re.2001 OR改</JP-Name>
+	<TR-Name>Re.2001 OR Kai</TR-Name>
   </Item>
   
   
