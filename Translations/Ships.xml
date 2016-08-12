@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.4.5">
+<Ships Version="1.4.6">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -999,6 +999,14 @@
     <JP-Name>Aquila</JP-Name>
     <TR-Name>Aquila</TR-Name>
   </Ship>
+  <Ship>
+    <JP-Name>Warspite</JP-Name>
+    <TR-Name>Warspite</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>伊26</JP-Name>
+    <TR-Name>I-26</TR-Name>
+  </Ship>
 
   <!-- Abyssal Ships !-->
 
@@ -1229,6 +1237,22 @@
   <Ship>
 	<JP-Name>駆逐古姫</JP-Name>
 	<TR-Name>DD Ancient Princess</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>潜水夏姫</JP-Name>
+	<TR-Name>SS Summer Princess</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>戦艦夏姫</JP-Name>
+	<TR-Name>BB Summer Princess</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>港湾夏姫</JP-Name>
+	<TR-Name>Harbour Summer Princess</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>重巡夏姫</JP-Name>
+	<TR-Name>CA Summer Princess</TR-Name>
   </Ship>
   <Ship mode="suffix">
 	<JP-Name>改</JP-Name>
