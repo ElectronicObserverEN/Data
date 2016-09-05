@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.30">
+<Quests Version="1.1.31">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1219,6 +1219,13 @@
     <TR-Detail>Get 4 victories in exercises within the same day.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>313</ID>
+    <JP-Name>秋季大演習</JP-Name>
+    <TR-Name>Autumn Large-scale Exercises</TR-Name>
+    <JP-Detail>秋の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！</JP-Detail>
+    <TR-Detail>Get 8 victories in exercises within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>401</ID>
     <JP-Name>はじめての「遠征」！</JP-Name>
     <TR-Name>D1: First Expedition</TR-Name>
@@ -1665,6 +1672,13 @@ The Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) must not be locked.</TR-Deta
     <TR-Detail>Scrap equipment 5 times.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>641</ID>
+    <JP-Name>「航空基地設営」事前準備</JP-Name>
+    <TR-Name>Preparation for Air Base Construction</TR-Name>
+    <JP-Detail>「航空基地設営」の事前準備を開始する。「ドラム缶(輸送用)」を二つ「工廠」で廃棄し、「7.7mm機銃」及び「九六式艦戦」を各二つずつ用意せよ！(任務達成後、用意した必要装備は消滅します)</JP-Detail>
+    <TR-Detail>Unlock two 7.7mm Machine Gun and two Type 96 Fighter. Then, scrap Drum (Transport) 2 times.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>701</ID>
     <JP-Name>はじめての「近代化改修」！</JP-Name>
     <TR-Name>G1: First Modernization</TR-Name>
@@ -1859,5 +1873,12 @@ The Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) must not be locked.</TR-Deta
     <TR-Name>B76: Patrol the Coastal Refinery Zone!</TR-Name>
     <JP-Detail>軽空母旗艦と駆逐艦3隻を基幹とした護衛艦隊を編成、&lt;br&gt;製油所地帯沿岸に展開し、同海域の哨戒を実施、同海域の安全を確保せよ！</JP-Detail>
     <TR-Detail>Sortie a CVL flagship, three DD, and two wildcards and score an S rank victory against World 1-3 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>825</ID>
+    <JP-Name>水雷戦隊、南西諸島海域を哨戒せよ！</JP-Name>
+    <TR-Name>Torpedo Squadron, Patrol the Nansei Islands!</TR-Name>
+    <JP-Detail>水雷戦隊を基幹とした有力な艦隊で南西諸島海域バシー島沖及び東部オリョール海を哨戒、&lt;br&gt;同海域に遊弋する敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a CL flagship, four DD, and one wildcard and score an S rank victory against World 2-2 and World 2-3 Boss.</TR-Detail>
   </Quest>
 </Quests>
