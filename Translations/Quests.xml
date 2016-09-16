@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.31">
+<Quests Version="1.1.32">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -507,9 +507,16 @@
   <Quest>
     <ID>176</ID>
     <JP-Name>精鋭！八駆第一小隊！</JP-Name>
-    <TR-Name>A71: Elite! DesDiv 8, 1st platoon!</TR-Name>
+    <TR-Name>A71: Elite! 8th Destroyer Division, 1st platoon!</TR-Name>
     <JP-Detail>「朝潮改二丁」及び「大潮改二」を含む艦隊を編成せよ！</JP-Detail>
     <TR-Detail>Have Asashio Kai2 D and Ooshio Kai2 in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>177</ID>
+    <JP-Name>「第十九駆逐隊」を編成せよ！</JP-Name>
+    <TR-Name>A72: Organize the 19th Destroyer Division!</TR-Name>
+    <JP-Detail>特型駆逐艦「磯波」「浦波」「綾波」「敷波」4隻による第十九駆逐隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have ONLY Isonami, Uranami, Ayanami, Shikinami in your fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>201</ID>
@@ -887,7 +894,8 @@
     <JP-Name>「第二戦隊」抜錨！</JP-Name>
     <TR-Name>B31: Sortie the 2nd Squadron</TR-Name>
     <JP-Detail>「第二戦隊」を基幹とした艦隊でカレー洋に進出、反復出撃により敵海上兵力を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Nagato (長門), Mutsu (陸奥), Fusou (扶桑), Yamashiro (山城) and up to 2 additional ships to World 4-2. Score two S rank victories at the boss node.</TR-Detail>
+    <TR-Detail>Sortie Nagato, Mutsu, Fusou, Yamashiro and up to 2 additional ships to World 4-2.
+Score two S rank victories at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>259</ID>
@@ -901,7 +909,8 @@
     <JP-Name>「戦艦部隊」北方海域に突入せよ！</JP-Name>
     <TR-Name>B32: Sortie a Battleship Squadron to the Northern Sea</TR-Name>
     <JP-Detail>戦艦2隻と直援軽空母1隻(正規空母無し)基幹の艦隊で北方AL海域に突入、敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie 2 BB (slow or fast, BBV don't count), 1 CVL and up to 3 additional ships to World 3-5 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie 2 BB (slow or fast, BBV don't count), 1 CVL and up to 3 additional ships
+and score an S rank victory at the World 3-5 boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>261</ID>
@@ -915,7 +924,8 @@
     <JP-Name>「西村艦隊」南方海域へ進出せよ！</JP-Name>
     <TR-Name>B33: Sortie the Nishimura Fleet to the Southern Waters</TR-Name>
     <JP-Detail>「西村艦隊」を南方海域に進出させ、敵主力艦隊へ突入、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Fusou (扶桑), Yamashiro (山城), Mogami (最上), Shigure (時雨) and Michishio (満潮) (you may also add another ship) to World 5-1 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie Fusou, Yamashiro, Mogami, Shigure, and Michishio, and another ship
+and score an S rank victory at World 5-1 boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>263</ID>
@@ -992,7 +1002,8 @@
     <JP-Name>新編「三川艦隊」ソロモン方面へ！</JP-Name>
     <TR-Name>B41: Sortie the Mikawa Fleet to Solomon Islands</TR-Name>
     <JP-Detail>第一艦隊に編成した「三川艦隊」を南方海域に進出させ、同方面の敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie the main fleet with Choukai Kai2 (鳥海改ニ) as the flagship and any 5 of Aoba (青葉), Kinugasa (衣笠), Kako (加古), Furutaka (古鷹), Tenryuu (天龍), Yuubari (夕張) to World 5-1 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie the main fleet with Choukai Kai2 (鳥海改ニ) as the flagship and any 5 of Aoba (青葉), Kinugasa (衣笠),
+Kako (加古), Furutaka (古鷹), Tenryuu (天龍), Yuubari (夕張) to World 5-1 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>274</ID>
@@ -1053,7 +1064,7 @@
   <Quest>
     <ID>287</ID>
     <JP-Name>「第五航空戦隊」珊瑚諸島沖に出撃せよ！</JP-Name>
-    <TR-Name>B50: Sortie the 5th CarDiv to the South</TR-Name>
+    <TR-Name>B50: Sortie the 5th Carrier Division to the South</TR-Name>
     <JP-Detail>再編成した「第五航空戦隊」を珊瑚諸島沖に展開、敵機動部隊を捕捉撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie Shoukaku (翔鶴), Zuikaku (瑞鶴), Oboro (朧), Akigumo (秋雲) and up to 2 additional ships to World 5-2 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
@@ -1104,7 +1115,8 @@
     <JP-Name>「小沢艦隊」出撃せよ！</JP-Name>
     <TR-Name>B54: Sortie the Ozawa Fleet</TR-Name>
     <JP-Detail>「小沢艦隊」を沖ノ島海域前面に展開し、侵攻する敵機動部隊を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou Kai (瑞鳳改), Chitose (千歳) and Chiyoda (千代田), and aviation battleships Ise Kai (伊勢改) and Hyuuga Kai (伊勢改) to World 2-4 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie Zuikaku Kai as the flagship, Zuihou Kai, Chitose, Chiyoda, Ise Kai, and Hyuuga Kai
+to World 2-4 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>295</ID>
@@ -1674,9 +1686,49 @@ The Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) must not be locked.</TR-Deta
   <Quest>
     <ID>641</ID>
     <JP-Name>「航空基地設営」事前準備</JP-Name>
-    <TR-Name>Preparation for Air Base Construction</TR-Name>
+    <TR-Name>F37: Preparation for Air Base Construction</TR-Name>
     <JP-Detail>「航空基地設営」の事前準備を開始する。「ドラム缶(輸送用)」を二つ「工廠」で廃棄し、「7.7mm機銃」及び「九六式艦戦」を各二つずつ用意せよ！(任務達成後、用意した必要装備は消滅します)</JP-Detail>
     <TR-Detail>Unlock two 7.7mm Machine Gun and two Type 96 Fighter. Then, scrap Drum (Transport) 2 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>642</ID>
+    <JP-Name>「陸攻」隊の増勢</JP-Name>
+    <TR-Name>F38: Expansion of Land-based Air Groups</TR-Name>
+    <JP-Detail>「基地航空隊」開設に向け、「陸攻」の追加調達を行う。「7.7mm機銃」及び&lt;br&gt;「九九式艦爆」を各二つずつ準備せよ！(任務達成後、同装備は消滅します)</JP-Detail>
+    <TR-Detail>Have two 7.7mm Machine Guns and two Type 99 Dive Bombers in your inventory.
+Unlock both equipment.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>643</ID>
+    <JP-Name>主力「陸攻」の調達</JP-Name>
+    <TR-Name>F39: Supply of the Land-based Main Bomber Force</TR-Name>
+    <JP-Detail>主力陸上攻撃機「一式陸攻」の新規調達を行う。「零式艦戦21型」を二つ「工廠」で廃棄し、&lt;br&gt;「九六式陸攻」一つと「九七式艦攻」二つを準備せよ！(任務達成後、用意した必要装備は消滅します)</JP-Detail>
+    <TR-Detail>Have a Type 96 Attack Bomber and two Type 97 Torpedo Bombers in your inventory, and scrap two Zero Fighter Model 21.
+Unlock all of the equipment.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>644</ID>
+    <JP-Name>「一式陸攻」性能向上型の調達</JP-Name>
+    <TR-Name>F40: Procurement of the Improved Type 1 Attack Bomber</TR-Name>
+    <JP-Detail>「一式陸攻」性能向上型の配備を行う。「一式陸攻」一つと「天山」二つを準備せよ！&lt;br&gt;(任務達成後、用意した必要装備は消滅します/「一式陸攻」の熟練度は継承されます)</JP-Detail>
+    <TR-Detail>Have Type 1 Attack Bomber and two Tenzan in your inventory.
+Unlock both equipment.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>645</ID>
+    <JP-Name>「洋上補給」物資の調達</JP-Name>
+    <TR-Name>Procurement of Underway Replenishment</TR-Name>
+    <JP-Detail>「三式弾」一つを廃棄し、燃料750及び弾薬750と「ドラム缶(輸送用)」二つと「九一式徹甲弾」一つを&lt;br&gt;用意せよ！※任務達成後、用意した資源及び必要装備(徹甲弾は改修値の低いもの優先)は消滅します。</JP-Detail>
+    <TR-Detail>Have 750 fuel, 750 ammo, two Drums, and one Type 91 Shell. Unlock both equipment.
+And then, scrap one Type 3 Shell.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>646</ID>
+    <JP-Name>「特注家具」の調達</JP-Name>
+    <TR-Name>Procurement of Custom-made Furniture</TR-Name>
+    <JP-Detail>「25mm単装機銃」一つを廃棄、家具コイン5,000と「25mm連装機銃」及び「25mm三連装機銃」を各&lt;br&gt;二つ準備せよ！　※任務達成後、用意した家具コイン及び必要装備(改修値の低いもの優先)は消滅します。</JP-Detail>
+    <TR-Detail>Have 5000 furniture coin, two 25mm Twin Autocannon Mount, and two 25mm Triple Autocannon Mount in your inventory.
+Unlock both equipment. And then, scrap one 25mm Single Autocannon Mount.</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
@@ -1800,21 +1852,21 @@ The Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) must not be locked.</TR-Deta
   <Quest>
     <ID>814</ID>
     <JP-Name>強行高速輸送部隊、出撃せよ！</JP-Name>
-    <TR-Name>B67: High-speed Transport Fleet, sortie!</TR-Name>
+    <TR-Name>B68: High-speed Transport Fleet, sortie!</TR-Name>
     <JP-Detail>「江風改二」「時雨改二」「川内改二」他駆逐2隻を含む艦隊で、ジャム島攻略作戦を実施せよ！</JP-Detail>
     <TR-Detail>Sortie Sendai Kai2, Kawakaze Kai2, Shigure Kai2, 2 DD, and 1 additional ships and score an A rank victory against World 4-1 Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>815</ID>
     <JP-Name>「第一航空戦隊」西へ！</JP-Name>
-    <TR-Name>B68: 1st Carrier Division, to the West!</TR-Name>
+    <TR-Name>B69: 1st Carrier Division, to the West!</TR-Name>
     <JP-Detail>旗艦「赤城」同僚艦「加賀」を中核とする艦隊で、深海東洋艦隊漸減作戦を貫徹せよ！</JP-Detail>
     <TR-Detail>Sortie fleet with Akagi as flagship, Kaga, and 4 additional ships and score an S rank victory against World 4-5 Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>816</ID>
     <JP-Name>艦隊、三周年！</JP-Name>
-    <TR-Name>Fleet, Third Anniversary</TR-Name>
+    <TR-Name>B67: Fleet, Third Anniversary</TR-Name>
     <JP-Detail>三周年を記念しバシー島沖及び東部オリョール海に出撃、同海域の敵艦隊を撃滅せよ！</JP-Detail>
     <TR-Detail>Score an S rank victory each against World 2-2 and World 2-3 Boss.</TR-Detail>
   </Quest>
