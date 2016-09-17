@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.32">
+<Quests Version="1.1.33">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1717,7 +1717,7 @@ Unlock both equipment.</TR-Detail>
   <Quest>
     <ID>645</ID>
     <JP-Name>「洋上補給」物資の調達</JP-Name>
-    <TR-Name>Procurement of Underway Replenishment</TR-Name>
+    <TR-Name>F41: Procurement of Underway Replenishment</TR-Name>
     <JP-Detail>「三式弾」一つを廃棄し、燃料750及び弾薬750と「ドラム缶(輸送用)」二つと「九一式徹甲弾」一つを&lt;br&gt;用意せよ！※任務達成後、用意した資源及び必要装備(徹甲弾は改修値の低いもの優先)は消滅します。</JP-Detail>
     <TR-Detail>Have 750 fuel, 750 ammo, two Drums, and one Type 91 Shell. Unlock both equipment.
 And then, scrap one Type 3 Shell.</TR-Detail>
@@ -1725,7 +1725,7 @@ And then, scrap one Type 3 Shell.</TR-Detail>
   <Quest>
     <ID>646</ID>
     <JP-Name>「特注家具」の調達</JP-Name>
-    <TR-Name>Procurement of Custom-made Furniture</TR-Name>
+    <TR-Name>F42: Procurement of Custom-made Furniture</TR-Name>
     <JP-Detail>「25mm単装機銃」一つを廃棄、家具コイン5,000と「25mm連装機銃」及び「25mm三連装機銃」を各&lt;br&gt;二つ準備せよ！　※任務達成後、用意した家具コイン及び必要装備(改修値の低いもの優先)は消滅します。</JP-Detail>
     <TR-Detail>Have 5000 furniture coin, two 25mm Twin Autocannon Mount, and two 25mm Triple Autocannon Mount in your inventory.
 Unlock both equipment. And then, scrap one 25mm Single Autocannon Mount.</TR-Detail>
@@ -1929,8 +1929,23 @@ Unlock both equipment. And then, scrap one 25mm Single Autocannon Mount.</TR-Det
   <Quest>
     <ID>825</ID>
     <JP-Name>水雷戦隊、南西諸島海域を哨戒せよ！</JP-Name>
-    <TR-Name>Torpedo Squadron, Patrol the Nansei Islands!</TR-Name>
+    <TR-Name>B77: Torpedo Squadron, Patrol the Nansei Islands!</TR-Name>
     <JP-Detail>水雷戦隊を基幹とした有力な艦隊で南西諸島海域バシー島沖及び東部オリョール海を哨戒、&lt;br&gt;同海域に遊弋する敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a CL flagship, four DD, and one wildcard and score an S rank victory against World 2-2 and World 2-3 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>826</ID>
+    <JP-Name>「第十九駆逐隊」出撃せよ！</JP-Name>
+    <TR-Name>B78: Sortie the 19th Destroyer Division!</TR-Name>
+    <JP-Detail>特型駆逐艦4隻による「第十九駆逐隊」を鎮守府近海に展開！&lt;br&gt;鎮守府正面対潜哨戒を実施し、跳梁する敵潜部隊の制圧に努めよ！</JP-Detail>
+    <TR-Detail>Sortie two of the 19th DesDiv (Isonami, Uranami, Ayanami, or Shikinami) and two wildcards
+and score an A rank victory against World 1-5 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>827</ID>
+    <JP-Name>「第十九駆逐隊」敵主力に突入せよ！</JP-Name>
+    <TR-Name>B79: Sortie the 19th Destroyer Division to the Enemy Main Force!</TR-Name>
+    <JP-Detail>「第十九駆逐隊」を含む有力な艦隊を編成し、南西諸島海域沖ノ島沖に展開！同方面に遊弋する敵主力を捕捉、これを撃破せよ！</JP-Detail>
+    <TR-Detail>Sortie Isonami, Uranami, Ayanami, Shikinami, and two wildcards and score an A rank victory against World 2-5 Boss.</TR-Detail>
   </Quest>
 </Quests>
