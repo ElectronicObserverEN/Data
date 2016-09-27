@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.8">
+<Equipment Version="1.3.9">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -754,7 +754,11 @@
   </Item>
   <Item>
 	<JP-Name>QF 2ポンド8連装ポンポン砲</JP-Name>
-	<TR-Name>QF 2-pounder 8 Twin Pom-pom Gun Mount</TR-Name>
+	<TR-Name>QF 2-pounder Octuple Pom-pom Gun Mount</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>38.1cm Mk.I/N連装砲改</JP-Name>
+	<TR-Name>38.1cm Mk.I/N Twin Gun Mount Kai</TR-Name>
   </Item>
   
   
