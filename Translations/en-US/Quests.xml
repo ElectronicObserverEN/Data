@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.33">
+<Quests Version="1.1.34">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1731,6 +1731,13 @@ And then, scrap one Type 3 Shell.</TR-Detail>
 Unlock both equipment. And then, scrap one 25mm Single Autocannon Mount.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>647</ID>
+    <JP-Name>中部海域「基地航空隊」展開！	</JP-Name>
+    <TR-Name>F43: Launch the LBAS to the Central Ocean Area!</TR-Name>
+    <JP-Detail>ドラム缶(輸送用)」二つを廃棄、燃料1200及びボーキサイト3000、さらに「設営隊」一つを準備せよ！&lt;br&gt;※任務達成後、用意した資源及び「設営隊」は消滅します。</JP-Detail>
+    <TR-Detail>Have 1200 fuel, 3000 bauxite, and a Construction Corps. And then, Scrap 2 drums.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>701</ID>
     <JP-Name>はじめての「近代化改修」！</JP-Name>
     <TR-Name>G1: First Modernization</TR-Name>
@@ -1947,5 +1954,33 @@ and score an A rank victory against World 1-5 Boss.</TR-Detail>
     <TR-Name>B79: Sortie the 19th Destroyer Division to the Enemy Main Force!</TR-Name>
     <JP-Detail>「第十九駆逐隊」を含む有力な艦隊を編成し、南西諸島海域沖ノ島沖に展開！同方面に遊弋する敵主力を捕捉、これを撃破せよ！</JP-Detail>
     <TR-Detail>Sortie Isonami, Uranami, Ayanami, Shikinami, and two wildcards and score an A rank victory against World 2-5 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>828</ID>
+    <JP-Name>飛行場設営の準備を実施せよ！</JP-Name>
+    <TR-Name>B80: Prepare for the Construction of the Land-Base!</TR-Name>
+    <JP-Detail>中部海域における航空偵察「K作戦」を再度実施、さらに同方面に遊弋する敵艦隊を撃滅し、&lt;br&gt;中部海域における飛行場設営の準備を実施せよ！</JP-Detail>
+    <TR-Detail>Sortie to World 6-3 and obtain an S-rank at the boss</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>829</ID>
+    <JP-Name>夜間突入！敵上陸部隊を叩け！</JP-Name>
+    <TR-Name>B81: Rush into Night Battle! Attack the Enemy Landing Forces!</TR-Name>
+    <JP-Detail>南方サブ島沖海域へ精鋭艦隊を突入！敵艦隊の邀撃を突破し、同方面の敵上陸部隊を叩け！</JP-Detail>
+    <TR-Detail>Sortie to World 5-3 and obtain at least an A-rank at the boss</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>830</ID>
+    <JP-Name>夜の海を照らす「灯り」を入手せよ！</JP-Name>
+    <TR-Name>B82: Obtain the Searchlight that brightens the Dark Sea!</TR-Name>
+    <JP-Detail>有力な艦隊をカムラン半島に投入、同方面に出没する敵艦隊を捕捉、これを撃滅せよ！&lt;br&gt;そして、夜を照らす「灯り」を入手せよ！　ある季節は夜戦以外にも使い道があるようだ！</JP-Detail>
+    <TR-Detail>Sortie to World 2-1 and obtain an S-rank at the boss</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>831</ID>
+    <JP-Name>秋刀魚漁：きらりーん！秋刀魚漁支援！</JP-Name>
+    <TR-Name>Pacific saury fishing: It's time to shine! Mackerel fishing support!</TR-Name>
+    <JP-Detail>秋刀魚漁の漁場に展開、遊弋する敵艦隊を撃破して、「秋刀魚」を三尾入手せよ、ですって！&lt;br&gt;近海、北方海域、中部海域のどこかに秋刀魚漁に適した漁場があるみたい！</JP-Detail>
+    <TR-Detail>Have 3 saury fishes in your inventory.</TR-Detail>
   </Quest>
 </Quests>

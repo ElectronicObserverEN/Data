@@ -3,8 +3,8 @@
 	<Equipment version="1.3.9" />
 	<EquipmentTypes version="1.3.2" />
 	<Expeditions version="1.3.1" />
-	<Operations version="1.2" />
-	<Quests version="1.1.33" />
+	<Operations version="1.3.01" />
+	<Quests version="1.1.34" />
 	<Ships version="1.4.7" />
 	<ShipTypes version="1.1.2" />
 </VersionManifest>
