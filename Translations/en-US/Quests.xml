@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.34">
+<Quests Version="1.1.35">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1979,8 +1979,22 @@ and score an A rank victory against World 1-5 Boss.</TR-Detail>
   <Quest>
     <ID>831</ID>
     <JP-Name>秋刀魚漁：きらりーん！秋刀魚漁支援！</JP-Name>
-    <TR-Name>Pacific saury fishing: It's time to shine! Mackerel fishing support!</TR-Name>
+    <TR-Name>SB01: Pacific saury fishing: It's time to shine! Mackerel fishing support!</TR-Name>
     <JP-Detail>秋刀魚漁の漁場に展開、遊弋する敵艦隊を撃破して、「秋刀魚」を三尾入手せよ、ですって！&lt;br&gt;近海、北方海域、中部海域のどこかに秋刀魚漁に適した漁場があるみたい！</JP-Detail>
     <TR-Detail>Have 3 saury fishes in your inventory.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>832</ID>
+    <JP-Name>秋刀魚漁：もっともーっと、秋刀魚漁！</JP-Name>
+    <TR-Name>SB02: Pacific saury fishing: Fish for more and more mackerels!</TR-Name>
+    <JP-Detail>ちょおっと大変だけど、漁場の安全を確保して「秋刀魚」を八尾確保するんだって！&lt;br&gt;あまり乱獲したり、暫く同じ海域で続けてると獲れにくくなるみたい。海域を変えてみましょ！</JP-Detail>
+    <TR-Detail>Have 8 saury fishes in your inventory.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>833</ID>
+    <JP-Name>秋刀魚漁：最新鋭の秋刀魚漁！もっとぉ！</JP-Name>
+    <TR-Name>SB03: Pacific saury fishing: Ultra-modern saury fishing! We need more!</TR-Name>
+    <JP-Detail>かなーり大変だけれど、ほら、私たち最新鋭の秋刀魚漁支援艦隊じゃない？&lt;br&gt;最新鋭、最新鋭、最新鋭の秋刀魚漁、張り切っていきましょー！よろしくお願いしまぁーす！</JP-Detail>
+    <TR-Detail>Have 24 saury fishes in your inventory.</TR-Detail>
   </Quest>
 </Quests>
