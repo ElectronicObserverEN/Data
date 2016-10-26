@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.9">
+<Equipment Version="1.3.10">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -759,6 +759,10 @@
   <Item>
 	<JP-Name>38.1cm Mk.I/N連装砲改</JP-Name>
 	<TR-Name>38.1cm Mk.I/N Twin Gun Mount Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>特大発動艇</JP-Name>
+	<TR-Name>Special Daihatsu Landing Craft</TR-Name>
   </Item>
   
   
