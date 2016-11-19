@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.10">
+<Equipment Version="1.3.11">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -764,6 +764,30 @@
 	<JP-Name>特大発動艇</JP-Name>
 	<TR-Name>Special Daihatsu Landing Craft</TR-Name>
   </Item>
+  <Item>
+	<JP-Name>TBD</JP-Name>
+	<TR-Name>TBD Devastator</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>SB2U</JP-Name>
+	<TR-Name>SB2U Vindicator</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>F4F-3</JP-Name>
+	<TR-Name>F4F-3 Wildcat</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>F4F-4</JP-Name>
+	<TR-Name>F4F-4 Wildcat</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Laté 298B</JP-Name>
+	<TR-Name>Laté 298B</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>SBD</JP-Name>
+	<TR-Name>SBD Dauntless</TR-Name>
+  </Item>
   
   
   
@@ -1053,5 +1077,13 @@
   <Item>
 	<JP-Name>高速深海魚雷 mod.2</JP-Name>
 	<TR-Name>High-speed Abyssal Torpedo mod.2</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海水母小鬼機</JP-Name>
+	<TR-Name>Abyssal Seaplane Tender Imp Aircraft</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海熊猫艦戦</JP-Name>
+	<TR-Name>Abyssal Bearcat Fighter</TR-Name>
   </Item>
 </Equipment>
