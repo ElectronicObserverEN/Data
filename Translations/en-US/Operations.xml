@@ -1,128 +1,128 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.3.01">
+<Operations Version="1.3.02">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
-    <TR-Name>World 1-1</TR-Name>
+    <TR-Name>Sea in Front of the Naval Base</TR-Name>
   </Map>
   <Map>
     <JP-Name>南西諸島沖</JP-Name>
-    <TR-Name>World 1-2</TR-Name>
+    <TR-Name>Sea around the Nansei Islands</TR-Name>
   </Map>
   <Map>
     <JP-Name>製油所地帯沿岸</JP-Name>
-    <TR-Name>World 1-3</TR-Name>
+    <TR-Name>Coastal Refinery Zone</TR-Name>
   </Map>
   <Map>
     <JP-Name>南西諸島防衛線</JP-Name>
-    <TR-Name>World 1-4</TR-Name>
+    <TR-Name>Hold the Line at the Nansei Islands</TR-Name>
   </Map>
   <Map>
     <JP-Name>鎮守府近海</JP-Name>
-    <TR-Name>World 1-5</TR-Name>
+    <TR-Name>Adjacent Seas of the Naval Base</TR-Name>
   </Map>
   <Map>
     <JP-Name>鎮守府近海航路</JP-Name>
-    <TR-Name>World 1-6</TR-Name>
+    <TR-Name>Naval Base Adjacent Sea Route</TR-Name>
   </Map>
   <Map>
     <JP-Name>カムラン半島</JP-Name>
-    <TR-Name>World 2-1</TR-Name>
+    <TR-Name>Cam Ranh Peninsula</TR-Name>
   </Map>
   <Map>
     <JP-Name>バシー島沖</JP-Name>
-    <TR-Name>World 2-2</TR-Name>
+    <TR-Name>Bashi Island</TR-Name>
   </Map>
   <Map>
     <JP-Name>東部オリョール海</JP-Name>
-    <TR-Name>World 2-3</TR-Name>
+    <TR-Name>Eastern Orel Bay</TR-Name>
   </Map>
   <Map>
     <JP-Name>沖ノ島海域</JP-Name>
-    <TR-Name>World 2-4</TR-Name>
+    <TR-Name>Okinoshima Island</TR-Name>
   </Map>
   <Map>
     <JP-Name>沖ノ島沖</JP-Name>
-    <TR-Name>World 2-5</TR-Name>
+    <TR-Name>沖ノ島沖 Okinoshima Sea</TR-Name>
   </Map>
   <Map>
     <JP-Name>モーレイ海</JP-Name>
-    <TR-Name>World 3-1</TR-Name>
+    <TR-Name>Moray Sea</TR-Name>
   </Map>
   <Map>
     <JP-Name>キス島沖</JP-Name>
-    <TR-Name>World 3-2</TR-Name>
+    <TR-Name>Kis Island</TR-Name>
   </Map>
   <Map>
     <JP-Name>アルフォンシーノ方面</JP-Name>
-    <TR-Name>World 3-3</TR-Name>
+    <TR-Name>The Alfonsinos</TR-Name>
   </Map>
   <Map>
     <JP-Name>北方海域全域</JP-Name>
-    <TR-Name>World 3-4</TR-Name>
+    <TR-Name>Throughout the Northern Sea</TR-Name>
   </Map>
   <Map>
     <JP-Name>北方AL海域</JP-Name>
-    <TR-Name>World 3-5</TR-Name>
+    <TR-Name>Northern AL Waters</TR-Name>
   </Map>
   <Map>
     <JP-Name>ジャム島攻略作戦</JP-Name>
-    <TR-Name>World 4-1</TR-Name>
+    <TR-Name>Battle of Jam Island</TR-Name>
   </Map>
   <Map>
     <JP-Name>カレー洋制圧戦</JP-Name>
-    <TR-Name>World 4-2</TR-Name>
+    <TR-Name>Curry Ocean Pacification</TR-Name>
   </Map>
   <Map>
     <JP-Name>リランカ島空襲</JP-Name>
-    <TR-Name>World 4-3</TR-Name>
+    <TR-Name>Bombing of Ri Lanka</TR-Name>
   </Map>
   <Map>
     <JP-Name>カスガダマ沖海戦</JP-Name>
-    <TR-Name>World 4-4</TR-Name>
+    <TR-Name>Battle of Casgadama</TR-Name>
   </Map>
   <Map>
     <JP-Name>カレー洋リランカ島沖</JP-Name>
-    <TR-Name>World 4-5</TR-Name>
+    <TR-Name>Curry Ocean Ri-Lanka Island</TR-Name>
   </Map>
   <Map>
     <JP-Name>南方海域前面</JP-Name>
-    <TR-Name>World 5-1</TR-Name>
+    <TR-Name>The Forefront of the Southern Sea</TR-Name>
   </Map>
   <Map>
     <JP-Name>珊瑚諸島沖</JP-Name>
-    <TR-Name>World 5-2</TR-Name>
+    <TR-Name>The Coral Islands</TR-Name>
   </Map>
   <Map>
     <JP-Name>サブ島沖海域</JP-Name>
-    <TR-Name>World 5-3</TR-Name>
+    <TR-Name>Sav Island</TR-Name>
   </Map>
   <Map>
     <JP-Name>サーモン海域</JP-Name>
-    <TR-Name>World 5-4</TR-Name>
+    <TR-Name>Salmon Sea Area</TR-Name>
   </Map>
   <Map>
     <JP-Name>サーモン海域北方</JP-Name>
-    <TR-Name>World 5-5</TR-Name>
+    <TR-Name>Northern Salmon Sea Area</TR-Name>
   </Map>
   <Map>
     <JP-Name>中部海域哨戒線</JP-Name>
-    <TR-Name>World 6-1</TR-Name>
+    <TR-Name>Central Waters Patrol Line</TR-Name>
   </Map>
   <Map>
     <JP-Name>MS諸島沖</JP-Name>
-    <TR-Name>World 6-2</TR-Name>
+    <TR-Name>MS Archipelago</TR-Name>
   </Map>
   <Map>
     <JP-Name>グアノ環礁沖海域</JP-Name>
-    <TR-Name>World 6-3</TR-Name>
+    <TR-Name>Guano Atoll Sea</TR-Name>
   </Map>
   <Map>
     <JP-Name>中部北海域ピーコック島沖</JP-Name>
-    <TR-Name>World 6-4</TR-Name>
+    <TR-Name>Peacock Island</TR-Name>
   </Map>
   <Map>
     <JP-Name>KW環礁沖海域</JP-Name>
-    <TR-Name>World 6-5</TR-Name>
+    <TR-Name>KW環礁沖海域 KW Atoll Sea</TR-Name>
   </Map>
   <Map>
     <JP-Name>カンパン湾沖</JP-Name>
@@ -136,6 +136,27 @@
     <JP-Name>北海道北東沖</JP-Name>
     <TR-Name>E-3</TR-Name>
   </Map>
+  <Map>
+    <JP-Name>本土近海諸島補給線</JP-Name>
+    <TR-Name>Mainland Coastal Islands Supply Line</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>本土沖</JP-Name>
+    <TR-Name>Mainland Sea</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>本土沖太平洋上</JP-Name>
+    <TR-Name>Mainland Sea off the Pacific Ocean</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>MS諸島北部</JP-Name>
+    <TR-Name>MS Northern Archipelago</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>MS諸島北部 B環礁沖</JP-Name>
+    <TR-Name>MS Northern Archipelago off the B Atoll</TR-Name>
+  </Map>
+  
   <Sortie>
     <JP-Name>渦潮</JP-Name>
     <TR-Name>Whirlpool</TR-Name>
@@ -358,23 +379,23 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵潜水艦隊A群</JP-Name>
-    <TR-Name>Submarine Fleet Group A</TR-Name>
+    <TR-Name>Submarine Fleet A</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵潜水艦隊B群</JP-Name>
-    <TR-Name>Submarine Fleet Group B</TR-Name>
+    <TR-Name>Submarine Fleet B</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵潜水艦隊C群</JP-Name>
-    <TR-Name>Submarine Fleet Group C</TR-Name>
+    <TR-Name>Submarine Fleet C</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵侵攻打撃艦隊A群</JP-Name>
-    <TR-Name>Invasion Strike Fleet Group A</TR-Name>
+    <TR-Name>Invasion Strike Fleet A</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵侵攻打撃艦隊B群</JP-Name>
-    <TR-Name>Invasion Strike Fleet Group B</TR-Name>
+    <TR-Name>Invasion Strike Fleet B</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵通商破壊主力艦隊</JP-Name>
@@ -406,7 +427,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵機動部隊支隊A群</JP-Name>
-    <TR-Name>Detached Task Force Group A</TR-Name>
+    <TR-Name>Detached Task Force A</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵補給部隊本体</JP-Name>
@@ -438,7 +459,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵増援任務部隊B群</JP-Name>
-    <TR-Name>Reinforcement Task Force Group B</TR-Name>
+    <TR-Name>Reinforcement Task Force B</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>ABDA残存艦隊</JP-Name>
@@ -491,7 +512,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>任務部隊支援 水上打撃部隊</JP-Name>
-    <TR-Name>1-6-K</TR-Name>
+    <TR-Name>Task Force Support Maritime Battle Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>任務部隊A群 機動部隊(第一波)</JP-Name>
@@ -608,5 +629,170 @@
   <Sortie>
     <JP-Name>敵攻略部隊本体</JP-Name>
     <TR-Name>6-2-K (Boss)</TR-Name>
+  </Sortie>
+
+  <Sortie>
+    <JP-Name>任務部隊 偵察潜水艦 I群</JP-Name>
+    <TR-Name>Recon Task Group Submarine I</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊 偵察潜水艦 II群</JP-Name>
+    <TR-Name>Recon Task Group Submarine II</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>通商破壊部隊 軽快水雷戦隊 I群</JP-Name>
+    <TR-Name>Commerce Raiding Unit Lightweight Torpedo Squadron I</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>通商破壊部隊 軽快水雷戦隊 II群</JP-Name>
+    <TR-Name>Commerce Raiding Unit Lightweight Torpedo Squadron II</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>通商破壊部隊 機動部隊群</JP-Name>
+    <TR-Name>Commerce Raiding Unit Mobile Task Group</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊 先遣潜水艦隊旗艦</JP-Name>
+    <TR-Name>Advancing Task Force Submarine Fleet Flagship</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>16th任務部隊 先遣水上打撃部隊</JP-Name>
+    <TR-Name>16th Task Force Advancing Maritime Battle Force</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>16th任務部隊 前衛空母群 A群</JP-Name>
+    <TR-Name>16th Task Force Vanguard Carrier A</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>16th任務部隊 前衛空母群 B群</JP-Name>
+    <TR-Name>16th Task Force Vanguard Carrier B</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>16th任務部隊 護衛水雷戦隊 A群</JP-Name>
+    <TR-Name>16th Task Force Torpedo Squadron A</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>16th任務部隊 護衛水雷戦隊 B群</JP-Name>
+    <TR-Name>16th Task Force Torpedo Squadron B</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>16th任務部隊 A群</JP-Name>
+    <TR-Name>16th Task Force A</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>16th任務部隊 B群</JP-Name>
+    <TR-Name>16th Task Force B</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>16th任務部隊 C群</JP-Name>
+    <TR-Name>16th Task Force C</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>16th任務部隊 D群</JP-Name>
+    <TR-Name>16th Task Force D</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>16th任務部隊 主力機動部隊群</JP-Name>
+    <TR-Name>16th Task Force Main Mobile Task Group</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>18th任務部隊 先遣巡洋艦部隊</JP-Name>
+    <TR-Name>18th Task Force Advancing Cruiser Force</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>侵入潜水艦部隊 I群</JP-Name>
+    <TR-Name>Invasion Submarine Fleet I</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>侵入潜水艦部隊 II群</JP-Name>
+    <TR-Name>Invasion Submarine Fleet II</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊 前衛潜水艦隊</JP-Name>
+    <TR-Name>Task Force Vanguard Submarine Fleet</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊付属 深海巡洋艦戦隊</JP-Name>
+    <TR-Name>Attached Task Force Deep-Sea Cruiser Squadron</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>待ち伏せ深海潜水艦隊 I群</JP-Name>
+    <TR-Name>Ambushing Deep-Sea Submarine Fleet I</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>待ち伏せ深海潜水艦隊 II群</JP-Name>
+    <TR-Name>Ambushing Deep-Sea Submarine Fleet II</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>中部方面 深海機動部隊 A群</JP-Name>
+    <TR-Name>Central Area Deep-Sea Mobile Force A</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>中部方面 深海機動部隊 B群</JP-Name>
+    <TR-Name>Central Area Deep-Sea Mobile Force B</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海棲艦 中部方面水雷戦隊</JP-Name>
+    <TR-Name>Deep-Sea Fleet Central Area Torpedo Squadron</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>拠点強襲任務部隊 巡洋艦戦隊</JP-Name>
+    <TR-Name>Base Assault Task Force Cruiser Squadron</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>拠点強襲任務部隊 機動部隊群</JP-Name>
+    <TR-Name>Base Assault Task Force Mobile Task Group</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>新生深海機動部隊 先遣隊</JP-Name>
+    <TR-Name>New Deep-Sea Mobile Force Advancing Unit</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海精鋭潜水艦隊 先遣部隊</JP-Name>
+    <TR-Name>Deep-Sea Elite Submarine Fleet Advancing Force</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海兵站線 大規模護衛輸送船団</JP-Name>
+    <TR-Name>Deep-Sea Supply Line Large Escort Transport Fleet</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海精鋭潜水艦隊 警戒隊</JP-Name>
+    <TR-Name>Deep-Sea Elite Submarine Fleet Security Unit</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海兵站線 補給艦隊</JP-Name>
+    <TR-Name>Deep-Sea Supply Line Supply Fleet</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>新生深海機動部隊 I群</JP-Name>
+    <TR-Name>New Deep-Sea Mobile Force I</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>新生深海機動部隊 II群</JP-Name>
+    <TR-Name>New Deep-Sea Mobile Force II</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>新生 深海水雷戦隊 I群</JP-Name>
+    <TR-Name>New Deep-Sea Torpedo Squadron I</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>新生 深海水雷戦隊 II群</JP-Name>
+    <TR-Name>New Deep-Sea Torpedo Squadron II</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>新生 深海水雷戦隊 III群</JP-Name>
+    <TR-Name>New Deep-Sea Torpedo Squadron III</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海精鋭潜水艦隊 群狼部隊 I群</JP-Name>
+    <TR-Name>Deep-Sea Elite Submarine Fleet Wolfpack I</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海精鋭潜水艦隊 群狼部隊 II群</JP-Name>
+    <TR-Name>Deep-Sea Elite Submarine Fleet Wolfpack II</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>海月渚泊地 旗艦艦隊</JP-Name>
+    <TR-Name>Jellyfish Area Flagship Fleet</TR-Name>
   </Sortie>
 </Operations>
