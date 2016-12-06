@@ -1,3 +1,3 @@
-﻿2016/11/29 01:00:00
-2.5.0
-29th November build. Fixed bugs and retranslated most of the UI to English.
+﻿2016/12/05 20:00:00
+2.5.1
+Browser stylesheet fix, new AA defense window, etc.
