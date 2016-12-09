@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.36">
+<Quests Version="1.1.37">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -521,7 +521,7 @@
   <Quest>
     <ID>178</ID>
     <JP-Name>「第十六戦隊(第三次)」を編成せよ！</JP-Name>
-    <TR-Name>A73: Organize the 16th Sqaudron (3rd Gen.)!</TR-Name>
+    <TR-Name>A73: Organize the 16th Squadron (3rd Gen.)!</TR-Name>
     <JP-Detail>「鬼怒」「青葉」「北上」「大井」を擁する、第十六戦隊(第三次)を編成せよ！</JP-Detail>
     <TR-Detail>Have Kinu, Aoba, Kitakami, and Ooi in your fleet.</TR-Detail>
   </Quest>
@@ -1248,8 +1248,15 @@ to World 2-4 and score an S rank victory at the boss node.</TR-Detail>
   <Quest>
     <ID>313</ID>
     <JP-Name>秋季大演習</JP-Name>
-    <TR-Name>Autumn Large-scale Exercises</TR-Name>
+    <TR-Name>C10: Autumn Large-scale Exercises</TR-Name>
     <JP-Detail>秋の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！</JP-Detail>
+    <TR-Detail>Get 8 victories in exercises within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>314</ID>
+    <JP-Name>冬季大演習</JP-Name>
+    <TR-Name>C11: Winter Large-scale Exercises</TR-Name>
+    <JP-Detail>冬の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！</JP-Detail>
     <TR-Detail>Get 8 victories in exercises within the same day.</TR-Detail>
   </Quest>
   <Quest>
@@ -1388,9 +1395,23 @@ to World 2-4 and score an S rank victory at the boss node.</TR-Detail>
   <Quest>
     <ID>421</ID>
     <JP-Name>親善艦参加観艦式を実施せよ！</JP-Name>
-    <TR-Name>Have Friendly Ship Participate in Naval Review</TR-Name>
+    <TR-Name>D20: Have Friendly Ship Participate in Naval Review</TR-Name>
     <JP-Detail>期間限定海域において、海外からの親善艦を招いて特別観艦式を実施せよ！</JP-Detail>
     <TR-Detail>Send six ships (flagship level 6+, summary level 15+) and complete expedition 175 (親善艦参加観艦式).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>422</ID>
+    <JP-Name>潜水艦派遣作戦による航空機技術入手</JP-Name>
+    <TR-Name>D21: Obtain Aviation Engineering from Submarine Dispatch Operation</TR-Name>
+    <JP-Detail>潜水艦派遣作戦により、新型航空機技術の導入に努めよ！</JP-Detail>
+    <TR-Detail>Complete Expedition 30 (潜水艦派遣作戦).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>423</ID>
+    <JP-Name>Unknown</JP-Name>
+    <TR-Name>D22: Obtain Jet Engine Technology from Submarine Dispatch Operation</TR-Name>
+    <JP-Detail>Unknown</JP-Detail>
+    <TR-Detail>Unknown</TR-Detail>
   </Quest>
   <Quest>
     <ID>501</ID>
@@ -1740,7 +1761,7 @@ And then, scrap one Type 3 Shell.</TR-Detail>
   <Quest>
     <ID>646</ID>
     <JP-Name>「特注家具」の調達</JP-Name>
-    <TR-Name>F42: Procurement of Custom-made Furniture</TR-Name>
+    <TR-Name>Procurement of Custom-made Furniture</TR-Name>
     <JP-Detail>「25mm単装機銃」一つを廃棄、家具コイン5,000と「25mm連装機銃」及び「25mm三連装機銃」を各&lt;br&gt;二つ準備せよ！　※任務達成後、用意した家具コイン及び必要装備(改修値の低いもの優先)は消滅します。</JP-Detail>
     <TR-Detail>Have 5000 furniture coin, two 25mm Twin Autocannon Mount, and two 25mm Triple Autocannon Mount in your inventory.
 Unlock both equipment. And then, scrap one 25mm Single Autocannon Mount.</TR-Detail>
@@ -1751,6 +1772,30 @@ Unlock both equipment. And then, scrap one 25mm Single Autocannon Mount.</TR-Det
     <TR-Name>F43: Launch the LBAS to the Central Ocean Area!</TR-Name>
     <JP-Detail>ドラム缶(輸送用)」二つを廃棄、燃料1200及びボーキサイト3000、さらに「設営隊」一つを準備せよ！&lt;br&gt;※任務達成後、用意した資源及び「設営隊」は消滅します。</JP-Detail>
     <TR-Detail>Have 1200 fuel, 3000 bauxite, and a Construction Corps. And then, Scrap 2 drums.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>648</ID>
+    <JP-Name>「特注家具」の調達</JP-Name>
+    <TR-Name>Procurement of Custom-made Furniture</TR-Name>
+    <JP-Detail>「12.7cm連装高角砲」二つを廃棄し、家具コイン5,000と「14cm単装砲」及び「15.2cm単装砲」を各二つずつ準備せよ！　※任務達成後、用意した家具コイン及び必要装備(低改修を優先)は消費します。</JP-Detail>
+    <TR-Detail>Have 5000 furniture coin, two 14cm Single Gun Mount, and two 15.2cm Single Gun Mount in your inventory.
+Unlock both equipment. And then, scrap two 12.7cm Twin High-angle Gun Mount.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>649</ID>
+    <JP-Name>新機軸偵察機の開発</JP-Name>
+    <TR-Name>Develop the New Reconnaissance Plane</TR-Name>
+    <JP-Detail>新機軸の偵察機の調達を行う。「零式水上偵察機」を二つ「工廠」で廃棄し、&lt;br&gt;「一式陸攻」一つと「彩雲」二つを準備せよ！(任務達成後、用意した必要装備は消費します)</JP-Detail>
+    <TR-Detail>Have one Type 1 Attack Bomber and two Saiun in your inventory. Unlock both equipment.
+And then, scrap two Type 0 Reconnaissance Seaplane.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>650</ID>
+    <JP-Name>噴式戦闘爆撃機の開発	</JP-Name>
+    <TR-Name>Develop the Jet Fighter-bomber</TR-Name>
+    <JP-Detail>ネ式エンジンを搭載した新型戦闘爆撃機の開発を行う。「紫電改二」三つを「工廠」で廃棄し、「新型航空機設計図」二つと「ネ式エンジン」一つを準備せよ！(任務達成後、用意した必要アイテムは消費します)</JP-Detail>
+    <TR-Detail>Have two New Aircraft Blueprint and one Ne-type Engine in your inventory.
+And then, scrap three Shiden Kai 2.</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
@@ -1779,6 +1824,13 @@ Unlock both equipment. And then, scrap one 25mm Single Autocannon Mount.</TR-Det
     <TR-Name>G4: Preparation for LSC (Part 1)</TR-Name>
     <JP-Detail>大型艦/新型艦建造のための準備を行う。任意の艦で近代化改修を4回成功させよ！</JP-Detail>
     <TR-Detail>Perform 4 successful modernizations.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>705</ID>
+    <JP-Name>航空艤装の近代化改修</JP-Name>
+    <TR-Name>G5: Modernization of Aircraft Equipment</TR-Name>
+    <JP-Detail>鉄鋼5,500及びボーキサイト2,500を準備して、任意の正規空母の近代化改修を&lt;br&gt;[航空母艦]x5隻同時使用により2回成功させよ！※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>Have 5500 steel and 2500 bauxite in your inventory. And then, modernize a CV twice, each with five CV/L.</TR-Detail>
   </Quest>
   <Quest>
     <ID>801</ID>
@@ -2039,5 +2091,19 @@ Aoba Kai, Uranami Kai, or Shikinami Kai and score an S-rank victory against Worl
     <TR-Name>B86: Report the Success of a Transport Operation!</TR-Name>
     <JP-Detail>「鬼怒改二」を旗艦、僚艦に「浦波改」他駆逐艦3隻の計5隻の艦隊で&lt;br&gt;バシー島沖における柳輸送作戦を実施、同輸送作戦を完全成功させ、帰還せよ！</JP-Detail>
     <TR-Detail>Sortie Kinu Kai Ni, Uranami Kai, 3 destroyers, and one wildcard and score an S-rank victory against World 2-2 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>838</ID>
+    <JP-Name>重巡戦隊、抜錨せよ！</JP-Name>
+    <TR-Name>B87: Sortie a Heavy Cruiser Squadron!</TR-Name>
+    <JP-Detail>重巡4隻を基幹戦力とした重巡旗艦の艦隊を南西諸島海域東部オリョール海に展開し、&lt;br&gt;同海域の敵艦隊を撃滅、制海権を確保せよ！</JP-Detail>
+    <TR-Detail>Sortie four CA (one as flagship) and two wildcard and score an S-rank victory against World 2-3 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>839d</ID>
+    <JP-Name>戦艦戦隊、出撃せよ！</JP-Name>
+    <TR-Name>B88: Sortie a Battleship Squadron!</TR-Name>
+    <JP-Detail>戦艦2隻を中核戦力とする戦艦旗艦の艦隊を北方海域アルフォンシーノ方面に進出させ、&lt;br&gt;同海域の敵艦隊を撃滅、北方海域の制海権確保に努めよ！</JP-Detail>
+    <TR-Detail>Sortie two BB (one as flagship) and four wildcard and score an S-rank victory against World 3-3 Boss.</TR-Detail>
   </Quest>
 </Quests>
