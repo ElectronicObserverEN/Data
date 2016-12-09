@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.11">
+<Equipment Version="1.3.12">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -787,6 +787,14 @@
   <Item>
 	<JP-Name>SBD</JP-Name>
 	<TR-Name>SBD Dauntless</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>噴式景雲改</JP-Name>
+	<TR-Name>Jet-powered Keiun Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>橘花改</JP-Name>
+	<TR-Name>Kikka Kai</TR-Name>
   </Item>
   
   
