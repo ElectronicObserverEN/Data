@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.37">
+<Quests Version="1.1.38">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1395,21 +1395,21 @@ to World 2-4 and score an S rank victory at the boss node.</TR-Detail>
   <Quest>
     <ID>421</ID>
     <JP-Name>親善艦参加観艦式を実施せよ！</JP-Name>
-    <TR-Name>D20: Have Friendly Ship Participate in Naval Review</TR-Name>
+    <TR-Name>Have Friendly Ship Participate in Naval Review</TR-Name>
     <JP-Detail>期間限定海域において、海外からの親善艦を招いて特別観艦式を実施せよ！</JP-Detail>
     <TR-Detail>Send six ships (flagship level 6+, summary level 15+) and complete expedition 175 (親善艦参加観艦式).</TR-Detail>
   </Quest>
   <Quest>
     <ID>422</ID>
     <JP-Name>潜水艦派遣作戦による航空機技術入手</JP-Name>
-    <TR-Name>D21: Obtain Aviation Engineering from Submarine Dispatch Operation</TR-Name>
+    <TR-Name>D20: Obtain Aviation Engineering from Submarine Dispatch Operation</TR-Name>
     <JP-Detail>潜水艦派遣作戦により、新型航空機技術の導入に努めよ！</JP-Detail>
     <TR-Detail>Complete Expedition 30 (潜水艦派遣作戦).</TR-Detail>
   </Quest>
   <Quest>
     <ID>423</ID>
-    <JP-Name>Unknown</JP-Name>
-    <TR-Name>D22: Obtain Jet Engine Technology from Submarine Dispatch Operation</TR-Name>
+    <JP-Name>潜水艦派遣作戦による噴式技術の入手</JP-Name>
+    <TR-Name>D21: Obtain Jet Engine Technology from Submarine Dispatch Operation</TR-Name>
     <JP-Detail>Unknown</JP-Detail>
     <TR-Detail>Unknown</TR-Detail>
   </Quest>
@@ -1784,18 +1784,25 @@ Unlock both equipment. And then, scrap two 12.7cm Twin High-angle Gun Mount.</TR
   <Quest>
     <ID>649</ID>
     <JP-Name>新機軸偵察機の開発</JP-Name>
-    <TR-Name>Develop the New Reconnaissance Plane</TR-Name>
+    <TR-Name>F45: Develop the New Reconnaissance Plane</TR-Name>
     <JP-Detail>新機軸の偵察機の調達を行う。「零式水上偵察機」を二つ「工廠」で廃棄し、&lt;br&gt;「一式陸攻」一つと「彩雲」二つを準備せよ！(任務達成後、用意した必要装備は消費します)</JP-Detail>
     <TR-Detail>Have one Type 1 Attack Bomber and two Saiun in your inventory. Unlock both equipment.
 And then, scrap two Type 0 Reconnaissance Seaplane.</TR-Detail>
   </Quest>
   <Quest>
     <ID>650</ID>
-    <JP-Name>噴式戦闘爆撃機の開発	</JP-Name>
-    <TR-Name>Develop the Jet Fighter-bomber</TR-Name>
+    <JP-Name>噴式戦闘爆撃機の開発</JP-Name>
+    <TR-Name>F46: Develop the Jet Fighter-bomber</TR-Name>
     <JP-Detail>ネ式エンジンを搭載した新型戦闘爆撃機の開発を行う。「紫電改二」三つを「工廠」で廃棄し、「新型航空機設計図」二つと「ネ式エンジン」一つを準備せよ！(任務達成後、用意した必要アイテムは消費します)</JP-Detail>
     <TR-Detail>Have two New Aircraft Blueprint and one Ne-type Engine in your inventory.
 And then, scrap three Shiden Kai 2.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>650</ID>
+    <JP-Name>ネ式エンジンの増産</JP-Name>
+    <TR-Name>F47: Increase Production of Ne-type Engine</TR-Name>
+    <JP-Detail>Unknown</JP-Detail>
+    <TR-Detail>Unknown</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
@@ -2100,7 +2107,7 @@ Aoba Kai, Uranami Kai, or Shikinami Kai and score an S-rank victory against Worl
     <TR-Detail>Sortie four CA (one as flagship) and two wildcard and score an S-rank victory against World 2-3 Boss.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>839d</ID>
+    <ID>839</ID>
     <JP-Name>戦艦戦隊、出撃せよ！</JP-Name>
     <TR-Name>B88: Sortie a Battleship Squadron!</TR-Name>
     <JP-Detail>戦艦2隻を中核戦力とする戦艦旗艦の艦隊を北方海域アルフォンシーノ方面に進出させ、&lt;br&gt;同海域の敵艦隊を撃滅、北方海域の制海権確保に努めよ！</JP-Detail>
