@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.38">
+<Quests Version="1.1.39">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1404,14 +1404,14 @@ to World 2-4 and score an S rank victory at the boss node.</TR-Detail>
     <JP-Name>潜水艦派遣作戦による航空機技術入手</JP-Name>
     <TR-Name>D20: Obtain Aviation Engineering from Submarine Dispatch Operation</TR-Name>
     <JP-Detail>潜水艦派遣作戦により、新型航空機技術の導入に努めよ！</JP-Detail>
-    <TR-Detail>Complete Expedition 30 (潜水艦派遣作戦).</TR-Detail>
+    <TR-Detail>Complete Expedition 30 (潜水艦派遣作戦) twice.</TR-Detail>
   </Quest>
   <Quest>
     <ID>423</ID>
     <JP-Name>潜水艦派遣作戦による噴式技術の入手</JP-Name>
     <TR-Name>D21: Obtain Jet Engine Technology from Submarine Dispatch Operation</TR-Name>
-    <JP-Detail>Unknown</JP-Detail>
-    <TR-Detail>Unknown</TR-Detail>
+    <JP-Detail>鉄鋼5,000及びボーキサイト1,500を準備して、潜水艦派遣作戦により&lt;br&gt;噴式エンジン技術の導入に努めよ！※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>Have 5000 steel and 1500 bauxite while completing Expedition 30 (潜水艦派遣作戦) twice.</TR-Detail>
   </Quest>
   <Quest>
     <ID>501</ID>
@@ -1798,7 +1798,7 @@ And then, scrap two Type 0 Reconnaissance Seaplane.</TR-Detail>
 And then, scrap three Shiden Kai 2.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>650</ID>
+    <ID>651</ID>
     <JP-Name>ネ式エンジンの増産</JP-Name>
     <TR-Name>F47: Increase Production of Ne-type Engine</TR-Name>
     <JP-Detail>Unknown</JP-Detail>
