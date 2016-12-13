@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.41">
+<Quests Version="1.1.42">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1801,8 +1801,9 @@ And then, scrap three Shiden Kai 2.</TR-Detail>
     <ID>651</ID>
     <JP-Name>ネ式エンジンの増産</JP-Name>
     <TR-Name>F47: Increase Production of Ne-type Engine</TR-Name>
-    <JP-Detail>Unknown</JP-Detail>
-    <TR-Detail>Unknown</TR-Detail>
+    <JP-Detail>噴式航空機生産のため、ネ式エンジンの増産を行う。「零式艦戦52型」三つを「工廠」で廃棄し、「流星」「烈風」各二つと鉄鋼8,000を準備せよ！※任務達成後、用意した必要装備と資源は消費します。</JP-Detail>
+    <TR-Detail>Have 8000 steel, two Reppuu, and two Ryuusei in your inventory.
+Unlock both equipment. And then, scrap three Zero Fighter Model 52.</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
@@ -2025,7 +2026,7 @@ And then, scrap three Shiden Kai 2.</TR-Detail>
     <ID>827</ID>
     <JP-Name>「第十九駆逐隊」敵主力に突入せよ！</JP-Name>
     <TR-Name>B79: Sortie the 19th Destroyer Division to the Enemy Main Force!</TR-Name>
-    <JP-Detail>「第十九駆逐隊」を含む有力な艦隊を編成し、南西諸島海域沖ノ島沖に展開！同方面に遊弋する敵主力を捕捉、これを撃破せよ！</JP-Detail>
+    <JP-Detail>「第十九駆逐隊」を含む有力な艦隊を編成し、南西諸島海域沖ノ島沖に展開！&lt;br&gt;同方面に遊弋する敵主力を捕捉、これを撃破せよ！</JP-Detail>
     <TR-Detail>Sortie Isonami, Uranami, Ayanami, Shikinami, and two wildcards and score an A rank victory against World 2-5 Boss.</TR-Detail>
   </Quest>
   <Quest>
