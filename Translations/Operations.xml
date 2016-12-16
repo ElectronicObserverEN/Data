@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.3.02">
+<Operations Version="1.3.03">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>Sea in Front of the Naval Base</TR-Name>
@@ -195,7 +195,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵主力艦隊</JP-Name>
-    <TR-Name>Main Fleet (Boss)</TR-Name>
+    <TR-Name>Main Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵前衛艦隊</JP-Name>
@@ -203,7 +203,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵主力部隊</JP-Name>
-    <TR-Name>Main Force (Boss)</TR-Name>
+    <TR-Name>Main Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵支援艦隊</JP-Name>
@@ -215,7 +215,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵機動部隊</JP-Name>
-    <TR-Name>Task Force (Boss)</TR-Name>
+    <TR-Name>Task Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵護衛空母群</JP-Name>
@@ -231,11 +231,11 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵通商破壊艦隊</JP-Name>
-    <TR-Name>Trade Destruction Fleet (Boss)</TR-Name>
+    <TR-Name>Commerce Raiding Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵巡洋艦隊</JP-Name>
-    <TR-Name>Cruiser Corps</TR-Name>
+    <TR-Name>Cruiser Group</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵強襲揚陸艦隊</JP-Name>
@@ -243,11 +243,11 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵主力打撃群</JP-Name>
-    <TR-Name>Main Strike Group (Boss)</TR-Name>
+    <TR-Name>Main Strike Group</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵水上打撃艦隊</JP-Name>
-    <TR-Name>Aquatic Strike Fleet</TR-Name>
+    <TR-Name>Surface Strike Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵空母機動部隊</JP-Name>
@@ -259,7 +259,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵侵攻中核艦隊</JP-Name>
-    <TR-Name>Core Invasion Fleet (Boss)</TR-Name>
+    <TR-Name>Core Invasion Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵哨戒艦隊</JP-Name>
@@ -267,15 +267,15 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵北方侵攻艦隊</JP-Name>
-    <TR-Name>Northern Invasion Fleet (Boss)</TR-Name>
+    <TR-Name>Northern Invasion Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵キス島包囲艦隊</JP-Name>
-    <TR-Name>Kis Island Siege Fleet (Boss)</TR-Name>
+    <TR-Name>Kis Island Siege Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>深海棲艦泊地艦隊</JP-Name>
-    <TR-Name>Alfonsiones Deep-Sea Fleet (Boss)</TR-Name>
+    <TR-Name>Alfonsiones Deep-Sea Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>深海棲艦泊地防衛艦隊</JP-Name>
@@ -283,11 +283,11 @@
   </Sortie>
   <Sortie>
     <JP-Name>深海棲艦北方艦隊中枢</JP-Name>
-    <TR-Name>Central Deep-Sea Northern Fleet (Boss)</TR-Name>
+    <TR-Name>Central Deep-Sea Northern Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>深海棲艦水上打撃艦隊</JP-Name>
-    <TR-Name>Deep-Sea Aquatic Strike Fleet</TR-Name>
+    <TR-Name>Deep-Sea Surface Strike Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>東方潜水艦隊</JP-Name>
@@ -299,15 +299,15 @@
   </Sortie>
   <Sortie>
     <JP-Name>東方派遣艦隊</JP-Name>
-    <TR-Name>Eastern Dispatch Fleet (Boss)</TR-Name>
+    <TR-Name>Eastern Dispatch Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵潜水教導艦隊</JP-Name>
-    <TR-Name>Kyoudou Submarine Fleet</TR-Name>
+    <TR-Name>Submarine Training Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>東方主力艦隊</JP-Name>
-    <TR-Name>Eastern Main Fleet (Boss)</TR-Name>
+    <TR-Name>Eastern Main Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵補給船団</JP-Name>
@@ -327,19 +327,19 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵東方中枢艦隊</JP-Name>
-    <TR-Name>East Central Fleet (Boss)</TR-Name>
+    <TR-Name>East Central Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵前線哨戒艦隊</JP-Name>
-    <TR-Name>Front Line Patrol Fleet</TR-Name>
+    <TR-Name>Front-line Patrol Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵水上打撃部隊</JP-Name>
-    <TR-Name>Aquatic Strike Force</TR-Name>
+    <TR-Name>Surface Task Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵前線司令艦隊</JP-Name>
-    <TR-Name>Front Line Commander Fleet (Boss)</TR-Name>
+    <TR-Name>Front-line Commander Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵任務部隊</JP-Name>
@@ -347,7 +347,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵機動部隊本隊</JP-Name>
-    <TR-Name>Main Task Force (Boss)</TR-Name>
+    <TR-Name>Main Task Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵補給部隊</JP-Name>
@@ -371,7 +371,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵サーモン方面主力艦隊</JP-Name>
-    <TR-Name>Main Fleet Headquarters (Boss)</TR-Name>
+    <TR-Name>Salmon Area Main Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵偵察潜水艦</JP-Name>
@@ -399,7 +399,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵通商破壊主力艦隊</JP-Name>
-    <TR-Name>Main Trade Attack Fleet (Boss)</TR-Name>
+    <TR-Name>Main Commerce Raiding Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵ピケット艦隊</JP-Name>
@@ -407,11 +407,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵遊撃部隊</JP-Name>
-    <TR-Name>Guerilla Force</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>敵遊撃部隊</JP-Name>
-    <TR-Name>Guerilla Force</TR-Name>
+    <TR-Name>Raiding Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵任務艦隊</JP-Name>
@@ -431,7 +427,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵補給部隊本体</JP-Name>
-    <TR-Name>Main Supply Convoy (Boss)</TR-Name>
+    <TR-Name>Main Supply Convoy</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵前衛警戒部隊</JP-Name>
@@ -447,7 +443,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵任務部隊本隊</JP-Name>
-    <TR-Name>Main Task Force(Boss)</TR-Name>
+    <TR-Name>Main Task Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵緊急派遣艦隊</JP-Name>
@@ -455,7 +451,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>ABDA主力艦隊</JP-Name>
-    <TR-Name>ABDA Main Fleet (Boss)</TR-Name>
+    <TR-Name>ABDA Main Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵増援任務部隊B群</JP-Name>
@@ -467,11 +463,11 @@
   </Sortie>
     <Sortie>
     <JP-Name>深海棲艦ポートワイン泊地</JP-Name>
-    <TR-Name>Port Wine Area Deep Sea Fleet (Boss)</TR-Name>
+    <TR-Name>Port Wine Area Deep Sea Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵増援任務部隊</JP-Name>
-    <TR-Name>Renforcement Task Force</TR-Name>
+    <TR-Name>Reinforcement Task Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵潜水主力艦隊</JP-Name>
@@ -479,156 +475,128 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵潜水主力艦隊</JP-Name>
-    <TR-Name>Main Submarine Force (Boss)</TR-Name>
+    <TR-Name>Main Submarine Force</TR-Name>
   </Sortie>
 
   <Sortie>
-    <JP-Name>任務部隊C群 前衛部隊</JP-Name>
-    <TR-Name>1-6-B</TR-Name>
+    <JP-Name>任務部隊A群 機動部隊(第一波)</JP-Name>
+    <TR-Name>Task Force A Mobile Force (1st Wave)</TR-Name>
   </Sortie>
-  <Map>
-    <JP-Name>通商破壊潜水艦隊 II群</JP-Name>
-    <TR-Name>1-6-C</TR-Name>
-  </Map>
   <Sortie>
     <JP-Name>任務部隊A群 機動部隊(第二波)</JP-Name>
-    <TR-Name>1-6-D</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>通商破壊潜水艦隊 III群</JP-Name>
-    <TR-Name>1-6-E</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>任務部隊C群 機動部隊</JP-Name>
-    <TR-Name>1-6-F</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>通商破壊潜水艦隊 I群</JP-Name>
-    <TR-Name>1-6-I</TR-Name>
+    <TR-Name>Task Force A Mobile Force (2nd Wave)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>任務部隊A群 機動部隊本隊</JP-Name>
-    <TR-Name>1-6-J</TR-Name>
+    <TR-Name>Task Force A Main Mobile Force</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊C群 機動部隊</JP-Name>
+    <TR-Name>Task Force C Mobile Force</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊C群 前衛部隊</JP-Name>
+    <TR-Name>Task Force C Vanguard Unit</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>任務部隊支援 水上打撃部隊</JP-Name>
-    <TR-Name>Task Force Support Maritime Battle Force</TR-Name>
+    <TR-Name>Support Task Force Surface Task Group</TR-Name>
   </Sortie>
   <Sortie>
-    <JP-Name>任務部隊A群 機動部隊(第一波)</JP-Name>
-    <TR-Name>1-6-L</TR-Name>
+    <JP-Name>通商破壊潜水艦隊 I群</JP-Name>
+    <TR-Name>Commerce Raiding Submarine Fleet I</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>通商破壊潜水艦隊 II群</JP-Name>
+    <TR-Name>Commerce Raiding Submarine Fleet II</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>通商破壊潜水艦隊 III群</JP-Name>
+    <TR-Name>Commerce Raiding Submarine Fleet III</TR-Name>
   </Sortie>
 
   <Sortie>
-    <JP-Name>敵水雷戦隊</JP-Name>
-    <TR-Name>2-5-A</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>敵前衛艦隊</JP-Name>
-    <TR-Name>2-5-B</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>敵巡洋艦隊</JP-Name>
-    <TR-Name>2-5-D</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>敵水上打撃部隊</JP-Name>
-    <TR-Name>2-5-E</TR-Name>
-  </Sortie>
-  <Sortie>
     <JP-Name>敵機動艦隊</JP-Name>
-    <TR-Name>2-5-I</TR-Name>
+    <TR-Name>Mobile Fleet</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵侵攻部隊</JP-Name>
-    <TR-Name>2-5-J</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>敵主力艦隊</JP-Name>
-    <TR-Name>2-5-L (Boss)</TR-Name>
+    <TR-Name>Invasion Unit</TR-Name>
   </Sortie>
 
   <Sortie>
     <JP-Name>北方前衛警戒部隊</JP-Name>
-    <TR-Name>3-5-A</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>北方増援部隊前衛A</JP-Name>
-    <TR-Name>3-5-B</TR-Name>
+    <TR-Name>Detached Security Vanguard</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>北方派遣任務部隊</JP-Name>
-    <TR-Name>3-5-C</TR-Name>
+    <TR-Name>Northern Dispatch Task Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>北方遊撃部隊</JP-Name>
-    <TR-Name>3-5-E</TR-Name>
+    <TR-Name>Northern Raiding Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>北方AL泊地</JP-Name>
-    <TR-Name>3-5-F</TR-Name>
+    <TR-Name>Northern AL Area</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方増援部隊前衛A</JP-Name>
+    <TR-Name>Northern Reinforcement Unit A</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>北方増援部隊前衛B</JP-Name>
-    <TR-Name>3-5-G</TR-Name>
+    <TR-Name>Northern Reinforcement Unit B</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>北方増援部隊主力</JP-Name>
-    <TR-Name>3-5-K (Boss)</TR-Name>
+    <TR-Name>Northern Reinforcement Main Force</TR-Name>
   </Sortie>
 
   <Sortie>
     <JP-Name>中部海域 敵遊撃部隊</JP-Name>
-    <TR-Name>6-1-B</TR-Name>
+    <TR-Name>Central Waters Raiding Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>中部海域哨戒戦 A地点</JP-Name>
-    <TR-Name>6-1-C</TR-Name>
+    <TR-Name>Central Waters Patrol Battle Point A</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>中部海域哨戒戦 B地点</JP-Name>
-    <TR-Name>6-1-D</TR-Name>
+    <TR-Name>Central Waters Patrol Battle Point B</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>中部海域哨戒戦 D地点</JP-Name>
-    <TR-Name>6-1-F</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>敵機動部隊</JP-Name>
-    <TR-Name>6-1-H</TR-Name>
+    <TR-Name>Central Waters Patrol Battle Point D</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵回航中空母</JP-Name>
-    <TR-Name>6-1-K (Boss)</TR-Name>
+    <TR-Name>Towed Aircraft Carrier</TR-Name>
   </Sortie>
 
   <Sortie>
     <JP-Name>敵攻略支援部隊A群</JP-Name>
-    <TR-Name>6-2-A</TR-Name>
+    <TR-Name>Capture Support Group A</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵攻略支援部隊B群</JP-Name>
-    <TR-Name>6-2-B</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>敵空母機動部隊</JP-Name>
-    <TR-Name>6-2-E</TR-Name>
+    <TR-Name>Capture Support Group B</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵高速水上打撃部隊</JP-Name>
-    <TR-Name>6-2-G</TR-Name>
+    <TR-Name>Fast Surface Task Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵任務部隊B群</JP-Name>
-    <TR-Name>6-2-H</TR-Name>
+    <TR-Name>Task Force B</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵任務部隊A群</JP-Name>
-    <TR-Name>6-2-I</TR-Name>
+    <TR-Name>Task Force A</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵攻略部隊本体</JP-Name>
-    <TR-Name>6-2-K (Boss)</TR-Name>
+    <TR-Name>Main Capture Force</TR-Name>
   </Sortie>
 
   <Sortie>
@@ -657,7 +625,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>16th任務部隊 先遣水上打撃部隊</JP-Name>
-    <TR-Name>16th Task Force Advancing Maritime Battle Force</TR-Name>
+    <TR-Name>16th Task Force Advancing Surface Task Group</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>16th任務部隊 前衛空母群 A群</JP-Name>
