@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.13">
+<Equipment Version="1.3.14">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -130,11 +130,11 @@
   </Item>
   <Item>
     <JP-Name>改良型艦本式タービン</JP-Name>
-    <TR-Name>Improved Kanhon Type Turbine</TR-Name>
+    <TR-Name>Improved Steam Turbine</TR-Name>
   </Item>
   <Item>
     <JP-Name>強化型艦本式缶</JP-Name>
-    <TR-Name>Enhanced Kanhon Type Boiler</TR-Name>
+    <TR-Name>Enhanced Steam Boiler</TR-Name>
   </Item>
   <Item>
     <JP-Name>三式弾</JP-Name>
@@ -346,7 +346,7 @@
   </Item>
   <Item>
     <JP-Name>新型高温高圧缶</JP-Name>
-    <TR-Name>New Model High Temperature High Pressure Boiler</TR-Name>
+    <TR-Name>New High Pressure-Temperature Steam Boiler</TR-Name>
   </Item>
   <Item>
     <JP-Name>22号対水上電探改四</JP-Name>
@@ -795,6 +795,10 @@
   <Item>
 	<JP-Name>橘花改</JP-Name>
 	<TR-Name>Kikka Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>艦本新設計 増設バルジ(大型艦)</JP-Name>
+	<TR-Name>New Model Anti-torpedo Bulge (L)</TR-Name>
   </Item>
   
   
