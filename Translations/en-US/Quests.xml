@@ -2125,7 +2125,7 @@ Aoba Kai, Uranami Kai, or Shikinami Kai and score an S-rank victory against Worl
     <ID>841</ID>
     <JP-Name>冬季特別任務：水上機母艦、抜錨せよ！</JP-Name>
     <TR-Name>Winter Special Mission: Seaplane Tender, Set Sail!</TR-Name>
-    <JP-Detail>水上機母艦を旗艦とし、護衛駆逐艦3隻を含む艦隊を編成、<br>製油所地帯沿岸及び南西諸島防衛線に展開、同海域に出没する敵艦隊を撃滅せよ！</JP-Detail>
+    <JP-Detail>水上機母艦を旗艦とし、護衛駆逐艦3隻を含む艦隊を編成、&lt;br&gt;製油所地帯沿岸及び南西諸島防衛線に展開、同海域に出没する敵艦隊を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie AV as flagship, three DD, and two wildcard and score an S-rank victory against World 1-3 and 1-4 Boss.</TR-Detail>
   </Quest>
 </Quests>
