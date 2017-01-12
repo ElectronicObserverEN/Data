@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.15">
+<Equipment Version="1.3.16">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -1004,7 +1004,7 @@
   </Item>
   <Item>
     <JP-Name>深海猫艦戦</JP-Name>
-    <TR-Name>Abyssalcat Fighter</TR-Name>
+    <TR-Name>Abyssal Cat Fighter</TR-Name>
   </Item>
   <Item>
     <JP-Name>深海地獄艦爆</JP-Name>
@@ -1028,7 +1028,7 @@
   </Item>
   <Item>
 	<JP-Name>深海猫艦戦改</JP-Name>
-	<TR-Name>Abyssalcat Fighter Kai</TR-Name>
+	<TR-Name>Abyssal Cat Fighter Kai</TR-Name>
   </Item>
   <Item>
 	<JP-Name>深海地獄艦爆改</JP-Name>
