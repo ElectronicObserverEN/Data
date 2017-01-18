@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.45">
+<Quests Version="1.1.46">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -376,28 +376,28 @@
     <JP-Name>海上突入部隊を編成せよ！</JP-Name>
     <TR-Name>A52: Form the Maritime Assault Fleet</TR-Name>
     <JP-Detail>戦艦「比叡」「霧島」軽巡「長良」駆逐艦「暁」「雷」「電」による海上突入部隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have Hiei (比叡), Kirishima (霧島), Nagara (長良), Akatsuki (暁), Ikazuchi (雷) and Inazuma (電) in your main fleet.</TR-Detail>
+    <TR-Detail>Have Hiei (比叡), Kirishima (霧島), Nagara (長良), Akatsuki (暁), Ikazuchi and Inazuma in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>155</ID>
     <JP-Name>新編「第六駆逐隊」を編成せよ！</JP-Name>
     <TR-Name>A53: Form the New 6th Destroyer Division</TR-Name>
     <JP-Detail>「暁改二」を旗艦とした「響」「雷」「電」4隻による第六駆逐隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have ONLY Akatsuki Kai2 (暁改二) as the flagship, Hibiki (響 or Верный), Ikazuchi (雷) and Inazuma (電) in your main fleet.</TR-Detail>
+    <TR-Detail>Have ONLY Akatsuki Kai2 as the flagship, Hibiki, Ikazuchi and Inazuma in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>156</ID>
     <JP-Name>「第一水雷戦隊」北方突入準備！</JP-Name>
     <TR-Name>A54: Prepare the 1st Torpedo Squadron for the Deployment to the Northern Sea</TR-Name>
     <JP-Detail>「阿武隈」を旗艦として「響」「初霜」「若葉」「五月雨」「島風」による一水戦を編成せよ！</JP-Detail>
-    <TR-Detail>Have Abukuma (阿武隈) as the flagship, Hibiki (響 or Верный), Hatsushimo (初霜), Wakaba (若葉), Samidare (五月雨) and Shimakaze (島風) in your main fleet.</TR-Detail>
+    <TR-Detail>Have Abukuma (阿武隈) as the flagship, Hibiki, Hatsushimo (初霜), Wakaba (若葉), Samidare (五月雨) and Shimakaze (島風) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>157</ID>
     <JP-Name>「第一水雷戦隊」北方再突入準備！</JP-Name>
     <TR-Name>A55: Prepare the 1st Torpedo Squadron for Another Sortie to the Northern Sea</TR-Name>
     <JP-Detail>「阿武隈改二」を旗艦として「響」「夕雲」「長波」「秋雲」「島風」の一水戦を再編成せよ！</JP-Detail>
-    <TR-Detail>Have Abukuma Kai2 (阿武隈改二) as the flagship, Hibiki (響 or Верный), Yuugumo (夕雲), Naganami (長波), Akigumo (秋雲) and Shimakaze (島風) in your main fleet.</TR-Detail>
+    <TR-Detail>Have Abukuma Kai2 (阿武隈改二) as the flagship, Hibiki, Yuugumo (夕雲), Naganami (長波), Akigumo (秋雲) and Shimakaze (島風) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>161</ID>
@@ -685,7 +685,7 @@ Kuma Kai, Aoba Kai, Uranami Kai, or Shikinami Kai in your fleet.</TR-Detail>
     <JP-Name>「第六駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>B12: Sortie the 6th Destroyer Division</TR-Name>
     <JP-Detail>「暁」「響」「雷」「電」による第六駆逐隊、出撃せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with ONLY Akatsuki (暁), Hibiki (響), Inazuma (電), and Ikazuchi (雷).</TR-Detail>
+    <TR-Detail>Sortie a fleet with ONLY Akatsuki (暁), Hibiki (響), Inazuma, and Ikazuchi.</TR-Detail>
   </Quest>
   <Quest>
     <ID>223</ID>
@@ -1025,42 +1025,45 @@ Kako (加古), Furutaka (古鷹), Tenryuu (天龍), Yuubari (夕張) to World 5-
     <JP-Name>「第六駆逐隊」対潜哨戒なのです！</JP-Name>
     <TR-Name>B42: 6th Destroyer Division's Anti-Submarine Patrol</TR-Name>
     <JP-Detail>「第六駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！</JP-Detail>
-    <TR-Detail>Sortie Akatsuki (暁), Hibiki (響 or Верный), Inazuma (雷) and Ikazuchi (電) to World 1-5. At least C rank is required at the boss node.</TR-Detail>
+    <TR-Detail>Sortie Akatsuki, Hibiki, Inazuma, and Ikazuchi to World 1-5.
+At least C rank is required at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>275</ID>
     <JP-Name>抜錨！「第十八戦隊」</JP-Name>
     <TR-Name>B43: 18th Cruiser Division, Set Sail!</TR-Name>
     <JP-Detail>「天龍」「龍田」を基幹戦力とした「第十八戦隊」で出撃し、オリョール海の敵主力を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Tenryuu (天龍), Tatsuta (龍田) and 2 or more other ships to World 2-3 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie Tenryuu, Tatsuta, and 2 or more other ships and score an S rank victory at World 2-3 boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>276</ID>
     <JP-Name>海上突入部隊、進発せよ！</JP-Name>
     <TR-Name>B44: Sortie the Maritime Assault Fleet</TR-Name>
     <JP-Detail>「比叡」「霧島」「長良」「暁」「雷」「電」の艦隊で、南方海域進出作戦を実施、敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Hiei (比叡), Kirishima (霧島), Nagara (長良), Akatsuki (暁), Ikazuchi (雷) and Inazuma (電) to World 5-1 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, and Inazuma and
+score an S rank victory at World 5-1 boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>277</ID>
     <JP-Name>「第六駆逐隊」対潜哨戒を徹底なのです！</JP-Name>
     <TR-Name>B45: 6th Destroyer Division's Thorough Anti-Submarine Patrol na no desu</TR-Name>
     <JP-Detail>「第六駆逐隊」を含む艦隊で鎮守府正面で対潜哨戒を実施、敵潜水艦部隊を痛打せよ！</JP-Detail>
-    <TR-Detail>Sortie Akatsuki Kai2 (暁改二) as the flagship, Hibiki (響 or Верный), Ikazuchi (雷) and Inazuma (電) to World 1-5 and score an A rank victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie Akatsuki Kai2 as the flagship, Hibiki, Ikazuchi, and Inazuma and
+score an A rank victory at World 1-5 boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>278</ID>
     <JP-Name>「第一水雷戦隊」ケ号作戦、突入せよ！</JP-Name>
     <TR-Name>B46: Sortie the 1st Torpedo Squadron on Operation Ke</TR-Name>
     <JP-Detail>北方突入準備を完了した「一水戦」で北方キス島に突入！包囲網を破り、友軍を救出せよ！</JP-Detail>
-    <TR-Detail>Sortie Abukuma (阿武隈) as the flagship, Hibiki (響 or Верный), Hatsushimo (初霜), Wakaba (若葉), Samidare (五月雨) and Shimakaze (島風) to World 3-2 and score a victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie Abukuma (阿武隈) as the flagship, Hibiki, Hatsushimo (初霜), Wakaba (若葉), Samidare (五月雨) and Shimakaze (島風) to World 3-2 and score a victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>279</ID>
     <JP-Name>「第一水雷戦隊」北方ケ号作戦、再突入！</JP-Name>
     <TR-Name>B47: Sortie the 1st Torpedo Squadron on Operation Ke Again</TR-Name>
     <JP-Detail>北方再突入準備の新編「一水戦」で北方キス島に再突入を敢行、同撤収作戦を完遂せよ！</JP-Detail>
-    <TR-Detail>Sortie Abukuma Kai2 (阿武隈改二) as the flagship, Hibiki (響 or Верный), Yuugumo (夕雲), Naganami (長波), Akigumo (秋雲) and Shimakaze (島風) to World 3-2 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie Abukuma Kai2 (阿武隈改二) as the flagship, Hibiki, Yuugumo (夕雲), Naganami (長波), Akigumo (秋雲) and Shimakaze (島風) to World 3-2 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>285</ID>
@@ -1145,14 +1148,16 @@ to World 2-4 and score an S rank victory at the boss node.</TR-Detail>
     <JP-Name>新編成航空戦隊、北方へ進出せよ！</JP-Name>
     <TR-Name>B56: Sortie the New Carrier Division to the North</TR-Name>
     <JP-Detail>「新編成航空戦隊」をアルフォンシーノ方面へ進出、敵泊地の機動部隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie 2 fleet carriers, 2 aviation battleships or aviation cruisers and 2 destroyers to World 3-3 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie 2 fleet carriers, 2 aviation battleships or aviation cruisers and 2 destroyers and
+score an S rank victory at the World 3-3 boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>297</ID>
     <JP-Name>「礼号作戦」実施せよ！</JP-Name>
     <TR-Name>B57: Operation Rei-go</TR-Name>
     <JP-Detail>精強な「水上反撃部隊」で、南西諸島沖ノ島沖に突入！同海域の敵戦力を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Kasumi (霞) as the flagship, Ashigara (足柄), Ooyodo (大淀), Asashimo (朝霜) and Kiyoshimo (清霜) (you may add another ship) to World 2-5 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie Kasumi as the flagship, Ashigara, Ooyodo, Asashimo, and Kiyoshimo, and up to 3 additional ships and
+score an S rank victory at the World 2-5 boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>298</ID>
@@ -1881,28 +1886,32 @@ Unlock both equipment. And then, scrap two 12.7cm Twin Gun Mount.</TR-Detail>
     <JP-Name>旗艦「霞」北方海域を哨戒せよ！</JP-Name>
     <TR-Name>B58: Send Kasumi to Patrol the Northern Sea</TR-Name>
     <JP-Detail>旗艦「霞改二」で駆逐艦4隻を含む艦隊を北方海域に投入し、モーレイ海哨戒を実施せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Kasumi Kai2 (霞改二) as flagship, 3 DD and up to 2 additional ships to World 3-1 and score a victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet with Kasumi Kai2 as flagship, 3 DD, and up to 2 additional ships and
+score a victory at World 3-1 boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>806</ID>
     <JP-Name>旗艦「霞」出撃！敵艦隊を撃滅せよ！</JP-Name>
     <TR-Name>B59: Sortie Kasumi and Defeat the Enemy Fleet</TR-Name>
     <JP-Detail>旗艦「霞改二」で駆逐艦3隻を含む艦隊で南西諸島沖ノ島沖に突入！敵主力を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Kasumi Kai2 (霞改二) as flagship, 2 DD and up to 3 additional ships to World 2-5 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet with Kasumi Kai2 as flagship, 2 DD and up to 3 additional ships and
+score an S rank victory at World 2-5 boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>807</ID>
     <JP-Name>「第三十一戦隊」出撃せよ！</JP-Name>
     <TR-Name>B60: Deploy the 31st Squadron (1st Gen.)</TR-Name>
     <JP-Detail>第三十一戦隊(第一次)を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Isuzu Kai2 (五十鈴改二) as flagship, Satsuki Kai2 (皐月改二) and Uzuki Kai (卯月改) and up to 3 additional ships to World 1-6 and complete the map.</TR-Detail>
+    <TR-Detail>Sortie a fleet with Isuzu Kai2 as flagship, Satsuki Kai2, Uzuki Kai, and
+up to 3 additional ships to World 1-6 and complete the map.</TR-Detail>
   </Quest>
   <Quest>
     <ID>808</ID>
     <JP-Name>「第二七駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>B61: Sortie the 27th Destroyer Division</TR-Name>
     <JP-Detail>「白露改」旗艦の第二七戦隊を含む艦隊をオリョール海に展開、同海域の敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Shiratsuyu Kai as flagship, Shigure, Harusame and Samidare and up to 2 additional ships and score an S rank victory against World 2-3 Boss.</TR-Detail>
+    <TR-Detail>Sortie Shiratsuyu Kai as flagship, Shigure, Harusame and Samidare and up to 2 additional ships and
+score an S rank victory against World 2-3 Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>809</ID>
@@ -1944,7 +1953,8 @@ Unlock both equipment. And then, scrap two 12.7cm Twin Gun Mount.</TR-Detail>
     <JP-Name>強行高速輸送部隊、出撃せよ！</JP-Name>
     <TR-Name>B68: High-speed Transport Fleet, sortie!</TR-Name>
     <JP-Detail>「江風改二」「時雨改二」「川内改二」他駆逐2隻を含む艦隊で、ジャム島攻略作戦を実施せよ！</JP-Detail>
-    <TR-Detail>Sortie Sendai Kai2, Kawakaze Kai2, Shigure Kai2, 2 DD, and 1 additional ships and score an A rank victory against World 4-1 Boss.</TR-Detail>
+    <TR-Detail>Sortie Sendai Kai2, Kawakaze Kai2, Shigure Kai2, 2 DD, and 1 additional ships
+and score an A rank victory against World 4-1 Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>815</ID>
@@ -2042,7 +2052,7 @@ Unlock both equipment. And then, scrap two 12.7cm Twin Gun Mount.</TR-Detail>
     <JP-Name>飛行場設営の準備を実施せよ！</JP-Name>
     <TR-Name>B80: Prepare for the Construction of the Land-Base!</TR-Name>
     <JP-Detail>中部海域における航空偵察「K作戦」を再度実施、さらに同方面に遊弋する敵艦隊を撃滅し、&lt;br&gt;中部海域における飛行場設営の準備を実施せよ！</JP-Detail>
-    <TR-Detail>Sortie to World 6-3 and obtain an S-rank at the boss</TR-Detail>
+    <TR-Detail>Score an S-rank victory at World 6-3 boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>829</ID>
@@ -2141,6 +2151,6 @@ Aoba Kai, Uranami Kai, or Shikinami Kai and score an S-rank victory against Worl
     <JP-Name>主力戦艦戦隊、抜錨せよ！</JP-Name>
     <TR-Name>B89: Battleship Squadron, Set Sail!</TR-Name>
     <JP-Detail>戦艦または航空戦艦2隻以上からなる強力な戦艦戦隊を中核とした艦隊を沖ノ島海域前面に展開、&lt;br&gt;侵攻する敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie two BB/BBV and four wildcard and score an S-rank victory against World 2-4 Boss.</TR-Detail>
+    <TR-Detail>Sortie two (non-fast) BB/BBV and four wildcard and score an S-rank victory against World 2-4 Boss.</TR-Detail>
   </Quest>
 </Quests>
