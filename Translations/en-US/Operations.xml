@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.3.04">
+<Operations Version="1.3.05">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>Sea in Front of the Naval Base</TR-Name>
@@ -156,7 +156,9 @@
     <JP-Name>MS諸島北部 B環礁沖</JP-Name>
     <TR-Name>MS Northern Archipelago off the B Atoll</TR-Name>
   </Map>
-  
+
+<!-- Node Name !-->
+
   <Sortie>
     <JP-Name>渦潮</JP-Name>
     <TR-Name>Whirlpool</TR-Name>
@@ -461,7 +463,7 @@
     <JP-Name>ABDA残存艦隊</JP-Name>
     <TR-Name>ABDA Remaining Fleet</TR-Name>
   </Sortie>
-    <Sortie>
+  <Sortie>
     <JP-Name>深海棲艦ポートワイン泊地</JP-Name>
     <TR-Name>Port Wine Area Deep Sea Fleet</TR-Name>
   </Sortie>
@@ -477,7 +479,6 @@
     <JP-Name>敵潜水主力艦隊</JP-Name>
     <TR-Name>Main Submarine Force</TR-Name>
   </Sortie>
-
   <Sortie>
     <JP-Name>任務部隊A群 機動部隊(第一波)</JP-Name>
     <TR-Name>Task Force A Mobile Force (1st Wave)</TR-Name>
@@ -514,7 +515,6 @@
     <JP-Name>通商破壊潜水艦隊 III群</JP-Name>
     <TR-Name>Commerce Raiding Submarine Fleet III</TR-Name>
   </Sortie>
-
   <Sortie>
     <JP-Name>敵機動艦隊</JP-Name>
     <TR-Name>Mobile Fleet</TR-Name>
@@ -523,7 +523,6 @@
     <JP-Name>敵侵攻部隊</JP-Name>
     <TR-Name>Invasion Unit</TR-Name>
   </Sortie>
-
   <Sortie>
     <JP-Name>北方前衛警戒部隊</JP-Name>
     <TR-Name>Detached Security Vanguard</TR-Name>
@@ -552,7 +551,6 @@
     <JP-Name>北方増援部隊主力</JP-Name>
     <TR-Name>Northern Reinforcement Main Force</TR-Name>
   </Sortie>
-
   <Sortie>
     <JP-Name>中部海域 敵遊撃部隊</JP-Name>
     <TR-Name>Central Waters Raiding Force</TR-Name>
@@ -573,7 +571,6 @@
     <JP-Name>敵回航中空母</JP-Name>
     <TR-Name>Towed Aircraft Carrier</TR-Name>
   </Sortie>
-
   <Sortie>
     <JP-Name>敵攻略支援部隊A群</JP-Name>
     <TR-Name>Capture Support Group A</TR-Name>
@@ -598,7 +595,6 @@
     <JP-Name>敵攻略部隊本体</JP-Name>
     <TR-Name>Main Capture Force</TR-Name>
   </Sortie>
-
   <Sortie>
     <JP-Name>任務部隊 偵察潜水艦 I群</JP-Name>
     <TR-Name>Recon Task Group Submarine I</TR-Name>
@@ -763,4 +759,126 @@
     <JP-Name>海月渚泊地 旗艦艦隊</JP-Name>
     <TR-Name>Jellyfish Area Flagship Fleet</TR-Name>
   </Sortie>
+
+<!-- Node ID !-->
+
+  <MapNode>
+    <Node>001001001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001001002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001001003</Node>
+    <Label>C</Label>
+  </MapNode>
+
+  <MapNode>
+    <Node>004004001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004004002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004004003</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004004004</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004004005</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004004006</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004004007</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004004008</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004004009</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004004010</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004004011</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004004012</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004004013</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004004014</Node>
+    <Label>J</Label>
+  </MapNode>
+
+  <MapNode>
+    <Node>005002001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005002002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005002003</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005002004</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005002005</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005002006</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005002007</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005002010</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005002011</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005002012</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005002013</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005002014</Node>
+    <Label>D</Label>
+  </MapNode>
+
 </Operations>
