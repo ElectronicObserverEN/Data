@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.3.05">
+<Operations Version="1.3.06">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>Sea in Front of the Naval Base</TR-Name>
@@ -217,7 +217,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵機動部隊</JP-Name>
-    <TR-Name>Task Force</TR-Name>
+    <TR-Name>Mobile Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵護衛空母群</JP-Name>
@@ -253,7 +253,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵空母機動部隊</JP-Name>
-    <TR-Name>Aircraft Carrier Task Force</TR-Name>
+    <TR-Name>Carrier Mobile Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵精鋭水雷戦隊</JP-Name>
@@ -337,7 +337,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵水上打撃部隊</JP-Name>
-    <TR-Name>Surface Task Force</TR-Name>
+    <TR-Name>Surface Strike Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵前線司令艦隊</JP-Name>
@@ -349,7 +349,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵機動部隊本隊</JP-Name>
-    <TR-Name>Main Task Force</TR-Name>
+    <TR-Name>Main Mobile Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵補給部隊</JP-Name>
@@ -417,7 +417,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵機動部隊主力</JP-Name>
-    <TR-Name>Main Task Force</TR-Name>
+    <TR-Name>Main Mobile Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵新鋭戦艦部隊</JP-Name>
@@ -425,7 +425,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵機動部隊支隊A群</JP-Name>
-    <TR-Name>Detached Task Force A</TR-Name>
+    <TR-Name>Mobile Force Detachment A</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵補給部隊本体</JP-Name>
@@ -501,7 +501,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>任務部隊支援 水上打撃部隊</JP-Name>
-    <TR-Name>Support Task Force Surface Task Group</TR-Name>
+    <TR-Name>Support Task Force Surface Strike Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>通商破壊潜水艦隊 I群</JP-Name>
@@ -581,7 +581,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵高速水上打撃部隊</JP-Name>
-    <TR-Name>Fast Surface Task Force</TR-Name>
+    <TR-Name>Fast Surface Strike Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵任務部隊B群</JP-Name>
@@ -597,11 +597,11 @@
   </Sortie>
   <Sortie>
     <JP-Name>任務部隊 偵察潜水艦 I群</JP-Name>
-    <TR-Name>Recon Task Group Submarine I</TR-Name>
+    <TR-Name>Recon Task Force Submarine I</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>任務部隊 偵察潜水艦 II群</JP-Name>
-    <TR-Name>Recon Task Group Submarine II</TR-Name>
+    <TR-Name>Recon Task Force Submarine II</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>通商破壊部隊 軽快水雷戦隊 I群</JP-Name>
@@ -613,7 +613,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>通商破壊部隊 機動部隊群</JP-Name>
-    <TR-Name>Commerce Raiding Unit Mobile Task Group</TR-Name>
+    <TR-Name>Commerce Raiding Unit Mobile Flotilla</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>任務部隊 先遣潜水艦隊旗艦</JP-Name>
@@ -621,7 +621,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>16th任務部隊 先遣水上打撃部隊</JP-Name>
-    <TR-Name>16th Task Force Advancing Surface Task Group</TR-Name>
+    <TR-Name>16th Task Force Advancing Surface Strike Force</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>16th任務部隊 前衛空母群 A群</JP-Name>
@@ -657,7 +657,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>16th任務部隊 主力機動部隊群</JP-Name>
-    <TR-Name>16th Task Force Main Mobile Task Group</TR-Name>
+    <TR-Name>16th Task Force Main Mobile Flotilla</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>18th任務部隊 先遣巡洋艦部隊</JP-Name>
@@ -705,7 +705,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>拠点強襲任務部隊 機動部隊群</JP-Name>
-    <TR-Name>Base Assault Task Force Mobile Task Group</TR-Name>
+    <TR-Name>Base Assault Task Force Mobile Flotilla</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>新生深海機動部隊 先遣隊</JP-Name>
@@ -759,6 +759,38 @@
     <JP-Name>海月渚泊地 旗艦艦隊</JP-Name>
     <TR-Name>Jellyfish Area Flagship Fleet</TR-Name>
   </Sortie>
+  <Sortie>
+    <JP-Name>東洋方面反攻先遣隊</JP-Name>
+    <TR-Name>East Area Counterattack Force</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>東洋方面威力偵察部隊</JP-Name>
+    <TR-Name>East Area Recon Force</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>東洋艦隊新編水上打撃部隊</JP-Name>
+    <TR-Name>Eastern Fleet New Strike Force</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海東洋方面潜水艦隊</JP-Name>
+    <TR-Name>Deep-Sea East Area Submarine Fleet</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海東洋艦隊機動部隊</JP-Name>
+    <TR-Name>Deep-Sea Eastern Fleet Mobile Force</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>東洋方面後方兵站部隊</JP-Name>
+    <TR-Name>East Area Logistics Force</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海東洋方面増援艦隊</JP-Name>
+    <TR-Name>Deep-Sea East Area Reinforcement Fleet</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>リランカ島港湾守備隊</JP-Name>
+    <TR-Name>Ri-Lanka Island Port Garrison</TR-Name>
+  </Sortie>
 
 <!-- Node ID !-->
 
@@ -774,7 +806,871 @@
     <Node>001001003</Node>
     <Label>C</Label>
   </MapNode>
+  <MapNode>
+    <Node>001002001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001002002</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001002003</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001002004</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001003001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001003002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001003003</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001003004</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001003005</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001003006</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001003007</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001003008</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001003009</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001004001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001004002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001004003</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001004004</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001004005</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001004006</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001004007</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001004008</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001004009</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001004010</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001004011</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001004012</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001004013</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001005001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001005002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001005003</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001005004</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001005005</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001005006</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001005007</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001005008</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001005010</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001006001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001006002</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001006003</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001006004</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001006005</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001006006</Node>
+    <Label>K</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001006007</Node>
+    <Label>M</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001006008</Node>
+    <Label>L</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001006009</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001006011</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001006012</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001006013</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001006014</Node>
+    <Label>N</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001006015</Node>
+    <Label>K</Label>
+  </MapNode>
+  <MapNode>
+    <Node>001006017</Node>
+    <Label>N</Label>
+  </MapNode>
 
+<!-- World 2 !-->
+
+  <MapNode>
+    <Node>002001001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002001002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002001003</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002001004</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002001005</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002001006</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002002001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002002002</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002002003</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002002004</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002002005</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002002006</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002002007</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002002008</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002003001</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002003002</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002003003</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002003004</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002003005</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002003006</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002003007</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002003008</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002003009</Node>
+    <Label>K</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002003010</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002003011</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002003012</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004002</Node>
+    <Label>K</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004003</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004004</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004005</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004006</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004007</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004008</Node>
+    <Label>L</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004009</Node>
+    <Label>M</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004010</Node>
+    <Label>N</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004011</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004012</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004013</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004014</Node>
+    <Label>O</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004015</Node>
+    <Label>P</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004016</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004017</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004018</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002004019</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002005001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002005002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002005004</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002005005</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002005006</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002005008</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002005009</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002005010</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002005012</Node>
+    <Label>L</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002005013</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002005014</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>002005015</Node>
+    <Label>L</Label>
+  </MapNode>
+
+<!-- World 3 !-->
+
+  <MapNode>
+    <Node>003001001</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003001002</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003001003</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003001004</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003001005</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003001006</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003002001</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003002002</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003002003</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003002004</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003002005</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003002006</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003002007</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003002008</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003002009</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003002010</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003003001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003003002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003003003</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003003004</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003003005</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003003006</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003003007</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003003008</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003003009</Node>
+    <Label>K</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003003010</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003003011</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003003012</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003003013</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004002</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004003</Node>
+    <Label>K</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004004</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004005</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004006</Node>
+    <Label>L</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004007</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004008</Node>
+    <Label>M</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004009</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004010</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004011</Node>
+    <Label>N</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004012</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004013</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004014</Node>
+    <Label>O</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004015</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004016</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004017</Node>
+    <Label>L</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004018</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004019</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003004020</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003005001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003005003</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003005004</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003005005</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003005006</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003005007</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003005008</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003005009</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003005010</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003005011</Node>
+    <Label>K</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003005012</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003005013</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>003005015</Node>
+    <Label>K</Label>
+  </MapNode>
+
+<!-- World 4 !-->
+
+  <MapNode>
+    <Node>004001001</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004001002</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004001003</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004001004</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004001005</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004001006</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004001007</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004001008</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004001009</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004001010</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004001011</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004001012</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004002001</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004002002</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004002003</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004002004</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004002005</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004002006</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004002007</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004002008</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004002009</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004002010</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004002011</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004002012</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004002013</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003001</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003002</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003003</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003004</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003005</Node>
+    <Label>K</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003006</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003007</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003008</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003010</Node>
+    <Label>L</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003011</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003012</Node>
+    <Label>M</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003013</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003014</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003015</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003016</Node>
+    <Label>K</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003017</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003018</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003019</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003020</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004003021</Node>
+    <Label>L</Label>
+  </MapNode>
   <MapNode>
     <Node>004004001</Node>
     <Label>A</Label>
@@ -831,7 +1727,117 @@
     <Node>004004014</Node>
     <Label>J</Label>
   </MapNode>
+  <MapNode>
+    <Node>004005001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004005002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004005003</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004005004</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004005005</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004005006</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004005007</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004005008</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004005009</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004005010</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004005013</Node>
+    <Label>M</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004005014</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004005017</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004005018</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>004005019</Node>
+    <Label>M</Label>
+  </MapNode>
 
+<!-- World 5 !-->
+
+  <MapNode>
+    <Node>005001001</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005001002</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005001003</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005001004</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005001005</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005001006</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005001007</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005001008</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005001009</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005001010</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005001011</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005001012</Node>
+    <Label>H</Label>
+  </MapNode>
   <MapNode>
     <Node>005002001</Node>
     <Label>A</Label>
@@ -880,5 +1886,443 @@
     <Node>005002014</Node>
     <Label>D</Label>
   </MapNode>
+  <MapNode>
+    <Node>005003001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005003002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005003003</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005003004</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005003005</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005003006</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005003007</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005003008</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005003009</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005003010</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005003011</Node>
+    <Label>K</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005003012</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005003013</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005003014</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005004001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005004002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005004004</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005004006</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005004007</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005004008</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005004009</Node>
+    <Label>L</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005004010</Node>
+    <Label>N</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005004012</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005004015</Node>
+    <Label>O</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005004017</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005004018</Node>
+    <Label>M</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005004019</Node>
+    <Label>O</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005005002</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005005003</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005005004</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005005005</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005005010</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005005012</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005005013</Node>
+    <Label>L</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005005014</Node>
+    <Label>N</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005005017</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>005005018</Node>
+    <Label>N</Label>
+  </MapNode>
 
+<!-- World 6 !-->
+
+  <MapNode>
+    <Node>006001001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006001002</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006001003</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006001004</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006001005</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006001006</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006001007</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006001008</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006001011</Node>
+    <Label>K</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006001012</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006001013</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002003</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002004</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002005</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002006</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002007</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002009</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002010</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002011</Node>
+    <Label>K</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002012</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002013</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002014</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002015</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002016</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002017</Node>
+    <Label>K</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006002018</Node>
+    <Label>K</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006003001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006003002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006003003</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006003004</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006003005</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006003006</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006003007</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006003008</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006003009</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006003010</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006003011</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006003012</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004003</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004004</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004005</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004006</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004007</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004008</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004009</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004010</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004011</Node>
+    <Label>K</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004012</Node>
+    <Label>L</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004013</Node>
+    <Label>M</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004014</Node>
+    <Label>N</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004015</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004016</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004017</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004018</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004019</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004020</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006004021</Node>
+    <Label>N</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006005001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006005002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006005003</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006005004</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006005005</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006005006</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006005007</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006005010</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006005013</Node>
+    <Label>M</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006005017</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>006005018</Node>
+    <Label>M</Label>
+  </MapNode>
 </Operations>
