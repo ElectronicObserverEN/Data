@@ -1155,48 +1155,48 @@
 Weaponry and durability has been enhanced. However, mobility has been somewhat impaired. This is the same plane used by the reformed aircraft carrier mobile squadrons, responsible for controlling the skies.</TR-Name>
   </ItemDesc>
   <ItemDesc><!-- 110 !-->
-	<JP-Name></JP-Name>
+	<JP-Name>「零戦」の後継機として開発された最新鋭艦上戦闘機「烈風」。&lt;br&gt;用兵側の発動機選定ミスや多忙な現場設計陣などの苦境を越えて、ついに完成した新型艦戦。本航空隊は同新鋭機材を定数受領して、再建を目指す空母機動部隊、その戦闘機部隊の中核を担います。</JP-Name>
 	<TR-Name>The Reppuu is a state of the art, carrier-borne fighter designed to replace the &quot;Zero&quot; fighter. Despite difficulties in engine selection, preoccupied design teams and factories, this new type of carrier-borne fighter was finally completed. This new fighter will form the backbone of carrier air groups of rebuilt carrier task groups.</TR-Name>
   </ItemDesc>
   <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
+	<JP-Name>「九九艦爆」の後継機として開発された高速艦爆「彗星」。&lt;br&gt;液冷発動機装備のため運用のやや難しい機体ですが、整備体制を万全に、内地で訓練を重ねた六〇一空の精鋭が搭乗します。機動部隊決戦に向けて、錬成を重ねた六〇一空の精鋭艦爆隊です。</JP-Name>
+	<TR-Name>The Suisei is a fast dive bomber developed to replace the Type 99 dive bomber. Problems with its liquid-cooled engine and airframe has been smoothed out, and the 601 Air Group training inland transitioned into this aircraft. It will then be used by the 601 aboard carriers once the Carrier Task Force is starting to achieve its decisive battle.</TR-Name>
   </ItemDesc>
   <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
+	<JP-Name>旧式化した「九七艦攻」の後継機として開発された、新鋭艦上攻撃機「天山」。&lt;br&gt;本部隊は、同機を装備して内地で錬成を重ねた六〇一空による精鋭艦攻機隊です。新生空母機動部隊の打撃力を担います。</JP-Name>
+	<TR-Name>The new Tenzan was developed as a successor to the obsolete Type 97 torpedo bomber. This is the aircraft of choice of the elite 601st Air Group currently in training at the mainland. This aircraft is intended to form the backbone of strike groups of the newly formed Carrier Task Force.</TR-Name>
   </ItemDesc>
   <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
+	<JP-Name>艦攻と艦爆を統合した先進的な&quot;急降下爆撃可能な雷撃機&quot;、それが「流星」です。&lt;br&gt;発動機不調と重量過大に悩みながらも、開発に成功。高い性能を誇る最新鋭の艦上攻撃機です。錬成を重ねた六〇一空が機種転換し、本機を装備します。整備の行き届いた流星を定数装備した、新生艦攻隊の主力です。</JP-Name>
+	<TR-Name>The Ryuusei is an advanced carrier-borne attack bomber for its capability of dive- and torpedo-bombing. Despite problems, it was finally completed, boasting as a high-perfomance, cutting edge, carrier-borne attack aircraft. The 601 Air Group in training transitioned into this type of aircraft. Well-maintained, this aircraft became the mainstay of the carrier attack group.</TR-Name>
   </ItemDesc>
   <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
+	<JP-Name>ビスマルク級戦艦に搭載された戦艦主砲の改修型です。&lt;br&gt;短～中距離での砲撃戦を意識した高速戦艦の主力兵装で、改修によってその命中精度などが大きく向上しています。</JP-Name>
+	<TR-Name>An improvement of the battleship gun mounted on the Bismarck-class battleship. The mainstay weapon of fast battleships that was previously bad at artillery duels because of the short-medium range, such a problem has been smartly solved with the improvement in accuracy by renovation.</TR-Name>
   </ItemDesc>
   <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
+	<JP-Name>ビスマルク級などの主力艦艇に搭載された艦載水上偵察機です。&lt;br&gt;偵察、観測、哨戒、そして対潜水艦任務など、南大西洋で幅広く活躍した同機の改修型で、艦隊の眼の役割を担います。</JP-Name>
+	<TR-Name>A reconnaissance aircraft installed in Bismarck-class flagships. This refurbished version was the widely dominant aircraft in the South Atlantic in reconnaissance, observation, patrol and anti-submarine operations, playing the role of the eye of the fleet.</TR-Name>
   </ItemDesc>
   <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
+	<JP-Name>遠距離砲撃戦における秘密兵器「九一式徹甲弾」の改良版です。&lt;br&gt;海中突入後魚雷のように敵艦水線下に突き進み、喫水下破砕を企図した特殊徹甲弾です。九一式より性能・生産性が向上しており、弾頭部には弾着観測用着色剤を充填していたと云われています。戦艦・航空戦艦・高速戦艦で使用可能です。</JP-Name>
+	<TR-Name>The Type 1 Armor Piercing Shell is an improved version of the secret Type 91 Armor Piercing Shell fired from long range guns. It is intended to work by plunging into the sea, striking the hull below the waterline of the enemy ship like a torpedo. It has better performance than Type 91, and has colored dyes for identification and target assists.</TR-Name>
   </ItemDesc>
   <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
+	<JP-Name>海軍工廠砲熕部が極秘開発した世界最大最強の戦艦主砲、その試作二連装砲です。&lt;br&gt;敵戦艦に対してアウトレンジが可能な最大射程40kmを超える巨砲ですが、大和型戦艦に搭載された同三連装主砲より軽量です。主力戦艦群への搭載と同主兵装としての運用が可能です。</JP-Name>
+	<TR-Name>The 46cm twin gun mount is one of the main guns developed in secrecy by the Naval Arsenal. While it can outrange enemy battleships with its 40km maximum range, it is also lighter than the 46cm triple guns of the Yamato class. It can be used as main guns on other frontline battleships.</TR-Name>
   </ItemDesc>
   <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
+	<JP-Name>制空権を失った空でも強行偵察が可能な高性能水偵を目指して開発された、十四試高速水上偵察機「紫雲」です。火星エンジンと二重反転プロペラの採用、投下可能フロート機構などで高速高性能な次世代艦載水偵となるはずでしたが、計画通りの高性能を発揮することは叶いませんでした。就役直後の軽巡「大淀」などで、増加試作機が運用されています。</JP-Name>
+	<TR-Name>The Shiun was conceived as a high-performance seaplane intended to scout the enemy where air superiority is lost or unachievable. A next generation seaplane powered by the Mitsubishi Kasei engine with a pair of contra-rotating propellers and floats that could be jettisoned, tests were inconclusive with these features. Nonetheless these aircraft saw service aboard Ooyodo.</TR-Name>
   </ItemDesc>
   <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
+	<JP-Name>巡洋艦等の主砲として開発された中距離砲の連装型です。&lt;br&gt;練習巡洋艦「香取」や軽巡洋艦「夕張」などに搭載されました。対艦対地用の兵装です。</JP-Name>
+	<TR-Name>The twin mount version of a medium range gun developed as the primary armament for cruisers and the like. It was equipped on the training cruiser &quot;Katori&quot; and the light cruiser &quot;Yuubari&quot; etc. It is an anti-ship anti-ground weapon.</TR-Name>
   </ItemDesc>
   <ItemDesc><!-- 120 !-->
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
+	<JP-Name>高角砲の対空射撃用の高射装置です。&lt;br&gt;高射機と高射射撃盤を組み合わせ、高角砲の有効な対空射撃をサポートします。やや、旧式ではありますが、主力の戦艦や巡洋艦などに搭載されました。</JP-Name>
+	<TR-Name>This is the high-angle guns&apos; director. The director and its firing dish together locate a target and find its best-fit firing angle. ...somewhat. This one is obsolete, and its primary function is already built-in on battleships, cruisers, etc.</TR-Name>
   </ItemDesc>
   <ItemDesc>
 	<JP-Name></JP-Name>
@@ -1238,119 +1238,7 @@ Weaponry and durability has been enhanced. However, mobility has been somewhat i
 	<JP-Name></JP-Name>
 	<TR-Name></TR-Name>
   </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
   <ItemDesc><!-- 140 !-->
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc><!-- 145 !-->
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc><!-- 150 !-->
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc><!-- 155 !-->
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
-	<JP-Name></JP-Name>
-	<TR-Name></TR-Name>
-  </ItemDesc>
-  <ItemDesc>
 	<JP-Name></JP-Name>
 	<TR-Name></TR-Name>
   </ItemDesc>
