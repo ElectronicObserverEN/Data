@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.18">
+<Equipment Version="1.3.19">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -1417,6 +1417,7 @@ The maritime truck &apos;Daihatsu&apos; was increased in size to accommodate the
   <ItemDesc>
 	<JP-Name>艦政本部によって新設計された、大型艦艇の防御力を強化する増加装甲の一種です。戦艦・正規空母等の大型艦艇への増設により防御力を高めることが可能です。&lt;br&gt;(戦艦級・正規空母級に適用可能です)</JP-Name>
 	<TR-Name>Developed by Kansei Honbu, this is a type of add-on armor used by warships. It can be mounted on large warships such as battleships or aircraft carriers.</TR-Name>
+  </ItemDesc>
   <ItemDesc><!-- 205 !-->
 	<JP-Name>大戦初期の太平洋上で零戦としのぎを削った米海軍艦上戦闘機F4Fシリーズの後継機、F6Fシリーズの初期量産型です。&lt;br&gt;大出力エンジンを装備した強力な主力艦上戦闘機として、零戦を徐々に圧倒していきました。</JP-Name>
 	<TR-Name>The initial mass production model of the F6F series. It is the successor to the F4F series of US Navy carrier-based fighters that cut short the rampage of the Zero fighters after the early days of the Pacific War.
