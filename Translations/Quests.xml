@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.48">
+<Quests Version="1.1.49">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2174,6 +2174,6 @@ Aoba Kai, Uranami Kai, or Shikinami Kai and score an S-rank victory against Worl
     <TR-Name>Deploy the Elite 8th Destroyer Division!</TR-Name>
     <JP-Detail>「荒潮改二」を旗艦とし、僚艦に「第八駆逐隊」から1隻を配備した精鋭第1艦隊で&lt;br&gt;サーモン海域北方に突入、同方面に接近する有力な敵艦隊を捕捉、同方面の敵戦力の漸減に努めよ！</JP-Detail>
     <TR-Detail>Sortie Arashio Kai Ni, four wildcard, and one of the following: Asashio, Ooshio, Michisio.
-Score two S-rank victories against World 5-5 Boss.</TR-Detail>
+Score two A-rank victories against World 5-5 Boss.</TR-Detail>
   </Quest>
 </Quests>

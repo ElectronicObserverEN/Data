@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.17">
+<Equipment Version="1.3.18">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -130,11 +130,11 @@
   </Item>
   <Item>
     <JP-Name>改良型艦本式タービン</JP-Name>
-    <TR-Name>Improved Kanpon Turbine</TR-Name>
+    <TR-Name>Improved Kanhon Turbine</TR-Name>
   </Item>
   <Item>
     <JP-Name>強化型艦本式缶</JP-Name>
-    <TR-Name>Enhanced Kanpon Boiler</TR-Name>
+    <TR-Name>Enhanced Kanhon Boiler</TR-Name>
   </Item>
   <Item>
     <JP-Name>三式弾</JP-Name>
@@ -798,7 +798,7 @@
   </Item>
   <Item>
 	<JP-Name>艦本新設計 増設バルジ(大型艦)</JP-Name>
-	<TR-Name>New Kanpon Anti-torpedo Bulge (L)</TR-Name>
+	<TR-Name>New Kanhon Anti-torpedo Bulge (L)</TR-Name>
   </Item>
   <Item>
 	<JP-Name>F6F-3</JP-Name>
@@ -1406,6 +1406,17 @@ The maritime truck &apos;Daihatsu&apos; was increased in size to accommodate the
 	<JP-Name>大戦初期の太平洋上で零戦としのぎを削った名艦上戦闘機、その改良型です。&lt;br&gt;ワイルドキャットとよばれたF4Fシリーズは、格闘戦闘で劣る零戦隊を相手に果敢に戦いました。本機は火力を強化し、空母艦載に最適化したF4Fの完成形といえるバージョンです。</JP-Name>
 	<TR-Name>This is the improved version of the plane that fought ruthlessly against Zeroes during the Great War. The F4F series, called the Wildcat tangled with Zeroes even with its inferior dogfighting capability. With its increased firepower, it can be said that this version is the best in its series.</TR-Name>
   </ItemDesc>
+  <ItemDesc>
+	<JP-Name>空技廠が開発した最新鋭の高々度試作偵察機「景雲」。新機軸を盛り込んだユニークかつ大型の試作偵察機「景雲」にターボジェット「ネ式エンジン」を搭載、噴式戦闘爆撃機化したのが本機「噴式景雲改」です。※基地航空隊及び装甲甲板＆甲板カタパルトを装備する一部正規空母のみ運用可能です。運用時には鋼材を消費します。</JP-Name>
+	<TR-Name>Developed by Yokosuka Naval Air Technical Arsenal, Keiun is the latest state-of-the-art prototype high-altitude reconnaissance aircraft. The Keiun is a unique design with all sorts of new innovations and now powered by the Ne turbojet engine, this is what made the plane to be a jet fighter-bomber.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>潜水艦派遣作戦によりもたらされた海外で実用化されたターボジェット戦闘機の一部の設計図などを参考に開発された国産ジェット戦闘攻撃機です。本機「橘花改」は、爆装及び機首に30mm機銃を2門装備した戦闘爆撃機型として戦力化を図ります。※基地航空隊及び装甲甲板＆甲板カタパルトを装備する一部正規空母のみ運用可能です。運用時には鋼材を消費します。</JP-Name>
+	<TR-Name>This is a domestic jet fighter-bomber developed based on the design drawing of turbojet fighter planes which were brought by submarine dispatch operation and put into service abroad. The Kikka Kai is equipped with bombs and two 30mm machine guns on nose to serve as its fighter-bomber role.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>艦政本部によって新設計された、大型艦艇の防御力を強化する増加装甲の一種です。戦艦・正規空母等の大型艦艇への増設により防御力を高めることが可能です。&lt;br&gt;(戦艦級・正規空母級に適用可能です)</JP-Name>
+	<TR-Name>Developed by Kansei Honbu, this is a type of add-on armor used by warships. It can be mounted on large warships such as battleships or aircraft carriers.</TR-Name>
   <ItemDesc><!-- 205 !-->
 	<JP-Name>大戦初期の太平洋上で零戦としのぎを削った米海軍艦上戦闘機F4Fシリーズの後継機、F6Fシリーズの初期量産型です。&lt;br&gt;大出力エンジンを装備した強力な主力艦上戦闘機として、零戦を徐々に圧倒していきました。</JP-Name>
 	<TR-Name>The initial mass production model of the F6F series. It is the successor to the F4F series of US Navy carrier-based fighters that cut short the rampage of the Zero fighters after the early days of the Pacific War.
