@@ -1,3 +1,8 @@
-﻿2016/12/25 02:00:00
-2.5.2
-Jet combat phase, improved AA calculation.
+﻿2017/01/25 19:00:00
+2.5.2.1
+* Added issue reporting menu.
+* Added translations for equipment description.
+* Added alphabetical map node assignments.
+* Fixed failed update check.
+* Fixed development record bug.
+* Translated debug menu.
