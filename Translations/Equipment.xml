@@ -130,11 +130,11 @@
   </Item>
   <Item>
     <JP-Name>改良型艦本式タービン</JP-Name>
-    <TR-Name>Improved Steam Turbine</TR-Name>
+    <TR-Name>Improved Kanpon Turbine</TR-Name>
   </Item>
   <Item>
     <JP-Name>強化型艦本式缶</JP-Name>
-    <TR-Name>Enhanced Steam Boiler</TR-Name>
+    <TR-Name>Enhanced Kanpon Boiler</TR-Name>
   </Item>
   <Item>
     <JP-Name>三式弾</JP-Name>
@@ -798,7 +798,7 @@
   </Item>
   <Item>
 	<JP-Name>艦本新設計 増設バルジ(大型艦)</JP-Name>
-	<TR-Name>New Model Anti-torpedo Bulge (L)</TR-Name>
+	<TR-Name>New Kanpon Anti-torpedo Bulge (L)</TR-Name>
   </Item>
   <Item>
 	<JP-Name>F6F-3</JP-Name>
@@ -1102,4 +1102,425 @@
 	<JP-Name>深海熊猫艦戦</JP-Name>
 	<TR-Name>Abyssal Bearcat Fighter</TR-Name>
   </Item>
+
+<!-- ItemDescription !-->
+
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 001 !-->
+	<JP-Name>旧型の小型砲です。&lt;br&gt;旧型駆逐艦に標準的主砲として搭載されました。&lt;br&gt;装填・操砲も人力ですが、シンプルな構造で経済性も高く、駆逐艦や海防艦等の主砲として、長く使われました。&lt;br&gt;対空射撃には不向きです。</JP-Name>
+	<TR-Name>The older main gun for small vessels. Equipped as standard weapon on old destroyers. Both loading and rotation was hand-operated, but with its simple construction and low cost, it served a long time as main weapon of destroyers and escorts. Not intended for anti-air firing.</TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 100 !-->
+	<JP-Name>「九九艦爆」の後継機として開発された高速艦爆「彗星」。&lt;br&gt;液冷発動機装備のため運用のやや難しい機体でしたが、江草隊長の腕とその空中指揮、そして練度の高い母艦整備員によって支えられた精鋭「彗星」艦爆隊は、圧倒的な命中率を誇るその急降下爆撃で新生機動部隊の打撃力を担います。</JP-Name>
+	<TR-Name>The Suisei is a high speed dive bomber developed to replace the Type 99 Dive Bomber. Despite teething problems with the engine and the airframe, the Egusa Squadron with its Air Group commander, supported by skilled maintenance crews of frontline carriers, paved the way for the Suisei to achieve an outstanding dive bombing accuracy rate for the next generation of the Carrier Task Force.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>主砲等から発射される落下傘付の照明弾です。&lt;br&gt;夜戦時において敵艦隊付近を照明し、味方艦隊の夜間攻撃を支援します(敵艦隊の夜間特殊攻撃発生も少し抑えることが可能です)。</JP-Name>
+	<TR-Name>The Star Shell is a parachute flare fired from the ship&apos;s guns. It can illuminate the enemy fleet&apos;s position which can aid any allied ships&apos; attacks on the enemy. (It can also lower the offensive capabilities of the enemy fleet.)</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>水雷戦隊旗艦用に開発された水上夜間偵察機です。&lt;br&gt;長時間の滞空性能を持つ黒く塗装された機体に、夜間索敵能力に優れた搭乗員が乗りこみます(条件が整えば夜戦を支援する「夜間触接」が発生する可能性があります)。</JP-Name>
+	<TR-Name>This night recon seaplane was developed for use on destroyer squadron flagships. The airframe is painted black, has an excellent loiter time, and includes within the crew a skilled spotter trained in night operations. (It can also spot for allied ships during nighttime reconnaissance.)</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>高速戦艦に搭載するための新開発の試製戦艦主砲です。&lt;br&gt;「金剛」型高速戦艦の代替新建造艦のために計画されていた三連装の35.6cm砲で、大口径主砲よりはコンパクトで軽く、もちろん従来の35.6cm砲より火力及び命中率が大きく向上しています。高速戦艦の改装時に、ぜひ運用をお試しください！</JP-Name>
+	<TR-Name>A newly developed prototype main armament intended to be equipped on fast battleships. A 35.6cm gun which was planned to be used on successors to the Kongou-class, it was more compact and lighter than larger caliber main guns but of course firepower and accuracy were greatly improved from the older 35.6cm guns. You should definitely try making use of these when upgrading your fast battleships!</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>金剛型高速戦艦「榛名」の前部主砲の最終形態です。&lt;br&gt;あまり効果がなかったといわれていますが、縦縞ゼブラ模様のダズル迷彩を施しています。三式弾を装填して敵機が跳梁する空を睨み、母港呉と動けない残存艦隊の防戦に努めました。</JP-Name>
+	<TR-Name>The final version of Kongou-class fast battleship Haruna&apos;s primary battery. It has been made in the Dazzle camouflage of zebra-pattern vertical-stripes, though the pattern has questionable efficacy. Loaded with the Type 3 Shell and facing the sky against enemy aircraft, it worked to defend the remaining fleet moored within Kure Naval Base.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>呉海軍工廠砲熕部で試作された純国産戦艦主砲の三連装砲です。&lt;br&gt;16インチを僅かに上回る、この41cm砲は「大和」型の46cm砲が登場するまで世界最大の戦艦砲でした。これを搭載した長門型戦艦は、当時世界列強の「ビッグ７」水準を遥かに超えた高火力と高命中精度を実現します。</JP-Name>
+	<TR-Name>A purely domestically produced triple gun mounting for use as a battleship&apos;s main battery that was prototyped at Kure Naval Arsenal. Slightly above 16 inches, this 41cm gun was the world&apos;s largest battleship gun until the development of 46cm gun of type &quot;Yamato&quot;. The Nagato-class was equipped with this, to achieve the &quot;Big 7&quot; high damage and high accuracy that is far beyond the level of the world powers.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>艦載用対空電探の改良調整版です。&lt;br&gt;比較的信頼性も高く、小型軽量で駆逐艦等への装備も可能だった「13号対空電探」に、技術者達がさらに改良を加えた対空電探です。水雷戦隊の眼として活躍します。</JP-Name>
+	<TR-Name>This is an improved version of the radar intended for use aboard warships. While the Type 13 Air Radar is reliable, this small class of air search radar intended for use in destroyers were further improved by engineers. This radar is basically the eyes of the Destroyer Squadron.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>洋上において艦隊を指揮する前線司令部です。&lt;br&gt;司令部施設を開設できるある一定以上の大きさの艦に設営可能です。同司令部を旗艦に設営した艦隊は「連合艦隊」として出撃している際に、随伴艦隊の健在な駆逐艦を「損害の大きい艦」の護衛につけて、戦場から退避させることが可能です。</JP-Name>
+	<TR-Name>This facility is used as a command center aboard warships to direct naval fleets at sea. This can only be used aboard larger warships. When used on the flagship of the combined fleet, a heavily damaged ship can be escorted away from the battle line by a destroyer still in good shape from the escort fleet.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>艦載機の整備の卓越した能力を発揮できる整備要員です。&lt;br&gt;艦載機を装備した航空母艦に導入することで、同空母から発進する攻撃隊の能力を高めることが可能です。第一次攻撃隊のパンチ力不足を感じたら、お試しください！</JP-Name>
+	<TR-Name>This maintenance crew can perform excellent maintenance on carrier-borne aircraft. Carrier planes serviced by this crew has better performance when launched from the carriers they were based from. Please try them out if you feel your main attack force is lacking the power punch!</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>零戦の最終的な量産型「零式艦上戦闘機52丙型」です。&lt;br&gt;武装及び防御力が強化されました。その分、若干機動性は失われています。本航空隊は同機材を装備して、再建を目指す空母機動部隊の制空戦闘を担います。</JP-Name>
+	<TR-Name>The Zero Fighter&apos;s final production model is the &quot;Zero Fighter Model 52C&quot;. 
+Weaponry and durability has been enhanced. However, mobility has been somewhat impaired. This is the same plane used by the reformed aircraft carrier mobile squadrons, responsible for controlling the skies.</TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 110 !-->
+	<JP-Name></JP-Name>
+	<TR-Name>The Reppuu is a state of the art, carrier-borne fighter designed to replace the &quot;Zero&quot; fighter. Despite difficulties in engine selection, preoccupied design teams and factories, this new type of carrier-borne fighter was finally completed. This new fighter will form the backbone of carrier air groups of rebuilt carrier task groups.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 120 !-->
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 130 !-->
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 140 !-->
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 145 !-->
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 150 !-->
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 155 !-->
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 160 !-->
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 165 !-->
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 170 !-->
+	<JP-Name>歴戦の中攻乗りの空中指揮官、野中飛行長の率いる精鋭「一式陸攻」隊です。&lt;br&gt;新鋭の「一式陸攻」を装備し、士気の高い「野中一家」の搭乗員たちと共に、通常攻撃で対艦・対地攻撃に出撃します。</JP-Name>
+	<TR-Name>An elite &quot;Type 1 Attack Bomber&quot; squadron led by long-time medium bomber pilot and aerial commander, Air Officer Nonaka.
+Equip the newly produced &quot;Type 1 Attack Bomber&quot;, and along with the pilots and crew of the &quot;Nonaka Family&quot; and their high morale, sortie and carry out conventional anti-ship and anti-ground attacks.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>Vought社が開発した艦載観測機です。水上機タイプの本機は、米海軍の水上艦に搭載され、Iowa級をはじめ、戦艦や巡洋艦等の目として索敵等に運用されました。</JP-Name>
+	<TR-Name>The OS2U is a reconnaissance plane developed by Vought. The seaplane version was used by the U.S. Navy aboard their surface ships, such as the Iowa, and it served as the eye of battleships and cruisers in searching for the enemy.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>米国で開発・運用された優秀な小口径両用砲の改良型です。&lt;br&gt;本装備は連装タイプの両用砲で、大型艦の対空火力としても運用されました。バランスに優れた新型両用砲です。</JP-Name>
+	<TR-Name>An improved model of a small caliber dual purpose gun developed and deployed by the USA. This particular equipment is a twin mounted dual purpose gun, and was also used as anti-air firepower on large ships. A well-balanced new model dual-purpose gun.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>北欧生まれの世界的ベストセラーの40mm対空機関砲、その艦載四連装バージョンです。ベースとなった傑作機関砲は、彼我含めて多くの国々に採用されました。優れた中～近距離近接対空火器として、米英海軍艦艇にも装備されました。</JP-Name>
+	<TR-Name>This is the shipborne quadruple version of the worldwide bestselling 40mm anti-air autocannon from Northern Europe. The original autocannon was used by many countries from both sides of the war. As a good medium to short-range close-in anti-air weapon, it was equipped by British and American naval ships as well.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>旧式の53cm魚雷の連装発射管です。新型の61cm酸素魚雷と比較すると、射程・威力共に陳腐化は否めませんが、近距離魚雷戦ではまだまだ現役です。やや旧式の艦隊型駆逐艦「神風」型などに装備されました。</JP-Name>
+	<TR-Name>An old style 53cm twin torpedo launcher mount. Compared to the new model 61cm oxygen torpedoes, the obsolence of the range and firepower can&apos;t be denied, but it still sees active use in close-range torpedo combat. It was equipped on the slightly old Kamikaze-class destroyers among others.</TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 175 !-->
+	<JP-Name>「十四試局地戦闘機」として開発された、対爆撃機要撃に特化した迎撃戦闘機「雷電」です。零戦などの艦上戦闘機「甲戦」に対して、局地戦闘機「乙戦」として開発・運用されました。格闘戦向きではありませんが、優れた上昇力と大火力を備えています。</JP-Name>
+	<TR-Name>Developed as the &quot;14 Experimental Interceptor Fighter&quot;, this is the anti-bomber specialized interceptor fighter &quot;Raiden&quot;. Contrary to the &quot;A Fighter&quot; Zeroes and other carrier-based fighters, this was developed and deployed as the interceptor fighter &quot;B Fighter&quot;. It&apos;s not suited for dogfights, but it possesses great climbing performance and high firepower.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>かの国で開発された液冷エンジンを参考に開発された、液冷エンジンを装備した陸軍戦闘機、三式戦「飛燕」です。残念ながら信頼性に難があり、その実力を十分に発揮できませんでしたが、万全な状態であれば高い潜在力を持っています。</JP-Name>
+	<TR-Name>Developed using the liquid cooled engine developed in that country as a reference, this is an army fighter equipped with a liquid cooled engine, the Type 3 Fighter &quot;Hien&quot;. Unfortunately there were problems with the reliability and it was unable to exert its full potential, but in ideal conditions it has lots of potential.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>三式戦「飛燕」を駆り、東京調布に展開して首都防空に奮戦した陸軍戦闘機隊、飛行第244戦隊です。戦いの最終局面では、「飛燕」を空冷化した信頼性の高い「五式戦」に機種転換し、敵新型機に対抗していきます。</JP-Name>
+	<TR-Name>Piloted by the 244th Fighter Group, the Type 3 Fighter Hien is the battle-hardened Army&apos;s fighter aircraft, developed in Chofu, Tokyo for capital defense. During the final stages of the war, the Hien was converted to the highly-reliable, air-cooled Type 5 fighter to counter new models of enemy fighters.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>「カタリナ」の愛称で親しまれた傑作飛行艇です。&lt;br&gt;信頼性の高い水陸両用機で、哨戒から救難まで幅広く運用されました。戦後も活躍した傑作機のひとつです。</JP-Name>
+	<TR-Name>This excellent aircraft was affectionately called the &quot;Catalina&quot; by its crews. It&apos;s highly reliable and has a wide array of uses, from patrols to air-to-sea rescue. Even after the war it still was one of the best aircraft.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>大威力長射程を誇る、秘密兵器「九三式酸素魚雷」。&lt;br&gt;その必殺の酸素魚雷を最大限に詰め込み、一基で旧型駆逐艦一隻分以上の雷装火力を持つ試作六連装【酸素魚雷】発射管です。&lt;br&gt;後期の新型駆逐艦に搭載する計画もありました。</JP-Name>
+	<TR-Name>The secret weapon that boasting high firepower and long range, the &quot;Type 93 Oxygen Torpedo&quot;. Crammed full of those deadly oxygen torpedoes, these prototype sextuple torpedo launcher tubes held more firepower in one turret than the total available upon one of the older model destroyers. There were also plans to mount these on the later new model destroyers.</TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 180 !-->
+	<JP-Name>陸上航空基地より発進、敵艦船への対艦攻撃及び敵飛行場等への対地攻撃などを行った海軍の主力陸上攻撃機「一式陸攻」、その性能向上型です。機体の一部を再設計改修、さらに機体上部の旋回機銃と機体側面機銃を強化、性能は限定的ではありましたが機上電探も搭載しました。</JP-Name>
+	<TR-Name>This is an improved capability model of Navy&apos;s workhorse the &quot;Type 1 Attack Bomber&quot;, which launched from air bases and carried out attacks on ships, airfields, and such. Portions of the airframe were redesigned, as well as the addition of a rotating machine gun, and the enhancement of the lateral machine guns, and even though its capabilities were limited, a plane-mounted radar was also installed.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>名機零式艦戦21型の性能向上型、「零式艦上戦闘機32型」です。&lt;br&gt;翼端を角型に変更、エンジン換装により出力向上を図りました。また、搭載機銃の弾数も増やしています。航続距離など不利な点もありましたが、ラバウル航空隊やブイン、そしてソロモン上空の戦いに参加しました。</JP-Name>
+	<TR-Name>This is an improved version of the Zero Fighter Model 21, the &quot;Zero Fighter Model 32&quot;. The wing tips were squared off and the plane was given a new engine for better performance. Its ammunition for its guns were also increased. It had downsides such as its cruising range but it participated in the battles in the skies of Rabaul, Buin and the Solomons.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>熟練搭乗員で構成された「零式艦上戦闘機32型」装備の艦戦隊です。&lt;br&gt;翼端を切り落としたスタイルの21型の性能向上型「32型」は、航続距離などに課題もありましたが、精鋭の熟練搭乗員が駆る同機は、ラバウル、そしてソロモン上空の激戦を支えました。</JP-Name>
+	<TR-Name>This is the Zero Fighter Model 32 used by skilled pilots. Its shortened wingspan from the Model 21 gave it some boost in performance, at the cost of cruising range and other factors. Nevertheless, in the hands of elite, skilled pilots, it supported the bloody battles above Rabaul and the Solomons.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>Iowa級戦艦の主兵装として米国で開発された強力な新型三連装主砲と、その改良された射撃管制システムです。現在のFCSの先祖ともいえる射撃レーダーと砲射撃指揮装置によるシステムを有しており、その高火力と共に高い射撃精度が期待できます。</JP-Name>
+	<TR-Name>This is the powerful triple gun with its improved fire control system, developed in the US as the primary weapon of the Iowa-class battleships. It is expected that with its radar guided fire control systems, it can be called as the ancestor of modern FCS with its high accuracy and firepower.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>パスタの国で開発/配備された液冷エンジン装備の戦闘機の艦載型です。&lt;br&gt;同国の建造していた航空母艦への搭載が計画されていました。</JP-Name>
+	<TR-Name>A carrier-based model of a fighter aircraft equipped with a liquid-cooled engine developed and deployed in the land of pasta. It was planned to be carried on board aircraft carriers constructed by the said nation.</TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 185 !-->
+	<JP-Name>かの国で開発された液冷エンジンを参考に開発された、液冷エンジンを装備した陸軍戦闘機、三式戦「飛燕」、その性能向上型です。エンジンの信頼性に課題を残していますが、武装等を強化、総合的に戦闘力は向上しています。万全な整備状態であれば高い戦闘力を発揮します。</JP-Name>
+	<TR-Name>This is an improved capability model of the Type 3 Fighter "Hien", an army fighter equipped with a liquid-cooled engine developed in that country as a reference. There are still challenges with the reliability of the engine, but the armament has been enhanced and the overall combat ability has increased. In a well-maintained state it can exert powerful combat ability.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>陸上航空基地より発進、敵艦船への対艦攻撃及び敵飛行場等への対地攻撃などを行った海軍の主力陸上攻撃機「一式陸攻」のさらなる性能向上型です。尾翼形状などを再設計改修、また脆弱性の原因となっていた燃料タンク問題改善にも着手した改良後期型の一式陸攻です。</JP-Name>
+	<TR-Name>This is an improved capability model of Navy&apos;s workhorse the &quot;Type 1 Attack Bomber&quot;, which launched from air bases and carried out attacks on ships, airfields, and such. It is an improved late model of the &quot;Type 1 Attack Bomber&quot; that also included work on improvements to the fuel tank problem that presented a vulnerability.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>海軍の主力陸上攻撃機「一式陸攻」の後継機として開発された陸上発進の攻撃機です。優れた機体設計により、高い性能を秘めていました。戦力化された時期が遅かったことや複雑すぎる構造に問題もありましたが、最後まで戦い抜きました。一部は夜間戦闘機に転用されました。</JP-Name>
+	<TR-Name>This is the land-based attack aircraft developed as the successor to Navy&apos;s workhorse, the &quot;Type 1 Attack Bomber&quot;. With its excellent airframe design, it had great potential capabilities. There were problems such as late deployment into service as well as the excessively complicated construction, but it fought through the end. A portion of these were diverted for use as night fighters.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>パスタの国で開発/配備された液冷エンジン装備の戦闘機の……航空魚雷装備型です。&lt;br&gt;魚雷投下後は制空戦闘で活躍……することもできるかも。艦攻と艦戦の中間的な機体です。</JP-Name>
+	<TR-Name>This is a variation of fighter plane equipped with the liquid-cooled engine developed and deployed by the country of pasta... which can equip aerial torpedoes.
+After dropping torpedoes, participating in aerial superiority fighting... might also be possible. This aircraft is a middle ground between a torpedo bomber and a fighter.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>パスタの国で戦いの後期に開発が進められていた高性能戦闘機です。&lt;br&gt;量産戦力化されることは叶いませんでしたが、高い潜在力を持ち、優れた戦闘力が期待されました。本機はその艦載機バージョンです。</JP-Name>
+	<TR-Name>A high capability fighter which was in development during the late period of fighting in the country of pasta.
+While it did not see mass production for deployment, it possessed great potential, and was expected to have great combat capability. This plane is the carrier-based version of it.</TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 190 !-->
+	<JP-Name>紅茶の国の戦艦主兵装用に開発された連装大口径主砲です。&lt;br&gt;同国ならでは堅実な作りの主砲ですが、後期にはレーダーシステムの連動した射撃管制装置も開発されました。</JP-Name>
+	<TR-Name>A large-caliber twin gun mount developed as a main armament for battleships in the country of black tea.
+For this country, this was a main gun with a solid construction, but later on, a radar-synchronized fire control system was also developed for it.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>紅茶の国の大型艦などに搭載された対空火器で、その個性ある射撃音から通称ポンポン砲と呼ばれました。&lt;br&gt;本装備はその8連装バージョンです。運用性に難があり、故障も多いものの、大火力&amp;有名な近接対空火器です。</JP-Name>
+	<TR-Name>This was an anti-air gun mounted on large ships in the country of black tea, dubbed Pom-pom guns due to their unique report.
+This equipment is the octuple version of the gun. Although there were operational difficulties and frequent breakdowns, it is a powerful and famous close-range anti-air gun.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>紅茶の国で戦艦主兵装用に開発された連装大口径主砲です。&lt;br&gt;堅実な作りの傑作砲に対して最大仰角を上げる等の近代化改修を行いました。熟成した戦艦主砲の改良版です。</JP-Name>
+	<TR-Name>A large-caliber twin gun mount developed as a main armament for battleships in the country of black tea.
+A modernization was undertaken on the solidly made masterpiece gun to raise the max angle of elevation. A mature battleship main gun's improved version.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>特大発動艇、略して「特大発」。&lt;br&gt;輸送船からの揚陸作業や上陸戦に用いる数多く量産された上陸用舟艇、「大発」。この海上のトラック「大発」を新型中戦車搭載等に対応するためより大型化、搭載力が向上しています。</JP-Name>
+	<TR-Name>Toku Daihatsu-class Landing Craft or &apos;Toku Daihatsu&apos; for short.
+Unloading and landing operations made use of great numbers of these mass produced &apos;Daihatsu&apos; landing craft.
+The maritime truck &apos;Daihatsu&apos; was increased in size to accommodate the new medium tank.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>トリコロールの国で開発された水上攻撃機です。&lt;br&gt;日本海軍ではあまり研究されなかった、水上雷撃機としての運用を狙った機体でもあります。本機は同機の水上機母艦艦載機バージョンで、索敵や爆装攻撃を含むマルチロールが期待されていました。</JP-Name>
+	<TR-Name>This seaplane bomber was developed in the tricolour country. In the Japanese navy little research was done about it, this machine aimed to be also a torpedo seaplane bomber. This plane was similar to the aircraft carried version, and it was expected to be a multi-role aircraft that included reconnaissance and dive bombing.</TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 195 !-->
+	<JP-Name>シンプルかつ頑丈な作りの傑作急降下爆撃機です。&lt;br&gt;大戦初期の機体でありながら、旧式化したあとも長く使われました。ドーントレスの愛称で呼ばれた本機は、練度の高いパイロットであれば、ある程度の対空戦闘も可能でした。</JP-Name>
+	<TR-Name>Called the &quot;Dauntless&quot;, this simple yet robust dive bomber was used extensively during the Great War. In the hands of a skilled pilot it can even be used as fighter.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>九七艦攻のライバルともいえる艦上攻撃機です。&lt;br&gt;速度が遅く、大戦初期の機体で激戦の中でも陳腐化しつつありましたが、その必死の戦いは大きな戦いの勝機をもたらしました。</JP-Name>
+	<TR-Name>This torpedo bomber can be considered as a rival to the Type 97 Torpedo Bomber. With its slow speed, it was already obsolete in the early days of the Great War. But during a bloody battle, it contributed to a stunning victory.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>大戦初期の太平洋上で零戦としのぎを削った名艦上戦闘機、その初期部隊配備型です。&lt;br&gt;ワイルドキャットとよばれたF4Fシリーズは、格闘戦闘で劣る零戦隊を相手に果敢に戦いました。</JP-Name>
+	<TR-Name>This is early version of the plane that fought ruthlessly against Zeroes in the early days of the Great War. The F4F series, called the Wildcat tangled with Zeroes even with its inferior dogfighting capability.</TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 198 !-->
+	<JP-Name>大戦初期の太平洋上で零戦としのぎを削った名艦上戦闘機、その改良型です。&lt;br&gt;ワイルドキャットとよばれたF4Fシリーズは、格闘戦闘で劣る零戦隊を相手に果敢に戦いました。本機は火力を強化し、空母艦載に最適化したF4Fの完成形といえるバージョンです。</JP-Name>
+	<TR-Name>This is the improved version of the plane that fought ruthlessly against Zeroes during the Great War. The F4F series, called the Wildcat tangled with Zeroes even with its inferior dogfighting capability. With its increased firepower, it can be said that this version is the best in its series.</TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 205 !-->
+	<JP-Name>大戦初期の太平洋上で零戦としのぎを削った米海軍艦上戦闘機F4Fシリーズの後継機、F6Fシリーズの初期量産型です。&lt;br&gt;大出力エンジンを装備した強力な主力艦上戦闘機として、零戦を徐々に圧倒していきました。</JP-Name>
+	<TR-Name>The initial mass production model of the F6F series. It is the successor to the F4F series of US Navy carrier-based fighters that cut short the rampage of the Zero fighters after the early days of the Pacific War.
+As a powerful carrier-based fighter equipped with a high-powered engine, it gradually overwhelmed the Zero in battle.</TR-Name>
+  </ItemDesc>
 </Equipment>
