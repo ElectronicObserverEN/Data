@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.47">
+<Quests Version="1.1.48">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1819,6 +1819,14 @@ Unlock both equipment. And then, scrap three Zero Fighter Model 52.</TR-Detail>
 Unlock both equipment. And then, scrap two 12.7cm Twin Gun Mount.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>653</ID>
+    <JP-Name>節分特別任務：節分準備！</JP-Name>
+    <TR-Name>Setsubun Special Mission: Preparation for Setsubun!</TR-Name>
+    <JP-Detail>「20.3cm連装砲(無印)」を二つ廃棄、家具コイン5,000と「12cm単装砲」「零式水上偵察機」各二つを準備せよ！　※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。</JP-Detail>
+    <TR-Detail>Have 5000 furniture coins, two 12cm Single Gun Mount, and two Type 0 Reconnaissance Seaplane in your inventory.
+Unlock both equipment. And then, scrap two 20.3cm Twin Gun Mount.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>701</ID>
     <JP-Name>はじめての「近代化改修」！</JP-Name>
     <TR-Name>G1: First Modernization</TR-Name>
@@ -2152,5 +2160,20 @@ Aoba Kai, Uranami Kai, or Shikinami Kai and score an S-rank victory against Worl
     <TR-Name>B89: Battleship Squadron, Set Sail!</TR-Name>
     <JP-Detail>戦艦または航空戦艦2隻以上からなる強力な戦艦戦隊を中核とした艦隊を沖ノ島海域前面に展開、&lt;br&gt;侵攻する敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie two (non-fast) BB/BBV and four wildcard and score an S-rank victory against World 2-4 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>843</ID>
+    <JP-Name>節分特別出撃：制海権を確保せよ！</JP-Name>
+    <TR-Name>Setsubun Special Sortie: Obtain Naval Supremacy!</TR-Name>
+    <JP-Detail>節分実施の準備として第1艦隊に4隻(内駆逐艦2隻含む)からなる精鋭艦隊を配備、鎮守府正面海域、&lt;br&gt;南西諸島沖、及び東部オリョール海へ展開、同海域の敵艦隊を撃滅し、節分の制海権を確保せよ！</JP-Detail>
+    <TR-Detail>Sortie with only four ships (including two DD) and score an S-rank victory against World 1-1, 1-2, and 2-3 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>844</ID>
+    <JP-Name>精鋭「第八駆逐隊」突入せよ！</JP-Name>
+    <TR-Name>Deploy the Elite 8th Destroyer Division!</TR-Name>
+    <JP-Detail>「荒潮改二」を旗艦とし、僚艦に「第八駆逐隊」から1隻を配備した精鋭第1艦隊で&lt;br&gt;サーモン海域北方に突入、同方面に接近する有力な敵艦隊を捕捉、同方面の敵戦力の漸減に努めよ！</JP-Detail>
+    <TR-Detail>Sortie Arashio Kai Ni, four wildcard, and one of the following: Asashio, Ooshio, Michisio.
+Score two S-rank victories against World 5-5 Boss.</TR-Detail>
   </Quest>
 </Quests>
