@@ -156,6 +156,18 @@
     <JP-Name>MS諸島北部 B環礁沖</JP-Name>
     <TR-Name>MS Northern Archipelago off the B Atoll</TR-Name>
   </Map>
+  <Map>
+    <JP-Name>日本近海/七尾北湾/舞鶴湾</JP-Name>
+    <TR-Name>Japanese Coast/Nanao/Maizuru</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>小笠原諸島航路</JP-Name>
+    <TR-Name>Ogasawara Islands Route</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>トラック泊地沖</JP-Name>
+    <TR-Name>Truk Anchorage</TR-Name>
+  </Map>
 
 <!-- Node Name !-->
 

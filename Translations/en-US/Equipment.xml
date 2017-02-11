@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.20">
+<Equipment Version="1.3.21">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -807,6 +807,26 @@
   <Item>
 	<JP-Name>瑞雲(六三一空)</JP-Name>
 	<TR-Name>Zuiun (631 Air Group)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>晴嵐(六三一空)</JP-Name>
+	<TR-Name>Seiran (631 Air Group)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>彩雲(輸送用分解済)</JP-Name>
+	<TR-Name>Saiun (Disassembled)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>潜水艦搭載電探&amp;水防式望遠鏡</JP-Name>
+	<TR-Name>Submarine Radar + Periscope</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>潜水艦搭載電探&amp;逆探(E27)</JP-Name>
+	<TR-Name>Submarine Radar + RWR (E27)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>彩雲(東カロリン空)</JP-Name>
+	<TR-Name>Saiun (East Caroline Air Group)</TR-Name>
   </Item>
   
   

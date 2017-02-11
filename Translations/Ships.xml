@@ -1015,6 +1015,14 @@
     <JP-Name>Commandant Teste</JP-Name>
     <TR-Name>Commandant Teste</TR-Name>
   </Ship>
+  <Ship>
+    <JP-Name>伊13</JP-Name>
+    <TR-Name>I-13</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>伊14</JP-Name>
+    <TR-Name>I-14</TR-Name>
+  </Ship>
 
   <!-- Abyssal Ships !-->
 
