@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.21">
+<Equipment Version="1.3.22">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -1125,6 +1125,10 @@
   <Item>
 	<JP-Name>深海熊猫艦戦</JP-Name>
 	<TR-Name>Abyssal Bearcat Fighter</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海潜水下駄履き</JP-Name>
+	<TR-Name>Abyssal Submarine Seaplane</TR-Name>
   </Item>
 
 <!-- ItemDescription !-->

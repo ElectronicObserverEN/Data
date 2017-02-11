@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.3.06">
+<Operations Version="1.3.08">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>Sea in Front of the Naval Base</TR-Name>
@@ -2336,5 +2336,114 @@
   <MapNode>
     <Node>006005018</Node>
     <Label>M</Label>
+  </MapNode>
+
+  <MapNode>
+    <Node>037001001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037001002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037001003</Node>
+    <Label>C</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037001004</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037001005</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037001006</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037001007</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037001008</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037001009</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037001013</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002001</Node>
+    <Label>A</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002002</Node>
+    <Label>B</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002004</Node>
+    <Label>D</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002005</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002007</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002008</Node>
+    <Label>H</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002009</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002010</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002011</Node>
+    <Label>K</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002012</Node>
+    <Label>L</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002013</Node>
+    <Label>M</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002014</Node>
+    <Label>E</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002015</Node>
+    <Label>F</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002016</Node>
+    <Label>G</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002018</Node>
+    <Label>I</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002020</Node>
+    <Label>J</Label>
+  </MapNode>
+  <MapNode>
+    <Node>037002021</Node>
+    <Label>K</Label>
   </MapNode>
 </Operations>
