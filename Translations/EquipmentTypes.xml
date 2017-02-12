@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<EquipmentTypes Version="1.3.8">
+<EquipmentTypes Version="1.3.81">
 	<Type>
 		<JP-Name>小口径主砲</JP-Name>
 		<TR-Name>Small-caliber Gun</TR-Name>
@@ -202,7 +202,7 @@
 	</Type>
 	<Type>
 		<JP-Name>輸送機材</JP-Name>
-		<TR-Name>Transport Equipment</TR-Name>
+		<TR-Name>Transport Material</TR-Name>
 	</Type>
 	<Type>
 		<JP-Name>潜水艦装備</JP-Name>

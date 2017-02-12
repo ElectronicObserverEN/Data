@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.22">
+<Equipment Version="1.3.23">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -822,7 +822,7 @@
   </Item>
   <Item>
 	<JP-Name>潜水艦搭載電探&amp;逆探(E27)</JP-Name>
-	<TR-Name>Submarine Radar + RWR (E27)</TR-Name>
+	<TR-Name>Submarine Radar + E27 Radar Detector</TR-Name>
   </Item>
   <Item>
 	<JP-Name>彩雲(東カロリン空)</JP-Name>
