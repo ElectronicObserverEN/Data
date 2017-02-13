@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.3.10">
+<Operations Version="1.3.11">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>Sea in Front of the Naval Base</TR-Name>
@@ -802,6 +802,79 @@
   <Sortie>
     <JP-Name>リランカ島港湾守備隊</JP-Name>
     <TR-Name>Ri-Lanka Island Port Garrison</TR-Name>
+  </Sortie>
+<!-- Winter 2017 !-->
+  <Sortie>
+    <JP-Name>敵侵入潜水艦隊 先遣群</JP-Name>
+    <TR-Name>Invasion Subs Fleet Advance Unit</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海軽快戦隊 先行侵入群</JP-Name>
+    <TR-Name>Abyssal Light Squadron Infiltration Unit</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海侵入機動部隊 前衛群</JP-Name>
+    <TR-Name>Abyssal Inv. Mobile Force Vanguard Unit</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海侵入機動部隊　前衛部隊</JP-Name>
+    <TR-Name>Abyssal Inv. Mobile Force Vanguard Group</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>先遣侵入潜水艦隊旗艦</JP-Name>
+    <TR-Name>Advance Invasion Subs Flagship</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海潜水艦隊 群狼集団</JP-Name>
+    <TR-Name>Abyssal Subs Fleet Wolfpack Unit</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海侵入潜水艦隊 先遣群</JP-Name>
+    <TR-Name>Abyssal Inv. Subs Fleet Advance Unit</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海通商破壊機動部隊 I群</JP-Name>
+    <TR-Name>Abyssal Raiding Mobile Force I</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海通商破壊機動部隊 II群</JP-Name>
+    <TR-Name>Abyssal Raiding Mobile Force II</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海通商破壊機動部隊 III群</JP-Name>
+    <TR-Name>Abyssal Raiding Mobile Force III</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海通商破壊機動部隊 旗艦集団</JP-Name>
+    <TR-Name>Abyssal Raiding Mobile Force Flagship</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海軽快水雷戦隊</JP-Name>
+    <TR-Name>Abyssal Torpedo Squadron</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海任務部隊 強襲戦隊旗艦</JP-Name>
+    <TR-Name>Abyssal Task Force Assault Squadron</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海任務部隊 火力支援群</JP-Name>
+    <TR-Name>Abyssal TF Fire Support Division</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海任務部隊 空母III群</JP-Name>
+    <TR-Name>Abyssal TF Carrier III</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海任務部隊 特別遊撃群</JP-Name>
+    <TR-Name>Abyssal TF Special Attack Division</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海離島守備隊 基地航空隊</JP-Name>
+    <TR-Name>Abyssal Isolated Island LBAS</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海離島守備隊</JP-Name>
+    <TR-Name>Abyssal Isolated Island Garrison</TR-Name>
   </Sortie>
 
 <!-- Node ID !-->
