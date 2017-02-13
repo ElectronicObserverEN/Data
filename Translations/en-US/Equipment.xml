@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.23">
+<Equipment Version="1.3.24">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -1452,8 +1452,28 @@ The maritime truck &apos;Daihatsu&apos; was increased in size to accommodate the
 	<TR-Name>The initial mass production model of the F6F series. It is the successor to the F4F series of US Navy carrier-based fighters that cut short the rampage of the Zero fighters after the early days of the Pacific War.
 As a powerful carrier-based fighter equipped with a high-powered engine, it gradually overwhelmed the Zero in battle.</TR-Name>
   </ItemDesc>
-  <ItemDesc>
+  <ItemDesc><!-- 207 !-->
 	<JP-Name>急降下爆撃も可能な多用途水上偵察機「瑞雲」。&lt;br&gt;高価かつ高性能潜水艦搭載攻撃機「晴嵐」を運用する潜水艦部隊の航空隊として編成された第六三一海軍航空隊。その六三一空の「瑞雲」による練成部隊です。</JP-Name>
 	<TR-Name>A multirole float recon plane, Zuiun was designed to carry out dive-bombing as well. The 631st Naval Air Group was organized as a submarine-launched floatplane group operating the expensive and high-performance attack aircraft, Seiran. This Zuiun was used by 631st for training.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>カタパルト射出可能な高性能攻撃機「晴嵐」で編成された実戦部隊です。&lt;br&gt;潜水空母による戦略的な運用を目指して開発された、高い攻撃力を秘めたハイスペックな潜水艦搭載水上攻撃機「晴嵐」。同機を集中配備した潜水艦隊部隊運用航空隊「六三一空」の実戦部隊。ぜひ正攻法で活躍させたいところです！</JP-Name>
+	<TR-Name>カタパルト射出可能な高性能攻撃機「晴嵐」で編成された実戦部隊です。&lt;br&gt;潜水空母による戦略的な運用を目指して開発された、高い攻撃力を秘めたハイスペックな潜水艦搭載水上攻撃機「晴嵐」。同機を集中配備した潜水艦隊部隊運用航空隊「六三一空」の実戦部隊。ぜひ正攻法で活躍させたいところです！</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>「我ニ追イツク敵機無シ」有名な無電を発した俊足の艦上偵察機「彩雲」。&lt;br&gt;敵戦闘機の追随を許さない高速性能を誇る、高性能な艦上偵察機です。悪化した戦況の中、敵情偵察に海上へと飛び立ちました。その「彩雲」を航空機格納庫を持つ潜水艦空母に格納して輸送できるように分解しました。</JP-Name>
+	<TR-Name>&quot;No Grumman could catch us&quot; was the famous telegraph sent from this reconnaissance aircraft, &quot;Saiun&quot;. This reconnaissance aircraft boasts high-speed performance no enemy fighter can overtake. As the war deteriorated, this aircraft monitored enemy movements at sea. This &quot;Saiun&quot; has been dismantled so it could be transported by being stored in the hangar of an SSV.</TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 210 !-->
+	<JP-Name>潜水艦に搭載する、索敵及び水上偵察用装備です。&lt;br&gt;艦橋上部に集中装備する多数の優れた水防式望遠鏡と水上電探及び対空電探群によって、脅威の早期発見に努めます。</JP-Name>
+	<TR-Name>Installed on a submarine, for scouting and surface reconnaissance. Equipped to the upper part of the bridge a number of excellent waterproof telescopes and surface radar and air radar concentrated, to try to detect threats at an early stage.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>潜水艦に搭載する、索敵及び水上偵察用装備です。&lt;br&gt;艦橋上部に集中装備する多数の優れた水防式望遠鏡と水上電探及び対空電探群、さらに有用性の高い電探(E27)によって、脅威や目標の早期発見に努めます。</JP-Name>
+	<TR-Name>Installed on a submarine, for scouting and surface reconnaissance. Equipped to the upper part of the bridge a number of excellent waterproof telescopes and surface radar and air radar concentrated, with a more useful high radar (E27), to try to detect threats at an early stage.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>※「我ニ追イツク敵機無シ」有名な無電を発した俊足の艦上偵察機「彩雲」。&lt;br&gt;敵戦闘機の追随を許さない高速性能を誇る、高性能な艦上偵察機です。悪化した戦況の中、敵情偵察に海上へと飛び立ちました。「光」作戦によりトラック基地に輸送された「彩雲」。同基地の東カロリン航空隊所属「彩雲」は、ウルシー環礁泊地の偵察に活躍します。</JP-Name>
+	<TR-Name>&quot;No Grumman could catch us&quot; was the famous telegraph sent from this recon aircraft, &quot;Saiun&quot;. This recon aircraft boasts high-speed performance no enemy fighter can overtake. As the war deteriorated, this aircraft monitored enemy movements at sea. This &quot;Saiun&quot; was transported to the Truk Base during Operation &quot;Hikari&quot;. It belongs to &quot;East Caroline Air Group&quot; and active in Ulithi Atoll area.</TR-Name>
   </ItemDesc>
 </Equipment>

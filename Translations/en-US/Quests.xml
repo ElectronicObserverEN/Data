@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.49">
+<Quests Version="1.1.50">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1827,6 +1827,22 @@ Unlock both equipment. And then, scrap two 12.7cm Twin Gun Mount.</TR-Detail>
 Unlock both equipment. And then, scrap two 20.3cm Twin Gun Mount.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>654</ID>
+    <JP-Name>【丙】作戦「彩雲」調達＆輸送分解</JP-Name>
+    <TR-Name>Operation &quot;Easy&quot;: Procurement, Disassemble and Transport &quot;Saiun&quot;</TR-Name>
+    <JP-Detail>654dummy</JP-Detail>
+    <TR-Detail>Have 10 Development Materials and one Type 97 Torpedo Bomber in your inventory.
+Unlock both equipment. And then, scrap one Type 0 Reconnaissance Seaplane.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>655</ID>
+    <JP-Name>「彩雲」輸送分解</JP-Name>
+    <TR-Name>Disassemble and Transport &quot;Saiun&quot;</TR-Name>
+    <JP-Detail>彩雲分解任務：「零式水上偵察機」一つを廃棄、開発資材x20と「彩雲」一つを準備せよ！&lt;br&gt;※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。</JP-Detail>
+    <TR-Detail>Have 20 Development Materials and one Saiun in your inventory.
+Unlock the equipment. And then, scrap one Type 0 Reconnaissance Seaplane.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>701</ID>
     <JP-Name>はじめての「近代化改修」！</JP-Name>
     <TR-Name>G1: First Modernization</TR-Name>
@@ -2175,5 +2191,12 @@ Aoba Kai, Uranami Kai, or Shikinami Kai and score an S-rank victory against Worl
     <JP-Detail>「荒潮改二」を旗艦とし、僚艦に「第八駆逐隊」から1隻を配備した精鋭第1艦隊で&lt;br&gt;サーモン海域北方に突入、同方面に接近する有力な敵艦隊を捕捉、同方面の敵戦力の漸減に努めよ！</JP-Detail>
     <TR-Detail>Sortie Arashio Kai Ni, four wildcard, and one of the following: Asashio, Ooshio, Michisio.
 Score two A-rank victories against World 5-5 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>845</ID>
+    <JP-Name>敵大規模泊地の後方兵站線を分断せよ！</JP-Name>
+    <TR-Name>Break down the rear logistic line of enemy large scale anchorage!</TR-Name>
+    <JP-Detail>845dummy</JP-Detail>
+    <TR-Detail>Score two A-rank victories against Isolated Island Princess node (E-3-J).</TR-Detail>
   </Quest>
 </Quests>
