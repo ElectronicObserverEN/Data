@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.24">
+<Equipment Version="1.3.25">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun Mount</TR-Name>
@@ -1473,7 +1473,7 @@ As a powerful carrier-based fighter equipped with a high-powered engine, it grad
 	<TR-Name>Installed on a submarine, for scouting and surface reconnaissance. Equipped to the upper part of the bridge a number of excellent waterproof telescopes and surface radar and air radar concentrated, with a more useful high radar (E27), to try to detect threats at an early stage.</TR-Name>
   </ItemDesc>
   <ItemDesc>
-	<JP-Name>※「我ニ追イツク敵機無シ」有名な無電を発した俊足の艦上偵察機「彩雲」。&lt;br&gt;敵戦闘機の追随を許さない高速性能を誇る、高性能な艦上偵察機です。悪化した戦況の中、敵情偵察に海上へと飛び立ちました。「光」作戦によりトラック基地に輸送された「彩雲」。同基地の東カロリン航空隊所属「彩雲」は、ウルシー環礁泊地の偵察に活躍します。</JP-Name>
+	<JP-Name>「我ニ追イツク敵機無シ」有名な無電を発した俊足の艦上偵察機「彩雲」。&lt;br&gt;敵戦闘機の追随を許さない高速性能を誇る、高性能な艦上偵察機です。伊号潜水艦による「光」作戦でトラック基地に輸送された「彩雲」。東カロリン空の「彩雲」隊は、ウルシー環礁泊地の偵察に活躍します。</JP-Name>
 	<TR-Name>&quot;No Grumman could catch us&quot; was the famous telegraph sent from this recon aircraft, &quot;Saiun&quot;. This recon aircraft boasts high-speed performance no enemy fighter can overtake. As the war deteriorated, this aircraft monitored enemy movements at sea. This &quot;Saiun&quot; was transported to the Truk Base during Operation &quot;Hikari&quot;. It belongs to &quot;East Caroline Air Group&quot; and active in Ulithi Atoll area.</TR-Name>
   </ItemDesc>
 </Equipment>
