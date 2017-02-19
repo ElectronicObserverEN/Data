@@ -1,6 +1,4 @@
-﻿2017/02/11 10:00:00
-2.5.2.2
-* Added theme/color scheme support.
-* Added manual update check.
-* Added options to disable translation.
-* Refactor code.
+﻿2017/02/14 23:00:00
+2.5.3
+* Added variables for new speed and range categories.
+* Fixed several bugs in Battle window.
