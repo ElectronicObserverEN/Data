@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.50">
+<Quests Version="1.1.51">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1830,7 +1830,7 @@ Unlock both equipment. And then, scrap two 20.3cm Twin Gun Mount.</TR-Detail>
     <ID>654</ID>
     <JP-Name>【丙】作戦「彩雲」調達＆輸送分解</JP-Name>
     <TR-Name>Operation &quot;Easy&quot;: Procurement, Disassemble and Transport &quot;Saiun&quot;</TR-Name>
-    <JP-Detail>654dummy</JP-Detail>
+    <JP-Detail>彩雲調達＆分解任務：「零式水上偵察機」一つを廃棄、開発資材x10と「九七式艦上攻撃機(無印)」一つを準備せよ！※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。</JP-Detail>
     <TR-Detail>Have 10 Development Materials and one Type 97 Torpedo Bomber in your inventory.
 Unlock both equipment. And then, scrap one Type 0 Reconnaissance Seaplane.</TR-Detail>
   </Quest>
@@ -2189,14 +2189,14 @@ Aoba Kai, Uranami Kai, or Shikinami Kai and score an S-rank victory against Worl
     <JP-Name>精鋭「第八駆逐隊」突入せよ！</JP-Name>
     <TR-Name>Deploy the Elite 8th Destroyer Division!</TR-Name>
     <JP-Detail>「荒潮改二」を旗艦とし、僚艦に「第八駆逐隊」から1隻を配備した精鋭第1艦隊で&lt;br&gt;サーモン海域北方に突入、同方面に接近する有力な敵艦隊を捕捉、同方面の敵戦力の漸減に努めよ！</JP-Detail>
-    <TR-Detail>Sortie Arashio Kai Ni, four wildcard, and one of the following: Asashio, Ooshio, Michisio.
+    <TR-Detail>Sortie Arashio Kai Ni as flagship, four wildcard, and one of the following: Asashio, Ooshio, Michisio.
 Score two A-rank victories against World 5-5 Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>845</ID>
     <JP-Name>敵大規模泊地の後方兵站線を分断せよ！</JP-Name>
     <TR-Name>Break down the rear logistic line of enemy large scale anchorage!</TR-Name>
-    <JP-Detail>845dummy</JP-Detail>
+    <JP-Detail>敵の大規模泊地の後方兵站線を分断する！敵泊地の北東にある敵離島拠点を攻撃し、同拠点を無力化、&lt;br&gt;補強兵站線を破壊することで、敵大規模泊地の防衛力低下を図れ！</JP-Detail>
     <TR-Detail>Score two A-rank victories against Isolated Island Princess node (E-3-J).</TR-Detail>
   </Quest>
 </Quests>
