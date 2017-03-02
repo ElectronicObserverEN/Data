@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.51">
+<Quests Version="1.1.52">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1843,6 +1843,30 @@ Unlock both equipment. And then, scrap one Type 0 Reconnaissance Seaplane.</TR-D
 Unlock the equipment. And then, scrap one Type 0 Reconnaissance Seaplane.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>656</ID>
+    <JP-Name>六三一空「晴嵐」隊の編成</JP-Name>
+    <TR-Name>F49: Organize the Seiran 631 Air Group</TR-Name>
+    <JP-Detail>秘書艦に「伊401」または「伊14」または「伊13」を配備。「試製晴嵐」を一番スロットに搭載。「瑞雲(六三一空)」を二番スロットに搭載。「晴嵐(六三一空)」を新編せよ！ ※任務達成後瑞雲は消滅します。</JP-Detail>
+    <TR-Detail>Equip Prototype Seiran in first slot and Zuiun (631 Air Group) in second slot on either I-401, I-13 or I-14 as secretary.
+Unlock the equipment.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>657</ID>
+    <JP-Name>春の準備任務：桃の節句準備！</JP-Name>
+    <TR-Name>SF3: Spring Preparation Mission: Hina Matsuri Preparations!</TR-Name>
+    <JP-Detail>春の準備任務：「14cm単装砲」を二つ廃棄、家具コイン5,000と「九九式艦爆」「61cm三連装魚雷」各二つを準備せよ！　※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。</JP-Detail>
+    <TR-Detail>Have 5000 furniture coins, two Type 99 Dive Bomber and two 61cm Triple Torpedo in your inventory.
+Unlock the equipment. And then, scrap two 14cm Single Gun.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>658</ID>
+    <JP-Name>潜水艦武装の強化</JP-Name>
+    <TR-Name>F48: Enhance Submarine Armaments</TR-Name>
+    <JP-Detail>「61cm三連装魚雷」を4つ廃棄、開発資材x120と「61cm四連装(酸素)魚雷」「九三式水中聴音機」各三つを準備せよ！　※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。</JP-Detail>
+    <TR-Detail>Have three 61cm Quadruple (Oxygen) Torpedo, three Type 93 Passive Sonar, and 120 development materials in your inventory.
+Unlock the equipment. And then, scrap four 61cm Triple Torpedo.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>701</ID>
     <JP-Name>はじめての「近代化改修」！</JP-Name>
     <TR-Name>G1: First Modernization</TR-Name>
@@ -2198,5 +2222,36 @@ Score two A-rank victories against World 5-5 Boss.</TR-Detail>
     <TR-Name>Break down the rear logistic line of enemy large scale anchorage!</TR-Name>
     <JP-Detail>敵の大規模泊地の後方兵站線を分断する！敵泊地の北東にある敵離島拠点を攻撃し、同拠点を無力化、&lt;br&gt;補強兵站線を破壊することで、敵大規模泊地の防衛力低下を図れ！</JP-Detail>
     <TR-Detail>Score two A-rank victories against Isolated Island Princess node (E-3-J).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>846</ID>
+    <JP-Name>潜水艦隊、中部海域の哨戒を実施せよ！</JP-Name>
+    <TR-Name>B91: Submarine Fleet, Patrol the Central Waters!</TR-Name>
+    <JP-Detail>潜水艦を旗艦とし、4隻以上の有力な潜水艦を配備した第一艦隊、精鋭潜水艦隊で&lt;br&gt;中部海域哨戒線に進出、回航中の敵空母を捕捉、これを襲撃せよ！</JP-Detail>
+    <TR-Detail>Sortie four SS(V) (one as Flagship) and two additional ships.
+Score a B-rank victory against World 6-1 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>847</ID>
+    <JP-Name>春の準備任務：桃の節句準備を完遂せよ！</JP-Name>
+    <TR-Name>SB22: Spring Preparation Mission: Carry out the Hina Matsuri Preparations!</TR-Name>
+    <JP-Detail>春の準備任務：艦隊を東部オリョール海に反復出撃、同方面敵艦隊を覆滅し、&lt;br&gt;同海域周辺の制海権を完全に確保、桃の節句を迎える準備を完遂せよ！</JP-Detail>
+    <TR-Detail>Score five S-rank victories against World 2-5 Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>848</ID>
+    <JP-Name>重装甲巡洋艦、鉄底海峡に突入せよ！</JP-Name>
+    <TR-Name>B92:Heavy Armored Cruiser, Embark into the Iron Bottom Sound!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>Sortie Zara Due as Flagship with 5 additional ships.
+Score an A-rank victory against World 5-3 Boss.
+</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID></ID>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail></TR-Detail>
   </Quest>
 </Quests>
