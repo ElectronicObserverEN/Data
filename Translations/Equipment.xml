@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.28">
+<Equipment Version="1.3.29">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -839,6 +839,14 @@
   <Item>
 	<JP-Name>熟練聴音員+後期型艦首魚雷(6門)</JP-Name>
 	<TR-Name>Skilled Sonar Personnel+Late Model Bow Torpedo (6 tubes)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Ro.44水上戦闘機bis</JP-Name>
+	<TR-Name>Ro.44 Seaplane Fighter Bis‎</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>二式水戦改(熟練)</JP-Name>
+	<TR-Name>Type 2 Seaplane Fighter Kai (Skilled)</TR-Name>
   </Item>
   
   
