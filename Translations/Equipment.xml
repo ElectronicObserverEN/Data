@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.31">
+<Equipment Version="1.3.32">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -858,7 +858,7 @@
   </Item>
   <Item>
     <JP-Name>8cm高角砲改+増設機銃</JP-Name>
-    <TR-Name>8CM High-angle Gun Kai+Machine Gun</TR-Name>
+    <TR-Name>8cm High-angle Gun Kai+Machine Gun</TR-Name>
   </Item>
   
   
