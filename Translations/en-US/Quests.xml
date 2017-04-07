@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.53">
+<Quests Version="1.1.54">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1265,6 +1265,13 @@ score an S rank victory at the World 2-5 boss.</TR-Detail>
     <TR-Detail>Get 8 victories in exercises within the same day.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>315</ID>
+    <JP-Name>春季大演習</JP-Name>
+    <TR-Name>C12: Spring Large-scale Exercises</TR-Name>
+    <JP-Detail>春の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！</JP-Detail>
+    <TR-Detail>Get 8 victories in exercises within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>401</ID>
     <JP-Name>はじめての「遠征」！</JP-Name>
     <TR-Name>D1: First Expedition</TR-Name>
@@ -2277,6 +2284,38 @@ Score an S-rank victory against World 1-4, 2-2, and 2-3 boss.</TR-Detail>
     <JP-Detail>航空母艦、または水上機母艦を旗艦とした有力な艦隊を編成、北方AL海域、&lt;br&gt;西方海域カスガダマ沖 、中部海域MS諸島沖に展開し、各海域の敵艦隊を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie AV or carrier as flagship with 5 additional ships.
 Score an S-rank victory against World 3-5, 4-4, and 6-2 boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>851</ID>
+    <JP-Name>改装航空巡洋艦、出撃！</JP-Name>
+    <TR-Name>B95: Remodeled Aviation Cruiser, Sortie!</TR-Name>
+    <JP-Detail>改装航空巡洋艦「鈴谷改二」を旗艦とした精強な艦隊を編成、同艦隊を南方海域に展開、&lt;br&gt;南方海域前面、及びサブ島沖海域に遊弋する敵艦隊群を捕捉、これを撃破せよ！</JP-Detail>
+    <TR-Detail>Sortie Suzuya CAV as flagship with 5 additional ships.
+Score an A-rank victory against World 5-1 and 5-3 boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>852</ID>
+    <JP-Name>改装攻撃型軽空母、前線展開せよ！</JP-Name>
+    <TR-Name>Remodeled Attack Light Aircraft Carrier, Deploy to the Frontlines!</TR-Name>
+    <JP-Detail>改装航空母艦「鈴谷航改二」を旗艦とした精強な機動部隊を編成、同艦隊を中部海域に進出。&lt;br&gt;MS諸島沖、KW環礁沖海域に展開し、同海域の敵機動部隊を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Suzuya CVL Kai Ni as flagship with 5 additional ships.
+Score an S-rank victory against World 6-2 and 6-5 boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>853</ID>
+    <JP-Name>鎮守府海域警戒を厳とせよ！</JP-Name>
+    <TR-Name>Patrol the Naval Base Ocean Areas Vigilantly!</TR-Name>
+    <JP-Detail>巡洋艦クラスを旗艦に配備、2隻以上の駆逐艦を擁する警戒艦隊を編成せよ。同警戒艦隊を以て、&lt;br&gt;鎮守府海域(南西諸島/製油所地帯沿岸/南西諸島防衛線/鎮守府近海)の警戒任務にあたれ！</JP-Detail>
+    <TR-Detail>Sortie any Cruiser as flagship, 2 DD, and 3 additional ships.
+Score an S-rank victory against World 1-2, 1-3, 1-4, and 1-5 boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>854</ID>
+    <JP-Name>戦果拡張任務！「Z作戦」前段作戦</JP-Name>
+    <TR-Name>Bq2: Ranking Expansion Mission: &apos;Operation Z&apos; Frontal Operation!</TR-Name>
+    <JP-Detail>戦果拡張作戦：我が第一艦隊に精鋭艦艇を集中配備、同精鋭艦隊を以て、南西諸島の沖ノ島海域、&lt;br&gt;中部海域哨戒線、グアノ環礁沖の敵艦隊を撃破、中部北海域ピーコック島の敵戦力を破砕殲滅せよ！</JP-Detail>
+    <TR-Detail>Score an A-rank victory against World 2-4, 6-1, and 6-3 boss.
+Score an S-rank victory against World 6-4 boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.30">
+<Equipment Version="1.3.31">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -478,15 +478,15 @@
   </Item>
   <Item>
     <JP-Name>91式高射装置</JP-Name>
-    <TR-Name>Type 91 Anti-Aircraft Fire Director</TR-Name>
+    <TR-Name>Type 91 AAFD</TR-Name>
   </Item>
   <Item>
     <JP-Name>94式高射装置</JP-Name>
-    <TR-Name>Type 94 Anti-Aircraft Fire Director</TR-Name>
+    <TR-Name>Type 94 AAFD</TR-Name>
   </Item>
   <Item>
     <JP-Name>10cm連装高角砲+高射装置</JP-Name>
-    <TR-Name>10cm Twin High-angle Gun+ Anti-Aircraft Fire Director</TR-Name>
+    <TR-Name>10cm Twin High-angle Gun+AAFD</TR-Name>
   </Item>
   <Item>
     <JP-Name>SKC34 20.3cm連装砲</JP-Name>
@@ -518,7 +518,7 @@
   </Item>
   <Item>
     <JP-Name>12.7cm高角砲+高射装置</JP-Name>
-    <TR-Name>12.7cm High-angle Gun + Anti-Aircraft Fire Director</TR-Name>
+    <TR-Name>12.7cm High-angle Gun+AAFD</TR-Name>
   </Item>
   <Item>
     <JP-Name>25mm三連装機銃 集中配備</JP-Name>
@@ -534,7 +534,7 @@
   </Item>
   <Item>
     <JP-Name>OTO 152mm三連装速射砲</JP-Name>
-    <TR-Name>OTO 152mm Triple Rapid Fire Gun</TR-Name>
+    <TR-Name>OTO 152mm Triple Rapid-fire Gun</TR-Name>
   </Item>
   <Item>
     <JP-Name>90mm単装高角砲</JP-Name>
@@ -566,7 +566,7 @@
   </Item>
   <Item>
 	<JP-Name>15m二重測距儀+21号電探改二</JP-Name>
-	<TR-Name>15m Duplex Rangefinder + Type 21 Air RADAR Kai 2</TR-Name>
+	<TR-Name>15m Duplex Rangefinder+Type 21 Air RADAR Kai 2</TR-Name>
   </Item>
   <Item>
 	<JP-Name>九七式艦攻(村田隊)</JP-Name>
@@ -662,7 +662,7 @@
   </Item>
   <Item>
 	<JP-Name>大発動艇(八九式中戦車&amp;陸戦隊)</JP-Name>
-	<TR-Name>Daihatsu Landing Craft (Type 89 Medium Tank + Landing Force)</TR-Name>
+	<TR-Name>Daihatsu Landing Craft (Type 89 Medium Tank+Landing Force)</TR-Name>
   </Item>
   <Item>
 	<JP-Name>特二式内火艇</JP-Name>
@@ -722,7 +722,7 @@
   </Item>
   <Item>
 	<JP-Name>16inch三連装砲 Mk.7+GFCS</JP-Name>
-	<TR-Name>16inch Triple GunMk.7 + GFCS</TR-Name>
+	<TR-Name>16inch Triple GunMk.7+GFCS</TR-Name>
   </Item>
   <Item>
 	<JP-Name>Re.2001 OR改</JP-Name>
@@ -822,11 +822,11 @@
   </Item>
   <Item>
 	<JP-Name>潜水艦搭載電探&amp;水防式望遠鏡</JP-Name>
-	<TR-Name>Submarine Radar + Periscope</TR-Name>
+	<TR-Name>Submarine Radar+Periscope</TR-Name>
   </Item>
   <Item>
 	<JP-Name>潜水艦搭載電探&amp;逆探(E27)</JP-Name>
-	<TR-Name>Submarine Radar + E27 Radar Detector</TR-Name>
+	<TR-Name>Submarine Radar+E27 Radar Detector</TR-Name>
   </Item>
   <Item>
 	<JP-Name>彩雲(東カロリン空)</JP-Name>
@@ -855,6 +855,10 @@
   <Item>
     <JP-Name>零式艦戦63型(爆戦)</JP-Name>
     <TR-Name>Zero Fighter-bomber Model 63</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>8cm高角砲改+増設機銃</JP-Name>
+    <TR-Name>8CM High-angle Gun Kai+Machine Gun</TR-Name>
   </Item>
   
   
@@ -1100,11 +1104,11 @@
   </Item>
   <Item>
 	<JP-Name>4inch連装両用砲+CIC</JP-Name>
-	<TR-Name>4inch Dual Purpose Gun+ CIC</TR-Name>
+	<TR-Name>4inch Dual Purpose Gun+CIC</TR-Name>
   </Item>
   <Item>
 	<JP-Name>深海FCS+CIC</JP-Name>
-	<TR-Name>Abyssal FCS + CIC</TR-Name>
+	<TR-Name>Abyssal FCS+CIC</TR-Name>
   </Item>
   <Item>
 	<JP-Name>深海探照灯</JP-Name>
