@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.32">
+<Equipment Version="1.3.33">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -859,6 +859,26 @@
   <Item>
     <JP-Name>8cm高角砲改+増設機銃</JP-Name>
     <TR-Name>8cm High-angle Gun Kai+Machine Gun</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>一式戦 隼II型</JP-Name>
+    <TR-Name>Type 1 Fighter Hayabusa Model II</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>一式戦 隼III型甲</JP-Name>
+    <TR-Name>Type 1 Fighter Hayabusa Model IIIA</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>一式戦 隼III型甲(54戦隊)</JP-Name>
+    <TR-Name>Type 1 Fighter Hayabusa Model IIIA (54th Fighter Group)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>一式戦 隼II型(64戦隊)</JP-Name>
+    <TR-Name>Type 1 Fighter Hayabusa Model II (64th Fighter Group)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
   </Item>
   
   
