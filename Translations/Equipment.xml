@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.34">
+<Equipment Version="1.3.35">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -702,7 +702,7 @@
   </Item>
   <Item>
 	<JP-Name>三式戦 飛燕(飛行第244戦隊)</JP-Name>
-	<TR-Name>Type 3 Fighter Hien (244th Fighter Group)</TR-Name>
+	<TR-Name>Type 3 Fighter Hien (244th Air Combat Group)</TR-Name>
   </Item>
   <Item>
 	<JP-Name>試製61cm六連装(酸素)魚雷</JP-Name>
@@ -870,11 +870,15 @@
   </Item>
   <Item>
     <JP-Name>一式戦 隼III型甲(54戦隊)</JP-Name>
-    <TR-Name>Type 1 Fighter Hayabusa Model IIIA (54th Fighter Group)</TR-Name>
+    <TR-Name>Type 1 Fighter Hayabusa Model IIIA (54th Squadron)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>爆装一式戦 隼III型改(55戦隊)</JP-Name>
+    <TR-Name>Type 1 Fighter Hayabusa Model III Kai (55th Squadron)</TR-Name>
   </Item>
   <Item>
     <JP-Name>一式戦 隼II型(64戦隊)</JP-Name>
-    <TR-Name>Type 1 Fighter Hayabusa Model II (64th Fighter Group)</TR-Name>
+    <TR-Name>Type 1 Fighter Hayabusa Model II (64th Squadron)</TR-Name>
   </Item>
   <Item>
     <JP-Name>九五式爆雷</JP-Name>
