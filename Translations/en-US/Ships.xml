@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.4.14">
+<Ships Version="1.4.15">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -1027,6 +1027,50 @@
     <JP-Name>鈴谷航</JP-Name>
     <TR-Name>Suzuya CVL</TR-Name>
   </Ship>
+  <Ship>
+    <JP-Name>Петропавловск</JP-Name>
+    <TR-Name>Petropavlovsk</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Марат</JP-Name>
+    <TR-Name>Marat</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Гангут</JP-Name>
+    <TR-Name>Gangut</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Октябрьская революция</JP-Name>
+    <TR-Name>Oktyabrskaya Revolutsiya</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>神威</JP-Name>
+    <TR-Name>Kamoi</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>神威改母</JP-Name>
+    <TR-Name>Kamoi Kai AO</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>占守</JP-Name>
+    <TR-Name>Shimushu</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>国後</JP-Name>
+    <TR-Name>Kunashiri</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>春日丸</JP-Name>
+    <TR-Name>Kasuga Maru</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>択捉</JP-Name>
+    <TR-Name>Etorofu</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Ship>
 
   <!-- Abyssal Ships !-->
 
@@ -1286,6 +1330,18 @@
 	<JP-Name>深海双子棲姫</JP-Name>
 	<TR-Name>Abyssal Twin Princesses</TR-Name>
   </Ship>
+  <Ship>
+	<JP-Name>護衛棲姫</JP-Name>
+	<TR-Name>Escort Princess</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>北端上陸姫</JP-Name>
+	<TR-Name>Northern Landing Princess</TR-Name>
+  </Ship>
+  <Ship>
+	<JP-Name>北方水姫</JP-Name>
+	<TR-Name>Northern Water Princess</TR-Name>
+  </Ship>
   <Ship mode="suffix">
 	<JP-Name>改</JP-Name>
     <TR-Name> Kai</TR-Name>
@@ -1305,6 +1361,10 @@
   <Ship mode="suffix">
 	<JP-Name> tre</JP-Name>
     <TR-Name> Tre</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
+	<JP-Name> два</JP-Name>
+    <TR-Name> Dva</TR-Name>
   </Ship>
   <Ship mode="suffix">
 	<JP-Name>二</JP-Name>
