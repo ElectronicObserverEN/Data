@@ -1,4 +1,3 @@
-﻿2017/04/24 01:00:00
-2.6.0.1
-* Preliminary image export function
-* Fixed several bugs
+﻿2017/05/07 23:00:00
+2.6.2
+* Enhance image export function
