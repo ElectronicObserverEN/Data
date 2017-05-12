@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.35">
+<Equipment Version="1.3.36">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -1216,15 +1216,19 @@
   </Item>
   <Item>
 	<JP-Name>深海攻撃哨戒鷹</JP-Name>
-	<TR-Name>Abyssal Attack Patrol Falcon</TR-Name>
+	<TR-Name>Abyssal Patrolling Attack Hawk</TR-Name>
   </Item>
   <Item>
 	<JP-Name>深海攻撃哨戒鷹改</JP-Name>
-	<TR-Name>Abyssal Attack Patrol Falcon Kai</TR-Name>
+	<TR-Name>Abyssal Patrolling Attack Hawk Kai</TR-Name>
   </Item>
   <Item>
 	<JP-Name>深海30.5cm三連装砲</JP-Name>
 	<TR-Name>Abyssal 30.5cm Triple Gun</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海12inch三連装砲</JP-Name>
+	<TR-Name>Abyssal 12inch Triple Gun</TR-Name>
   </Item>
   <Item>
 	<JP-Name></JP-Name>
