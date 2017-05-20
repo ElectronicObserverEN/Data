@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.55">
+<Quests Version="1.1.56">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2296,7 +2296,7 @@ Score an A-rank victory against World 5-1 and 5-3 boss.</TR-Detail>
   <Quest>
     <ID>852</ID>
     <JP-Name>改装攻撃型軽空母、前線展開せよ！</JP-Name>
-    <TR-Name>Remodeled Attack Light Aircraft Carrier, Deploy to the Frontlines!</TR-Name>
+    <TR-Name>B96: Remodeled Attack Light Aircraft Carrier, Deploy to the Frontlines!</TR-Name>
     <JP-Detail>改装航空母艦「鈴谷航改二」を旗艦とした精強な機動部隊を編成、同艦隊を中部海域に進出。&lt;br&gt;MS諸島沖、KW環礁沖海域に展開し、同海域の敵機動部隊を捕捉、これを撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie Suzuya CVL Kai Ni as flagship with 5 additional ships.
 Score an S-rank victory against World 6-2 and 6-5 boss.</TR-Detail>
@@ -2304,9 +2304,9 @@ Score an S-rank victory against World 6-2 and 6-5 boss.</TR-Detail>
   <Quest>
     <ID>853</ID>
     <JP-Name>鎮守府海域警戒を厳とせよ！</JP-Name>
-    <TR-Name>Patrol the Naval Base Ocean Areas Vigilantly!</TR-Name>
+    <TR-Name>B97: Patrol the Naval Base Ocean Areas Vigilantly!</TR-Name>
     <JP-Detail>巡洋艦クラスを旗艦に配備、2隻以上の駆逐艦を擁する警戒艦隊を編成せよ。同警戒艦隊を以て、&lt;br&gt;鎮守府海域(南西諸島/製油所地帯沿岸/南西諸島防衛線/鎮守府近海)の警戒任務にあたれ！</JP-Detail>
-    <TR-Detail>Sortie any Cruiser as flagship, 2 DD, and 3 additional ships.
+    <TR-Detail>Sortie any Cruiser as flagship and at least 2 DD. You may add up to 3 additional ships.
 Score an S-rank victory against World 1-2, 1-3, 1-4, and 1-5 boss.</TR-Detail>
   </Quest>
   <Quest>
