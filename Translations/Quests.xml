@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.56">
+<Quests Version="1.1.57">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -532,6 +532,13 @@
     <JP-Detail>「鬼怒改二」を旗艦として、「北上改二」「大井改二」「球磨改」及び&lt;br&gt;「青葉改」「浦波改」「敷波改」から5隻、計6隻の精鋭「第十六戦隊」を再編成せよ！</JP-Detail>
     <TR-Detail>Have Kinu Kai2 as flagship and 5 of the following: Kitakami Kai2, Ooi Kai2,
 Kuma Kai, Aoba Kai, Uranami Kai, or Shikinami Kai in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>180</ID>
+    <JP-Name>新編「第一戦隊」を編成せよ！</JP-Name>
+    <TR-Name>A75: Organize the New First Squadron!</TR-Name>
+    <JP-Detail>編成任務：第一艦隊に新改装された長門型戦艦一番艦「長門改二」及び同二番艦「陸奥改」からなる&lt;br&gt;新編第一戦隊を配備せよ！</JP-Detail>
+    <TR-Detail>Have Nagato Kai Ni as flagship and Mutsu Kai in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>201</ID>
@@ -1426,6 +1433,13 @@ score an S rank victory at the World 2-5 boss.</TR-Detail>
     <TR-Detail>Have 5000 steel and 1500 bauxite while completing Expedition 30 and 31 again.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>424</ID>
+    <JP-Name>輸送船団護衛を強化せよ！</JP-Name>
+    <TR-Name>D22: Reinforce the Transport Escort!</TR-Name>
+    <JP-Detail>遠征任務：「海上護衛任務」を反復実施し、輸送船団の護衛に務めよ！</JP-Detail>
+    <TR-Detail>Complete Expedition 5 four times.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>501</ID>
     <JP-Name>はじめての「補給」！</JP-Name>
     <TR-Name>E1: First Supply</TR-Name>
@@ -2316,6 +2330,22 @@ Score an S-rank victory against World 1-2, 1-3, 1-4, and 1-5 boss.</TR-Detail>
     <JP-Detail>戦果拡張作戦：我が第一艦隊に精鋭艦艇を集中配備、同精鋭艦隊を以て、南西諸島の沖ノ島海域、&lt;br&gt;中部海域哨戒線、グアノ環礁沖の敵艦隊を撃破、中部北海域ピーコック島の敵戦力を破砕殲滅せよ！</JP-Detail>
     <TR-Detail>Score an A-rank victory against World 2-4, 6-1, and 6-3 boss.
 Score an S-rank victory against World 6-4 boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>855</ID>
+    <JP-Name>海上護衛体制の強化に努めよ！</JP-Name>
+    <TR-Name>B98: Focus the Strengthening of the Maritime Escort!</TR-Name>
+    <JP-Detail>海上護衛作戦：駆逐艦または海防艦3隻以上を含む護衛艦隊を編成し、鎮守府海域の製油所地帯沿岸、&lt;br&gt;南西諸島防衛線、鎮守府近海、鎮守府近海航路にそれぞれ展開、各海域における作戦を成功させよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with 3 DD or Coastal Defence Ships. Score an S-rank victory against World 1-3, 1-4, and 1-5 boss.
+And then, sortie to World 1-6 and clear. </TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>856</ID>
+    <JP-Name>新編「第一戦隊」、抜錨せよ！</JP-Name>
+    <TR-Name>B99: Sortie the New First Squadron!</TR-Name>
+    <JP-Detail>新編「第一戦隊」出撃任務：戦艦「長門改二」を旗艦、二番艦に「陸奥改」を配備した第一艦隊で出撃！&lt;br&gt;カレー洋リランカ島沖、サーモン海域北方に展開し、同海域の敵艦隊主力を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Nagato Kai Ni as flagship, Mutsu Kai, and 4 additional ships.
+Score an S-rank victory against World 4-5 and 5-5 boss. </TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
