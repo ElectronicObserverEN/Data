@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.58">
+<Quests Version="1.1.59">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2314,7 +2314,7 @@ Score a B-rank victory against World 6-1 Boss.</TR-Detail>
     <ID>848</ID>
     <JP-Name>重装甲巡洋艦、鉄底海峡に突入せよ！</JP-Name>
     <TR-Name>B92:Heavy Armored Cruiser, Embark into the Iron Bottom Sound!</TR-Name>
-    <JP-Detail>改装航空母艦「鈴谷航改二」を旗艦とした精強な機動部隊を編成、同艦隊を中部海域に進出。&lt;br&gt;MS諸島沖、KW環礁沖海域に展開し、同海域の敵機動部隊を捕捉、これを撃滅せよ！</JP-Detail>
+    <JP-Detail>第一艦隊旗艦に「Zara due」を配備、同艦隊で南方サブ島沖海域へ突入！同方面の敵艦隊群を突破し、鉄底海峡に展開する敵戦力を撃破せよ！</JP-Detail>
     <TR-Detail>Sortie Zara Due as Flagship with 5 additional ships.
 Score an A-rank victory against World 5-3 Boss.</TR-Detail>
   </Quest>
