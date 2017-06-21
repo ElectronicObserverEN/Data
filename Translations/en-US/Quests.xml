@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.59">
+<Quests Version="1.1.60">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2393,7 +2393,7 @@ Score an S-rank victory against World 4-5 and 5-5 boss. </TR-Detail>
     <ID>858</ID>
     <JP-Name>新編「第七戦隊」、出撃せよ！</JP-Name>
     <TR-Name>B101: New Seventh Squadron, Sortie!</TR-Name>
-    <JP-Detail>出撃任務：軽巡1隻以上、駆逐艦または海防艦2隻以上、さらに航空巡洋艦または軽空母で増強した&lt;br&gt;第一護衛艦隊を第一艦隊に編成、南西諸島海域の各海域に展開、敵艦隊を撃破、各作戦を成功させよ！</JP-Detail>
+    <JP-Detail>出撃任務：新編「第七戦隊」を出撃！　カレー洋リランカ島沖「深海東洋艦隊漸減作戦」、&lt;br&gt;MS諸島沖「MS諸島防衛戦」において、敵艦隊主力を捕捉、これを撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with Kumano Kai Ni/CVL as flagship, Suzuya Kai Ni/CVL as second ship, Mogami Kai, Mikuma Kai, up to 2 additional ships and obtain an S-rank victory at world 4-5 and 6-2 boss node.</TR-Detail>
   </Quest>
   <Quest>
