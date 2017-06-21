@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.4.16">
+<Ships Version="1.4.17">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -1052,10 +1052,6 @@
     <TR-Name>Kamoi</TR-Name>
   </Ship>
   <Ship>
-    <JP-Name>神威改母</JP-Name>
-    <TR-Name>Kamoi Kai AO</TR-Name>
-  </Ship>
-  <Ship>
     <JP-Name>占守</JP-Name>
     <TR-Name>Shimushu</TR-Name>
   </Ship>
@@ -1349,6 +1345,10 @@
   <Ship mode="suffix">
 	<JP-Name>改</JP-Name>
     <TR-Name> Kai</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
+	<JP-Name>改母</JP-Name>
+    <TR-Name> Kai Bo</TR-Name>
   </Ship>
   <Ship mode="suffix">
 	<JP-Name> zwei</JP-Name>
