@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ShipTypes Version="1.1.22">
+<ShipTypes Version="1.1.23">
   <Type>
     <ID>1</ID>
     <JP-Name>海防艦</JP-Name>
-    <TR-Name>PF</TR-Name>
+    <TR-Name>DE</TR-Name>
   </Type>
   <Type>
     <ID>2</ID>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionManifest>
-	<Equipment version="1.3.36" />
+	<Equipment version="1.3.37" />
 	<EquipmentTypes version="1.3.81" />
 	<Expeditions version="1.3.1" />
 	<Operations version="1.3.11" />
-	<Quests version="1.1.57" />
-	<Ships version="1.4.15" />
-	<ShipTypes version="1.1.22" />
+	<Quests version="1.1.58" />
+	<Ships version="1.4.16" />
+	<ShipTypes version="1.1.23" />
 </VersionManifest>

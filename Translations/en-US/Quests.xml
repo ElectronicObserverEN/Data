@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.57">
+<Quests Version="1.1.58">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -539,6 +539,13 @@ Kuma Kai, Aoba Kai, Uranami Kai, or Shikinami Kai in your fleet.</TR-Detail>
     <TR-Name>A75: Organize the New First Squadron!</TR-Name>
     <JP-Detail>編成任務：第一艦隊に新改装された長門型戦艦一番艦「長門改二」及び同二番艦「陸奥改」からなる&lt;br&gt;新編第一戦隊を配備せよ！</JP-Detail>
     <TR-Detail>Have Nagato Kai Ni as flagship and Mutsu Kai in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>181</ID>
+    <JP-Name>新編「第七戦隊」を編成せよ！</JP-Name>
+    <TR-Name>A76: Organize the new Seventh Squadron!</TR-Name>
+    <JP-Detail>編成任務：第一艦隊旗艦に新改装された改鈴谷型「熊野改二」、同二番艦に「鈴谷改二」、&lt;br&gt;僚艦に「最上改」「三隈改」を配した新編第七戦隊を配備せよ！</JP-Detail>
+    <TR-Detail>Have Kumano Kai Ni as flagship, Suzuya Kai Ni as second ship, Mogami Kai and Mikuma Kai in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>201</ID>
@@ -1440,6 +1447,13 @@ score an S rank victory at the World 2-5 boss.</TR-Detail>
     <TR-Detail>Complete Expedition 5 four times.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>425</ID>
+    <JP-Name>海上護衛総隊、遠征開始！</JP-Name>
+    <TR-Name>D23: Maritime Escort Squadron, Expedition Start!</TR-Name>
+    <JP-Detail>遠征任務：遠征任務「対潜警戒任務」「海上護衛任務」「タンカー護衛任務」を実施、&lt;br&gt;軽巡、駆逐艦、海防艦などから編成された護衛艦隊で各遠征を成功させよ！</JP-Detail>
+    <TR-Detail>Complete expedition 4, 5 and 9.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>501</ID>
     <JP-Name>はじめての「補給」！</JP-Name>
     <TR-Name>E1: First Supply</TR-Name>
@@ -1867,7 +1881,7 @@ Unlock the equipment. And then, scrap one Type 0 Reconnaissance Seaplane.</TR-De
     <ID>656</ID>
     <JP-Name>六三一空「晴嵐」隊の編成</JP-Name>
     <TR-Name>F49: Organize the Seiran 631 Air Group</TR-Name>
-    <JP-Detail>秘書艦に「伊401」または「伊14」または「伊13」を配備。「試製晴嵐」を一番スロットに搭載。「瑞雲(六三一空)」を二番スロットに搭載。「晴嵐(六三一空)」を新編せよ！ ※任務達成後瑞雲は消滅します。</JP-Detail>
+    <JP-Detail>秘書艦に「伊401」または「伊14」または「伊13」を配備。「晴嵐」を一番スロットに搭載。「瑞雲(六三一空)」を二番スロットに搭載。「晴嵐(六三一空)」を新編せよ！　※任務達成後瑞雲は消滅します。</JP-Detail>
     <TR-Detail>Equip Prototype Seiran in first slot and Zuiun (631 Air Group) in second slot on either I-401, I-13 or I-14 as secretary.
 Unlock the equipment.</TR-Detail>
   </Quest>
@@ -1883,7 +1897,7 @@ Unlock the equipment. And then, scrap two 14cm Single Gun.</TR-Detail>
     <ID>658</ID>
     <JP-Name>潜水艦武装の強化</JP-Name>
     <TR-Name>F50: Enhance Submarine Armaments</TR-Name>
-    <JP-Detail>「61cm三連装魚雷」を4つ廃棄、開発資材x120と「61cm四連装(酸素)魚雷」「九三式水中聴音機」各三つを準備せよ！　※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。</JP-Detail>
+    <JP-Detail>「61cm三連装魚雷」を四つ廃棄、開発資材x120と「61cm四連装(酸素)魚雷」「九三式水中聴音機」各三つを準備せよ！　※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。</JP-Detail>
     <TR-Detail>Have three 61cm Quadruple (Oxygen) Torpedo, three Type 93 Passive Sonar, and 120 development materials in your inventory.
 Unlock the equipment. And then, scrap four 61cm Triple Torpedo.</TR-Detail>
   </Quest>
@@ -1902,6 +1916,27 @@ Unlock the equipment. And then, scrap two Zero Fighter Model 21 and two Zuiun.</
     <JP-Detail>精鋭飛行隊の増勢：練度max及び改修maxの「二式水戦改」を一番スロットに搭載した秘書艦で、&lt;br&gt;「零式艦戦21型」x2「瑞雲」x2を廃棄！　※新飛行隊を編成する「熟練搭乗員」が必要です。</JP-Detail>
     <TR-Detail>Equip Type 2 Seaplane Fighter Kai (rank 7 and ★max) on a secretary and have Skilled Pilot in your inventory.
 Unlock the equipment. And then, scrap two Zero Fighter Model 21 and two Zuiun.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID></ID>
+    <JP-Name>新型砲熕兵装、戦力化開始！</JP-Name>
+    <TR-Name>F53: Reinforcement of New Model Cannon Improvement, Start!</TR-Name>
+    <JP-Detail>工廠任務：新型砲熕兵装の開発及び同戦力化を開始する。「副砲」系装備x10を廃棄、&lt;br&gt;鉄鋼6,000を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>Prepare 6000 steel and scrap 10 secondary guns.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>662</ID>
+    <JP-Name>新型艤装の開発研究</JP-Name>
+    <TR-Name>F54: Development of New Type Equipment Fitting Research</TR-Name>
+    <JP-Detail>工廠任務：新型艤装の開発研究を実施する。「中口径主砲」系装備x10を廃棄、鉄鋼12,000を準備せよ！&lt;br&gt;※任務達成後、準備した資源は消費します。「勲章」と「新型砲熕兵装資材」の獲得選択が可能です。</JP-Detail>
+    <TR-Detail>Prepare 12000 steel and scrap 10 medium guns.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>663</ID>
+    <JP-Name>新型艤装の継続研究</JP-Name>
+    <TR-Name>F55: Development of New Type Equipment Fitting Research (Cont.)</TR-Name>
+    <JP-Detail>工廠任務：新型艤装の開発を継続実施する。「大口径主砲」系装備x10を廃棄、鉄鋼18,000を準備せよ！&lt;br&gt;※任務達成後、準備した資源は消費します。「勲章」と「新型砲熕兵装資材」の獲得選択が可能です。</JP-Detail>
+    <TR-Detail>Prepare 18000 steel and scrap 10 heavy guns.</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
@@ -2279,7 +2314,7 @@ Score a B-rank victory against World 6-1 Boss.</TR-Detail>
     <ID>848</ID>
     <JP-Name>重装甲巡洋艦、鉄底海峡に突入せよ！</JP-Name>
     <TR-Name>B92:Heavy Armored Cruiser, Embark into the Iron Bottom Sound!</TR-Name>
-    <JP-Detail></JP-Detail>
+    <JP-Detail>改装航空母艦「鈴谷航改二」を旗艦とした精強な機動部隊を編成、同艦隊を中部海域に進出。&lt;br&gt;MS諸島沖、KW環礁沖海域に展開し、同海域の敵機動部隊を捕捉、これを撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie Zara Due as Flagship with 5 additional ships.
 Score an A-rank victory against World 5-3 Boss.</TR-Detail>
   </Quest>
@@ -2346,6 +2381,20 @@ And then, sortie to World 1-6 and clear. </TR-Detail>
     <JP-Detail>新編「第一戦隊」出撃任務：戦艦「長門改二」を旗艦、二番艦に「陸奥改」を配備した第一艦隊で出撃！&lt;br&gt;カレー洋リランカ島沖、サーモン海域北方に展開し、同海域の敵艦隊主力を捕捉、これを撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie Nagato Kai Ni as flagship, Mutsu Kai, and 4 additional ships.
 Score an S-rank victory against World 4-5 and 5-5 boss. </TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>857</ID>
+    <JP-Name>増強海上護衛総隊、抜錨せよ！</JP-Name>
+    <TR-Name>B100: Enhanced Maritime Escort Fleet, Sortie!</TR-Name>
+    <JP-Detail>出撃任務：軽巡1隻以上、駆逐艦または海防艦2隻以上、さらに航空巡洋艦または軽空母で増強した&lt;br&gt;第一護衛艦隊を第一艦隊に編成、南西諸島海域の各海域に展開、敵艦隊を撃破、各作戦を成功させよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with 1 CL, 2 DD/DE, 1 CAV/CVL, up to 2 additional ships and obtain an A-rank victory at world 2-2, 2-3, 2-4, and 2-5 boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>858</ID>
+    <JP-Name>新編「第七戦隊」、出撃せよ！</JP-Name>
+    <TR-Name>B101: New Seventh Squadron, Sortie!</TR-Name>
+    <JP-Detail>出撃任務：軽巡1隻以上、駆逐艦または海防艦2隻以上、さらに航空巡洋艦または軽空母で増強した&lt;br&gt;第一護衛艦隊を第一艦隊に編成、南西諸島海域の各海域に展開、敵艦隊を撃破、各作戦を成功させよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Kumano Kai Ni/CVL as flagship, Suzuya Kai Ni/CVL as second ship, Mogami Kai, Mikuma Kai, up to 2 additional ships and obtain an S-rank victory at world 4-5 and 6-2 boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>

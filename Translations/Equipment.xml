@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.36">
+<Equipment Version="1.3.37">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -250,7 +250,7 @@
   </Item>
   <Item>
     <JP-Name>12.7cm連装砲B型改二</JP-Name>
-    <TR-Name>12.7cm Twin GunModel B Kai 2</TR-Name>
+    <TR-Name>12.7cm Twin Gun Model B Kai 2</TR-Name>
   </Item>
   <Item>
     <JP-Name>Ju87C改</JP-Name>
@@ -270,7 +270,7 @@
   </Item>
   <Item>
     <JP-Name>大発動艇</JP-Name>
-    <TR-Name>Daihatsu Landing Craft</TR-Name>
+    <TR-Name>Daihatsu LC</TR-Name>
   </Item>
   <Item>
     <JP-Name>カ号観測機</JP-Name>
@@ -282,7 +282,7 @@
   </Item>
   <Item>
     <JP-Name>10cm連装高角砲(砲架)</JP-Name>
-    <TR-Name>10cm Twin High-angle Gun(Carriage)</TR-Name>
+    <TR-Name>10cm Twin High-angle Gun (Carriage)</TR-Name>
   </Item>
   <Item>
     <JP-Name>増設バルジ(中型艦)</JP-Name>
@@ -414,7 +414,7 @@
   </Item>
   <Item>
     <JP-Name>35.6cm連装砲(ダズル迷彩)</JP-Name>
-    <TR-Name>35.6cm Twin Gun(Dazzle Camouflage)</TR-Name>
+    <TR-Name>35.6cm Twin Gun (Dazzle Camouflage)</TR-Name>
   </Item>
   <Item>
     <JP-Name>試製41cm三連装砲</JP-Name>
@@ -454,7 +454,7 @@
   </Item>
   <Item>
     <JP-Name>38cm連装砲改</JP-Name>
-    <TR-Name>38cm Twin GunKai</TR-Name>
+    <TR-Name>38cm Twin Gun Kai</TR-Name>
   </Item>
   <Item>
     <JP-Name>Ar196改</JP-Name>
@@ -522,7 +522,7 @@
   </Item>
   <Item>
     <JP-Name>25mm三連装機銃 集中配備</JP-Name>
-    <TR-Name>25mm Triple Autocannon(Concentrated Deployment)</TR-Name>
+    <TR-Name>25mm Triple Autocannon (Concentrated Deployment)</TR-Name>
   </Item>
   <Item>
     <JP-Name>零式水中聴音機</JP-Name>
@@ -546,7 +546,7 @@
   </Item>
   <Item>
     <JP-Name>381mm/50 三連装砲改</JP-Name>
-    <TR-Name>381mm/50 Triple GunKai</TR-Name>
+    <TR-Name>381mm/50 Triple Gun Kai</TR-Name>
   </Item>
   <Item>
     <JP-Name>二式大艇</JP-Name>
@@ -554,7 +554,7 @@
   </Item>
   <Item>
     <JP-Name>15.2cm連装砲改</JP-Name>
-    <TR-Name>15.2cm Twin GunKai</TR-Name>
+    <TR-Name>15.2cm Twin Gun Kai</TR-Name>
   </Item>
   <Item>
     <JP-Name>96式150cm探照灯</JP-Name>
@@ -642,7 +642,7 @@
   </Item>
   <Item>
 	<JP-Name>16inch三連装砲 Mk.7</JP-Name>
-	<TR-Name>16inch Triple GunMk.7</TR-Name>
+	<TR-Name>16inch Triple Gun Mk.7</TR-Name>
   </Item>
   <Item>
 	<JP-Name>203mm/53 連装砲</JP-Name>
@@ -662,11 +662,11 @@
   </Item>
   <Item>
 	<JP-Name>大発動艇(八九式中戦車&amp;陸戦隊)</JP-Name>
-	<TR-Name>Daihatsu Landing Craft (Type 89 Medium Tank+Landing Force)</TR-Name>
+	<TR-Name>Daihatsu LC (Type 89 Tank+Landing Force)</TR-Name>
   </Item>
   <Item>
 	<JP-Name>特二式内火艇</JP-Name>
-	<TR-Name>Special Type 2 Amphibious Landing Craft</TR-Name>
+	<TR-Name>Special Type 2 Amphibious Tank</TR-Name>
   </Item>
   <Item>
 	<JP-Name>九六式陸攻</JP-Name>
@@ -682,7 +682,7 @@
   </Item>
   <Item>
 	<JP-Name>5inch連装砲 Mk.28 mod.2</JP-Name>
-	<TR-Name>5inch Twin GunMk.28 mod.2</TR-Name>
+	<TR-Name>5inch Twin Gun Mk.28 mod.2</TR-Name>
   </Item>
   <Item>
 	<JP-Name>Bofors 40mm四連装機関砲</JP-Name>
@@ -722,7 +722,7 @@
   </Item>
   <Item>
 	<JP-Name>16inch三連装砲 Mk.7+GFCS</JP-Name>
-	<TR-Name>16inch Triple GunMk.7+GFCS</TR-Name>
+	<TR-Name>16inch Triple Gun Mk.7+GFCS</TR-Name>
   </Item>
   <Item>
 	<JP-Name>Re.2001 OR改</JP-Name>
@@ -758,11 +758,11 @@
   </Item>
   <Item>
 	<JP-Name>38.1cm Mk.I/N連装砲改</JP-Name>
-	<TR-Name>38.1cm Mk.I/N Twin GunKai</TR-Name>
+	<TR-Name>38.1cm Mk.I/N Twin Gun Kai</TR-Name>
   </Item>
   <Item>
 	<JP-Name>特大発動艇</JP-Name>
-	<TR-Name>Special Daihatsu Landing Craft</TR-Name>
+	<TR-Name>Toku Daihatsu LC</TR-Name>
   </Item>
   <Item>
 	<JP-Name>TBD</JP-Name>
@@ -894,11 +894,11 @@
   </Item>
   <Item>
     <JP-Name>12.7cm単装高角砲(後期型)</JP-Name>
-    <TR-Name>12.7 cm Single High-angle Gun(Late Model)</TR-Name>
+    <TR-Name>12.7 cm Single High-angle Gun (Late Model)</TR-Name>
   </Item>
   <Item>
     <JP-Name>特大発動艇+戦車第11連隊</JP-Name>
-    <TR-Name>Special Daihatsu LC+11th Tank Regiment</TR-Name>
+    <TR-Name>Toku Daihatsu LC+11th Tank Regiment</TR-Name>
   </Item>
   <Item>
     <JP-Name>30.5cm三連装砲</JP-Name>
@@ -907,6 +907,10 @@
   <Item>
     <JP-Name>30.5cm三連装砲改</JP-Name>
     <TR-Name>30.5cm Triple Gun Kai</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>41cm三連装砲改</JP-Name>
+    <TR-Name>41cm Triple Gun Kai</TR-Name>
   </Item>
   <Item>
     <JP-Name></JP-Name>

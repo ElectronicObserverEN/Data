@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.4.15">
+<Ships Version="1.4.16">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -1026,6 +1026,10 @@
   <Ship>
     <JP-Name>鈴谷航</JP-Name>
     <TR-Name>Suzuya CVL</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>熊野航</JP-Name>
+    <TR-Name>Kumano CVL</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Петропавловск</JP-Name>
