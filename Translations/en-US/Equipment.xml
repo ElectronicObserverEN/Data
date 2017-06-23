@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.38">
+<Equipment Version="1.3.39">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -907,6 +907,14 @@
   <Item>
     <JP-Name>30.5cm三連装砲改</JP-Name>
     <TR-Name>30.5cm Triple Gun Kai</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>15.5cm三連装副砲改</JP-Name>
+    <TR-Name>15.5cm Triple Secondary Gun Kai</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>15.5cm三連装砲改</JP-Name>
+    <TR-Name>15.5cm Triple Gun Kai</TR-Name>
   </Item>
   <Item>
     <JP-Name>41cm三連装砲改</JP-Name>
