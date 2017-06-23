@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.37">
+<Equipment Version="1.3.38">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -98,7 +98,7 @@
   </Item>
   <Item>
     <JP-Name>零式水上偵察機</JP-Name>
-    <TR-Name>Type 0 Reconnaissance Seaplane</TR-Name>
+    <TR-Name>Type 0 Recon Seaplane</TR-Name>
   </Item>
   <Item>
     <JP-Name>瑞雲</JP-Name>
@@ -242,7 +242,7 @@
   </Item>
   <Item>
     <JP-Name>二式艦上偵察機</JP-Name>
-    <TR-Name>Type 2 Reconnaissance Aircraft</TR-Name>
+    <TR-Name>Type 2 Recon Aircraft</TR-Name>
   </Item>
   <Item>
     <JP-Name>試製晴嵐</JP-Name>
@@ -406,7 +406,7 @@
   </Item>
   <Item>
     <JP-Name>九八式水上偵察機(夜偵)</JP-Name>
-    <TR-Name>Type 98 Reconnaissance Seaplane (Night Recon)</TR-Name>
+    <TR-Name>Type 98 Recon Seaplane (Night Recon)</TR-Name>
   </Item>
   <Item>
     <JP-Name>試製35.6cm三連装砲</JP-Name>
@@ -650,7 +650,7 @@
   </Item>
   <Item>
 	<JP-Name>Ro.43水偵</JP-Name>
-	<TR-Name>Ro.43 Reconnaissance Seaplane</TR-Name>
+	<TR-Name>Ro.43 Recon Seaplane</TR-Name>
   </Item>
   <Item>
 	<JP-Name>Ro.44水上戦闘機</JP-Name>
@@ -911,6 +911,14 @@
   <Item>
     <JP-Name>41cm三連装砲改</JP-Name>
     <TR-Name>41cm Triple Gun Kai</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>瑞雲(六三四空/熟練)</JP-Name>
+    <TR-Name>Zuiun (634 Air Group/Skilled)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>零式水上偵察機11型乙</JP-Name>
+    <TR-Name>Type 0 Recon Seaplane Model 11B</TR-Name>
   </Item>
   <Item>
     <JP-Name></JP-Name>
@@ -1184,7 +1192,7 @@
   </Item>
   <Item>
 	<JP-Name>深海水上偵察観測機</JP-Name>
-	<TR-Name>Abyssal Reconnaissance Observation Seaplane</TR-Name>
+	<TR-Name>Abyssal Recon Observation Seaplane</TR-Name>
   </Item>
   <Item>
 	<JP-Name>5inch沿岸設置砲</JP-Name>
@@ -1200,7 +1208,7 @@
   </Item>
   <Item>
 	<JP-Name>深海偵察飛行艇</JP-Name>
-	<TR-Name>Abyssal Reconnaissance Flying Boat</TR-Name>
+	<TR-Name>Abyssal Recon Flying Boat</TR-Name>
   </Item>
   <Item>
 	<JP-Name>高速深海魚雷 mod.2</JP-Name>
