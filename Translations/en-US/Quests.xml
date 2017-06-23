@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.61">
+<Quests Version="1.1.62">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -262,7 +262,7 @@
   <Quest>
     <ID>138</ID>
     <JP-Name>新編「第二航空戦隊」を編成せよ！</JP-Name>
-    <TR-Name>A36: Form the new 2nd Carrier Division</TR-Name>
+    <TR-Name>A36: Form the New 2nd Carrier Division!</TR-Name>
     <JP-Detail>「飛龍改二」(※旗艦)及び「蒼龍」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！</JP-Detail>
     <TR-Detail>Have Hiryuu Kai2 (飛龍改二) as the flagship, Souryuu (蒼龍) and 2 DD in your main fleet.</TR-Detail>
   </Quest>
@@ -550,16 +550,18 @@ Kuma Kai, Aoba Kai, Uranami Kai, or Shikinami Kai in your fleet.</TR-Detail>
   <Quest>
     <ID>182</ID>
     <JP-Name>精鋭「第四航空戦隊」を再編成せよ！</JP-Name>
-    <TR-Name>A77: Reorganize the 4th Carrier Division!</TR-Name>
+    <TR-Name>A77: Reorganize the Elite 4th Carrier Division!</TR-Name>
     <JP-Detail>編成任務：第一艦隊旗艦及び同二番艦に練度50以上の航空戦艦「伊勢」「日向」を配備、&lt;br&gt;随伴艦に軽巡洋艦1隻、駆逐艦2隻他を伴う精鋭「第四航空戦隊」を再編成せよ！</JP-Detail>
-    <TR-Detail>Have Ise and Hyuuga as flagship and second ship (both lv50+), 1CL, 2DD, and 1 additional ship in your main fleet.</TR-Detail>
+    <TR-Detail>Have Ise and Hyuuga as flagship and second ship (both lv50+), 
+1CL, 2DD, and 1 additional ship in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>183</ID>
     <JP-Name>新編「第四水雷戦隊」を編成せよ！</JP-Name>
     <TR-Name>A78: Organize the new 4th Torpedo Squadron!</TR-Name>
     <JP-Detail>編成任務：第一艦隊旗艦に「由良改二」を配備、随伴艦に二駆「村雨」「夕立」「春雨」「五月雨」&lt;br&gt;他1隻の駆逐艦を配備、新編「第四水雷戦隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Have Yura Kai Ni as flagship, Murasame, Yuudachi, Harusame, Samidare, and 1 additional DD in your main fleet.</TR-Detail>
+    <TR-Detail>Have Yura Kai Ni as flagship, Murasame, Yuudachi, Harusame, 
+Samidare, and 1 additional DD in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>201</ID>
@@ -844,21 +846,21 @@ Kuma Kai, Aoba Kai, Uranami Kai, or Shikinami Kai in your fleet.</TR-Detail>
   <Quest>
     <ID>245</ID>
     <JP-Name>式の準備！(最終)</JP-Name>
-    <TR-Name>WB01: In Preparation of Love (Final)</TR-Name>
+    <TR-Name>WB01: In Preparation of Love! (Final)</TR-Name>
     <JP-Detail>練度の高い(Lv.90～99)第一艦隊旗艦で出撃し、オリョール海の暁に勝利を刻め！</JP-Detail>
     <TR-Detail>Sortie a fleet with a high level (Lv.90~99) flagship to 2-3 obtain an S rank victory against the boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>246</ID>
     <JP-Name>二人でする初めての任務！</JP-Name>
-    <TR-Name>WB02: Your First Mission Together</TR-Name>
+    <TR-Name>WB02: Your First Mission Together!</TR-Name>
     <JP-Detail>強い絆を結んだ艦娘を旗艦とした第一艦隊でリランカ島へ出撃、敵中枢を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet to 4-3 with a bonded ship of Lv.100 or more as flagship and score an S rank victory against the boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>247</ID>
     <JP-Name>「航空戦艦」抜錨せよ！</JP-Name>
-    <TR-Name>B23: Sortie an Aviation Battleship Fleet</TR-Name>
+    <TR-Name>B23: Aviation Battleship, Set Sail!</TR-Name>
     <JP-Detail>航空戦艦2隻を基幹とする艦隊で、西方海域カスガダマ島の敵勢力を撃破せよ！</JP-Detail>
     <TR-Detail>Have 2 BBV ships in your main fleet and score a victory against World 4-4 Boss.</TR-Detail>
   </Quest>
@@ -886,7 +888,7 @@ Kuma Kai, Aoba Kai, Uranami Kai, or Shikinami Kai in your fleet.</TR-Detail>
   <Quest>
     <ID>251</ID>
     <JP-Name>精鋭「第二航空戦隊」抜錨せよ！</JP-Name>
-    <TR-Name>B26: Sortie the Elite 2nd Carrier Division</TR-Name>
+    <TR-Name>B26: Elite 2nd Carrier Division, Set Sail!</TR-Name>
     <JP-Detail>錬成を終え再編成「二航戦」を基幹とした艦隊で、敵リランカ島を空襲、破砕せよ！</JP-Detail>
     <TR-Detail>Sortie Souryuu Kai2 (蒼龍改二) as the flagship, Hiryuu Kai2 (飛龍改二) and 2 DD to World 4-3. You may add 2 other ships. Score an S rank victory against the boss.</TR-Detail>
   </Quest>
@@ -900,7 +902,7 @@ Kuma Kai, Aoba Kai, Uranami Kai, or Shikinami Kai in your fleet.</TR-Detail>
   <Quest>
     <ID>253</ID>
     <JP-Name>「第六〇一航空隊」出撃せよ！</JP-Name>
-    <TR-Name>B28: Sortie the 601 Air Group</TR-Name>
+    <TR-Name>B28: Sortie the 601 Air Group!</TR-Name>
     <JP-Detail>雲龍型航空母艦「雲龍改」含む機動部隊で珊瑚島沖に出撃、敵機動部隊を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with Unryuu Kai (雲龍改) as the flagship to World 5-2 and score an S rank victory against the boss.</TR-Detail>
   </Quest>
@@ -1029,7 +1031,7 @@ and score an S rank victory at World 5-1 boss.</TR-Detail>
   <Quest>
     <ID>271</ID>
     <JP-Name>「那智戦隊」抜錨せよ！</JP-Name>
-    <TR-Name>B38: Sortie Nachi's Squadron</TR-Name>
+    <TR-Name>B38: Nachi Squadron, Set Sail!</TR-Name>
     <JP-Detail>旗艦「那智」及び「初霜」「霞」「潮」「曙」他1隻の艦隊でバシー島沖の敵を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with Nachi (那智) as flagship, Hatsushimo (初霜), Kasumi (霞), Ushio (潮), Akebono (曙) and 1 additional ship to World 2-2 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
@@ -1932,7 +1934,7 @@ Unlock the equipment. And then, scrap two Zero Fighter Model 21 and two Zuiun.</
 Unlock the equipment. And then, scrap two Zero Fighter Model 21 and two Zuiun.</TR-Detail>
   </Quest>
   <Quest>
-    <ID></ID>
+    <ID>661</ID>
     <JP-Name>新型砲熕兵装、戦力化開始！</JP-Name>
     <TR-Name>F53: Reinforcement of New Model Cannon Improvement, Start!</TR-Name>
     <JP-Detail>工廠任務：新型砲熕兵装の開発及び同戦力化を開始する。「副砲」系装備x10を廃棄、&lt;br&gt;鉄鋼6,000を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
@@ -1958,6 +1960,21 @@ Unlock the equipment. And then, scrap two Zero Fighter Model 21 and two Zuiun.</
     <TR-Name>F56: Utilization of Radar Technology for Fire Control System</TR-Name>
     <JP-Detail>工廠任務：電探技術の射撃装置への活用を研究する。「電探」系装備x10を廃棄、弾薬及び鉄鋼を各8,000&lt;br&gt;準備せよ！※任務達成後、準備した資源は消費します。「勲章」と「兵装資材」の獲得選択が可能です。</JP-Detail>
     <TR-Detail>Prepare 8000 ammo and 8000 steel. Scrap 10 radars.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>665</ID>
+    <JP-Name>民生産業への協力</JP-Name>
+    <TR-Name>F57: Cooperation with the Commercial Industry</TR-Name>
+    <JP-Detail>工廠任務：軍需物資を放出し、民生産業に協力する。「小口径主砲」系装備x16を廃棄、燃料12,000を&lt;br&gt;準備せよ！※任務達成後、準備した資源は消費します。「勲章」と「兵装資材」の獲得選択が可能です。</JP-Detail>
+    <TR-Detail>Prepare 12000 steel and scrap 10 small guns.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>666</ID>
+    <JP-Name>精鋭「瑞雲」隊の編成</JP-Name>
+    <TR-Name>F58: Organize the Elite Zuiun Air Group</TR-Name>
+    <JP-Detail>秘書艦「日向改」の四番スロットに改修max「瑞雲(六三四空)」を搭載して、ドラム缶(輸送用)x2を廃棄。&lt;br&gt;さらに「九九式艦爆」x2「瑞雲」x2を用意せよ！　※新飛行隊を編成する「熟練搭乗員」が必要です。</JP-Detail>
+    <TR-Detail>Equip ★max Zuiun (634 Air Group) on Hyuuga Kai 4th slot. Have 2 Type 99 Dive Bomber, 2 Zuiun and 1 Skilled Pilot in your inventory. 
+Unlock all of the equipment. And then, scrap 2 Drum Canisters.</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
@@ -2262,7 +2279,7 @@ Aoba Kai, Uranami Kai, or Shikinami Kai and score an S-rank victory against Worl
   <Quest>
     <ID>838</ID>
     <JP-Name>重巡戦隊、抜錨せよ！</JP-Name>
-    <TR-Name>B87: Sortie a Heavy Cruiser Squadron!</TR-Name>
+    <TR-Name>B87: Heavy Cruiser Squadron, Set Sail!</TR-Name>
     <JP-Detail>重巡4隻を基幹戦力とした重巡旗艦の艦隊を南西諸島海域東部オリョール海に展開し、&lt;br&gt;同海域の敵艦隊を撃滅、制海権を確保せよ！</JP-Detail>
     <TR-Detail>Sortie four CA (one as flagship) and two wildcard and score an S-rank victory against World 2-3 Boss.</TR-Detail>
   </Quest>
@@ -2398,7 +2415,7 @@ And then, sortie to World 1-6 and clear. </TR-Detail>
   <Quest>
     <ID>856</ID>
     <JP-Name>新編「第一戦隊」、抜錨せよ！</JP-Name>
-    <TR-Name>B99: Sortie the New First Squadron!</TR-Name>
+    <TR-Name>B99: New First Squadron, Set Sail!</TR-Name>
     <JP-Detail>新編「第一戦隊」出撃任務：戦艦「長門改二」を旗艦、二番艦に「陸奥改」を配備した第一艦隊で出撃！&lt;br&gt;カレー洋リランカ島沖、サーモン海域北方に展開し、同海域の敵艦隊主力を捕捉、これを撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie Nagato Kai Ni as flagship, Mutsu Kai, and 4 additional ships.
 Score an S-rank victory against World 4-5 and 5-5 boss. </TR-Detail>
@@ -2406,7 +2423,7 @@ Score an S-rank victory against World 4-5 and 5-5 boss. </TR-Detail>
   <Quest>
     <ID>857</ID>
     <JP-Name>増強海上護衛総隊、抜錨せよ！</JP-Name>
-    <TR-Name>B100: Enhanced Maritime Escort Fleet, Sortie!</TR-Name>
+    <TR-Name>B100: Enhanced Maritime Escort Fleet, Set Sail!</TR-Name>
     <JP-Detail>出撃任務：軽巡1隻以上、駆逐艦または海防艦2隻以上、さらに航空巡洋艦または軽空母で増強した&lt;br&gt;第一護衛艦隊を第一艦隊に編成、南西諸島海域の各海域に展開、敵艦隊を撃破、各作戦を成功させよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with 1 CL, 2 DD/DE, 1 CAV/CVL, up to 2 additional ships and 
 obtain an A-rank victory at world 2-2, 2-3, 2-4, and 2-5 boss.</TR-Detail>
@@ -2414,7 +2431,7 @@ obtain an A-rank victory at world 2-2, 2-3, 2-4, and 2-5 boss.</TR-Detail>
   <Quest>
     <ID>858</ID>
     <JP-Name>新編「第七戦隊」、出撃せよ！</JP-Name>
-    <TR-Name>B101: New Seventh Squadron, Sortie!</TR-Name>
+    <TR-Name>B101: New 7th Squadron, Sortie!</TR-Name>
     <JP-Detail>出撃任務：新編「第七戦隊」を出撃！　カレー洋リランカ島沖「深海東洋艦隊漸減作戦」、&lt;br&gt;MS諸島沖「MS諸島防衛戦」において、敵艦隊主力を捕捉、これを撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with Kumano Kai Ni/CVL as flagship, Suzuya Kai Ni/CVL as second ship, Mogami Kai, 
 Mikuma Kai, up to 2 additional ships and obtain an S-rank victory at world 4-5 and 6-2 boss node.</TR-Detail>
@@ -2422,17 +2439,18 @@ Mikuma Kai, up to 2 additional ships and obtain an S-rank victory at world 4-5 a
   <Quest>
     <ID>859</ID>
     <JP-Name>精鋭「第四航空戦隊」、抜錨せよ！</JP-Name>
-    <TR-Name>B102: Reorganised 4th Carrier Division, Set Sail!</TR-Name>
+    <TR-Name>B102: Elite 4th Carrier Division, Set Sail!</TR-Name>
     <JP-Detail>精鋭「第四航空戦隊」出撃任務：精鋭航空戦艦を主戦力に再編された「第四航空戦隊」、抜錨せよ！&lt;br&gt;沖ノ島沖戦闘哨戒及び北方AL海域戦闘哨戒を実施、同方面の敵艦隊主力を捕捉、これを撃破せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with Ise and Hyuuga as flagship and second ship, 1CL, 2DD, and 
 1 additional ship and obtain an A-rank victory at world 2-5 and 3-5 boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>860</ID>
-    <JP-Name></JP-Name>
-    <TR-Name></TR-Name>
-    <JP-Detail></JP-Detail>
-    <TR-Detail></TR-Detail>
+    <JP-Name>旗艦「由良」、抜錨！</JP-Name>
+    <TR-Name>B103: Flagship Yura, Set Sail!</TR-Name>
+    <JP-Detail>出撃任務：旗艦に「由良改二」、随伴艦に二駆「村雨」「夕立」「春雨」「五月雨」及び「秋月」から&lt;br&gt;二隻以上を配備した第一艦隊を展開、東部オリョール海及び南方海域前面の敵戦力を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Yura Kai Ni as flagship, at least 2 of the following ships (Murasame, Yuudachi, Harusame, Samidare, Akizuki), 
+up to 3 additional ships and score an A-rank victory at world 2-3 and 5-1 boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
