@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.62">
+<Quests Version="1.1.63">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1966,7 +1966,7 @@ Unlock the equipment. And then, scrap two Zero Fighter Model 21 and two Zuiun.</
     <JP-Name>民生産業への協力</JP-Name>
     <TR-Name>F57: Cooperation with the Commercial Industry</TR-Name>
     <JP-Detail>工廠任務：軍需物資を放出し、民生産業に協力する。「小口径主砲」系装備x16を廃棄、燃料12,000を&lt;br&gt;準備せよ！※任務達成後、準備した資源は消費します。「勲章」と「兵装資材」の獲得選択が可能です。</JP-Detail>
-    <TR-Detail>Prepare 12000 steel and scrap 10 small guns.</TR-Detail>
+    <TR-Detail>Prepare 12000 steel and scrap 16 small guns.</TR-Detail>
   </Quest>
   <Quest>
     <ID>666</ID>
