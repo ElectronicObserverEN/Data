@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.39">
+<Equipment Version="1.3.40">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -809,6 +809,10 @@
 	<TR-Name>F6F-3 Hellcat</TR-Name>
   </Item>
   <Item>
+    <JP-Name>F6F-5</JP-Name>
+    <TR-Name>F6F-5 Hellcat</TR-Name>
+  </Item>
+  <Item>
 	<JP-Name>瑞雲(六三一空)</JP-Name>
 	<TR-Name>Zuiun (631 Air Group)</TR-Name>
   </Item>
@@ -907,6 +911,10 @@
   <Item>
     <JP-Name>30.5cm三連装砲改</JP-Name>
     <TR-Name>30.5cm Triple Gun Kai</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>F4U-1D</JP-Name>
+    <TR-Name>F4U-1D Corsair</TR-Name>
   </Item>
   <Item>
     <JP-Name>15.5cm三連装副砲改</JP-Name>
