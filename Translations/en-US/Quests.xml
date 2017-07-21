@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.63">
+<Quests Version="1.1.64">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1470,6 +1470,13 @@ score an S rank victory at the World 2-5 boss.</TR-Detail>
     <TR-Detail>Complete expedition 4, 5 and 9.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>426</ID>
+    <JP-Name>海上通商航路の警戒を厳とせよ！</JP-Name>
+    <TR-Name>D24: Stay Alert on the Maritime Routes!</TR-Name>
+    <JP-Detail>遠征任務：遠征任務「警備任務」「対潜警戒任務」「海上護衛任務」「強行偵察任務」&lt;br&gt;を実施し、敵の通商破壊部隊を制圧、海上通商航路の安全を確保せよ！</JP-Detail>
+    <TR-Detail>Complete expedition 3, 4, 5, and 10.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>501</ID>
     <JP-Name>はじめての「補給」！</JP-Name>
     <TR-Name>E1: First Supply</TR-Name>
@@ -1977,6 +1984,20 @@ Unlock the equipment. And then, scrap two Zero Fighter Model 21 and two Zuiun.</
 Unlock all of the equipment. And then, scrap 2 Drum Canisters.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>667</ID>
+    <JP-Name>民生産業への協力を継続せよ！</JP-Name>
+    <TR-Name>F59: Continue Your Cooperation with the Commercial Industry!</TR-Name>
+    <JP-Detail>工廠任務：軍需物資を放出し、民生産業への協力を継続する。「機銃」系装備x10を廃棄、鉄鋼15,000を&lt;br&gt;準備せよ！※任務達成後、準備した資源は消費します。「特注家具職人」と「勲章」の獲得選択が可能。</JP-Detail>
+    <TR-Detail>Have 15000 steel. Scrap 10 AA guns.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>668</ID>
+    <JP-Name>新型戦闘糧食の試作</JP-Name>
+    <TR-Name>F60: The Start of the Special Combat Rations</TR-Name>
+    <JP-Detail>料理任務：手軽に食事をとることができて、なおかつ美味しく腹にがっつりたまる新型の戦闘糧食を&lt;br&gt;開発する。「戦闘糧食」x2と燃料800及びボーキサイト150を用意せよ！油入れ送気開始！調理始め！</JP-Detail>
+    <TR-Detail>Have 2 Combat Rations, 800 fuel, and 150 Bauxite.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>701</ID>
     <JP-Name>はじめての「近代化改修」！</JP-Name>
     <TR-Name>G1: First Modernization</TR-Name>
@@ -2451,6 +2472,20 @@ Mikuma Kai, up to 2 additional ships and obtain an S-rank victory at world 4-5 a
     <JP-Detail>出撃任務：旗艦に「由良改二」、随伴艦に二駆「村雨」「夕立」「春雨」「五月雨」及び「秋月」から&lt;br&gt;二隻以上を配備した第一艦隊を展開、東部オリョール海及び南方海域前面の敵戦力を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie Yura Kai Ni as flagship, at least 2 of the following ships (Murasame, Yuudachi, Harusame, Samidare, Akizuki), 
 up to 3 additional ships and score an A-rank victory at world 2-3 and 5-1 boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>861</ID>
+    <JP-Name>強行輸送艦隊、抜錨！</JP-Name>
+    <TR-Name>Bq3: Transport Fleet Forces, Launch!</TR-Name>
+    <JP-Detail>航路護衛任務：航空戦艦(または補給艦でも可)2隻を中核とした艦隊で、鎮守府近海航路における&lt;br&gt;輸送船団護衛作戦を実施。同輸送護衛作戦を2回成功させよ！</JP-Detail>
+    <TR-Detail>Sortie 2 BBV/AO and up to 4 additional ships to [W1-6]. Reach node N twice.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>862</ID>
+    <JP-Name>前線の航空偵察を実施せよ！</JP-Name>
+    <TR-Name>Bq4: Perform Aerial Recon on the Frontlines!</TR-Name>
+    <JP-Detail>偵察任務：水上機母艦1隻と軽巡2隻を中核とした偵察艦隊を、中部海域グアノ環礁沖海域に展開、&lt;br&gt;航空偵察作戦「K作戦」を反復実施せよ！さらに同方面の敵艦隊を捕捉、敵戦力の撃破に努めよ！</JP-Detail>
+    <TR-Detail>Sortie 1 AV, 2 CL, and up to 3 additional ships to [W6-3]. Score two A-rank victory.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
