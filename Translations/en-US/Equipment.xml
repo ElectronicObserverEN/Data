@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.41">
+<Equipment Version="1.3.42">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -940,6 +940,58 @@
     <JP-Name>戦闘糧食(特別なおにぎり)</JP-Name>
     <TR-Name>Combat Ration (Special Onigiri)</TR-Name>
   </Item>
+  <Item>
+    <JP-Name>Swordfish</JP-Name>
+    <TR-Name>Swordfish</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Swordfish Mk.II(熟練)</JP-Name>
+	<TR-Name>Swordfish Mk.II (Skilled)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Swordfish Mk.III(熟練)</JP-Name>
+	<TR-Name>Swordfish Mk.III (Skilled)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>38cm四連装砲</JP-Name>
+	<TR-Name>38cm Quadruple Gun</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>38cm四連装砲改</JP-Name>
+	<TR-Name>38cm Quadruple Gun Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>15.2cm三連装砲</JP-Name>
+	<TR-Name>15.2cm Triple Gun</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Skua</JP-Name>
+	<TR-Name>Skua</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Fulmar</JP-Name>
+	<TR-Name>Fulmar</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Spitfire Mk.I</JP-Name>
+	<TR-Name>Spitfire Mk.I</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Spitfire Mk.V</JP-Name>
+	<TR-Name>Spitfire Mk.V</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Seafire Mk.III改</JP-Name>
+	<TR-Name>Spitfire Mk.IX Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>Spitfire Mk.IX(熟練)</JP-Name>
+	<TR-Name>Spitfire Mk.IX (Skilled)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </Item>
   
   
   
@@ -1257,6 +1309,14 @@
   <Item>
 	<JP-Name>深海12inch三連装砲</JP-Name>
 	<TR-Name>Abyssal 12inch Triple Gun</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海15inch四連装砲</JP-Name>
+	<TR-Name>Abyssal 15inch Quadruple Gun</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海15inch連装砲後期型</JP-Name>
+	<TR-Name>Abyssal 15inch Twin Gun Late Model</TR-Name>
   </Item>
   <Item>
 	<JP-Name></JP-Name>

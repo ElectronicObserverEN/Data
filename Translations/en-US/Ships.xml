@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.4.17">
+<Ships Version="1.4.18">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -1068,6 +1068,42 @@
     <TR-Name>Etorofu</TR-Name>
   </Ship>
   <Ship>
+    <JP-Name>松輪</JP-Name>
+    <TR-Name>Matsuwa</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>天霧</JP-Name>
+    <TR-Name>Amagiri</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>旗風</JP-Name>
+    <TR-Name>Hatakaze</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>狭霧</JP-Name>
+    <TR-Name>Sagiri</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Ark Royal</JP-Name>
+    <TR-Name>Ark Royal</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Richelieu</JP-Name>
+    <TR-Name>Richelieu</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Luigi Torelli</JP-Name>
+    <TR-Name>Luigi Torelli</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>UIT-25</JP-Name>
+    <TR-Name>UIT-25</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>伊504</JP-Name>
+    <TR-Name>I-504</TR-Name>
+  </Ship>
+  <Ship>
     <JP-Name></JP-Name>
     <TR-Name></TR-Name>
   </Ship>
@@ -1336,11 +1372,39 @@
   </Ship>
   <Ship>
 	<JP-Name>北端上陸姫</JP-Name>
-	<TR-Name>Northern Landing Princess</TR-Name>
+	<TR-Name>Northernmost Landing Princess</TR-Name>
   </Ship>
   <Ship>
 	<JP-Name>北方水姫</JP-Name>
 	<TR-Name>Northern Water Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>潜水新棲姫</JP-Name>
+    <TR-Name>New SS Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>駆逐ナ級</JP-Name>
+    <TR-Name>DD Na-Class</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>戦艦仏棲姫</JP-Name>
+    <TR-Name>French BB Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>空母夏鬼</JP-Name>
+    <TR-Name>CV Summer Demon</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>空母夏姫</JP-Name>
+    <TR-Name>CV Summer Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>集積地夏姫</JP-Name>
+    <TR-Name>Supply Depot Summer Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>欧州棲姫</JP-Name>
+    <TR-Name>European Princess</TR-Name>
   </Ship>
   <Ship mode="suffix">
 	<JP-Name>改</JP-Name>
