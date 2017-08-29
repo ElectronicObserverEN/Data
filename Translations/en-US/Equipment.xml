@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.42">
+<Equipment Version="1.3.43">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -987,6 +987,14 @@
   <Item>
 	<JP-Name>Spitfire Mk.IX(熟練)</JP-Name>
 	<TR-Name>Spitfire Mk.IX (Skilled)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>F6F-3N</JP-Name>
+	<TR-Name>F6F-3N Hellcat</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>F6F-5N</JP-Name>
+	<TR-Name>F6F-5N Hellcat</TR-Name>
   </Item>
   <Item>
 	<JP-Name></JP-Name>
