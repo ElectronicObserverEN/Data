@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.43">
+<Equipment Version="1.3.44">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -982,7 +982,7 @@
   </Item>
   <Item>
 	<JP-Name>Seafire Mk.III改</JP-Name>
-	<TR-Name>Spitfire Mk.IX Kai</TR-Name>
+	<TR-Name>Seafire Mk.III Kai</TR-Name>
   </Item>
   <Item>
 	<JP-Name>Spitfire Mk.IX(熟練)</JP-Name>
@@ -1343,11 +1343,11 @@
   </ItemDesc>
   <ItemDesc><!-- 100 !-->
 	<JP-Name>「九九艦爆」の後継機として開発された高速艦爆「彗星」。&lt;br&gt;液冷発動機装備のため運用のやや難しい機体でしたが、江草隊長の腕とその空中指揮、そして練度の高い母艦整備員によって支えられた精鋭「彗星」艦爆隊は、圧倒的な命中率を誇るその急降下爆撃で新生機動部隊の打撃力を担います。</JP-Name>
-	<TR-Name>The Suisei is a high speed dive bomber developed to replace the Type 99 Dive Bomber. Despite teething problems with the engine and the airframe, the Egusa Squadron with its Air Group commander, supported by skilled maintenance crews of frontline carriers, paved the way for the Suisei to achieve an outstanding dive bombing accuracy rate for the next generation of the Carrier Task Force.</TR-Name>
+	<TR-Name>Suisei is a high speed dive bomber developed to replace the Type 99 Dive Bomber. Despite teething problems with the engine and the airframe, the Egusa Squadron with its Air Group commander, supported by skilled maintenance crews of frontline carriers, paved the way for the Suisei to achieve an outstanding dive bombing accuracy rate for the next generation of the Carrier Task Force.</TR-Name>
   </ItemDesc>
   <ItemDesc>
 	<JP-Name>主砲等から発射される落下傘付の照明弾です。&lt;br&gt;夜戦時において敵艦隊付近を照明し、味方艦隊の夜間攻撃を支援します(敵艦隊の夜間特殊攻撃発生も少し抑えることが可能です)。</JP-Name>
-	<TR-Name>The Star Shell is a parachute flare fired from the ship&apos;s guns. It can illuminate the enemy fleet&apos;s position which can aid any allied ships&apos; attacks on the enemy. (It can also lower the offensive capabilities of the enemy fleet.)</TR-Name>
+	<TR-Name>Star Shell is a parachute flare fired from the ship&apos;s guns. It can illuminate the enemy fleet&apos;s position which can aid any allied ships&apos; attacks on the enemy. (It can also lower the offensive capabilities of the enemy fleet.)</TR-Name>
   </ItemDesc>
   <ItemDesc>
 	<JP-Name>水雷戦隊旗艦用に開発された水上夜間偵察機です。&lt;br&gt;長時間の滞空性能を持つ黒く塗装された機体に、夜間索敵能力に優れた搭乗員が乗りこみます(条件が整えば夜戦を支援する「夜間触接」が発生する可能性があります)。</JP-Name>
@@ -1375,16 +1375,15 @@
   </ItemDesc>
   <ItemDesc>
 	<JP-Name>艦載機の整備の卓越した能力を発揮できる整備要員です。&lt;br&gt;艦載機を装備した航空母艦に導入することで、同空母から発進する攻撃隊の能力を高めることが可能です。第一次攻撃隊のパンチ力不足を感じたら、お試しください！</JP-Name>
-	<TR-Name>This maintenance crew can perform excellent maintenance on carrier-borne aircraft. Carrier planes serviced by this crew has better performance when launched from the carriers they were based from. Please try them out if you feel your main attack force is lacking the power punch!</TR-Name>
+	<TR-Name>This maintenance crew can perform excellent maintenance on carrier-based aircraft. Carrier planes serviced by this crew has better performance when launched from the carriers they were based from. Please try them out if you feel your main attack force is lacking the power punch!</TR-Name>
   </ItemDesc>
   <ItemDesc>
 	<JP-Name>零戦の最終的な量産型「零式艦上戦闘機52丙型」です。&lt;br&gt;武装及び防御力が強化されました。その分、若干機動性は失われています。本航空隊は同機材を装備して、再建を目指す空母機動部隊の制空戦闘を担います。</JP-Name>
-	<TR-Name>The Zero Fighter&apos;s final production model is the &quot;Zero Fighter Model 52C&quot;. 
-Weaponry and durability has been enhanced. However, mobility has been somewhat impaired. This is the same plane used by the reformed aircraft carrier mobile squadrons, responsible for controlling the skies.</TR-Name>
+	<TR-Name>This is the final production model of the Zero fighter, the Zero Fighter Model 52C.&lt;br&gt;Weaponry and durability has been enhanced. However, mobility has been somewhat impaired. This is the same plane used by the reformed aircraft carrier mobile squadrons, responsible for controlling the skies.</TR-Name>
   </ItemDesc>
   <ItemDesc><!-- 110 !-->
 	<JP-Name>「零戦」の後継機として開発された最新鋭艦上戦闘機「烈風」。&lt;br&gt;用兵側の発動機選定ミスや多忙な現場設計陣などの苦境を越えて、ついに完成した新型艦戦。本航空隊は同新鋭機材を定数受領して、再建を目指す空母機動部隊、その戦闘機部隊の中核を担います。</JP-Name>
-	<TR-Name>The Reppuu is a state of the art, carrier-borne fighter designed to replace the &quot;Zero&quot; fighter. Despite difficulties in engine selection, preoccupied design teams and factories, this new type of carrier-borne fighter was finally completed. This new fighter will form the backbone of carrier air groups of rebuilt carrier task groups.</TR-Name>
+	<TR-Name>The Reppuu is a state of the art, carrier-based fighter designed to replace the Zero fighter. Despite difficulties in engine selection, preoccupied design teams and factories, this new type of carrier-based fighter was finally completed. This new fighter will form the backbone of carrier air groups of rebuilt carrier task groups.</TR-Name>
   </ItemDesc>
   <ItemDesc>
 	<JP-Name>「九九艦爆」の後継機として開発された高速艦爆「彗星」。&lt;br&gt;液冷発動機装備のため運用のやや難しい機体ですが、整備体制を万全に、内地で訓練を重ねた六〇一空の精鋭が搭乗します。機動部隊決戦に向けて、錬成を重ねた六〇一空の精鋭艦爆隊です。</JP-Name>
@@ -1396,7 +1395,7 @@ Weaponry and durability has been enhanced. However, mobility has been somewhat i
   </ItemDesc>
   <ItemDesc>
 	<JP-Name>艦攻と艦爆を統合した先進的な&quot;急降下爆撃可能な雷撃機&quot;、それが「流星」です。&lt;br&gt;発動機不調と重量過大に悩みながらも、開発に成功。高い性能を誇る最新鋭の艦上攻撃機です。錬成を重ねた六〇一空が機種転換し、本機を装備します。整備の行き届いた流星を定数装備した、新生艦攻隊の主力です。</JP-Name>
-	<TR-Name>The Ryuusei is an advanced carrier-borne attack bomber for its capability of dive- and torpedo-bombing. Despite problems, it was finally completed, boasting as a high-perfomance, cutting edge, carrier-borne attack aircraft. The 601 Air Group in training transitioned into this type of aircraft. Well-maintained, this aircraft became the mainstay of the carrier attack group.</TR-Name>
+	<TR-Name>The Ryuusei is an advanced carrier-based attack bomber for its capability of dive- and torpedo-bombing. Despite problems, it was finally completed, boasting as a high-perfomance, cutting edge, carrier-based attack aircraft. The 601 Air Group in training transitioned into this type of aircraft. Well-maintained, this aircraft became the mainstay of the carrier attack group.</TR-Name>
   </ItemDesc>
   <ItemDesc>
 	<JP-Name>ビスマルク級戦艦に搭載された戦艦主砲の改修型です。&lt;br&gt;短～中距離での砲撃戦を意識した高速戦艦の主力兵装で、改修によってその命中精度などが大きく向上しています。</JP-Name>
@@ -1467,6 +1466,42 @@ Weaponry and durability has been enhanced. However, mobility has been somewhat i
 	<TR-Name></TR-Name>
   </ItemDesc>
   <ItemDesc><!-- 140 !-->
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>優れた航続距離を誇り、初期の機動部隊艦載機の主力攻撃機として大活躍した傑作艦上攻撃機「九七艦攻」。同機を装備した本部隊は、高い技量と豊かな指導力を兼ね備えた村田隊長の率いる精鋭九七艦攻隊です。</JP-Name>
+	<TR-Name>Renowned for its operational range, Type 97 torpedo bomber was the mainstay attack aircraft during the early days of the Kidou Butai. Equipped with this aircraft, the squadron was led by Commander Murata who was highly skilled and had excellent leadership.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>旧式化した「九七艦攻」の後継機として開発された、新鋭艦上攻撃機「天山」。同機を装備した本部隊は、高技量と豊かな指導力を兼ね備えた歴戦の空中指揮官が率いる、「天山」への機種転換が完了した精鋭艦攻隊です。</JP-Name>
+	<TR-Name>Tenzan is a carrier-based torpedo bomber developed as a successor to the obsolete Type 99 torpedo bomber. Equipped with this aircraft, the squadron transitioned to the new Tenzan and was led by a commander who was highly skilled and had excellent leadership.</TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 148 !-->
+	<JP-Name>水上機搭載可能な潜水艦による戦略的な運用を目指して開発された、急降下爆撃可能なハイスペック艦載攻撃機「晴嵐」。その陸上運用機バージョン「南山」に着艦フックを付与した試作航空母艦運用型(爆装)です。テスト機なので、派手なカラーリングとなっています。</JP-Name>
+	<TR-Name>Seiran, a high-performance carrier-based dive bomber, was developed as a strategic operations seaplane that could be carried by submarines. The Nanzan is the land-based model and an arresting hook was added to this prototype carrier-based bomber model. Since it is a test machine, it has an ostentatious paint scheme.</TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 151 !-->
+	<JP-Name>空技廠が開発した最新鋭の高々度試作偵察機「景雲」。同機に艦載用の改修を行った艦上偵察機バージョンです。様々な新機軸を盛り込んだユニークな機体の「景雲」は、開発中のターボジェットエンジン「ネ330」を搭載して、新鋭噴進式攻撃機化する計画もありました。&lt;br&gt;(本機は新鋭正規空母の一部のみ運用可能です)</JP-Name>
+	<TR-Name>Developed by Yokosuka Naval Air Technical Arsenal, the Keiun is the latest, state-of-the-art prototype high-altitude recon aircraft. This is its carrier-based version. The Keiun was a unique design loaded with all sorts of new technology, and was even planned to be converted into a jet attacker once the Ne-330 turbojet engine entered service.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
 	<JP-Name></JP-Name>
 	<TR-Name></TR-Name>
   </ItemDesc>
@@ -1620,11 +1655,11 @@ The maritime truck &apos;Daihatsu&apos; was increased in size to accommodate the
   </ItemDesc>
   <ItemDesc><!-- 195 !-->
 	<JP-Name>シンプルかつ頑丈な作りの傑作急降下爆撃機です。&lt;br&gt;大戦初期の機体でありながら、旧式化したあとも長く使われました。ドーントレスの愛称で呼ばれた本機は、練度の高いパイロットであれば、ある程度の対空戦闘も可能でした。</JP-Name>
-	<TR-Name>Called the &quot;Dauntless&quot;, this simple yet robust dive bomber was used extensively during the Great War. In the hands of a skilled pilot it can even be used as fighter.</TR-Name>
+	<TR-Name>Called the Dauntless, this simple yet robust dive bomber was used extensively during the Great War. In the hands of a skilled pilot it can even be used as fighter.</TR-Name>
   </ItemDesc>
   <ItemDesc>
 	<JP-Name>九七艦攻のライバルともいえる艦上攻撃機です。&lt;br&gt;速度が遅く、大戦初期の機体で激戦の中でも陳腐化しつつありましたが、その必死の戦いは大きな戦いの勝機をもたらしました。</JP-Name>
-	<TR-Name>This torpedo bomber can be considered as a rival to the Type 97 Torpedo Bomber. With its slow speed, it was already obsolete in the early days of the Great War. But during a bloody battle, it contributed to a stunning victory.</TR-Name>
+	<TR-Name>This torpedo bomber can be considered as a rival to the Type 97 torpedo bomber. With its slow speed, it was already obsolete in the early days of the Great War. But during a bloody battle, it contributed to a stunning victory.</TR-Name>
   </ItemDesc>
   <ItemDesc>
 	<JP-Name>大戦初期の太平洋上で零戦としのぎを削った名艦上戦闘機、その初期部隊配備型です。&lt;br&gt;ワイルドキャットとよばれたF4Fシリーズは、格闘戦闘で劣る零戦隊を相手に果敢に戦いました。</JP-Name>
@@ -1654,8 +1689,7 @@ As a powerful carrier-based fighter equipped with a high-powered engine, it grad
   </ItemDesc>
   <ItemDesc><!-- 207 !-->
 	<JP-Name>急降下爆撃も可能な多用途水上偵察機「瑞雲」。&lt;br&gt;高価かつ高性能潜水艦搭載攻撃機「晴嵐」を運用する潜水艦部隊の航空隊として編成された第六三一海軍航空隊。その六三一空の「瑞雲」による練成部隊です。</JP-Name>
-	<TR-Name>Multi-purpose recon seaplane &quot;Zuiun&quot; that is capable of performing sudden dive-bombing attacks. 
-The 631st Air Group is a submarine-launched seaplane group operating the expensive, high performance attack aircraft &quot;Seiran&quot;. This &quot;Zuiun&quot; used by said air group for training.</TR-Name>
+	<TR-Name>Zuiun is the multi-purpose recon seaplane that is capable of performing sudden dive-bombing attacks.&lt;br&gt;The 631st Air Group is a submarine-launched seaplane group operating the expensive, high performance attack aircraft Seiran and used this Zuiun for training.</TR-Name>
   </ItemDesc>
   <ItemDesc>
 	<JP-Name>カタパルト射出可能な高性能攻撃機「晴嵐」で編成された実戦部隊です。&lt;br&gt;潜水空母による戦略的な運用を目指して開発された、高い攻撃力を秘めたハイスペックな潜水艦搭載水上攻撃機「晴嵐」。同機を集中配備した潜水艦隊部隊運用航空隊「六三一空」の実戦部隊。ぜひ正攻法で活躍させたいところです！</JP-Name>
@@ -1663,8 +1697,7 @@ The 631st Air Group is a submarine-launched seaplane group operating the expensi
   </ItemDesc>
   <ItemDesc>
 	<JP-Name>「我ニ追イツク敵機無シ」有名な無電を発した俊足の艦上偵察機「彩雲」。&lt;br&gt;敵戦闘機の追随を許さない高速性能を誇る、高性能な艦上偵察機です。悪化した戦況の中、敵情偵察に海上へと飛び立ちました。その「彩雲」を航空機格納庫を持つ潜水艦空母に格納して輸送できるように分解しました。</JP-Name>
-	<TR-Name>The swift carrier-based reconnaissance plane &quot;Saiun&quot; that sent the famous telegraph &quot;No enemy plane can catch us!&quot;.
-This sophisticated carrier-based reconnaissance plane boasts a high speed that does not allow enemy fighter planes to pursue them. As the war took a turn for the worse it took off into the vast sea in order to scout the enemy&apos;s movements. This &quot;Saiun&quot; has been disassembled so that it can be stored inside the hangar of SSV for transport.</TR-Name>
+	<TR-Name>The swift carrier-based reconnaissance plane Saiun that sent the famous telegraph &quot;No enemy plane can catch us!&quot;.&lt;br&gt;This sophisticated carrier-based reconnaissance plane boasts a high speed that does not allow enemy fighter planes to pursue them. As the war took a turn for the worse it took off into the vast sea in order to scout enemy movements. This Saiun has been disassembled so that it can be stored inside the hangar of SSV for transport.</TR-Name>
   </ItemDesc>
   <ItemDesc><!-- 210 !-->
 	<JP-Name>潜水艦に搭載する、索敵及び水上偵察用装備です。&lt;br&gt;艦橋上部に集中装備する多数の優れた水防式望遠鏡と水上電探及び対空電探群によって、脅威の早期発見に努めます。</JP-Name>
@@ -1676,6 +1709,314 @@ This sophisticated carrier-based reconnaissance plane boasts a high speed that d
   </ItemDesc>
   <ItemDesc>
 	<JP-Name>「我ニ追イツク敵機無シ」有名な無電を発した俊足の艦上偵察機「彩雲」。&lt;br&gt;敵戦闘機の追随を許さない高速性能を誇る、高性能な艦上偵察機です。伊号潜水艦による「光」作戦でトラック基地に輸送された「彩雲」。東カロリン空の「彩雲」隊は、ウルシー環礁泊地の偵察に活躍します。</JP-Name>
-	<TR-Name>&quot;No Grumman could catch us&quot; was the famous telegraph sent from this recon aircraft, &quot;Saiun&quot;. This recon aircraft boasts high-speed performance no enemy fighter can overtake. As the war deteriorated, this aircraft monitored enemy movements at sea. This &quot;Saiun&quot; was transported to the Truk Base during Operation &quot;Hikari&quot;. It belongs to &quot;East Caroline Air Group&quot; and active in Ulithi Atoll area.</TR-Name>
+	<TR-Name>&quot;No enemy plane can catch us!&quot; was the famous telegraph sent from this recon aircraft, Saiun. This recon aircraft boasts high-speed performance no enemy fighter can overtake. As the war deteriorated, this aircraft monitored enemy movements at sea. This Saiun was transported to the Truk Base during Operation Hikari. It belongs to East Caroline Air Group and active in Ulithi Atoll area.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 220 !-->
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 230 !-->
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 240 !-->
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>紅茶の国で生まれた運動性の高い艦上爆撃機です。&lt;br&gt;非力ではありますが、高性能な艦上戦闘機を装備しない初期の同海軍の海上航空戦力として、よく空を支えました。名機「Spitfire」の艦戦型などにその任を引き継いでいきます。</JP-Name>
+	<TR-Name>A carrier-based dive bomber with high mobility from the country of black tea. It lacks in strength, but it supported its navy in the early era of ship-borne flight as a naval air power when high-performance fighters were not yet carried . It was succeeded by carrier-based version of the famous Spitfire and the like.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>紅茶の国で開発された複座艦上戦闘機です。&lt;br&gt;偵察や攻撃も可能な多用途運用を目指しましたが、運動性能や速度に難があり、空中戦で優位性を発揮することはできませんでした。機動部隊の零戦隊にも圧倒されることになり、徐々にその姿を消していきます。</JP-Name>
+	<TR-Name>A two-seater carrier-based fighter plane from the country of black tea. It aimed at being usable in various roles including reconnaissance and bombing, but there were issues with its maneuverability and speed, and couldn&apos;t secure air superiority. It was overwhelmed by the Zero squadrons of the Kidou Butai and gradually faded from being seen in action.</TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 250 !-->
+	<JP-Name>紅茶の国を代表する主力戦闘機、「Spitfire」。&lt;br&gt;その初期型です。&lt;br&gt;バトル・オブ・ブリテンでは見事な本土防空戦を戦い、その空を守り抜きました。そして、様々な性能向上型が生まれていきます。</JP-Name>
+	<TR-Name>The mainstay fighter from the country of black tea, Spitfire. This is an early model. It fought in the Battle of Britain and defended the sky magnificently. Various models of improved performance were born afterwards.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>紅茶の国を代表する主力戦闘機、「Spitfire」。&lt;br&gt;バトル・オブ・ブリテンでは見事な本土防空戦を戦い、その空を守り抜いた名機の性能向上量産型です。様々な性能向上型が生まれ、やがて艦上戦闘機型の「Seafire」も誕生します。</JP-Name>
+	<TR-Name>The mainstay fighter from the country of black tea, Spitfire.&lt;br&gt;This is the mass-produced version of the famous aircraft that splendidly defended the homeland and its skies in the Battle of Britain. Various performance improvements were made and even led to the birth of the carrier-based fighter Seafire.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>紅茶の国を代表する主力戦闘機、「Spitfire」。&lt;br&gt;バトル・オブ・ブリテンでは見事な本土防空戦を戦い、その空を守り抜いた名機の艦上戦闘機型です。戦いの後半に量産され、英航空母艦に搭載された海のSpitfire「Seafire」。本機はその熟成改良型として実装です。</JP-Name>
+	<TR-Name>The mainstay fighter from the country of black tea, Spitfire.&lt;br&gt;;This is the carrier-based version of the famous aircraft that splendidly defended the homeland and its skies in the Battle of Britain. Mass-produced in the latter half of the war, this is the Spitfire that was equipped by British carriers, called Seafire. This is the implementation of an improved version of that plane.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>紅茶の国を代表する主力戦闘機、「Spitfire」。&lt;br&gt;バトル・オブ・ブリテンでは見事な本土防空戦を戦い、その空を守り抜いた名機の後期性能向上量産型を装備した精鋭飛行隊です。「Spitfire」はこの後エンジンを換装し、さらに強力に進化していきます。</JP-Name>
+	<TR-Name>The mainstay fighter from the country of black tea, Spitfire.&lt;br&gt;;This is the mass-produced version of the famous aircraft that splendidly defended the homeland and its skies in the Battle of Britain, now with elite pilots. The engine has been changed out, giving it even more power, as it continues to evolve.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>大戦初期の太平洋上で零戦としのぎを削った艦上戦闘機F4Fシリーズの後継機、大出力エンジンを装備した強力な主力艦上戦闘機F6Fシリーズ初期型の夜戦タイプです。&lt;br&gt;主翼下に機上レーダーを装備し、夜間の作戦行動を可能とした夜間戦闘機型艦載機です。</JP-Name>
+	<TR-Name>As successor of the F4F series that competed with Zero fighter above the Pacific Ocean early into the war, this is the F6F series which took control of the skies later half of the war. Equipped with high output engines, this is the early night fighter model of the powerful carrier-based fighter.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name>太平洋上で零戦としのぎを削った艦上戦闘機F4Fシリーズの後継機、大戦後期の空を制圧したF6Fシリーズ。その後期改良型にレーダーを搭載した夜間戦闘機バージョンです。&lt;br&gt;大出力エンジンと優れた火力、防御面も強化し機上レーダーまで装備した本機は、強力な艦上夜間戦闘機として夜の海の空を支配します。</JP-Name>
+	<TR-Name>As successor of the F4F series that competed with Zero fighter above the Pacific Ocean early into the war, this is the F6F series which took control of the skies later half of the war. Equipped with high output engines, strong firepower, improved protection, and onboard radar, this powerful carrier-based night fighter dominates the night skies of the sea.</TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 260 !-->
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 270 !-->
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc><!-- 280 !-->
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
+  </ItemDesc>
+  <ItemDesc>
+	<JP-Name></JP-Name>
+	<TR-Name></TR-Name>
   </ItemDesc>
 </Equipment>
