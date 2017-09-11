@@ -1,7 +1,6 @@
-﻿2017/08/30 23:45:00
-2.7.1.1
-* Added missing translations on Encyclopedia.
-* Fixed bug where equipment stats column overlap.
-* Fixed bug on clear cache button.
-* Translated Export Fleet Image window.
-* Translated Ship Image Viewer window.
+﻿2017/09/10 00:15:00
+2.8.0.0
+* Added Google search options on ship and equipment encyclopedia.
+* Added LBAS simulator window.
+* Added warning dialog before sortieing untagged ship.
+* Updated Dark color scheme.
