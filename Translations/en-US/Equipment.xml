@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.44">
+<Equipment Version="1.3.45">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -522,7 +522,7 @@
   </Item>
   <Item>
     <JP-Name>25mm三連装機銃 集中配備</JP-Name>
-    <TR-Name>25mm Triple Autocannon (Concentrated Deployment)</TR-Name>
+    <TR-Name>25mm Triple Autocannon (CD)</TR-Name>
   </Item>
   <Item>
     <JP-Name>零式水中聴音機</JP-Name>
@@ -995,6 +995,22 @@
   <Item>
 	<JP-Name>F6F-5N</JP-Name>
 	<TR-Name>F6F-5N Hellcat</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>TBF</JP-Name>
+	<TR-Name>TBF Avenger</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>TBM-3D</JP-Name>
+	<TR-Name>TBM-3D Avenger</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>夜間作戦航空要員</JP-Name>
+	<TR-Name>Night Operation Aviation Personnel</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>夜間作戦航空要員+熟練甲板員</JP-Name>
+	<TR-Name>Night Operation Aviation Personnel+Skilled Crew</TR-Name>
   </Item>
   <Item>
 	<JP-Name></JP-Name>
