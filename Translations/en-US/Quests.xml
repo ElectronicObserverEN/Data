@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.65">
+<Quests Version="1.1.66">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2499,9 +2499,65 @@ up to 3 additional ships and score an A-rank victory at world 2-3 and 5-1 boss.<
     <ID>863</ID>
     <JP-Name>精鋭「第二二駆逐隊」出撃せよ!</JP-Name>
     <TR-Name>B104: Sortie the Elite 22nd Destroyer Division!</TR-Name>
-    <JP-Detail>「航空基地設営」の事前準備を開始する。「ドラム缶(輸送用)」を二つ「工廠」で廃棄し、「7.7mm機銃」及び「九六式艦戦」を各二つずつ用意せよ！(任務達成後、用意した必要装備は消滅します)</JP-Detail>
+    <JP-Detail>出撃任務：再編した精鋭「第二二駆逐隊」を含む精強な水雷戦隊で北方海域キス島沖に出撃、&lt;br&gt;キス島撤退作戦を完全成功させよ！</JP-Detail>
     <TR-Detail>Sortie Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai, Nagatsuki Kai,
-and up to 2 additional ships to [W3-2]. S-Rank the boss node.</TR-Detail>
+and up to 2 additional ships to [W3-2]. S-rank the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>185</ID>
+    <JP-Name>精強「任務部隊」を編成せよ！</JP-Name>
+    <TR-Name>A80: Organize a Powerful Task Force!</TR-Name>
+    <JP-Detail>編成任務：第一艦隊旗艦に「Saratoga Mk.II」または同「Mod.2」を配備、随伴艦に&lt;br&gt;軽巡洋艦1隻、駆逐艦2隻以上を配した夜間作戦可能な機動部隊を新編せよ！</JP-Detail>
+    <TR-Detail>Have Saratoga Mk.II/Mod.2 as flagship with 1 CL and 2 DD in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>316</ID>
+    <JP-Name>輸送部隊の練度向上に努めよ！</JP-Name>
+    <TR-Name>C13: Raise the Transport Unit&apos;s Experience!</TR-Name>
+    <JP-Detail>演習任務：輸送部隊の練度向上を図る！本日中に演習で4回以上「勝利」せよ！</JP-Detail>
+    <TR-Detail>Get 4 victories in exercises within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>864</ID>
+    <JP-Name>精強大型航空母艦、抜錨！</JP-Name>
+    <TR-Name>B105: Large Powerful Aircraft Carrier, Setting Sail!</TR-Name>
+    <JP-Detail>出撃任務：「Saratoga Mk.II」または同「Mod.2」を旗艦とした「任務部隊」で、南方海域サーモン海域&lt;br&gt;北方及び中部海域MS諸島沖に展開、同海域敵戦力を捕捉撃滅、「MS諸島防衛戦」を成功させよ！</JP-Detail>
+    <TR-Detail>Sortie Saratoga Mk.II/Mod.2 as flagship, 1 CL, 2 DD with 2 additional ships
+to [W5-5], [W6-2]. S-rank the boss nodes.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>865</ID>
+    <JP-Name>夜間作戦空母、前線に出撃せよ！</JP-Name>
+    <TR-Name>B106: Night Aircraft Carrier, Attack the Frontlines!</TR-Name>
+    <JP-Detail>出撃任務：「Saratoga Mk.II」を旗艦とした第一艦隊を KW環礁沖海域に展開、敵機動部隊を迎撃！&lt;br&gt;「空母機動部隊迎撃戦」を見事成功させよ！　夜戦作戦空母、抜錨！　前線に出撃せよ！</JP-Detail>
+    <TR-Detail>Sortie Saratoga Mk.II as flagship to [W6-5]. S-rank the boss nodes.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>669</ID>
+    <JP-Name>夜戦型艦上戦闘機の開発</JP-Name>
+    <TR-Name>F61: Carrier-based Night Fighter Development</TR-Name>
+    <JP-Detail>練度&amp;改修maxの「F6F-3」を秘書艦一番スロットに搭載、 「13号対空電探」x2 「22号対水上電探」x2&lt;br&gt;を廃棄、開発資材x30、改修資材x6、ボーキサイト5,000、「新型航空兵装資材」x1を準備せよ！</JP-Detail>
+    <TR-Detail>Prepare 5000 bauxite, 30 devmat, 6 screw, and 1 New Model Aerial Armament Materials.
+Equip F6F-3 (rank 7 and ★max) on flagship 1st plane slot.
+Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>671</ID>
+    <JP-Name>夜間作戦型艦上攻撃機の開発</JP-Name>
+    <TR-Name>F62: Carrier-based Night Torpedo Bomber Development</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>Prepare 5000 ammo, 8000 bauxite, 40 devmat, 10 screw, 1 Skilled Crew Member, and
+1 New Model Aerial Armament Materials. Equip TBF on flagship 1st plane slot.
+Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>670</ID>
+    <JP-Name>夜戦型艦上戦闘機の性能強化</JP-Name>
+    <TR-Name>F63: Performance Enhancement of the Carrier-based Night Fighter</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>Prepare 6000 bauxite, 40 devmat, 8 screw, and 1 New Model Aerial Armament Materials.
+Equip F6F-5 (rank 7 and ★max) on flagship 1st plane slot.
+Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
