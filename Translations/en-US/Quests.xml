@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.67">
+<Quests Version="1.1.68">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2545,7 +2545,7 @@ Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above.</T
     <ID>671</ID>
     <JP-Name>夜間作戦型艦上攻撃機の開発</JP-Name>
     <TR-Name>F62: Carrier-based Night Torpedo Bomber Development</TR-Name>
-    <JP-Detail></JP-Detail>
+    <JP-Detail>「TBF」を秘書艦一番スロットに搭載、「13号対空電探」x2「22号対水上電探」x2廃棄、開発資材x40&lt;br&gt;改修資材x10、弾薬5,000、ボーキサイト8,000、「新型航空兵装資材」x1、「熟練搭乗員」を用意せよ！</JP-Detail>
     <TR-Detail>Prepare 5000 ammo, 8000 bauxite, 40 devmat, 10 screw, 1 Skilled Crew Member, and
 1 New Model Aerial Armament Materials. Equip TBF on flagship 1st plane slot.
 Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above.</TR-Detail>
@@ -2554,7 +2554,7 @@ Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above.</T
     <ID>670</ID>
     <JP-Name>夜戦型艦上戦闘機の性能強化</JP-Name>
     <TR-Name>F63: Performance Enhancement of the Carrier-based Night Fighter</TR-Name>
-    <JP-Detail></JP-Detail>
+    <JP-Detail>練度&amp;改修maxの「F6F-5」を秘書艦一番スロットに搭載、 「13号対空電探」x2 「22号対水上電探」x2&lt;br&gt;を廃棄、開発資材x40、改修資材x8、ボーキサイト6,000、「新型航空兵装資材」x1を準備せよ！</JP-Detail>
     <TR-Detail>Prepare 6000 bauxite, 40 devmat, 8 screw, and 1 New Model Aerial Armament Materials.
 Equip F6F-5 (rank 7 and ★max) on flagship 1st plane slot.
 Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above.</TR-Detail>
