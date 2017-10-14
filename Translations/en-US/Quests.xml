@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.68">
+<Quests Version="1.1.69">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2497,7 +2497,7 @@ up to 3 additional ships and score an A-rank victory at world 2-3 and 5-1 boss.<
   </Quest>
   <Quest>
     <ID>863</ID>
-    <JP-Name>精鋭「第二二駆逐隊」出撃せよ!</JP-Name>
+    <JP-Name>精鋭「第二二駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>B104: Sortie the Elite 22nd Destroyer Division!</TR-Name>
     <JP-Detail>出撃任務：再編した精鋭「第二二駆逐隊」を含む精強な水雷戦隊で北方海域キス島沖に出撃、&lt;br&gt;キス島撤退作戦を完全成功させよ！</JP-Detail>
     <TR-Detail>Sortie Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai, Nagatsuki Kai,
@@ -2558,6 +2558,27 @@ Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above.</T
     <TR-Detail>Prepare 6000 bauxite, 40 devmat, 8 screw, and 1 New Model Aerial Armament Materials.
 Equip F6F-5 (rank 7 and ★max) on flagship 1st plane slot.
 Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>866</ID>
+    <JP-Name>秋刀魚漁：「秋刀魚」を収獲する所存です！</JP-Name>
+    <TR-Name>SB23: Saury Fishing: I'm Going to Secure the Saury Harvest!</TR-Name>
+    <JP-Detail>秋刀魚漁支援：近海、北方海域、中部海域の秋刀魚漁漁場に展開、秋刀魚漁支援ですね？了解です！&lt;br&gt;漁場に遊弋する敵艦隊を撃破、秋刀魚漁を支援して、「秋刀魚」を四尾入手します！お任せください！</JP-Detail>
+    <TR-Detail>Have 4 Sauries in your inventory.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>867</ID>
+    <JP-Name>秋刀魚漁：漁を全力で支援する覚悟です！</JP-Name>
+    <TR-Name>SB24: Saury Fishing: I'm Ready to Go All-Out Supporting the Fishing!</TR-Name>
+    <JP-Detail>秋刀魚漁支援：漁場の安全を確保して「秋刀魚」を12尾確保ですね？少し大変そうですが、了解です！&lt;br&gt;あまり乱獲しては不漁になってしまいますね！適切に漁場を休ませつつ、海域も変えてみましょう！</JP-Detail>
+    <TR-Detail>Have 12 Sauries in your inventory.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>868</ID>
+    <JP-Name>秋刀魚漁：どーんっ！揚げ揚げで大漁です！</JP-Name>
+    <TR-Name>SB25: Saury Fishing: Boooom! I'll Fire Up the Big Catch!</TR-Name>
+    <JP-Detail>秋刀魚漁支援：どーん！秋刀魚漁の総仕上げもアゲアゲでまいりましょう！そうです、揚げ揚げです！&lt;br&gt;漁場の深海棲艦を制圧して安全を確保、不漁なんてどーんとはねかえしていきましょう！いっけぇー！</JP-Detail>
+    <TR-Detail>Have 30 Sauries in your inventory.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
