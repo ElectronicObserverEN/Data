@@ -1,6 +1,6 @@
-﻿2017/09/10 00:15:00
-2.8.0.0
-* Added Google search options on ship and equipment encyclopedia.
-* Added LBAS simulator window.
-* Added warning dialog before sortieing untagged ship.
-* Updated Dark color scheme.
+﻿2017/10/01 20:00:00
+2.8.1.0
+* Added night bomber plane icon.
+* Added support for new attack type.
+* Added support for HP and ASW modernization.
+* Added tooltip for max HP after modernization.
