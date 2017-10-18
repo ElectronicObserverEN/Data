@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Expeditions Version="1.3.1">
+<Expeditions Version="1.3.2">
   <Expedition>
     <ID>1</ID>
     <JP-Name>練習航海</JP-Name>
@@ -279,6 +279,27 @@
     <TR-Name>Seaplane Delivery on the Front Lines</TR-Name>
     <JP-Detail>複数の水上機母艦を有する軽巡を旗艦とした艦隊で、水上機の前線輸送を実施せよ！</JP-Detail>
     <TR-Detail>Assemble a fleet with a Light Cruiser as the flagship and multiple Seaplane Tenders. Deploy them on a transport mission to the front lines!</TR-Detail>
+  </Expedition>
+  <Expedition>
+    <ID>100</ID>
+    <JP-Name>兵站強化任務</JP-Name>
+    <TR-Name>Logistic Reinforcement</TR-Name>
+    <JP-Detail>港湾施設強化と兵站備蓄施設拡充&lt;br&gt;に協力し、補給体制を強化せよ！</JP-Detail>
+    <TR-Detail>港湾施設強化と兵站備蓄施設拡充&lt;br&gt;に協力し、補給体制を強化せよ！</TR-Detail>
+  </Expedition>
+  <Expedition>
+    <ID>101</ID>
+    <JP-Name>海峡警備行動</JP-Name>
+    <TR-Name>Strait Security Operation</TR-Name>
+    <JP-Detail>海防艦や駆逐艦による、沿岸警備&lt;br&gt;部隊で、海峡警備を実施しよう！</JP-Detail>
+    <TR-Detail>海防艦や駆逐艦による、沿岸警備&lt;br&gt;部隊で、海峡警備を実施しよう！</TR-Detail>
+  </Expedition>
+  <Expedition>
+    <ID>102</ID>
+    <JP-Name>長時間対潜警戒</JP-Name>
+    <TR-Name>Extended Anti-Submarine Alert</TR-Name>
+    <JP-Detail>高練度の対潜部隊を展開、敵潜を&lt;br&gt;制圧し、航路の安全を確保せよ！</JP-Detail>
+    <TR-Detail>高練度の対潜部隊を展開、敵潜を&lt;br&gt;制圧し、航路の安全を確保せよ！</TR-Detail>
   </Expedition>
   <Expedition>
     <ID>125</ID>
