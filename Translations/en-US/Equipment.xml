@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.45">
+<Equipment Version="1.3.46">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -1012,6 +1012,9 @@
 	<JP-Name>夜間作戦航空要員+熟練甲板員</JP-Name>
 	<TR-Name>Night Operation Aviation Personnel+Skilled Crew</TR-Name>
   </Item>
+  <Item>
+	<JP-Name>12.7cm連装砲C型改二</JP-Name>
+	<TR-Name>12.7cm Twin Gun Model C Kai 2</TR-Name>
   <Item>
 	<JP-Name></JP-Name>
 	<TR-Name></TR-Name>

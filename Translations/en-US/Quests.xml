@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.70">
+<Quests Version="1.1.71">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1342,105 +1342,105 @@ score an S rank victory at the World 2-5 boss.</TR-Detail>
     <JP-Name>第一次潜水艦派遣作戦</JP-Name>
     <TR-Name>D5: The First Submarine Operation</TR-Name>
     <JP-Detail>はじめての潜水艦派遣作戦を成功させよう！</JP-Detail>
-    <TR-Detail>Complete Expedition 30 (潜水艦派遣作戦).</TR-Detail>
+    <TR-Detail>Complete Expedition 30.</TR-Detail>
   </Quest>
   <Quest>
     <ID>406</ID>
     <JP-Name>第二次潜水艦派遣作戦</JP-Name>
     <TR-Name>D6: The Second Submarine Operation</TR-Name>
     <JP-Detail>第二次潜水艦派遣作戦を成功させよう！</JP-Detail>
-    <TR-Detail>Complete Expedition 30 (潜水艦派遣作戦) one more time.</TR-Detail>
+    <TR-Detail>Complete Expedition 30 one more time.</TR-Detail>
   </Quest>
   <Quest>
     <ID>408</ID>
     <JP-Name>潜水艦派遣作戦による技術入手の継続！</JP-Name>
     <TR-Name>D7: Continuation of Submarine Operations</TR-Name>
     <JP-Detail>第三次及び第四次潜水艦派遣作戦を成功させ、他国製技術の導入に努めよ！</JP-Detail>
-    <TR-Detail>Complete Expedition 30 (潜水艦派遣作戦) two more times.</TR-Detail>
+    <TR-Detail>Complete Expedition 30 two more times.</TR-Detail>
   </Quest>
   <Quest>
     <ID>409</ID>
     <JP-Name>潜水艦派遣による海外艦との接触作戦</JP-Name>
     <TR-Name>D8: Strategy Meeting with Overseas Submarine Dispatch</TR-Name>
     <JP-Detail>有力な潜水艦隊派遣による海外艦との接触作戦を成功させよ！</JP-Detail>
-    <TR-Detail>Complete expedition 31 (海外艦との接触) and receive foreign destroyer Z1!</TR-Detail>
+    <TR-Detail>Complete expedition 31 and receive foreign destroyer Z1!</TR-Detail>
   </Quest>
   <Quest>
     <ID>410</ID>
     <JP-Name>南方への輸送作戦を成功させよ！</JP-Name>
     <TR-Name>D9w2: Transportation Towards South</TR-Name>
     <JP-Detail>激戦海域である南方海域への「東京急行」系遠征を敢行、これを成功させよ！</JP-Detail>
-    <TR-Detail>Complete expedition 37 or 38 (東京急行).</TR-Detail>
+    <TR-Detail>Complete expedition 37 or 38.</TR-Detail>
   </Quest>
   <Quest>
     <ID>411</ID>
     <JP-Name>南方への鼠輸送を継続実施せよ！</JP-Name>
     <TR-Name>D11w3: Transportation Towards South (Cont.)</TR-Name>
     <JP-Detail>今週中に「東京急行」系遠征を継続的に実施、同種作戦を7回成功させよう！</JP-Detail>
-    <TR-Detail>Complete expedition 37 or 38 (東京急行) a total of 7 times in a week.</TR-Detail>
+    <TR-Detail>Complete expedition 37 or 38 a total of seven times in a week.</TR-Detail>
   </Quest>
   <Quest>
     <ID>412</ID>
     <JP-Name>航空火力艦の運用を強化せよ！</JP-Name>
     <TR-Name>D10: Strengthen the Operation of the BBV</TR-Name>
     <JP-Detail>「航空戦艦運用演習」を実施し、航空火力艦の運用の強化に努めよ！</JP-Detail>
-    <TR-Detail>Complete expedition 23 (航空戦艦運用演習).</TR-Detail>
+    <TR-Detail>Complete expedition 23.</TR-Detail>
   </Quest>
   <Quest>
     <ID>413</ID>
     <JP-Name>(続)航空火力艦の運用を強化せよ！</JP-Name>
     <TR-Name>D12: Strengthen the Operation of the BBV (Cont.)</TR-Name>
     <JP-Detail>「航空戦艦運用演習」を継続実施し、航空火力艦の運用の強化に引き続き努めよ！</JP-Detail>
-    <TR-Detail>Complete expedition 23 (航空戦艦運用演習) 4 more times.</TR-Detail>
+    <TR-Detail>Complete expedition 23 four more times.</TR-Detail>
   </Quest>
   <Quest>
     <ID>414</ID>
     <JP-Name>遠洋潜水艦作戦を実施せよ！</JP-Name>
     <TR-Name>D13: Blue Waters Submarine Operation</TR-Name>
     <JP-Detail>「遠洋潜水艦作戦」を実施し、潜水艦隊の練度向上と敵艦隊漸減に努めよ！</JP-Detail>
-    <TR-Detail>Complete expedition 39 (遠洋潜水艦作戦).</TR-Detail>
+    <TR-Detail>Complete expedition 39.</TR-Detail>
   </Quest>
   <Quest>
     <ID>415</ID>
     <JP-Name>遠洋潜水艦作戦の成果を拡大せよ！</JP-Name>
     <TR-Name>D14: Blue Waters Extended Submarine Operation</TR-Name>
     <JP-Detail>「遠洋潜水艦作戦」を継続実施し、潜水艦隊の練度向上と敵艦隊漸減に努めよ！</JP-Detail>
-    <TR-Detail>Complete expedition 39 (遠洋潜水艦作戦) 2 more times.</TR-Detail>
+    <TR-Detail>Complete expedition 39 two more times.</TR-Detail>
   </Quest>
   <Quest>
     <ID>416</ID>
     <JP-Name>防空射撃演習を実施せよ！</JP-Name>
     <TR-Name>D15: Air Defence Exercises</TR-Name>
     <JP-Detail>「防空射撃演習」を複数回実施し、艦隊の防空能力を高めよ！</JP-Detail>
-    <TR-Detail>Complete expedition 6 (防空射撃演習) 3 times.</TR-Detail>
+    <TR-Detail>Complete expedition 6 three times.</TR-Detail>
   </Quest>
   <Quest>
     <ID>417</ID>
     <JP-Name>囮機動部隊支援作戦を実施せよ！</JP-Name>
     <TR-Name>D16: Deploy the Decoy Task Force</TR-Name>
     <JP-Detail>「囮機動部隊支援作戦」を実施し、これを成功させよ！</JP-Detail>
-    <TR-Detail>Complete expedition 15 (囮機動部隊支援作戦).</TR-Detail>
+    <TR-Detail>Complete expedition 15.</TR-Detail>
   </Quest>
   <Quest>
     <ID>418</ID>
     <JP-Name>観艦式予行を実施せよ！</JP-Name>
     <TR-Name>D17: Naval Ceremony Preparations</TR-Name>
     <JP-Detail>観艦式を実施する。予行として「観艦式予行」を複数回実施し、これを2回成功させよ！</JP-Detail>
-    <TR-Detail>Complete expedition 7 (観艦式予行) 2 times.</TR-Detail>
+    <TR-Detail>Complete expedition 7 two times.</TR-Detail>
   </Quest>
   <Quest>
     <ID>419</ID>
     <JP-Name>観艦式を敢行せよ！</JP-Name>
     <TR-Name>D18: Naval Review</TR-Name>
     <JP-Detail>練度の高い艦隊で観艦式本番を実施する。「観艦式」を実施し、これを成功させよ！</JP-Detail>
-    <TR-Detail>Complete expedition 8 (観艦式).</TR-Detail>
+    <TR-Detail>Complete expedition 8.</TR-Detail>
   </Quest>
   <Quest>
     <ID>420</ID>
     <JP-Name>機動部隊の運用を強化せよ！</JP-Name>
     <TR-Name>D19: Strengthen the Carrier Task Force Operations</TR-Name>
     <JP-Detail>機動部隊遠征を実施、「MO作戦」及び「敵母港空襲作戦」を展開、これを成功させよ！</JP-Detail>
-    <TR-Detail>Complete expeditions 26 (敵母港空襲作戦) and 35 (MO作戦).</TR-Detail>
+    <TR-Detail>Complete expeditions 26 and 35.</TR-Detail>
   </Quest>
   <Quest>
     <ID>421</ID>
@@ -2600,7 +2600,43 @@ Score an A-rank victory against [W1-3], [W1-4], and [W1-5] Boss.</TR-Detail>
     <JP-Name>近海に侵入する敵潜を制圧せよ！</JP-Name>
     <TR-Name>D26: Suppress the Enemy Submarines Invading Nearby!</TR-Name>
     <JP-Detail>敵潜制圧任務：遠征任務「対潜警戒任務」「海峡警備行動」「長時間対潜警戒」を&lt;br&gt;それぞれ複数回実施し、近海に潜り込む敵潜部隊を制圧、我が領海から叩き出せ！</JP-Detail>
-    <TR-Detail>Complete expedition 4, A2, and A3 (more than 1 time?).</TR-Detail>
+    <TR-Detail>Complete expedition 4, A2, and A3 two times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID></ID>
+    <JP-Name>「第八駆逐隊」、南西へ！</JP-Name>
+    <TR-Name>8th Destroyer Division, To the Southwest!</TR-Name>
+    <JP-Detail>第八駆逐隊任務：「第八駆逐隊」を含む艦隊で、鎮守府海域南西諸島沖、及び南西諸島海域バシー島沖に&lt;br&gt;展開！同海域に跳梁する敵艦隊戦力を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Asashio, Michishio, Ooshio, Arashio and 2 additional ships (8th DesDiv, unconfirmed).
+Score an S-rank victory against [W1-2] and [W2-2] Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID></ID>
+    <JP-Name>最精鋭「第八駆逐隊」を編成せよ！</JP-Name>
+    <TR-Name>Organize the Most Elite 8th Destroyer Division!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail></TR-Detail>
+  </Quest>
+  <Quest>
+    <ID></ID>
+    <JP-Name>最精鋭「第八駆逐隊」、全力出撃！</JP-Name>
+    <TR-Name>The Most Elite 8th Destroyer Division, All-Out Sortie!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail></TR-Detail>
+  </Quest>
+  <Quest>
+    <ID></ID>
+    <JP-Name>「捷一号作戦」、発動準備！</JP-Name>
+    <TR-Name>Preparation to Activate Operation Sho-Go 1!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail></TR-Detail>
+  </Quest>
+  <Quest>
+    <ID></ID>
+    <JP-Name>「西村艦隊」第二戦隊随伴部隊、集結せよ！</JP-Name>
+    <TR-Name>Form the Nishimura 2nd Battleship Division Escorts!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail></TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
