@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.47">
+<Equipment Version="1.3.48">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -1017,16 +1017,21 @@
 	<TR-Name>12.7cm Twin Gun Model C Kai 2</TR-Name>
   </Item>
   <Item>
+	<JP-Name>紫電一一型</JP-Name>
+	<TR-Name>Shiden Model 11</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>紫電二一型 紫電改</JP-Name>
+	<TR-Name>Shiden Model 21 Shiden Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>22号対水上電探改四(後期調整型)</JP-Name>
+	<TR-Name>Type 22 Surface Radar Kai 4 (Calibrated Late Model)</TR-Name>
+  </Item>
+  <Item>
 	<JP-Name></JP-Name>
 	<TR-Name></TR-Name>
   </Item>
-  
-  
-  
-  
-  
-  
-  
   
   <!-- Abyssal Equipment !-->
   
