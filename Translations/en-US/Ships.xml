@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.4.18">
+<Ships Version="1.4.19">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -1104,6 +1104,18 @@
     <TR-Name>I-504</TR-Name>
   </Ship>
   <Ship>
+    <JP-Name>伊400</JP-Name>
+    <TR-Name>I-400</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>佐渡</JP-Name>
+    <TR-Name>Sado</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>対馬</JP-Name>
+    <TR-Name>Tsushima</TR-Name>
+  </Ship>
+  <Ship>
     <JP-Name></JP-Name>
     <TR-Name></TR-Name>
   </Ship>
@@ -1288,7 +1300,7 @@
   </Ship>
   <Ship>
 	<JP-Name>防空棲姫</JP-Name>
-	<TR-Name>Air Defence Princess</TR-Name>
+	<TR-Name>Air Defense Princess</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>PT小鬼群</JP-Name>
@@ -1406,6 +1418,15 @@
     <JP-Name>欧州棲姫</JP-Name>
     <TR-Name>European Princess</TR-Name>
   </Ship>
+  <Ship>
+    <JP-Name>海峡夜棲姫</JP-Name>
+    <TR-Name>Night Strait Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>防空埋姫</JP-Name>
+    <TR-Name>Buried Air Defense Princess</TR-Name>
+  </Ship>
+
   <Ship mode="suffix">
 	<JP-Name>改</JP-Name>
     <TR-Name> Kai</TR-Name>

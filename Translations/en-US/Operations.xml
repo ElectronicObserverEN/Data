@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.3.13">
+<Operations Version="1.3.14">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>Sea in Front of the Naval Base</TR-Name>
@@ -199,6 +199,22 @@
   <Map>
     <JP-Name>西方再打通！欧州救援作戦</JP-Name>
     <TR-Name>Crossing through the West once again! The European Rescue Operation</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>奄美群島沖/台湾沖</JP-Name>
+    <TR-Name>Amami Islands/Offshore Taiwan</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>台湾沖/ルソン島沖</JP-Name>
+    <TR-Name>Offshore Taiwan/Luzon Island</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>捷一号作戦 作戦海域</JP-Name>
+    <TR-Name>Sho 1 Operation Area</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>スリガオ海峡沖</JP-Name>
+    <TR-Name>Off the Surigao Strait</TR-Name>
   </Map>
   <Map>
     <JP-Name></JP-Name>
