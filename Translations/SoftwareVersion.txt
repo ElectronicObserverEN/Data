@@ -1,3 +1,5 @@
-﻿2017/10/20 00:10:00
-2.8.2.1
-* Partially fixed compass and battle predictor issue
+﻿2017/11/20 04:30:00
+3.0.0
+* Added submenu option to mute all notifications.
+* Partially fixed compass and battle predictor issue.
+* Support for night and asw support battle phase.
