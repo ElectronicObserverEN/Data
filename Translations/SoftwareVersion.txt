@@ -1,7 +1,5 @@
-﻿2017/11/21 02:00:00
-3.0.1
-* Added land-based ASW plane icon.
-* Fixed tooltip showing night attack power for non-eligible ship.
-* Fixed battle result ranking prediction.
-* Fixed error in air raid.
-* Fixed light color scheme.
+﻿2017/11/22 00:00:00
+3.0.2
+* Fixed bug relating to the 7th ship.
+* Fixed strange behavior relating to day and night battles.
+* Support for 7th ship in Fleet window and Fleet Image Exporter.
