@@ -1,5 +1,7 @@
-﻿2017/11/20 04:30:00
-3.0.0
-* Added submenu option to mute all notifications.
-* Partially fixed compass and battle predictor issue.
-* Support for night and asw support battle phase.
+﻿2017/11/21 02:00:00
+3.0.1
+* Added land-based ASW plane icon.
+* Fixed tooltip showing night attack power for non-eligible ship.
+* Fixed battle result ranking prediction.
+* Fixed error in air raid.
+* Fixed light color scheme.
