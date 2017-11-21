@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.72">
+<Quests Version="1.1.73">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2638,6 +2638,27 @@ Score an S-rank victory against [W3-2] and [W5-4] Boss.</TR-Detail>
     <TR-Name>A82: Form the Escorts of Nishimura 2nd Battleship Division!</TR-Name>
     <JP-Detail>捷一号作戦準備任務：第一遊撃部隊第三部隊の中核となる第二戦隊の随伴艦を編成する。&lt;br&gt;各艦隊から艦艇を抽出、第三艦隊に「最上」「時雨」「満潮」「朝雲」「山雲」を配備せよ！</JP-Detail>
     <TR-Detail>Have Mogami, Asagumo, Michishio, Shigure, and Yamagumo in 3rd Fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>188</ID>
+    <JP-Name>「西村艦隊」完全編成、出撃準備！</JP-Name>
+    <TR-Name>Le1A1: Fully Formed Nishimura Fleet, Prepare to Sortie!</TR-Name>
+    <JP-Detail>第一遊撃部隊(1YB)任務：1YB第三部隊の完全編成を行う！【第三艦隊(第三部隊)】に、&lt;br&gt;「山城」「扶桑」「最上」「満潮」「朝雲」「山雲」「時雨」を配備、「西村艦隊」を編成せよ！</JP-Detail>
+    <TR-Detail>Have Yamashiro, Fusou, Mogami, Michishio, Asagumo, Yamagumo, and Shigure in 3rd Fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>672</ID>
+    <JP-Name>「遊撃部隊」艦隊司令部の創設</JP-Name>
+    <TR-Name>F64: Establishment of the Striking Force&apos;s Fleet Command.</TR-Name>
+    <JP-Detail>遊撃部隊任務：「遊撃部隊 艦隊司令部」を創設する。「艦隊司令部施設」を秘書艦一番スロットに搭載、 &lt;br&gt;電探系装備x3を廃棄、開発資材x10、鋼材x2,000、そして「戦闘詳報」x2を準備せよ！</JP-Detail>
+    <TR-Detail>Have 10 Development Materials, 2000 Steel, and 2 Action Reports. Equip a secretary with a Fleet Command Facility in her first slot. Scrap 3 Radars.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>872</ID>
+    <JP-Name>「捷一号作戦」兵站補給線を確保せよ！</JP-Name>
+    <TR-Name>Le1B1: Secure the Supply Lines for Operation Sho 1!</TR-Name>
+    <JP-Detail>捷号作戦後方任務：有力な艦隊を編成し、作戦第二海域、台湾沖/ルソン島沖に展開、同海域付近で&lt;br&gt;我が後方兵站線攻撃を図る敵艦隊を捕捉、これを複数回撃破、同制海権を確保せよ。</JP-Detail>
+    <TR-Detail>Score two A-rank victory against [W40-2] Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
