@@ -1,5 +1,5 @@
-﻿2017/11/22 00:00:00
-3.0.2
-* Fixed bug relating to the 7th ship.
-* Fixed strange behavior relating to day and night battles.
-* Support for 7th ship in Fleet window and Fleet Image Exporter.
+﻿2017/11/26 00:00:00
+3.0.4
+* Added auto-updater function.
+* Added additional info on fleet tooltip.
+* Fixed bug relating to the battle predictor.
