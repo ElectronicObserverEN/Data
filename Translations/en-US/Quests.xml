@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.73">
+<Quests Version="1.1.74">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2659,6 +2659,35 @@ Score an S-rank victory against [W3-2] and [W5-4] Boss.</TR-Detail>
     <TR-Name>Le1B1: Secure the Supply Lines for Operation Sho 1!</TR-Name>
     <JP-Detail>捷号作戦後方任務：有力な艦隊を編成し、作戦第二海域、台湾沖/ルソン島沖に展開、同海域付近で&lt;br&gt;我が後方兵站線攻撃を図る敵艦隊を捕捉、これを複数回撃破、同制海権を確保せよ。</JP-Detail>
     <TR-Detail>Score two A-rank victory against [W40-2] Boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>873</ID>
+    <JP-Name>北方海域警備を実施せよ！</JP-Name>
+    <TR-Name>Carry out Patrol in the Northern Sea!</TR-Name>
+    <JP-Detail>北方海域警備任務：北方海域の警備を実施する。軽巡を1隻以上含む艦隊で、北方海域モーレイ海、&lt;br&gt;キス島沖、アルフォンシーノ方面に艦隊を展開、北方海域方面の警備と制海権確保に努めよ！</JP-Detail>
+    <TR-Detail>Sortie a CL and up to 5 additional ships. Score an A-rank
+victory against [W3-1], [W3-2], and [W3-3] Boss. (tentative)</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>673</ID>
+    <JP-Name>装備開発力の整備</JP-Name>
+    <TR-Name>Maintenance of Equipment Development Capability</TR-Name>
+    <JP-Detail>工廠整備任務：装備開発力を整備する。「小口径主砲」系装備x4を廃棄せよ！</JP-Detail>
+    <TR-Detail>Scrap four small-caliber guns.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>674</ID>
+    <JP-Name>工廠環境の整備</JP-Name>
+    <TR-Name>Maintenance of the Arsenal Environment</TR-Name>
+    <JP-Detail>工廠整備任務：工廠環境の重整備を実施する。「機銃」系装備x3を廃棄、鋼材300を準備せよ！&lt;br&gt;※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>Have 300 steel and then scrap three AA guns.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>675</ID>
+    <JP-Name>運用装備の統合整備</JP-Name>
+    <TR-Name>Integrated Maintenance of Operation Equipment</TR-Name>
+    <JP-Detail>運用装備統合任務：装備の統合整備を実施する。「艦上戦闘機」系装備x6、「機銃」系装備x4を廃棄、&lt;br&gt;ボーキサイト800を準備(本任務は時局により更新されます)。　※任務達成後、準備資源を消費します。</JP-Detail>
+    <TR-Detail>Have 800 steel and then scrap six carrier-based fighter and four AA guns.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
