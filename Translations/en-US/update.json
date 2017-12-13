@@ -1,9 +1,9 @@
 {
-	"bld_date" : "2017/12/06 00:00:00",
-	"ver" : "3.0.5",
-	"note" : "* Added log to record damecon and lbas air raid.<br>* Changed fleet LOS display.<br>* Fixed bug where status from previous battle will reappear.<br>* Fixed bug where HP text occasionally disappear.<br>* Moved translations folder to localappdata.",
-	"url" : "https://github.com/silfumus/ElectronicObserver/releases/download/v3.0.5/ElectronicObserver305.zip",
-	"hash" : "A1547974FB9F65311BF4D3800EFAE13C8BEB790AA685727221A7F7271F198620",
+	"bld_date" : "2017/12/13 09:00:00",
+	"ver" : "3.0.6.1",
+	"note" : "* Fixed several window and tooltip description was untranslated.<br>* Fixed support scrapping multiple ships.<br>* Support special mechanic for Tama Kai Ni and Arctic Camouflage.",
+	"url" : "https://github.com/silfumus/ElectronicObserver/releases/download/v3.0.6/ElectronicObserver3061.zip",
+	"hash" : "0ECDBB26C33563ABF239AF70BD9552BF0E7C3FF85B2F76144AE95C3B607D09F7",
 	"tl_ver" : {
 		"equipment" : "1.3.52",
 		"equipment_type" : "1.3.81",
