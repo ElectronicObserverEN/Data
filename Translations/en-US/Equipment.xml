@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.52">
+<Equipment Version="1.3.53">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -1015,6 +1015,10 @@
   <Item>
 	<JP-Name>12.7cm連装砲C型改二</JP-Name>
 	<TR-Name>12.7cm Twin Gun Model C Kai 2</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>12.7cm連装砲D型改二</JP-Name>
+	<TR-Name>12.7cm Twin Gun Model D Kai 2</TR-Name>
   </Item>
   <Item>
 	<JP-Name>紫電一一型</JP-Name>
