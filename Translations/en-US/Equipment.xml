@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.53">
+<Equipment Version="1.3.54">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -1069,8 +1069,56 @@
 	<TR-Name>HF/DF + Type 144/147 ASDIC</TR-Name>
   </Item>
   <Item>
+	<JP-Name>紫電改(三四三空) 戦闘301</JP-Name>
+	<TR-Name>Shiden Kai (343rd Air Group) 301st Fighter Squadron</TR-Name>
+  </Item>
+  <Item>
 	<JP-Name>北方迷彩(+北方装備)</JP-Name>
 	<TR-Name>Arctic Camouflage (+ Arctic Equipment)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>彩雲(偵四)</JP-Name>
+	<TR-Name>Saiun (4th Recon)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>12cm30連装噴進砲改二</JP-Name>
+	<TR-Name>12cm 30-tube Rocket Launcher Kai Ni</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>10cm連装高角砲改+増設機銃</JP-Name>
+	<TR-Name>10cm Twin High-angle Gun Kai + Additional Machine Guns</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>46cm三連装砲改</JP-Name>
+	<TR-Name>46cm Triple Gun Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>SK レーダー</JP-Name>
+	<TR-Name>SK Radar</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>SK+SG レーダー</JP-Name>
+	<TR-Name>SK+SG Radar</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>QF 4.7inch砲 Mk.XII改</JP-Name>
+	<TR-Name>QF 4.7inch Gun Mk.XII Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>51cm連装砲</JP-Name>
+	<TR-Name>51cm Twin Gun</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>130mm B-13連装砲</JP-Name>
+	<TR-Name>130mm B-13 Twin Gun</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>533mm 三連装魚雷</JP-Name>
+	<TR-Name>533mm Triple Torpedo</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>5inch単装砲 Mk.30</JP-Name>
+	<TR-Name>5inch Single Gun Mk.30</TR-Name>
   </Item>
   <Item>
 	<JP-Name></JP-Name>
@@ -1402,6 +1450,26 @@
   <Item>
 	<JP-Name>深海待伏魚雷</JP-Name>
 	<TR-Name>Abyssal Ambush Torpedo</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>夜猫深海艦戦</JP-Name>
+	<TR-Name>Abyssal Ambush Torpedo</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>夜深海艦爆</JP-Name>
+	<TR-Name>Abyssal Night Dive Bomber</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>夜復讐深海艦攻</JP-Name>
+	<TR-Name>Abyssal Night Revenge Torpedo Bomber</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海14inch連装砲改</JP-Name>
+	<TR-Name>Abyssal 14inch Twin Gun Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海16inch三連装砲改</JP-Name>
+	<TR-Name>Abyssal 16inch Triple Gun Kai</TR-Name>
   </Item>
   <Item>
 	<JP-Name></JP-Name>

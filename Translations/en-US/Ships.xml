@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.4.21">
+<Ships Version="1.4.22">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -1116,6 +1116,34 @@
     <TR-Name>Tsushima</TR-Name>
   </Ship>
   <Ship>
+    <JP-Name>日振</JP-Name>
+    <TR-Name>Hiburi</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>大東</JP-Name>
+    <TR-Name>Daitou</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Gambier Bay</JP-Name>
+    <TR-Name>Gambier Bay</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Jervis</JP-Name>
+    <TR-Name>Jervis</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Tashkent</JP-Name>
+    <TR-Name>Tashkent</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Intrepid</JP-Name>
+    <TR-Name>Intrepid</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Ship>
+  <Ship>
     <JP-Name></JP-Name>
     <TR-Name></TR-Name>
   </Ship>
@@ -1425,6 +1453,14 @@
   <Ship>
     <JP-Name>防空埋護姫</JP-Name>
     <TR-Name>Confined Air Defense Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>護衛棲水姫</JP-Name>
+    <TR-Name>Escort Water Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>深海鶴棲姫</JP-Name>
+    <TR-Name>Abyssal Crane Princess</TR-Name>
   </Ship>
 
   <Ship mode="suffix">
