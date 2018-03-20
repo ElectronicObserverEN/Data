@@ -2,7 +2,7 @@
 	"bld_date" : "2018/03/14 08:00:00",
 	"ver" : "3.1.1",
 	"note" : "Electronic Observer 3.1.1.",
-	"url" : "https://github.com/silfumus/ElectronicObserver/releases/download/v3.1.1/ElectronicObserver311.zip",
+	"url" : "http://github.com/silfumus/ElectronicObserver/releases/download/v3.1.1/ElectronicObserver311.zip",
 	"hash" : "C3DE24C472CE112949E8E4A4E1E0A000EE67B37DF1EFB82014E20F4E8065F7E0",
 	"tl_ver" : {
 		"equipment" : "1.3.54",
