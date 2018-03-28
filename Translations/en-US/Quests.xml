@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.77">
+<Quests Version="1.1.78">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2724,6 +2724,62 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Name>Weekly Gun Dismantlement</TR-Name>
     <JP-Detail>工廠環境の集中整備を実施する！「中口径主砲」系装備x3、「副砲」系装備x3、「ドラム缶(輸送用)」x1&lt;br&gt;を廃棄、鋼材2,400を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
     <TR-Detail>Have 2400 Steel and then scrap three medium guns, three secondary guns, and one drum.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>189</ID>
+    <JP-Name>精鋭「四水戦」抜錨準備！</JP-Name>
+    <TR-Name>A84: Elite DesRon 4, Prepare to Set Sail!</TR-Name>
+    <JP-Detail>四水戦(4Sd)特別編成：「村雨改二」旗艦と精鋭四水戦「由良改二」「夕立改二」「春雨改」「五月雨改」&lt;br&gt;「秋月改」より3隻、さらに主力艦2隻を配備した、有力な特務艦隊を編成、南方海域出撃に備えよ！</JP-Detail>
+    <TR-Detail>Fill an entire six-ship fleet with Murasame Kai Ni as flagship, 3+ of Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai or Akizuki Kai and your choice of other ships.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>190</ID>
+    <JP-Name>精鋭「第二一駆逐隊」、抜錨準備！</JP-Name>
+    <TR-Name>A85: Elite 21st Destroyer Division, Prepare to Set Sail!</TR-Name>
+    <JP-Detail>精鋭駆逐隊編成任務：捷一号作戦を支援する。同決戦正面の基地航空への資材輸送任務のため、&lt;br&gt;「若葉改」「初春改二」「初霜改二」を含む3～4隻の精鋭「第二一駆逐隊」の編成を完了せよ！</JP-Detail>
+    <TR-Detail>Have Wakaba Kai, Hatsuharu Kai Ni and Hatsushimo Kai Ni, up to 1 other DD, and no other ships in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>320</ID>
+    <JP-Name>駆逐隊、特訓始め！</JP-Name>
+    <TR-Name>C18: Destroyer Division, Commence Intensive Training!</TR-Name>
+    <JP-Detail>駆逐隊演習任務：駆逐艦4隻で編成される駆逐隊。この駆逐隊を含む艦隊を編成。&lt;br&gt;特訓を開始する！同艦隊で本日中に演習にて4回以上勝利せよ！</JP-Detail>
+    <TR-Detail>Secure 4 victories in Exercises within the same day using 4 DD and up to 2 additional ships.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>677</ID>
+    <JP-Name>継戦支援能力の整備</JP-Name>
+    <TR-Name>F69: Weekly Dismantlement 2</TR-Name>
+    <JP-Detail>艦娘の継戦支援体制の整備強化を実施する！「大口径主砲」系装備x4、「水上偵察機」系装備x2、&lt;br&gt;「魚雷」系装備x3を廃棄、鋼材3,600を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>Have 3600 Steel. Scrap 4 Large Cal. Main Guns, 2 Recon Seaplanes and 3 Torpedoes.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>678</ID>
+    <JP-Name>主力艦上戦闘機の更新</JP-Name>
+    <TR-Name>F70: Quarterly Shiden Kai Ni and Materials</TR-Name>
+    <JP-Detail>艦上戦闘機「九六式艦戦」x3、「零式艦戦21型」x5を廃棄。秘書艦の一番及び二番装備スロットに&lt;br&gt;「零式艦戦52型」を装備。ボーキサイト4,000を準備せよ。※任務達成後、準備資源は消費します。</JP-Detail>
+    <TR-Detail>Have 4000 Bauxite. Equip a secretary with Type 0 Fighter Model 52s in her first two slots. Scrap 3 Type 96 Fighters and 5 Type 0 Fighter Model 21s.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>679</ID>
+    <JP-Name>対空兵装の拡充</JP-Name>
+    <TR-Name>F71: An Expansion of Anti-Air Armaments</TR-Name>
+    <JP-Detail>対空兵装の整備拡充を実施する！「中口径主砲」系装備x6、「副砲」系装備x3を廃棄、&lt;br&gt;ボーキサイト900を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>Have 900 Bauxite. Scrap 6 Medium Cal. Main Guns and 3 Secondary Guns.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>876</ID>
+    <JP-Name>松輸送作戦、開始せよ！</JP-Name>
+    <TR-Name>B111: Matsu Transport Operation, Commence!</TR-Name>
+    <JP-Detail>防衛ラインの強化のため、艦隊旗艦「龍田改二」または「龍田改」、3隻以上の駆逐艦または海防艦を&lt;br&gt;含む輸送護衛艦隊を編成、南西諸島防衛線及び鎮守府近海航路における作戦を複数回成功させよ！</JP-Detail>
+    <TR-Detail>Sortie Tatsuta Kai or Kai Ni as flagship and 3+ DE/DD to [W1-4] and [W1-6]. A-Rank+ the [W1-4] boss node twice. Reach [W1-6] node N twice.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>879</ID>
+    <JP-Name>新編「四航戦」、全力出撃！</JP-Name>
+    <TR-Name>B114: New CarDiv 4, Sortie at Full Strength!</TR-Name>
+    <JP-Detail>航空戦艦「伊勢改」「日向改」及び軽巡「大淀改」と1隻以上の駆逐艦を含む新編第四航空戦隊を編成、&lt;br&gt;鎮守府近海航路、沖ノ島沖及び北方AL海域戦闘哨戒、カレー洋リランカ島沖の作戦に投入せよ！</JP-Detail>
+    <TR-Detail>Sortie Ise Kai, Hyuuga Kai, Ooyodo Kai, at least 1 DD and up to 2 other ships [W1-6], [W2-5], [W3-5] and [W4-5]. Reach [W1-6] node N and A-Rank+ the boss nodes.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
