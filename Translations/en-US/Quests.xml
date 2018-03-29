@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.78">
+<Quests Version="1.1.79">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2719,9 +2719,9 @@ Yuugumo-Class Destroyers.</TR-Detail>
 either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>F68w3</ID>
+    <ID>676</ID>
     <JP-Name>装備開発力の集中整備</JP-Name>
-    <TR-Name>Weekly Gun Dismantlement</TR-Name>
+    <TR-Name>F68w3: Weekly Gun Dismantlement</TR-Name>
     <JP-Detail>工廠環境の集中整備を実施する！「中口径主砲」系装備x3、「副砲」系装備x3、「ドラム缶(輸送用)」x1&lt;br&gt;を廃棄、鋼材2,400を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
     <TR-Detail>Have 2400 Steel and then scrap three medium guns, three secondary guns, and one drum.</TR-Detail>
   </Quest>
@@ -2738,6 +2738,27 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Name>A85: Elite 21st Destroyer Division, Prepare to Set Sail!</TR-Name>
     <JP-Detail>精鋭駆逐隊編成任務：捷一号作戦を支援する。同決戦正面の基地航空への資材輸送任務のため、&lt;br&gt;「若葉改」「初春改二」「初霜改二」を含む3～4隻の精鋭「第二一駆逐隊」の編成を完了せよ！</JP-Detail>
     <TR-Detail>Have Wakaba Kai, Hatsuharu Kai Ni and Hatsushimo Kai Ni, up to 1 other DD, and no other ships in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>191</ID>
+    <JP-Name></JP-Name>
+    <TR-Name>A86: Remodeled 17th Destroyer Division, Commence Restructuring!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>Have ONLY Hamakaze Kai B, Isokaze Kai B, Urakaze Kai and Tanikaze Kai in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>318</ID>
+    <JP-Name>給糧艦「伊良湖」の支援</JP-Name>
+    <TR-Name>C16: Monthly Exercises 2</TR-Name>
+    <JP-Detail>伊良湖支援任務：軽巡を2隻以上配備した第一艦隊で本日中に演習で3回「勝利」、その後、&lt;br&gt;第一艦隊旗艦に戦闘糧食を二つ装備せよ！　※任務達成後、同戦闘糧食は消費します</JP-Detail>
+    <TR-Detail>Secure 3 victories in Exercises using 2 CLs. Afterwards, equip the Fleet 1 flagship with 2 Combat Rations.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>319</ID>
+    <JP-Name></JP-Name>
+    <TR-Name>C17: Elite 21st Destroyer Division, Train Intensively!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>Secure 4 victories in Exercises within the same day using Hatsuharu Kai Ni, Wakaba Kai, Hatsushimo Kai Ni and up to 3 other ships.</TR-Detail>
   </Quest>
   <Quest>
     <ID>320</ID>
@@ -2768,6 +2789,13 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Detail>Have 900 Bauxite. Scrap 6 Medium Cal. Main Guns and 3 Secondary Guns.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>680</ID>
+    <JP-Name>対空兵装の整備拡充</JP-Name>
+    <TR-Name>F72: Quarterly AA Guns</TR-Name>
+    <JP-Detail>対空兵装の整備拡充を継続実施する！「機銃」系装備x4、「電探」系装備x4を廃棄、&lt;br&gt;ボーキサイト1,500を準備せよ！　※任務達成後、準備した資源は消費します</JP-Detail>
+    <TR-Detail>Have 1500 Bauxite. Scrap 4 AA Machine Guns and 4 Radars.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>876</ID>
     <JP-Name>松輸送作戦、開始せよ！</JP-Name>
     <TR-Name>B111: Matsu Transport Operation, Commence!</TR-Name>
@@ -2775,11 +2803,32 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Detail>Sortie Tatsuta Kai or Kai Ni as flagship and 3+ DE/DD to [W1-4] and [W1-6]. A-Rank+ the [W1-4] boss node twice. Reach [W1-6] node N twice.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>877</ID>
+    <JP-Name></JP-Name>
+    <TR-Name>B112: Elite DesRon 4, Deploy to the Southern Region!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>Sortie Murasame Kai Ni as flagship and 3+ of Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai or Akizuki Kai to [W5-1], [W5-3] and [W5-4]. A-Rank+ the bosses.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>878</ID>
+    <JP-Name></JP-Name>
+    <TR-Name>B113: Continue to Execute the Matsu Transport Operation!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>Sortie a CL(T)/CT/DD as flagship and 3 or more additional DE/DD to [W1-4] and [W1-6]. A-Rank+ the [W1-4] boss node three times. Reach [W1-6] node N three times.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>879</ID>
     <JP-Name>新編「四航戦」、全力出撃！</JP-Name>
     <TR-Name>B114: New CarDiv 4, Sortie at Full Strength!</TR-Name>
     <JP-Detail>航空戦艦「伊勢改」「日向改」及び軽巡「大淀改」と1隻以上の駆逐艦を含む新編第四航空戦隊を編成、&lt;br&gt;鎮守府近海航路、沖ノ島沖及び北方AL海域戦闘哨戒、カレー洋リランカ島沖の作戦に投入せよ！</JP-Detail>
     <TR-Detail>Sortie Ise Kai, Hyuuga Kai, Ooyodo Kai, at least 1 DD and up to 2 other ships [W1-6], [W2-5], [W3-5] and [W4-5]. Reach [W1-6] node N and A-Rank+ the boss nodes.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>880</ID>
+    <JP-Name></JP-Name>
+    <TR-Name>B115: Elite Destroyer Division, Wreak Havoc!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>Sortie 4 DD and up to 2 additional ships [W1-6], [W2-3], [W3-2] and [W4-2]. Reach [W1-6] node N and A-Rank+ the boss nodes.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
