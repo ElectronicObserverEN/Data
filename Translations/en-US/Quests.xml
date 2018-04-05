@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.79">
+<Quests Version="1.1.80">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2728,7 +2728,7 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
   <Quest>
     <ID>189</ID>
     <JP-Name>精鋭「四水戦」抜錨準備！</JP-Name>
-    <TR-Name>A84: Elite DesRon 4, Prepare to Set Sail!</TR-Name>
+    <TR-Name>A84: Elite 4th Destroyer Squadron, Prepare to Set Sail!</TR-Name>
     <JP-Detail>四水戦(4Sd)特別編成：「村雨改二」旗艦と精鋭四水戦「由良改二」「夕立改二」「春雨改」「五月雨改」&lt;br&gt;「秋月改」より3隻、さらに主力艦2隻を配備した、有力な特務艦隊を編成、南方海域出撃に備えよ！</JP-Detail>
     <TR-Detail>Fill an entire six-ship fleet with Murasame Kai Ni as flagship, 3+ of Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai or Akizuki Kai and your choice of other ships.</TR-Detail>
   </Quest>
@@ -2770,14 +2770,14 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
   <Quest>
     <ID>677</ID>
     <JP-Name>継戦支援能力の整備</JP-Name>
-    <TR-Name>F69: Weekly Dismantlement 2</TR-Name>
+    <TR-Name>F69w4: Weekly Dismantlement 2</TR-Name>
     <JP-Detail>艦娘の継戦支援体制の整備強化を実施する！「大口径主砲」系装備x4、「水上偵察機」系装備x2、&lt;br&gt;「魚雷」系装備x3を廃棄、鋼材3,600を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
     <TR-Detail>Have 3600 Steel. Scrap 4 Large Cal. Main Guns, 2 Recon Seaplanes and 3 Torpedoes.</TR-Detail>
   </Quest>
   <Quest>
     <ID>678</ID>
     <JP-Name>主力艦上戦闘機の更新</JP-Name>
-    <TR-Name>F70: Quarterly Shiden Kai Ni and Materials</TR-Name>
+    <TR-Name>F70q5: Quarterly Shiden Kai Ni and Materials</TR-Name>
     <JP-Detail>艦上戦闘機「九六式艦戦」x3、「零式艦戦21型」x5を廃棄。秘書艦の一番及び二番装備スロットに&lt;br&gt;「零式艦戦52型」を装備。ボーキサイト4,000を準備せよ。※任務達成後、準備資源は消費します。</JP-Detail>
     <TR-Detail>Have 4000 Bauxite. Equip a secretary with Type 0 Fighter Model 52s in her first two slots. Scrap 3 Type 96 Fighters and 5 Type 0 Fighter Model 21s.</TR-Detail>
   </Quest>
@@ -2791,8 +2791,8 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
   <Quest>
     <ID>680</ID>
     <JP-Name>対空兵装の整備拡充</JP-Name>
-    <TR-Name>F72: Quarterly AA Guns</TR-Name>
-    <JP-Detail>対空兵装の整備拡充を継続実施する！「機銃」系装備x4、「電探」系装備x4を廃棄、&lt;br&gt;ボーキサイト1,500を準備せよ！　※任務達成後、準備した資源は消費します</JP-Detail>
+    <TR-Name>F72q6: Quarterly AA Guns</TR-Name>
+    <JP-Detail>対空兵装の整備拡充を継続実施する！「機銃」系装備x4、「電探」系装備x4を廃棄、&lt;br&gt;ボーキサイト1,500を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
     <TR-Detail>Have 1500 Bauxite. Scrap 4 AA Machine Guns and 4 Radars.</TR-Detail>
   </Quest>
   <Quest>
@@ -2805,7 +2805,7 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
   <Quest>
     <ID>877</ID>
     <JP-Name></JP-Name>
-    <TR-Name>B112: Elite DesRon 4, Deploy to the Southern Region!</TR-Name>
+    <TR-Name>B112: Elite 4th Destroyer Squadron, Deploy to the Southern Region!</TR-Name>
     <JP-Detail></JP-Detail>
     <TR-Detail>Sortie Murasame Kai Ni as flagship and 3+ of Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai or Akizuki Kai to [W5-1], [W5-3] and [W5-4]. A-Rank+ the bosses.</TR-Detail>
   </Quest>
@@ -2819,7 +2819,7 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
   <Quest>
     <ID>879</ID>
     <JP-Name>新編「四航戦」、全力出撃！</JP-Name>
-    <TR-Name>B114: New CarDiv 4, Sortie at Full Strength!</TR-Name>
+    <TR-Name>B114: New 4th Carrier Division, Sortie at Full Strength!</TR-Name>
     <JP-Detail>航空戦艦「伊勢改」「日向改」及び軽巡「大淀改」と1隻以上の駆逐艦を含む新編第四航空戦隊を編成、&lt;br&gt;鎮守府近海航路、沖ノ島沖及び北方AL海域戦闘哨戒、カレー洋リランカ島沖の作戦に投入せよ！</JP-Detail>
     <TR-Detail>Sortie Ise Kai, Hyuuga Kai, Ooyodo Kai, at least 1 DD and up to 2 other ships [W1-6], [W2-5], [W3-5] and [W4-5]. Reach [W1-6] node N and A-Rank+ the boss nodes.</TR-Detail>
   </Quest>
