@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.80">
+<Quests Version="1.1.81">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2741,9 +2741,9 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
   </Quest>
   <Quest>
     <ID>191</ID>
-    <JP-Name></JP-Name>
+    <JP-Name>改装「第十七駆逐隊」、再編始め！</JP-Name>
     <TR-Name>A86: Remodeled 17th Destroyer Division, Commence Restructuring!</TR-Name>
-    <JP-Detail></JP-Detail>
+    <JP-Detail>改装駆逐隊編成任務：改装した陽炎型駆逐艦「浦風改」「谷風改」、そして対空戦闘の激化に備え、&lt;br&gt;対空兵装を軸に大幅強化改装した「磯風乙改」「浜風乙改」による「第十七駆逐隊」を再編せよ！</JP-Detail>
     <TR-Detail>Have ONLY Hamakaze Kai B, Isokaze Kai B, Urakaze Kai and Tanikaze Kai in your fleet.</TR-Detail>
   </Quest>
   <Quest>
@@ -2755,9 +2755,9 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
   </Quest>
   <Quest>
     <ID>319</ID>
-    <JP-Name></JP-Name>
+    <JP-Name>精鋭「第二一駆」、猛特訓！</JP-Name>
     <TR-Name>C17: Elite 21st Destroyer Division, Train Intensively!</TR-Name>
-    <JP-Detail></JP-Detail>
+    <JP-Detail>駆逐隊演習任務：精鋭「第二一駆逐隊」3隻を含む艦隊を編成。作戦に先立ち、猛特訓を開始する！&lt;br&gt;同艦隊で、本日中に演習で4回勝利せよ！</JP-Detail>
     <TR-Detail>Secure 4 victories in Exercises within the same day using Hatsuharu Kai Ni, Wakaba Kai, Hatsushimo Kai Ni and up to 3 other ships.</TR-Detail>
   </Quest>
   <Quest>
@@ -2804,16 +2804,16 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
   </Quest>
   <Quest>
     <ID>877</ID>
-    <JP-Name></JP-Name>
+    <JP-Name>精鋭「四水戦」、南方海域に展開せよ！</JP-Name>
     <TR-Name>B112: Elite 4th Destroyer Squadron, Deploy to the Southern Region!</TR-Name>
-    <JP-Detail></JP-Detail>
+    <JP-Detail>「村雨改二」旗艦含む精鋭四水戦(4Sd)より4隻(他主力艦2隻)計6隻の精鋭艦隊を南方海域に展開。&lt;br&gt;南方海域前面、サブ島沖海域、サーモン海域に突入、同南方海域方面の敵艦隊を撃破せよ！</JP-Detail>
     <TR-Detail>Sortie Murasame Kai Ni as flagship and 3+ of Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai or Akizuki Kai to [W5-1], [W5-3] and [W5-4]. A-Rank+ the bosses.</TR-Detail>
   </Quest>
   <Quest>
     <ID>878</ID>
-    <JP-Name></JP-Name>
+    <JP-Name>松輸送作戦、継続実施せよ！</JP-Name>
     <TR-Name>B113: Continue to Execute the Matsu Transport Operation!</TR-Name>
-    <JP-Detail></JP-Detail>
+    <JP-Detail>艦隊旗艦に軽巡級または駆逐艦、さらに3隻以上の駆逐艦または海防艦を含む輸送護衛艦隊を編成、&lt;br&gt;防衛ラインの強化のため、南西諸島防衛線及び鎮守府近海航路における作戦を継続的に成功させよ！</JP-Detail>
     <TR-Detail>Sortie a CL(T)/CT/DD as flagship and 3 or more additional DE/DD to [W1-4] and [W1-6]. A-Rank+ the [W1-4] boss node three times. Reach [W1-6] node N three times.</TR-Detail>
   </Quest>
   <Quest>
@@ -2825,9 +2825,9 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
   </Quest>
   <Quest>
     <ID>880</ID>
-    <JP-Name></JP-Name>
+    <JP-Name>精鋭駆逐隊、獅子奮迅！</JP-Name>
     <TR-Name>B115: Elite Destroyer Division, Wreak Havoc!</TR-Name>
-    <JP-Detail></JP-Detail>
+    <JP-Detail>十分な装備と練度を誇る駆逐艦4隻からなる精鋭駆逐隊を含む艦隊を編成。鎮守府近海航路、&lt;br&gt;東部オリョール海、北方キス島沖、西方カレー洋に投入、各戦線の作戦展開を成功させよ！</JP-Detail>
     <TR-Detail>Sortie 4 DD and up to 2 additional ships [W1-6], [W2-3], [W3-2] and [W4-2]. Reach [W1-6] node N and A-Rank+ the boss nodes.</TR-Detail>
   </Quest>
   <Quest>
