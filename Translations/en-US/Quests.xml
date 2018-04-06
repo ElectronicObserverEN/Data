@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.81">
+<Quests Version="1.1.82">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2829,6 +2829,20 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Name>B115: Elite Destroyer Division, Wreak Havoc!</TR-Name>
     <JP-Detail>十分な装備と練度を誇る駆逐艦4隻からなる精鋭駆逐隊を含む艦隊を編成。鎮守府近海航路、&lt;br&gt;東部オリョール海、北方キス島沖、西方カレー洋に投入、各戦線の作戦展開を成功させよ！</JP-Detail>
     <TR-Detail>Sortie 4 DD and up to 2 additional ships [W1-6], [W2-3], [W3-2] and [W4-2]. Reach [W1-6] node N and A-Rank+ the boss nodes.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>192</ID>
+    <JP-Name>精鋭「第十八駆逐隊」を編成せよ！</JP-Name>
+    <TR-Name>A87: Organize the Elite 18th Destroyer Division!</TR-Name>
+    <JP-Detail>精鋭駆逐隊編成任務：「霰改二」「霞改二/改二乙」「陽炎改」「不知火改」4隻による&lt;br&gt;精鋭「第十八駆逐隊」を編成せよ！</JP-Detail>
+    <TR-Detail>Have Arare Kai Ni, Kasumi Kai Ni/B, Kagerou Kai, and Shiranui Kai in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>881</ID>
+    <JP-Name>「十八駆」、北方海域キス島へ！</JP-Name>
+    <TR-Name>B116: 18th Destroyer Division, to Kis Island in the Northern Sea!</TR-Name>
+    <JP-Detail>精鋭「第十八駆逐隊」を投入し、北方海域キス島撤退作戦を実施する！&lt;br&gt;同作戦に反復出動し、キス島撤退作戦を完全成功させよ！</JP-Detail>
+    <TR-Detail>Sortie Arare Kai Ni, Kasumi Kai Ni/B, Kagerou Kai, and Shiranui Kai to [W3-2] and S-rank the boss node twice(?).</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
