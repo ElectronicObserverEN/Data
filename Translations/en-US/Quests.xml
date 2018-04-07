@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.82">
+<Quests Version="1.1.83">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1306,7 +1306,7 @@ score an S rank victory at the World 2-5 boss.</TR-Detail>
     <ID>315</ID>
     <JP-Name>春季大演習</JP-Name>
     <TR-Name>C12: Spring Large-scale Exercises</TR-Name>
-    <JP-Detail>春の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！</JP-Detail>
+    <JP-Detail>春季大演習：春の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！</JP-Detail>
     <TR-Detail>Get 8 victories in exercises within the same day.</TR-Detail>
   </Quest>
   <Quest>
