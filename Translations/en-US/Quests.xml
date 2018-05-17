@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.83">
+<Quests Version="1.1.84">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2843,6 +2843,104 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Name>B116: 18th Destroyer Division, to Kis Island in the Northern Sea!</TR-Name>
     <JP-Detail>精鋭「第十八駆逐隊」を投入し、北方海域キス島撤退作戦を実施する！&lt;br&gt;同作戦に反復出動し、キス島撤退作戦を完全成功させよ！</JP-Detail>
     <TR-Detail>Sortie Arare Kai Ni, Kasumi Kai Ni/B, Kagerou Kai, and Shiranui Kai to [W3-2] and S-rank the boss node twice(?).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>321</ID>
+    <JP-Name>五周年任務【肆：演習】</JP-Name>
+    <TR-Name>5A04: Fifth Anniversary Mission IV: Exercises</TR-Name>
+    <JP-Detail>五周年任務：駆逐艦または海防艦2隻以上を含む五隻の特別編成の艦隊を編成！&lt;br&gt;この五周年特別艦隊で、本日中に演習で4回以上勝利せよ！</JP-Detail>
+    <TR-Detail>Secure 4 victories in Exercises within the same day using 2 DD/DE and 3 additional ships.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>681</ID>
+    <JP-Name>五周年任務【壱：工廠】</JP-Name>
+    <TR-Name>5A01: Fifth Anniversary Mission I: The Arsenal</TR-Name>
+    <JP-Detail>五周年任務：艦隊五周年特別任務群を開始する！同任務群は全五任務で構成。まずは工廠の整理から！&lt;br&gt;「小口径主砲」系装備x5 及び「中口径主砲」系装備x5 を廃棄、工廠環境の向上と整理整頓を実施せよ！</JP-Detail>
+    <TR-Detail>Scrap 5 Small Cal. Main Guns and 5 Medium Cal. Main Guns.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>706</ID>
+    <JP-Name>五周年任務【参：近代化改修】</JP-Name>
+    <TR-Name>5A03: Fifth Anniversary Mission III: Modernization</TR-Name>
+    <JP-Detail>五周年任務：鉄鋼555及びボーキサイト555を準備して、任意の海防艦の近代化改修を[駆逐艦]x5隻&lt;br&gt;同時使用により2回成功させよ！※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>Have 555 steel and bauxite. Successfully modernize a DE using 5 DD twice.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>882</ID>
+    <JP-Name>五周年任務【弐：鎮守府海域警戒】</JP-Name>
+    <TR-Name>5A04: Fifth Anniversary Mission IV: Exercises</TR-Name>
+    <JP-Detail>五周年任務：軽巡クラスを旗艦に配備、駆逐艦または海防艦3隻以上を含む五周年艦隊で、鎮守府海域&lt;br&gt;(同正面海域/南西諸島沖/製油所地帯沿岸/南西諸島防衛線/鎮守府近海)の警戒防衛任務にあたれ！</JP-Detail>
+    <TR-Detail>Secure 4 victories in Exercises within the same day using 2 DD/DE and 3 additional ships. You cannot use a 6th ship.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>883</ID>
+    <JP-Name>五周年任務【伍：五周年艦隊出撃！】</JP-Name>
+    <TR-Name>5A05: Fifth Anniversary Mission V: The Fifth Anniversary Fleet Sortie!</TR-Name>
+    <JP-Detail>五周年任務：軽巡クラス１隻、駆逐艦または海防艦2隻以上を含む五周年艦隊で、1)南西諸島海域全作戦&lt;br&gt;2)南方サブ島沖海域及びサーモン海域北方  3)中部海域KW環礁沖海域  いずれかの作戦を成功させよ！</JP-Detail>
+    <TR-Detail>Sortie a CL(T)/CT, 2 DD/DE and up to 3 additional ships. Pick one of these: A-Rank+ all [W2] maps OR A-Rank+ [W5-3] and [W5-5] OR A-Rank+ [W6-5].</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>505</ID>
+    <JP-Name>主計科任務【おにぎりを作る！】</JP-Name>
+    <TR-Name>Su01: Accounting Department Mission: Time to Make Onigiri!</TR-Name>
+    <JP-Detail>主計科任務：回収した「お米」炊いて、「おにぎり」を作ろう。&lt;br&gt;海の上で食う握り飯は……美味いぞ！</JP-Detail>
+    <TR-Detail>Collect 5 Rice and make an Onigiri.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>506</ID>
+    <JP-Name>主計科任務【おにぎりを振舞おう！】</JP-Name>
+    <TR-Name>Su02: Accounting Department Mission: Treat Everyone to Some Onigiri!</TR-Name>
+    <JP-Detail>主計科任務：「お米」一杯炊いて、「おにぎり」を新たに3回作るかも。&lt;br&gt;工廠の皆に差し入れで振舞いたいかも！　※任務達成後、作った戦闘糧食は消費します。</JP-Detail>
+    <TR-Detail>Collect 15 Rice and make 3 Onigiri.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>507</ID>
+    <JP-Name>主計科任務【高級おにぎりを作る！】</JP-Name>
+    <TR-Name>Su03: Accounting Department Mission: Time to Make High-Class Onigiri!</TR-Name>
+    <JP-Detail>主計科任務：美味しい「お米」と「梅干」と「海苔」で、「高級おにぎり」を作りましょう。&lt;br&gt;いい食材で、丁寧に作った握り飯は……美味しい！提督、美味しいです！</JP-Detail>
+    <TR-Detail>Collect 6 Rice, 2 Umeboshi and 3 Nori to make a High-Class Onigiri.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>508</ID>
+    <JP-Name>主計科任務【差し入れ！高級おにぎり】</JP-Name>
+    <TR-Name>Su04: Accounting Department Mission: Supplies Incoming! High-Class Rice Balls</TR-Name>
+    <JP-Detail>主計科任務：そうだ、提督、いいこと考えました！この美味しい「高級おにぎり」を一杯作って&lt;br&gt;空技廠の皆さんに差し入れしましょう！ね、加賀さん！(※高級おにぎりを後2回作りましょう)</JP-Detail>
+    <TR-Detail>Collect 12 Rice, 4 Umeboshi, and 6 Nori. Then make 2 High-Class Onigiri.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>509</ID>
+    <JP-Name>主計科任務【お茶漬けを作る！】</JP-Name>
+    <TR-Name>Su05: Accounting Department Mission: Time to Make Ochazuke!</TR-Name>
+    <JP-Detail>主計科任務：「お米」と「梅干」と「海苔」、そして良い「お茶」で、「お茶漬け」を作りましょう。&lt;br&gt;さらさら～っと食べれるお茶漬けは、夜食にも、飲みの後の〆の一杯としても最高ですね！</JP-Detail>
+    <TR-Detail>Collect 8 Rice, 3 Umeboshi, 3 Nori, 4 Tea, and make Ochazuke.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>510</ID>
+    <JP-Name>主計科任務　【お茶漬け、夜食にどうぞ！】</JP-Name>
+    <TR-Name>Su06: Accounting Department Mission: Here, Have Some Ochazuke for Supper!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>Collect 16 Rice, 6 Umeboshi, 6 Nori, 8 Tea, and make 2 Ochazuke.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>511</ID>
+    <JP-Name>主計科任務　【海苔巻きを作ろう！】</JP-Name>
+    <TR-Name>Su07: Accounting Department Mission: Let&apos;s Make Nori Rolls!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>Collect 12 Rice and 6 Nori.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>512</ID>
+    <JP-Name>主計科任務　【和定食膳を作って完食！】</JP-Name>
+    <TR-Name>Su08: Accounting Department Mission: Make a Japanese Set Meal and Eat Up!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>Collect 26 Rice, 5 Umeboshi, 6 Nori, and 7 Tea. Then make 1 Japanese Meal Set and 3 Onigiri.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>513</ID>
+    <JP-Name>主計科拡張任務　【日の丸弁当、量産！】</JP-Name>
+    <TR-Name>Su09: Accounting Department Extra Mission: Rising Sun Lunch Boxes for Everyone!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail></TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
