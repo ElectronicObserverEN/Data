@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.4.24">
+<Ships Version="1.4.25">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -1140,8 +1140,12 @@
     <TR-Name>Intrepid</TR-Name>
   </Ship>
   <Ship>
-    <JP-Name></JP-Name>
-    <TR-Name></TR-Name>
+    <JP-Name>福江</JP-Name>
+    <TR-Name>Fukae</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Samuel B.Roberts</JP-Name>
+    <TR-Name>Samuel B. Roberts</TR-Name>
   </Ship>
   <Ship>
     <JP-Name></JP-Name>
