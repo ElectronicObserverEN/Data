@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.57">
+<Equipment Version="1.3.58">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -1142,11 +1142,11 @@
   </Item>
   <Item>
 	<JP-Name>35.6cm三連装砲改(ダズル迷彩仕様)</JP-Name>
-	<TR-Name>35.6cm Triple Gun Mount Kai (Dazzle Camouflage)</TR-Name>
+	<TR-Name>35.6cm Triple Gun Kai (Dazzle Camouflage)</TR-Name>
   </Item>
   <Item>
 	<JP-Name>41cm三連装砲改二</JP-Name>
-	<TR-Name>41cm Triple Gun Mount Kai Ni</TR-Name>
+	<TR-Name>41cm Triple Gun Kai Ni</TR-Name>
   </Item>
   <Item>
 	<JP-Name>彗星二二型(六三四空)</JP-Name>
@@ -1158,35 +1158,35 @@
   </Item>
   <Item>
 	<JP-Name>12cm単装砲改二</JP-Name>
-	<TR-Name>12cm Single Gun Mount Kai 2</TR-Name>
+	<TR-Name>12cm Single Gun Kai 2</TR-Name>
   </Item>
   <Item>
 	<JP-Name>12.7cm連装砲A型改二</JP-Name>
-	<TR-Name>12.7cm Twin Gun Mount Model A Kai 2</TR-Name>
+	<TR-Name>12.7cm Twin Gun Model A Kai 2</TR-Name>
   </Item>
   <Item>
 	<JP-Name>12.7cm連装砲A型改三(戦時改修)+高射装置</JP-Name>
-	<TR-Name>12.7cm Twin Gun Mount Model A Kai 3 (Wartime Modification) + AAFD</TR-Name>
+	<TR-Name>12.7cm Twin Gun Model A Kai 3 (Wartime Modification) + AAFD</TR-Name>
   </Item>
   <Item>
 	<JP-Name>12.7cm連装砲B型改四(戦時改修)+高射装置</JP-Name>
-	<TR-Name>12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + AAFD</TR-Name>
+	<TR-Name>12.7cm Twin Gun Model B Kai 4 (Wartime Modification) + AAFD</TR-Name>
   </Item>
   <Item>
 	<JP-Name>12.7cm連装砲A型</JP-Name>
-	<TR-Name>12.7cm Twin Gun Mount Model A</TR-Name>
+	<TR-Name>12.7cm Twin Gun Model A</TR-Name>
   </Item>
   <Item>
 	<JP-Name>16inch Mk.I三連装砲</JP-Name>
-	<TR-Name>16inch Mk.I Triple Gun Mount</TR-Name>
+	<TR-Name>16inch Mk.I Triple Gun</TR-Name>
   </Item>
   <Item>
 	<JP-Name>16inch Mk.I三連装砲+AFCT改</JP-Name>
-	<TR-Name>16inch Mk.I Triple Gun Mount + AFCT Kai</TR-Name>
+	<TR-Name>16inch Mk.I Triple Gun + AFCT Kai</TR-Name>
   </Item>
   <Item>
 	<JP-Name>16inch Mk.I三連装砲改+FCR type284</JP-Name>
-	<TR-Name>16inch Mk.I Triple Gun Mount Kai + FCR Type 284</TR-Name>
+	<TR-Name>16inch Mk.I Triple Gun Kai + FCR Type 284</TR-Name>
   </Item>
   <Item>
 	<JP-Name>20連装7inch UP Rocket Launchers</JP-Name>

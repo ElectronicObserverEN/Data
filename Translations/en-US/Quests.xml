@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.87">
+<Quests Version="1.1.88">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2688,6 +2688,13 @@ Score an S-rank victory against [W3-2] and [W5-4] Boss.</TR-Detail>
     <TR-Detail>Complete Expedition 3, A1, and B1.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>430</ID>
+    <JP-Name>「海防艦」、進発せよ！</JP-Name>
+    <TR-Name>D28: Kaiboukan, Advance!</TR-Name>
+    <JP-Detail>海上護衛任務：遠征任務「兵站強化任務」「海峡警備行動」「海上護衛任務」「タンカー護衛任務」&lt;br&gt;を海防艦、駆逐艦などを主軸とした護衛艦艇で実施せよ！</JP-Detail>
+    <TR-Detail>Complete Expeditions 5, 9, A1, and A2.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>187</ID>
     <JP-Name>「西村艦隊」第二戦隊随伴部隊、集結せよ！</JP-Name>
     <TR-Name>A82: Form the Escorts of Nishimura 2nd Battleship Division!</TR-Name>
@@ -2819,6 +2826,13 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Detail>Secure 4 victories in Exercises within the same day using 4 DD and up to 2 additional ships.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>322</ID>
+    <JP-Name>海防艦、演習始め！</JP-Name>
+    <TR-Name>C20: Kaiboukan, Commence Exercises!</TR-Name>
+    <JP-Detail>海防艦演習任務：海防艦を旗艦に配備し、随伴艦に駆逐艦2隻以上を配した演習艦隊を編成。&lt;br&gt;本演習艦隊で、本日中に演習で2回以上勝利せよ！</JP-Detail>
+    <TR-Detail>Secure 2 victories in Exercises within the same day using a DE flagship, 2 DD, and up to 3 additional ships.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>677</ID>
     <JP-Name>継戦支援能力の整備</JP-Name>
     <TR-Name>F69w4: Weekly Dismantlement 2</TR-Name>
@@ -2845,6 +2859,15 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Name>F72q6: Quarterly AA Guns</TR-Name>
     <JP-Detail>対空兵装の整備拡充を継続実施する！「機銃」系装備x4、「電探」系装備x4を廃棄、&lt;br&gt;ボーキサイト1,500を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
     <TR-Detail>Have 1500 Bauxite. Scrap 4 AA Machine Guns and 4 Radars.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>685</ID>
+    <JP-Name>駆逐艦主砲兵装の戦時改修</JP-Name>
+    <TR-Name>F76: Wartime Modification of Destroyer Main Guns</TR-Name>
+    <JP-Detail>旗艦特型駆逐艦の第一スロに「12.7cm連装砲A型改二」改修maxを装備、 「10cm連装高角砲」x4&lt;br&gt; 「94式高射装置」x1を廃棄、開発資材x30、鋼材900、新型砲熕兵装資材x1を準備せよ！</JP-Detail>
+    <TR-Detail>Have 30 Development Materials, 900 steel, and a New Type Artillery Armament Material.
+Equip an unlocked ★max 12.7cm Twin Gun Model A Kai 2 in the first slot of your Fubuki-class
+secretary ship. And then scrap four 10cm Twin High-angle Gun and one Type 94 AAFD.</TR-Detail>
   </Quest>
   <Quest>
     <ID>876</ID>
