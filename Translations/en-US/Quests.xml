@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.88">
+<Quests Version="1.1.89">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1336,6 +1336,13 @@ score an S rank victory at the World 2-5 boss.</TR-Detail>
     <TR-Name>C22: Mass Exercises for Summer</TR-Name>
     <JP-Detail>夏季大演習：夏季期間の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！&lt;br&gt;暑さに負けるな！　艦隊、抜錨！</JP-Detail>
     <TR-Detail>Secure 8 victories in Exercises within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>327</ID>
+    <JP-Name>朝潮型集合！特訓始め！</JP-Name>
+    <TR-Name>C25: Asashio-class, Assemble! Commence Intensive Training!</TR-Name>
+    <JP-Detail>朝潮型演習任務：朝潮型駆逐艦4隻による駆逐隊を含む艦隊を編成。&lt;br&gt;同艦隊で本日中に演習にて4回以上勝利せよ！朝潮型駆逐艦、前へ！</JP-Detail>
+    <TR-Detail>Secure 4 victories in Exercises within the same day using at least four of Asashio-class and up to 2 additional ships.</TR-Detail>
   </Quest>
   <Quest>
     <ID>401</ID>
@@ -2909,7 +2916,7 @@ secretary ship. And then scrap four 10cm Twin High-angle Gun and one Type 94 AAF
     <JP-Name>精鋭「第十八駆逐隊」を編成せよ！</JP-Name>
     <TR-Name>A87: Organize the Elite 18th Destroyer Division!</TR-Name>
     <JP-Detail>精鋭駆逐隊編成任務：「霰改二」「霞改二/改二乙」「陽炎改」「不知火改」4隻による&lt;br&gt;精鋭「第十八駆逐隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Have Arare Kai Ni, Kasumi Kai Ni/B, Kagerou Kai, and Shiranui Kai in your fleet.</TR-Detail>
+    <TR-Detail>Have ONLY Arare Kai Ni, Kasumi Kai Ni/B, Kagerou Kai, and Shiranui Kai in your fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>881</ID>
