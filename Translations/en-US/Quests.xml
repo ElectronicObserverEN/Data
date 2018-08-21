@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.85">
+<Quests Version="1.1.86">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1326,14 +1326,14 @@ score an S rank victory at the World 2-5 boss.</TR-Detail>
   <Quest>
     <ID>324</ID>
     <JP-Name>戦闘航空母艦一番艦、演習始め！</JP-Name>
-    <TR-Name>C22: Battle Carrier Lead Ship, Commence Exercises!</TR-Name>
+    <TR-Name>C18: Battle Carrier Lead Ship, Commence Exercises!</TR-Name>
     <JP-Detail>改装航空戦艦(戦闘航空母艦)演習任務：旗艦「伊勢改二」、随伴艦に駆逐艦2隻以上を配した航空戦隊&lt;br&gt;を編成。新改装艦の慣熟も兼ねた同航空戦隊の演習で、本日中に3回以上勝利せよ！</JP-Detail>
     <TR-Detail>Secure 3 victories in Exercises within the same day using Ise Kai Ni as flagship, 2 DD and up to 3 additional ships.</TR-Detail>
   </Quest>
   <Quest>
     <ID>326</ID>
     <JP-Name>夏季大演習</JP-Name>
-    <TR-Name>C24: Mass Exercises for Summer</TR-Name>
+    <TR-Name>C22: Mass Exercises for Summer</TR-Name>
     <JP-Detail>夏季大演習：夏季期間の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！&lt;br&gt;暑さに負けるな！　艦隊、抜錨！</JP-Detail>
     <TR-Detail>Secure 8 victories in Exercises within the same day.</TR-Detail>
   </Quest>
