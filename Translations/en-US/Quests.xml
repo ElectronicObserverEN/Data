@@ -572,6 +572,62 @@ Samidare, and 1 additional DD in your main fleet.</TR-Detail>
 in your fleet.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>185</ID>
+    <JP-Name>精強「任務部隊」を編成せよ！</JP-Name>
+    <TR-Name>A80: Organize a Powerful Task Force!</TR-Name>
+    <JP-Detail>編成任務：第一艦隊旗艦に「Saratoga Mk.II」または同「Mod.2」を配備、随伴艦に&lt;br&gt;軽巡洋艦1隻、駆逐艦2隻以上を配した夜間作戦可能な機動部隊を新編せよ！</JP-Detail>
+    <TR-Detail>Have Saratoga Mk.II/Mod.2 as flagship with 1 CL and 2 DD in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>186</ID>
+    <JP-Name>最精鋭「第八駆逐隊」を編成せよ！</JP-Name>
+    <TR-Name>A81: Organize the Supreme 8th Destroyer Division!</TR-Name>
+    <JP-Detail>精鋭駆逐隊編成任務：「朝潮改二」「大潮改二」「荒潮改二」「満潮改二」の&lt;br&gt;最精鋭朝潮型駆逐艦4隻による新編「第八駆逐隊」の編成を完了せよ！</JP-Detail>
+    <TR-Detail>Have ONLY Arashio Kai Ni, Asashio Kai Ni/D, Michishio Kai Ni, and Ooshio Kai Ni in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>187</ID>
+    <JP-Name>「西村艦隊」第二戦隊随伴部隊、集結せよ！</JP-Name>
+    <TR-Name>A82: Form the Escorts of Nishimura 2nd Battleship Division!</TR-Name>
+    <JP-Detail>捷一号作戦準備任務：第一遊撃部隊第三部隊の中核となる第二戦隊の随伴艦を編成する。&lt;br&gt;各艦隊から艦艇を抽出、第三艦隊に「最上」「時雨」「満潮」「朝雲」「山雲」を配備せよ！</JP-Detail>
+    <TR-Detail>Have Mogami, Asagumo, Michishio, Shigure, and Yamagumo in 3rd Fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>188</ID>
+    <JP-Name>精鋭「三一駆」第一小隊、抜錨準備！</JP-Name>
+    <TR-Name>A83: Elite 31st Destroyer Division, 1st Platoon, Prepare to Sortie!</TR-Name>
+    <JP-Detail>編成任務：「長波改二」旗艦、僚艦に「高波改」または「沖波改」「朝霜改」を配した、&lt;br&gt;第三一駆逐隊第一小隊(2隻艦隊)を編成せよ！</JP-Detail>
+    <TR-Detail>Have Naganami Kai Ni as flagship and either Takanami Kai, Okinami Kai, or Asashimo Kai in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>189</ID>
+    <JP-Name>精鋭「四水戦」抜錨準備！</JP-Name>
+    <TR-Name>A84: Elite 4th Destroyer Squadron, Prepare to Set Sail!</TR-Name>
+    <JP-Detail>四水戦(4Sd)特別編成：「村雨改二」旗艦と精鋭四水戦「由良改二」「夕立改二」「春雨改」「五月雨改」&lt;br&gt;「秋月改」より3隻、さらに主力艦2隻を配備した、有力な特務艦隊を編成、南方海域出撃に備えよ！</JP-Detail>
+    <TR-Detail>Fill an entire six-ship fleet with Murasame Kai Ni as flagship, 3+ of Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai or Akizuki Kai and your choice of other ships.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>190</ID>
+    <JP-Name>精鋭「第二一駆逐隊」、抜錨準備！</JP-Name>
+    <TR-Name>A85: Elite 21st Destroyer Division, Prepare to Set Sail!</TR-Name>
+    <JP-Detail>精鋭駆逐隊編成任務：捷一号作戦を支援する。同決戦正面の基地航空への資材輸送任務のため、&lt;br&gt;「若葉改」「初春改二」「初霜改二」を含む3～4隻の精鋭「第二一駆逐隊」の編成を完了せよ！</JP-Detail>
+    <TR-Detail>Have Wakaba Kai, Hatsuharu Kai Ni and Hatsushimo Kai Ni, up to 1 other DD, and no other ships in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>191</ID>
+    <JP-Name>改装「第十七駆逐隊」、再編始め！</JP-Name>
+    <TR-Name>A86: Remodeled 17th Destroyer Division, Commence Restructuring!</TR-Name>
+    <JP-Detail>改装駆逐隊編成任務：改装した陽炎型駆逐艦「浦風改」「谷風改」、そして対空戦闘の激化に備え、&lt;br&gt;対空兵装を軸に大幅強化改装した「磯風乙改」「浜風乙改」による「第十七駆逐隊」を再編せよ！</JP-Detail>
+    <TR-Detail>Have ONLY Hamakaze Kai B, Isokaze Kai B, Urakaze Kai and Tanikaze Kai in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>192</ID>
+    <JP-Name>精鋭「第十八駆逐隊」を編成せよ！</JP-Name>
+    <TR-Name>A87: Organize the Elite 18th Destroyer Division!</TR-Name>
+    <JP-Detail>精鋭駆逐隊編成任務：「霰改二」「霞改二/改二乙」「陽炎改」「不知火改」4隻による&lt;br&gt;精鋭「第十八駆逐隊」を編成せよ！</JP-Detail>
+    <TR-Detail>Have ONLY Arare Kai Ni, Kasumi Kai Ni/B, Kagerou Kai, and Shiranui Kai in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>193</ID>
     <JP-Name>最精鋭甲型駆逐艦、集結せよ！</JP-Name>
     <TR-Name>A88: Supreme Type-A Destroyers, Assemble!</TR-Name>
@@ -1324,6 +1380,57 @@ score an S rank victory at the World 2-5 boss.</TR-Detail>
     <TR-Detail>Get 8 victories in exercises within the same day.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>316</ID>
+    <JP-Name>輸送部隊の練度向上に努めよ！</JP-Name>
+    <TR-Name>C13: Raise the Transport Unit&apos;s Experience!</TR-Name>
+    <JP-Detail>演習任務：輸送部隊の練度向上を図る！本日中に演習で4回以上「勝利」せよ！</JP-Detail>
+    <TR-Detail>Get 4 victories in exercises within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>317</ID>
+    <JP-Name>甲型駆逐艦の戦力整備計画</JP-Name>
+    <TR-Name>C15: Type-A Destroyer Strength Improvement Plan</TR-Name>
+    <JP-Detail>甲型駆逐艦整備任務：甲型駆逐艦【夕雲型/陽炎型】を2隻以上配備した第一艦隊で演習で3回「勝利」、&lt;br&gt;その後、同艦隊を南西諸島海域に投入。各出撃で得られた戦訓を艦隊型駆逐艦戦力整備に活用せよ！</JP-Detail>
+    <TR-Detail>Get 3 victories in exercises and then obtain an A-rank victory at [W2-2],
+[W2-3], [W2-4], and [W2-5] boss using the main fleet including 2 Kagerou-Class or
+Yuugumo-Class Destroyers.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>318</ID>
+    <JP-Name>給糧艦「伊良湖」の支援</JP-Name>
+    <TR-Name>C16: Monthly Exercises 2</TR-Name>
+    <JP-Detail>伊良湖支援任務：軽巡を2隻以上配備した第一艦隊で本日中に演習で3回「勝利」、その後、&lt;br&gt;第一艦隊旗艦に戦闘糧食を二つ装備せよ！　※任務達成後、同戦闘糧食は消費します</JP-Detail>
+    <TR-Detail>Secure 3 victories in Exercises using 2 CLs. Afterwards, equip the Fleet 1 flagship with 2 Combat Rations.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>319</ID>
+    <JP-Name>精鋭「第二一駆」、猛特訓！</JP-Name>
+    <TR-Name>C17: Elite 21st Destroyer Division, Train Intensively!</TR-Name>
+    <JP-Detail>駆逐隊演習任務：精鋭「第二一駆逐隊」3隻を含む艦隊を編成。作戦に先立ち、猛特訓を開始する！&lt;br&gt;同艦隊で、本日中に演習で4回勝利せよ！</JP-Detail>
+    <TR-Detail>Secure 4 victories in Exercises within the same day using Hatsuharu Kai Ni, Wakaba Kai, Hatsushimo Kai Ni and up to 3 other ships.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>320</ID>
+    <JP-Name>駆逐隊、特訓始め！</JP-Name>
+    <TR-Name>C18: Destroyer Division, Commence Intensive Training!</TR-Name>
+    <JP-Detail>駆逐隊演習任務：駆逐艦4隻で編成される駆逐隊。この駆逐隊を含む艦隊を編成。&lt;br&gt;特訓を開始する！同艦隊で本日中に演習にて4回以上勝利せよ！</JP-Detail>
+    <TR-Detail>Secure 4 victories in Exercises within the same day using 4 DD and up to 2 additional ships.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>321</ID>
+    <JP-Name>五周年任務【肆：演習】</JP-Name>
+    <TR-Name>5A04: Fifth Anniversary Mission IV: Exercises</TR-Name>
+    <JP-Detail>五周年任務：駆逐艦または海防艦2隻以上を含む五隻の特別編成の艦隊を編成！&lt;br&gt;この五周年特別艦隊で、本日中に演習で4回以上勝利せよ！</JP-Detail>
+    <TR-Detail>Secure 4 victories in Exercises within the same day using 2 DD/DE and 3 additional ships.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>322</ID>
+    <JP-Name>海防艦、演習始め！</JP-Name>
+    <TR-Name>C20: Kaiboukan, Commence Exercises!</TR-Name>
+    <JP-Detail>海防艦演習任務：海防艦を旗艦に配備し、随伴艦に駆逐艦2隻以上を配した演習艦隊を編成。&lt;br&gt;本演習艦隊で、本日中に演習で2回以上勝利せよ！</JP-Detail>
+    <TR-Detail>Secure 2 victories in Exercises within the same day using a DE flagship, 2 DD, and up to 3 additional ships.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>324</ID>
     <JP-Name>戦闘航空母艦一番艦、演習始め！</JP-Name>
     <TR-Name>C18: Battle Carrier Lead Ship, Commence Exercises!</TR-Name>
@@ -1520,6 +1627,34 @@ score an S rank victory at the World 2-5 boss.</TR-Detail>
     <TR-Detail>Complete expedition 3, 4, 5, and 10.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>427</ID>
+    <JP-Name>遠征「補給」支援体制を強化せよ！</JP-Name>
+    <TR-Name>D25: Reinforce the Expedition Supply Support System!</TR-Name>
+    <JP-Detail>遠征補給支援体制の強化：鋼材800を用意し、遠征任務「兵站強化任務」を実施。&lt;br&gt;同遠征任務を成功させ、艦隊遠征時における「補給」支援体制の拡充に努めよ！</JP-Detail>
+    <TR-Detail>Have 800 steel and complete expedition A1.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>428</ID>
+    <JP-Name>近海に侵入する敵潜を制圧せよ！</JP-Name>
+    <TR-Name>D26q2: Suppress the Enemy Submarines Invading Nearby!</TR-Name>
+    <JP-Detail>敵潜制圧任務：遠征任務「対潜警戒任務」「海峡警備行動」「長時間対潜警戒」を&lt;br&gt;それぞれ複数回実施し、近海に潜り込む敵潜部隊を制圧、我が領海から叩き出せ！</JP-Detail>
+    <TR-Detail>Complete expedition 4, A2, and A3 two times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>429</ID>
+    <JP-Name>「捷一号作戦」、発動準備！</JP-Name>
+    <TR-Name>D27: Begin Preparations for Operation Sho 1!</TR-Name>
+    <JP-Detail>捷一号作戦準備任務：遠征任務「警備任務」「兵站強化任務」及び「南西方面航空偵察作戦」&lt;br&gt;を実施。これを無事完遂し、南西方面での作戦準備にあたれ！</JP-Detail>
+    <TR-Detail>Complete Expedition 3, A1, and B1.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>430</ID>
+    <JP-Name>「海防艦」、進発せよ！</JP-Name>
+    <TR-Name>D28: Kaiboukan, Advance!</TR-Name>
+    <JP-Detail>海上護衛任務：遠征任務「兵站強化任務」「海峡警備行動」「海上護衛任務」「タンカー護衛任務」&lt;br&gt;を海防艦、駆逐艦などを主軸とした護衛艦艇で実施せよ！</JP-Detail>
+    <TR-Detail>Complete Expeditions 5, 9, A1, and A2.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>501</ID>
     <JP-Name>はじめての「補給」！</JP-Name>
     <TR-Name>E1: First Supply</TR-Name>
@@ -1546,6 +1681,69 @@ score an S rank victory at the World 2-5 boss.</TR-Detail>
     <TR-Name>E4d2: Daily Resupplies</TR-Name>
     <JP-Detail>艦隊酒保祭り！各艦に延べ15回以上の補給を実施しよう！</JP-Detail>
     <TR-Detail>Resupply your ships 15 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>505</ID>
+    <JP-Name>主計科任務【おにぎりを作る！】</JP-Name>
+    <TR-Name>Su01: Accounting Department Mission: Time to Make Onigiri!</TR-Name>
+    <JP-Detail>主計科任務：回収した「お米」炊いて、「おにぎり」を作ろう。&lt;br&gt;海の上で食う握り飯は……美味いぞ！</JP-Detail>
+    <TR-Detail>Collect 5 Rice and make an Onigiri.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>506</ID>
+    <JP-Name>主計科任務【おにぎりを振舞おう！】</JP-Name>
+    <TR-Name>Su02: Accounting Department Mission: Treat Everyone to Some Onigiri!</TR-Name>
+    <JP-Detail>主計科任務：「お米」一杯炊いて、「おにぎり」を新たに3回作るかも。&lt;br&gt;工廠の皆に差し入れで振舞いたいかも！　※任務達成後、作った戦闘糧食は消費します。</JP-Detail>
+    <TR-Detail>Collect 15 Rice and make 3 Onigiri.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>507</ID>
+    <JP-Name>主計科任務【高級おにぎりを作る！】</JP-Name>
+    <TR-Name>Su03: Accounting Department Mission: Time to Make High-Class Onigiri!</TR-Name>
+    <JP-Detail>主計科任務：美味しい「お米」と「梅干」と「海苔」で、「高級おにぎり」を作りましょう。&lt;br&gt;いい食材で、丁寧に作った握り飯は……美味しい！提督、美味しいです！</JP-Detail>
+    <TR-Detail>Collect 6 Rice, 2 Umeboshi and 3 Nori to make a High-Class Onigiri.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>508</ID>
+    <JP-Name>主計科任務【差し入れ！高級おにぎり】</JP-Name>
+    <TR-Name>Su04: Accounting Department Mission: Supplies Incoming! High-Class Rice Balls</TR-Name>
+    <JP-Detail>主計科任務：そうだ、提督、いいこと考えました！この美味しい「高級おにぎり」を一杯作って&lt;br&gt;空技廠の皆さんに差し入れしましょう！ね、加賀さん！(※高級おにぎりを後2回作りましょう)</JP-Detail>
+    <TR-Detail>Collect 12 Rice, 4 Umeboshi, and 6 Nori. Then make 2 High-Class Onigiri.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>509</ID>
+    <JP-Name>主計科任務【お茶漬けを作る！】</JP-Name>
+    <TR-Name>Su05: Accounting Department Mission: Time to Make Ochazuke!</TR-Name>
+    <JP-Detail>主計科任務：「お米」と「梅干」と「海苔」、そして良い「お茶」で、「お茶漬け」を作りましょう。&lt;br&gt;さらさら～っと食べれるお茶漬けは、夜食にも、飲みの後の〆の一杯としても最高ですね！</JP-Detail>
+    <TR-Detail>Collect 8 Rice, 3 Umeboshi, 3 Nori, 4 Tea, and make Ochazuke.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>510</ID>
+    <JP-Name>主計科任務　【お茶漬け、夜食にどうぞ！】</JP-Name>
+    <TR-Name>Su06: Accounting Department Mission: Here, Have Some Ochazuke for Supper!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>Collect 16 Rice, 6 Umeboshi, 6 Nori, 8 Tea, and make 2 Ochazuke.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>511</ID>
+    <JP-Name>主計科任務　【海苔巻きを作ろう！】</JP-Name>
+    <TR-Name>Su07: Accounting Department Mission: Let&apos;s Make Nori Rolls!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>Collect 12 Rice and 6 Nori.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>512</ID>
+    <JP-Name>主計科任務　【和定食膳を作って完食！】</JP-Name>
+    <TR-Name>Su08: Accounting Department Mission: Make a Japanese Set Meal and Eat Up!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>Collect 26 Rice, 5 Umeboshi, 6 Nori, and 7 Tea. Then make 1 Japanese Meal Set and 3 Onigiri.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>513</ID>
+    <JP-Name>主計科拡張任務　【日の丸弁当、量産！】</JP-Name>
+    <TR-Name>Su09: Accounting Department Extra Mission: Rising Sun Lunch Boxes for Everyone!</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail></TR-Detail>
   </Quest>
   <Quest>
     <ID>601</ID>
@@ -2041,6 +2239,40 @@ Unlock all of the equipment. And then, scrap 2 Drum Canisters.</TR-Detail>
     <TR-Detail>Have 2 Combat Rations, 800 fuel, and 150 Bauxite.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>669</ID>
+    <JP-Name>夜戦型艦上戦闘機の開発</JP-Name>
+    <TR-Name>F61: Carrier-based Night Fighter Development</TR-Name>
+    <JP-Detail>練度&amp;改修maxの「F6F-3」を秘書艦一番スロットに搭載、 「13号対空電探」x2 「22号対水上電探」x2&lt;br&gt;を廃棄、開発資材x30、改修資材x6、ボーキサイト5,000、「新型航空兵装資材」x1を準備せよ！</JP-Detail>
+    <TR-Detail>Prepare 5000 bauxite, 30 devmat, 6 screw, and 1 New Model Aerial Armament Materials.
+Equip F6F-3 (rank 7 and ★max) on flagship 1st plane slot.
+Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>670</ID>
+    <JP-Name>夜戦型艦上戦闘機の性能強化</JP-Name>
+    <TR-Name>F63: Performance Enhancement of the Carrier-based Night Fighter</TR-Name>
+    <JP-Detail>練度&amp;改修maxの「F6F-5」を秘書艦一番スロットに搭載、 「13号対空電探」x2 「22号対水上電探」x2&lt;br&gt;を廃棄、開発資材x40、改修資材x8、ボーキサイト6,000、「新型航空兵装資材」x1を準備せよ！</JP-Detail>
+    <TR-Detail>Prepare 6000 bauxite, 40 devmat, 8 screw, and 1 New Model Aerial Armament Materials.
+Equip F6F-5 (rank 7 and ★max) on flagship 1st plane slot.
+Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>671</ID>
+    <JP-Name>夜間作戦型艦上攻撃機の開発</JP-Name>
+    <TR-Name>F62: Carrier-based Night Torpedo Bomber Development</TR-Name>
+    <JP-Detail>「TBF」を秘書艦一番スロットに搭載、「13号対空電探」x2「22号対水上電探」x2廃棄、開発資材x40&lt;br&gt;改修資材x10、弾薬5,000、ボーキサイト8,000、「新型航空兵装資材」x1、「熟練搭乗員」を用意せよ！</JP-Detail>
+    <TR-Detail>Prepare 5000 ammo, 8000 bauxite, 40 devmat, 10 screw, 1 Skilled Crew Member, and
+1 New Model Aerial Armament Materials. Equip TBF on flagship 1st plane slot.
+Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>672</ID>
+    <JP-Name>「遊撃部隊」艦隊司令部の創設</JP-Name>
+    <TR-Name>F64: Establishment of the Striking Force&apos;s Fleet Command.</TR-Name>
+    <JP-Detail>遊撃部隊任務：「遊撃部隊 艦隊司令部」を創設する。「艦隊司令部施設」を秘書艦一番スロットに搭載、 &lt;br&gt;電探系装備x3を廃棄、開発資材x10、鋼材x2,000、そして「戦闘詳報」x2を準備せよ！</JP-Detail>
+    <TR-Detail>Have 10 Development Materials, 2000 Steel, and 2 Action Reports. Equip a secretary with a Fleet Command Facility in her first slot. Scrap 3 Radars.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>682</ID>
     <JP-Name>「海防艦」整備計画</JP-Name>
     <TR-Name>F73: The Kaiboukan Consolidation Plan</TR-Name>
@@ -2055,6 +2287,78 @@ Unlock all of the equipment. And then, scrap 2 Drum Canisters.</TR-Detail>
     <TR-Detail>Have 40 Development Materials, 50 Flamethrowers, 4500 Steel and 2 New Model Artillery Armament Materials.
 Set Ise Kai Ni as secretary and equip her with a ★max Prototype 41cm Triple Gun Mount in her FIRST slot.
 Scrap two Type 22 Surface Radars and three 41cm Twin Gun Mounts.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>673</ID>
+    <JP-Name>装備開発力の整備</JP-Name>
+    <TR-Name>F65d7: Maintenance of Equipment Development Capability</TR-Name>
+    <JP-Detail>工廠整備任務：装備開発力を整備する。「小口径主砲」系装備x4を廃棄せよ！</JP-Detail>
+    <TR-Detail>Scrap four small-caliber guns.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>674</ID>
+    <JP-Name>工廠環境の整備</JP-Name>
+    <TR-Name>F66d8: Maintenance of the Arsenal Environment</TR-Name>
+    <JP-Detail>工廠整備任務：工廠環境の重整備を実施する。「機銃」系装備x3を廃棄、鋼材300を準備せよ！&lt;br&gt;※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>Have 300 steel and then scrap three AA guns.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>675</ID>
+    <JP-Name>運用装備の統合整備</JP-Name>
+    <TR-Name>F67q4: Integrated Maintenance of Operational Equipment</TR-Name>
+    <JP-Detail>運用装備統合任務：装備の統合整備を実施する。「艦上戦闘機」系装備x6、「機銃」系装備x4を廃棄、&lt;br&gt;ボーキサイト800を準備(本任務は時局により更新されます)。　※任務達成後、準備資源を消費します。</JP-Detail>
+    <TR-Detail>Have 800 steel and then scrap six carrier-based fighter and four AA guns.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>676</ID>
+    <JP-Name>装備開発力の集中整備</JP-Name>
+    <TR-Name>F68w3: Weekly Gun Dismantlement</TR-Name>
+    <JP-Detail>工廠環境の集中整備を実施する！「中口径主砲」系装備x3、「副砲」系装備x3、「ドラム缶(輸送用)」x1&lt;br&gt;を廃棄、鋼材2,400を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>Have 2400 Steel and then scrap three medium guns, three secondary guns, and one drum.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>677</ID>
+    <JP-Name>継戦支援能力の整備</JP-Name>
+    <TR-Name>F69w4: Weekly Dismantlement 2</TR-Name>
+    <JP-Detail>艦娘の継戦支援体制の整備強化を実施する！「大口径主砲」系装備x4、「水上偵察機」系装備x2、&lt;br&gt;「魚雷」系装備x3を廃棄、鋼材3,600を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>Have 3600 Steel. Scrap 4 Large Cal. Main Guns, 2 Recon Seaplanes and 3 Torpedoes.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>678</ID>
+    <JP-Name>主力艦上戦闘機の更新</JP-Name>
+    <TR-Name>F70q5: Quarterly Shiden Kai Ni and Materials</TR-Name>
+    <JP-Detail>艦上戦闘機「九六式艦戦」x3、「零式艦戦21型」x5を廃棄。秘書艦の一番及び二番装備スロットに&lt;br&gt;「零式艦戦52型」を装備。ボーキサイト4,000を準備せよ。※任務達成後、準備資源は消費します。</JP-Detail>
+    <TR-Detail>Have 4000 Bauxite. Equip a secretary with Type 0 Fighter Model 52s in her first two slots. Scrap 3 Type 96 Fighters and 5 Type 0 Fighter Model 21s.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>679</ID>
+    <JP-Name>対空兵装の拡充</JP-Name>
+    <TR-Name>F71: An Expansion of Anti-Air Armaments</TR-Name>
+    <JP-Detail>対空兵装の整備拡充を実施する！「中口径主砲」系装備x6、「副砲」系装備x3を廃棄、&lt;br&gt;ボーキサイト900を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>Have 900 Bauxite. Scrap 6 Medium Cal. Main Guns and 3 Secondary Guns.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>680</ID>
+    <JP-Name>対空兵装の整備拡充</JP-Name>
+    <TR-Name>F72q6: Quarterly AA Guns</TR-Name>
+    <JP-Detail>対空兵装の整備拡充を継続実施する！「機銃」系装備x4、「電探」系装備x4を廃棄、&lt;br&gt;ボーキサイト1,500を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>Have 1500 Bauxite. Scrap 4 AA Machine Guns and 4 Radars.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>681</ID>
+    <JP-Name>五周年任務【壱：工廠】</JP-Name>
+    <TR-Name>5A01: Fifth Anniversary Mission I: The Arsenal</TR-Name>
+    <JP-Detail>五周年任務：艦隊五周年特別任務群を開始する！同任務群は全五任務で構成。まずは工廠の整理から！&lt;br&gt;「小口径主砲」系装備x5 及び「中口径主砲」系装備x5 を廃棄、工廠環境の向上と整理整頓を実施せよ！</JP-Detail>
+    <TR-Detail>Scrap 5 Small Cal. Main Guns and 5 Medium Cal. Main Guns.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>685</ID>
+    <JP-Name>駆逐艦主砲兵装の戦時改修</JP-Name>
+    <TR-Name>F76: Wartime Modification of Destroyer Main Guns</TR-Name>
+    <JP-Detail>旗艦特型駆逐艦の第一スロに「12.7cm連装砲A型改二」改修maxを装備、 「10cm連装高角砲」x4&lt;br&gt; 「94式高射装置」x1を廃棄、開発資材x30、鋼材900、新型砲熕兵装資材x1を準備せよ！</JP-Detail>
+    <TR-Detail>Have 30 Development Materials, 900 steel, and a New Type Artillery Armament Material.
+Equip an unlocked ★max 12.7cm Twin Gun Model A Kai 2 in the first slot of your Fubuki-class
+secretary ship. And then scrap four 10cm Twin High-angle Gun and one Type 94 AAFD.</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
@@ -2090,6 +2394,13 @@ Scrap two Type 22 Surface Radars and three 41cm Twin Gun Mounts.</TR-Detail>
     <TR-Name>G5: Modernization of Aircraft Equipment</TR-Name>
     <JP-Detail>鉄鋼5,500及びボーキサイト2,500を準備して、任意の正規空母の近代化改修を&lt;br&gt;[航空母艦]x5隻同時使用により2回成功させよ！※任務達成後、準備した資源は消費します。</JP-Detail>
     <TR-Detail>Have 5500 steel and 2500 bauxite in your inventory. And then, modernize a CV twice, each with five CV/L.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>706</ID>
+    <JP-Name>五周年任務【参：近代化改修】</JP-Name>
+    <TR-Name>5A03: Fifth Anniversary Mission III: Modernization</TR-Name>
+    <JP-Detail>五周年任務：鉄鋼555及びボーキサイト555を準備して、任意の海防艦の近代化改修を[駆逐艦]x5隻&lt;br&gt;同時使用により2回成功させよ！※任務達成後、準備した資源は消費します。</JP-Detail>
+    <TR-Detail>Have 555 steel and bauxite. Successfully modernize a DE using 5 DD twice.</TR-Detail>
   </Quest>
   <Quest>
     <ID>801</ID>
@@ -2559,27 +2870,6 @@ up to 3 additional ships and score an A-rank victory at world 2-3 and 5-1 boss.<
 and up to 2 additional ships to [W3-2]. S-rank the boss node.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>890</ID>
-    <JP-Name>精鋭「四戦隊」第二小隊、抜錨せよ！</JP-Name>
-    <TR-Name>B122: Elite 4th Cruiser Division 2nd Platoon, Set Sail!</TR-Name>
-    <JP-Detail>「摩耶改二」及び「鳥海改二」から成る精鋭「第四戦隊」第二小隊を含む有力な艦隊を編成、南西&lt;br&gt;諸島防衛線、東部オリョール海、アルフォンシーノ方面、カレー洋リランカ島沖に出撃、敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Choukai Kai Ni and Maya Kai Ni and up to 4 additional ships to [W1-4], [W2-3], [W3-3], and [W4-5]. S-Rank the boss nodes.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>185</ID>
-    <JP-Name>精強「任務部隊」を編成せよ！</JP-Name>
-    <TR-Name>A80: Organize a Powerful Task Force!</TR-Name>
-    <JP-Detail>編成任務：第一艦隊旗艦に「Saratoga Mk.II」または同「Mod.2」を配備、随伴艦に&lt;br&gt;軽巡洋艦1隻、駆逐艦2隻以上を配した夜間作戦可能な機動部隊を新編せよ！</JP-Detail>
-    <TR-Detail>Have Saratoga Mk.II/Mod.2 as flagship with 1 CL and 2 DD in your main fleet.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>316</ID>
-    <JP-Name>輸送部隊の練度向上に努めよ！</JP-Name>
-    <TR-Name>C13: Raise the Transport Unit&apos;s Experience!</TR-Name>
-    <JP-Detail>演習任務：輸送部隊の練度向上を図る！本日中に演習で4回以上「勝利」せよ！</JP-Detail>
-    <TR-Detail>Get 4 victories in exercises within the same day.</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>864</ID>
     <JP-Name>精強大型航空母艦、抜錨！</JP-Name>
     <TR-Name>B105: Large Powerful Aircraft Carrier, Setting Sail!</TR-Name>
@@ -2593,33 +2883,6 @@ to [W5-5], [W6-2]. S-rank the boss nodes.</TR-Detail>
     <TR-Name>B106: Night Aircraft Carrier, Attack the Frontlines!</TR-Name>
     <JP-Detail>出撃任務：「Saratoga Mk.II」を旗艦とした第一艦隊を KW環礁沖海域に展開、敵機動部隊を迎撃！&lt;br&gt;「空母機動部隊迎撃戦」を見事成功させよ！　夜戦作戦空母、抜錨！　前線に出撃せよ！</JP-Detail>
     <TR-Detail>Sortie Saratoga Mk.II as flagship to [W6-5]. S-rank the boss nodes.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>669</ID>
-    <JP-Name>夜戦型艦上戦闘機の開発</JP-Name>
-    <TR-Name>F61: Carrier-based Night Fighter Development</TR-Name>
-    <JP-Detail>練度&amp;改修maxの「F6F-3」を秘書艦一番スロットに搭載、 「13号対空電探」x2 「22号対水上電探」x2&lt;br&gt;を廃棄、開発資材x30、改修資材x6、ボーキサイト5,000、「新型航空兵装資材」x1を準備せよ！</JP-Detail>
-    <TR-Detail>Prepare 5000 bauxite, 30 devmat, 6 screw, and 1 New Model Aerial Armament Materials.
-Equip F6F-3 (rank 7 and ★max) on flagship 1st plane slot.
-Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>671</ID>
-    <JP-Name>夜間作戦型艦上攻撃機の開発</JP-Name>
-    <TR-Name>F62: Carrier-based Night Torpedo Bomber Development</TR-Name>
-    <JP-Detail>「TBF」を秘書艦一番スロットに搭載、「13号対空電探」x2「22号対水上電探」x2廃棄、開発資材x40&lt;br&gt;改修資材x10、弾薬5,000、ボーキサイト8,000、「新型航空兵装資材」x1、「熟練搭乗員」を用意せよ！</JP-Detail>
-    <TR-Detail>Prepare 5000 ammo, 8000 bauxite, 40 devmat, 10 screw, 1 Skilled Crew Member, and
-1 New Model Aerial Armament Materials. Equip TBF on flagship 1st plane slot.
-Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>670</ID>
-    <JP-Name>夜戦型艦上戦闘機の性能強化</JP-Name>
-    <TR-Name>F63: Performance Enhancement of the Carrier-based Night Fighter</TR-Name>
-    <JP-Detail>練度&amp;改修maxの「F6F-5」を秘書艦一番スロットに搭載、 「13号対空電探」x2 「22号対水上電探」x2&lt;br&gt;を廃棄、開発資材x40、改修資材x8、ボーキサイト6,000、「新型航空兵装資材」x1を準備せよ！</JP-Detail>
-    <TR-Detail>Prepare 6000 bauxite, 40 devmat, 8 screw, and 1 New Model Aerial Armament Materials.
-Equip F6F-5 (rank 7 and ★max) on flagship 1st plane slot.
-Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above.</TR-Detail>
   </Quest>
   <Quest>
     <ID>866</ID>
@@ -2651,20 +2914,6 @@ Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above.</T
 Score an A-rank victory against [W1-3], [W1-4], and [W1-5] Boss.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>427</ID>
-    <JP-Name>遠征「補給」支援体制を強化せよ！</JP-Name>
-    <TR-Name>D25: Reinforce the Expedition Supply Support System!</TR-Name>
-    <JP-Detail>遠征補給支援体制の強化：鋼材800を用意し、遠征任務「兵站強化任務」を実施。&lt;br&gt;同遠征任務を成功させ、艦隊遠征時における「補給」支援体制の拡充に努めよ！</JP-Detail>
-    <TR-Detail>Have 800 steel and complete expedition A1.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>428</ID>
-    <JP-Name>近海に侵入する敵潜を制圧せよ！</JP-Name>
-    <TR-Name>D26q2: Suppress the Enemy Submarines Invading Nearby!</TR-Name>
-    <JP-Detail>敵潜制圧任務：遠征任務「対潜警戒任務」「海峡警備行動」「長時間対潜警戒」を&lt;br&gt;それぞれ複数回実施し、近海に潜り込む敵潜部隊を制圧、我が領海から叩き出せ！</JP-Detail>
-    <TR-Detail>Complete expedition 4, A2, and A3 two times.</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>870</ID>
     <JP-Name>「第八駆逐隊」、南西へ！</JP-Name>
     <TR-Name>B108: 8th Destroyer Division, To the Southwest!</TR-Name>
@@ -2673,61 +2922,12 @@ Score an A-rank victory against [W1-3], [W1-4], and [W1-5] Boss.</TR-Detail>
 Score an S-rank victory against [W1-2] and [W2-2] Boss.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>186</ID>
-    <JP-Name>最精鋭「第八駆逐隊」を編成せよ！</JP-Name>
-    <TR-Name>A81: Organize the Supreme 8th Destroyer Division!</TR-Name>
-    <JP-Detail>精鋭駆逐隊編成任務：「朝潮改二」「大潮改二」「荒潮改二」「満潮改二」の&lt;br&gt;最精鋭朝潮型駆逐艦4隻による新編「第八駆逐隊」の編成を完了せよ！</JP-Detail>
-    <TR-Detail>Have ONLY Arashio Kai Ni, Asashio Kai Ni/D, Michishio Kai Ni, and Ooshio Kai Ni in your fleet.</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>871</ID>
     <JP-Name>最精鋭「第八駆逐隊」、全力出撃！</JP-Name>
     <TR-Name>B109: The Supreme 8th Destroyer Division, All-Out Sortie!</TR-Name>
     <JP-Detail>第八駆逐隊任務：最精鋭「第八駆逐隊」を中核戦力とした艦隊を編成、北方海域キス島沖、及び&lt;br&gt;南方海域サーモン海域に突入！同海域の敵艦隊を撃滅、第八駆逐隊による完全勝利を刻め！</JP-Detail>
     <TR-Detail>Sortie Arashio Kai Ni, Asashio Kai Ni/D, Ooshio Kai Ni, Michishio Kai Ni, and up to 2 additional ships.
 Score an S-rank victory against [W3-2] and [W5-4] Boss.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>429</ID>
-    <JP-Name>「捷一号作戦」、発動準備！</JP-Name>
-    <TR-Name>D27: Begin Preparations for Operation Sho 1!</TR-Name>
-    <JP-Detail>捷一号作戦準備任務：遠征任務「警備任務」「兵站強化任務」及び「南西方面航空偵察作戦」&lt;br&gt;を実施。これを無事完遂し、南西方面での作戦準備にあたれ！</JP-Detail>
-    <TR-Detail>Complete Expedition 3, A1, and B1.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>430</ID>
-    <JP-Name>「海防艦」、進発せよ！</JP-Name>
-    <TR-Name>D28: Kaiboukan, Advance!</TR-Name>
-    <JP-Detail>海上護衛任務：遠征任務「兵站強化任務」「海峡警備行動」「海上護衛任務」「タンカー護衛任務」&lt;br&gt;を海防艦、駆逐艦などを主軸とした護衛艦艇で実施せよ！</JP-Detail>
-    <TR-Detail>Complete Expeditions 5, 9, A1, and A2.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>187</ID>
-    <JP-Name>「西村艦隊」第二戦隊随伴部隊、集結せよ！</JP-Name>
-    <TR-Name>A82: Form the Escorts of Nishimura 2nd Battleship Division!</TR-Name>
-    <JP-Detail>捷一号作戦準備任務：第一遊撃部隊第三部隊の中核となる第二戦隊の随伴艦を編成する。&lt;br&gt;各艦隊から艦艇を抽出、第三艦隊に「最上」「時雨」「満潮」「朝雲」「山雲」を配備せよ！</JP-Detail>
-    <TR-Detail>Have Mogami, Asagumo, Michishio, Shigure, and Yamagumo in 3rd Fleet.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>188</ID>
-    <JP-Name>精鋭「三一駆」第一小隊、抜錨準備！</JP-Name>
-    <TR-Name>A83: Elite 31st Destroyer Division, 1st Platoon, Prepare to Sortie!</TR-Name>
-    <JP-Detail>編成任務：「長波改二」旗艦、僚艦に「高波改」または「沖波改」「朝霜改」を配した、&lt;br&gt;第三一駆逐隊第一小隊(2隻艦隊)を編成せよ！</JP-Detail>
-    <TR-Detail>Have Naganami Kai Ni as flagship and either Takanami Kai, Okinami Kai, or Asashimo Kai in your fleet.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>672</ID>
-    <JP-Name>「遊撃部隊」艦隊司令部の創設</JP-Name>
-    <TR-Name>F64: Establishment of the Striking Force&apos;s Fleet Command.</TR-Name>
-    <JP-Detail>遊撃部隊任務：「遊撃部隊 艦隊司令部」を創設する。「艦隊司令部施設」を秘書艦一番スロットに搭載、 &lt;br&gt;電探系装備x3を廃棄、開発資材x10、鋼材x2,000、そして「戦闘詳報」x2を準備せよ！</JP-Detail>
-    <TR-Detail>Have 10 Development Materials, 2000 Steel, and 2 Action Reports. Equip a secretary with a Fleet Command Facility in her first slot. Scrap 3 Radars.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>872</ID>
-    <JP-Name>「捷一号作戦」兵站補給線を確保せよ！</JP-Name>
-    <TR-Name>Le1B1: Secure the Supply Lines for Operation Sho 1!</TR-Name>
-    <JP-Detail>捷号作戦後方任務：有力な艦隊を編成し、作戦第二海域、台湾沖/ルソン島沖に展開、同海域付近で&lt;br&gt;我が後方兵站線攻撃を図る敵艦隊を捕捉、これを複数回撃破、同制海権を確保せよ。</JP-Detail>
-    <TR-Detail>Score two A-rank victory against [W40-2] Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>873</ID>
@@ -2746,34 +2946,11 @@ Score an A-rank victory against [W3-1], [W3-2], and [W3-3] Boss.</TR-Detail>
 Score two S-rank victories against [W3-5] Boss.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>673</ID>
-    <JP-Name>装備開発力の整備</JP-Name>
-    <TR-Name>F65d7: Maintenance of Equipment Development Capability</TR-Name>
-    <JP-Detail>工廠整備任務：装備開発力を整備する。「小口径主砲」系装備x4を廃棄せよ！</JP-Detail>
-    <TR-Detail>Scrap four small-caliber guns.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>674</ID>
-    <JP-Name>工廠環境の整備</JP-Name>
-    <TR-Name>F66d8: Maintenance of the Arsenal Environment</TR-Name>
-    <JP-Detail>工廠整備任務：工廠環境の重整備を実施する。「機銃」系装備x3を廃棄、鋼材300を準備せよ！&lt;br&gt;※任務達成後、準備した資源は消費します。</JP-Detail>
-    <TR-Detail>Have 300 steel and then scrap three AA guns.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>675</ID>
-    <JP-Name>運用装備の統合整備</JP-Name>
-    <TR-Name>F67q4: Integrated Maintenance of Operational Equipment</TR-Name>
-    <JP-Detail>運用装備統合任務：装備の統合整備を実施する。「艦上戦闘機」系装備x6、「機銃」系装備x4を廃棄、&lt;br&gt;ボーキサイト800を準備(本任務は時局により更新されます)。　※任務達成後、準備資源を消費します。</JP-Detail>
-    <TR-Detail>Have 800 steel and then scrap six carrier-based fighter and four AA guns.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>317</ID>
-    <JP-Name>甲型駆逐艦の戦力整備計画</JP-Name>
-    <TR-Name>C15: Type-A Destroyer Strength Improvement Plan</TR-Name>
-    <JP-Detail>甲型駆逐艦整備任務：甲型駆逐艦【夕雲型/陽炎型】を2隻以上配備した第一艦隊で演習で3回「勝利」、&lt;br&gt;その後、同艦隊を南西諸島海域に投入。各出撃で得られた戦訓を艦隊型駆逐艦戦力整備に活用せよ！</JP-Detail>
-    <TR-Detail>Get 3 victories in exercises and then obtain an A-rank victory at [W2-2],
-[W2-3], [W2-4], and [W2-5] boss using the main fleet including 2 Kagerou-Class or
-Yuugumo-Class Destroyers.</TR-Detail>
+    <ID>872</ID>
+    <JP-Name>「捷一号作戦」兵站補給線を確保せよ！</JP-Name>
+    <TR-Name>Le1B1: Secure the Supply Lines for Operation Sho 1!</TR-Name>
+    <JP-Detail>捷号作戦後方任務：有力な艦隊を編成し、作戦第二海域、台湾沖/ルソン島沖に展開、同海域付近で&lt;br&gt;我が後方兵站線攻撃を図る敵艦隊を捕捉、これを複数回撃破、同制海権を確保せよ。</JP-Detail>
+    <TR-Detail>Score two A-rank victory against [W40-2] Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>875</ID>
@@ -2782,99 +2959,6 @@ Yuugumo-Class Destroyers.</TR-Detail>
     <JP-Detail>強行東京急行任務：精鋭「三一駆」第一小隊を護衛戦力とした突入艦隊を編成、南方サーモン海域に投入。&lt;br&gt;鉄底海峡に突入し、同海域に展開する敵艦艇を実力で排除、強行鼠輸送作戦を反復完遂せよ！</JP-Detail>
     <TR-Detail>Obtain two S-rank victories at [W5-4] boss using Naganami Kai Ni as flagship,
 either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>676</ID>
-    <JP-Name>装備開発力の集中整備</JP-Name>
-    <TR-Name>F68w3: Weekly Gun Dismantlement</TR-Name>
-    <JP-Detail>工廠環境の集中整備を実施する！「中口径主砲」系装備x3、「副砲」系装備x3、「ドラム缶(輸送用)」x1&lt;br&gt;を廃棄、鋼材2,400を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
-    <TR-Detail>Have 2400 Steel and then scrap three medium guns, three secondary guns, and one drum.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>189</ID>
-    <JP-Name>精鋭「四水戦」抜錨準備！</JP-Name>
-    <TR-Name>A84: Elite 4th Destroyer Squadron, Prepare to Set Sail!</TR-Name>
-    <JP-Detail>四水戦(4Sd)特別編成：「村雨改二」旗艦と精鋭四水戦「由良改二」「夕立改二」「春雨改」「五月雨改」&lt;br&gt;「秋月改」より3隻、さらに主力艦2隻を配備した、有力な特務艦隊を編成、南方海域出撃に備えよ！</JP-Detail>
-    <TR-Detail>Fill an entire six-ship fleet with Murasame Kai Ni as flagship, 3+ of Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai or Akizuki Kai and your choice of other ships.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>190</ID>
-    <JP-Name>精鋭「第二一駆逐隊」、抜錨準備！</JP-Name>
-    <TR-Name>A85: Elite 21st Destroyer Division, Prepare to Set Sail!</TR-Name>
-    <JP-Detail>精鋭駆逐隊編成任務：捷一号作戦を支援する。同決戦正面の基地航空への資材輸送任務のため、&lt;br&gt;「若葉改」「初春改二」「初霜改二」を含む3～4隻の精鋭「第二一駆逐隊」の編成を完了せよ！</JP-Detail>
-    <TR-Detail>Have Wakaba Kai, Hatsuharu Kai Ni and Hatsushimo Kai Ni, up to 1 other DD, and no other ships in your fleet.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>191</ID>
-    <JP-Name>改装「第十七駆逐隊」、再編始め！</JP-Name>
-    <TR-Name>A86: Remodeled 17th Destroyer Division, Commence Restructuring!</TR-Name>
-    <JP-Detail>改装駆逐隊編成任務：改装した陽炎型駆逐艦「浦風改」「谷風改」、そして対空戦闘の激化に備え、&lt;br&gt;対空兵装を軸に大幅強化改装した「磯風乙改」「浜風乙改」による「第十七駆逐隊」を再編せよ！</JP-Detail>
-    <TR-Detail>Have ONLY Hamakaze Kai B, Isokaze Kai B, Urakaze Kai and Tanikaze Kai in your fleet.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>318</ID>
-    <JP-Name>給糧艦「伊良湖」の支援</JP-Name>
-    <TR-Name>C16: Monthly Exercises 2</TR-Name>
-    <JP-Detail>伊良湖支援任務：軽巡を2隻以上配備した第一艦隊で本日中に演習で3回「勝利」、その後、&lt;br&gt;第一艦隊旗艦に戦闘糧食を二つ装備せよ！　※任務達成後、同戦闘糧食は消費します</JP-Detail>
-    <TR-Detail>Secure 3 victories in Exercises using 2 CLs. Afterwards, equip the Fleet 1 flagship with 2 Combat Rations.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>319</ID>
-    <JP-Name>精鋭「第二一駆」、猛特訓！</JP-Name>
-    <TR-Name>C17: Elite 21st Destroyer Division, Train Intensively!</TR-Name>
-    <JP-Detail>駆逐隊演習任務：精鋭「第二一駆逐隊」3隻を含む艦隊を編成。作戦に先立ち、猛特訓を開始する！&lt;br&gt;同艦隊で、本日中に演習で4回勝利せよ！</JP-Detail>
-    <TR-Detail>Secure 4 victories in Exercises within the same day using Hatsuharu Kai Ni, Wakaba Kai, Hatsushimo Kai Ni and up to 3 other ships.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>320</ID>
-    <JP-Name>駆逐隊、特訓始め！</JP-Name>
-    <TR-Name>C18: Destroyer Division, Commence Intensive Training!</TR-Name>
-    <JP-Detail>駆逐隊演習任務：駆逐艦4隻で編成される駆逐隊。この駆逐隊を含む艦隊を編成。&lt;br&gt;特訓を開始する！同艦隊で本日中に演習にて4回以上勝利せよ！</JP-Detail>
-    <TR-Detail>Secure 4 victories in Exercises within the same day using 4 DD and up to 2 additional ships.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>322</ID>
-    <JP-Name>海防艦、演習始め！</JP-Name>
-    <TR-Name>C20: Kaiboukan, Commence Exercises!</TR-Name>
-    <JP-Detail>海防艦演習任務：海防艦を旗艦に配備し、随伴艦に駆逐艦2隻以上を配した演習艦隊を編成。&lt;br&gt;本演習艦隊で、本日中に演習で2回以上勝利せよ！</JP-Detail>
-    <TR-Detail>Secure 2 victories in Exercises within the same day using a DE flagship, 2 DD, and up to 3 additional ships.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>677</ID>
-    <JP-Name>継戦支援能力の整備</JP-Name>
-    <TR-Name>F69w4: Weekly Dismantlement 2</TR-Name>
-    <JP-Detail>艦娘の継戦支援体制の整備強化を実施する！「大口径主砲」系装備x4、「水上偵察機」系装備x2、&lt;br&gt;「魚雷」系装備x3を廃棄、鋼材3,600を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
-    <TR-Detail>Have 3600 Steel. Scrap 4 Large Cal. Main Guns, 2 Recon Seaplanes and 3 Torpedoes.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>678</ID>
-    <JP-Name>主力艦上戦闘機の更新</JP-Name>
-    <TR-Name>F70q5: Quarterly Shiden Kai Ni and Materials</TR-Name>
-    <JP-Detail>艦上戦闘機「九六式艦戦」x3、「零式艦戦21型」x5を廃棄。秘書艦の一番及び二番装備スロットに&lt;br&gt;「零式艦戦52型」を装備。ボーキサイト4,000を準備せよ。※任務達成後、準備資源は消費します。</JP-Detail>
-    <TR-Detail>Have 4000 Bauxite. Equip a secretary with Type 0 Fighter Model 52s in her first two slots. Scrap 3 Type 96 Fighters and 5 Type 0 Fighter Model 21s.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>679</ID>
-    <JP-Name>対空兵装の拡充</JP-Name>
-    <TR-Name>F71: An Expansion of Anti-Air Armaments</TR-Name>
-    <JP-Detail>対空兵装の整備拡充を実施する！「中口径主砲」系装備x6、「副砲」系装備x3を廃棄、&lt;br&gt;ボーキサイト900を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
-    <TR-Detail>Have 900 Bauxite. Scrap 6 Medium Cal. Main Guns and 3 Secondary Guns.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>680</ID>
-    <JP-Name>対空兵装の整備拡充</JP-Name>
-    <TR-Name>F72q6: Quarterly AA Guns</TR-Name>
-    <JP-Detail>対空兵装の整備拡充を継続実施する！「機銃」系装備x4、「電探」系装備x4を廃棄、&lt;br&gt;ボーキサイト1,500を準備せよ！　※任務達成後、準備した資源は消費します。</JP-Detail>
-    <TR-Detail>Have 1500 Bauxite. Scrap 4 AA Machine Guns and 4 Radars.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>685</ID>
-    <JP-Name>駆逐艦主砲兵装の戦時改修</JP-Name>
-    <TR-Name>F76: Wartime Modification of Destroyer Main Guns</TR-Name>
-    <JP-Detail>旗艦特型駆逐艦の第一スロに「12.7cm連装砲A型改二」改修maxを装備、 「10cm連装高角砲」x4&lt;br&gt; 「94式高射装置」x1を廃棄、開発資材x30、鋼材900、新型砲熕兵装資材x1を準備せよ！</JP-Detail>
-    <TR-Detail>Have 30 Development Materials, 900 steel, and a New Type Artillery Armament Material.
-Equip an unlocked ★max 12.7cm Twin Gun Model A Kai 2 in the first slot of your Fubuki-class
-secretary ship. And then scrap four 10cm Twin High-angle Gun and one Type 94 AAFD.</TR-Detail>
   </Quest>
   <Quest>
     <ID>876</ID>
@@ -2912,39 +2996,11 @@ secretary ship. And then scrap four 10cm Twin High-angle Gun and one Type 94 AAF
     <TR-Detail>Sortie 4 DD and up to 2 additional ships [W1-6], [W2-3], [W3-2] and [W4-2]. Reach [W1-6] node N and A-Rank+ the boss nodes.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>192</ID>
-    <JP-Name>精鋭「第十八駆逐隊」を編成せよ！</JP-Name>
-    <TR-Name>A87: Organize the Elite 18th Destroyer Division!</TR-Name>
-    <JP-Detail>精鋭駆逐隊編成任務：「霰改二」「霞改二/改二乙」「陽炎改」「不知火改」4隻による&lt;br&gt;精鋭「第十八駆逐隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Have ONLY Arare Kai Ni, Kasumi Kai Ni/B, Kagerou Kai, and Shiranui Kai in your fleet.</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>881</ID>
     <JP-Name>「十八駆」、北方海域キス島へ！</JP-Name>
     <TR-Name>B116: 18th Destroyer Division, to Kis Island in the Northern Sea!</TR-Name>
     <JP-Detail>精鋭「第十八駆逐隊」を投入し、北方海域キス島撤退作戦を実施する！&lt;br&gt;同作戦に反復出動し、キス島撤退作戦を完全成功させよ！</JP-Detail>
     <TR-Detail>Sortie Arare Kai Ni, Kasumi Kai Ni/B, Kagerou Kai, and Shiranui Kai to [W3-2] and S-rank the boss node twice(?).</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>321</ID>
-    <JP-Name>五周年任務【肆：演習】</JP-Name>
-    <TR-Name>5A04: Fifth Anniversary Mission IV: Exercises</TR-Name>
-    <JP-Detail>五周年任務：駆逐艦または海防艦2隻以上を含む五隻の特別編成の艦隊を編成！&lt;br&gt;この五周年特別艦隊で、本日中に演習で4回以上勝利せよ！</JP-Detail>
-    <TR-Detail>Secure 4 victories in Exercises within the same day using 2 DD/DE and 3 additional ships.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>681</ID>
-    <JP-Name>五周年任務【壱：工廠】</JP-Name>
-    <TR-Name>5A01: Fifth Anniversary Mission I: The Arsenal</TR-Name>
-    <JP-Detail>五周年任務：艦隊五周年特別任務群を開始する！同任務群は全五任務で構成。まずは工廠の整理から！&lt;br&gt;「小口径主砲」系装備x5 及び「中口径主砲」系装備x5 を廃棄、工廠環境の向上と整理整頓を実施せよ！</JP-Detail>
-    <TR-Detail>Scrap 5 Small Cal. Main Guns and 5 Medium Cal. Main Guns.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>706</ID>
-    <JP-Name>五周年任務【参：近代化改修】</JP-Name>
-    <TR-Name>5A03: Fifth Anniversary Mission III: Modernization</TR-Name>
-    <JP-Detail>五周年任務：鉄鋼555及びボーキサイト555を準備して、任意の海防艦の近代化改修を[駆逐艦]x5隻&lt;br&gt;同時使用により2回成功させよ！※任務達成後、準備した資源は消費します。</JP-Detail>
-    <TR-Detail>Have 555 steel and bauxite. Successfully modernize a DE using 5 DD twice.</TR-Detail>
   </Quest>
   <Quest>
     <ID>882</ID>
@@ -2975,67 +3031,11 @@ secretary ship. And then scrap four 10cm Twin High-angle Gun and one Type 94 AAF
     <TR-Detail>Sortie Ise Kai Ni as flagship, 2 DD, and up to 3 additional ships to [W6-5]. S-Rank the boss node 3 times.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>505</ID>
-    <JP-Name>主計科任務【おにぎりを作る！】</JP-Name>
-    <TR-Name>Su01: Accounting Department Mission: Time to Make Onigiri!</TR-Name>
-    <JP-Detail>主計科任務：回収した「お米」炊いて、「おにぎり」を作ろう。&lt;br&gt;海の上で食う握り飯は……美味いぞ！</JP-Detail>
-    <TR-Detail>Collect 5 Rice and make an Onigiri.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>506</ID>
-    <JP-Name>主計科任務【おにぎりを振舞おう！】</JP-Name>
-    <TR-Name>Su02: Accounting Department Mission: Treat Everyone to Some Onigiri!</TR-Name>
-    <JP-Detail>主計科任務：「お米」一杯炊いて、「おにぎり」を新たに3回作るかも。&lt;br&gt;工廠の皆に差し入れで振舞いたいかも！　※任務達成後、作った戦闘糧食は消費します。</JP-Detail>
-    <TR-Detail>Collect 15 Rice and make 3 Onigiri.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>507</ID>
-    <JP-Name>主計科任務【高級おにぎりを作る！】</JP-Name>
-    <TR-Name>Su03: Accounting Department Mission: Time to Make High-Class Onigiri!</TR-Name>
-    <JP-Detail>主計科任務：美味しい「お米」と「梅干」と「海苔」で、「高級おにぎり」を作りましょう。&lt;br&gt;いい食材で、丁寧に作った握り飯は……美味しい！提督、美味しいです！</JP-Detail>
-    <TR-Detail>Collect 6 Rice, 2 Umeboshi and 3 Nori to make a High-Class Onigiri.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>508</ID>
-    <JP-Name>主計科任務【差し入れ！高級おにぎり】</JP-Name>
-    <TR-Name>Su04: Accounting Department Mission: Supplies Incoming! High-Class Rice Balls</TR-Name>
-    <JP-Detail>主計科任務：そうだ、提督、いいこと考えました！この美味しい「高級おにぎり」を一杯作って&lt;br&gt;空技廠の皆さんに差し入れしましょう！ね、加賀さん！(※高級おにぎりを後2回作りましょう)</JP-Detail>
-    <TR-Detail>Collect 12 Rice, 4 Umeboshi, and 6 Nori. Then make 2 High-Class Onigiri.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>509</ID>
-    <JP-Name>主計科任務【お茶漬けを作る！】</JP-Name>
-    <TR-Name>Su05: Accounting Department Mission: Time to Make Ochazuke!</TR-Name>
-    <JP-Detail>主計科任務：「お米」と「梅干」と「海苔」、そして良い「お茶」で、「お茶漬け」を作りましょう。&lt;br&gt;さらさら～っと食べれるお茶漬けは、夜食にも、飲みの後の〆の一杯としても最高ですね！</JP-Detail>
-    <TR-Detail>Collect 8 Rice, 3 Umeboshi, 3 Nori, 4 Tea, and make Ochazuke.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>510</ID>
-    <JP-Name>主計科任務　【お茶漬け、夜食にどうぞ！】</JP-Name>
-    <TR-Name>Su06: Accounting Department Mission: Here, Have Some Ochazuke for Supper!</TR-Name>
-    <JP-Detail></JP-Detail>
-    <TR-Detail>Collect 16 Rice, 6 Umeboshi, 6 Nori, 8 Tea, and make 2 Ochazuke.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>511</ID>
-    <JP-Name>主計科任務　【海苔巻きを作ろう！】</JP-Name>
-    <TR-Name>Su07: Accounting Department Mission: Let&apos;s Make Nori Rolls!</TR-Name>
-    <JP-Detail></JP-Detail>
-    <TR-Detail>Collect 12 Rice and 6 Nori.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>512</ID>
-    <JP-Name>主計科任務　【和定食膳を作って完食！】</JP-Name>
-    <TR-Name>Su08: Accounting Department Mission: Make a Japanese Set Meal and Eat Up!</TR-Name>
-    <JP-Detail></JP-Detail>
-    <TR-Detail>Collect 26 Rice, 5 Umeboshi, 6 Nori, and 7 Tea. Then make 1 Japanese Meal Set and 3 Onigiri.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>513</ID>
-    <JP-Name>主計科拡張任務　【日の丸弁当、量産！】</JP-Name>
-    <TR-Name>Su09: Accounting Department Extra Mission: Rising Sun Lunch Boxes for Everyone!</TR-Name>
-    <JP-Detail></JP-Detail>
-    <TR-Detail></TR-Detail>
+    <ID>890</ID>
+    <JP-Name>精鋭「四戦隊」第二小隊、抜錨せよ！</JP-Name>
+    <TR-Name>B122: Elite 4th Cruiser Division 2nd Platoon, Set Sail!</TR-Name>
+    <JP-Detail>「摩耶改二」及び「鳥海改二」から成る精鋭「第四戦隊」第二小隊を含む有力な艦隊を編成、南西&lt;br&gt;諸島防衛線、東部オリョール海、アルフォンシーノ方面、カレー洋リランカ島沖に出撃、敵を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Choukai Kai Ni and Maya Kai Ni and up to 4 additional ships to [W1-4], [W2-3], [W3-3], and [W4-5]. S-Rank the boss nodes.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
