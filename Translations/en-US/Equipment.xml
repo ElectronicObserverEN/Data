@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.56">
+<Equipment Version="1.3.57">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -129,10 +129,6 @@
     <TR-Name>Type 42 Air RADAR</TR-Name>
   </Item>
   <Item>
-    <JP-Name>14号対空電探</JP-Name>
-    <TR-Name>Type 14 Air RADAR</TR-Name>
-  </Item>
-  <Item>
     <JP-Name>改良型艦本式タービン</JP-Name>
     <TR-Name>Improved Kanhon Turbine</TR-Name>
   </Item>
@@ -191,10 +187,6 @@
   <Item>
     <JP-Name>三式水中探信儀</JP-Name>
     <TR-Name>Type 3 Active SONAR</TR-Name>
-  </Item>
-  <Item>
-    <JP-Name>12.7cm単装高角砲</JP-Name>
-    <TR-Name>12.7cm Single High-angle Gun</TR-Name>
   </Item>
   <Item>
     <JP-Name>12cm単装高角砲</JP-Name>
