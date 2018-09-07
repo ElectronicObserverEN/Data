@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<EquipmentTypes Version="1.3.81">
+<EquipmentTypes Version="1.3.82">
 	<Type>
 		<JP-Name>小口径主砲</JP-Name>
 		<TR-Name>Small-caliber Gun</TR-Name>
@@ -207,5 +207,25 @@
 	<Type>
 		<JP-Name>潜水艦装備</JP-Name>
 		<TR-Name>Subs Equipment</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>VT信管</JP-Name>
+		<TR-Name>VT Fuze</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>大型電探（II）</JP-Name>
+		<TR-Name>Large RADAR (II)</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>艦上偵察機(II)</JP-Name>
+		<TR-Name>Carrier-based Recon Plane (II)</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name>追加装甲</JP-Name>
+		<TR-Name>Add-on Armor</TR-Name>
+	</Type>
+	<Type>
+		<JP-Name></JP-Name>
+		<TR-Name></TR-Name>
 	</Type>
 </EquipmentTypes>
