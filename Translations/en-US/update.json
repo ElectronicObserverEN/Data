@@ -1,9 +1,9 @@
 {
-	"bld_date" : "2018/08/28 23:00:00",
-	"ver" : "4.0.0",
-	"note" : "*Replaced built-in browser with CEF.<br>*Support for KanColle Phase 2.<br>If you have trouble updating, please visit the releases page and update manually.",
-	"url" : "https://github.com/silfumus/ElectronicObserver/releases/download/v4.0.0/ElectronicObserver400.zip",
-	"hash" : "9FDB75A7F1C14F830C73474D6A545F4CA1600E1DB5EE2FF17C5BD13D6B6BCC90",
+	"bld_date" : "2018/09/08 01:00:00",
+	"ver" : "4.0.1",
+	"note" : "*Add options to fix wrong color (Force sRGB color profile).<br>*Improve fleet image feature.<br>*Updated node definition.<br><br>If you have trouble updating, please visit the releases page and update manually.",
+	"url" : "https://github.com/silfumus/ElectronicObserver/releases/download/v4.0.1/ElectronicObserver401-upgrade.zip",
+	"hash" : "6807A43E0E297A88D8931565BE13C401F09AA2F50C86409C27F551564882B7EE",
 	"tl_ver" : {
 		"equipment" : "1.3.59",
 		"equipment_type" : "1.3.82",
@@ -14,6 +14,6 @@
 		"ship" : "1.4.25",
 		"ship_type" : "1.1.23"
 	},
-	"kancolle_mt" : "2018/9/7 11:00:00",
+	"kancolle_mt" : "2018/9/8 11:00:00",
 	"event_state" : 1
 }
