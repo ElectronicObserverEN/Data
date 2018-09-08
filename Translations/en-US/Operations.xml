@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.3.16">
+<Operations Version="1.3.17">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>Sea in Front of the Naval Base</TR-Name>
@@ -29,8 +29,8 @@
     <TR-Name>Cam Ranh Peninsula</TR-Name>
   </Map>
   <Map>
-    <JP-Name>バシー島沖</JP-Name>
-    <TR-Name>Bashi Island</TR-Name>
+    <JP-Name>バシー海峡</JP-Name>
+    <TR-Name>Bashi Strait</TR-Name>
   </Map>
   <Map>
     <JP-Name>東部オリョール海</JP-Name>
@@ -69,8 +69,8 @@
     <TR-Name>Battle of Jam Island</TR-Name>
   </Map>
   <Map>
-    <JP-Name>カレー洋制圧戦</JP-Name>
-    <TR-Name>Curry Ocean Pacification</TR-Name>
+    <JP-Name>カレー洋海域</JP-Name>
+    <TR-Name>Curry Ocean Area</TR-Name>
   </Map>
   <Map>
     <JP-Name>リランカ島空襲</JP-Name>
@@ -219,6 +219,18 @@
   <Map>
     <JP-Name>捷号決戦！邀撃、レイテ沖海戦(前篇)</JP-Name>
     <TR-Name>Showdown at Operation Shō-Gō! Battle of Leyte Gulf (Part 1)</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>南西作戦海域方面 バリ島沖</JP-Name>
+    <TR-Name>Southwest Operation Area Bali Island</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>西方作戦海域方面 マラッカ海峡北方</JP-Name>
+    <TR-Name>Western Operation Area Malacca Strait</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>西方作戦海域方面 セイロン島南西沖</JP-Name>
+    <TR-Name>Western Operation Area Ceylon Island</TR-Name>
   </Map>
   <Map>
     <JP-Name></JP-Name>
