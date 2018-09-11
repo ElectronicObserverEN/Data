@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.89">
+<Quests Version="1.1.90">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1429,6 +1429,13 @@ Yuugumo-Class Destroyers.</TR-Detail>
     <TR-Name>C20: Kaiboukan, Commence Exercises!</TR-Name>
     <JP-Detail>海防艦演習任務：海防艦を旗艦に配備し、随伴艦に駆逐艦2隻以上を配した演習艦隊を編成。&lt;br&gt;本演習艦隊で、本日中に演習で2回以上勝利せよ！</JP-Detail>
     <TR-Detail>Secure 2 victories in Exercises within the same day using a DE flagship, 2 DD, and up to 3 additional ships.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>323</ID>
+    <JP-Name>最精鋭甲型駆逐艦、特訓始め！</JP-Name>
+    <TR-Name>C21: Supreme Type-A Destroyers, Commence Intensive Training!</TR-Name>
+    <JP-Detail>甲型駆逐隊演習任務：練度70以上の甲型駆逐艦【陽炎型/夕雲型】駆逐艦4隻で編成される駆逐隊。&lt;br&gt;この精鋭駆逐隊を含む艦隊を編成。演習を開始する！同艦隊で本日中に演習にて4回以上勝利せよ！</JP-Detail>
+    <TR-Detail>Secure 4 victories in Exercises within the same day using 4 Lv70+ Kagerou/Yuugumo-class DD and up to 2 additional ships.</TR-Detail>
   </Quest>
   <Quest>
     <ID>324</ID>
