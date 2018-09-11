@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.90">
+<Quests Version="1.1.91">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -3024,6 +3024,13 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Detail>Sortie a CL(T)/CT, 2 DD/DE and up to 3 additional ships. Pick one of these: A-Rank+ all [W2] maps OR A-Rank+ [W5-3] and [W5-5] OR A-Rank+ [W6-5].</TR-Detail>
   </Quest>
   <Quest>
+    <ID>884</ID>
+    <JP-Name>最精鋭甲型駆逐艦、突入！敵中突破！</JP-Name>
+    <TR-Name>B117: Supreme Type-A Destroyers, Rush Them! Break Through Their Ranks!</TR-Name>
+    <JP-Detail>「黒潮改二」「不知火改二」「陽炎改二」のいずれかを旗艦、他2隻の練度75以上の甲型駆逐艦を配備した&lt;br&gt;計6隻艦隊で西方カレー洋、北方キス島沖、南方サブ島沖海域に複数回突入、各作戦を完全成功させよ！</JP-Detail>
+    <TR-Detail>Sortie Kagerou Kai Ni OR Shiranui Kai Ni OR Kuroshio Kai Ni as flagship and 2 Lv75+ Kagerou/Yuugumo-class to [W3-2], [W4-2], and [W5-3]. S-Rank each boss node twice.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>885</ID>
     <JP-Name>戦闘航空母艦、出撃せよ！</JP-Name>
     <TR-Name>B118: Battle Carrier, Sortie!</TR-Name>
@@ -3036,6 +3043,13 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Name>B119: Ise Kai Ni, Intercept the Enemy Task Force!</TR-Name>
     <JP-Detail>旗艦「伊勢改二」随伴駆逐艦2隻の航空戦隊を基幹とする艦隊をKW環礁沖空母機動部隊迎撃戦に投入！&lt;br&gt;同反復出撃によって、同方面に来襲する敵機動部隊を迎撃、完全撃滅せよ！　「伊勢改二」、抜錨！</JP-Detail>
     <TR-Detail>Sortie Ise Kai Ni as flagship, 2 DD, and up to 3 additional ships to [W6-5]. S-Rank the boss node 3 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>889</ID>
+    <JP-Name>精鋭「二七駆」第一小隊、出撃せよ！</JP-Name>
+    <TR-Name>B121: First platoon of the Elite 27th Destroyer Division, Sortie!</TR-Name>
+    <JP-Detail>「白露改二」及び「時雨改二」から成る精鋭駆逐隊「二七駆」第一小隊を含む有力な艦隊を編成、&lt;br&gt;東部オリョール海、ジャム島攻略作戦、サーモン海域北方、KW環礁沖海域に出撃、敵を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Shiratsuyu Kai Ni and Shigure Kai Ni and up to 4 additional ships to [W2-3], [W4-1], [W5-5], and [W6-5]. S-Rank the boss nodes.</TR-Detail>
   </Quest>
   <Quest>
     <ID>890</ID>
