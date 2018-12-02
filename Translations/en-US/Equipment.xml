@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.62">
+<Equipment Version="1.3.63">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -182,8 +182,8 @@
   </Item>
   <Item>
     <JP-Name>九三式水中聴音機</JP-Name>
-  </Item>
     <TR-Name>Type 93 Passive SONAR</TR-Name>
+  </Item>
   <Item>
     <JP-Name>三式水中探信儀</JP-Name>
     <TR-Name>Type 3 Active SONAR</TR-Name>
