@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<EquipmentTypes Version="1.3.82">
+<EquipmentTypes Version="1.3.83">
 	<Type>
 		<JP-Name>小口径主砲</JP-Name>
 		<TR-Name>Small-caliber Gun</TR-Name>
@@ -225,7 +225,7 @@
 		<TR-Name>Add-on Armor</TR-Name>
 	</Type>
 	<Type>
-		<JP-Name></JP-Name>
-		<TR-Name></TR-Name>
+		<JP-Name>陸上偵察機</JP-Name>
+		<TR-Name>Land-based Recon Aircraft</TR-Name>
 	</Type>
 </EquipmentTypes>

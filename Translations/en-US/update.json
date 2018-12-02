@@ -5,15 +5,15 @@
 	"url" : "https://github.com/silfumus/ElectronicObserver/releases/download/v4.0.1/ElectronicObserver401-upgrade.zip",
 	"hash" : "6807A43E0E297A88D8931565BE13C401F09AA2F50C86409C27F551564882B7EE",
 	"tl_ver" : {
-		"equipment" : "1.3.61",
-		"equipment_type" : "1.3.82",
+		"equipment" : "1.3.62",
+		"equipment_type" : "1.3.83",
 		"expedition" : "1.3.2",
 		"nodes" : 180913,
-		"operation" : "1.3.18",
+		"operation" : "1.3.19",
 		"quest" : "1.1.91",
 		"ship" : "1.4.28",
-		"ship_type" : "1.1.23"
+		"ship_type" : "1.1.24"
 	},
-	"kancolle_mt" : "2018/9/8 22:30:00",
-	"event_state" : 1
+	"kancolle_mt" : "2018/12/7 11:00:00",
+	"event_state" : 3
 }
