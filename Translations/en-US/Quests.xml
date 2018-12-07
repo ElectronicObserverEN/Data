@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.92">
+<Quests Version="1.1.93">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1383,7 +1383,7 @@ score an S rank victory at the World 2-5 boss.</TR-Detail>
     <ID>314</ID>
     <JP-Name>冬季大演習</JP-Name>
     <TR-Name>C11: Winter Large-scale Exercises</TR-Name>
-    <JP-Detail>冬の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！</JP-Detail>
+    <JP-Detail>冬季大演習：冬の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！</JP-Detail>
     <TR-Detail>Get 8 victories in exercises within the same day.</TR-Detail>
   </Quest>
   <Quest>
@@ -2382,6 +2382,22 @@ Equip an unlocked ★max 12.7cm Twin Gun Model A Kai 2 in the first slot of your
 secretary ship. And then scrap four 10cm Twin High-angle Gun and one Type 94 AAFD.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>689</ID>
+    <JP-Name>戦闘機隊戦力の拡充</JP-Name>
+    <TR-Name>F80: Expansion of Fighter Strength</TR-Name>
+    <JP-Detail>戦闘機拡充任務：「艦戦」「水偵」各x4、「艦偵」x2装備を廃棄、熟練搭乗員x1、新型航空兵装資材x1&lt;br&gt;ボーキサイト3,000を準備せよ！(任務達成後、準備した資源・熟練搭乗員・新型航空兵装資材は消費)</JP-Detail>
+    <TR-Detail>Have a Skilled Pilot, a New Model Aerial Armament Material, and 3000 bauxite.
+And then scrap 4 fighters, 4 recon seaplane, and 2 carrier-based recon plane.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>690</ID>
+    <JP-Name>基地航空隊戦力の拡充</JP-Name>
+    <TR-Name>F81: Expansion of LBAS Strength</TR-Name>
+    <JP-Detail>基地航空隊拡充任務：「艦戦」「艦爆」「艦攻」各x4装備を廃棄、熟練搭乗員x1、新型航空兵装資材x2&lt;br&gt;ボーキサイト4,800を準備せよ！(任務達成後、準備した資源・熟練搭乗員・新型航空兵装資材は消費)</JP-Detail>
+    <TR-Detail>Have a Skilled Pilot, 2 New Model Aerial Armament Material, and 4800 bauxite.
+And then scrap 4 fighters, 4 dive bombers, and 4 torpedo bombers.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>701</ID>
     <JP-Name>はじめての「近代化改修」！</JP-Name>
     <TR-Name>G1: First Modernization</TR-Name>
@@ -3071,6 +3087,20 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Name>B122: Elite 4th Cruiser Division 2nd Platoon, Set Sail!</TR-Name>
     <JP-Detail>「摩耶改二」及び「鳥海改二」から成る精鋭「第四戦隊」第二小隊を含む有力な艦隊を編成、南西&lt;br&gt;諸島防衛線、東部オリョール海、アルフォンシーノ方面、カレー洋リランカ島沖に出撃、敵を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie Choukai Kai Ni and Maya Kai Ni and up to 4 additional ships to [W1-4], [W2-3], [W3-3], and [W4-5]. S-Rank the boss nodes.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>894</ID>
+    <JP-Name>空母戦力の投入による兵站線戦闘哨戒</JP-Name>
+    <TR-Name>Bq9: Carrier Combat Patrol in the Supply Lines</TR-Name>
+    <JP-Detail>空母を含む有力な哨戒艦隊を編成、製油所地帯沿岸、南西諸島防衛線、南西諸島近海、バシー海峡&lt;br&gt;及び東部オリョール海を戦闘哨戒、各海域の敵艦隊を捕捉撃滅、各海域兵站線の安全を確保せよ！</JP-Detail>
+    <TR-Detail>Sortie a carrier and up to 5 additional ships to [W1-3], [W1-4], [W2-1], [W2-2], and [W2-3]. S-Rank the boss nodes.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID></ID>
+    <JP-Name>冬季北方海域作戦</JP-Name>
+    <TR-Name>B127: Northern Sea Winter Operation</TR-Name>
+    <JP-Detail></JP-Detail>
+    <TR-Detail>Sortie a CL flagship and up to 5 additional ships to [W3-1], [W3-3], [W3-4], and [W3-5]. S-Rank the boss nodes 2 times.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
