@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.93">
+<Quests Version="1.1.94">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2380,6 +2380,14 @@ Scrap two Type 22 Surface Radars and three 41cm Twin Gun Mounts.</TR-Detail>
     <TR-Detail>Have 30 Development Materials, 900 steel, and a New Type Artillery Armament Material.
 Equip an unlocked ★max 12.7cm Twin Gun Model A Kai 2 in the first slot of your Fubuki-class
 secretary ship. And then scrap four 10cm Twin High-angle Gun and one Type 94 AAFD.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>688</ID>
+    <JP-Name>航空戦力の強化</JP-Name>
+    <TR-Name>F79: Aerial Force Enhancement</TR-Name>
+    <JP-Detail>航空戦力強化任務：「艦戦」「艦爆」「艦攻」「水偵」を各3装備ずつ廃棄、さらに熟練搭乗員x1、及び&lt;br&gt;ボーキサイト1,800を準備せよ！(任務達成後、熟練搭乗員x1及びボーキサイト1,800は消滅します)</JP-Detail>
+    <TR-Detail>Have 1800 Bauxite and a Skilled Pilot. And then scrap 3 fighters,
+3 dive bombers, 3 torpedo bombers, and 3 recon seaplanes.</TR-Detail>
   </Quest>
   <Quest>
     <ID>689</ID>
