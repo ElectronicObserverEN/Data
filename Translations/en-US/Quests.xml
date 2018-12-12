@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.94">
+<Quests Version="1.1.95">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1403,7 +1403,7 @@ score an S rank victory at the World 2-5 boss.</TR-Detail>
   <Quest>
     <ID>317</ID>
     <JP-Name>甲型駆逐艦の戦力整備計画</JP-Name>
-    <TR-Name>C15: Type-A Destroyer Strength Improvement Plan</TR-Name>
+    <TR-Name>C14: Type-A Destroyer Strength Improvement Plan</TR-Name>
     <JP-Detail>甲型駆逐艦整備任務：甲型駆逐艦【夕雲型/陽炎型】を2隻以上配備した第一艦隊で演習で3回「勝利」、&lt;br&gt;その後、同艦隊を南西諸島海域に投入。各出撃で得られた戦訓を艦隊型駆逐艦戦力整備に活用せよ！</JP-Detail>
     <TR-Detail>Get 3 victories in exercises and then obtain an A-rank victory at [W2-2],
 [W2-3], [W2-4], and [W2-5] boss using the main fleet including 2 Kagerou-Class or
@@ -1412,7 +1412,7 @@ Yuugumo-Class Destroyers.</TR-Detail>
   <Quest>
     <ID>318</ID>
     <JP-Name>給糧艦「伊良湖」の支援</JP-Name>
-    <TR-Name>C16: Monthly Exercises 2</TR-Name>
+    <TR-Name>C15: Monthly Exercises</TR-Name>
     <JP-Detail>伊良湖支援任務：軽巡を2隻以上配備した第一艦隊で本日中に演習で3回「勝利」、その後、&lt;br&gt;第一艦隊旗艦に戦闘糧食を二つ装備せよ！　※任務達成後、同戦闘糧食は消費します</JP-Detail>
     <TR-Detail>Secure 3 victories in Exercises using 2 CLs. Afterwards, equip the Fleet 1 flagship with 2 Combat Rations.</TR-Detail>
   </Quest>
