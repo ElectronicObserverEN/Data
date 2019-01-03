@@ -1,9 +1,9 @@
 {
-	"bld_date" : "2018/12/14 22:00:00",
-	"ver" : "4.0.2.2",
-	"note" : "*Fixed bugged senka calculation.<br>*Fixed failed to update nodes.json.<br>*Implement Dark Mode theme. Apply via Settings.<br><br>If you have trouble updating, please visit the releases page and update manually.",
-	"url" : "https://github.com/silfumus/ElectronicObserver/releases/download/v4.0.2.2/ElectronicObserver4022-upgrade.zip",
-	"hash" : "0d6b0b4601a7f9c5c8cbe4dd67f064c79c524bcf86ec06066d8909256fd1d995",
+	"bld_date" : "2019/01/01 01:00:00",
+	"ver" : "4.1.0.0",
+	"note" : "*Implement option to use fleet tag color as ship name background.<br>*Event-related fixes.<br><br>If you have trouble updating, please visit the releases page and update manually.",
+	"url" : "https://github.com/silfumus/ElectronicObserver/releases/download/v4.1.0.0/ElectronicObserver4100.zip",
+	"hash" : "705aedda70230497fe3e173d605a4995cef1194f8f8297318a0524962f668278",
 	"tl_ver" : {
 		"equipment" : "1.3.64",
 		"equipment_type" : "1.3.83",
