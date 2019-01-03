@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.63">
+<Equipment Version="1.3.64">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -1228,6 +1228,22 @@
 	<JP-Name>二式陸上偵察機</JP-Name>
 	<TR-Name>Type 2 Land-based Recon Aircraft</TR-Name>
   </Item>
+  <Item>
+	<JP-Name>二式陸上偵察機(熟練)</JP-Name>
+	<TR-Name>Type 2 Land-based Recon Aircraft (Skilled)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>5inch単装砲 Mk.30改</JP-Name>
+	<TR-Name>5inch Single Gun Mk.30 Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>533mm五連装魚雷(初期型)</JP-Name>
+	<TR-Name>533mm Quintuple Torpedo (Initial Model)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>SG レーダー(初期型)</JP-Name>
+	<TR-Name>SG Radar (Initial Model)</TR-Name>
+  </Item>
   
   <!-- Abyssal Equipment !-->
   
@@ -1582,6 +1598,22 @@
   <Item>
 	<JP-Name>深海16inch三連装砲改二</JP-Name>
 	<TR-Name>Abyssal 16inch Triple Gun Kai 2</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海5inch連装砲C型</JP-Name>
+	<TR-Name>Abyssal 5inch Twin Gun Model C</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海5.5inch連装砲改</JP-Name>
+	<TR-Name>Abyssal 5.5inch Twin Gun Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海標的</JP-Name>
+	<TR-Name>Abyssal Target</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>深海5inch単装砲 Mk.30</JP-Name>
+	<TR-Name>Abyssal 5inch Single Gun Mk.30</TR-Name>
   </Item>
 
 <!-- ItemDescription !-->
