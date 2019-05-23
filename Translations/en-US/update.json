@@ -2,7 +2,7 @@
 	"bld_date" : "2019/02/19 01:00:00",
 	"ver" : "4.2.0.0",
 	"note" : "* Update cookie expiry date.<br>* Add option to export equipment data to kancolle-fleetanalysis.<br>* Lock Browser to 60 fps to prevent possible crash.<br>See jp changelog for more details.<br><br>If you have trouble updating, please visit the releases page and update manually.",
-	"url" : "https://github.com/silfumus/ElectronicObserver/releases/download/v4.1.2.1/ElectronicObserver4121-upgrade.zip",
+	"url" : "https://github.com/gre4bee/ElectronicObserver/releases/download/4.2.0.0/ElectronicObserver420EN.zip",
 	"hash" : "bca503ce7ec6674ce691107f72a360bbabccb07c303b34c3f8f1aa0187608220",
 	"tl_ver" : {
 		"equipment" : "1.3.64",
