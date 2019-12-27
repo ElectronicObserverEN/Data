@@ -1244,6 +1244,313 @@
 	<JP-Name>SG レーダー(初期型)</JP-Name>
 	<TR-Name>SG Radar (Initial Model)</TR-Name>
   </Item>
+  <Item>
+	<JP-Name>Re.2001 CB改</JP-Name>
+	<TR-Name>Re.2001 CB Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>三式弾改</JP-Name>
+	<TR-Name>Type 3 Shell Kai</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>41cm連装砲改二</JP-Name>
+	<TR-Name>41cm Twin Gun Mount Kai Ni</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>彗星一二型(六三四空/三号爆弾搭載機)</JP-Name>
+	<TR-Name>Suisei Model 12 (634 Air Group w/ Type 3 Cluster Bombs)</TR-Name>
+  </Item>
+  <Item>
+	<JP-Name>彗星一二型(三一号光電管爆弾搭載機)</JP-Name>
+	<TR-Name>Suisei Model 12 (w/ Type 31 Photoelectric Fuze Bombs)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>瑞雲改二(六三四空)</JP-Name>
+    <TR-Name>Zuiun Kai Ni (634 Air Group)</TR-Name>
+  </Item>
+    <Item>
+    <JP-Name>瑞雲改二(六三四空/熟練)</JP-Name>
+    <TR-Name>Zuiun Kai Ni (634 Air Group/Skilled)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>オ号観測機改</JP-Name>
+    <TR-Name>O Type Observation Autogyro Kai</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>オ号観測機改二</JP-Name>
+    <TR-Name>O Type Observation Autogyro Kai Ni</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>S-51J</JP-Name>
+    <TR-Name>S-51J</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>S-51J改</JP-Name>
+    <TR-Name>S-51J Kai</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>35.6cm連装砲改</JP-Name>
+    <TR-Name>35.6cm Twin Gun Mount Kai</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>35.6cm連装砲改二</JP-Name>
+    <TR-Name>35.6cm Twin Gun Mount Kai Ni</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>16inch Mk.I連装砲</JP-Name>
+    <TR-Name>16inch Mk.I Twin Gun Mount</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>16inch Mk.V連装砲</JP-Name>
+    <TR-Name>16inch Mk.V Twin Gun Mount</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>16inch Mk.VIII連装砲改</JP-Name>
+    <TR-Name>16inch Mk.VIII Twin Gun Mount Kai</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>烈風改(三五二空/熟練)</JP-Name>
+    <TR-Name>Reppuu Kai (352 Air Group/Skilled)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>烈風改(試製艦載型)</JP-Name>
+    <TR-Name>Reppuu Kai (Prototype Carrier-based Model)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>烈風改二</JP-Name>
+    <TR-Name>Reppuu Kai Ni</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>烈風改二(一航戦/熟練)</JP-Name>
+    <TR-Name>Reppuu Kai Ni (CarDiv 1/Skilled)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>烈風改二戊型</JP-Name>
+    <TR-Name>Reppuu Kai Ni Model E</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>烈風改二戊型(一航戦/熟練)</JP-Name>
+    <TR-Name>Reppuu Kai Ni Model E (CarDiv 1/Skilled)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>152mm/55 三連装速射砲</JP-Name>
+    <TR-Name>152mm/55 Triple Rapid Fire Gun Mount</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>152mm/55 三連装速射砲改</JP-Name>
+    <TR-Name>152mm/55 Triple Rapid Fire Gun Mount Kai</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>流星改(一航戦)</JP-Name>
+    <TR-Name>Ryuusei Kai (CarDiv 1)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>流星改(一航戦/熟練)</JP-Name>
+    <TR-Name>Ryuusei Kai (CarDiv 1/Skilled)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>九七式艦攻改 試製三号戊型(空六号電探改装備機)</JP-Name>
+    <TR-Name>Prototype Type 97 Torpedo Bomber Kai No. 3 Model E (w/ Type 6 Airborne Radar Kai)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>九七式艦攻改(熟練) 試製三号戊型(空六号電探改装備機)</JP-Name>
+    <TR-Name>Prototype Type 97 Torpedo Bomber Kai (Skilled) No. 3 Model E (w/ Type 6 Airborne Radar Kai)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>二式12cm迫撃砲改</JP-Name>
+    <TR-Name>Type 2 12cm Mortar Kai</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>二式12cm迫撃砲改 集中配備</JP-Name>
+    <TR-Name>Type 2 12cm Mortar Kai (Concentrated Deployment)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>艦載型 四式20cm対地噴進砲</JP-Name>
+    <TR-Name>Shipborne Model Type 4 20cm Anti-ground Rocket Launcher</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>四式20cm対地噴進砲 集中配備</JP-Name>
+    <TR-Name>Type 4 20cm Anti-ground Rocket Launcher (Concentrated Deployment)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Me163B</JP-Name>
+    <TR-Name>Me 163B</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>試製 秋水</JP-Name>
+    <TR-Name>Prototype Shuusui</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>秋水</JP-Name>
+    <TR-Name>Shuusui</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Fw190 A-5改(熟練)</JP-Name>
+    <TR-Name>Fw 190 A-5 Kai (Skilled)</TR-Name>
+  </Item>
+    <Item>
+    <JP-Name>Fw190 D-9</JP-Name>
+    <TR-Name>Fw 190 D-9</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>M4A1 DD</JP-Name>
+    <TR-Name>M4A1 DD</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>8inch三連装砲 Mk.9</JP-Name>
+    <TR-Name>8inch Triple Gun Mount Mk.9</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>8inch三連装砲 Mk.9 mod.2</JP-Name>
+    <TR-Name>8inch Triple Gun Mount Mk.9 mod.2</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>5inch 単装高角砲群</JP-Name>
+    <TR-Name>5inch Single High-angle Gun Mount Battery</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>6inch 連装速射砲 Mk.XXI</JP-Name>
+    <TR-Name>6inch Twin Rapid Fire Gun Mount Mk.XXI</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Bofors 15cm連装速射砲 Mk.9 Model 1938</JP-Name>
+    <TR-Name>Bofors 15cm Twin Rapid Fire Gun Mount Mk.9 Model 1938</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938</JP-Name>
+    <TR-Name>Bofors 15cm Twin Rapid Fire Gun Mount Mk.9 Kai + Single Rapid Fire Gun Mount Mk.10 Kai Model 1938</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>5inch連装両用砲(集中配備)</JP-Name>
+    <TR-Name>5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>GFCS Mk.37+5inch連装両用砲(集中配備)</JP-Name>
+    <TR-Name>GFCS Mk.37 + 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+  <Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+
+
+
   
   <!-- Abyssal Equipment !-->
   
@@ -1615,6 +1922,111 @@
 	<JP-Name>深海5inch単装砲 Mk.30</JP-Name>
 	<TR-Name>Abyssal 5inch Single Gun Mk.30</TR-Name>
   </Item>
+  <Item>
+    <JP-Name>深海16inch Mk.VIII連装砲改</JP-Name>
+    <TR-Name>Abyssal 16inch Mk.VIII Twin Gun Mount Kai</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>高速深海魚雷 mod.3</JP-Name>
+    <TR-Name>High-speed Abyssal Torpedo mod.3</TR-Name>
+  </Item>
+<Item>
+    <JP-Name>深海空要塞(偵察型)</JP-Name>
+    <TR-Name>Abyssal Sky Fortress (Reconnaissance Model)</TR-Name>
+  </Item>
+<Item>
+    <JP-Name>深海空要塞Ace(偵察型)</JP-Name>
+    <TR-Name>Abyssal Sky Fortress Ace (Reconnaissance Model)</TR-Name>
+  </Item>
+<Item>
+    <JP-Name>深海6inch三連装新型速射砲</JP-Name>
+    <TR-Name>Abyssal New Model 6inch Triple Rapid Fire Gun Mount</TR-Name>
+  </Item>
+<Item>
+    <JP-Name>深海空要塞(重爆型)</JP-Name>
+    <TR-Name>Abyssal Sky Fortress (Heavy Bomber Model)</TR-Name>
+  </Item>
+<Item>
+    <JP-Name>深海空要塞Ace(重爆型)</JP-Name>
+    <TR-Name>Abyssal Sky Fortress Ace (Heavy Bomber Model)</TR-Name>
+  </Item>
+<Item>
+    <JP-Name>深海4.7inch砲 Mk.XII</JP-Name>
+    <TR-Name>Abyssal 4.7inch Gun Mk.XII</TR-Name>
+  </Item>
+<Item>
+    <JP-Name>深海8inch連装速射砲</JP-Name>
+    <TR-Name>Abyssal 8inch Twin Rapid Fire Gun Mount</TR-Name>
+  </Item>
+<Item>
+    <JP-Name>深海8inch三連装砲 Mk.9</JP-Name>
+    <TR-Name>Abyssal 8inch Triple Gun Mount Mk.9</TR-Name>
+  </Item>
+<Item>
+    <JP-Name>深海5inch連装両用砲(集中配備)</JP-Name>
+    <TR-Name>Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)</TR-Name>
+  </Item>
+<Item>
+    <JP-Name>深海対空レーダーMark.III+FCS</JP-Name>
+    <TR-Name>Abyssal Air Radar Mark.III + FCS</TR-Name>
+  </Item>
+<Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+<Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+<Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+<Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+<Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+<Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+<Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+<Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+<Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+<Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+<Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+<Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+<Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+<Item>
+    <JP-Name></JP-Name>
+    <TR-Name></TR-Name>
+  </Item>
+
 
 <!-- ItemDescription !-->
 

@@ -1171,6 +1171,62 @@
     <JP-Name>日進</JP-Name>
     <TR-Name>Nisshin</TR-Name>
   </Ship>
+  <Ship>
+    <JP-Name>八丈</JP-Name>
+    <TR-Name>Hachijou</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>石垣</JP-Name>
+    <TR-Name>Ishigaki</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>平戸</JP-Name>
+    <TR-Name>Hirato</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>御蔵</JP-Name>
+    <TR-Name>Mikura</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>神州丸</JP-Name>
+    <TR-Name>Shinshuu Maru</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Perth</JP-Name>
+    <TR-Name>Perth</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>De Ruyter</JP-Name>
+    <TR-Name>De Ruyter</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Houston</JP-Name>
+    <TR-Name>Houston</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Atlanta</JP-Name>
+    <TR-Name>Atlanta</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>G.Garibaldi</JP-Name>
+    <TR-Name>G. Garibaldi</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Fletcher</JP-Name>
+    <TR-Name>Fletcher</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>L.d.S.D.d.Abruzzi</JP-Name>
+    <TR-Name>L.d.S.D.d.Abruzzi</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Janus</JP-Name>
+    <TR-Name>Janus</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Colorado</JP-Name>
+    <TR-Name>Colorado</TR-Name>
+  </Ship>
 
   <!-- Abyssal Ships !-->
 
@@ -1505,6 +1561,30 @@
   <Ship>
     <JP-Name>深海日棲姫</JP-Name>
     <TR-Name>Abyssal Sun Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>北方棲妹</JP-Name>
+    <TR-Name>Northern Little Sister</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>太平洋深海棲姫</JP-Name>
+    <TR-Name>Abyssal Pacific Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>深海地中海棲姫</JP-Name>
+    <TR-Name>Abyssal Mediterranean Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>アンツィオ沖棲姫</JP-Name>
+    <TR-Name>Anzio Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>バタビア沖棲姫</JP-Name>
+    <TR-Name>Batavia Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>防空巡棲姫</JP-Name>
+    <TR-Name>Anti-Air Cruiser Princess</TR-Name>
   </Ship>
 
   <Ship mode="suffix">
