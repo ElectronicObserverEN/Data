@@ -1672,6 +1672,10 @@
     <TR-Name> E</TR-Name>
   </Ship>
   <Ship mode="suffix">
+	<JP-Name>特</JP-Name>
+    <TR-Name> Toku</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
 	<JP-Name>elite</JP-Name>
 	<TR-Name> elite</TR-Name>
   </Ship>
