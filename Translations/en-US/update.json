@@ -1,9 +1,9 @@
 {
-	"bld_date" : "2019/10/01 01:00:00",
-	"ver" : "4.3.0",
-	"note" : "Check github for release notes: https://github.com/gre4bee/ElectronicObserver/releases/tag/4.3.0",
-	"url" : "https://github.com/gre4bee/ElectronicObserver/releases/download/4.3.0/ElectronicObserver430EN.zip",
-	"hash" : "79223DE17B319C135894B188DFF68973437F590E3155B3390BE4620E3334F838",
+	"bld_date" : "2020/01/15 20:30:00",
+	"ver" : "4.4.1",
+	"note" : "Check github for release notes: https://github.com/gre4bee/ElectronicObserver/releases",
+	"url" : "https://github.com/gre4bee/ElectronicObserver/releases/download/4.4.1/ElectronicObserver441EN.zip",
+	"hash" : "BC4FDCDF2B0F0E41CCA5CBD29C46D1DEF28140826FD6994FA0B4813D8DCAF1A1",
 	"tl_ver" : {
 		"equipment" : "1.3.67",
 		"equipment_type" : "1.3.83",
