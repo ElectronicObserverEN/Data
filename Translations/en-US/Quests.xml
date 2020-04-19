@@ -898,14 +898,14 @@ in your fleet.</TR-Detail>
     <JP-Name>近海哨戒を実施せよ！</JP-Name>
     <TR-Name>B135: Patrol the Coastal Waters!</TR-Name>
     <JP-Detail>哨戒任務：軽巡級1隻以上、駆逐艦または海防艦計3隻以上による艦隊で、鎮守府海域の南西諸島沖及び&lt;br&gt;製油所地帯沿岸、南西諸島海域の南西諸島近海及びバシー海峡の哨戒を実施、敵を捕捉撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with 1 Light Cruiser, 3 Destroyers/Coastal Defense Ships, and up to 2 additional ships to Worlds 1-2, 1-3, 2-1, and 2-2. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet with 1 Light Cruiser, 3 Destroyers/Coastal Defense Ships, and up to 2 additional ships to Worlds 1-2, 1-3, 2-1, and 2-2. &lt;br&gt;Obtain an S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>236</ID>
     <JP-Name>精鋭「二四駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>B136: Peerless "DesDiv 24", Sortie!</TR-Name>
     <JP-Detail>二四駆出撃任務：「海風改二」を旗艦とし、「山風」「江風」「涼風」のうち2隻以上を含む艦隊を編成、&lt;br&gt;東部オリョール海、沖ノ島海域、南方海域前面、サブ島沖海域に突入！敵艦隊を捕捉、撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Umikaze Kai Ni as flagship, 2 of Yamakaze, Kawakaze, and Suzukaze, and up to 3 additional ships to Worlds 2-3, 2-4, 5-1, and 5-3. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet with Umikaze Kai Ni as flagship, 2 of Yamakaze, Kawakaze, and Suzukaze, and up to 3 additional ships to Worlds 2-3, 2-4, 5-1, and 5-3. &lt;br&gt;Obtain an S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>239</ID>
@@ -1206,7 +1206,7 @@ score an A rank victory at World 1-5 boss.</TR-Detail>
     <JP-Name>兵站線確保！海上警備を強化実施せよ！</JP-Name>
     <TR-Name>Bm8: Secure the Supply Lines! Strengthen the Marine Guards!</TR-Name>
     <JP-Detail>海上警備任務：軽空母または軽巡級1隻、駆逐艦または海防艦を計3隻以上配備した海上護衛艦隊で、&lt;br&gt;南西諸島沖警備、海上護衛作戦、南1号作戦、南西諸島哨戒を実施、各作戦海域の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with a CL/CVL, 3 DD/DE, and up to 2 additional ships to Worlds 1-2, 1-3, 1-4 and 2-1. Obtain a S-rank at each boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet with a CL/CVL, 3 DD/DE, and up to 2 additional ships to Worlds 1-2, 1-3, 1-4 and 2-1. Obtain an S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>284</ID>
@@ -1505,7 +1505,7 @@ Yuugumo-Class Destroyers.</TR-Detail>
     <JP-Name>【節分任務】節分演習！</JP-Name>
     <TR-Name>SB56: Setsubun Mission: "Setsubun Exercises!"</TR-Name>
     <JP-Detail>節分任務：駆逐艦または海防艦2隻を含む節分艦隊を編成、同艦隊を以て、節分演習を実施する！&lt;br&gt;令和二年節分演習艦隊で、本日中に演習において【完全勝利】を3回以上達成せよ！</JP-Detail>
-    <TR-Detail>Use a fleet with at least 2 Coastal Defense Ships/Destroyers to obtain a S-rank in Exercises 3 times within the same day.</TR-Detail>
+    <TR-Detail>Use a fleet with at least 2 Coastal Defense Ships/Destroyers to obtain an S-rank in Exercises 3 times within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>330</ID>
@@ -1526,28 +1526,28 @@ Yuugumo-Class Destroyers.</TR-Detail>
     <JP-Name>航空戦隊演習(その壱)</JP-Name>
     <TR-Name>C33: Aviation Squadron Exercises (Part 1)</TR-Name>
     <JP-Detail>航空戦隊演習任務：航空母艦3隻以上及び駆逐艦2隻以上を含む航空戦隊を編成。艦隊戦演習により、&lt;br&gt;戦技及び練度向上を図る。同航空戦隊で、本日中に演習を【S判定】勝利3回以上達成せよ！</JP-Detail>
-    <TR-Detail>Use a fleet with 3 Light Aircraft Carriers/Standard Aircraft Carriers/Armored Aircraft Carriers, 2 Destroyers, and up to 1 additional ship. &lt;br&gt;Obtain a S-rank in Exercises 3 times within the same day.</TR-Detail>
+    <TR-Detail>Use a fleet with 3 Light Aircraft Carriers/Standard Aircraft Carriers/Armored Aircraft Carriers, 2 Destroyers, and up to 1 additional ship. &lt;br&gt;Obtain an S-rank in Exercises 3 times within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>334</ID>
     <JP-Name>航空戦隊演習(その弐)</JP-Name>
     <TR-Name>C34: Aviation Squadron Exercises (Part 2)</TR-Name>
     <JP-Detail>航空戦隊演習任務：航空母艦3隻以上及び駆逐艦2隻以上を含む航空戦隊を編成。大規模演習により、&lt;br&gt;さらなる戦技及び練度向上を図る。同航空戦隊で、本日中に演習を【S判定】勝利6回以上達成せよ！</JP-Detail>
-    <TR-Detail>Use a fleet with 3 Light Aircraft Carriers/Standard Aircraft Carriers/Armored Aircraft Carriers, 2 Destroyers, and up to 1 additional ship. &lt;br&gt;Obtain a S-rank in Exercises 6 times within the same day.</TR-Detail>
+    <TR-Detail>Use a fleet with 3 Light Aircraft Carriers/Standard Aircraft Carriers/Armored Aircraft Carriers, 2 Destroyers, and up to 1 additional ship. &lt;br&gt;Obtain an S-rank in Exercises 6 times within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>335</ID>
     <JP-Name>新しき盾</JP-Name>
     <TR-Name>C35: A New Shield</TR-Name>
     <JP-Detail>「新しき盾」演習任務：重巡「摩耶」及び重巡「羽黒」を擁する艦隊による演習「新しき盾」を実施する。&lt;br&gt;本「新しき盾」演習において、本日中に【S判定】勝利3回以上達成せよ！</JP-Detail>
-    <TR-Detail>Use a fleet with Maya, Haguro, and up to 4 additional ships. &lt;br&gt;Obtain a S-rank in Exercises 3 times within the same day.</TR-Detail>
+    <TR-Detail>Use a fleet with Maya, Haguro, and up to 4 additional ships. &lt;br&gt;Obtain an S-rank in Exercises 3 times within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>337</ID>
     <JP-Name>「十八駆」演習！</JP-Name>
     <TR-Name>C38: DesDiv 18 Exercise!</TR-Name>
     <JP-Detail>駆逐艦演習任務：第十八駆逐隊「霞」「霰」「陽炎」「不知火」の4隻を含む演習艦隊を編成。&lt;br&gt;同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！精鋭十八駆に落ち度など無し！</JP-Detail>
-    <TR-Detail>Use a fleet with Kagerou, Shiranui, Kasumi, Arare, and up to 2 additional ships to obtain a S-rank in Exercises 3 times within the same day.</TR-Detail>
+    <TR-Detail>Use a fleet with Kagerou, Shiranui, Kasumi, Arare, and up to 2 additional ships to obtain an S-rank in Exercises 3 times within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>338</ID>
@@ -1561,14 +1561,14 @@ Yuugumo-Class Destroyers.</TR-Detail>
     <JP-Name>「十九駆」演習！</JP-Name>
     <TR-Name>C42: "DesDiv 19" Exercises!</TR-Name>
     <JP-Detail>駆逐艦演習任務：第十九駆逐隊「磯波」「浦波」「綾波」「敷波」の4隻を含む演習艦隊を編成。&lt;br&gt;同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！精鋭十九駆、じゃ、見ててよね！</JP-Detail>
-    <TR-Detail>Use a fleet with Isonami, Uranami, Ayanami, Shikinami, and up to 2 additional ships. &lt;br&gt;Obtain a S-rank in Exercises (PvP) 3 times within the same day.</TR-Detail>
+    <TR-Detail>Use a fleet with Isonami, Uranami, Ayanami, Shikinami, and up to 2 additional ships. &lt;br&gt;Obtain an S-rank in Exercises (PvP) 3 times within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>340</ID>
     <JP-Name>【桃の節句任務】桃の節句演習！</JP-Name>
     <TR-Name>20WiC1: Peach Festival Exercises!</TR-Name>
     <JP-Detail>桃の節句任務：駆逐艦または海防艦計3隻を含む桃の節句艦隊を編成、同艦隊を以て、演習を実施！&lt;br&gt;桃の節句演習艦隊で、本日中に演習において【S判定】勝利を3回以上達成せよ！</JP-Detail>
-    <TR-Detail>Use a fleet with 3 Destroyers and up to 3 additional ships to obtain a S-rank in Exercises 3 times within the same day.</TR-Detail>
+    <TR-Detail>Use a fleet with 3 Destroyers and up to 3 additional ships to obtain an S-rank in Exercises 3 times within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>401</ID>
@@ -2875,14 +2875,14 @@ and score an A rank victory against World 4-1 Boss.</TR-Detail>
     <JP-Name>春の海上警備行動！艦隊、抜錨せよ！</JP-Name>
     <TR-Name>SB43: Guarding the Calm Spring Sea! Fleet, Weigh Anchor!</TR-Name>
     <JP-Detail>春季特別任務：旗艦に軽巡級・軽空母・水上機母艦を配備、駆逐艦・海防艦計4隻以上を含む艦隊を編成、&lt;br&gt;鎮守府正面海域、南西諸島沖、製油所地帯沿岸、南西諸島防衛線の海上警備を実施、敵を発見撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with a CL/CVL/AV as flagship, 4 DD/DE, and up to 1 additional ship to Worlds 1-1, 1-2, 1-3 and 1-4. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet with a CL/CVL/AV as flagship, 4 DD/DE, and up to 1 additional ship to Worlds 1-1, 1-2, 1-3 and 1-4. &lt;br&gt;Obtain an S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>832</ID>
     <JP-Name>春！「三一駆」旗艦「長波」、出撃せよ！</JP-Name>
     <TR-Name>SB44: Spring! DesDiv 31 Flagship "Naganami", Sortie!</TR-Name>
     <JP-Detail>春季特別任務：旗艦に「長波」、三一駆「高波」「沖波」「岸波」「朝霜」から3隻以上を含む第1艦隊で&lt;br&gt;南西諸島近海、バシー海峡の敵を反復撃滅、南方のサーモン海域の敵艦隊と交戦、これを撃破せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Naganami as flagship, 3 of Takanami, Okinami, Kishinami or Asashimo, and up to 2 additonal ships to Worlds 2-1, 2-2 and 5-4. &lt;br&gt;Obtain a S-rank twice at the boss node of 2-1 and 2-2. Obtain an A-rank (or greater) once at the boss node of 5-4.</TR-Detail>
+    <TR-Detail>Sortie a fleet with Naganami as flagship, 3 of Takanami, Okinami, Kishinami or Asashimo, and up to 2 additonal ships to Worlds 2-1, 2-2 and 5-4. &lt;br&gt;Obtain an S-rank twice at the boss node of 2-1 and 2-2. Obtain an A-rank (or greater) once at the boss node of 5-4.</TR-Detail>
   </Quest>
   <Quest>
     <ID>833</ID>
@@ -2960,7 +2960,7 @@ Aoba Kai, Uranami Kai, or Shikinami Kai and score an S-rank victory against Worl
     <JP-Name>【節分拡張任務】令和二年節分作戦、全力出撃！</JP-Name>
     <TR-Name>SB59: "Setsubun Extra Mission" 2nd Year Reiwa Setsubun Operation, Main Force Sortie!</TR-Name>
     <JP-Detail>節分拡張任務：戦艦または航空母艦を旗艦とする駆逐艦2隻以上を含む艦隊で、節分期間の南方海域&lt;br&gt;サーモン海域及び同北方、さらに中部北海域ピーコック島沖の敵戦力を捕捉撃滅せよ(戦果拡張可能)！</JP-Detail>
-    <TR-Detail>Sortie a fleet with a Battleship, Standard Aircraft Carrier, or Armored Aircraft Carrier as flagship, 2 Destroyers, and up to 3 additional ships to Worlds 5-4, 5-5, and 6-4. Obtain a S-rank at each boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet with a Battleship, Standard Aircraft Carrier, or Armored Aircraft Carrier as flagship, 2 Destroyers, and up to 3 additional ships to Worlds 5-4, 5-5, and 6-4. Obtain an S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>844</ID>
@@ -2975,7 +2975,7 @@ Score two A-rank victories against World 5-5 Boss.</TR-Detail>
     <JP-Name>発令！「西方海域作戦」</JP-Name>
     <TR-Name>Bq12: Official Announcement! Western Sea Operation!</TR-Name>
     <JP-Detail>大規模出撃任務：「西方海域作戦」が発令された！有力な艦隊を編成し、西方海域全海域に出撃、&lt;br&gt;同海域に展開する敵戦力を完全撃破、これを殲滅せよ！　艦隊、西へ！</JP-Detail>
-    <TR-Detail>Sortie a fleet to Worlds 4-1, 4-2, 4-3, 4-4, and 4-5. Score a S-rank at each boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet to Worlds 4-1, 4-2, 4-3, 4-4, and 4-5. Score an S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>846</ID>
@@ -3291,7 +3291,7 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <JP-Name>新編成「三川艦隊」、鉄底海峡に突入せよ！</JP-Name>
     <TR-Name>Bq7: New Mikawa Fleet, Rush into the Iron Bottom Ocean Area!</TR-Name>
     <JP-Detail>鉄底海峡戦果拡張：「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」「夕張」の中から4隻を含む突入&lt;br&gt;艦隊を編成。南方海域前面及びサブ島沖海域、サーモン海域に突入、敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with 4 of Choukai, Aoba, Kinugasa, Kako, Furutaka, Tenryuu, and Yuubari and 2 additional ships to Worlds 5-1, 5-3, and 5-4. Obtain a S-rank at each boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet with 4 of Choukai, Aoba, Kinugasa, Kako, Furutaka, Tenryuu, and Yuubari and 2 additional ships to Worlds 5-1, 5-3, and 5-4. Obtain an S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>889</ID>
@@ -3326,42 +3326,42 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <JP-Name>新編「六水戦」出撃！後で感想、聞かせてね！</JP-Name>
     <TR-Name>B141: New 6th Torpedo Squadron Sortie! Let me know what you think afterwards!</TR-Name>
     <JP-Detail>改装軽巡「夕張改二」型旗艦を含む第六水雷戦隊4隻以上を擁する艦隊で、鎮守府近海、鎮守府近海航路、&lt;br&gt;さらに南西諸島バシー海峡、北方キス島沖、南西ブルネイ泊地沖の各作戦を、それぞれ完全成功させよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Yuubari Kai Ni/Yuubari Kai Ni Toku/Yuubari Kai Ni D as flagship, 3 of Yayoi, Mutsuki, Kisaragi, Mochizuki, Uzuki, Kikuzuki and up to 2 additional ships to Worlds 1-5, 1-6, 2-2, 3-2, and 7-1. &lt;br&gt;Obtain a S-rank at the boss node of 1-5, 2-2, 3-2, and 7-1 once. Reach the anchor node N of 1-6 once.</TR-Detail>
+    <TR-Detail>Sortie a fleet with Yuubari Kai Ni/Yuubari Kai Ni Toku/Yuubari Kai Ni D as flagship, 3 of Yayoi, Mutsuki, Kisaragi, Mochizuki, Uzuki, Kikuzuki and up to 2 additional ships to Worlds 1-5, 1-6, 2-2, 3-2, and 7-1. &lt;br&gt;Obtain an S-rank at the boss node of 1-5, 2-2, 3-2, and 7-1 once. Reach the anchor node N of 1-6 once.</TR-Detail>
   </Quest>
   <Quest>
     <ID>903</ID>
     <JP-Name>拡張「六水戦」、最前線へ！</JP-Name>
     <TR-Name>Bq13: Expanded 6th Torpedo Squadron, to the Front Lines!</TR-Name>
     <JP-Detail>軽巡「夕張改二」型の旗艦に随伴第六水雷戦隊駆逐艦2隻以上または「由良改二」を含む艦隊で、南方海域&lt;br&gt;前面、南方サーモン海域、中部北海域ピーコック島沖、中部KW環礁沖海域に展開、敵戦力を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Yuubari Kai Ni/Yuubari Kai Ni Toku/Yuubari Kai Ni D as flagship and one of the following two configurations: &lt;br&gt;EITHER 2 of Yayoi, Mutsuki, Kisaragi, Mochizuki, Uzuki, Kikuzuki and up to 3 additional ships, OR Yura Kai Ni &lt;br&gt;and up to 4 additional ships, to Worlds 5-1, 5-4, 6-4, and 6-5. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet with Yuubari Kai Ni/Yuubari Kai Ni Toku/Yuubari Kai Ni D as flagship and one of the following two configurations: &lt;br&gt;EITHER 2 of Yayoi, Mutsuki, Kisaragi, Mochizuki, Uzuki, Kikuzuki and up to 3 additional ships, OR Yura Kai Ni &lt;br&gt;and up to 4 additional ships, to Worlds 5-1, 5-4, 6-4, and 6-5. &lt;br&gt;Obtain an S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>904</ID>
     <JP-Name>精鋭「十九駆」、躍り出る！</JP-Name>
     <TR-Name>By1: Elite "DesDiv 19", In the Spotlight!</TR-Name>
     <JP-Detail>改装特II型駆逐艦「綾波改二」及び同「敷波改二」を含む精鋭艦隊を前線に投入、南西諸島海域沖ノ島沖、&lt;br&gt;北方海域全域、西方海域カレー洋リランカ島沖、南方サブ島沖海域に展開、各敵主力を捕捉撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Ayanami Kai Ni, Shikinami Kai Ni, and up to 4 additional ships to Worlds 2-5, 3-4, 4-5, and 5-3. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet with Ayanami Kai Ni, Shikinami Kai Ni, and up to 4 additional ships to Worlds 2-5, 3-4, 4-5, and 5-3. &lt;br&gt;Obtain an S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>905</ID>
     <JP-Name>「海防艦」、海を護る！</JP-Name>
     <TR-Name>By2: "Coastal Defense Ships", Protecting the Sea!</TR-Name>
     <JP-Detail>海防艦3隻を含む5隻以下の海上護衛隊を、鎮守府海域に展開。鎮守府正面海域、南西諸島沖海域、製油所&lt;br&gt;地帯沿岸、鎮守府近海、鎮守府近海航路の各海域の安全確保と対潜掃蕩を図れ！海防艦戦隊、抜錨せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with 3 Coastal Defense Ships and up to 2 additional ships to Worlds 1-1, 1-2, 1-3, 1-5, and 1-6. &lt;br&gt;Obtain a S-rank at the boss node of 1-1, 1-2, 1-3, and 1-5 once. Reach the anchor node N of 1-6 once</TR-Detail>
+    <TR-Detail>Sortie a fleet with 3 Coastal Defense Ships and up to 2 additional ships to Worlds 1-1, 1-2, 1-3, 1-5, and 1-6. &lt;br&gt;Obtain an S-rank at the boss node of 1-1, 1-2, 1-3, and 1-5 once. Reach the anchor node N of 1-6 once</TR-Detail>
   </Quest>
   <Quest>
     <ID>906</ID>
     <JP-Name>【桃の節句作戦】鎮守府近海の安全を図れ！</JP-Name>
     <TR-Name>20WiB1: (Peach Festival Operation) Aim the Protect the seas near the Naval District!</TR-Name>
     <JP-Detail>【桃の節句作戦】駆逐艦または海防艦計3隻を含む艦隊で、鎮守府海域南西諸島沖、製油所地帯沿岸、&lt;br&gt;鎮守府近海、鎮守府近海航路、南西諸島海域南西諸島近海の各海域の安全確保と対潜掃蕩を図れ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with 3 Destroyers/Coastal Defense Ships and up to 3 additional ships to Worlds 1-2, 1-3, 1-5, 1-6, and 2-1. &lt;br&gt;Obtain a S-rank at the boss node of 1-2, 1-3, 1-5, and 2-1 once. Reach the anchor node N of 1-6 once.</TR-Detail>
+    <TR-Detail>Sortie a fleet with 3 Destroyers/Coastal Defense Ships and up to 3 additional ships to Worlds 1-2, 1-3, 1-5, 1-6, and 2-1. &lt;br&gt;Obtain an S-rank at the boss node of 1-2, 1-3, 1-5, and 2-1 once. Reach the anchor node N of 1-6 once.</TR-Detail>
   </Quest>
   <Quest>
     <ID>907</ID>
     <JP-Name>【桃の節句作戦】侵攻部隊物資集積地強襲！</JP-Name>
     <TR-Name>20WiB2: (Peach Festival Operation) Invasion Force Assault on Supply Depots!</TR-Name>
     <JP-Detail>【桃の節句作戦】駆逐艦3隻以上を含む精鋭艦隊で期間限定海域のミンドロ島南部の敵物資集積地を強襲、&lt;br&gt;これに【S勝利】を2回、敵の反撃橋頭堡を粉砕せよ！桃の節句、礼号部隊、出撃！敵物資を燃え尽くせ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with 3 Destroyers and up to 3 additional ships to the Hinamatsuri 2020 Mini-Event map. &lt;br&gt;Obtain a S-rank at node J twice.</TR-Detail>
+    <TR-Detail>Sortie a fleet with 3 Destroyers and up to 3 additional ships to the Hinamatsuri 2020 Mini-Event map. &lt;br&gt;Obtain an S-rank at node J twice.</TR-Detail>
   </Quest>
   <Quest>
     <ID>908</ID>
@@ -3375,7 +3375,7 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <JP-Name>【桃の節句作戦】主力オブ主力、駆ける！</JP-Name>
     <TR-Name>20WiB4: (Peach Festival Operation) Mainstay of Mainstays, Heading Out!</TR-Name>
     <JP-Detail>【桃の節句作戦】精鋭夕雲型駆逐艦3隻以上を含む艦隊で、南西諸島海域バシー海峡、東部オリョール海、&lt;br&gt;北方AL海域、タウイタウイ泊地沖深部の敵を撃破、限定海域マニラ揚陸地点を妨害する敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with 3 Yuugumo-class Destroyers and up to 3-9 additional ships to Worlds 2-2, 2-3, 3-5, 7-2, and the Hinamatsuri 2020 Mini-Event map.&lt;br&gt;Obtain a S-rank at the boss node of 2-2, 2-3, and 3-5 once. &lt;br&gt;Obtain a S-rank at the second boss node of 7-2 once.&lt;br&gt;Obtain a S-rank at node I of the Hinamatsuri 2020 Mini-Event map once.</TR-Detail>
+    <TR-Detail>Sortie a fleet with 3 Yuugumo-class Destroyers and up to 3-9 additional ships to Worlds 2-2, 2-3, 3-5, 7-2, and the Hinamatsuri 2020 Mini-Event map.&lt;br&gt;Obtain an S-rank at the boss node of 2-2, 2-3, and 3-5 once. &lt;br&gt;Obtain an S-rank at the second boss node of 7-2 once.&lt;br&gt;Obtain an S-rank at node I of the Hinamatsuri 2020 Mini-Event map once.</TR-Detail>
   </Quest>
   <Quest>
     <ID>910</ID>
@@ -3396,21 +3396,21 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <JP-Name>工作艦「明石」護衛任務</JP-Name>
     <TR-Name>By4: Repair Ship "Akashi" Escort Mission</TR-Name>
     <JP-Detail>工作艦護衛任務：旗艦に工作艦「明石」、護衛の駆逐艦3隻以上で製油所地帯沿岸、鎮守府近海航路、&lt;br&gt;南西諸島近海、バシー海峡、東部オリョール海に展開。「明石」を護衛、同海域での作戦を成功させよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Akashi, 3 Destroyers, and up to 2 additional ships to Worlds 1-3, 1-6, 2-1, 2-2, and 2-3. &lt;br&gt;Obtain a S-rank at the boss node of 1-3, 2-1, 2-2, and 2-3 once. &lt;br&gt;Reach the anchor node N of 1-6 once.</TR-Detail>
+    <TR-Detail>Sortie a fleet with Akashi, 3 Destroyers, and up to 2 additional ships to Worlds 1-3, 1-6, 2-1, 2-2, and 2-3. &lt;br&gt;Obtain an S-rank at the boss node of 1-3, 2-1, 2-2, and 2-3 once. &lt;br&gt;Reach the anchor node N of 1-6 once.</TR-Detail>
   </Quest>
   <Quest>
     <ID>913</ID>
     <JP-Name>「第五航空戦隊」、縦横無尽！</JP-Name>
     <TR-Name>B143: "5th Carrier Division", Roaming Far and Wide!</TR-Name>
     <JP-Detail>航空母艦「翔鶴」「瑞鶴」、護衛随伴駆逐艦「朧」「秋雲」を中核とした機動部隊を編成。同機動部隊を&lt;br&gt;北方AL海域、珊瑚諸島沖、タウイタウイ泊地沖深部、KW環礁沖海域に展開、敵艦隊を捕捉撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Shoukaku, Zuikaku, Oboro, Akigumo, and up to 2 additional ships to Worlds 3-5, 5-2, 7-2, and 6-5. &lt;br&gt;Obtain a S-rank at the boss node of 3-5, 5-2, and 6-5 once. &lt;br&gt;Obtain a S-rank at the second boss of 7-2 once.</TR-Detail>
+    <TR-Detail>Sortie a fleet with Shoukaku, Zuikaku, Oboro, Akigumo, and up to 2 additional ships to Worlds 3-5, 5-2, 7-2, and 6-5. &lt;br&gt;Obtain an S-rank at the boss node of 3-5, 5-2, and 6-5 once. &lt;br&gt;Obtain an S-rank at the second boss of 7-2 once.</TR-Detail>
   </Quest>
   <Quest>
     <ID>914</ID>
     <JP-Name>重巡戦隊、西へ！</JP-Name>
     <TR-Name>By3: Heavy Cruiser Squadron, to the West!</TR-Name>
     <JP-Detail>重巡(航空巡洋艦含まず)3隻以上、駆逐艦1隻以上を中核とした艦隊を編成。同艦隊を西方に展開。&lt;br&gt;西方海域ジャム島沖、カレー洋海域、リランカ島、カスガダマ島の敵戦力と交戦、これを撃破せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with 3 Heavy Cruisers, 1 Destroyer, and up to 2 additional ships to Worlds 4-1, 4-2, 4-3, and 4-4. &lt;br&gt;Obtain a S-rank at each boss node once.</TR-Detail>
+    <TR-Detail>Sortie a fleet with 3 Heavy Cruisers, 1 Destroyer, and up to 2 additional ships to Worlds 4-1, 4-2, 4-3, and 4-4. &lt;br&gt;Obtain an S-rank at each boss node once.</TR-Detail>
   </Quest>
   <Quest>
     <ID>915</ID>
@@ -3431,7 +3431,7 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <JP-Name>「比叡」の出撃</JP-Name>
     <TR-Name>B128: Hiei's Sortie</TR-Name>
     <JP-Detail>「比叡」南方海域出撃任務：高速戦艦「比叡」を旗艦とする有力な艦隊で、南方海域&lt;br&gt;サブ島沖海域及びサーモン海域に出撃。同作戦海域の敵艦隊と交戦、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Hiei as flagship to Worlds 5-3 and 5-4.&lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet with Hiei as flagship to Worlds 5-3 and 5-4.&lt;br&gt;Obtain an S-rank at each boss node.</TR-Detail>
   <Quest>
     <ID>336</ID>
     <JP-Name>輸送船団演習</JP-Name>
@@ -3445,14 +3445,14 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <JP-Name>陸戦用装備の艦載運用実戦研究</JP-Name>
     <TR-Name>B139: Research of Ship-borne Land Based Equipment in Actual Combat</TR-Name>
     <JP-Detail>陸戦用装備の艦載運用研究：水上機母艦または揚陸艦を含む艦隊を編成、西方海域カレー洋リランカ島沖&lt;br&gt;及び中部北海域ピーコック島沖の各作戦において、敵地上戦力と交戦、これを複数回撃破せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with 1 Seaplane Tender/Amphibious Assault Ship and up to 5 additional ships to Worlds 4-5 and 6-4.&lt;br&gt;Obtain a A-rank or higher at each boss node twice.</TR-Detail>
+    <TR-Detail>Sortie a fleet with 1 Seaplane Tender/Amphibious Assault Ship and up to 5 additional ships to Worlds 4-5 and 6-4.&lt;br&gt;Obtain an A-rank or higher at each boss node twice.</TR-Detail>
   </Quest>
   <Quest>
     <ID>887</ID>
     <JP-Name>精鋭「第十八戦隊」、展開せよ！</JP-Name>
     <TR-Name>B120: Expand the Elite 18th Cruiser Division!</TR-Name>
     <JP-Detail>精鋭「第十八戦隊」随伴駆逐艦2隻を含む艦隊を、鎮守府海域に展開。同南西諸島沖海域、南西諸島&lt;br&gt;防衛線、鎮守府近海、鎮守府近海航路の各作戦を完全成功させよ！改装軽巡「天龍」「龍田」、出撃！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Tenryuu Kai Ni, Tatsuta Kai Ni, 2 Destroyers, and up to 2 additonal ships to Worlds 1-2, 1-4, 1-5 and 1-6.&lt;br&gt;Obtain a S-rank the boss node of 1-2, 1-4, and 1-5 once.&lt;br&gt;Reach the anchor node N of 1-6 once.</TR-Detail>
+    <TR-Detail>Sortie a fleet with Tenryuu Kai Ni, Tatsuta Kai Ni, 2 Destroyers, and up to 2 additonal ships to Worlds 1-2, 1-4, 1-5 and 1-6.&lt;br&gt;Obtain an S-rank the boss node of 1-2, 1-4, and 1-5 once.&lt;br&gt;Reach the anchor node N of 1-6 once.</TR-Detail>
   </Quest>
   <Quest>
     <ID>891</ID>
@@ -3466,7 +3466,7 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <JP-Name>主力オブ主力、抜錨開始！</JP-Name>
     <TR-Name>B126: Mainstay of Mainstay, Initiate Sortie!</TR-Name>
     <JP-Detail>甲型駆逐艦編成任務：夕雲型駆逐艦「夕雲改二」及び「巻雲改二」の2隻から成る精鋭第十駆逐隊を含む&lt;br&gt;有力な艦隊を南方海域に投入、サブ島沖海域、サーモン海域、サーモン海域北方の敵を捕捉撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Yuugumo Kai Ni, Makigumo Kai Ni, and 4 additional ships to Worlds 5-3, 5-4, and 5-5.&lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet with Yuugumo Kai Ni, Makigumo Kai Ni, and 4 additional ships to Worlds 5-3, 5-4, and 5-5.&lt;br&gt;Obtain an S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
