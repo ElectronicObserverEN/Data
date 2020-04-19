@@ -1671,7 +1671,7 @@ Yuugumo-Class Destroyers.</TR-Detail>
   <Quest>
     <ID>416</ID>
     <JP-Name>防空射撃演習を実施せよ！</JP-Name>
-    <TR-Name>D15: Air Defence Exercises</TR-Name>
+    <TR-Name>D15: Air Defense Exercises</TR-Name>
     <JP-Detail>「防空射撃演習」を複数回実施し、艦隊の防空能力を高めよ！</JP-Detail>
     <TR-Detail>Complete expedition 6 three times.</TR-Detail>
   </Quest>
@@ -1776,7 +1776,7 @@ Yuugumo-Class Destroyers.</TR-Detail>
   <Quest>
     <ID>432</ID>
     <JP-Name>警備及び哨戒偵察を強化せよ！</JP-Name>
-    <TR-Name>D30: Reinforce our Defences as well as Scout Patrols!</TR-Name>
+    <TR-Name>D30: Reinforce our Defenses as well as Scout Patrols!</TR-Name>
     <JP-Detail>警備哨戒任務：遠征「海峡警備行動」「強行偵察任務」「南西方面航空偵察作戦」を実施、&lt;br&gt;南方戦線遠征の前段作戦として、内地及び南西諸島方面の警備及び哨戒偵察を実施せよ！</JP-Detail>
     <TR-Detail>Complete Expeditions 10, A2, and B1 once each.</TR-Detail>
   </Quest>
@@ -2775,7 +2775,7 @@ and score an A rank victory against World 4-1 Boss.</TR-Detail>
   <Quest>
     <ID>817</ID>
     <JP-Name>新編艦隊、南西諸島防衛線へ急行せよ！</JP-Name>
-    <TR-Name>B70: Set Sail Towards the Nansei Islands Defence Line</TR-Name>
+    <TR-Name>B70: Set Sail Towards the Nansei Islands Defense Line</TR-Name>
     <JP-Detail>水雷戦隊を含む新編艦隊を南西諸島防衛線に展開、同方面に来襲する敵艦隊を撃破せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with a CL flagship, 4 DD, and up to 1 additional ship and score an A rank victory against World 1-4 boss.</TR-Detail>
   </Quest>
@@ -2817,7 +2817,7 @@ and score an A rank victory against World 4-1 Boss.</TR-Detail>
   <Quest>
     <ID>823</ID>
     <JP-Name>水雷戦隊、南西防衛線に反復出撃せよ！</JP-Name>
-    <TR-Name>B75: Torpedo Squadron, repeatedly sortie to the Nansei Islands defence line!</TR-Name>
+    <TR-Name>B75: Torpedo Squadron, repeatedly sortie to the Nansei Islands defense line!</TR-Name>
     <JP-Detail>軽巡級旗艦と駆逐艦4隻の水雷戦隊を基幹とした艦隊を編成、&lt;br&gt;南西諸島防衛線に反復出撃し、同海域の制海権確保に努めよ！</JP-Detail>
     <TR-Detail>Sortie a CL/CLT/CT as flagship, four DD, and a wildcard and score two S rank victories against World 1-4 Boss.</TR-Detail>
   </Quest>
@@ -3053,7 +3053,7 @@ Score an S-rank victory against World 6-4 boss.</TR-Detail>
     <JP-Name>海上護衛体制の強化に努めよ！</JP-Name>
     <TR-Name>B98: Focus the Strengthening of the Maritime Escort!</TR-Name>
     <JP-Detail>海上護衛作戦：駆逐艦または海防艦3隻以上を含む護衛艦隊を編成し、鎮守府海域の製油所地帯沿岸、&lt;br&gt;南西諸島防衛線、鎮守府近海、鎮守府近海航路にそれぞれ展開、各海域における作戦を成功させよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with 3 DD or Coastal Defence Ships. Score an S-rank victory against World 1-3, 1-4, and 1-5 boss.
+    <TR-Detail>Sortie a fleet with 3 DD or Coastal Defense Ships. Score an S-rank victory against World 1-3, 1-4, and 1-5 boss.
 And then, sortie to World 1-6 and clear. </TR-Detail>
   </Quest>
   <Quest>
@@ -3417,7 +3417,7 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <JP-Name>【春の期間限定任務】飛べ！下駄履きメカジキ</JP-Name>
     <TR-Name>2003LQ1: Time-limited Spring Mission: Fly! Swordfish Floatplanes</TR-Name>
     <JP-Detail>【春の期間限定任務】水上機母艦を旗艦とし、随伴護衛艦に駆逐艦または海防艦を含む水上機運用艦隊で、&lt;br&gt;南西諸島防衛線、東部オリョール海、沖ノ島海域へ展開！同海域の敵艦隊と交戦、これを撃破せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with a Seaplane Tender as flagship, 1 Destroyer/Coastal Defence Ship, and up to 4 additional ships to Worlds 1-4, 2-3, and 2-4. &lt;br&gt;Obtain an A-rank (or higher) at each boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet with a Seaplane Tender as flagship, 1 Destroyer/Coastal Defense Ship, and up to 4 additional ships to Worlds 1-4, 2-3, and 2-4. &lt;br&gt;Obtain an A-rank (or higher) at each boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>895</ID>
