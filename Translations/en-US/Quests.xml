@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.97">
+<Quests Version="1.1.98">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2867,7 +2867,7 @@ and score an A rank victory against World 4-1 Boss.</TR-Detail>
     <ID>830</ID>
     <JP-Name>夜の海を照らす「灯り」を入手せよ！</JP-Name>
     <TR-Name>B82: Obtain the 'Lantern' to light the Night Sea!</TR-Name>
-    <JP-Detail>有力な艦隊をカムラン半島に投入、同方面に出没する敵艦隊を捕捉、これを撃滅せよ！&lt;br&gt;そして、夜を照らす「灯り」を入手せよ！　ある季節は夜戦以外にも使い道があるようだ！</JP-Detail>
+    <JP-Detail>有力な艦隊を南西諸島近海に投入、同方面に出没する敵艦隊を捕捉、これを撃滅せよ！&lt;br&gt;そして、夜を照らす「灯り」を入手せよ！　ある季節は夜戦以外にも使い道があるようだ！</JP-Detail>
     <TR-Detail>Sortie to World 2-1 and obtain an S-rank at the boss</TR-Detail>
   </Quest>
   <Quest>
