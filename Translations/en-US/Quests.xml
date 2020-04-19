@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.96">
+<Quests Version="1.1.97">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -3420,11 +3420,53 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Detail>Sortie a fleet with a Seaplane Tender as flagship, 1 Destroyer/Coastal Defence Ship, and up to 4 additional ships to Worlds 1-4, 2-3, and 2-4. &lt;br&gt;Obtain an A-rank (or higher) at each boss node.</TR-Detail>
   </Quest>
   <Quest>
-    <ID></ID>
+    <ID>895</ID>
     <JP-Name>冬季北方海域作戦</JP-Name>
     <TR-Name>B127: Northern Sea Winter Operation</TR-Name>
-    <JP-Detail></JP-Detail>
+    <JP-Detail>冬季北方作戦：軽巡級を旗艦とする有力な艦隊で、モーレイ海、アルフォンシーノ方面、北方海域全域及び&lt;br&gt;北方AL海域に反復出撃！同海域に遊弋する敵艦隊を捕捉、これを撃滅し、北方海域制海権を確保せよ！</JP-Detail>
     <TR-Detail>Sortie a CL flagship and up to 5 additional ships to [W3-1], [W3-3], [W3-4], and [W3-5]. S-Rank the boss nodes 2 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>290</ID>
+    <JP-Name>「比叡」の出撃</JP-Name>
+    <TR-Name>B128: Hiei's Sortie</TR-Name>
+    <JP-Detail>「比叡」南方海域出撃任務：高速戦艦「比叡」を旗艦とする有力な艦隊で、南方海域&lt;br&gt;サブ島沖海域及びサーモン海域に出撃。同作戦海域の敵艦隊と交戦、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Hiei as flagship to Worlds 5-3 and 5-4.&lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
+  <Quest>
+    <ID>336</ID>
+    <JP-Name>輸送船団演習</JP-Name>
+    <TR-Name>C37: Transport Fleet Exercise</TR-Name>
+    <JP-Detail>輸送船団演習任務：補給艦または揚陸艦、海防艦を計2隻以上含む輸送船団を編成、&lt;br&gt;同輸送船団及び護衛艦艇による演習で、本日中に【A判定】勝利4回以上達成せよ。</JP-Detail>
+    <TR-Detail>Use a fleet with 2 Amphibious Assault Ships/Fleet Oilers/Coastal Defense Ships and up to 4 additional ships.&lt;br&gt;Obtain an A-rank in Exercises 4 times within the same day.</TR-Detail>
+  </Quest>
+  </Quest>
+  <Quest>
+    <ID>833</ID>
+    <JP-Name>陸戦用装備の艦載運用実戦研究</JP-Name>
+    <TR-Name>B139: Research of Ship-borne Land Based Equipment in Actual Combat</TR-Name>
+    <JP-Detail>陸戦用装備の艦載運用研究：水上機母艦または揚陸艦を含む艦隊を編成、西方海域カレー洋リランカ島沖&lt;br&gt;及び中部北海域ピーコック島沖の各作戦において、敵地上戦力と交戦、これを複数回撃破せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with 1 Seaplane Tender/Amphibious Assault Ship and up to 5 additional ships to Worlds 4-5 and 6-4.&lt;br&gt;Obtain a A-rank or higher at each boss node twice.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>887</ID>
+    <JP-Name>精鋭「第十八戦隊」、展開せよ！</JP-Name>
+    <TR-Name>B120: Expand the Elite 18th Cruiser Division!</TR-Name>
+    <JP-Detail>精鋭「第十八戦隊」随伴駆逐艦2隻を含む艦隊を、鎮守府海域に展開。同南西諸島沖海域、南西諸島&lt;br&gt;防衛線、鎮守府近海、鎮守府近海航路の各作戦を完全成功させよ！改装軽巡「天龍」「龍田」、出撃！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Tenryuu Kai Ni, Tatsuta Kai Ni, 2 Destroyers, and up to 2 additonal ships to Worlds 1-2, 1-4, 1-5 and 1-6.&lt;br&gt;Obtain a S-rank the boss node of 1-2, 1-4, and 1-5 once.&lt;br&gt;Reach the anchor node N of 1-6 once.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>891</ID>
+    <JP-Name>精強「十七駆」、北へ、南へ！</JP-Name>
+    <TR-Name>B123: Elite 17th Destroyer Division, to the North, and the West!</TR-Name>
+    <JP-Detail>改装甲型駆逐艦「磯風乙改」「浜風乙改」「浦風丁改」「谷風丁改」4隻の精強「十七駆」を含む艦隊で&lt;br&gt;鎮守府近海、キス島沖、ブルネイ泊地沖、南方海域前面に出撃、敵戦力と交戦、これを撃破せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai, Tanikaze D Kai, and 2 additional ships to Worlds 1-5, 3-2, 7-1, and 5-1.&lt;br&gt;Obtain an A-rank (or higher) at each boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>892</ID>
+    <JP-Name>主力オブ主力、抜錨開始！</JP-Name>
+    <TR-Name>B126: Mainstay of Mainstay, Initiate Sortie!</TR-Name>
+    <JP-Detail>甲型駆逐艦編成任務：夕雲型駆逐艦「夕雲改二」及び「巻雲改二」の2隻から成る精鋭第十駆逐隊を含む&lt;br&gt;有力な艦隊を南方海域に投入、サブ島沖海域、サーモン海域、サーモン海域北方の敵を捕捉撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Yuugumo Kai Ni, Makigumo Kai Ni, and 4 additional ships to Worlds 5-3, 5-4, and 5-5.&lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
