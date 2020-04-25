@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.98">
+<Quests Version="1.1.99">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -3467,6 +3467,55 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Name>B126: Mainstay of Mainstay, Initiate Sortie!</TR-Name>
     <JP-Detail>甲型駆逐艦編成任務：夕雲型駆逐艦「夕雲改二」及び「巻雲改二」の2隻から成る精鋭第十駆逐隊を含む&lt;br&gt;有力な艦隊を南方海域に投入、サブ島沖海域、サーモン海域、サーモン海域北方の敵を捕捉撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with Yuugumo Kai Ni, Makigumo Kai Ni, and 4 additional ships to Worlds 5-3, 5-4, and 5-5.&lt;br&gt;Obtain an S-rank at each boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>341</ID>
+    <JP-Name>七周年任務【七駆演習】</JP-Name>
+    <TR-Name>7thAnvLC1: 7th Anniversary Mission: 7th DesDiv Exercise</TR-Name>
+    <JP-Detail>七周年任務：第七駆逐隊「朧」「曙」「漣」「潮」のうち2隻以上を含む演習艦隊を編成、&lt;br&gt;本日中に【A判定】勝利3回以上達成せよ。七周年、第七駆逐隊、おめでとう＆ありがと！</JP-Detail>
+    <TR-Detail>Use a fleet with 2 of Oboro, Akebono, Sazanami, and Ushio, and up to 4 additional ships. &lt;br&gt;Obtain an A-rank in Exercises (PvP) 3 times within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>882</ID>
+    <JP-Name>七周年任務【前段作戦】</JP-Name>
+    <TR-Name>7thAnvLB1: 7th Anniversary Mission: First Operation</TR-Name>
+    <JP-Detail>【丙作戦級】駆逐艦または海防艦計3隻以上を含む艦隊で、鎮守府海域南西諸島沖、製油所地帯沿岸、&lt;br&gt;南西諸島防衛線、鎮守府近海、南西諸島近海、バシー海峡に展開！警戒防衛任務にあたれ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with 3 Destroyers/Coastal Defense Ships and up to 3 additional ships to Worlds 1-2, 1-3, 1-4, 1-5, 2-1, and 2-2. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>917</ID>
+    <JP-Name>改装航空軽巡「Gotland andra」、出撃！</JP-Name>
+    <TR-Name>B145: Remodeled Aviation Light Cruiser Gotland Andra, Sortie!</TR-Name>
+    <JP-Detail>「Gotland andra」旗艦、随伴駆逐艦1隻以上を含む艦隊で、南西諸島海域沖ノ島海域に出撃！&lt;br&gt;さらに西方カレー洋海域、カスガダマ島、カレー洋リランカ島沖に展開！同方面の敵を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Gotland Andra as flagship, 1 Destroyer, and up to 4 additional ships to Worlds 2-4, 4-2, 4-4, and 4-5. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>883</ID>
+    <JP-Name>七周年任務【後段作戦】</JP-Name>
+    <TR-Name>7thAnvLB2: 7th Anniversary Mission: Second Operation</TR-Name>
+    <JP-Detail>【乙作戦級】軽巡級1隻駆逐艦2隻以上からなる精鋭水雷戦隊を含む艦隊で、南西諸島海域東部&lt;br&gt;オリョール海、北方海域全海域、南西海域タウイタウイ泊地沖深部に展開、同方面の敵戦力を一掃せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with 1 Light Cruiser, 2 Destroyers, and up to 3 additional ships to Worlds 2-3, 3-1, 3-2, 3-3, 3-4, 3-5, and 7-2. &lt;br&gt;Obtain a S-rank at the boss node of 2-3, 3-1, 3-2, 3-3, 3-4, and 3-5 once. &lt;br&gt;Obtain a S-rank at the second boss node of 7-2 once.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>910</ID>
+    <JP-Name>七周年任務【拡張作戦】</JP-Name>
+    <TR-Name>7thAnvLB3: 7th Anniversary Mission: Extra Operation</TR-Name>
+    <JP-Detail>【最終作戦:甲作戦級】編成自由の精鋭艦隊で、中部海域哨戒線、MS諸島沖、グアノ環礁沖海域、&lt;br&gt;中部北海域ピーコック島沖、KW環礁沖海域に展開、同方面の敵戦力を撃滅！暁の水平線に勝利を刻め！</JP-Detail>
+    <TR-Detail>Sortie a fleet to Worlds 6-1, 6-2, 6-3, 6-4, and 6-5. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>916</ID>
+    <JP-Name>「比叡改二丙」見参！第三戦隊、南方突入！</JP-Name>
+    <TR-Name>B144: Meeting Hiei Kai Ni! 3rd Battleship Squadron, to the South!</TR-Name>
+    <JP-Detail>「比叡改二丙」含む金剛型高速戦艦2隻以上、軽巡級1隻、駆逐艦1隻以上を含む艦隊を南方海域に投入！&lt;br&gt;南方海域前面、珊瑚諸島沖、サブ島沖海域、サーモン海域、同北方の敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Hiei Kai Ni C as flagship, 1 other Kongou-class ship, 1 Light Cruiser, 1 Destroyer, and up to 2 additional ships to Worlds 5-1, 5-2, 5-3, 5-4, and 5-5. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>918</ID>
+    <JP-Name>「Gotland」戦隊、進撃せよ！</JP-Name>
+    <TR-Name>B146: Gotland Squadron, Advance!</TR-Name>
+    <JP-Detail>「Gotland andra」旗艦、随伴駆逐艦1隻以上を含む艦隊で、南西諸島海域沖ノ島沖に進撃！さらに&lt;br&gt;中部海域に展開、グアノ環礁沖海域、中部北海域ピーコック島沖、KW環礁沖海域の敵を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Gotland Andra as flagship, 1 Destroyer, and up to 4 additional ships to Worlds 2-5, 6-3, 6-4, and 6-5. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID></ID>
