@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.99">
+<Quests Version="1.1.100">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -3085,7 +3085,7 @@ Mikuma Kai, up to 2 additional ships and obtain an S-rank victory at world 4-5 a
     <JP-Name>精鋭「第四航空戦隊」、抜錨せよ！</JP-Name>
     <TR-Name>B102: Elite 4th Carrier Division, Set Sail!</TR-Name>
     <JP-Detail>精鋭「第四航空戦隊」出撃任務：精鋭航空戦艦を主戦力に再編された「第四航空戦隊」、抜錨せよ！&lt;br&gt;沖ノ島沖戦闘哨戒及び北方AL海域戦闘哨戒を実施、同方面の敵艦隊主力を捕捉、これを撃破せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Ise and Hyuuga as flagship and second ship, 1CL, 2DD, and 
+    <TR-Detail>Sortie a fleet with Ise and Hyuuga as flagship and second ship (either can be flag, they need to be at least level 50), 1CL, 2DD, and 
 1 additional ship and obtain an A-rank victory at world 2-5 and 3-5 boss node.</TR-Detail>
   </Quest>
   <Quest>
