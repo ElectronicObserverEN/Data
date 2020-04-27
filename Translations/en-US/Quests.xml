@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.101">
+<Quests Version="1.1.102">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -2259,7 +2259,7 @@ And then, scrap three Shiden Kai 2.</TR-Detail>
     <ID>651</ID>
     <JP-Name>ネ式エンジンの増産</JP-Name>
     <TR-Name>F47: Increase Production of Ne-type Engine</TR-Name>
-    <JP-Detail>噴式航空機生産のため、ネ式エンジンの増産を行う。「零式艦戦52型」三つを「工廠」で廃棄し、「流星」「烈風」各二つと鉄鋼8,000を準備せよ！※任務達成後、用意した必要装備と資源は消費します。</JP-Detail>
+    <JP-Detail>噴式航空機生産のため、ネ式エンジンの増産を行う。「零式艦戦52型」三つを「工廠」で廃棄し、「流星」「試製烈風 後期型」各二つと鉄鋼8,000を準備せよ！※任務達成後、用意した必要装備と資源は消費します。</JP-Detail>
     <TR-Detail>Have 8000 steel, two Reppuu, and two Ryuusei in your inventory.
 Unlock both equipment. And then, scrap three Zero Fighter Model 52.</TR-Detail>
   </Quest>
@@ -3517,6 +3517,13 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <JP-Detail>「Gotland andra」旗艦、随伴駆逐艦1隻以上を含む艦隊で、南西諸島海域沖ノ島沖に進撃！さらに&lt;br&gt;中部海域に展開、グアノ環礁沖海域、中部北海域ピーコック島沖、KW環礁沖海域の敵を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with Gotland Andra as flagship, 1 Destroyer, and up to 4 additional ships to Worlds 2-5, 6-3, 6-4, and 6-5. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
   </Quest>
+<Quest>
+    <ID>901</ID>
+    <JP-Name>「夕張改二」試してみてもいいかしら？</JP-Name>
+    <TR-Name>Shall We Put "My" Kai Ni to the Test?</TR-Name>
+    <JP-Detail>改装兵装実験軽巡「夕張改二」型を旗艦にした艦隊で、南西諸島沖ノ島沖、北方アルフォンシーノ方面、&lt;br&gt;南方サブ島沖海域、中部グアノ環礁沖海域に展開！同戦域の敵艦隊主力を捜索、これを捕捉撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Yuubari Kai Ni/Yuubari Kai Ni Toku/Yuubari Kai Ni D as flagship and up to 5 additional ships to Worlds 2-5, 3-3, 5-3, and 6-3.&lt;br&gt;Obtain an S-rank at each boss node. </TR-Detail>
+</Quest>
   <Quest>
     <ID></ID>
     <JP-Name></JP-Name>
