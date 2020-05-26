@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.102">
+<Quests Version="1.1.103">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -3517,13 +3517,62 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <JP-Detail>「Gotland andra」旗艦、随伴駆逐艦1隻以上を含む艦隊で、南西諸島海域沖ノ島沖に進撃！さらに&lt;br&gt;中部海域に展開、グアノ環礁沖海域、中部北海域ピーコック島沖、KW環礁沖海域の敵を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with Gotland Andra as flagship, 1 Destroyer, and up to 4 additional ships to Worlds 2-5, 6-3, 6-4, and 6-5. &lt;br&gt;Obtain a S-rank at each boss node.</TR-Detail>
   </Quest>
-<Quest>
-    <ID>901</ID>
-    <JP-Name>「夕張改二」試してみてもいいかしら？</JP-Name>
-    <TR-Name>Shall We Put "My" Kai Ni to the Test?</TR-Name>
-    <JP-Detail>改装兵装実験軽巡「夕張改二」型を旗艦にした艦隊で、南西諸島沖ノ島沖、北方アルフォンシーノ方面、&lt;br&gt;南方サブ島沖海域、中部グアノ環礁沖海域に展開！同戦域の敵艦隊主力を捜索、これを捕捉撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Yuubari Kai Ni/Yuubari Kai Ni Toku/Yuubari Kai Ni D as flagship and up to 5 additional ships to Worlds 2-5, 3-3, 5-3, and 6-3.&lt;br&gt;Obtain an S-rank at each boss node. </TR-Detail>
-</Quest>
+  <Quest>
+      <ID>901</ID>
+      <JP-Name>「夕張改二」試してみてもいいかしら？</JP-Name>
+      <TR-Name>Shall We Put "My" Kai Ni to the Test?</TR-Name>
+      <JP-Detail>改装兵装実験軽巡「夕張改二」型を旗艦にした艦隊で、南西諸島沖ノ島沖、北方アルフォンシーノ方面、&lt;br&gt;南方サブ島沖海域、中部グアノ環礁沖海域に展開！同戦域の敵艦隊主力を捜索、これを捕捉撃滅せよ！</JP-Detail>
+      <TR-Detail>Sortie a fleet with Yuubari Kai Ni/Yuubari Kai Ni Toku/Yuubari Kai Ni D as flagship and up to 5 additional ships to Worlds 2-5, 3-3, 5-3, and 6-3.&lt;br&gt;Obtain an S-rank at each boss node. </TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>342</ID>
+    <JP-Name>小艦艇群演習強化任務</JP-Name>
+    <TR-Name>C43: Small ship exercise strengthining mission</TR-Name>
+    <JP-Detail>駆逐艦または海防艦計4隻(軽巡級1隻導入可能)を含む演習艦隊を編成、&lt;br&gt;同演習艦隊による演習で本日中に【A判定】以上の勝利を4回以上達成せよ！</JP-Detail>
+    <TR-Detail>Use a fleet with 3 Destroyers/Coastal Defense Ships, 1 additional Destroyer/Coastal Defense Ship OR 1 Light Cruiser, and up to 2 additional ships. &lt;br&gt;Obtain an A-rank (or higher) in Exercises 4 times within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>437</ID>
+    <JP-Name>小笠原沖哨戒線の強化を実施せよ！</JP-Name>
+    <TR-Name>D34: Strengthen the Ogasawara Corstal Patrol Line!</TR-Name>
+    <JP-Detail>小笠原沖哨戒線任務：「対潜警戒任務」「小笠原沖哨戒線遠征」「小笠原沖戦闘哨戒」&lt;br&gt;「南西方面航空偵察作戦」の各遠征任務を軽巡・駆逐艦など実施、これを成功させよ！</JP-Detail>
+    <TR-Detail>Complete Expeditions 4, A5, A6, and B1 once each.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>919</ID>
+    <JP-Name>南西諸島海域合同哨戒</JP-Name>
+    <TR-Name>B147: Nansei Island Water Combined Patrol</TR-Name>
+    <JP-Detail>米出身(USS)艦娘を2隻以上含む艦隊で、南西諸島海域のバシー海峡、東部オリョール海、&lt;br&gt;沖ノ島海域の哨戒を実施。各作戦海域における敵艦隊を捜索、これを捕捉撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with 2 ships from the United States and up to 4 additional ships to Worlds 2-2, 2-3, and 2-4. &lt;br&gt;Obtain an S-rank at each boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>920</ID>
+    <JP-Name>合同艦隊旗艦、改装「Fletcher」、抜錨！</JP-Name>
+    <TR-Name>B148: Coalition Fleet's Flagship "Fletcher", Sortie!</TR-Name>
+    <JP-Detail>「Fletcher改 Mod.2」を旗艦とする米・英・豪・蘭出身の艦娘計3隻以上を含む艦隊を編成、同艦隊を&lt;br&gt;南西諸島防衛線、沖ノ島沖、北方AL海域に展開！各作戦海域の敵艦隊と交戦、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Fletcher Kai Mod.2 as flagship. &lt;br&gt;Have in the fleet 2 additional ships from any of the following nations: the United States, Australia, the Netherlands, or the United Kingdom. &lt;br&gt;Obtain an S-rank at each boss node of 1-4, 2-5, and 3-5.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>921</ID>
+    <JP-Name>改装護衛駆逐艦「Fletcher Mk.II」作戦開始！</JP-Name>
+    <TR-Name>B149: Remodeled Escort Destroyer "Fletcher Mk. II", Begin the Operation!</TR-Name>
+    <JP-Detail>「Fletcher Mk.II」を旗艦とする米・英・豪・蘭出身の艦娘計3隻以上を含む精鋭艦隊を編成、同艦隊を&lt;br&gt;鎮守府近海、ブルネイ泊地沖、MS諸島沖、KW環礁沖海域に反復出撃！敵艦隊を捕捉、撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Fletcher Mk.II as flagship. &lt;br&gt;Have in the fleet 2 additional ships from any of the following nations: the United States, Australia, the Netherlands, or the United Kingdom. &lt;br&gt;Obtain an S-rank twice at each boss node of 1-5, 7-1, 6-2, and 6-5.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>922</ID>
+    <JP-Name>合同艦隊作戦任務【拡張作戦】</JP-Name>
+    <TR-Name>B151: Coalition Fleet's Operational Mission [Extra Operation]</TR-Name>
+    <JP-Detail>【拡張作戦:甲作戦級】「Fletcher Mk.II」を含む米・英・豪・蘭出身艦計4隻以上を含む精鋭艦隊を編成、&lt;br&gt;カレー洋リランカ島沖、サーモン海域北方、中部北海域ピーコック島沖に反復出撃！敵戦力を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Fletcher Mk.II as flagship. &lt;br&gt;Have in the fleet 3 additional ships from any of the following nations: the United States, Australia, the Netherlands, or the United Kingdom. &lt;br&gt;Obtain an S-rank twice at each boss node of 4-5, 5-5, and 6-4.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>923</ID>
+    <JP-Name>合同艦隊機動部隊、出撃せよ！</JP-Name>
+    <TR-Name>B150: Coalition Carrier Task Force, Sortie!</TR-Name>
+    <JP-Detail>米・英出身航空母艦を1隻以上含む機動部隊で、西方海域リランカ島、北方海域全域、さらに&lt;br&gt;南方海域珊瑚諸島沖、南西海域タウイタウイ泊地沖深部に展開、各方面の敵戦力を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with 1 Light Aircraft Carrier or Standard Aircraft Carrier from either the United States or the United Kingdom and up to 5 additional ships. &lt;br&gt;Obtain an S-rank at the boss node of 3-4, 4-3, and 5-2 once. &lt;br&gt;Obtain an S-rank at the second boss of 7-2 once.</TR-Detail>
+  </Quest>
   <Quest>
     <ID></ID>
     <JP-Name></JP-Name>

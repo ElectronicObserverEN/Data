@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.70">
+<Equipment Version="1.3.71">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -1479,6 +1479,18 @@
   <Item>
     <JP-Name>XF5U</JP-Name>
     <TR-Name>XF5U</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>533mm五連装魚雷(後期型)</JP-Name>
+    <TR-Name>533mm Quintuple Torpedo Mount (Late Model)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>RUR-4A Weapon Alpha改</JP-Name>
+    <TR-Name>RUR-4A Weapon Alpha Kai</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>対潜短魚雷(試作初期型)</JP-Name>
+    <TR-Name>Lightweight ASW Torpedo (Initial Test Model)</TR-Name>
   </Item>
 
 
