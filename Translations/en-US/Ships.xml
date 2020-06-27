@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.4.33">
+<Ships Version="1.4.34">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -1231,6 +1231,18 @@
     <JP-Name>Grecale</JP-Name>
     <TR-Name>Grecale</TR-Name>
   </Ship>
+  <Ship>
+    <JP-Name>迅鯨</JP-Name>
+    <TR-Name>Jingei</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>伊47</JP-Name>
+    <TR-Name>I-47</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>第四号海防艦</JP-Name>
+    <TR-Name>Kaiboukan No.4</TR-Name>
+  </Ship>
 
   <!-- Abyssal Ships !-->
 
@@ -1590,6 +1602,18 @@
     <JP-Name>防空巡棲姫</JP-Name>
     <TR-Name>Anti-Air Cruiser Princess</TR-Name>
   </Ship>
+  <Ship>
+    <JP-Name>深海千島棲姫</JP-Name>
+    <TR-Name>Abyssal Kuril Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>五島沖海底姫</JP-Name>
+    <TR-Name>Goto Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>駆逐林棲姫</JP-Name>
+    <TR-Name>Destroyer Forest Princess</TR-Name>
+  </Ship>
 
   <Ship mode="suffix">
 	<JP-Name>改</JP-Name>
@@ -1602,6 +1626,10 @@
   <Ship mode="suffix">
 	<JP-Name>改母</JP-Name>
     <TR-Name> Kai Bo</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
+	<JP-Name>II</JP-Name>
+    <TR-Name>II</TR-Name>
   </Ship>
   <Ship mode="suffix">
 	<JP-Name> zwei</JP-Name>
@@ -1698,5 +1726,9 @@
   <Ship mode="suffix">
 	<JP-Name> バカンスmode</JP-Name>
 	<TR-Name> Vacation Mode</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
+	<JP-Name> 夏季上陸mode</JP-Name>
+	<TR-Name> Summer Landing Mode</TR-Name>
   </Ship>
 </Ships>

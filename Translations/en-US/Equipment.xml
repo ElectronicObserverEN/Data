@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.71">
+<Equipment Version="1.3.72">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -1492,6 +1492,34 @@
     <JP-Name>対潜短魚雷(試作初期型)</JP-Name>
     <TR-Name>Lightweight ASW Torpedo (Initial Test Model)</TR-Name>
   </Item>
+  <Item>
+    <JP-Name>天山一二型甲</JP-Name>
+    <TR-Name>Tenzan Model 12A</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>12.7cm単装高角砲改二</JP-Name>
+    <TR-Name>12.7cm Single High-angle Gun Kai Ni</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>12.7cm連装高角砲改二</JP-Name>
+    <TR-Name>12.7cm Twin High-angle Gun Kai Ni</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>16inch三連装砲 Mk.6</JP-Name>
+    <TR-Name>16inch Triple Gun Mk.6</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>12cm単装高角砲E型</JP-Name>
+    <TR-Name>12cm Single High-angle Gun Model E</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>後期型53cm艦首魚雷(8門)</JP-Name>
+    <TR-Name>Late Model 53cm Bow Torpedo (8 tubes)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>後期型潜水艦搭載電探&amp;逆探</JP-Name>
+    <TR-Name>Late Model Submarine Radar &amp; Passive Radiolocator</TR-Name>
+  </Item>
 
 
 
@@ -1915,20 +1943,20 @@
     <TR-Name>Abyssal Air Radar Mark.III + FCS</TR-Name>
   </Item>
 <Item>
-    <JP-Name></JP-Name>
-    <TR-Name></TR-Name>
+    <JP-Name>深海5inch連装砲A型</JP-Name>
+    <TR-Name>Abyssal 5inch Twin Gun Model A</TR-Name>
   </Item>
 <Item>
-    <JP-Name></JP-Name>
-    <TR-Name></TR-Name>
+    <JP-Name>深海潜水艦搭載電子兵装</JP-Name>
+    <TR-Name>Abyssal Submarine Electronic Weapon</TR-Name>
   </Item>
 <Item>
-    <JP-Name></JP-Name>
-    <TR-Name></TR-Name>
+    <JP-Name>深海5inch単装高角砲改二</JP-Name>
+    <TR-Name>Abyssal 5inch Single High-angle Gun Kai Ni</TR-Name>
   </Item>
 <Item>
-    <JP-Name></JP-Name>
-    <TR-Name></TR-Name>
+    <JP-Name>深海5inch連装高角砲改二</JP-Name>
+    <TR-Name>Abyssal 5inch Twin High-angle Gun Kai Ni</TR-Name>
   </Item>
 <Item>
     <JP-Name></JP-Name>
