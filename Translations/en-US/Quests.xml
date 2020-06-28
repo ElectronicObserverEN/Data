@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.1.103">
+<Quests Version="1.1.104">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -3520,7 +3520,7 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
   <Quest>
       <ID>901</ID>
       <JP-Name>「夕張改二」試してみてもいいかしら？</JP-Name>
-      <TR-Name>Shall We Put "My" Kai Ni to the Test?</TR-Name>
+      <TR-Name>B140: Shall We Put "My" Kai Ni to the Test?</TR-Name>
       <JP-Detail>改装兵装実験軽巡「夕張改二」型を旗艦にした艦隊で、南西諸島沖ノ島沖、北方アルフォンシーノ方面、&lt;br&gt;南方サブ島沖海域、中部グアノ環礁沖海域に展開！同戦域の敵艦隊主力を捜索、これを捕捉撃滅せよ！</JP-Detail>
       <TR-Detail>Sortie a fleet with Yuubari Kai Ni/Yuubari Kai Ni Toku/Yuubari Kai Ni D as flagship and up to 5 additional ships to Worlds 2-5, 3-3, 5-3, and 6-3.&lt;br&gt;Obtain an S-rank at each boss node. </TR-Detail>
   </Quest>
@@ -3574,10 +3574,31 @@ either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships.
     <TR-Detail>Sortie a fleet with 1 Light Aircraft Carrier or Standard Aircraft Carrier from either the United States or the United Kingdom and up to 5 additional ships. &lt;br&gt;Obtain an S-rank at the boss node of 3-4, 4-3, and 5-2 once. &lt;br&gt;Obtain an S-rank at the second boss of 7-2 once.</TR-Detail>
   </Quest>
   <Quest>
-    <ID></ID>
-    <JP-Name></JP-Name>
-    <TR-Name></TR-Name>
-    <JP-Detail></JP-Detail>
-    <TR-Detail></TR-Detail>
+	<ID>158</ID>
+	<JP-Name>精鋭無比「第一戦隊」抜錨準備！</JP-Name>
+	<TR-Name>A92: Unrivaled 1st Squadron, Ready to Set Sail!</TR-Name>
+	<JP-Detail>主力戦艦編成任務：第一艦隊旗艦に「長門改二」、同二番艦に「陸奥改二」から構成される&lt;br&gt;第一戦隊を配備、精鋭無比の水上打撃艦隊を編成せよ！</JP-Detail>
+	<TR-Detail>Have Nagato Kai Ni as flagship and Mutsu Kai Ni as second ship in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+	<ID>431</ID>
+	<JP-Name>艦隊司令部の強化 【準備段階】</JP-Name>
+	<TR-Name>D29: Fleet Headquarters Improvements [Preparation Phase]</TR-Name>
+	<JP-Detail>艦隊司令部強化の準備：遠征任務「敵地偵察作戦」「海峡警備行動」「南西方面航空偵察作戦」&lt;br&gt;「兵站強化任務」を海防艦や水雷戦隊、水上機母艦等を投入、同遠征任務群を成功させよ！</JP-Detail>
+	<TR-Detail>Complete Expeditions 17, A1, A2, and B1 once each.</TR-Detail>
+  </Quest>
+  <Quest>
+	<ID>693</ID>
+	<JP-Name>回転翼機の開発</JP-Name>
+	<TR-Name>F84: Development of Rotorcraft</TR-Name>
+	<JP-Detail>回転翼機装備の研究開発を実施する。「水偵」系装備x4、「艦戦」系装備x3、「艦攻」系装備x2を廃棄、&lt;br&gt;ボーキサイト3,000、開発資材x20を準備せよ！　※任務達成後、準備した資源・資材は消費します。</JP-Detail>
+	<TR-Detail>Prepare 3000 Bauxite and 20 Development material in your inventory. Scrap 4 seaplanes, 3 fighters, and 2 torpedo bombers.</TR-Detail>
+  </Quest>
+  <Quest>
+	<ID>896</ID>
+	<JP-Name>航空戦艦戦隊、戦闘哨戒！</JP-Name>
+	<TR-Name>B131: Aviation Battleship Division, Scout and Engage!</TR-Name>
+	<JP-Detail>航空戦艦二隻を中核とする艦隊を編成、同艦隊で南西諸島防衛線、鎮守府近海及び東部オリョール海、&lt;br&gt;タウイタウイ泊地沖に展開。同海域の脅威となる敵艦隊主力を捕捉、これを撃滅せよ！</JP-Detail>
+	<TR-Detail>Sortie a fleet with 2 Aviation Battleships and up to 4 additional ships to Worlds 1-4, 1-5, 2-3, and 7-2. &lt;br&gt;Obtain a S-rank at the boss of 1-4, 1-5, and 2-3. Obtain a S-rank at the second boss of 7-2.</TR-Detail>
   </Quest>
 </Quests>
