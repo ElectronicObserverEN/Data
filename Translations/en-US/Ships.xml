@@ -1604,15 +1604,15 @@
   </Ship>
   <Ship>
     <JP-Name>深海千島棲姫</JP-Name>
-    <TR-Name>Abyssal Kuril Princess</TR-Name>
+    <TR-Name>Abyssal Kurils Princess</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>五島沖海底姫</JP-Name>
-    <TR-Name>Goto Princess</TR-Name>
+    <TR-Name>Goto Islands Seafloor Princess</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>駆逐林棲姫</JP-Name>
-    <TR-Name>Destroyer Forest Princess</TR-Name>
+    <TR-Name>Coppice Destroyer Princess</TR-Name>
   </Ship>
 
   <Ship mode="suffix">
