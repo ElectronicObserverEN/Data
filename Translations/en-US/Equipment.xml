@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.72">
+<Equipment Version="1.3.73">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -1519,6 +1519,10 @@
   <Item>
     <JP-Name>後期型潜水艦搭載電探&amp;逆探</JP-Name>
     <TR-Name>Late Model Submarine Radar &amp; Passive Radiolocator</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>16inch三連装砲 Mk.6 mod.2</JP-Name>
+    <TR-Name>16inch Triple Gun Mk.6 mod.2</TR-Name>
   </Item>
 
 
