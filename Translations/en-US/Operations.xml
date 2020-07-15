@@ -273,8 +273,16 @@
     <TR-Name>Ogasawara Islands</TR-Name>
   </Map>
   <Map>
-    <JP-Name></JP-Name>
-    <TR-Name></TR-Name>
+    <JP-Name>ニューブリテン島沖 ソロモン諸島西部沖</JP-Name>
+    <TR-Name>New Britain/Western Solomon Islands</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>ソロモン諸島沖</JP-Name>
+    <TR-Name>Solomon Islands</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>ソロモン諸島沖 サンタ・クルーズ諸島沖</JP-Name>
+    <TR-Name>Solomon Islands/Santa Cruz Islands</TR-Name>
   </Map>
 
 <!-- Node Name !-->

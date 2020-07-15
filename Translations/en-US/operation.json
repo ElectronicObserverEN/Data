@@ -69,9 +69,13 @@
 		"ブラケット水道/クラ湾沖": "Blackett Strait/Kula Gulf",
 		"ラバウル/中部ソロモン海域": "Rabaul/Central Solomon Sea",
 		"中部ソロモン海域 ブーゲンビル島沖": "Central Solomon Sea Bougainville Island",
+		
 		"オホーツク海千島列島沖": "Sea of Okhotsk Kuril Islands",
 		"四国沖/九州西方五島列島沖": "Shikoku/West of Kyushu Goto Islands",
-		"小笠原諸島沖": "Ogasawara Islands"
+		"小笠原諸島沖": "Ogasawara Islands",
+		"ニューブリテン島沖 ソロモン諸島西部沖": "New Britain/Western Solomon Islands",
+		"ソロモン諸島沖": "Solomon Islands",
+		"ソロモン諸島沖 サンタ・クルーズ諸島沖": "Solomon Islands/Santa Cruz Islands"
 	},
 	"fleet": {
 		"渦潮": "Whirlpool",
