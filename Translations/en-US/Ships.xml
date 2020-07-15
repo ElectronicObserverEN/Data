@@ -1243,6 +1243,22 @@
     <JP-Name>第四号海防艦</JP-Name>
     <TR-Name>Kaiboukan No.4</TR-Name>
   </Ship>
+  <Ship>
+    <JP-Name>屋代</JP-Name>
+    <TR-Name>Yashiro</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Helena</JP-Name>
+    <TR-Name>Helena</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>South Dakota</JP-Name>
+    <TR-Name>South Dakota</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Hornet</JP-Name>
+    <TR-Name>Hornet</TR-Name>
+  </Ship>
 
   <!-- Abyssal Ships !-->
 
@@ -1614,6 +1630,14 @@
     <JP-Name>駆逐林棲姫</JP-Name>
     <TR-Name>Coppice Destroyer Princess</TR-Name>
   </Ship>
+  <Ship>
+    <JP-Name>南方戦艦新棲姫</JP-Name>
+    <TR-Name>New Southern Battleship Princess</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>南太平洋空母棲姫</JP-Name>
+    <TR-Name>South Pacific Carrier Princess</TR-Name>
+  </Ship>
 
   <Ship mode="suffix">
 	<JP-Name>改</JP-Name>
@@ -1629,7 +1653,7 @@
   </Ship>
   <Ship mode="suffix">
 	<JP-Name>II</JP-Name>
-    <TR-Name> II</TR-Name>
+    <TR-Name> B</TR-Name>
   </Ship>
   <Ship mode="suffix">
 	<JP-Name> zwei</JP-Name>
@@ -1726,6 +1750,10 @@
   <Ship mode="suffix">
 	<JP-Name> バカンスmode</JP-Name>
 	<TR-Name> Vacation Mode</TR-Name>
+  </Ship>
+  <Ship mode="suffix">
+	<JP-Name> 夏mode</JP-Name>
+	<TR-Name> Summer Mode</TR-Name>
   </Ship>
   <Ship mode="suffix">
 	<JP-Name> 夏季上陸mode</JP-Name>
