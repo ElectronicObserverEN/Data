@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.3.73">
+<Equipment Version="20071501">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Single Gun</TR-Name>
@@ -1524,6 +1524,14 @@
     <JP-Name>16inch三連装砲 Mk.6 mod.2</JP-Name>
     <TR-Name>16inch Triple Gun Mk.6 mod.2</TR-Name>
   </Item>
+<Item>
+    <JP-Name>6inch三連装速射砲 Mk.16</JP-Name>
+    <TR-Name>6inch Triple Rapid-fire Gun Mk.16</TR-Name>
+  </Item>
+<Item>
+    <JP-Name>6inch三連装速射砲 Mk.16 mod.2</JP-Name>
+    <TR-Name>6inch Triple Rapid-fire Gun Mk.16 mod.2</TR-Name>
+  </Item>
 
 
 
@@ -1963,16 +1971,12 @@
     <TR-Name>Abyssal 5inch Twin High-angle Gun Kai Ni</TR-Name>
   </Item>
 <Item>
-    <JP-Name></JP-Name>
-    <TR-Name></TR-Name>
+    <JP-Name>深海夜間航空作戦装備</JP-Name>
+    <TR-Name>Abyssal Night Operation Aviation Equipment</TR-Name>
   </Item>
 <Item>
-    <JP-Name></JP-Name>
-    <TR-Name></TR-Name>
-  </Item>
-<Item>
-    <JP-Name></JP-Name>
-    <TR-Name></TR-Name>
+    <JP-Name>深海16inch三連装砲 Mk6</JP-Name>
+    <TR-Name>Abyssal 16inch Triple Gun Mount Mk.6</TR-Name>
   </Item>
 <Item>
     <JP-Name></JP-Name>
