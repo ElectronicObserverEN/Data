@@ -240,104 +240,6 @@
 		"desc_jp": "複数の水上機母艦を有する軽巡を旗艦とした艦隊で、水上機の前線輸送を実施せよ！",
 		"desc": "Assemble a fleet with a Light Cruiser as the flagship and multiple Seaplane Tenders. Deploy them on a transport mission to the front lines!"
 	},
-	"100": {
-		"name_jp": "兵站強化任務",
-		"name": "Logistic Reinforcement",
-		"desc_jp": "港湾施設強化と兵站備蓄施設拡充<br>に協力し、補給体制を強化せよ！",
-		"desc": "港湾施設強化と兵站備蓄施設拡充<br>に協力し、補給体制を強化せよ！"
-	},
-	"101": {
-		"name_jp": "海峡警備行動",
-		"name": "Strait Security Operation",
-		"desc_jp": "海防艦や駆逐艦による、沿岸警備<br>部隊で、海峡警備を実施しよう！",
-		"desc": "海防艦や駆逐艦による、沿岸警備<br>部隊で、海峡警備を実施しよう！"
-	},
-	"102": {
-		"name_jp": "長時間対潜警戒",
-		"name": "Extended Anti-Submarine Alert",
-		"desc_jp": "高練度の対潜部隊を展開、敵潜を<br>制圧し、航路の安全を確保せよ！",
-		"desc": "高練度の対潜部隊を展開、敵潜を<br>制圧し、航路の安全を確保せよ！"
-	},
-	"125": {
-		"name_jp": "前衛支援任務",
-		"name": "General Vanguard Support Missions",
-		"desc_jp": "支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)",
-		"desc": "Deploy a support fleet in an avant-garde support mission! (Sortie-Support Expedition)"
-	},
-	"126": {
-		"name_jp": "艦隊決戦支援任務",
-		"name": "General Fleet Battle Support Missions",
-		"desc_jp": "主力艦隊支援を行う別動隊を出撃させ、艦隊決戦を援護せよ！(要:駆逐2隻)",
-		"desc": "Deploy a support fleet to assist our main forces battle out against the enemy! (Sortie-Support Expedition)"
-	},
-	"141": {
-		"name_jp": "前衛支援任務",
-		"name": "General Vanguard Support Missions",
-		"desc_jp": "支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)",
-		"desc": "Deploy a support fleet to assist in defending against the enemy invasion force! (Sortie-Support Expedition)"
-	},
-	"142": {
-		"name_jp": "艦隊決戦支援任務",
-		"name": "General Fleet Battle Support Missions",
-		"desc_jp": "主力艦隊支援を行う別動隊を出撃させ、艦隊決戦を援護せよ！(要:駆逐2隻)",
-		"desc": "Deploy a support fleet to assist our main forces battle out against an enemy boss! (Sortie-Support Expedition)"
-	},
-	"149": {
-		"name_jp": "前衛支援任務",
-		"name": "General Vanguard Support Missions",
-		"desc_jp": "支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)",
-		"desc": "Deploy a support fleet to assist in defending against the enemy invasion force! (Sortie-Support Expedition))"
-	},
-	"150": {
-		"name_jp": "艦隊決戦支援任務",
-		"name": "General Fleet Battle Support Missions",
-		"desc_jp": "主力艦隊支援を行う別動隊を出撃させ、艦隊決戦を援護せよ！(要:駆逐2隻)",
-		"desc": "Deploy a support fleet to assist our main forces battle out against an enemy boss! (Sortie-Support Expedition)"
-	},
-	"A4": {
-		"name_jp": "南西方面連絡線哨戒",
-		"name": "SouthWestern Connection Line Patrol"
-	},
-	"A5": {
-		"name_jp": "小笠原沖哨戒線",
-		"name": "Ogasawara Coastal Patrol Line"
-	},
-	"A6": {
-		"name_jp": "小笠原沖戦闘哨戒",
-		"name": "Ogasawara Coastal Combat Patrol"
-	},
-	"B1": {
-		"name_jp": "南西方面航空偵察作戦",
-		"name": "South Western Air Reconnaissance Operation"
-	},
-	"B2": {
-		"name_jp": "敵泊地強襲反撃作戦",
-		"name": "Enemy Harbor Assault Counter Attack Operation"
-	},
-	"B3": {
-		"name_jp": "南西諸島離島哨戒作戦",
-		"name": "Nansei Island Remote Island Patrolling Operation"
-	},
-	"B4": {
-		"name_jp": "南西諸島離島防衛作戦",
-		"name": "Nansei Island Remote Island Defense Operation"
-	},
-	"B5": {
-		"name_jp": "南西諸島捜索撃滅戦",
-		"name": "Nansei Island Search and Destroy Mission"
-	},
-	"D1": {
-		"name_jp": "西方海域偵察作戦",
-		"name": "Western Sea Reconnaissance Operation"
-	},
-	"D2": {
-		"name_jp": "西方潜水艦作戦",
-		"name": "Western Submarine Operation"
-	},
-	"E1": {
-		"name_jp": "ラバウル方面艦隊進出",
-		"name": "Rabaul District Fleet Advance"
-	},
 	"41": {
 		"name_jp": "ブルネイ泊地沖哨戒",
 		"name": "Burnei Anchorage Patrol"
@@ -357,5 +259,97 @@
 	"45": {
 		"name_jp": "ボーキサイト船団護衛",
 		"name": "Bauxite Convoy Escort"
+	},
+	"100": {
+		"name_jp": "兵站強化任務",
+		"name": "Logistic Reinforcement",
+		"desc_jp": "港湾施設強化と兵站備蓄施設拡充<br>に協力し、補給体制を強化せよ！",
+		"desc": "港湾施設強化と兵站備蓄施設拡充<br>に協力し、補給体制を強化せよ！"
+	},
+	"101": {
+		"name_jp": "海峡警備行動",
+		"name": "Strait Security Operation",
+		"desc_jp": "海防艦や駆逐艦による、沿岸警備<br>部隊で、海峡警備を実施しよう！",
+		"desc": "海防艦や駆逐艦による、沿岸警備<br>部隊で、海峡警備を実施しよう！"
+	},
+	"102": {
+		"name_jp": "長時間対潜警戒",
+		"name": "Extended Anti-Submarine Alert",
+		"desc_jp": "高練度の対潜部隊を展開、敵潜を<br>制圧し、航路の安全を確保せよ！",
+		"desc": "高練度の対潜部隊を展開、敵潜を<br>制圧し、航路の安全を確保せよ！"
+	},
+	"103": {
+		"name_jp": "南西方面連絡線哨戒",
+		"name": "SouthWestern Connection Line Patrol"
+	},
+	"104": {
+		"name_jp": "小笠原沖哨戒線",
+		"name": "Ogasawara Coastal Patrol Line"
+	},
+	"105": {
+		"name_jp": "小笠原沖戦闘哨戒",
+		"name": "Ogasawara Coastal Combat Patrol"
+	},
+	"110": {
+		"name_jp": "南西方面航空偵察作戦",
+		"name": "South Western Air Reconnaissance Operation"
+	},
+	"111": {
+		"name_jp": "敵泊地強襲反撃作戦",
+		"name": "Enemy Harbor Assault Counter Attack Operation"
+	},
+	"112": {
+		"name_jp": "南西諸島離島哨戒作戦",
+		"name": "Nansei Island Remote Island Patrolling Operation"
+	},
+	"113": {
+		"name_jp": "南西諸島離島防衛作戦",
+		"name": "Nansei Island Remote Island Defense Operation"
+	},
+	"114": {
+		"name_jp": "南西諸島捜索撃滅戦",
+		"name": "Nansei Island Search and Destroy Mission"
+	},
+	"125": {
+		"name_jp": "前衛支援任務",
+		"name": "General Vanguard Support Missions",
+		"desc_jp": "支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)",
+		"desc": "Deploy a support fleet in an avant-garde support mission! (Sortie-Support Expedition)"
+	},
+	"126": {
+		"name_jp": "艦隊決戦支援任務",
+		"name": "General Fleet Battle Support Missions",
+		"desc_jp": "主力艦隊支援を行う別動隊を出撃させ、艦隊決戦を援護せよ！(要:駆逐2隻)",
+		"desc": "Deploy a support fleet to assist our main forces battle out against the enemy! (Sortie-Support Expedition)"
+	},
+	"131": {
+		"name_jp": "西方海域偵察作戦",
+		"name": "Western Sea Reconnaissance Operation"
+	},
+	"132": {
+		"name_jp": "西方潜水艦作戦",
+		"name": "Western Submarine Operation"
+	},
+	"141": {
+		"name_jp": "ラバウル方面艦隊進出",
+		"name": "Rabaul District Fleet Advance"
+	},
+	"142": {
+		"name_jp": "艦隊決戦支援任務",
+		"name": "General Fleet Battle Support Missions",
+		"desc_jp": "主力艦隊支援を行う別動隊を出撃させ、艦隊決戦を援護せよ！(要:駆逐2隻)",
+		"desc": "Deploy a support fleet to assist our main forces battle out against an enemy boss! (Sortie-Support Expedition)"
+	},
+	"149": {
+		"name_jp": "前衛支援任務",
+		"name": "General Vanguard Support Missions",
+		"desc_jp": "支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)",
+		"desc": "Deploy a support fleet to assist in defending against the enemy invasion force! (Sortie-Support Expedition))"
+	},
+	"150": {
+		"name_jp": "艦隊決戦支援任務",
+		"name": "General Fleet Battle Support Missions",
+		"desc_jp": "主力艦隊支援を行う別動隊を出撃させ、艦隊決戦を援護せよ！(要:駆逐2隻)",
+		"desc": "Deploy a support fleet to assist our main forces battle out against an enemy boss! (Sortie-Support Expedition)"
 	}
 }
