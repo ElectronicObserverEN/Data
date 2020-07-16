@@ -1,5 +1,5 @@
 {
-	"version": "20071501",
+	"version": "20071601",
 	"1": {
 		"name_jp": "練習航海",
 		"name": "Practice Voyage",
@@ -242,7 +242,7 @@
 	},
 	"41": {
 		"name_jp": "ブルネイ泊地沖哨戒",
-		"name": "Burnei Anchorage Patrol"
+		"name": "Brunei Anchorage Patrol"
 	},
 	"42": {
 		"name_jp": "ミ船団護衛(一号船団)",
