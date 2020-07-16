@@ -1,5 +1,5 @@
 {
-	"version": "20071501",
+	"version": "20071601",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -417,6 +417,7 @@
 		"改": "Kai",
 		"Mod.2": "Mod.2",
 		"改母": "Kai Bo",
+		"Mk.II": "Mk.II",
 		"II": "B",
 		"zwei": "Zwei",
 		"drei": "Drei",

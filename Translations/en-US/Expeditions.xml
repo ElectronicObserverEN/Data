@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Expeditions Version="20071501">
+<Expeditions Version="20071601">
   <Expedition>
     <ID>1</ID>
     <JP-Name>練習航海</JP-Name>
@@ -401,7 +401,7 @@
   <Expedition>
     <ID>41</ID>
     <JP-Name>ブルネイ泊地沖哨戒</JP-Name>
-    <TR-Name>Burnei Anchorage Patrol</TR-Name>
+    <TR-Name>Brunei Anchorage Patrol</TR-Name>
   </Expedition>
   <Expedition>
     <ID>42</ID>
