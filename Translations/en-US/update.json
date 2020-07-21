@@ -1,9 +1,9 @@
 {
-	"bld_date": "2020/07/21 10:30:00",
+	"bld_date": "2020/06/13 11:30:00",
 	"ver": "4.6.0.1",
 	"note": "Check github for release notes: https://github.com/gre4bee/ElectronicObserver/releases",
-	"url": "https://github.com/gre4bee/ElectronicObserver/releases/download/4.6.0.1/ElectronicObserver4601EN.zip",
-	"hash": "B1CC015180BC62F51690C4CF00A30D7ADC05CA24EB7AB97B679B367241B5CDE4",
+	"url": "https://github.com/gre4bee/ElectronicObserver/releases/download/4.6.0/ElectronicObserver460EN.zip",
+	"hash": "FCF7D005D1B36B044731AEA1C5D745426190E5977A3CF8ABBE9C56B9FA949F4A",
 	"tl_ver": {
 		"equipment": "20071501",
 		"equipment_type": "1.3.83",
