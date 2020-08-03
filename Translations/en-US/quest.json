@@ -1,5 +1,5 @@
 {
-	"version": "20071503",
+	"version": "20071504",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -537,7 +537,7 @@
 		"name_jp": "精鋭「第十六戦隊」を再編成せよ！",
 		"name": "A74: Organize the \"Elite 16th Squadron\"!",
 		"desc_jp": "「鬼怒改二」を旗艦として、「北上改二」「大井改二」「球磨改」及び<br>「青葉改」「浦波改」「敷波改」から5隻、計6隻の精鋭「第十六戦隊」を再編成せよ！",
-		"desc": "Have Kinu Kai2 as flagship and 5 of the following: Kitakami Kai2, Ooi Kai2,\nKuma Kai, Aoba Kai, Uranami Kai, or Shikinami Kai in your fleet."
+		"desc": "Have Kinu Kai2 as flagship and 5 of the following: Kitakami Kai2, Ooi Kai2, Kuma Kai, Aoba Kai, Uranami Kai, or Shikinami Kai in your fleet."
 	},
 	"180": {
 		"code": "",
@@ -572,7 +572,7 @@
 		"name_jp": "精鋭「第二二駆逐隊」を再編成せよ！",
 		"name": "A79: Reorganize the Elite 22th Destroyer Squadron!",
 		"desc_jp": "編成任務：「文月改二」「皐月改二」「水無月改」「長月改」の精強駆逐艦4隻の編成による<br>精鋭第二二駆逐隊を再編成せよ！",
-		"desc": "Have Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai and Nagatsuki Kai\nin your fleet."
+		"desc": "Have Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai and Nagatsuki Kai in your fleet."
 	},
 	"185": {
 		"code": "",
@@ -1069,7 +1069,7 @@
 		"name_jp": "「戦艦部隊」北方海域に突入せよ！",
 		"name": "B32: Sortie a Battleship Squadron to the Northern Sea",
 		"desc_jp": "戦艦2隻と直援軽空母1隻(正規空母無し)基幹の艦隊で北方AL海域に突入、敵を撃滅せよ！",
-		"desc": "Sortie 2 BB (slow or fast, BBV don't count), 1 CVL and up to 3 additional ships\nand score an S rank victory at the World 3-5 boss."
+		"desc": "Sortie 2 BB (slow or fast, BBV don't count), 1 CVL and up to 3 additional ships and score an S rank victory at the World 3-5 boss."
 	},
 	"261": {
 		"code": "",
@@ -1083,7 +1083,7 @@
 		"name_jp": "「西村艦隊」南方海域へ進出せよ！",
 		"name": "B33: Sortie the Nishimura Fleet to the Southern Waters",
 		"desc_jp": "「西村艦隊」を南方海域に進出させ、敵主力艦隊へ突入、これを撃滅せよ！",
-		"desc": "Sortie Fusou, Yamashiro, Mogami, Shigure, and Michishio, and another ship\nand score an S rank victory at World 5-1 boss."
+		"desc": "Sortie Fusou, Yamashiro, Mogami, Shigure, and Michishio, and another ship and score an S rank victory at World 5-1 boss."
 	},
 	"263": {
 		"code": "",
@@ -1160,7 +1160,7 @@
 		"name_jp": "新編「三川艦隊」ソロモン方面へ！",
 		"name": "B41: Sortie the Mikawa Fleet to Solomon Islands",
 		"desc_jp": "第一艦隊に編成した「三川艦隊」を南方海域に進出させ、同方面の敵艦隊を撃滅せよ！",
-		"desc": "Sortie the main fleet with Choukai Kai2 (鳥海改ニ) as the flagship and any 5 of Aoba (青葉), Kinugasa (衣笠),\nKako (加古), Furutaka (古鷹), Tenryuu (天龍), Yuubari (夕張) to World 5-1 and score an S rank victory at the boss node."
+		"desc": "Sortie the main fleet with Choukai Kai2 (鳥海改ニ) as the flagship and any 5 of Aoba (青葉), Kinugasa (衣笠), Kako (加古), Furutaka (古鷹), Tenryuu (天龍), Yuubari (夕張) to World 5-1 and score an S rank victory at the boss node."
 	},
 	"274": {
 		"code": "",
@@ -1181,14 +1181,14 @@
 		"name_jp": "海上突入部隊、進発せよ！",
 		"name": "B44: Sortie the Maritime Assault Fleet",
 		"desc_jp": "「比叡」「霧島」「長良」「暁」「雷」「電」の艦隊で、南方海域進出作戦を実施、敵を撃滅せよ！",
-		"desc": "Sortie Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, and Inazuma and\nscore an S rank victory at World 5-1 boss."
+		"desc": "Sortie Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, and Inazuma and score an S rank victory at World 5-1 boss."
 	},
 	"277": {
 		"code": "",
 		"name_jp": "「第六駆逐隊」対潜哨戒を徹底なのです！",
 		"name": "B45: 6th Destroyer Division's Thorough Anti-Submarine Patrol na no desu",
 		"desc_jp": "「第六駆逐隊」を含む艦隊で鎮守府正面で対潜哨戒を実施、敵潜水艦部隊を痛打せよ！",
-		"desc": "Sortie Akatsuki Kai2 as the flagship, Hibiki, Ikazuchi, and Inazuma and\nscore an A rank victory at World 1-5 boss."
+		"desc": "Sortie Akatsuki Kai2 as the flagship, Hibiki, Ikazuchi, and Inazuma and score an A rank victory at World 1-5 boss."
 	},
 	"278": {
 		"code": "",
@@ -1300,7 +1300,7 @@
 		"name_jp": "「小沢艦隊」出撃せよ！",
 		"name": "B54: Sortie the Ozawa Fleet",
 		"desc_jp": "「小沢艦隊」を沖ノ島海域前面に展開し、侵攻する敵機動部隊を捕捉、これを撃滅せよ！",
-		"desc": "Sortie Zuikaku Kai as the flagship, Zuihou Kai, Chitose, Chiyoda, Ise Kai, and Hyuuga Kai\nto World 2-4 and score an S rank victory at the boss node."
+		"desc": "Sortie Zuikaku Kai as the flagship, Zuihou Kai, Chitose, Chiyoda, Ise Kai, and Hyuuga Kai to World 2-4 and score an S rank victory at the boss node."
 	},
 	"295": {
 		"code": "",
@@ -1314,14 +1314,14 @@
 		"name_jp": "新編成航空戦隊、北方へ進出せよ！",
 		"name": "B56: Sortie the New Carrier Division to the North",
 		"desc_jp": "「新編成航空戦隊」をアルフォンシーノ方面へ進出、敵泊地の機動部隊を撃滅せよ！",
-		"desc": "Sortie 2 fleet carriers, 2 aviation battleships or aviation cruisers and 2 destroyers and\nscore an S rank victory at the World 3-3 boss."
+		"desc": "Sortie 2 fleet carriers, 2 aviation battleships or aviation cruisers and 2 destroyers and score an S rank victory at the World 3-3 boss."
 	},
 	"297": {
 		"code": "",
 		"name_jp": "「礼号作戦」実施せよ！",
 		"name": "B57: Operation Rei-go",
 		"desc_jp": "精強な「水上反撃部隊」で、南西諸島沖ノ島沖に突入！同海域の敵戦力を撃滅せよ！",
-		"desc": "Sortie Kasumi as the flagship, Ashigara, Ooyodo, Asashimo, and Kiyoshimo, and up to 3 additional ships and\nscore an S rank victory at the World 2-5 boss."
+		"desc": "Sortie Kasumi as the flagship, Ashigara, Ooyodo, Asashimo, and Kiyoshimo, and up to 3 additional ships and score an S rank victory at the World 2-5 boss."
 	},
 	"298": {
 		"code": "",
@@ -1447,7 +1447,7 @@
 		"name_jp": "甲型駆逐艦の戦力整備計画",
 		"name": "C14: Type-A Destroyer Strength Improvement Plan",
 		"desc_jp": "甲型駆逐艦整備任務：甲型駆逐艦【夕雲型/陽炎型】を2隻以上配備した第一艦隊で演習で3回「勝利」、<br>その後、同艦隊を南西諸島海域に投入。各出撃で得られた戦訓を艦隊型駆逐艦戦力整備に活用せよ！",
-		"desc": "Get 3 victories in exercises and then obtain an A-rank victory at [W2-2],\n[W2-3], [W2-4], and [W2-5] boss using the main fleet including 2 Kagerou-Class or\nYuugumo-Class Destroyers."
+		"desc": "Get 3 victories in exercises and then obtain an A-rank victory at [W2-2], [W2-3], [W2-4], and [W2-5] boss using the main fleet including 2 Kagerou-Class or Yuugumo-Class Destroyers."
 	},
 	"318": {
 		"code": "",
@@ -2259,7 +2259,7 @@
 		"name_jp": "主力「陸攻」の調達",
 		"name": "F39q2: Supply of the Land-based Main Bomber Force",
 		"desc_jp": "主力陸上攻撃機「一式陸攻」の新規調達を行う。「零式艦戦21型」を二つ「工廠」で廃棄し、<br>「九六式陸攻」一つと「九七式艦攻」二つを準備せよ！(任務達成後、用意した必要装備は消滅します)",
-		"desc": "Have a Type 96 Attack Bomber and two Type 97 Torpedo Bombers in your inventory,\nand scrap two Zero Fighter Model 21. Unlock all of the equipment."
+		"desc": "Have a Type 96 Attack Bomber and two Type 97 Torpedo Bombers in your inventory, and scrap two Zero Fighter Model 21. Unlock all of the equipment."
 	},
 	"644": {
 		"code": "",
@@ -2455,7 +2455,7 @@
 		"name_jp": "夜間作戦型艦上攻撃機の開発",
 		"name": "F62: Carrier-based Night Torpedo Bomber Development",
 		"desc_jp": "「TBF」を秘書艦一番スロットに搭載、「13号対空電探」x2「22号対水上電探」x2廃棄、開発資材x40<br>改修資材x10、弾薬5,000、ボーキサイト8,000、「新型航空兵装資材」x1、「熟練搭乗員」を用意せよ！",
-		"desc": "Prepare 5000 ammo, 8000 bauxite, 40 devmat, 10 screw, 1 Skilled Crew Member, and\n1 New Model Aerial Armament Materials. Equip TBF on flagship 1st plane slot. Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above."
+		"desc": "Prepare 5000 ammo, 8000 bauxite, 40 devmat, 10 screw, 1 Skilled Crew Member, and 1 New Model Aerial Armament Materials. Equip TBF on flagship 1st plane slot. Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above."
 	},
 	"672": {
 		"code": "",
@@ -2546,7 +2546,7 @@
 		"name_jp": "駆逐艦主砲兵装の戦時改修",
 		"name": "F76: Wartime Modification of Destroyer Main Guns",
 		"desc_jp": "旗艦特型駆逐艦の第一スロに「12.7cm連装砲A型改二」改修maxを装備、 「10cm連装高角砲」x4<br> 「94式高射装置」x1を廃棄、開発資材x30、鋼材900、新型砲熕兵装資材x1を準備せよ！",
-		"desc": "Have 30 Development Materials, 900 steel, and a New Type Artillery Armament Material. Equip an unlocked ★max 12.7cm Twin Gun Model A Kai 2 in the first slot of your Fubuki-class\nsecretary ship. And then scrap four 10cm Twin High-angle Gun and one Type 94 AAFD."
+		"desc": "Have 30 Development Materials, 900 steel, and a New Type Artillery Armament Material. Equip an unlocked ★max 12.7cm Twin Gun Model A Kai 2 in the first slot of your Fubuki-class secretary ship. And then scrap four 10cm Twin High-angle Gun and one Type 94 AAFD."
 	},
 	"686": {
 		"code": "",
@@ -2560,7 +2560,7 @@
 		"name_jp": "航空戦力の強化",
 		"name": "F79: Aerial Force Enhancement",
 		"desc_jp": "航空戦力強化任務：「艦戦」「艦爆」「艦攻」「水偵」を各3装備ずつ廃棄、さらに熟練搭乗員x1、及び<br>ボーキサイト1,800を準備せよ！(任務達成後、熟練搭乗員x1及びボーキサイト1,800は消滅します)",
-		"desc": "Have 1800 Bauxite and a Skilled Pilot. And then scrap 3 fighters,\n3 dive bombers, 3 torpedo bombers, and 3 recon seaplanes."
+		"desc": "Have 1800 Bauxite and a Skilled Pilot. And then scrap 3 fighters, 3 dive bombers, 3 torpedo bombers, and 3 recon seaplanes."
 	},
 	"689": {
 		"code": "",
@@ -2707,56 +2707,56 @@
 		"name_jp": "謹賀新年！「水雷戦隊」出撃始め！",
 		"name": "SB26: Happy New Year! Torpedo Squadron, Commence Sortie!",
 		"desc_jp": "新春特別任務：軽巡を旗艦とした水雷戦隊を鎮守府海域南西諸島沖及び南西諸島防衛線に展開！<br>両作戦海域において敵艦隊を反復邀撃、新年の暁に勝利を刻みなさい！二〇一八、水雷戦隊…抜錨ッ！",
-		"desc": "Obtain two A-rank victories at [W1-2] and [W1-4] boss\nusing CL flagship and up to 5 DD."
+		"desc": "Obtain two A-rank victories at [W1-2] and [W1-4] bos using CL flagship and up to 5 DD."
 	},
 	"802": {
 		"code": "",
 		"name_jp": "新春「伊良湖」のお手伝い！",
 		"name": "SB27: Help Out Irako for the New Year!",
 		"desc_jp": "新春特別任務：謹賀新年…提督、おめでとうございます！新春からお手伝い、ありがとうございます！<br>水上機母艦または巡洋艦級旗艦で、バシー島沖及び東部オリョール海に反復出撃、お願いします！",
-		"desc": "Obtain two A-rank victories at [W2-2] and [W2-3] boss\nusing AV/CA(V)/CL(T)/CT flagship and up to 5 ships."
+		"desc": "Obtain two A-rank victories at [W2-2] and [W2-3] boss using AV/CA(V)/CL(T)/CT flagship and up to 5 ships."
 	},
 	"803": {
 		"code": "",
 		"name_jp": "護衛始め！「海上護衛隊」なお正月！",
 		"name": "SB28: Commence Escort! a New Year for the Naval Escort Squadrons!",
 		"desc_jp": "新春特別任務：駆逐艦及び海防艦で編成された海上護衛隊(軽空母1隻配備可能)を編成、<br>鎮守府近海において近海対潜哨戒及び輸送船団護衛作戦を実施、各3回以上成功させよ！",
-		"desc": "Obtain three A-rank victories at [W1-5 boss] and reach node N on [W1-6] three times\nusing only DD/DE and up to 1 CVL."
+		"desc": "Obtain three A-rank victories at [W1-5 boss] and reach node N on [W1-6] three times using only DD/DE and up to 1 CVL."
 	},
 	"804": {
 		"code": "",
 		"name_jp": "迎春！「空母機動部隊」全力出撃！",
 		"name": "SB29: Happy New Year! Carrier Task Force, All-Out Sortie!",
 		"desc_jp": "新春特別任務：旗艦に航空母艦、護衛駆逐艦2隻以上を擁する機動部隊でサーモン海域北方に展開！<br>反復出撃によって、同艦域の敵戦力を撃破せよ！精鋭「空母機動部隊」、新春の海に抜錨せよ！",
-		"desc": "Obtain four A-rank victories at [W5-5] boss\nusing CV(B/L) flagship, 2 DD, and up to 3 ships."
+		"desc": "Obtain four A-rank victories at [W5-5] boss using CV(B/L) flagship, 2 DD, and up to 3 ships."
 	},
 	"805": {
 		"code": "",
 		"name_jp": "旗艦「霞」北方海域を哨戒せよ！",
 		"name": "B58: Send Kasumi to Patrol the Northern Sea",
 		"desc_jp": "旗艦「霞改二」で駆逐艦4隻を含む艦隊を北方海域に投入し、モーレイ海哨戒を実施せよ！",
-		"desc": "Sortie a fleet with Kasumi Kai2 as flagship, 3 DD, and up to 2 additional ships and\nscore a victory at World 3-1 boss."
+		"desc": "Sortie a fleet with Kasumi Kai2 as flagship, 3 DD, and up to 2 additional ships and score a victory at World 3-1 boss."
 	},
 	"806": {
 		"code": "",
 		"name_jp": "旗艦「霞」出撃！敵艦隊を撃滅せよ！",
 		"name": "B59: Sortie Kasumi and Defeat the Enemy Fleet",
 		"desc_jp": "旗艦「霞改二」で駆逐艦3隻を含む艦隊で南西諸島沖ノ島沖に突入！敵主力を撃滅せよ！",
-		"desc": "Sortie a fleet with Kasumi Kai2 as flagship, 2 DD and up to 3 additional ships and\nscore an S rank victory at World 2-5 boss."
+		"desc": "Sortie a fleet with Kasumi Kai2 as flagship, 2 DD and up to 3 additional ships and score an S rank victory at World 2-5 boss."
 	},
 	"807": {
 		"code": "",
 		"name_jp": "「第三十一戦隊」出撃せよ！",
 		"name": "B60: Deploy the 31st Squadron (1st Gen.)",
 		"desc_jp": "第三十一戦隊(第一次)を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！",
-		"desc": "Sortie a fleet with Isuzu Kai2 as flagship, Satsuki Kai2, Uzuki Kai, and\nup to 3 additional ships to World 1-6 and complete the map."
+		"desc": "Sortie a fleet with Isuzu Kai2 as flagship, Satsuki Kai2, Uzuki Kai, and up to 3 additional ships to World 1-6 and complete the map."
 	},
 	"808": {
 		"code": "",
 		"name_jp": "「第二七駆逐隊」出撃せよ！",
 		"name": "B61: Sortie the 27th Destroyer Division",
 		"desc_jp": "「白露改」旗艦の第二七戦隊を含む艦隊をオリョール海に展開、同海域の敵艦隊を撃滅せよ！",
-		"desc": "Sortie Shiratsuyu Kai as flagship, Shigure, Harusame and Samidare and up to 2 additional ships and\nscore an S rank victory against World 2-3 Boss."
+		"desc": "Sortie Shiratsuyu Kai as flagship, Shigure, Harusame and Samidare and up to 2 additional ships and score an S rank victory against World 2-3 Boss."
 	},
 	"809": {
 		"code": "",
@@ -2798,7 +2798,7 @@
 		"name_jp": "強行高速輸送部隊、出撃せよ！",
 		"name": "B68: High-speed Transport Fleet, sortie!",
 		"desc_jp": "「江風改二」「時雨改二」「川内改二」他駆逐2隻を含む艦隊で、ジャム島攻略作戦を実施せよ！",
-		"desc": "Sortie Sendai Kai2, Kawakaze Kai2, Shigure Kai2, 2 DD, and 1 additional ships\nand score an A rank victory against World 4-1 Boss."
+		"desc": "Sortie Sendai Kai2, Kawakaze Kai2, Shigure Kai2, 2 DD, and 1 additional ships and score an A rank victory against World 4-1 Boss."
 	},
 	"815": {
 		"code": "",
@@ -2952,7 +2952,7 @@
 		"name_jp": "精鋭「第十六戦隊」突入せよ！",
 		"name": "B85: Deploy the Elite 16th Squadron!",
 		"desc_jp": "再編成を完了した精鋭「第十六戦隊」を南西諸島海域沖ノ島沖に展開、<br>同方面に遊弋する敵主力を捕捉、これを撃破せよ！",
-		"desc": "Sortie Kinu Kai2 as flagship and 5 of the following: Kitakami Kai2, Ooi Kai2, Kuma Kai,\nAoba Kai, Uranami Kai, or Shikinami Kai and score an S-rank victory against World 2-5 Boss."
+		"desc": "Sortie Kinu Kai2 as flagship and 5 of the following: Kitakami Kai2, Ooi Kai2, Kuma Kai Aoba Kai, Uranami Kai, or Shikinami Kai and score an S-rank victory against World 2-5 Boss."
 	},
 	"837": {
 		"code": "",
@@ -3141,14 +3141,14 @@
 		"name_jp": "精鋭「第二二駆逐隊」出撃せよ！",
 		"name": "B104: Sortie the Elite 22nd Destroyer Division!",
 		"desc_jp": "出撃任務：再編した精鋭「第二二駆逐隊」を含む精強な水雷戦隊で北方海域キス島沖に出撃、<br>キス島撤退作戦を完全成功させよ！",
-		"desc": "Sortie Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai, Nagatsuki Kai,\nand up to 2 additional ships to [W3-2]. S-rank the boss node."
+		"desc": "Sortie Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai, Nagatsuki Kai, and up to 2 additional ships to [W3-2]. S-rank the boss node."
 	},
 	"864": {
 		"code": "",
 		"name_jp": "精強大型航空母艦、抜錨！",
 		"name": "B105: Large Powerful Aircraft Carrier, Setting Sail!",
 		"desc_jp": "出撃任務：「Saratoga Mk.II」または同「Mod.2」を旗艦とした「任務部隊」で、南方海域サーモン海域<br>北方及び中部海域MS諸島沖に展開、同海域敵戦力を捕捉撃滅、「MS諸島防衛戦」を成功させよ！",
-		"desc": "Sortie Saratoga Mk.II/Mod.2 as flagship, 1 CL, 2 DD with 2 additional ships\nto [W5-5], [W6-2]. S-rank the boss nodes."
+		"desc": "Sortie Saratoga Mk.II/Mod.2 as flagship, 1 CL, 2 DD with 2 additional ships to [W5-5], [W6-2]. S-rank the boss nodes."
 	},
 	"865": {
 		"code": "",
@@ -3225,7 +3225,7 @@
 		"name_jp": "精鋭「三一駆」、鉄底海域に突入せよ！",
 		"name": "Bq6: Elite 31st Destroyer Division, Rush into the Ironbottom Sound!",
 		"desc_jp": "強行東京急行任務：精鋭「三一駆」第一小隊を護衛戦力とした突入艦隊を編成、南方サーモン海域に投入。<br>鉄底海峡に突入し、同海域に展開する敵艦艇を実力で排除、強行鼠輸送作戦を反復完遂せよ！",
-		"desc": "Obtain two S-rank victories at [W5-4] boss using Naganami Kai Ni,\neither Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships."
+		"desc": "Obtain two S-rank victories at [W5-4] boss using Naganami Kai Ni, either Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships."
 	},
 	"876": {
 		"code": "",
