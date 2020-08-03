@@ -1,5 +1,5 @@
 {
-	"version": "20071502",
+	"version": "20071503",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3225,7 +3225,7 @@
 		"name_jp": "精鋭「三一駆」、鉄底海域に突入せよ！",
 		"name": "Bq6: Elite 31st Destroyer Division, Rush into the Ironbottom Sound!",
 		"desc_jp": "強行東京急行任務：精鋭「三一駆」第一小隊を護衛戦力とした突入艦隊を編成、南方サーモン海域に投入。<br>鉄底海峡に突入し、同海域に展開する敵艦艇を実力で排除、強行鼠輸送作戦を反復完遂せよ！",
-		"desc": "Obtain two S-rank victories at [W5-4] boss using Naganami Kai Ni as flagship,\neither Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships."
+		"desc": "Obtain two S-rank victories at [W5-4] boss using Naganami Kai Ni,\neither Takanami Kai, Okinami Kai, or Asashimo Kai, and up to 4 additional ships."
 	},
 	"876": {
 		"code": "",
