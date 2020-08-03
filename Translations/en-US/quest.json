@@ -1,5 +1,5 @@
 {
-	"version": "20071501",
+	"version": "20071502",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3034,7 +3034,7 @@
 	"848": {
 		"code": "",
 		"name_jp": "重装甲巡洋艦、鉄底海峡に突入せよ！",
-		"name": "B92:Heavy Armored Cruiser, Rush into the Ironbottom Sound!",
+		"name": "B92: Heavy Armored Cruiser, Rush into the Ironbottom Sound!",
 		"desc_jp": "第一艦隊旗艦に「Zara due」を配備、同艦隊で南方サブ島沖海域へ突入！同方面の敵艦隊群を突破し、鉄<br>底海峡に展開する敵戦力を撃破せよ！",
 		"desc": "Sortie Zara Due as Flagship with 5 additional ships. Score an A-rank victory against World 5-3 Boss."
 	},
