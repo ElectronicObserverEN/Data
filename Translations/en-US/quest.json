@@ -1,5 +1,5 @@
 {
-	"version": "20071504",
+	"version": "20071505",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3526,7 +3526,7 @@
 		"name_jp": "合同艦隊作戦任務【拡張作戦】",
 		"name": "B151: Coalition Fleet's Operational Mission [Extra Operation]",
 		"desc_jp": "【拡張作戦:甲作戦級】「Fletcher Mk.II」を含む米・英・豪・蘭出身艦計4隻以上を含む精鋭艦隊を編成、<br>カレー洋リランカ島沖、サーモン海域北方、中部北海域ピーコック島沖に反復出撃！敵戦力を撃滅せよ！",
-		"desc": "Sortie a fleet with Fletcher Mk.II as flagship. Have in the fleet 3 additional ships from any of the following nations: the United States, Australia, the Netherlands, or the United Kingdom. Obtain an S-rank twice at each boss node of 4-5, 5-5, and 6-4."
+		"desc": "Sortie a fleet with Fletcher Mk.II. Have in the fleet 3 additional ships from any of the following nations: the United States, Australia, the Netherlands, or the United Kingdom. Obtain an S-rank twice at each boss node of 4-5, 5-5, and 6-4."
 	},
 	"923": {
 		"code": "",
