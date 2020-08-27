@@ -1,5 +1,5 @@
 {
-	"version": "20071601",
+	"version": "20071602",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -316,7 +316,6 @@
 		"Helena": "Helena",
 		"South Dakota": "South Dakota",
 		"Hornet": "Hornet",
-		
 		"駆逐イ級": "DD I-Class",
 		"駆逐ロ級": "DD Ro-Class",
 		"駆逐ハ級": "DD Ha-Class",
@@ -339,7 +338,6 @@
 		"重巡ネ級": "CA Ne-Class",
 		"駆逐ナ級": "DD Na-Class",
 		"PT小鬼群": "PT Imps",
-		
 		"装甲空母鬼": "Armored Carrier Demon",
 		"装甲空母姫": "Armored Carrier Princess",
 		"浮遊要塞": "Floating Fortress",
@@ -438,6 +436,7 @@
 		"丁": "D",
 		"戊": "E",
 		"特": "Toku",
+		"護": "Go",
 		"elite": "elite",
 		"flagship": "flagship",
 		"後期型": "Late Model",
