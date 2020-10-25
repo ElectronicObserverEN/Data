@@ -1,5 +1,5 @@
 {
-	"version": "20071508",
+	"version": "20071509",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3562,6 +3562,13 @@
 		"name": "B152: Special Aircraft Carrier Mission: Our Carrier Divisions, Peerless and Unmatched!",
 		"desc_jp": "航空母艦特別任務：精強な正規空母2隻以上を擁する航空戦隊を中核とした機動部隊の精鋭で、<br>南西諸島海域沖ノ島海域、同沖ノ島沖、西方海域リランカ島に出撃！各方面の敵戦力を撃滅せよ！",
 		"desc": "Sortie a fleet with 2 Standard Aircraft Carriers and up to 4 additional ships to Worlds 2-4, 2-5, and 4-3. Obtain an S-rank at each boss node."
+	},
+	"926": {
+		"code": "",
+		"name_jp": "最精鋭「第一航空戦隊」、出撃！鎧袖一触！",
+		"name": "B154: Peerless \"CarDiv 1\", Sortie! Defeat Them With a Single Strike!",
+		"desc_jp": "「赤城改二」「加賀改二」型両航空母艦による最精鋭「第一航空戦隊」を中核とした艦隊で、サーモン海域<br>北方、タウイタウイ泊地沖深部、中部海域MS諸島沖、同KW環礁沖海域に展開！敵を捕捉撃滅せよ！",
+		"desc": "Sortie a fleet with Akagi Kai Ni/Akagi Kai Ni E, Kaga Kai Ni/Kaga Kai Ni E/Kaga Kai Ni Go, and up to 4 additional ships to Worlds 7-2, 5-5, 6-2, and 6-5. Obtain an S-rank at the boss node of 5-5, 6-2, and 6-5 once. Obtain an S-rank at the second boss node of 7-2 once."
 	},
 	"927": {
 		"code": "",
