@@ -1,5 +1,5 @@
 {
-	"version": "20071501",
+	"version": "20071502",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -384,6 +384,11 @@
 		"16inch三連装砲 Mk.6 mod.2": "16inch Triple Gun Mk.6 mod.2",
 		"6inch三連装速射砲 Mk.16": "6inch Triple Rapid Fire Gun Mount Mk.16",
 		"6inch三連装速射砲 Mk.16 mod.2": "6inch Triple Rapid Fire Gun Mount Mk.16 mod.2",
+		"銀河(江草隊)": "Ginga (Egusa Squadron)",
+		"TBM-3W+3S": "TBM-3W+3S",
+		"16inch三連装砲 Mk.6+GFCS": "16inch Triple Gun Mount Mk.6 + GFCS",
+		"九九式艦爆二二型": "Type 99 Dive Bomber Model 22",
+		"九九式艦爆二二型(熟練)": "Type 99 Dive Bomber Model 22 (Skilled)",
 		"5inch単装砲": "5inch Single Gun",
 		"5inch連装砲": "5inch Twin Gun",
 		"3inch単装高角砲": "3inch Single High-angle",
