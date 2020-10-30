@@ -1,5 +1,5 @@
 {
-	"version": "20071509",
+	"version": "20071510",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3454,9 +3454,9 @@
 	"912": {
 		"code": "",
 		"name_jp": "工作艦「明石」護衛任務",
-		"name": "By4: Repair Ship \"Akashi\" Escort Mission",
+		"name": "By3: Repair Ship \"Akashi\" Escort Mission",
 		"desc_jp": "工作艦護衛任務：旗艦に工作艦「明石」、護衛の駆逐艦3隻以上で製油所地帯沿岸、鎮守府近海航路、<br>南西諸島近海、バシー海峡、東部オリョール海に展開。「明石」を護衛、同海域での作戦を成功させよ！",
-		"desc": "Sortie a fleet with Akashi, 3 Destroyers, and up to 2 additional ships to Worlds 1-3, 1-6, 2-1, 2-2, and 2-3. Obtain an S-rank at the boss node of 1-3, 2-1, 2-2, and 2-3 once. Reach the anchor node N of 1-6 once."
+		"desc": "Sortie a fleet with Akashi as flagship, 3 Destroyers, and up to 2 additional ships to Worlds 1-3, 1-6, 2-1, 2-2, and 2-3. Obtain a A-rank (or higher) at the boss node of 1-3, 2-1, 2-2, and 2-3 once. Reach the anchor node N of 1-6 once."
 	},
 	"913": {
 		"code": "",
@@ -3468,7 +3468,7 @@
 	"914": {
 		"code": "",
 		"name_jp": "重巡戦隊、西へ！",
-		"name": "By3: Heavy Cruiser Squadron, to the West!",
+		"name": "By4: Heavy Cruiser Squadron, to the West!",
 		"desc_jp": "重巡(航空巡洋艦含まず)3隻以上、駆逐艦1隻以上を中核とした艦隊を編成。同艦隊を西方に展開。<br>西方海域ジャム島沖、カレー洋海域、リランカ島、カスガダマ島の敵戦力と交戦、これを撃破せよ！",
 		"desc": "Sortie a fleet with 3 Heavy Cruisers, 1 Destroyer, and up to 2 additional ships to Worlds 4-1, 4-2, 4-3, and 4-4. Obtain an S-rank at each boss node once."
 	},
