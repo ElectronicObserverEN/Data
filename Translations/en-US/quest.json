@@ -1,5 +1,5 @@
 {
-	"version": "20071510",
+	"version": "20071511",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2354,10 +2354,10 @@
 	},
 	"657": {
 		"code": "",
-		"name_jp": "春の準備任務：桃の節句準備！",
-		"name": "SF3: Spring Preparation Mission: Hina Matsuri Preparations!",
-		"desc_jp": "春の準備任務：「14cm単装砲」を二つ廃棄、家具コイン5,000と「九九式艦爆」「61cm三連装魚雷」各二つを準備せよ！　※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。",
-		"desc": "Have 5000 furniture coins, two Type 99 Dive Bomber and two 61cm Triple Torpedo in your inventory. Unlock the equipment. And then, scrap two 14cm Single Gun."
+		"name_jp": "新型兵装開発整備の強化",
+		"name": "F92: Improving Development and Maintenance of New Armaments",
+		"desc_jp": "新型兵装の開発体制整備を実施する！「小口径主砲」系装備x6、「中口径主砲」系装備x5、「魚雷」系装備x4を廃棄、鋼材4,000を準備せよ！　※任務達成後、準備した資源は消費します。",
+		"desc": "Have 4000 Steel. Scrap 6 Small Caliber Main Guns, 5 Medium Caliber Main Guns and 4 Torpedoes."
 	},
 	"658": {
 		"code": "",
