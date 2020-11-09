@@ -1,5 +1,5 @@
 {
-	"version": "20071511",
+	"version": "20071512",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1876,6 +1876,13 @@
 		"desc_jp": "小笠原沖哨戒線任務：「対潜警戒任務」「小笠原沖哨戒線遠征」「小笠原沖戦闘哨戒」<br>「南西方面航空偵察作戦」の各遠征任務を軽巡・駆逐艦など実施、これを成功させよ！",
 		"desc": "Complete Expeditions 4, A5, A6, and B1 once each."
 	},
+	"440": {
+		"code": "",
+		"name_jp": "兵站強化遠征任務【拡張作戦】",
+		"name": "D37: Military Buildup Expedition Mission: \"Extra Operation\"",
+		"desc_jp": "兵站強化拡張任務：「ブルネイ泊地沖哨戒」「海上護衛任務」「水上機前線輸送」<br>及び「強行鼠輸送作戦」「南西海域戦闘哨戒」各遠征を実施、これを成功させよ！",
+		"desc": "Complete Expeditions 5, 40, 41, 46 and E2 once each."
+	},
 	"501": {
 		"code": "",
 		"name_jp": "はじめての「補給」！",
@@ -2099,6 +2106,13 @@
 		"name": "F18d6: Improve Equipment",
 		"desc_jp": "「改修工廠」で「装備」の改修強化に努めます。",
 		"desc": "Perform equipment modernisation once."
+	},
+	"620": {
+		"code": "",
+		"name_jp": "一航戦精鋭「流星改」隊の編成",
+		"name": "F88: Formation of the CarDiv 1's Peerless \"Ryuusei Kai\" Squadron",
+		"desc_jp": "一航戦任務：旗艦「赤城改二(改二戊)」第一装備スロに「流星改(一航戦)」※練度maxを搭載し、<br>「流星改」x4「彩雲」x1「九七式艦攻」x2廃棄、弾薬x2800、ボーキ9000、熟練搭乗員x2を準備せよ！",
+		"desc": "Prepare 2800 Ammunition, 9000 Bauxite, and 2 Skilled Crew Member in your inventory. Have Akagi Kai Ni or Akagi Kai Ni E as secretary equipped with a rank 7 Ryuusei Kai (CarDiv 1) in her first slot. Scrap 4 Ryuusei Kai, 1 Saiun, and 2 Type 97 Torpedo Bomber."
 	},
 	"621": {
 		"code": "",
