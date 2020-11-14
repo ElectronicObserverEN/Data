@@ -1,5 +1,5 @@
 {
-	"version": "20071513",
+	"version": "20071514",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2364,7 +2364,7 @@
 		"name_jp": "工廠フル稼働！新兵装を開発せよ！",
 		"name": "F93: Arsenal at maximum capacity! Develop new armaments!",
 		"desc_jp": "「小口径主砲」「中口径主砲」「大口径主砲」「水偵」「艦攻」系各装備をそれぞれ五つずつ廃棄！鋼材、燃料、ボーキサイト各1,500を準備せよ！　※任務達成後、準備した資源は消費します。",
-		"desc": "Scrap 5 pieces of equipment of each of the following types:\n- small-caliber main guns\n- medium-caliber main guns\n- large-caliber main guns\n- recon seaplanes\n- torpedo bombers\nPrepare 1500 steel, 1500 fuel, and 1500 bauxite!\n※ The resources will be consumed upon completing the quest"
+		"desc": "Scrap 5 pieces of equipment of each of the following types: small-caliber main guns, medium-caliber main guns, large-caliber main guns, recon seaplanes, torpedo bombers. Prepare 1500 steel, 1500 fuel, and 1500 bauxite!\n※ The resources will be consumed upon completing the quest"
 	},
 	"656": {
 		"code": "",
@@ -2728,7 +2728,7 @@
 		"name_jp": "「駆逐艦」の改修工事を実施せよ！",
 		"name": "G6: Carry out Modernization for \"Destroyers\"",
 		"desc_jp": "近代化改修任務：鋼材600及びボーキサイト300を準備して、任意の駆逐艦を近代化改修！<br>[駆逐艦]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
-		"desc": "Modernization mission: Prepare 600 steel as well as 300 bauxite, then modernize any destroyer!\nPerform 2 successful modernizations by using 3 destroyers each time!\n※ The resources will be consumed when you clear this mission"
+		"desc": "Modernization mission: Prepare 600 steel as well as 300 bauxite, then modernize any destroyer! Perform 2 successful modernizations by using 3 destroyers each time!\n※ The resources will be consumed when you clear this mission"
 	},
 	"801": {
 		"code": "",
