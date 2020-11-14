@@ -1,5 +1,5 @@
 {
-	"version": "20071512",
+	"version": "20071513",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1624,6 +1624,13 @@
 		"desc_jp": "駆逐艦または海防艦計4隻(軽巡級1隻導入可能)を含む演習艦隊を編成、<br>同演習艦隊による演習で本日中に【A判定】以上の勝利を4回以上達成せよ！",
 		"desc": "Use a fleet with 3 Destroyers/Coastal Defense Ships, 1 additional Destroyer/Coastal Defense Ship OR 1 Light Cruiser, and up to 2 additional ships. Obtain an A-rank (or higher) in Exercises 4 times within the same day."
 	},
+	"347": {
+		"code": "",
+		"name_jp": "奇跡の駆逐艦",
+		"name": "C51: The Miraculous Destroyer",
+		"desc_jp": "旗艦「雪風」を含む合計4隻以上の駆逐艦を配備した精強な演習艦隊を編成、<br>本日中に演習で【S判定】以上の勝利を4回以上達成せよ！",
+		"desc": "Have Yukikaze as flagship along with 3 additional DDs and 2 XX and win 4 S ranks on the same day."
+	},
 	"401": {
 		"code": "",
 		"name_jp": "はじめての「遠征」！",
@@ -2354,10 +2361,10 @@
 	},
 	"655": {
 		"code": "",
-		"name_jp": "「彩雲」輸送分解",
-		"name": "Disassemble and Transport \"Saiun\"",
-		"desc_jp": "彩雲分解任務：「零式水上偵察機」一つを廃棄、開発資材x20と「彩雲」一つを準備せよ！<br>※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。",
-		"desc": "Have 20 Development Materials and one Saiun in your inventory. Unlock the equipment. And then, scrap one Type 0 Reconnaissance Seaplane."
+		"name_jp": "工廠フル稼働！新兵装を開発せよ！",
+		"name": "F93: Arsenal at maximum capacity! Develop new armaments!",
+		"desc_jp": "「小口径主砲」「中口径主砲」「大口径主砲」「水偵」「艦攻」系各装備をそれぞれ五つずつ廃棄！鋼材、燃料、ボーキサイト各1,500を準備せよ！　※任務達成後、準備した資源は消費します。",
+		"desc": "Scrap 5 pieces of equipment of each of the following types:\n- small-caliber main guns\n- medium-caliber main guns\n- large-caliber main guns\n- recon seaplanes\n- torpedo bombers\nPrepare 1500 steel, 1500 fuel, and 1500 bauxite!\n※ The resources will be consumed upon completing the quest"
 	},
 	"656": {
 		"code": "",
@@ -2715,6 +2722,13 @@
 		"name": "20WiG7: (Peach Festival Mission) Hishimochi Renovation: Final",
 		"desc_jp": "桃の節句任務：菱餅17個、開発資材300及び鋼鉄15,000、ボーキサイト15,000を準備、<br>任意の正規空母の近代化改修を[正規空母]x5隻同時使用により2回成功させよ！",
 		"desc": "Prepare 17 Hishimochi, 300 Development material, 15000 Steel, and 15000 Bauxite in your inventory. Successfully modernize 5 Standard Aircraft Carriers onto a Standard Aircraft Carrier twice."
+	},
+	"714": {
+		"code": "",
+		"name_jp": "「駆逐艦」の改修工事を実施せよ！",
+		"name": "G6: Carry out Modernization for \"Destroyers\"",
+		"desc_jp": "近代化改修任務：鋼材600及びボーキサイト300を準備して、任意の駆逐艦を近代化改修！<br>[駆逐艦]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
+		"desc": "Modernization mission: Prepare 600 steel as well as 300 bauxite, then modernize any destroyer!\nPerform 2 successful modernizations by using 3 destroyers each time!\n※ The resources will be consumed when you clear this mission"
 	},
 	"801": {
 		"code": "",
@@ -3611,5 +3625,12 @@
 		"name": "2010LQ1: Limited-Time Autumn Mission: Nowaki's Great Adventure",
 		"desc_jp": "【秋限定】第四駆逐隊「野分」を旗艦に、二番艦に僚艦「舞風」を配備した5隻以下の第一艦隊で、<br>鎮守府近海航路、バシー海峡、モーレイ海、南西諸島防衛線に複数回出撃！作戦を成功させよ！",
 		"desc": "Organize a fleet consisting of Nowaki as flagship, and Maikaze as the 2nd ship, and 3 XX and score an S rank twice at the boss nodes of 1-4, 1-6, 2-2, and 3-1."
+	},
+	"933": {
+		"code": "",
+		"name_jp": "【艦隊司令部強化】艦隊旗艦、出撃せよ！",
+		"name": "B159: [Fleet Headquarters Reinforcement] Fleet Flagship, Sortie!",
+		"desc_jp": "旗艦に「大淀」型軽巡または駆逐艦「丹陽」、他に駆逐艦\\/海防艦3隻以上を擁する第一艦隊を編成、<br>製油所地帯沿岸、南西諸島防衛線、南西諸島近海、バシー海峡に複数回出撃！海域を防衛せよ！",
+		"desc": "Have Ooyodo or Tan Yang as the flagship and up to 3 DD/DE in total and 2 XX and score an S rank at the boss nodes of 1-3, 1-4, 2-1, and 2-2 twice."
 	}
 }
