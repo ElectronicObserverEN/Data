@@ -1,5 +1,5 @@
 {
-	"version": "20071516",
+	"version": "20071517",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1630,6 +1630,13 @@
 		"name": "C46: Aircraft Carrier Exercises",
 		"desc_jp": "航空母艦演習任務：正規空母を旗艦に、また僚艦に正規空母を1隻以上、さらに駆逐艦2隻以上を含む<br>艦隊を編成。航空母艦の練度向上を図る！同艦隊で、本日中に4回以上演習で勝利せよ！",
 		"desc": "Use a fleet with 1 Standard Aircraft Carrier as flagship, 1 other Standard Aircraft Carrier, 2 Destroyers, and up to 2 additional ships to obtain a B-rank(?) (or higher) in Exercises 4 times within the same day."
+	},
+	"345": {
+		"code": "",
+		"name_jp": "演習ティータイム！",
+		"name": "C49: Tea Time Exercises",
+		"desc_jp": "「Warspite」「金剛」「Ark Royal」「Nelson」及びJ級駆逐艦から4隻以上含む艦隊を編成！<br>同ティータイム艦隊で、本日中に【A判定】以上の勝利を4回以上達成せよ！Tea Timeは大切ネー！",
+		"desc": "Organize a fleet which 4 of the ships include British born ships such as Warspite , Kongou , Ark Royal , Nelson or J-class DDs and score 4 PVP A rank victories or higher in the same day."
 	},
 	"347": {
 		"code": "",
