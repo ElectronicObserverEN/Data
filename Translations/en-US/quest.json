@@ -1,5 +1,5 @@
 {
-	"version": "20071517",
+	"version": "20071518",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3415,6 +3415,13 @@
 		"name": "B131: Aviation Battleship Division, Scout and Engage!",
 		"desc_jp": "航空戦艦二隻を中核とする艦隊を編成、同艦隊で南西諸島防衛線、鎮守府近海及び東部オリョール海、<br>タウイタウイ泊地沖に展開。同海域の脅威となる敵艦隊主力を捕捉、これを撃滅せよ！",
 		"desc": "Sortie a fleet with 2 BBV and up to 4 additional ships to Worlds 1-4, 1-5, 2-3, and 7-2. Obtain a S-rank at the boss of 1-4, 1-5, and 2-3. Obtain a S-rank at the second boss of 7-2."
+	},
+	"898": {
+		"code": "",
+		"name_jp": "北の海から愛をこめて",
+		"name": "B162: From the Northern Seas with Love",
+		"desc_jp": "任意の艦隊で、北方海域モーレイ海、キス島沖、アルフォンシーノ方面、北方海域全域、<br>北方AL海域において敵艦隊と交戦、これらを撃破、北方の海の制海権を確保せよ！",
+		"desc": "Sortie a fleet into 3-1, 3-2, 3-3, 3-4 and 3-5 and score an A+ rank at the boss node."
 	},
 	"901": {
 		"code": "",
