@@ -1,5 +1,5 @@
 {
-	"version": "20071519",
+	"version": "20071520",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2760,10 +2760,10 @@
 	},
 	"803": {
 		"code": "",
-		"name_jp": "護衛始め！「海上護衛隊」なお正月！",
-		"name": "SB28: Commence Escort! a New Year for the Naval Escort Squadrons!",
-		"desc_jp": "新春特別任務：駆逐艦及び海防艦で編成された海上護衛隊(軽空母1隻配備可能)を編成、<br>鎮守府近海において近海対潜哨戒及び輸送船団護衛作戦を実施、各3回以上成功させよ！",
-		"desc": "Obtain three A-rank victories at [W1-5 boss] and reach node N on [W1-6] three times using only DD/DE and up to 1 CVL."
+		"name_jp": "謹賀新年！特務艦隊、新春の北極海へ！",
+		"name": "2021 LQ3: Happy New Year! Auxiliary Fleet, to the Arctic Ocean of a New Year!",
+		"desc_jp": "航空母艦または水上機母艦・潜水母艦・補給艦計3隻以上を含む特務艦隊を編成、北方海域全域(#3-4)、バレンツ海(#E2)、ノルウェー北岬沖/北極海(#E3)に反復出撃、各海域方面の敵艦隊を撃破せよ！",
+		"desc": "Form a fleet with 3 CV(B/L)/AV/AS/AO and 3-9 XX and sortie and score an S rank twice on the boss nodes of 3-4, E-2 (Last Boss-Node Q), and E-3 (Last Boss-Node Z)"
 	},
 	"804": {
 		"code": "",
