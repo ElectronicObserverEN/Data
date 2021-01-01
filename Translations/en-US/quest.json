@@ -1,5 +1,5 @@
 {
-	"version": "20071518",
+	"version": "20071519",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2746,17 +2746,17 @@
 	},
 	"801": {
 		"code": "",
-		"name_jp": "謹賀新年！「水雷戦隊」出撃始め！",
-		"name": "SB26: Happy New Year! Torpedo Squadron, Commence Sortie!",
-		"desc_jp": "新春特別任務：軽巡を旗艦とした水雷戦隊を鎮守府海域南西諸島沖及び南西諸島防衛線に展開！<br>両作戦海域において敵艦隊を反復邀撃、新年の暁に勝利を刻みなさい！二〇一八、水雷戦隊…抜錨ッ！",
-		"desc": "Obtain two A-rank victories at [W1-2] and [W1-4] bos using CL flagship and up to 5 DD."
+		"name_jp": "迎春！令和三年「海上護衛隊」抜錨始め！",
+		"name": "2021 LQ1: Happy New Year! Reiwa 3 \"Maritime Escort Fleet\", Weigh Anchors!",
+		"desc_jp": "精鋭海上護衛隊(軽空母及び軽巡級各１隻配備可能)で鎮守府海域南西諸島沖、製油所地帯沿岸に出撃！また、鎮守府近海の近海対潜哨戒及び輸送船団護衛作戦、南西海域のブルネイ泊地沖哨戒を実施せよ！",
+		"desc": "Sortie a fleet of 0-1 CVL, 0-1 CL(T)/CT at most and 4-6 DD/DE (No other ship class allow). Score an A+ rank at the boss nodes of 1-2, 1-3, 1-5, and 7-1. Reach Node N on 1-6"
 	},
 	"802": {
 		"code": "",
 		"name_jp": "新春「伊良湖」のお手伝い！",
-		"name": "SB27: Help Out Irako for the New Year!",
-		"desc_jp": "新春特別任務：謹賀新年…提督、おめでとうございます！新春からお手伝い、ありがとうございます！<br>水上機母艦または巡洋艦級旗艦で、バシー島沖及び東部オリョール海に反復出撃、お願いします！",
-		"desc": "Obtain two A-rank victories at [W2-2] and [W2-3] boss using AV/CA(V)/CL(T)/CT flagship and up to 5 ships."
+		"name": "2021 LQ2: Happy New Year! \"Heavy Cruiser Squadron\", to the Nansei Islands!",
+		"desc_jp": "重巡級を旗艦配備、かつ同2隻以上を配した精鋭艦隊で、鎮守府海域南西諸島防衛線、南西諸島海域のバシー海峡、東部オリョール海、沖ノ島海域、沖ノ島沖に展開！敵艦隊を撃破、新春の制海権を確保せよ！",
+		"desc": "Form a fleet with 2 CA(V) (with one as flagship), and 4 XX and sortie and score an A+ rank on the boss nodes of 1-4, 2-2, 2-3, 2-4, and 2-5."
 	},
 	"803": {
 		"code": "",
