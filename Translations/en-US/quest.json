@@ -1,5 +1,5 @@
 {
-	"version": "20071520",
+	"version": "20071521",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2767,10 +2767,10 @@
 	},
 	"804": {
 		"code": "",
-		"name_jp": "迎春！「空母機動部隊」全力出撃！",
-		"name": "SB29: Happy New Year! Carrier Task Force, All-Out Sortie!",
-		"desc_jp": "新春特別任務：旗艦に航空母艦、護衛駆逐艦2隻以上を擁する機動部隊でサーモン海域北方に展開！<br>反復出撃によって、同艦域の敵戦力を撃破せよ！精鋭「空母機動部隊」、新春の海に抜錨せよ！",
-		"desc": "Obtain four A-rank victories at [W5-5] boss using CV(B/L) flagship, 2 DD, and up to 3 ships."
+		"name_jp": "新春任務群【拡張作戦】第一艦隊、出撃！",
+		"name": "2021 LQ4: New Year Task Force [Extra Operation] First Fleet, Sortie!",
+		"desc_jp": "【拡張作戦】精強な第一艦隊を編成、北方海域北方AL海域、西方海域カレー洋リランカ島沖、南西海域タウイタウイ泊地沖及びペナン島沖に展開、各方面の敵主力を撃滅せよ！艦隊、令和三年の海に抜錨ッ！",
+		"desc": "Form a fleet in the first fleet and sortie and score an S rank on the boss nodes of 3-5, 4-5, 7-2 (Part 2) and 7-3 (Part 2)"
 	},
 	"805": {
 		"code": "",
