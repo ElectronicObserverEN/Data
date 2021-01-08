@@ -1,5 +1,5 @@
 {
-	"version": "20071502",
+	"version": "20071503",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -216,6 +216,8 @@
 		"二式水戦改(熟練)": "Type 2 Seaplane Fighter Kai (Skilled)",
 		"強風改": "Kyoufuu Kai",
 		"零式艦戦63型(爆戦)": "Zero Fighter-bomber Model 63",
+		"四式重爆 飛龍": "Type 4 Heavy Bomber Hiryuu"
+		"四式重爆 飛龍(熟練)": "Type 4 Heavy Bomber Hiryuu(Skilled)"
 		"8cm高角砲改+増設機銃": "8cm High-angle Gun Kai+Machine Gun",
 		"一式戦 隼II型": "Type 1 Fighter Hayabusa Model II",
 		"一式戦 隼III型甲": "Type 1 Fighter Hayabusa Model IIIA",
