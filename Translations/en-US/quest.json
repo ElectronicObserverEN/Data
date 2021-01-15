@@ -1,5 +1,5 @@
 {
-	"version": "20071523",
+	"version": "20071524",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3040,10 +3040,10 @@
 	},
 	"843": {
 		"code": "",
-		"name_jp": "【節分拡張任務】令和二年節分作戦、全力出撃！",
-		"name": "SB59: \"Setsubun Extra Mission\" 2nd Year Reiwa Setsubun Operation, Main Force Sortie!",
-		"desc_jp": "節分拡張任務：戦艦または航空母艦を旗艦とする駆逐艦2隻以上を含む艦隊で、節分期間の南方海域<br>サーモン海域及び同北方、さらに中部北海域ピーコック島沖の敵戦力を捕捉撃滅せよ(戦果拡張可能)！",
-		"desc": "Sortie a fleet with a Battleship, Standard Aircraft Carrier, or Armored Aircraft Carrier as flagship, 2 Destroyers, and up to 3 additional ships to Worlds 5-4, 5-5, and 6-4. Obtain an S-rank at each boss node."
+		"name_jp": "【節分拡張任務】令和三年節分作戦、全力出撃！",
+		"name": "SeBw9: \"Setsubun Extra Mission\" 3rd Year Reiwa Setsubun Operation, Main Force Sortie!",
+		"desc_jp": "節分拡張任務：戦艦または航空母艦を旗艦とする駆逐艦2隻以上を含む艦隊で、節分期間の南方海域珊瑚諸島沖及びサーモン海域北方、さらに中部北海域ピーコック島沖の敵を撃滅せよ(戦果拡張可能)！",
+		"desc": "Use the fleet with BB/CV as the flagship and 2 DD as the companion ships to get S rank in the boss nodes of following maps: 5-2, 5-5, 6-4."
 	},
 	"844": {
 		"code": "",
