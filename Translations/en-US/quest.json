@@ -1,5 +1,5 @@
 {
-	"version": "20071522",
+	"version": "20071523",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3026,10 +3026,10 @@
 	},
 	"841": {
 		"code": "",
-		"name_jp": "【節分任務】令和二年西方海域節分作戦",
-		"name": "SB58: \"Setsubun Mission\" 2nd Year Reiwa Western Waters Setsubun Operation",
-		"desc_jp": "節分任務：水上機母艦または重巡級を旗艦とする駆逐艦2隻以上を含む艦隊で、節分期間の西方海域<br>ジャム島沖、カレー洋海域、リランカ島の敵艦隊主力を捕捉、これを撃滅せよ！",
-		"desc": "Sortie a fleet with a Heavy Cruiser/Aviation Cruiser or a Seaplane Tender as flagship, 2 Coastal Defense Ships/Destroyers, and up to 3 additional ships to Worlds 4-1, 4-2, and 4-3. Obtain an S-rank at each boss node."
+		"name_jp": "【節分任務】令和三年西方海域節分作戦",
+		"name": "SeBw8: \"Setsubun Mission\" 3rd Year Reiwa Western Waters Setsubun Operation",
+		"desc_jp": "節分任務：旗艦に水上機母艦・航空巡洋艦・重巡のいずれか、さらに旗艦と同艦種の随伴艦を含む艦隊で西方海域ジャム島沖、カレー洋海域、リランカ島に展開！同方面敵艦隊主力を捕捉、これを撃滅せよ！",
+		"desc": "Use the fleet with AV/CAV/CA as the flagship and a same class ship as the flagship as a companion to get S rank once in the boss nodes of following maps: 4-1, 4-2, 4-3."
 	},
 	"842": {
 		"code": "",
