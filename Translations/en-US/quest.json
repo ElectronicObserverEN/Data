@@ -1,5 +1,5 @@
 {
-	"version": "20071524",
+	"version": "20071525",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2368,10 +2368,10 @@
 	},
 	"654": {
 		"code": "",
-		"name_jp": "【丙】作戦「彩雲」調達＆輸送分解",
-		"name": "Operation \"Easy\": Procurement, Disassemble and Transport \"Saiun\"",
-		"desc_jp": "彩雲調達＆分解任務：「零式水上偵察機」一つを廃棄、開発資材x10と「九七式艦上攻撃機(無印)」一つを準備せよ！※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。",
-		"desc": "Have 10 Development Materials and one Type 97 Torpedo Bomber in your inventory. Unlock both equipment. And then, scrap one Type 0 Reconnaissance Seaplane."
+		"name_jp": "精鋭複葉機飛行隊の編成",
+		"name": "F93: Formation of a splendid biplane squadron",
+		"desc_jp": "精鋭複葉機飛行隊の編成：秘書艦「Ark Royal」に改修max「Swordfish」を一番スロットに搭載、「Swordfish」x1「Fulmar」x2を廃棄、「熟練搭乗員」、弾薬とボーキサイトを各1,500用意せよ！",
+		"desc": "Formation of a splendid biplane squadron: prepare a maxed star Swordfish and equip it onto the first slot of Ark Royal who must be your secretary ship. Then proceed to scrap 1 Swordfish, 2 Fulmar and prepare 1 Skilled Pilot, 1500 ammo and bauxite each. (All prepared items and resources will be consumed upon completion)"
 	},
 	"655": {
 		"code": "",
@@ -3660,5 +3660,33 @@
 		"name": "B160: Miraculous Destroyer Yukikaze, sorties once again!",
 		"desc_jp": "旗艦に「丹陽」または帰還後の「雪風改二」を配備した精強な艦隊で、東部オリョール海、沖ノ島海域、<br>沖ノ島沖、アルフォンシーノ方面、マラッカ海峡ペナン島沖深部に展開！敵艦隊主力を捕捉撃滅せよ！",
 		"desc": "Have Tan Yang or Yukikaze Kai Ni as the flagship along with 5 XX and score an S rank at the boss nodes of 2-3, 2-4, 2-5, 3-3, and 7-3 (Part 2)."
+	},
+	"687": {
+		"code": "",
+		"name_jp": "駆逐艦主砲兵装の戦時改修【II】",
+		"name": "F78: Wartime modifications of destroyers' main guns (II)",
+		"desc_jp": "旗艦「夕立改二」または「時雨改二」第一スロに「12.7cm連装砲B型改二」改修max装備、 「10cm連装<br>高角砲」x5及び「94式高射装置」x1廃棄、開発資材x50、鋼材1200、新型砲熕兵装資材x1を準備せよ！",
+		"desc": "Equip a max modified 12.7cm Twin Mount Type-B Kai 2 in the first slot of your secratery destroyer that must be either Yuudachi Kai Ni or Shigure Kai Ni and proceed to scrap x5 10cm Twin High-angle Mount and x1 Type 94 Anti-Aircraft Fire Director, and prepare x50 Development Materials, x1200 steel, and x1 New Type Artillery Armament Materials"
+	},
+	"897": {
+		"code": "",
+		"name_jp": "最精鋭「第四航空戦隊」、出撃せよ！",
+		"name": "B132: Super Elite 4th Carrier Division, Weigh Anchor!",
+		"desc_jp": "「日向改二」「伊勢改二」の最精鋭「四航戦」を含む第一艦隊で、鎮守府近海航路に反復出撃、<br>さらに、カレー洋リランカ島沖、サーモン海域北方、KW環礁沖海域の敵艦隊を捕捉撃滅せよ！",
+		"desc": "Organize a fleet Ise Kai Ni and Hyuuga Kai Ni and 4XX in your first fleet and score an S rank at 4-5, 5-5, and 6-5 of the boss node once and also successfully reaching the base node of 1-6 multiple times."
+	},
+	"928": {
+		"code": "",
+		"name_jp": "歴戦「第十方面艦隊」、全力出撃！",
+		"name": "By5: Experienced \"10th Area Fleet\", Go all out!",
+		"desc_jp": "重巡「羽黒」「足柄」「妙高」「高雄」、駆逐艦「神風」のうち2隻以上を含む精強な艦隊を編成！<br>マラッカ海峡ペナン島沖深部、タウイタウイ泊地沖深部、西方カレー洋海域に反復出撃！敵を撃滅せよ！",
+		"desc": "Organize a fleet with 2 ship historical ships which consist of the following: CA Haguro, Ashigara, Myouko, Takao and/or DD Kamikaze, and up to 4 XX and score an S rank on the boss nodes of 7-3 (part 2), 7-2 (Part 2), and 4-2 twice."
+	},
+	"935": {
+		"code": "",
+		"name_jp": "最精強！「呉の雪風」「佐世保の時雨」",
+		"name": "B161: Unmatched! Yukikaze of Kure & Shigure of Sasebo",
+		"desc_jp": "歴戦の精鋭駆逐艦「雪風改二」及び「時雨改二」を配備した艦隊で、サブ島沖海域、サーモン海域北方、<br>カレー洋リランカ島沖、中部北海域ピーコック島沖、KW環礁沖海域に突入！敵戦力を撃滅せよ！",
+		"desc": "Have Shigure Kai Ni and Yukikaze Kai Ni and 4 XX score an S rank at the boss nodes of 4-5, 5-3, 5-5, 6-4, and 6-5"
 	}
 }
