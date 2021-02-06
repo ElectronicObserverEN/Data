@@ -1,5 +1,5 @@
 {
-	"version": "20071535",
+	"version": "20071536",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3729,6 +3729,6 @@
 		"name_jp": "改装最新鋭軽巡「能代改二」、出撃せよ！",
 		"name": "B164: Remodeled State of the Art Light Cruiser Noshiro Kai Ni, Sortie!",
 		"desc_jp": "旗艦に「能代改二」、同指揮下に駆逐艦3隻以上を配備した艦隊で、沖ノ島海域、キス島沖、<br>サブ島沖海域、ブルネイ泊地沖、タウイタウイ泊地沖深部に出撃！敵艦隊を捕捉撃滅せよ！",
-		"desc": "Organize a fleet consisting of Noshiro Kai Ni, 3 DD and 2 XX in your fleet and score an S rank at the boss nodes on 2-4, 3-2, 5-3, 7-1, and 7-2 (Part 2)"
+		"desc": "Organize a fleet with Noshiro Kai Ni as flagship, 3 DD and 2 XX in your fleet and score an S rank at the boss nodes on 2-4, 3-2, 5-3, 7-1, and 7-2 (Part 2)"
 	}
 }
