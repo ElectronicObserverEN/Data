@@ -1,5 +1,5 @@
 {
-	"version": "20071528",
+	"version": "20071529",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -922,7 +922,7 @@
 		"name_jp": "バレンタイン限定任務 【二号作戦】",
 		"name": "2102 LQ2: Valentine's Limited Operation (Operation No.2)",
 		"desc_jp": "バレンタイン限定任務：巡洋艦を旗艦とする艦隊で、製油所地帯沿岸、沖ノ島海域、<br>北方モーレイ海、アルフォンシーノ方面、カレー洋海域の敵を捕捉撃滅、制海権を確保せよ！",
-		"desc": "Organize a fleet with 1 CL, 5 XX and score an S rank on 1-3, 2-4, 3-1, 3-3, and 4-2 in the boss node."
+		"desc": "Organize a fleet with 1 CL/CA(V) as flagship, 5 XX and score an S rank on 1-3, 2-4, 3-1, 3-3, and 4-2 in the boss node."
 	},
 	"239": {
 		"code": "",
