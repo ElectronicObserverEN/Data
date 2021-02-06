@@ -1,5 +1,5 @@
 {
-	"version": "20071529",
+	"version": "20071530",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1651,6 +1651,13 @@
 		"name": "C51: The Miraculous Destroyer",
 		"desc_jp": "旗艦「雪風」を含む合計4隻以上の駆逐艦を配備した精強な演習艦隊を編成、<br>本日中に演習で【S判定】以上の勝利を4回以上達成せよ！",
 		"desc": "Have Yukikaze as flagship along with 3 additional DDs and 2 XX and win 4 S ranks on the same day."
+	},
+	"348": {
+		"code": "",
+		"name_jp": "「精鋭軽巡」演習！",
+		"name": "C53: Elite Light Cruiser Exercise",
+		"desc_jp": "旗艦に軽巡級(雷巡を除く)、旗艦含む3隻以上の軽巡級と随伴駆逐艦2隻を配備した軽巡演習艦隊を<br>編成、同艦隊により本日中に演習で【A判定】以上の勝利を4回以上達成せよ！",
+		"desc": "Organize a fleet with 3 CL/CT (one as flagship), 2 DD, 1 XX and score 4 A+ ranks in PVP on the same day."
 	},
 	"401": {
 		"code": "",
