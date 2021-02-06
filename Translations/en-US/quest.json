@@ -1,5 +1,5 @@
 {
-	"version": "20071534",
+	"version": "20071535",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3723,5 +3723,12 @@
 		"name": "B161: Unmatched! Yukikaze of Kure & Shigure of Sasebo",
 		"desc_jp": "歴戦の精鋭駆逐艦「雪風改二」及び「時雨改二」を配備した艦隊で、サブ島沖海域、サーモン海域北方、<br>カレー洋リランカ島沖、中部北海域ピーコック島沖、KW環礁沖海域に突入！敵戦力を撃滅せよ！",
 		"desc": "Have Shigure Kai Ni and Yukikaze Kai Ni and 4 XX score an S rank at the boss nodes of 4-5, 5-3, 5-5, 6-4, and 6-5"
+	},
+	"936": {
+		"code": "",
+		"name_jp": "改装最新鋭軽巡「能代改二」、出撃せよ！",
+		"name": "B164: Remodeled State of the Art Light Cruiser Noshiro Kai Ni, Sortie!",
+		"desc_jp": "旗艦に「能代改二」、同指揮下に駆逐艦3隻以上を配備した艦隊で、沖ノ島海域、キス島沖、<br>サブ島沖海域、ブルネイ泊地沖、タウイタウイ泊地沖深部に出撃！敵艦隊を捕捉撃滅せよ！",
+		"desc": "Organize a fleet consisting of Noshiro Kai Ni, 3 DD and 2 XX in your fleet and score an S rank at the boss nodes on 2-4, 3-2, 5-3, 7-1, and 7-2 (Part 2)"
 	}
 }
