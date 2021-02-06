@@ -1,5 +1,5 @@
 {
-	"version": "20071527",
+	"version": "20071528",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -916,6 +916,13 @@
 		"name": "B138: Haguro & Kamikaze, Sortie!",
 		"desc_jp": "第五戦隊任務：「羽黒」「神風」を基幹として、他に重巡級1隻駆逐艦2隻、または駆逐艦4隻の<br>艦隊で南西諸島近海、バシー海峡、東部オリョール海に出撃、敵艦隊と交戦、これを撃滅せよ！",
 		"desc": "Sortie a fleet with Haguro, Kamikaze, and either 1 CA and 2 DD (for a total of 5 ships) or 4 DD to World 2-1, 2-2, and 2-3. Obtain a S-rank at each boss node."
+	},
+	"238": {
+		"code": "",
+		"name_jp": "バレンタイン限定任務 【二号作戦】",
+		"name": "2102 LQ2: Valentine's Limited Operation (Operation No.2)",
+		"desc_jp": "バレンタイン限定任務：巡洋艦を旗艦とする艦隊で、製油所地帯沿岸、沖ノ島海域、<br>北方モーレイ海、アルフォンシーノ方面、カレー洋海域の敵を捕捉撃滅、制海権を確保せよ！",
+		"desc": "Organize a fleet with 1 CL, 5 XX and score an S rank on 1-3, 2-4, 3-1, 3-3, and 4-2 in the boss node."
 	},
 	"239": {
 		"code": "",
