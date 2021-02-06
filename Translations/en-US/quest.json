@@ -1,5 +1,5 @@
 {
-	"version": "20071533",
+	"version": "20071534",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2771,6 +2771,13 @@
 		"name": "G6: Carry out Modernization for \"Destroyers\"",
 		"desc_jp": "近代化改修任務：鋼材600及びボーキサイト300を準備して、任意の駆逐艦を近代化改修！<br>[駆逐艦]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
 		"desc": "Modernization mission: Prepare 600 steel as well as 300 bauxite, then modernize any destroyer! Perform 2 successful modernizations by using 3 destroyers each time!\n※ The resources will be consumed when you clear this mission"
+	},
+	"716": {
+		"code": "",
+		"name_jp": "「軽巡」級の改修工事を実施せよ！",
+		"name": "G8: Carry Out the Light Cruiser Modernization Operation",
+		"desc_jp": "軽巡近代化改修：鋼材800及びボーキサイト400を準備、任意の軽巡級を近代化改修！<br>[軽巡級]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
+		"desc": "Modernize a CL with 3 CL 2 times."
 	},
 	"801": {
 		"code": "",
