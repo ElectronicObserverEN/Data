@@ -1,5 +1,5 @@
 {
-	"version": "20071531",
+	"version": "20071532",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1664,7 +1664,7 @@
 		"name_jp": "バレンタイン限定任務 【特別演習】",
 		"name": "2102 LQ3: Valentine's Limited Operation (Special Exercise)",
 		"desc_jp": "バレンタイン限定任務：水上機母艦1隻、重巡級1隻、軽巡級1隻、駆逐艦2隻を配備した特別演習<br>艦隊を編成、同特別演習艦隊により本日中に演習で【S判定】以上の勝利を4回以上達成せよ！",
-		"desc": "Organize a fleet consisting of 1 AV, 1 CA, 1 CL, 2 DD, 1 XX and score 4 S ranks in PVP."
+		"desc": "Organize a fleet consisting of 1 AV, 1 CA(V), 1 CL(T)/CT, 2 DD, 1 XX and score 4 S ranks in PVP."
 	},
 	"401": {
 		"code": "",
