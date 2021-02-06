@@ -1,5 +1,5 @@
 {
-	"version": "20071526",
+	"version": "20071527",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -894,7 +894,7 @@
 		"name_jp": "バレンタイン限定任務 【一号作戦】",
 		"name": "2102 LQ1: Valentine's Limited Operation (Operation No.1)",
 		"desc_jp": "バレンタイン限定任務：軽巡1隻及び駆逐艦2隻以上を含む艦隊で南西諸島防衛線、南西諸島近海、バシー海峡及び東部オリョール海を哨戒！敵艦隊を捕捉撃破し、各海域の制海権確保に努めよ！",
-		"desc": "Organize a fleet consists of 1 CL, 2 DD, 3 XX and score an S rank (?) on 1-4, 2-1, 2-2, and 2-3"
+		"desc": "Organize a fleet consists of 1 CL, 2 DD, 3 XX and score an A rank on 1-4, 2-1, 2-2, and 2-3"
 	},
 	"235": {
 		"code": "",
