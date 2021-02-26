@@ -1,5 +1,5 @@
 {
-	"version": "20071603",
+	"version": "20071604",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -317,6 +317,10 @@
 		"South Dakota": "South Dakota",
 		"Hornet": "Hornet",
 		"丹陽": "Dan Yang",
+		"Scirocco": "Scirocco",
+		"Sheffield": "Sheffield",
+		"Washington": "Washington",
+		"竹": "Take",
 		"駆逐イ級": "DD I-Class",
 		"駆逐ロ級": "DD Ro-Class",
 		"駆逐ハ級": "DD Ha-Class",
