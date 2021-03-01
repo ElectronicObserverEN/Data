@@ -1,5 +1,5 @@
 {
-	"version": "20071604",
+	"version": "21030105",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -414,7 +414,9 @@
 		"五島沖海底姫": "Gotou Islands Seafloor Princess",
 		"駆逐林棲姫": "Coppice Destroyer Princess",
 		"南方戦艦新棲姫": "New Southern Battleship Princess",
-		"南太平洋空母棲姫": "South Pacific Carrier Princess"
+		"南太平洋空母棲姫": "South Pacific Carrier Princess",
+		"戦艦新棲姫": "New Battleship Princess",
+		"深海竹棲姫": "Abyssal Bamboo Princess"
 	},
 	"suffix": {
 		"改": "Kai",
