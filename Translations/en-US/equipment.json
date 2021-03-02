@@ -1,5 +1,5 @@
 {
-	"version": "21030105",
+	"version": "21030206",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -391,6 +391,7 @@
 		"16inch三連装砲 Mk.6+GFCS": "16inch Triple Gun Mount Mk.6 + GFCS",
 		"九九式艦爆二二型": "Type 99 Dive Bomber Model 22",
 		"九九式艦爆二二型(熟練)": "Type 99 Dive Bomber Model 22 (Skilled)",
+		"120mm/50 連装砲": "120mm/50 Twin Gun Mount",
 		"120mm/50 連装砲 mod.1936": "120mm/50 Twin Gun Mount mod.1936",
 		"120mm/50 連装砲改 A.mod.1937": "120mm/50 Twin Gun Mount Kai A.mod.1937",
 		"深山": "Shinzan",
@@ -404,6 +405,8 @@
 		"Do 217 E-5+Hs293初期型": "Do 217 E-5 + Hs293 Initial Model",
 		"Do 217 K-2+Fritz-X": "Do 217 K-2 + Fritz-X",
 		"15.2cm連装砲改二": "15.2cm Twin Gun Mount Kai Ni",
+		"装甲艇(AB艇)": "Soukoutei (AB Class)",
+		"武装大発": "Armed Daihatsu",
 		"5inch単装砲": "5inch Single Gun",
 		"5inch連装砲": "5inch Twin Gun",
 		"3inch単装高角砲": "3inch Single High-angle",
