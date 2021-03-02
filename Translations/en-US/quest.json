@@ -1,5 +1,5 @@
 {
-	"version": "21030139",
+	"version": "21030140",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2749,7 +2749,7 @@
 		"name_jp": "【桃の節句】菱餅改修：2021序",
 		"name": "2103 G1: (Hina Matsuri 2021) Hishi Mochi Modernization: Beginning",
 		"desc_jp": "桃の節句任務：菱餅【2個】を準備して、任意の駆逐艦の近代化改修を<br>睦月型駆逐艦x4隻の同時使用により成功させよ！",
-		"desc": "Prepare 2 Hishimochi and then proceed to successfully modernize a DD with 4 Mutsuki-class DDs."			
+		"desc": "Prepare 2 Hishimochi and then proceed to successfully modernize a DD with 4 Mutsuki-class DDs."
 	},
 	"711": {
 		"code": "",
@@ -3513,6 +3513,13 @@
 		"name": "2103 B1: (Hina Matsuri 2021) Operation to ensure the safety of the coastal waters near the naval base during spring",
 		"desc_jp": "【桃の節句作戦】駆逐艦または海防艦計3隻を含む艦隊で、鎮守府海域南西諸島沖、<br>製油所地帯沿岸、鎮守府近海、鎮守府近海航路の安全確保と対潜掃蕩を図れ！",
 		"desc": "Organize a fleet with 3 DD/DE and 3 XX and score an S rank at the boss nodes of 1-2, 1-3, 1-5 and successfully complete 1-6 once."
+	},
+	"907": {
+		"code": "2103 B2",
+		"name_jp": "【桃の節句】南西諸島海域、春の戦闘哨戒！",
+		"name": "(Hina Matsuri) Springtime combat patrols in the Nansei Islands sea!",
+		"desc_jp": "【桃の節句作戦】精鋭駆逐艦または海防艦計4隻を含む艦隊で、南西諸島近海、バシー海峡、<br>東部オリョール海に反復出撃！各海域の敵艦隊を捕捉撃滅、制海権の確保を図れ！",
+		"desc": "Organize a fleet consists of 4 DD/DE and 2 XX and score an S rank(?) of the boss nodes of 2-1, 2-2, and 2-3 twice."
 	},
 	"908": {
 		"code": "",
