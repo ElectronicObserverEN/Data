@@ -5,13 +5,13 @@
 	"url": "https://github.com/gre4bee/ElectronicObserver/releases/download/4.6.5/ElectronicObserver465EN.zip",
 	"hash": "CD89BCD70ECB436F143049B94374B952A1CC3AD0B5ACAE8D2004D57950427FCE",
 	"tl_ver": {
-		"equipment": "20071504",
+		"equipment": "21030105",
 		"equipment_type": "1.3.83",
 		"expedition": "20071601",
 		"nodes": 20071501,
 		"operation": "20071501",
-		"quest": "20071536",
-		"ship": "20071604",
+		"quest": "21030137",
+		"ship": "21030105",
 		"ship_type": "1.1.24"
 	},
 	"kancolle_mt": "2020/06/26 11:00:00",
