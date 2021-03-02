@@ -1152,6 +1152,38 @@
     <TR-Name>Shinyou</TR-Name>
   </Ship>
   <Ship>
+    <JP-Name>八丈</JP-Name>
+    <TR-Name>Hachijou</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>石垣</JP-Name>
+    <TR-Name>Ishigaki</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Fletcher</JP-Name>
+    <TR-Name>Fletcher</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>G.Garibaldi</JP-Name>
+    <TR-Name>Garibaldi</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Colorado</JP-Name>
+    <TR-Name>Colorado</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>御蔵</JP-Name>
+    <TR-Name>Mikura</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Grecale</JP-Name>
+    <TR-Name>Grecale</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>L.d.S.D.d.Abruzzi</JP-Name>
+    <TR-Name>Abruzzi</TR-Name>
+  </Ship>
+  <Ship>
     <JP-Name>Nelson</JP-Name>
     <TR-Name>Nelson</TR-Name>
   </Ship>
