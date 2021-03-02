@@ -1,5 +1,5 @@
 {
-	"version": "21030138",
+	"version": "21030139",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1939,6 +1939,13 @@
 		"desc_jp": "西方連絡作戦準備：「西方海域偵察作戦」「潜水艦派遣演習」「潜水艦派遣作戦」<br>及び「欧州方面友軍との接触」各遠征を実施、これを成功させよ！",
 		"desc": "Complete Expeditions 29, 30, D1 and D3"
 	},
+	"443": {
+		"code": "",
+		"name_jp": "西方連絡作戦による航空技術獲得",
+		"name": "D39: Acquisition of aircraft technology by establishing contact with the West",
+		"desc_jp": "西方連絡作戦実施：欧州友軍の航空技術入手のため、複数の潜水艦による<br>「潜水艦派遣作戦」を複数回実施し、これらを見事成功させよ！",
+		"desc": "Complete Expeditions 30 multiple times"
+	},
 	"501": {
 		"code": "",
 		"name_jp": "はじめての「補給」！",
@@ -2737,6 +2744,27 @@
 		"desc_jp": "五周年任務：鉄鋼555及びボーキサイト555を準備して、任意の海防艦の近代化改修を[駆逐艦]x5隻<br>同時使用により2回成功させよ！※任務達成後、準備した資源は消費します。",
 		"desc": "Have 555 steel and bauxite. Successfully modernize a DE using 5 DD twice."
 	},
+	"710": {
+		"code": "",
+		"name_jp": "【桃の節句】菱餅改修：2021序",
+		"name": "2103 G1: (Hina Matsuri 2021) Hishi Mochi Modernization: Beginning",
+		"desc_jp": "桃の節句任務：菱餅【2個】を準備して、任意の駆逐艦の近代化改修を<br>睦月型駆逐艦x4隻の同時使用により成功させよ！",
+		"desc": "Prepare 2 Hishimochi and then proceed to successfully modernize a DD with 4 Mutsuki-class DDs."			
+	},
+	"711": {
+		"code": "",
+		"name_jp": "【桃の節句】菱餅改修：2021破",
+		"name": "2103 G2: (Hina Matsuri 2021) Hishi Mochi Modernization: Midpoint",
+		"desc_jp": "桃の節句任務：菱餅【5個】を準備して、任意の特II型(綾波型)駆逐艦の<br>近代化改修を特I型(吹雪型)駆逐艦x5隻の同時使用により2回成功させよ！",
+		"desc": "Prepare 7 Hishimochi and then proceed to successfully modernize a Ayanami-Class DD with 5 Fubuki-class DDs Twice."
+	},
+	"712": {
+		"code": "",
+		"name_jp": "【桃の節句】菱餅改修：2021週",
+		"name": "2103 G4: (Hina Matsuri 2021) Hishi Mochi Modernization: Weekly",
+		"desc_jp": "桃の節句任務：菱餅【3個】と開発資材20及び鋼材2,400、弾薬2,400を準備、<br>任意の重巡級の近代化改修を軽巡x4隻同時使用により2回成功させよ！",
+		"desc": "Prepare 3 Hishimochi and then proceed to successfully modernize a CA with 4 CLs Twice."
+	},
 	"714": {
 		"code": "",
 		"name_jp": "「駆逐艦」の改修工事を実施せよ！",
@@ -3479,6 +3507,27 @@
 		"desc_jp": "海防艦3隻を含む5隻以下の海上護衛隊を、鎮守府海域に展開。鎮守府正面海域、南西諸島沖海域、製油所<br>地帯沿岸、鎮守府近海、鎮守府近海航路の各海域の安全確保と対潜掃蕩を図れ！海防艦戦隊、抜錨せよ！",
 		"desc": "Sortie a fleet with 3 Coastal Defense Ships and up to 2 additional ships to Worlds 1-1, 1-2, 1-3, 1-5, and 1-6. Obtain an S-rank at the boss node of 1-1, 1-2, 1-3, and 1-5 once. Reach the anchor node N of 1-6 once"
 	},
+	"906": {
+		"code": "",
+		"name_jp": "【桃の節句】鎮守府近海、春の安全確保作戦",
+		"name": "2103 B1: (Hina Matsuri 2021) Operation to ensure the safety of the coastal waters near the naval base during spring",
+		"desc_jp": "【桃の節句作戦】駆逐艦または海防艦計3隻を含む艦隊で、鎮守府海域南西諸島沖、<br>製油所地帯沿岸、鎮守府近海、鎮守府近海航路の安全確保と対潜掃蕩を図れ！",
+		"desc": "Organize a fleet with 3 DD/DE and 3 XX and score an S rank at the boss nodes of 1-2, 1-3, 1-5 and successfully complete 1-6 once."
+	},
+	"908": {
+		"code": "",
+		"name_jp": "【桃の節句】春の決戦！敵機動部隊を叩け！",
+		"name": "2103 B3: (Hina Matsuri 2021) Spring's decisive battle! Smash the enemy task force!",
+		"desc_jp": "【桃の節句作戦】航空母艦1隻以上、重巡または航空巡洋艦1隻以上、軽巡1隻以上を含む精強艦隊で、<br>南西諸島海域沖ノ島海域、沖ノ島沖、タウイタウイ泊地沖深部に反復出撃、敵艦隊主力を撃滅せよ！",
+		"desc": "Organize a fleet with 1 CV(B)(L), 1 CA(V), 1 CL and 3XX and score an S rank at the boss nodes of 2-4, 2-5, and 7-2 (Part 2) twice."
+	},
+	"909": {
+		"code": "",
+		"name_jp": "【桃の節句：拡張作戦】春の攻勢作戦！",
+		"name": "2103 B4: (Hina Matsuri 2021) Extra Operation: Spring's proactive battle operation!",
+		"desc_jp": "【桃の節句作戦】精鋭艦隊を編成、北方海域北方AL海域、西方海域カレー洋リランカ島沖、<br>中部北海域ピーコック島沖へ展開、各海域の敵戦力を痛打、これを撃滅せよ！",
+		"desc": "Score an S rank at the boss nodes of 3-5, 4-5 and 6-4 once."
+	},
 	"910": {
 		"code": "",
 		"name_jp": "七周年任務【拡張作戦】",
@@ -3667,6 +3716,13 @@
 		"name": "By5: Experienced \"10th Area Fleet\", Go all out!",
 		"desc_jp": "重巡「羽黒」「足柄」「妙高」「高雄」、駆逐艦「神風」のうち2隻以上を含む精強な艦隊を編成！<br>マラッカ海峡ペナン島沖深部、タウイタウイ泊地沖深部、西方カレー洋海域に反復出撃！敵を撃滅せよ！",
 		"desc": "Organize a fleet with 2 ship historical ships which consist of the following: CA Haguro, Ashigara, Myouko, Takao and/or DD Kamikaze, and up to 4 XX and score an S rank on the boss nodes of 7-3 (part 2), 7-2 (Part 2), and 4-2 twice."
+	},
+	"932": {
+		"code": "",
+		"name_jp": "【春限定】春の天津風！",
+		"name": "2103 B5: (Limited Spring Quest) Amatsukaze's Spring",
+		"desc_jp": "【春限定】第十六駆逐隊「天津風」を旗艦に、二番艦に僚艦「雪風」「時津風」「初風」から1隻配備、<br>南西諸島海域バシー海峡、東部オリョール海、マラッカ海峡ペナン島沖深部に複数回出撃！敵を撃破せよ！",
+		"desc": "Organize a fleet with Amatsukaze as flagship, a ship in the 2nd slot that can be either Yukikaze, Tokitsukaze or Hatsukaze, and 4 XX. Then score an S rank on the boss nodes of 2-2, 2-3 and 7-3 (Part 2) twice each."
 	},
 	"935": {
 		"code": "",
