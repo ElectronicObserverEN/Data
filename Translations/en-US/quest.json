@@ -1,5 +1,5 @@
 {
-	"version": "21030140",
+	"version": "21030141",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3750,6 +3750,6 @@
 		"name_jp": "精鋭「第七駆逐隊」、出撃せよ！",
 		"name": "Elite \"7th Destroyer Division\", Sortie!",
 		"desc_jp": "精鋭七駆任務：第七駆逐隊「曙改二」「潮改二」を含む精鋭艦隊で、南西諸島海域東部オリョール海、<br>北方海域キス島沖、西方海域カスガダマ島、南方海域サーモン海域に展開、敵艦隊を撃滅せよ！",
-		"desc": "Organize a fleet consists of Akebono Kai Ni, Ushio Kai Ni, and 4 XX to 2-3, 3-2, 4-4, 5-5 and score an S rank at the boss nodes."
+		"desc": "Organize a fleet consists of Akebono Kai Ni, Ushio Kai Ni, and 4 XX to 2-3, 3-2, 4-4, 5-4 and score an S rank at the boss nodes."
 	}
 }
