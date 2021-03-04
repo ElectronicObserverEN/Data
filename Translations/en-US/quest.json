@@ -1,5 +1,5 @@
 {
-	"version": "21030141",
+	"version": "21030142",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3508,11 +3508,11 @@
 		"desc": "Sortie a fleet with 3 Coastal Defense Ships and up to 2 additional ships to Worlds 1-1, 1-2, 1-3, 1-5, and 1-6. Obtain an S-rank at the boss node of 1-1, 1-2, 1-3, and 1-5 once. Reach the anchor node N of 1-6 once"
 	},
 	"906": {
-		"code": "",
+		"code": "2103 B1",
 		"name_jp": "【桃の節句】鎮守府近海、春の安全確保作戦",
-		"name": "2103 B1: (Hina Matsuri 2021) Operation to ensure the safety of the coastal waters near the naval base during spring",
+		"name": "(Hina Matsuri 2021) Operation to ensure the safety of the coastal waters near the naval base during spring",
 		"desc_jp": "【桃の節句作戦】駆逐艦または海防艦計3隻を含む艦隊で、鎮守府海域南西諸島沖、<br>製油所地帯沿岸、鎮守府近海、鎮守府近海航路の安全確保と対潜掃蕩を図れ！",
-		"desc": "Organize a fleet with 3 DD/DE and 3 XX and score an S rank at the boss nodes of 1-2, 1-3, 1-5 and successfully complete 1-6 once."
+		"desc": "Organize a fleet with 3 DD/DE and 3 XX and score an A rank at the boss nodes of 1-2, 1-3, 1-5 and successfully complete 1-6 once."
 	},
 	"907": {
 		"code": "2103 B2",
