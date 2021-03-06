@@ -1,5 +1,5 @@
 {
-	"version": "21030142",
+	"version": "21030143",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2752,11 +2752,11 @@
 		"desc": "Prepare 2 Hishimochi and then proceed to successfully modernize a DD with 4 Mutsuki-class DDs."
 	},
 	"711": {
-		"code": "",
+		"code": "2103 G2",
 		"name_jp": "【桃の節句】菱餅改修：2021破",
-		"name": "2103 G2: (Hina Matsuri 2021) Hishi Mochi Modernization: Midpoint",
+		"name": "(Hina Matsuri 2021) Hishi Mochi Modernization: Midpoint",
 		"desc_jp": "桃の節句任務：菱餅【5個】を準備して、任意の特II型(綾波型)駆逐艦の<br>近代化改修を特I型(吹雪型)駆逐艦x5隻の同時使用により2回成功させよ！",
-		"desc": "Prepare 7 Hishimochi and then proceed to successfully modernize a Ayanami-Class DD with 5 Fubuki-class DDs Twice."
+		"desc": "Prepare 5 Hishimochi and then proceed to successfully modernize a Ayanami-Class DD with 5 Fubuki-class DDs Twice."
 	},
 	"712": {
 		"code": "",
