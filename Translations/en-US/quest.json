@@ -1,5 +1,5 @@
 {
-	"version": "21030143",
+	"version": "21030144",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2764,6 +2764,13 @@
 		"name": "2103 G4: (Hina Matsuri 2021) Hishi Mochi Modernization: Weekly",
 		"desc_jp": "桃の節句任務：菱餅【3個】と開発資材20及び鋼材2,400、弾薬2,400を準備、<br>任意の重巡級の近代化改修を軽巡x4隻同時使用により2回成功させよ！",
 		"desc": "Prepare 3 Hishimochi and then proceed to successfully modernize a CA with 4 CLs Twice."
+	},
+	"713": {
+		"code": "2103 G4",
+		"name_jp": "【桃の節句】菱餅改修：2021空",
+		"name": "(Hinamatsuri Operation) Hishimochi Modernization: 2021 Sky",
+		"desc_jp": "桃の節句任務：菱餅【7個】、開発資材90及び燃料9,000、ボーキサイト9,000を準備、<br>任意の正規空母の近代化改修を軽空母x5隻同時使用により2回成功させよ！",
+		"desc": "Hinamatsuri Operation: Prepare 7 Hishimochi, 90 Development Materials, 9000 fuel and 9000 bauxite. Successfully modernize a CV ship with 5 CVL at the same time, twice. Only CVs can work for the modernization process CVB will not work"
 	},
 	"714": {
 		"code": "",
