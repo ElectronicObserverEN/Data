@@ -1,5 +1,5 @@
 {
-	"version": "21030144",
+	"version": "21030145",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1673,6 +1673,20 @@
 		"desc_jp": "七駆演習任務：第七駆逐隊「朧」「曙」「漣」「潮」の4隻を含む演習艦隊を編成、<br>本日中に【A判定】勝利3回以上達成せよ。精鋭第七駆逐隊、演習開始！",
 		"desc": "Organize a fleet consisting of Oboro, Akebono, Sazanami, Ushio, and 2 XX and score 3 A ranks in PVP."
 	},
+	"351": {
+		"code": "C56",
+		"name_jp": "改装航空巡洋艦「最上」、進発せよ！",
+		"name": "Remodeled Aviation Cruiser \"Mogami\", Go Wild!",
+		"desc_jp": "改装航空巡洋艦「最上改二」または特殊改装航空巡洋艦「最上改二特」を旗艦として、<br>随伴駆逐艦3隻以上を含む演習艦隊を編成！本日中に【A判定】勝利を4回以上達成せよ！",
+		"desc": "Organize a fleet with Mogami Kai Ni or Mogami Kai Ni Toku as flagship, plus 3 DD and 2 XX and score 4 A-Rank victories in PvP on the same day."
+	},
+	"352": {
+		"code": "C57",
+		"name_jp": "改装「矢矧」、精鋭水雷戦隊旗艦演習！",
+		"name": "Exercises with the Elite Remodeled DesRon Flagship, \"Yahagi\"!",
+		"desc_jp": "水雷戦隊旗艦演習：改装軽巡「矢矧改二」または「矢矧改二乙」を旗艦として、同指揮下に<br>精鋭駆逐艦4隻以上を含む水雷戦隊を編成！本日中に【S判定】勝利を4回以上達成せよ！",
+		"desc": "Organize a fleet with Yahagi Kai Ni or Yahagi Kai Ni B as flagship, plus 4 DD and 1 XX and score 4 S-Rank victories in PvP on the same day."
+	},
 	"401": {
 		"code": "",
 		"name_jp": "はじめての「遠征」！",
@@ -1945,6 +1959,13 @@
 		"name": "D39: Acquisition of aircraft technology by establishing contact with the West",
 		"desc_jp": "西方連絡作戦実施：欧州友軍の航空技術入手のため、複数の潜水艦による<br>「潜水艦派遣作戦」を複数回実施し、これらを見事成功させよ！",
 		"desc": "Complete Expeditions 30 multiple times"
+	},
+	"444": {
+		"code": "D40",
+		"name_jp": "新兵装開発資材輸送を船団護衛せよ！",
+		"name": "Escort the convoy to transport new weapons development materials!",
+		"desc_jp": "新兵装開発資材輸送護衛：「海上護衛任務」「資源輸送任務」「タンカー護衛任務」<br>「南西方面航空偵察作戦」「ボーキサイト輸送任務」遠征を実施、これを成功させよ！",
+		"desc": "Complete expeditions 5, 9, 11, 12 and B1."
 	},
 	"501": {
 		"code": "",
@@ -2799,6 +2820,13 @@
 		"name": "Part 2: Carry Out the Light Cruiser Modernization Operation",
 		"desc_jp": "軽巡近代化改修：鋼材900及び弾薬900を準備して、任意の軽巡級を近代化改修！<br>[重巡級]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
 		"desc": "Modernize a CL with 3 CA(V) two times."
+	},
+	"718": {
+		"code": "G10",
+		"name_jp": "「最上型」改修工事を実施せよ！",
+		"name": "Carry out Mogami-class Modernization work",
+		"desc_jp": "最上型近代化改修：鋼材1,100及び弾薬1,100を準備、「最上型」を近代化改修！<br>[軽巡級]x3隻同時使用で2回成功させよ！※任務達成後、準備資源は消費します。",
+		"desc": "Have 1,100 Steel, 1,100 Ammo and modernize a Mogami-class Heavy/Aviation Cruiser with 3 CLs at once twice."
 	},
 	"801": {
 		"code": "",
@@ -3758,5 +3786,40 @@
 		"name": "Elite \"7th Destroyer Division\", Sortie!",
 		"desc_jp": "精鋭七駆任務：第七駆逐隊「曙改二」「潮改二」を含む精鋭艦隊で、南西諸島海域東部オリョール海、<br>北方海域キス島沖、西方海域カスガダマ島、南方海域サーモン海域に展開、敵艦隊を撃滅せよ！",
 		"desc": "Organize a fleet consists of Akebono Kai Ni, Ushio Kai Ni, and 4 XX to 2-3, 3-2, 4-4, 5-4 and score an S rank at the boss nodes."
+	},
+	"938": {
+		"code": "B166",
+		"name_jp": "改装航空巡洋艦「最上」、抜錨せよ！",
+		"name": "Remodeled Aviation Cruiser \"Mogami\", Weigh Anchor!",
+		"desc_jp": "旗艦に改装航空巡洋艦「最上改二(改二特含む)」を配備した精鋭艦隊で、南西諸島海域バシー海峡、<br>沖ノ島海域、西方海域カレー洋リランカ島沖、南方海域前面に展開、敵艦隊を撃滅せよ！",
+		"desc": "Sortie a fleet with Mogami Kai Ni or Mogami Kai Ni Toku as flagship plus 5 XX and score an S-Rank victory at the boss nodes on 2-2, 2-4, 4-5 and 5-1."
+	},
+	"940": {
+		"code": "B168",
+		"name_jp": "二水戦旗艦、この「矢矧」が預かります！",
+		"name": "Yahagi, assuming command of DesRon 2!",
+		"desc_jp": "旗艦に「矢矧改二(改二乙含む)」、随伴駆逐艦2隻を配備した精鋭水雷戦隊で、南西諸島防衛線、<br>沖ノ島沖、サブ島沖海域、サーモン海域北方の敵艦隊を撃滅せよ！二水戦旗艦「矢矧」、抜錨！",
+		"desc": "Sortie a fleet with Yahagi Kai Ni or Yahagi Kai Ni B as flagship, plus 2 DD and 3 XX and score an S-Rank victory at the boss nodes on 1-4, 2-5, 5-3 and 5-5."
+	},
+	"941": {
+		"code": "2103 LQ2",
+		"name_jp": "【春限定】春の近海哨戒お散歩！",
+		"name": "(Spring Limited Quest) Springtime Shore Patrol!",
+		"desc_jp": "【春限定】旗艦に潜水母艦または練巡・軽巡、他駆逐以下の小艦艇による5隻以下の哨戒艦隊で、<br>製油所地帯沿岸、南西諸島近海、南西諸島海域バシー海峡に反復哨戒！敵を捕捉撃破せよ！",
+		"desc": "Sortie a fleet with AS, CL or CT as flagship plus up to 4 DD/DE/SS(V) and score an S-Rank victory at the boss nodes on 1-3, 2-1 and 2-2, twice each."
+	},
+	"942": {
+		"code": "2104 LQ1",
+		"name_jp": "【八周年限定】カタリナフェスティバル！",
+		"name": "(8th Anniversary Limited Quest) Catalina Festival!",
+		"desc_jp": "【八周年限定任務】旗艦に軽巡洋艦または「Fletcher」、随伴駆逐艦/海防艦計3隻以上配備の艦隊で、<br>南西諸島沖、製油所地帯沿岸、南西諸島防衛線、キス島沖に反復出撃！敵艦隊の撃破に努めよ！",
+		"desc": "Sortie a fleet with CL or Fletcher as flagship plus up to 3 DD/DE and 2 XX and score an A-Rank victory at the boss nodes on 1-2, 1-3, 1-4, and 3-2, twice each."
+	},
+	"943": {
+		"code": "B169",
+		"name_jp": "新しき翼。改装航空母艦「龍鳳」、出撃せよ！",
+		"name": "New Wings, Remodeled Light Carrier Ryuuhou, Sortie!",
+		"desc_jp": "旗艦に「龍鳳改二(改二戊含む)」、随伴に「時雨改二」を編成した第一艦隊で南西諸島海域バシー海峡、<br>東部オリョール海、沖ノ島海域、沖ノ島沖、タウイタウイ泊地沖深部へ出撃。敵艦隊を捕捉撃滅せよ！",
+		"desc": "Sortie the first fleet with Ryuuhou Kai Ni/E as the flagship along with Shigure Kai Ni and 4 XX in the First fleet and score an S-Rank victory at the boss nodes on 2-2, 2-3, 2-4, 2-5, and 7-2-2."
 	}
 }
