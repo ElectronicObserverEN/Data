@@ -1,5 +1,5 @@
 {
-	"version": "21030145",
+	"version": "21030146",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2827,6 +2827,13 @@
 		"name": "Carry out Mogami-class Modernization work",
 		"desc_jp": "最上型近代化改修：鋼材1,100及び弾薬1,100を準備、「最上型」を近代化改修！<br>[軽巡級]x3隻同時使用で2回成功させよ！※任務達成後、準備資源は消費します。",
 		"desc": "Have 1,100 Steel, 1,100 Ammo and modernize a Mogami-class Heavy/Aviation Cruiser with 3 CLs at once twice."
+	},
+	"719": {
+		"code": "G11",
+		"name_jp": "続：「最上型」改修工事を実施せよ！",
+		"name": "Continued: Carry out Mogami-class Modernization work",
+		"desc_jp": "最上型近代化改修：鋼材1,200及び弾薬1,200を準備、「最上型」を近代化改修！<br>[重巡級]x4隻同時使用で2回成功させよ！※任務達成後、準備資源は消費します。",
+		"desc": "Have 1,200 Steel, 1,200 Ammo and modernize a Mogami-class Heavy/Aviation Cruiser with 4 CAs at once twice."
 	},
 	"801": {
 		"code": "",
