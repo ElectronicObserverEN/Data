@@ -1,5 +1,5 @@
 {
-	"version": "20071601",
+	"version": "20071602",
 	"1": {
 		"name_jp": "練習航海",
 		"name": "Practice Voyage",
@@ -260,6 +260,10 @@
 		"name_jp": "ボーキサイト船団護衛",
 		"name": "Bauxite Convoy Escort"
 	},
+	"46": {
+		"name_jp": "南西海域戦闘哨戒",
+		"name": "Southwestern Sea Combat Patrols "
+	},
 	"100": {
 		"name_jp": "兵站強化任務",
 		"name": "Logistic Reinforcement",
@@ -310,6 +314,10 @@
 		"name_jp": "南西諸島捜索撃滅戦",
 		"name": "Nansei Island Search and Destroy Mission"
 	},
+	"115": {
+		"name_jp": "精鋭水雷戦隊夜襲",
+		"name": "Elite Destroyer Squadron Night Raid"
+	},
 	"125": {
 		"name_jp": "前衛支援任務",
 		"name": "General Vanguard Support Missions",
@@ -330,15 +338,17 @@
 		"name_jp": "西方潜水艦作戦",
 		"name": "Western Submarine Operation"
 	},
+	"133": {
+		"name_jp": "欧州方面友軍との接触",
+		"name": "Contact with Friendly European Forces "
+	},
 	"141": {
 		"name_jp": "ラバウル方面艦隊進出",
 		"name": "Rabaul District Fleet Advance"
 	},
 	"142": {
-		"name_jp": "艦隊決戦支援任務",
-		"name": "General Fleet Battle Support Missions",
-		"desc_jp": "主力艦隊支援を行う別動隊を出撃させ、艦隊決戦を援護せよ！(要:駆逐2隻)",
-		"desc": "Deploy a support fleet to assist our main forces battle out against an enemy boss! (Sortie-Support Expedition)"
+		"name_jp": "強行鼠輸送作戦",
+		"name": "Enforced Rat Transport Operation"
 	},
 	"149": {
 		"name_jp": "前衛支援任務",
