@@ -1,5 +1,5 @@
 {
-	"version": "21030206",
+	"version": "21030207",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -407,6 +407,12 @@
 		"15.2cm連装砲改二": "15.2cm Twin Gun Mount Kai Ni",
 		"装甲艇(AB艇)": "Soukoutei (AB Class)",
 		"武装大発": "Armed Daihatsu",
+		"21号対空電探改二": "Type 21 Air Radar Kai Ni",
+		"42号対空電探改二": "Type 42 Air Radar Kai Ni",
+		"水雷戦隊 熟練見張員": "Torpedo Squadron Skilled Lookouts",
+		"精鋭水雷戦隊 司令部": "Elite Torpedo Squadron Command Facility",
+		"SOC Seagull": "SOC Seagull",
+		"SO3C Seamew改": "SO3C Seamew Kai",
 		"ゴミ": "json is trash so I'm adding this dummy entry so I can figure out where player equip ends and abyssal equip starts",
 		"5inch単装砲": "5inch Single Gun",
 		"5inch連装砲": "5inch Twin Gun",
