@@ -1,5 +1,5 @@
 {
-	"version": "21030105",
+	"version": "21030106",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -321,6 +321,9 @@
 		"Sheffield": "Sheffield",
 		"Washington": "Washington",
 		"竹": "Take",
+		"桃": "Momo",
+		"伊203": "I-203",
+		"Northampton": "Northampton",
 		"駆逐イ級": "DD I-Class",
 		"駆逐ロ級": "DD Ro-Class",
 		"駆逐ハ級": "DD Ha-Class",
