@@ -1,5 +1,5 @@
 {
-	"version": "21030207",
+	"version": "21030208",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -413,6 +413,12 @@
 		"精鋭水雷戦隊 司令部": "Elite Torpedo Squadron Command Facility",
 		"SOC Seagull": "SOC Seagull",
 		"SO3C Seamew改": "SO3C Seamew Kai",
+		"零式艦戦21型(台南空)": "Type 0 Fighter Model 21 (Tainan Air Group)",
+		"零式艦戦32型(台南空)": "Type 0 Fighter Model 32 (Tainan Air Group)",
+		"零式艦戦22型(251空)": "ype 0 Fighter Model 22 (251 Air Group)",
+		"SBD-5": "SBD-5",
+		"SB2C-3": "SB2C-3",
+		"SB2C-5": "SB2C-5",
 		"ゴミ": "json is trash so I'm adding this dummy entry so I can figure out where player equip ends and abyssal equip starts",
 		"5inch単装砲": "5inch Single Gun",
 		"5inch連装砲": "5inch Twin Gun",
