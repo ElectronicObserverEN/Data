@@ -1,5 +1,5 @@
 {
-	"version": "21030152",
+	"version": "21030153",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3669,18 +3669,18 @@
 		"desc": "Sortie a fleet with Fletcher Mk.II as flagship. Have in the fleet 2 additional ships from any of the following nations: the United States, Australia, the Netherlands, or the United Kingdom. Obtain an S-rank twice at each boss node of 1-5, 7-1, 6-2, and 6-5."
 	},
 	"922": {
-		"code": "",
+		"code": "B150",
 		"name_jp": "合同艦隊作戦任務【拡張作戦】",
-		"name": "B151: Coalition Fleet's Operational Mission [Extra Operation]",
+		"name": "Combined Fleet Operation Mission (Extra Operation)",
 		"desc_jp": "【拡張作戦:甲作戦級】「Fletcher Mk.II」を含む米・英・豪・蘭出身艦計4隻以上を含む精鋭艦隊を編成、<br>カレー洋リランカ島沖、サーモン海域北方、中部北海域ピーコック島沖に反復出撃！敵戦力を撃滅せよ！",
-		"desc": "Sortie a fleet with Fletcher Mk.II. Have in the fleet 3 additional ships from any of the following nations: the United States, Australia, the Netherlands, or the United Kingdom. Obtain an S-rank twice at each boss node of 4-5, 5-5, and 6-4."
+		"desc": "Organize a fleet with Fletcher Mk.II along with 3 American, British, Australian, or Dutch ships and 2 XX, then score an S rank on the boss nodes of 4-5, 5-5, and 6-4 twice."
 	},
 	"923": {
-		"code": "",
+		"code": "B151",
 		"name_jp": "合同艦隊機動部隊、出撃せよ！",
-		"name": "B150: Coalition Carrier Task Force, Sortie!",
+		"name": "Combined Fleet Mobile Task Force, Sortie!",
 		"desc_jp": "米・英出身航空母艦を1隻以上含む機動部隊で、西方海域リランカ島、北方海域全域、さらに<br>南方海域珊瑚諸島沖、南西海域タウイタウイ泊地沖深部に展開、各方面の敵戦力を撃滅せよ！",
-		"desc": "Sortie a fleet with 1 Light Aircraft Carrier or Standard Aircraft Carrier from either the United States or the United Kingdom and up to 5 additional ships. Obtain an S-rank at the boss node of 3-4, 4-3, and 5-2 once. Obtain an S-rank at the second boss of 7-2 once."
+		"desc": "Organize a fleet with 1 American or British Carrier and 5 XX , then score an S rank on the boss nodes of 3-4, 4-3, 5-2 and 7-2 (Part 2)."
 	},
 	"344": {
 		"code": "",
