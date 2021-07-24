@@ -1,5 +1,5 @@
 {
-	"version": "21030153",
+	"version": "21030154",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1693,6 +1693,13 @@
 		"name": "Cruiser Squadron, Commence Practice!",
 		"desc_jp": "「重巡洋艦」または「航空巡洋艦」、旗艦を含む重巡級4隻による巡洋艦戦隊を基幹とし、<br>随伴駆逐艦2隻による計6隻編成の艦隊で、本日中に5回以上演習で勝利せよ！",
 		"desc": "Organize a fleet consisting of 1 CA(V) as flagship, 3 CA(V) and 2 DD, then score 5 victories in PVP on the same day."
+	},
+	"354": {
+		"code": "C60",
+		"name_jp": "「改装特務空母」任務部隊演習！",
+		"name": "\"Remodeled Utility Carrier\" Task Force Exercise",
+		"desc_jp": "旗艦に「改装特務空母」、僚艦に「Fletcher級駆逐艦」または「John C.Butler級護衛駆逐艦」<br>計2隻以上を含む任務部隊を編成。同艦隊で、本日中に【S判定】勝利を4回以上達成せよ！",
+		"desc": "Organize a fleet consisting of Gambier Bay Mk.II as flagship, and at least two members consisting of either Fletcher, Johnston or Samuel B. Roberts and 3XX and successfully get 4 S Ranks in the same day."
 	},
 	"401": {
 		"code": "",
@@ -3871,6 +3878,20 @@
 		"desc_jp": "旗艦に「航空母艦」を編成した第一艦隊で、珊瑚諸島沖、サーモン海域北方、KW環礁沖海域へ<br>反復出撃、敵主力を撃滅！さらに中部北海域ピーコック島沖へも反復展開、敵戦力を撃破せよ！",
 		"desc": "Organize a fleet consisting of 1 CV(L)(B) as flagship and up to 5 XX, then score an S(?) rank on the boss nodes of 5-2, 5-5, 6-4 and 6-5 twice."
 	},
+	"949": {
+		"code": "B170",
+		"name_jp": "改装特務空母「Gambier Bay Mk.II」抜錨！",
+		"name": "Remodeled Utility Carrier \"Gambier Bay Mk.II\" Weigh Anchor!",
+		"desc_jp": "旗艦「Gambier Bay Mk.II」、僚艦に「Fletcher級駆逐艦」1隻以上を含む第一艦隊で、沖ノ島海域、<br>北方AL海域の敵艦隊を反復撃滅、中部北海域ピーコック島沖に反復展開、同地の敵を撃破せよ！",
+		"desc": "Organize Fleet 1 with Gambier Bay Mk.II as flagship, 1 Fletcher Class DD (Fletcher / Johnston) and score S rank on the boss nodes of 2-4, 3-5 twice and an A+ rank on 6-4 twice."
+	},
+	"950": {
+		"code": "2107 LB1",
+		"name_jp": "【夏季限定】「渚のマーメイド」作戦！",
+		"name": "Summer Only \"Mermaid's Shore\" Operation",
+		"desc_jp": "「第七駆逐隊」4隻、または「白露改二」「時雨改二」「村雨改二」「夕立改二」4隻を含む艦隊で、<br>夏の南西諸島防衛線、東部オリョール海、キス島沖に複数回出撃、敵艦隊を捕捉撃滅せよ！",
+		"desc": "Organize a fleet that has either DesDiv 7 Members (Sazanami, Oboro, Ushio and Akebono), or Shiratsuyu Kai Ni, Shigure Kai Ni, Murasame Kai Ni, and Yuudachi Kai Ni in the fleet along with 2 XX and score an S rank on 1-4, 2-3, 3-2 twice."
+	},
 	"1101": {
 		"code": "F96",
 		"name_jp": "海軍工廠の再整備",
@@ -3898,5 +3919,19 @@
 		"name": "Mass Production of Submarine Radar Equipment",
 		"desc_jp": "「13号対空電探改」x3廃棄、開発資材x100と「九三式水中聴音機」及び「22号対水上電探」各x2を<br>準備せよ！　※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。",
 		"desc": "Arsenal Mission: Scrap 3 Type 13 Air Radar Kai, and then prepare 100 development Materials and have 2 Type 93 Sonars, and 2 Type 22 Surface Radars in your inventory. (All resources and unmodded equipment will be removed upon completion of quest)"
+	},
+	"1105": {
+		"code": "F100",
+		"name_jp": "夏の格納庫整備＆航空基地整備",
+		"name": "Summer Hangar & Land Base Maintenance",
+		"desc_jp": "九六式や一式陸攻等の陸上攻撃機x3廃棄、弾薬x2,800と「九七式艦攻」「天山」各x4を準備せよ！<br>※任務達成後、用意した弾薬及び必要装備(低改修値のもの優先)は消費します。",
+		"desc": "Scrap 3 Land Base Attack Aircraft such as Type 96 and Type 1 LBAA. Then prepare 2800 ammo, 4 T97 torpedo bombers and 4 Tenzan. (All resources and unmodded equipment will be removed upon completion of quest)"
+	},
+	"1106": {
+		"code": "F101",
+		"name_jp": "精鋭三座水上偵察機隊の前線投入",
+		"name": "Frontline utilization of elite three-seated seaplane recon aircraft",
+		"desc_jp": "旗艦「由良改二」第一スロに最大改修「零式水上偵察機11型乙」。 「零式水上偵察機」「瑞雲」各x3<br>廃棄、燃料x1,300、ボーキ1,700、新型航空兵装資材x1、戦闘詳報x1、熟練搭乗員x3を準備せよ！",
+		"desc": "Yura Kai Ni as the flagship and equipped with a maximum improved Type 0 Reconnaissance Seaplane Model 11B in the first slot. Scrap 3 Type 0 Reconnaissance Seaplane and 3 Zuiun. Prepare 1300 fuel, 1700 bauxite, 1 aerial armament material, an action report and 3 skilled crew members. The resource and the items will be consumed. (All resources and unmodded equipment will be removed upon completion of quest)"
 	}
 }
