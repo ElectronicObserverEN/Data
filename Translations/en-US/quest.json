@@ -1,5 +1,5 @@
 {
-	"version": "21030154",
+	"version": "21030155",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1980,6 +1980,13 @@
 		"name": "Escort the convoy to transport new weapons development materials!",
 		"desc_jp": "新兵装開発資材輸送護衛：「海上護衛任務」「資源輸送任務」「タンカー護衛任務」<br>「南西方面航空偵察作戦」「ボーキサイト輸送任務」遠征を実施、これを成功させよ！",
 		"desc": "Complete expeditions 5, 9, 11, 12 and B1."
+	},
+	"445": {
+		"code": "D41",
+		"name_jp": "航空基地を整備拡張せよ！",
+		"name": "Development and Expansion of your Land Base!",
+		"desc_jp": "航空基地整備：「海上護衛任務」「兵站強化任務」「タンカー護衛任務」「航空機輸送<br>作戦」「水上機基地建設」「水上機前線輸送」「ボーキサイト船団護衛」を実施せよ！",
+		"desc": "Complete expeditions 5, A1, 9, 18, 36, 40, and 45."
 	},
 	"501": {
 		"code": "",
