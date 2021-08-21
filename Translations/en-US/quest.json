@@ -1,5 +1,5 @@
 {
-	"version": "21030157",
+	"version": "21030158",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1994,7 +1994,7 @@
 		"name": "'Operation Preperation' First Stage Mission (Anti-Submarine Maintenance)",
 		"desc_jp": "作戦準備(第一段階任務)：「警備任務」「対潜警戒任務」「海上護衛任務」「海峡警備<br>行動」及び「兵站強化任務」各遠征を実施、これをそれぞれ1回以上成功させよ！",
 		"desc": "Complete Expedition 3,4,5,A1 and A2"
-	},	
+	},
 	"501": {
 		"code": "",
 		"name_jp": "はじめての「補給」！",
@@ -3906,13 +3906,20 @@
 		"desc_jp": "「第七駆逐隊」4隻、または「白露改二」「時雨改二」「村雨改二」「夕立改二」4隻を含む艦隊で、<br>夏の南西諸島防衛線、東部オリョール海、キス島沖に複数回出撃、敵艦隊を捕捉撃滅せよ！",
 		"desc": "Organize a fleet that has either DesDiv 7 Members (Sazanami, Oboro, Ushio and Akebono), or Shiratsuyu Kai Ni, Shigure Kai Ni, Murasame Kai Ni, and Yuudachi Kai Ni in the fleet along with 2 XX and score an S rank on 1-4, 2-3, 3-2 twice."
 	},
+	"951": {
+		"code": "2107 LB2",
+		"name_jp": "【夏季限定】「渚のシレーナ」欧州作戦！",
+		"name": "Summer Only \"Siren's Shore\" European Operation",
+		"desc_jp": "伊駆逐、独駆逐、米駆逐、仏艦艇、「Littorio(Italia)」「U-511(呂500)」「Houston」「Gotland」<br>計5隻以上の艦隊で、夏のジャム島沖、リランカ島、カスガダマ島に反復出撃！敵を撃滅せよ！",
+		"desc": "Organize a fleet that has at least 5 ships that consist of Maestrale, Grecale, Libeccio, Scirocco, Z1, Z3, Fletcher, Johnston, Samuel B. Roberts, Richelieu, Commandant Teste, Littorio/Italia, U-511/ Ro-500, Houston, and Gotland in the fleet along with 1 XX and score an S rank on 4-1, 4-3, and 4-4 twice."
+	},
 	"952": {
-        "code": "B171",
-        "name_jp": "【作戦準備】第二段階任務(対地\/対空整備)",
-        "name": "'Operation Preparation' Second Stage Mission (Surface/Anti-Air Maintenance)",
-        "desc_jp": "作戦準備(第二段階任務)：駆逐艦を3隻以上編成した艦隊で、製油所地帯沿岸、南西諸島防衛線、<br>南西諸島近海、南西諸島海域バシー海峡へ出撃、各作戦海域の敵を撃滅、制海権を確保せよ！",
-        "desc": "Organize Fleet 3 DD and 3 XX and score S rank on the boss nodes of 1-3, 1-4, 2-1, 2-2."
-    },
+		"code": "B171",
+		"name_jp": "【作戦準備】第二段階任務(対地\/対空整備)",
+		"name": "'Operation Preparation' Second Stage Mission (Surface/Anti-Air Maintenance)",
+		"desc_jp": "作戦準備(第二段階任務)：駆逐艦を3隻以上編成した艦隊で、製油所地帯沿岸、南西諸島防衛線、<br>南西諸島近海、南西諸島海域バシー海峡へ出撃、各作戦海域の敵を撃滅、制海権を確保せよ！",
+		"desc": "Organize Fleet 3 DD and 3 XX and score S rank on the boss nodes of 1-3, 1-4, 2-1, 2-2."
+	},
 	"1101": {
 		"code": "F96",
 		"name_jp": "海軍工廠の再整備",
