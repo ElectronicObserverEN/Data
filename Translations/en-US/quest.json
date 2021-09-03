@@ -1,5 +1,5 @@
 {
-	"version": "21030158",
+	"version": "21030159",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3919,6 +3919,27 @@
 		"name": "'Operation Preparation' Second Stage Mission (Surface/Anti-Air Maintenance)",
 		"desc_jp": "作戦準備(第二段階任務)：駆逐艦を3隻以上編成した艦隊で、製油所地帯沿岸、南西諸島防衛線、<br>南西諸島近海、南西諸島海域バシー海峡へ出撃、各作戦海域の敵を撃滅、制海権を確保せよ！",
 		"desc": "Organize Fleet 3 DD and 3 XX and score S rank on the boss nodes of 1-3, 1-4, 2-1, 2-2."
+	},
+	"953": {
+		"code": "21Su LB1",
+		"name_jp": "【地中海作戦】特務艦隊、遊撃部隊編成！",
+		"name": "[Mediterranean Special Fleet] Special Mission Fleet, Tactical Force Formation",
+		"desc_jp": "【地中海遊撃部隊編成】第一作戦海域において、敵前線兵站集積地(Point【F】及び【L】)を強襲！<br>さらにタラント方面よりマルタ島への輸送部隊を狙う敵戦艦戦隊を迎撃、これを撃破せよ！",
+		"desc": "Get an A rank on nodes F, L, and O in E1"
+	},
+	"955": {
+		"code": "21Su LB3",
+		"name_jp": "【地中海拡張作戦】第10潜水戦隊作戦　(※難易度変更時は本作戦中止)",
+		"name": "",
+		"desc_jp": "【地中海拡張作戦】最終作戦海域において、潜水艦隊をもって、地中海敵水上艦隊(Point【T1】<br>及び【T4】)への反復潜水艦攻撃を敢行！地中海の敵水上艦隊の行動封じ込めを実施せよ！",
+		"desc": ""
+	},
+	"956": {
+		"code": "21Su LB4",
+		"name_jp": "【地中海拡張作戦】北アフリカ作戦　(※難易度変更時は本作戦中止)",
+		"name": "",
+		"desc_jp": "【地中海拡張(高難易度専用)作戦】最終作戦海域において北アフリカ敵拠点(Point【F】及び【W】)<br>への対地反復攻撃を敢行！今後の同方面作戦に備え、敵戦線後方の集積兵站拠点を撃滅せよ！",
+		"desc": ""
 	},
 	"1101": {
 		"code": "F96",
