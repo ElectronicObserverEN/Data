@@ -1,5 +1,5 @@
 {
-	"version": "21030159",
+	"version": "21030160",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3926,6 +3926,13 @@
 		"name": "[Mediterranean Special Fleet] Special Mission Fleet, Tactical Force Formation",
 		"desc_jp": "【地中海遊撃部隊編成】第一作戦海域において、敵前線兵站集積地(Point【F】及び【L】)を強襲！<br>さらにタラント方面よりマルタ島への輸送部隊を狙う敵戦艦戦隊を迎撃、これを撃破せよ！",
 		"desc": "Get an A rank on nodes F, L, and O in E1"
+	},
+	"954": {
+		"code": "21Su LB2",
+		"name_jp": "【地中海作戦】地中海配備の敵戦力を叩け！",
+		"name": "[Mediterranean Mission] Strike the enemy forces deploy within the Mediterranean!",
+		"desc_jp": "【地中海敵戦力の漸減】第一作戦海域、地中海配備の敵魚雷艇群(Point【H】及び【S】)を撃破！<br>さらに敵に占拠されたタラント軍港を強襲、地中海東部に展開した敵深海戦力の漸減を図れ！",
+		"desc": "Get a A rank on nodes P, H and S in E1"
 	},
 	"955": {
 		"code": "21Su LB3",
