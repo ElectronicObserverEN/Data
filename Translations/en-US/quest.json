@@ -1,5 +1,5 @@
 {
-	"version": "21030160",
+	"version": "21030161",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3937,16 +3937,16 @@
 	"955": {
 		"code": "21Su LB3",
 		"name_jp": "【地中海拡張作戦】第10潜水戦隊作戦　(※難易度変更時は本作戦中止)",
-		"name": "",
+		"name": "10th Submarine Squadron Operation",
 		"desc_jp": "【地中海拡張作戦】最終作戦海域において、潜水艦隊をもって、地中海敵水上艦隊(Point【T1】<br>及び【T4】)への反復潜水艦攻撃を敢行！地中海の敵水上艦隊の行動封じ込めを実施せよ！",
-		"desc": ""
+		"desc": "S Rank nodes T1 and T4 in E3 twice each. "
 	},
 	"956": {
 		"code": "21Su LB4",
 		"name_jp": "【地中海拡張作戦】北アフリカ作戦　(※難易度変更時は本作戦中止)",
-		"name": "",
+		"name": "North Africa Operation",
 		"desc_jp": "【地中海拡張(高難易度専用)作戦】最終作戦海域において北アフリカ敵拠点(Point【F】及び【W】)<br>への対地反復攻撃を敢行！今後の同方面作戦に備え、敵戦線後方の集積兵站拠点を撃滅せよ！",
-		"desc": ""
+		"desc": "S Rank nodes F and W in E3 twice each. "
 	},
 	"1101": {
 		"code": "F96",
