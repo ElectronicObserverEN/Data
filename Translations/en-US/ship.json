@@ -1,5 +1,5 @@
 {
-	"version": "21030106",
+	"version": "21030107",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -324,6 +324,12 @@
 		"桃": "Momo",
 		"伊203": "I-203",
 		"Northampton": "Northampton",
+		"宗谷": "Souya",
+		"Honolulu": "Honolulu",
+		"長鯨": "Chougei",
+		"Conte di Cavour": "Conte di Cavour",
+		"第三〇号海防艦": "Kaiboukan No.30",
+		"Victorious": "Victorious",
 		"駆逐イ級": "DD I-Class",
 		"駆逐ロ級": "DD Ro-Class",
 		"駆逐ハ級": "DD Ha-Class",
