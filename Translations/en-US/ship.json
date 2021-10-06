@@ -1,5 +1,5 @@
 {
-	"version": "21030107",
+	"version": "21030110",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -163,8 +163,6 @@
 		"浦波": "Uranami",
 		"朝霧": "Asagiri",
 		"夕霧": "Yuugiri",
-		"天霧": "Amagiri",
-		"狭霧": "Sagiri",
 		"有明": "Ariake",
 		"夕暮": "Yuugure",
 		"春雨": "Harusame",
@@ -245,7 +243,6 @@
 		"朝風": "Asakaze",
 		"春風": "Harukaze",
 		"松風": "Matsukaze",
-		"旗風": "Hatakaze",
 		"追風": "Oite",
 		"疾風": "Hayate",
 		"朝凪": "Asanagi",
@@ -425,7 +422,11 @@
 		"南方戦艦新棲姫": "New Southern Battleship Princess",
 		"南太平洋空母棲姫": "South Pacific Carrier Princess",
 		"戦艦新棲姫": "New Battleship Princess",
-		"深海竹棲姫": "Abyssal Bamboo Princess"
+		"深海竹棲姫": "Abyssal Bamboo Princess",
+		"欧州装甲空母棲姫": "European Armored Carrier Princess",
+		"地中海弩級水姫": "Mediterranean Dreadnought Water Princess",
+		"軽巡新棲姫": "New Light Cruiser Princess",
+		"ルンガ沖重巡棲姫": "Lunga Point Heavy Cruiser Princess"
 	},
 	"suffix": {
 		"改": "Kai",
