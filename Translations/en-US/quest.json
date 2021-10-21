@@ -1,5 +1,5 @@
 {
-	"version": "21030172",
+	"version": "21030173",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3981,14 +3981,14 @@
 		"name_jp": "「鎮守府秋刀魚祭り」発動準備！",
 		"name": "Preparation for the \"Naval District Saury Festival\"",
 		"desc_jp": "軽巡(含む練習巡洋艦)・水上機母艦・特務艦を旗艦とした艦隊で、鎮守府正面海域、南西諸島沖、<br>製油所地帯沿岸、南西諸島防衛線、鎮守府近海を偵察！鎮守府海域周辺の安全を確保せよ！",
-		"desc": "Have a CL/CT/AV/Souya as flagship and 3-5 XX and score an A+? Rank on the boss nodes of 1-1, 1-2, 1-3, 1-4, and 1-5."
+		"desc": "Have a CL/CT/AV/Souya as flagship and score an S Rank on the boss nodes of 1-1, 1-2, 1-3, 1-4, and 1-5."
 	},
 	"960": {
 		"code": "B175",
 		"name_jp": "続：「鎮守府秋刀魚祭り」発動準備！",
 		"name": "Preparation for the \"Naval District Saury Festival\" Part 2",
 		"desc_jp": "軽巡(含む練習巡洋艦)・潜水母艦・特務艦を旗艦とした艦隊で、北方海域モーレイ海、キス島沖、<br>アルフォンシーノ方面、北方海域全域、北方AL海域へ展開！北方海域での秋刀魚漁に備えよ！",
-		"desc": "Put a CL/CT/AS/Souya as flagship and 5 XX and score an S? Rank on the boss nodes of 3-1, 3-2, 3-3, 3-4, and 3-5."
+		"desc": "Have a CL/CT/AS/Souya as flagship and score an S Rank on the boss nodes of 3-1, 3-2, 3-3, 3-4, and 3-5."
 	},
 	"961": {
 		"code": "B176",
