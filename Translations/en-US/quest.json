@@ -1,5 +1,5 @@
 {
-	"version": "21030173",
+	"version": "21030174",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3366,27 +3366,6 @@
 		"name": "B106: Night Aircraft Carrier, Attack the Frontlines!",
 		"desc_jp": "出撃任務：「Saratoga Mk.II」を旗艦とした第一艦隊を KW環礁沖海域に展開、敵機動部隊を迎撃！<br>「空母機動部隊迎撃戦」を見事成功させよ！　夜戦作戦空母、抜錨！　前線に出撃せよ！",
 		"desc": "Sortie Saratoga Mk.II as flagship to [W6-5]. S-rank the boss nodes."
-	},
-	"866": {
-		"code": "",
-		"name_jp": "秋刀魚漁：「秋刀魚」を収獲する所存です！",
-		"name": "SB23: Saury Fishing: I'm Going to Secure the Saury Harvest!",
-		"desc_jp": "秋刀魚漁支援：近海、北方海域、中部海域の秋刀魚漁漁場に展開、秋刀魚漁支援ですね？了解です！<br>漁場に遊弋する敵艦隊を撃破、秋刀魚漁を支援して、「秋刀魚」を四尾入手します！お任せください！",
-		"desc": "Have 4 Sauries in your inventory."
-	},
-	"867": {
-		"code": "",
-		"name_jp": "秋刀魚漁：漁を全力で支援する覚悟です！",
-		"name": "SB24: Saury Fishing: I'm Ready to Go All-Out Supporting the Fishing!",
-		"desc_jp": "秋刀魚漁支援：漁場の安全を確保して「秋刀魚」を12尾確保ですね？少し大変そうですが、了解です！<br>あまり乱獲しては不漁になってしまいますね！適切に漁場を休ませつつ、海域も変えてみましょう！",
-		"desc": "Have 12 Sauries in your inventory."
-	},
-	"868": {
-		"code": "",
-		"name_jp": "秋刀魚漁：どーんっ！揚げ揚げで大漁です！",
-		"name": "SB25: Saury Fishing: Boooom! I'll Fire Up the Big Catch!",
-		"desc_jp": "秋刀魚漁支援：どーん！秋刀魚漁の総仕上げもアゲアゲでまいりましょう！そうです、揚げ揚げです！<br>漁場の深海棲艦を制圧して安全を確保、不漁なんてどーんとはねかえしていきましょう！いっけぇー！",
-		"desc": "Have 30 Sauries in your inventory."
 	},
 	"869": {
 		"code": "",
