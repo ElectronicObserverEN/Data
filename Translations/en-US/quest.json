@@ -1,5 +1,5 @@
 {
-	"version": "21030176",
+	"version": "21030178",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3370,21 +3370,21 @@
 	"866": {
 		"code": "2110 LQ1",
 		"name_jp": "秋刀魚漁：秋刀魚漁は好き…ですか？",
-		"name": "2110 LQ1: Saury Fishing: Do you love....Saury Fishing?",
+		"name": "Saury Fishing: Do you love....Saury Fishing?",
 		"desc_jp": "帰ってきた秋刀魚祭り：艦隊を近海、北方海域、中部海域の秋刀魚漁漁場に展開、秋刀魚漁を支援、<br>新鮮な「秋刀魚」を5尾入手する作戦任務が発動しています。提督、秋刀魚漁は…好き…ですか？",
 		"desc": "Have 5 Sauries in your inventory."
 	},
 	"867": {
 		"code": "2110 LQ2",
 		"name_jp": "秋刀魚漁：姉さんがいつも…すみませんっ！",
-		"name": "2110 LQ2: Saury Fishing: My sister is always so... please forgive her.",
+		"name": "Saury Fishing: My sister is always so... please forgive her.",
 		"desc_jp": "帰ってきた秋刀魚祭り：提督、姉さんがいつも…すみませんっ！次は「秋刀魚」11尾確保みたいです！はい、探照灯はもちろん、漁場を休ませることも大事ですね。別の漁場へも足を伸ばしてみましょう！",
 		"desc": "Have 11 Sauries in your inventory."
 	},
 	"868": {
 		"code": "2110 LQ3",
 		"name_jp": "秋刀魚漁：テ・イ・ト・ク…大漁旗も、お願いします！",
-		"name": "2110 LQ3: Saury Fishing: Te~i~to~ku... let us get the big catch flag!",
+		"name": "Saury Fishing: Te~i~to~ku... let us get the big catch flag!",
 		"desc_jp": "帰ってきた秋刀魚祭り：テ・イ・ト・ク？…提督？秋刀魚漁支援、大丈夫そう？ そうですか、良かった！<br>漁場の安全と制海権を確保して、すみません…少し大変ですが「秋刀魚」33尾確保、お願い致します！",
 		"desc": "Have 33 Sauries in your inventory."
 	},
@@ -4056,7 +4056,7 @@
 	"1110": {
 		"code": "2110 LQ4",
 		"name_jp": "秋刀魚祭り限定任務：精鋭Swordfish配備！",
-		"name": "2110 LQ4: Pacific Saury Festival Limited Time Mission: Deploy Elite Swordfish!",
+		"name": "Pacific Saury Festival Limited Time Mission: Deploy Elite Swordfish!",
 		"desc_jp": "秋刀魚祭り限定任務：旗艦第一装備スロに最大改修「Swordfish Mk.II(熟練)」を搭載。「7.7mm機銃」<br>及び「瑞雲」各x2を廃棄。水揚げした「秋刀魚」13尾、開発資材x39、ボーキサイト1,300を準備せよ！",
 		"desc": "Have your secretary flagship equipped with a max modified Swordfish Mk.II (Skilled) on the first equipment slot. Then scrap two 7.7mm Machine Gun and two Zuiun each. Prepare 13 sauries, 39 development materials and 1300 bauxite ! (All resources and Materials will be consumed upon completion)"
 	}
