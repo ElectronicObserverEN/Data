@@ -1,5 +1,5 @@
 {
-	"version": "21030174",
+	"version": "21030175",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3366,6 +3366,27 @@
 		"name": "B106: Night Aircraft Carrier, Attack the Frontlines!",
 		"desc_jp": "出撃任務：「Saratoga Mk.II」を旗艦とした第一艦隊を KW環礁沖海域に展開、敵機動部隊を迎撃！<br>「空母機動部隊迎撃戦」を見事成功させよ！　夜戦作戦空母、抜錨！　前線に出撃せよ！",
 		"desc": "Sortie Saratoga Mk.II as flagship to [W6-5]. S-rank the boss nodes."
+	},
+	"866": {
+		"code": "2110 LQ1",
+		"name_jp": "秋刀魚漁：秋刀魚漁は好き…ですか？",
+		"name": "2110 LQ1: Saury Fishing: Do you love....Saury Fishing?",
+		"desc_jp": "帰ってきた秋刀魚祭り：艦隊を近海、北方海域、中部海域の秋刀魚漁漁場に展開、秋刀魚漁を支援、<br>新鮮な「秋刀魚」を5尾入手する作戦任務が発動しています。提督、秋刀魚漁は…好き…ですか？",
+		"desc": "Have 5 Sauries in your inventory."
+	},
+	"867": {
+		"code": "2110 LQ2",
+		"name_jp": "秋刀魚漁：姉さんがいつも…すみませんっ！",
+		"name": "2110 LQ2: Saury Fishing: My sister is always so... please forgive her.",
+		"desc_jp": "帰ってきた秋刀魚祭り：提督、姉さんがいつも…すみませんっ！次は「秋刀魚」11尾確保みたいです！はい、探照灯はもちろん、漁場を休ませることも大事ですね。別の漁場へも足を伸ばしてみましょう！",
+		"desc": "Have 11 Sauries in your inventory."
+	},
+	"868": {
+		"code": "2110 LQ3",
+		"name_jp": "秋刀魚漁：テ・イ・ト・ク…大漁旗も、お願いします！",
+		"name": "2110 LQ3: Saury Fishing: Te~i~to~ku... let us get the big catch flag!",
+		"desc_jp": "帰ってきた秋刀魚祭り：テ・イ・ト・ク？…提督？秋刀魚漁支援、大丈夫そう？ そうですか、良かった！<br>漁場の安全と制海権を確保して、すみません…少し大変ですが「秋刀魚」33尾確保、お願い致します！",
+		"desc": "Have 33 Sauries in your inventory."
 	},
 	"869": {
 		"code": "",
