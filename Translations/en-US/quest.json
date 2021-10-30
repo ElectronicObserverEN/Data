@@ -1,5 +1,5 @@
 {
-	"version": "21030175",
+	"version": "21030176",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4052,5 +4052,12 @@
 		"name": "Deployment of equipment to support landing operations",
 		"desc_jp": "旗艦「神州丸」の第一装備スロットに最大改修「大発動艇(八九式中戦車＆陸戦隊)」を搭載。<br>「7.7mm機銃」「大発動艇」各x2廃棄。高速建造材x8、開発資材x10、鋼材800を準備せよ！",
 		"desc": "Have your secretary flagship Shinshuu Maru equip a maxed modified Daihatsu Landing Craft (Type 89 Medium Tank & Landing Force) in the first slot and then proceed to scrap 2 7.7mm Machine Gun, 2 Daihatsu and have 8 Instant Construction Materials, 10 Development Mateirals, and 800 steel (All resources and Materials will be consumed upon completion)"
+	},
+	"1110": {
+		"code": "2110 LQ4",
+		"name_jp": "秋刀魚祭り限定任務：精鋭Swordfish配備！",
+		"name": "2110 LQ4: Pacific Saury Festival Limited Time Mission: Deploy Elite Swordfish!",
+		"desc_jp": "秋刀魚祭り限定任務：旗艦第一装備スロに最大改修「Swordfish Mk.II(熟練)」を搭載。「7.7mm機銃」<br>及び「瑞雲」各x2を廃棄。水揚げした「秋刀魚」13尾、開発資材x39、ボーキサイト1,300を準備せよ！",
+		"desc": "Have your secretary flagship equipped with a max modified Swordfish Mk.II (Skilled) on the first equipment slot. Then scrap two 7.7mm Machine Gun and two Zuiun each. Prepare 13 sauries, 39 development materials and 1300 bauxite ! (All resources and Materials will be consumed upon completion)"
 	}
 }
