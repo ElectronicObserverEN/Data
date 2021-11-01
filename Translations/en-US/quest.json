@@ -1,5 +1,5 @@
 {
-	"version": "21030178",
+	"version": "21030179",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2500,16 +2500,16 @@
 		"desc": "Prepare 6000 Furniture Coins, 3 35.6cm Twin Gun Mount, and 3 Type 96 Fighter in your inventory. Scrap 6 14cm Single Gun Mount."
 	},
 	"654": {
-		"code": "",
+		"code": "F93",
 		"name_jp": "精鋭複葉機飛行隊の編成",
-		"name": "F93: Formation of a splendid biplane squadron",
+		"name": "Formation of a splendid biplane squadron",
 		"desc_jp": "精鋭複葉機飛行隊の編成：秘書艦「Ark Royal」に改修max「Swordfish」を一番スロットに搭載、「Swordfish」x1「Fulmar」x2を廃棄、「熟練搭乗員」、弾薬とボーキサイトを各1,500用意せよ！",
 		"desc": "Formation of a splendid biplane squadron: prepare a maxed star Swordfish and equip it onto the first slot of Ark Royal who must be your secretary ship. Then proceed to scrap 1 Swordfish, 2 Fulmar and prepare 1 Skilled Pilot, 1500 ammo and bauxite each. (All prepared items and resources will be consumed upon completion)"
 	},
 	"655": {
-		"code": "",
+		"code": "F94",
 		"name_jp": "工廠フル稼働！新兵装を開発せよ！",
-		"name": "F93: Arsenal at maximum capacity! Develop new armaments!",
+		"name": "Arsenal at maximum capacity! Develop new armaments!",
 		"desc_jp": "「小口径主砲」「中口径主砲」「大口径主砲」「水偵」「艦攻」系各装備をそれぞれ五つずつ廃棄！鋼材、燃料、ボーキサイト各1,500を準備せよ！　※任務達成後、準備した資源は消費します。",
 		"desc": "Scrap 5 pieces of equipment of each of the following types: small-caliber main guns, medium-caliber main guns, large-caliber main guns, recon seaplanes, torpedo bombers. Prepare 1500 steel, 1500 fuel, and 1500 bauxite!"
 	},
