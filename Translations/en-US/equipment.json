@@ -1,5 +1,5 @@
 {
-	"version": "21030212",
+	"version": "21030213",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -555,7 +555,12 @@
 		"地中海12inch/46 連装砲": "Mediterranean 12inch/46 Twin Gun Mount",
 		"深海カモメ水偵": "Abyssal Seagull Reconnaissance Seaplane",
 		"深海海猫水偵": "Abyssal Seamew Reconnaissance Seaplane",
-		"深海6inch三連装主砲 Mk.16": "Abyssal 6inch Triple Main Gun Mount Mk.16"
+		"深海6inch三連装主砲 Mk.16": "Abyssal 6inch Triple Main Gun Mount Mk.16",
+		"Hedgehog(初期型)": "Hedgehog (Initial Model)",
+		"21inch艦首魚雷発射管6門(初期型)": "21inch 6-tube Bow Torpedo Launcher (Initial Model)",
+		"21inch艦首魚雷発射管6門(後期型)": "21inch 6-tube Bow Torpedo Launcher (Late Model)",
+		"潜水艦後部魚雷発射管4門(初期型)": "Submarine 4-tube Stern Torpedo Launcher (Initial Model)",
+		"潜水艦後部魚雷発射管4門(後期型)": "Submarine 4-tube Stern Torpedo Launcher (Late Model)"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",

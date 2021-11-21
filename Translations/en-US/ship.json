@@ -1,5 +1,5 @@
 {
-	"version": "21030110",
+	"version": "21030114",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -426,14 +426,15 @@
 		"欧州装甲空母棲姫": "European Armored Carrier Princess",
 		"地中海弩級水姫": "Mediterranean Dreadnought Water Princess",
 		"軽巡新棲姫": "New Light Cruiser Princess",
-		"ルンガ沖重巡棲姫": "Lunga Point Heavy Cruiser Princess"
+		"ルンガ沖重巡棲姫": "Lunga Point Heavy Cruiser Princess",
+		"昭南": "Shounan",
+		"潜水鮫水鬼": "Submarine Shark Water Demon Flagship"
 	},
 	"suffix": {
 		"改": "Kai",
 		"Mod.2": "Mod.2",
 		"改母": "Kai Bo",
 		"Mk.II": "Mk.II",
-		"II": "B",
 		"zwei": "Zwei",
 		"drei": "Drei",
 		"due": "Due",
@@ -460,7 +461,9 @@
 		"-壊": "- Damaged",
 		"バカンスmode": "Vacation Mode",
 		"夏mode": "Summer Mode",
-		"夏季上陸mode": "Summer Landing Mode"
+		"夏季上陸mode": "Summer Landing Mode",
+		"(量産型)": "(Mass produced model)",
+		"II": "II"
 	},
 	"stype": {
 		"海防艦": "DE",
