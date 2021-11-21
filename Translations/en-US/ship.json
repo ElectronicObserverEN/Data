@@ -1,5 +1,5 @@
 {
-	"version": "21030113",
+	"version": "21030114",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -462,7 +462,8 @@
 		"バカンスmode": "Vacation Mode",
 		"夏mode": "Summer Mode",
 		"夏季上陸mode": "Summer Landing Mode",
-		"量産型": "Mass produced model"
+		"(量産型)": "(Mass produced model)",
+		"II": "II"
 	},
 	"stype": {
 		"海防艦": "DE",
