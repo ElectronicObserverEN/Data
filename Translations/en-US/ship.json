@@ -1,5 +1,5 @@
 {
-	"version": "21030111",
+	"version": "21030112",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -427,7 +427,8 @@
 		"地中海弩級水姫": "Mediterranean Dreadnought Water Princess",
 		"軽巡新棲姫": "New Light Cruiser Princess",
 		"ルンガ沖重巡棲姫": "Lunga Point Heavy Cruiser Princess",
-		"昭南": "Shounan"
+		"昭南": "Shounan",
+		"潜水鮫水鬼": "Submarine Shark Water Demon Flagship"
 	},
 	"suffix": {
 		"改": "Kai",
@@ -461,7 +462,8 @@
 		"-壊": "- Damaged",
 		"バカンスmode": "Vacation Mode",
 		"夏mode": "Summer Mode",
-		"夏季上陸mode": "Summer Landing Mode"
+		"夏季上陸mode": "Summer Landing Mode",
+		"量産型": "Mass produced model"
 	},
 	"stype": {
 		"海防艦": "DE",
