@@ -1,5 +1,5 @@
 {
-	"version": "21030110",
+	"version": "21030111",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -426,7 +426,8 @@
 		"欧州装甲空母棲姫": "European Armored Carrier Princess",
 		"地中海弩級水姫": "Mediterranean Dreadnought Water Princess",
 		"軽巡新棲姫": "New Light Cruiser Princess",
-		"ルンガ沖重巡棲姫": "Lunga Point Heavy Cruiser Princess"
+		"ルンガ沖重巡棲姫": "Lunga Point Heavy Cruiser Princess",
+		"昭南": "Shounan"
 	},
 	"suffix": {
 		"改": "Kai",
