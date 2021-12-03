@@ -1,5 +1,5 @@
 {
-	"version": "21030179",
+	"version": "21030180",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3975,6 +3975,13 @@
 		"name": "\"Yamakaze Kai Ni\" Weigh Anchor!",
 		"desc_jp": "「山風改二/丁」を旗艦として、駆逐艦及び海防艦計3隻以上を編成した艦隊で、南西諸島沖、<br>製油所地帯沿岸、南西諸島防衛線、鎮守府近海へ出撃！近海に侵入した敵を撃滅せよ！",
 		"desc": "Put Yamakaze Kai Ni/D as flagship and have 3 DD, 0-2 XX and score an S rank on 1-2, 1-3, 1-4 and 1-5"
+	},
+	"958": {
+		"code": "B172",
+		"name_jp": "改白露型駆逐艦「山風改二」、奮戦す！",
+		"name": "Shiratsuyu-Class Destroyer \"Yamakaze Kai Ni\" will fight hard!",
+		"desc_jp": "「山風改二/丁」「江風改二」「海風改二」のうち2隻以上を含む艦隊で、南西諸島海域バシー海峡、<br>タウイタウイ泊地沖深部、南方海域前面、中部北海域ピーコック島沖へ出撃、敵戦力を撃滅せよ！",
+		"desc": "Have 2 ships which must have Yamakaze Kai Ni/D along with Umikaze Kai Ni and/or Kawakaze Kai Ni and 4 XX and score an S rank on 2-2, 7-2 (Part 2), 5-1, and 6-4"
 	},
 	"959": {
 		"code": "B174",
