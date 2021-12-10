@@ -1,5 +1,5 @@
 {
-	"version": "21030183",
+	"version": "21030184",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4023,7 +4023,14 @@
 		"name_jp": "【Xmas限定】聖夜の翼、出撃せよ！",
 		"name": "[Christmas Limited] Wings of the Holy Night, sortie!",
 		"desc_jp": "Xmas限定任務：「翔鶴」「瑞鶴」「速吸」の3隻、または「鈴谷」「熊野」「Gotland」の3隻を含む<br>艦隊で沖ノ島海域、北方AL海域、珊瑚諸島沖に反復出撃！敵艦隊を捕捉、これを撃滅せよ！",
-		"desc": "Organize a fleet with \"\"Shoukaku, Zuikaku, and Hayasui\" or \"Suzuya, Kumano and Gotland\" in the fleet and score an S? rank in the boss nodes of 2-4, 3-5, 5-2, twice each."
+		"desc": "Organize a fleet with \"Shoukaku, Zuikaku, and Hayasui\" or \"Suzuya, Kumano and Gotland\" in the fleet and score an S? rank in the boss nodes of 2-4, 3-5, 5-2, twice each."
+	},
+	"965": {
+		"code": "2112 LB04",
+		"name_jp": "【Xmas拡張作戦】Xmas最終作戦、発動！",
+		"name": "[Christmas limited (Extra operation)] Christmas final operation, Commence!",
+		"desc_jp": "Xmas拡張作戦：「Sheffield」「Commandant Teste」「衣笠」「鹿島」「球磨」「酒匂」中の3隻以上<br>を含むXmas合同艦隊でカレー洋リランカ島沖、サブ島沖海域に反復出撃！敵を殲滅せよ！",
+		"desc": "Organize a fleet with 3 of the following ships: Sheffield, Commandant Teste, Kinugasa, Kashima, Kuma, Sakawa in the fleet and score an S? rank in the boss nodes of 4-5, 5-3, twice each."
 	},
 	"1101": {
 		"code": "F96",
@@ -4089,7 +4096,7 @@
 		"desc": "Have your secretary flagship equipped with a max modified Swordfish Mk.II (Skilled) on the first equipment slot. Then scrap two 7.7mm Machine Gun and two Zuiun each. Prepare 13 sauries, 39 development materials and 1300 bauxite ! (All resources and Materials will be consumed upon completion)"
 	},
 	"1111": {
-		"code": "",
+		"code": "F105",
 		"name_jp": "精鋭「一式陸攻」隊の編成",
 		"name": "Organization of elite \"set of land base attack\" squadrons",
 		"desc_jp": "精鋭陸攻隊の編成：野中隊長率いる精鋭陸攻隊の編成を行う！「一式陸攻 二二型甲」(最大改修)x1、<br>さらに「一式陸攻」x2、熟練搭乗員x3を準備せよ！(任務達成後、用意した必要装備は消滅します)",
