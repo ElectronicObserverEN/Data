@@ -1,5 +1,5 @@
 {
-	"version": "21030181",
+	"version": "21030182",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4004,6 +4004,13 @@
 		"desc_jp": "第十五駆逐隊任務：「親潮改二」及び「黒潮改二」を配備した艦隊で、南西諸島海域沖ノ島海域、<br>南方海域サーモン海域、南西海域タウイタウイ泊地沖深部へ反復出撃。敵艦隊を捕捉撃滅せよ！",
 		"desc": "Organize a fleet with Oyashio Kai Ni and Kuroshio Kai Ni in the fleet and score an S rank in the boss nodes of 2-4, 5-4 and 7-2 (Part 2), twice each."
 	},
+	"962": {
+		"code": "X1",
+		"name_jp": "【Xmas限定】Merry Xmas 水雷戦隊！",
+		"name": "[Xmas Limited] Merry Xmas Destroyer Squadron!",
+		"desc_jp": "Xmas限定任務：「時雨改二」「朝雲」「山雲」の3隻、または「那珂」「朧」「潮」の3隻を含む<br>艦隊で製油所地帯沿岸、南西諸島防衛線、バシー海峡に反復出撃！敵艦隊を撃滅せよ！",
+		"desc": "Organize a fleet with \"Shigure kai 2, Asagumo and Yamagumo\" or \"Naka, Oboro and Ushio\" in the fleet and score an S? rank in the boss nodes of 1-3, 1-4, 2-2, twice each."
+	},
 	"1101": {
 		"code": "F96",
 		"name_jp": "海軍工廠の再整備",
@@ -4066,5 +4073,12 @@
 		"name": "Pacific Saury Festival Limited Time Mission: Deploy Elite Swordfish!",
 		"desc_jp": "秋刀魚祭り限定任務：旗艦第一装備スロに最大改修「Swordfish Mk.II(熟練)」を搭載。「7.7mm機銃」<br>及び「瑞雲」各x2を廃棄。水揚げした「秋刀魚」13尾、開発資材x39、ボーキサイト1,300を準備せよ！",
 		"desc": "Have your secretary flagship equipped with a max modified Swordfish Mk.II (Skilled) on the first equipment slot. Then scrap two 7.7mm Machine Gun and two Zuiun each. Prepare 13 sauries, 39 development materials and 1300 bauxite ! (All resources and Materials will be consumed upon completion)"
+	},
+	"1111": {
+		"code": "",
+		"name_jp": "精鋭「一式陸攻」隊の編成",
+		"name": "Organization of elite \"set of land base attack\" squadrons",
+		"desc_jp": "精鋭陸攻隊の編成：野中隊長率いる精鋭陸攻隊の編成を行う！「一式陸攻 二二型甲」(最大改修)x1、<br>さらに「一式陸攻」x2、熟練搭乗員x3を準備せよ！(任務達成後、用意した必要装備は消滅します)",
+		"desc": "Prepare following items: a maximum improved Type 1 Land-based Attack Aircraft Model 22A, two Type 1 Land-based Attack Aircraft and three skilled crew members (The items will be consumed)."
 	}
 }
