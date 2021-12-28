@@ -1,5 +1,5 @@
 {
-	"version": "21030184",
+	"version": "21030185",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4032,6 +4032,13 @@
 		"desc_jp": "Xmas拡張作戦：「Sheffield」「Commandant Teste」「衣笠」「鹿島」「球磨」「酒匂」中の3隻以上<br>を含むXmas合同艦隊でカレー洋リランカ島沖、サブ島沖海域に反復出撃！敵を殲滅せよ！",
 		"desc": "Organize a fleet with 3 of the following ships: Sheffield, Commandant Teste, Kinugasa, Kashima, Kuma, Sakawa in the fleet and score an S? rank in the boss nodes of 4-5, 5-3, twice each."
 	},
+	"966": {
+		"code": "",
+		"name_jp": "南西海域「基地航空隊」開設！",
+		"name": "Establish \"Land Base Air Support\" in Southwestern waters!",
+		"desc_jp": "南西諸島近海、バシー海峡、東部オリョール海、ペナン島沖深部の敵艦隊を撃滅！昭南本土航路で<br>台湾に寄港。「設営隊」x1を用意して、同地にエアカバーする南西海域「基地航空隊」を展開せよ！",
+		"desc": "Get S rank on 2-1/2-2/2-3/7-3-2 one time. Reach O node in 7-4. Have one Construction Corps (it will be consumed upon completion)."
+	},
 	"1101": {
 		"code": "F96",
 		"name_jp": "海軍工廠の再整備",
@@ -4101,5 +4108,12 @@
 		"name": "Organization of elite \"set of land base attack\" squadrons",
 		"desc_jp": "精鋭陸攻隊の編成：野中隊長率いる精鋭陸攻隊の編成を行う！「一式陸攻 二二型甲」(最大改修)x1、<br>さらに「一式陸攻」x2、熟練搭乗員x3を準備せよ！(任務達成後、用意した必要装備は消滅します)",
 		"desc": "Prepare following items: a maximum improved Type 1 Land-based Attack Aircraft Model 22A, two Type 1 Land-based Attack Aircraft and three skilled crew members (The items will be consumed)."
+	},
+	"1112": {
+		"code": "",
+		"name_jp": "鎮守府「大掃除」祭り！",
+		"name": "Naval Base \"General Cleaning\" Festival!",
+		"desc_jp": "「小口径主砲」「中口径主砲」「大口径主砲」各x4装備を廃棄、ドラム缶(輸送用)x1、開発資材x10<br>鋼材1,800を準備せよ！(任務達成後、準備した資源・ドラム缶(輸送用)・開発資材は消費)",
+		"desc": "Scrap 4 small/4 medium/4 large guns. Have 1 Drum Canister, 10x Development Material, 1800 bauxite (it will be consumed upon completion)."
 	}
 }
