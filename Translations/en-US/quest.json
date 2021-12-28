@@ -1,5 +1,5 @@
 {
-	"version": "21030186",
+	"version": "21030187",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4038,6 +4038,13 @@
 		"name": "Establish \"Land Base Air Support\" in Southwestern waters!",
 		"desc_jp": "南西諸島近海、バシー海峡、東部オリョール海、ペナン島沖深部の敵艦隊を撃滅！昭南本土航路で<br>台湾に寄港。「設営隊」x1を用意して、同地にエアカバーする南西海域「基地航空隊」を展開せよ！",
 		"desc": "Get S rank on 2-1/2-2/2-3/7-3-2 one time. Reach O node in 7-4. Have one Construction Corps (it will be consumed upon completion)."
+	},
+	"967": {
+		"code": "",
+		"name_jp": "海上護衛！ヒ船団を護り抜け！",
+		"name": "Maritime escort! Protect the Hi Convoy!",
+		"desc_jp": "ヒ船団海上護衛任務：南西海域：昭南本土航路における作戦を完遂し、昭南から本土方面に<br>向かうヒ船団を、その脅威から護り抜け！艦隊、基地航空隊、出撃せよ！",
+		"desc": "Clear 7-4"
 	},
 	"1101": {
 		"code": "F96",
