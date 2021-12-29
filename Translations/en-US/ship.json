@@ -1,5 +1,5 @@
 {
-	"version": "21030115",
+	"version": "21030116",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -68,7 +68,7 @@
 		"利根": "Tone",
 		"筑摩": "Chikuma",
 		"飛鷹": "Hiyou",
-		"隼鷹": "Junyou",
+		"隼鷹": "Jun'you",
 		"朧": "Oboro",
 		"曙": "Akebono",
 		"漣": "Sazanami",
@@ -154,7 +154,7 @@
 		"橿原": "Kashihara",
 		"大鷹": "Taiyou",
 		"冲鷹": "Chuuyou",
-		"雲鷹": "Unyou",
+		"雲鷹": "Un'you",
 		"水無月": "Minazuki",
 		"夕月": "Yuuzuki",
 		"東雲": "Shinonome",
@@ -285,7 +285,7 @@
 		"Intrepid": "Intrepid",
 		"福江": "Fukae",
 		"Samuel B.Roberts": "Samuel B. Roberts",
-		"神鷹": "Shinyou",
+		"神鷹": "Shin'you",
 		"Nelson": "Nelson",
 		"Gotland": "Gotland",
 		"Maestrale": "Maestrale",
