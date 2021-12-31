@@ -1,5 +1,5 @@
 {
-	"version": "21030192",
+	"version": "21030193",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2938,7 +2938,7 @@
 		"name_jp": "新春任務群【拡張作戦】五航戦、迎春抜錨！",
 		"name": "New Year Task Force [Extra Operation] 5th CarDiv, Weigh Anchor!",
 		"desc_jp": "「翔鶴」「瑞鶴」を中核とする精鋭第五航空戦隊を、珊瑚諸島沖、北方AL海域、アルフォンシーノ方面、<br>タウイタウイ泊地沖深部、KW環礁沖海域に展開！立ち塞がる敵艦隊を鎧袖一触、殲滅せよ！",
-		"desc": "Organize a fleet with Shoukaku and Zuikaku to get S rank? in the boss nodes of the following maps: 5-2, 3-5, 3-3, 7-2-2, 6-5"
+		"desc": "Organize a fleet with Shoukaku and Zuikaku (one must be flagship and the other must to be second ship) to get S rank? in the boss nodes of the following maps: 5-2, 3-5, 3-3, 7-2-2, 6-5"
 	},
 	"805": {
 		"code": "",
