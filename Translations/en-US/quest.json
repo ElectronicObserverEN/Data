@@ -1,5 +1,5 @@
 {
-	"version": "21030188",
+	"version": "21030189",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2911,6 +2911,20 @@
 		"name": "Continued: Carry out Mogami-class Modernization work",
 		"desc_jp": "最上型近代化改修：鋼材1,200及び弾薬1,200を準備、「最上型」を近代化改修！<br>[重巡級]x4隻同時使用で2回成功させよ！※任務達成後、準備資源は消費します。",
 		"desc": "Have 1,200 Steel, 1,200 Ammo and modernize a Mogami-class Heavy/Aviation Cruiser with 4 CAs at once twice."
+	},
+	"801": {
+		"code": "2022 LQ1",
+		"name_jp": "新春！令和四年「精鋭水雷戦隊」出撃始め！",
+		"name": "New Year! Reiwa 4th year \"Elite Destroyer Squadron\" begins to sortie!",
+		"desc_jp": "軽巡級旗艦の精鋭水雷戦隊を鎮守府海域南西諸島沖及び製油所地帯沿岸、南西諸島防衛線、さらに<br>鎮守府近海航路、南西諸島海域南西諸島近海に新春展開！令和四年の暁に勝利を刻みなさい！",
+		"desc": "Use a torpedo squadron with a CL class as the flagship to get S rank? in the boss nodes or reach the final resource node of following maps: 1-2, 1-3, 1-4, 1-6 and 2-1"
+	},
+	"802": {
+		"code": "2022 LQ2",
+		"name_jp": "2022年令和四年！「沖ノ島」防衛作戦、発動！",
+		"name": "2022 Reiwa 4th year! \"Okinoshima\" defense operation activated!",
+		"desc_jp": "重巡級1隻以上、水上機母艦または軽航空巡洋艦1隻以上を配した精鋭艦隊で南西諸島海域バシー海峡、<br>東部オリョール海、沖ノ島海域の敵を撃破！沖ノ島沖に遊弋する敵を撃滅せよ！沖ノ島防衛作戦、発動！",
+		"desc": "Use the fleet includes 1 CA class and 1 AV/light aviation cruiser to get S rank? in the boss nodes of following maps: 2-2, 2-3, 2-4, 2-5"
 	},
 	"805": {
 		"code": "",
