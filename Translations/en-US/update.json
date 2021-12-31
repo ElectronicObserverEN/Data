@@ -1,9 +1,9 @@
 {
-	"bld_date": "2021/12/04 12:00:00",
-	"ver": "5.0.1",
+	"bld_date": "2021/12/19 12:00:00",
+	"ver": "5.0.2",
 	"note": "Check github for release notes: https://github.com/gre4bee/ElectronicObserver/releases",
-	"url": "https://github.com/gre4bee/ElectronicObserver/releases/download/5.0.1/ElectronicObserver501EN.zip",
-	"hash": "AF6E287A5D5370B4075C0F06554199CAA4CF751EEA7749C37FD650688213A37E",
+	"url": "https://github.com/gre4bee/ElectronicObserver/releases/download/5.0.2/ElectronicObserver502EN.zip",
+	"hash": "2A4E94BFB3B5894574CD73377AEA09D7ABEEBE87FFE6601B4299465D7B61EE6A",
 	"tl_ver": {
 		"equipment": "21030213",
 		"equipment_type": "1.3.83",
@@ -11,7 +11,7 @@
 		"nodes": 20071501,
 		"operation": "20071501",
 		"quest": "21030190",
-		"ship": "21030115",
+		"ship": "21030116",
 		"ship_type": "1.1.24"
 	},
 	"kancolle_mt": "2021/08/20 11:00:00",

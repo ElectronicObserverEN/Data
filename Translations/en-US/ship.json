@@ -1,5 +1,5 @@
 {
-	"version": "21030115",
+	"version": "21030116",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -68,7 +68,7 @@
 		"利根": "Tone",
 		"筑摩": "Chikuma",
 		"飛鷹": "Hiyou",
-		"隼鷹": "Junyou",
+		"隼鷹": "Jun'you",
 		"朧": "Oboro",
 		"曙": "Akebono",
 		"漣": "Sazanami",
@@ -154,7 +154,7 @@
 		"橿原": "Kashihara",
 		"大鷹": "Taiyou",
 		"冲鷹": "Chuuyou",
-		"雲鷹": "Unyou",
+		"雲鷹": "Un'you",
 		"水無月": "Minazuki",
 		"夕月": "Yuuzuki",
 		"東雲": "Shinonome",
@@ -285,7 +285,7 @@
 		"Intrepid": "Intrepid",
 		"福江": "Fukae",
 		"Samuel B.Roberts": "Samuel B. Roberts",
-		"神鷹": "Shinyou",
+		"神鷹": "Shin'you",
 		"Nelson": "Nelson",
 		"Gotland": "Gotland",
 		"Maestrale": "Maestrale",
@@ -327,6 +327,7 @@
 		"Conte di Cavour": "Conte di Cavour",
 		"第三〇号海防艦": "Kaiboukan No.30",
 		"Victorious": "Victorious",
+		"八幡丸": "Yawata Maru",
 		"駆逐イ級": "DD I-Class",
 		"駆逐ロ級": "DD Ro-Class",
 		"駆逐ハ級": "DD Ha-Class",
@@ -428,8 +429,7 @@
 		"軽巡新棲姫": "New Light Cruiser Princess",
 		"ルンガ沖重巡棲姫": "Lunga Point Heavy Cruiser Princess",
 		"昭南": "Shounan",
-		"潜水鮫水鬼": "Submarine Shark Water Demon Flagship",
-		"八幡丸": "Yawata Maru"
+		"潜水鮫水鬼": "Submarine Shark Water Demon Flagship"
 	},
 	"suffix": {
 		"改": "Kai",
