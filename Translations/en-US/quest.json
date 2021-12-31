@@ -2912,34 +2912,6 @@
 		"desc_jp": "最上型近代化改修：鋼材1,200及び弾薬1,200を準備、「最上型」を近代化改修！<br>[重巡級]x4隻同時使用で2回成功させよ！※任務達成後、準備資源は消費します。",
 		"desc": "Have 1,200 Steel, 1,200 Ammo and modernize a Mogami-class Heavy/Aviation Cruiser with 4 CAs at once twice."
 	},
-	"801": {
-		"code": "",
-		"name_jp": "迎春！令和三年「海上護衛隊」抜錨始め！",
-		"name": "2021 LQ1: Happy New Year! Reiwa 3 \"Maritime Escort Fleet\", Weigh Anchors!",
-		"desc_jp": "精鋭海上護衛隊(軽空母及び軽巡級各１隻配備可能)で鎮守府海域南西諸島沖、製油所地帯沿岸に出撃！また、鎮守府近海の近海対潜哨戒及び輸送船団護衛作戦、南西海域のブルネイ泊地沖哨戒を実施せよ！",
-		"desc": "Sortie a fleet of 0-1 CVL, 0-1 CL(T)/CT at most and 4-6 DD/DE (No other ship class allow). Score an A+ rank at the boss nodes of 1-2, 1-3, 1-5, and 7-1. Reach Node N on 1-6"
-	},
-	"802": {
-		"code": "",
-		"name_jp": "新春「伊良湖」のお手伝い！",
-		"name": "2021 LQ2: Happy New Year! \"Heavy Cruiser Squadron\", to the Nansei Islands!",
-		"desc_jp": "重巡級を旗艦配備、かつ同2隻以上を配した精鋭艦隊で、鎮守府海域南西諸島防衛線、南西諸島海域のバシー海峡、東部オリョール海、沖ノ島海域、沖ノ島沖に展開！敵艦隊を撃破、新春の制海権を確保せよ！",
-		"desc": "Form a fleet with 2 CA(V) (with one as flagship), and 4 XX and sortie and score an A+ rank on the boss nodes of 1-4, 2-2, 2-3, 2-4, and 2-5."
-	},
-	"803": {
-		"code": "",
-		"name_jp": "謹賀新年！特務艦隊、新春の北極海へ！",
-		"name": "2021 LQ3: Happy New Year! Auxiliary Fleet, to the Arctic Ocean of a New Year!",
-		"desc_jp": "航空母艦または水上機母艦・潜水母艦・補給艦計3隻以上を含む特務艦隊を編成、北方海域全域(#3-4)、バレンツ海(#E2)、ノルウェー北岬沖/北極海(#E3)に反復出撃、各海域方面の敵艦隊を撃破せよ！",
-		"desc": "Form a fleet with 3 CV(B/L)/AV/AS/AO and 3-9 XX and sortie and score an S rank twice on the boss nodes of 3-4, E-2 (Last Boss-Node Q), and E-3 (Last Boss-Node Z)"
-	},
-	"804": {
-		"code": "",
-		"name_jp": "新春任務群【拡張作戦】第一艦隊、出撃！",
-		"name": "2021 LQ4: New Year Task Force [Extra Operation] First Fleet, Sortie!",
-		"desc_jp": "【拡張作戦】精強な第一艦隊を編成、北方海域北方AL海域、西方海域カレー洋リランカ島沖、南西海域タウイタウイ泊地沖及びペナン島沖に展開、各方面の敵主力を撃滅せよ！艦隊、令和三年の海に抜錨ッ！",
-		"desc": "Form a fleet in the first fleet and sortie and score an S rank on the boss nodes of 3-5, 4-5, 7-2 (Part 2) and 7-3 (Part 2)"
-	},
 	"805": {
 		"code": "",
 		"name_jp": "旗艦「霞」北方海域を哨戒せよ！",
