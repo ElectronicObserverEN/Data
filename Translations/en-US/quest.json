@@ -1,5 +1,5 @@
 {
-	"version": "21030190",
+	"version": "21030191",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2925,6 +2925,13 @@
 		"name": "2022 Reiwa 4th year! \"Okinoshima\" defense operation activated!",
 		"desc_jp": "重巡級1隻以上、水上機母艦または軽航空巡洋艦1隻以上を配した精鋭艦隊で南西諸島海域バシー海峡、<br>東部オリョール海、沖ノ島海域の敵を撃破！沖ノ島沖に遊弋する敵を撃滅せよ！沖ノ島防衛作戦、発動！",
 		"desc": "Organize a fleet that includes 1 CA(V) and 1 AV/light aviation cruiser (Gotland) to get S rank? in the boss nodes of following maps: 2-2, 2-3, 2-4, 2-5"
+	},
+	"803": {
+		"code": "2022 LQ3",
+		"name_jp": "謹賀新年！特務編成機動部隊、西へ！",
+		"name": "Happy New Year! Special Task Force, To The West!",
+		"desc_jp": "航空母艦1隻以上、補給艦または潜水母艦1隻以上を含む特務機動部隊を編成、昭南本土航路、<br>西方海域ジャム島沖、カレー洋海域に展開！さらに、カレー洋リランカ島沖の敵戦力を撃滅せよ！",
+		"desc": "Organize a fleet with a CV(L/B) and a AO/AS  to get S rank? in the boss nodes of the following maps: 7-4, 4-1, 4-2 and 4-5"
 	},
 	"805": {
 		"code": "",
