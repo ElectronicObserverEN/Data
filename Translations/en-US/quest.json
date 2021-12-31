@@ -1,5 +1,5 @@
 {
-	"version": "21030191",
+	"version": "21030192",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2931,7 +2931,14 @@
 		"name_jp": "謹賀新年！特務編成機動部隊、西へ！",
 		"name": "Happy New Year! Special Task Force, To The West!",
 		"desc_jp": "航空母艦1隻以上、補給艦または潜水母艦1隻以上を含む特務機動部隊を編成、昭南本土航路、<br>西方海域ジャム島沖、カレー洋海域に展開！さらに、カレー洋リランカ島沖の敵戦力を撃滅せよ！",
-		"desc": "Organize a fleet with a CV(L/B) and a AO/AS  to get S rank? in the boss nodes of the following maps: 7-4, 4-1, 4-2 and 4-5"
+		"desc": "Organize a fleet with a CV(L/B) and a AO/AS to get S rank? in the boss nodes of the following maps: 7-4, 4-1, 4-2 and 4-5"
+	},
+	"804": {
+		"code": "2022 LQ4",
+		"name_jp": "新春任務群【拡張作戦】五航戦、迎春抜錨！",
+		"name": "New Year Task Force [Extra Operation] 5th CarDiv, Weigh Anchor!",
+		"desc_jp": "「翔鶴」「瑞鶴」を中核とする精鋭第五航空戦隊を、珊瑚諸島沖、北方AL海域、アルフォンシーノ方面、<br>タウイタウイ泊地沖深部、KW環礁沖海域に展開！立ち塞がる敵艦隊を鎧袖一触、殲滅せよ！",
+		"desc": "Organize a fleet with Shoukaku and Zuikaku to get S rank? in the boss nodes of the following maps: 5-2, 3-5, 3-3, 7-2-2, 6-5"
 	},
 	"805": {
 		"code": "",
