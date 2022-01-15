@@ -1,5 +1,5 @@
 {
-	"version": "21030193",
+	"version": "21030194",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4045,6 +4045,13 @@
 		"name": "Maritime escort! Protect the Hi Convoy!",
 		"desc_jp": "ヒ船団海上護衛任務：南西海域：昭南本土航路における作戦を完遂し、昭南から本土方面に<br>向かうヒ船団を、その脅威から護り抜け！艦隊、基地航空隊、出撃せよ！",
 		"desc": "Clear 7-4"
+	},
+	"968": {
+		"code": "B177",
+		"name_jp": "航空母艦「雲鷹」、抜錨せよ！",
+		"name": "Escort Carrier Unyou, Weigh Anchor!",
+		"desc_jp": "空母「雲鷹」(※八幡丸も可)を旗艦とした艦隊を編成、昭南本土航路、タウイタウイ泊地深部、<br>沖ノ島沖、中部北海域ピーコック島沖の敵戦力を撃破せよ！　航空母艦「雲鷹」、出撃！",
+		"desc": "Organize a fleet with Un'you in the fleet and score an A rank in the boss nodes of 2-5, 7-2-2, 7-4 and 6-4."
 	},
 	"1101": {
 		"code": "F96",
