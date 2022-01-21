@@ -1,5 +1,5 @@
 {
-	"version": "21030195",
+	"version": "21030196",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1532,6 +1532,13 @@
 		"name": "C27: Elite 17th Destroyer Division, Begin the Intense Training!",
 		"desc_jp": "駆逐隊演習任務：精強「第十七駆逐隊」4隻を含む艦隊を編成。新改装精強駆逐隊による<br>猛特訓を開始する！同艦隊で、本日中に演習で4回以上勝利せよ！",
 		"desc": "Use a fleet with Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai, Tanikaze D Kai, and up to 2 additional ships to obtain a B-rank (or higher) in Exercises 4 times within the same day."
+	},
+	"329": {
+		"code": "2201 LQ05",
+		"name_jp": "【節分任務】節分演習！二〇二二",
+		"name": "\"Setsubun Mission\" Setsubun Practice! 2022",
+		"desc_jp": "節分任務：軽巡または練習巡洋艦2隻、駆逐艦または海防艦2隻を含む節分艦隊を編成、<br>同艦隊を以て、節分演習を実施！本日中に演習において【S判定】を3回以上達成せよ！",
+		"desc": "Obtain 3 S-Ranks in PvP using 2 CL/CT and 2 DD/DE"
 	},
 	"330": {
 		"code": "",
@@ -3178,6 +3185,13 @@
 		"desc_jp": "戦艦2隻を中核戦力とする戦艦旗艦の艦隊を北方海域アルフォンシーノ方面に進出させ、<br>同海域の敵艦隊を撃滅、北方海域の制海権確保に努めよ！",
 		"desc": "Sortie two BB (one as flagship) and four wildcard and score an S-rank victory against World 3-3 Boss."
 	},
+	"840": {
+		"code": "2201 LQ06",
+		"name_jp": "【節分任務】節分作戦二〇二二",
+		"name": "\"Setsubun Mission\" Setsubun Operation 2022",
+		"desc_jp": "節分任務：軽空母または軽巡級を旗艦とする駆逐艦または海防艦3隻以上を含む艦隊で、節分期間の<br>鎮守府近海、鎮守府海域製油所地帯沿岸、東部オリョール海を哨戒！敵艦隊を発見、これを制圧せよ！",
+		"desc": "Organize a fleet with 1CVL/CL, 3DD/DE and up to 2XX in the fleet and score an S? rank in the boss nodes of 1-3, 1-5, and 2-3"
+	},
 	"842": {
 		"code": "",
 		"name_jp": "主力戦艦戦隊、抜錨せよ！",
@@ -4024,6 +4038,13 @@
 		"name": "Escort Carrier Unyou, Weigh Anchor!",
 		"desc_jp": "空母「雲鷹」(※八幡丸も可)を旗艦とした艦隊を編成、昭南本土航路、タウイタウイ泊地深部、<br>沖ノ島沖、中部北海域ピーコック島沖の敵戦力を撃破せよ！　航空母艦「雲鷹」、出撃！",
 		"desc": "Organize a fleet with Un'you in the fleet and score an A rank in the boss nodes of 2-5, 7-2-2, 7-4 and 6-4."
+	},
+	"969": {
+		"code": "B178",
+		"name_jp": "改特型駆逐艦「天霧改二」、出撃す！",
+		"name": "Remodelled Special Type Destroyer \"Amagiri Kai Ni\", Sortie!",
+		"desc_jp": "「天霧改二/丁」、さらに「青葉」「大井」「狭霧」中の2隻を含む艦隊で、バシー海峡、ペナン島沖深部、<br>南方海域前面、サーモン海域、中部北海域ピーコック島沖へ出撃！全力で敵艦隊を捕捉撃滅せよ！",
+		"desc": "Organize a fleet with Amagiri Kai 2/D and any 2 of Aoba, Ooi and Sagiri in the fleet and score an S? rank in the boss nodes of 2-2, 7-3 (part 2), 5-1, 5-4, and 6-4"
 	},
 	"1101": {
 		"code": "F96",
