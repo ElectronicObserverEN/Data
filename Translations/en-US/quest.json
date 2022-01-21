@@ -1,5 +1,5 @@
 {
-	"version": "21030198",
+	"version": "21030199",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1534,7 +1534,7 @@
 		"desc": "Use a fleet with Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai, Tanikaze D Kai, and up to 2 additional ships to obtain a B-rank (or higher) in Exercises 4 times within the same day."
 	},
 	"329": {
-		"code": "2201 LQ05",
+		"code": "2201LQ05",
 		"name_jp": "【節分任務】節分演習！二〇二二",
 		"name": "\"Setsubun Mission\" Setsubun Practice! 2022",
 		"desc_jp": "節分任務：軽巡または練習巡洋艦2隻、駆逐艦または海防艦2隻を含む節分艦隊を編成、<br>同艦隊を以て、節分演習を実施！本日中に演習において【S判定】を3回以上達成せよ！",
@@ -3186,7 +3186,7 @@
 		"desc": "Sortie two BB (one as flagship) and four wildcard and score an S-rank victory against World 3-3 Boss."
 	},
 	"840": {
-		"code": "2201 LQ06",
+		"code": "2201LQ06",
 		"name_jp": "【節分任務】節分作戦二〇二二",
 		"name": "\"Setsubun Mission\" Setsubun Operation 2022",
 		"desc_jp": "節分任務：軽空母または軽巡級を旗艦とする駆逐艦または海防艦3隻以上を含む艦隊で、節分期間の<br>鎮守府近海、鎮守府海域製油所地帯沿岸、東部オリョール海を哨戒！敵艦隊を発見、これを制圧せよ！",
