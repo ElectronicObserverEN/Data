@@ -1,5 +1,5 @@
 {
-	"version": "21030194",
+	"version": "21030195",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1532,13 +1532,6 @@
 		"name": "C27: Elite 17th Destroyer Division, Begin the Intense Training!",
 		"desc_jp": "駆逐隊演習任務：精強「第十七駆逐隊」4隻を含む艦隊を編成。新改装精強駆逐隊による<br>猛特訓を開始する！同艦隊で、本日中に演習で4回以上勝利せよ！",
 		"desc": "Use a fleet with Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai, Tanikaze D Kai, and up to 2 additional ships to obtain a B-rank (or higher) in Exercises 4 times within the same day."
-	},
-	"329": {
-		"code": "",
-		"name_jp": "【節分任務】節分演習！",
-		"name": "SB56: Setsubun Mission: \"Setsubun Exercises!\"",
-		"desc_jp": "節分任務：駆逐艦または海防艦2隻を含む節分艦隊を編成、同艦隊を以て、節分演習を実施する！<br>令和二年節分演習艦隊で、本日中に演習において【完全勝利】を3回以上達成せよ！",
-		"desc": "Use a fleet with at least 2 Coastal Defense Ships/Destroyers to obtain an S-rank in Exercises 3 times within the same day."
 	},
 	"330": {
 		"code": "",
@@ -3185,33 +3178,12 @@
 		"desc_jp": "戦艦2隻を中核戦力とする戦艦旗艦の艦隊を北方海域アルフォンシーノ方面に進出させ、<br>同海域の敵艦隊を撃滅、北方海域の制海権確保に努めよ！",
 		"desc": "Sortie two BB (one as flagship) and four wildcard and score an S-rank victory against World 3-3 Boss."
 	},
-	"840": {
-		"code": "",
-		"name_jp": "【節分任務】令和三年節分作戦",
-		"name": "SeBw7: \"Setsubun Mission\" 3rd Year Reiwa Setsubun Operation",
-		"desc_jp": "節分任務：軽空母または軽巡級を旗艦とする駆逐艦または海防艦3隻以上を含む艦隊で、節分期間の南西諸島海域南西諸島近海、バシー海峡、東部オリョール海を哨戒！敵艦隊を捕捉、これを撃破せよ！",
-		"desc": "Organize a fleet with CVL/CL class as the flagship, 3 DD/DE and 2 XX to get A rank in the boss nodes of following maps: 2-1, 2-2, 2-3."
-	},
-	"841": {
-		"code": "",
-		"name_jp": "【節分任務】令和三年西方海域節分作戦",
-		"name": "SeBw8: \"Setsubun Mission\" 3rd Year Reiwa Western Waters Setsubun Operation",
-		"desc_jp": "節分任務：旗艦に水上機母艦・航空巡洋艦・重巡のいずれか、さらに旗艦と同艦種の随伴艦を含む艦隊で西方海域ジャム島沖、カレー洋海域、リランカ島に展開！同方面敵艦隊主力を捕捉、これを撃滅せよ！",
-		"desc": "Use the fleet with AV/CAV/CA as the flagship and a same class ship as the flagship as a companion to get S rank once in the boss nodes of following maps: 4-1, 4-2, 4-3."
-	},
 	"842": {
 		"code": "",
 		"name_jp": "主力戦艦戦隊、抜錨せよ！",
 		"name": "B89: Battleship Squadron, Set Sail!",
 		"desc_jp": "戦艦または航空戦艦2隻以上からなる強力な戦艦戦隊を中核とした艦隊を沖ノ島海域前面に展開、<br>侵攻する敵艦隊を捕捉、これを撃滅せよ！",
 		"desc": "Sortie two (non-fast) BB/BBV and four wildcard and score an S-rank victory against World 2-4 Boss."
-	},
-	"843": {
-		"code": "",
-		"name_jp": "【節分拡張任務】令和三年節分作戦、全力出撃！",
-		"name": "SeBw9: \"Setsubun Extra Mission\" 3rd Year Reiwa Setsubun Operation, Main Force Sortie!",
-		"desc_jp": "節分拡張任務：戦艦または航空母艦を旗艦とする駆逐艦2隻以上を含む艦隊で、節分期間の南方海域珊瑚諸島沖及びサーモン海域北方、さらに中部北海域ピーコック島沖の敵を撃滅せよ(戦果拡張可能)！",
-		"desc": "Use the fleet with BB/CV as the flagship and 2 DD as the companion ships to get S rank in the boss nodes of following maps: 5-2, 5-5, 6-4."
 	},
 	"844": {
 		"code": "",
