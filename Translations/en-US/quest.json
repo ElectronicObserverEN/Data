@@ -1,5 +1,5 @@
 {
-	"version": "21030199",
+	"version": "21030200",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1995,6 +1995,13 @@
 		"desc_jp": "兵站強化拡張任務：「ブルネイ泊地沖哨戒」「海上護衛任務」「水上機前線輸送」<br>及び「強行鼠輸送作戦」「南西海域戦闘哨戒」各遠征を実施、これを成功させよ！",
 		"desc": "Complete Expeditions 5, 40, 41, 46 and E2 once each."
 	},
+	"441": {
+		"code": "2201LQ09",
+		"name_jp": "【節分任務】令和四年節分遠征任務",
+		"name": "\"Setsubun Mission\" 4th Year Reiwa Setsubun Expedition",
+		"desc_jp": "節分任務：「西方海域偵察作戦」「潜水艦派遣演習」「潜水艦派遣作戦」及び<br>「長時間対潜警戒」「ボーキサイト船団護衛」各遠征を実施、これを成功させよ！",
+		"desc": "Complete expeditions 29, 30, 45, A3, D1 while the quest is activated"
+	},
 	"442": {
 		"code": "",
 		"name_jp": "西方連絡作戦準備を実施せよ！",
@@ -3205,6 +3212,13 @@
 		"name": "B89: Battleship Squadron, Set Sail!",
 		"desc_jp": "戦艦または航空戦艦2隻以上からなる強力な戦艦戦隊を中核とした艦隊を沖ノ島海域前面に展開、<br>侵攻する敵艦隊を捕捉、これを撃滅せよ！",
 		"desc": "Sortie two (non-fast) BB/BBV and four wildcard and score an S-rank victory against World 2-4 Boss."
+	},
+	"843": {
+		"code": "2201LQ08",
+		"name_jp": "【節分拡張任務】節分作戦二〇二二、全力出撃！",
+		"name": "\"Setsubun Extra Operation\" Setsubun Operation 2022, Main Force Sortie!",
+		"desc_jp": "節分拡張任務：戦艦2隻以上または航空母艦2隻以上、さらに「大淀」または川内型軽巡を含む艦隊で、<br>節分期間の沖ノ島沖、珊瑚諸島沖、サーモン海域北方、中部北海域ピーコック島沖の敵を撃滅せよ！",
+		"desc": "Organize a fleet with 2(F)BB/CV(B) with one as flagship, either Ooyodo or a Sendai-class ship and up to 3 XX in the fleet and score an S? rank in the boss nodes of 2-5, 5-2, 5-5, and 6-4"
 	},
 	"844": {
 		"code": "",
