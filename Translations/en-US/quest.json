@@ -1,5 +1,5 @@
 {
-	"version": "21030203",
+	"version": "21030204",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3218,7 +3218,7 @@
 		"name_jp": "【節分拡張任務】節分作戦二〇二二、全力出撃！",
 		"name": "\"Setsubun Extra Operation\" Setsubun Operation 2022, Main Force Sortie!",
 		"desc_jp": "節分拡張任務：戦艦2隻以上または航空母艦2隻以上、さらに「大淀」または川内型軽巡を含む艦隊で、<br>節分期間の沖ノ島沖、珊瑚諸島沖、サーモン海域北方、中部北海域ピーコック島沖の敵を撃滅せよ！",
-		"desc": "Organize a fleet with 2(F)BB(V)/CV(B) with one as flagship, either Ooyodo or a Sendai-class ship and up to 3 XX in the fleet and score an S rank in the boss nodes of 2-5, 5-2, 5-5, and 6-4"
+		"desc": "Organize a fleet with 2(F)BB(V)/CV(B/L) with one as flagship, either Ooyodo or a Sendai-class ship and up to 3 XX in the fleet and score an S rank in the boss nodes of 2-5, 5-2, 5-5, and 6-4"
 	},
 	"844": {
 		"code": "",
