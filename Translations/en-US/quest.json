@@ -1,5 +1,5 @@
 {
-	"version": "21030200",
+	"version": "21030201",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3197,14 +3197,14 @@
 		"name_jp": "【節分任務】節分作戦二〇二二",
 		"name": "\"Setsubun Mission\" Setsubun Operation 2022",
 		"desc_jp": "節分任務：軽空母または軽巡級を旗艦とする駆逐艦または海防艦3隻以上を含む艦隊で、節分期間の<br>鎮守府近海、鎮守府海域製油所地帯沿岸、東部オリョール海を哨戒！敵艦隊を発見、これを制圧せよ！",
-		"desc": "Organize a fleet with 1CVL/CL, 3DD/DE and up to 2XX in the fleet and score an S? rank in the boss nodes of 1-3, 1-5, and 2-3"
+		"desc": "Organize a fleet with 1CVL/CL, 3DD/DE and up to 2XX in the fleet and score an A rank in the boss nodes of 1-3, 1-5, and 2-3"
 	},
 	"841": {
 		"code": "2201LQ07",
 		"name_jp": "【節分任務】南西海域節分作戦二〇二二",
 		"name": "\"Setsubun Mission\" 4th Year Reiwa South Western Waters Setsubun Operation 2022",
 		"desc_jp": "節分任務：旗艦に水上機母艦・航空巡洋艦・重巡のいずれか、さらに旗艦と同艦種の随伴艦を含む艦隊で<br>昭南本土航路を妨害する敵を制圧、さらにペナン島沖深部、タウイタウイ泊地沖深部の敵主力を撃滅せよ！",
-		"desc": "Organize a fleet with either 2 CA, or 2 CAV, or 2 AV with one as flagship, and up to 4 XX in the fleet and score an S? rank in the boss nodes of 7-2 (Part 2), 7-3 (Part 2), and 7-4"
+		"desc": "Organize a fleet with either 2 CA, or 2 CAV, or 2 AV with one as flagship, and up to 4 XX in the fleet and score an A rank in the boss nodes of 7-2 (Part 2), 7-3 (Part 2), and 7-4"
 	},
 	"842": {
 		"code": "",
@@ -3218,7 +3218,7 @@
 		"name_jp": "【節分拡張任務】節分作戦二〇二二、全力出撃！",
 		"name": "\"Setsubun Extra Operation\" Setsubun Operation 2022, Main Force Sortie!",
 		"desc_jp": "節分拡張任務：戦艦2隻以上または航空母艦2隻以上、さらに「大淀」または川内型軽巡を含む艦隊で、<br>節分期間の沖ノ島沖、珊瑚諸島沖、サーモン海域北方、中部北海域ピーコック島沖の敵を撃滅せよ！",
-		"desc": "Organize a fleet with 2(F)BB/CV(B) with one as flagship, either Ooyodo or a Sendai-class ship and up to 3 XX in the fleet and score an S? rank in the boss nodes of 2-5, 5-2, 5-5, and 6-4"
+		"desc": "Organize a fleet with 2(F)BB/CV(B) with one as flagship, either Ooyodo or a Sendai-class ship and up to 3 XX in the fleet and score an S rank in the boss nodes of 2-5, 5-2, 5-5, and 6-4"
 	},
 	"844": {
 		"code": "",
