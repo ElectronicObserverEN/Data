@@ -1,5 +1,5 @@
 {
-	"version": "21030209",
+	"version": "21030210",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4068,7 +4068,7 @@
 		"desc": "Prepare following items: a maximum improved Type 1 Land-based Attack Aircraft Model 22A, two Type 1 Land-based Attack Aircraft and three skilled crew members (The items will be consumed)."
 	},
 	"1112": {
-		"code": "",
+		"code": "F106",
 		"name_jp": "鎮守府「大掃除」祭り！",
 		"name": "Naval Base \"General Cleaning\" Festival!",
 		"desc_jp": "「小口径主砲」「中口径主砲」「大口径主砲」各x4装備を廃棄、ドラム缶(輸送用)x1、開発資材x10<br>鋼材1,800を準備せよ！(任務達成後、準備した資源・ドラム缶(輸送用)・開発資材は消費)",
