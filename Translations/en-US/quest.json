@@ -1,5 +1,5 @@
 {
-	"version": "21030207",
+	"version": "21030208",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4010,34 +4010,6 @@
 		"name": "Fight hard! Elite \"DesDiv15\" 1st Platoon",
 		"desc_jp": "第十五駆逐隊任務：「親潮改二」及び「黒潮改二」を配備した艦隊で、南西諸島海域沖ノ島海域、<br>南方海域サーモン海域、南西海域タウイタウイ泊地沖深部へ反復出撃。敵艦隊を捕捉撃滅せよ！",
 		"desc": "Organize a fleet with Oyashio Kai Ni and Kuroshio Kai Ni in the fleet and score an S rank in the boss nodes of 2-4, 5-4 and 7-2 (Part 2), twice each."
-	},
-	"962": {
-		"code": "2112 LB01",
-		"name_jp": "【Xmas限定】Merry Xmas 水雷戦隊！",
-		"name": "[Christmas Limited] Merry Xmas Destroyer Squadron!",
-		"desc_jp": "Xmas限定任務：「時雨改二」「朝雲」「山雲」の3隻、または「那珂」「朧」「潮」の3隻を含む<br>艦隊で製油所地帯沿岸、南西諸島防衛線、バシー海峡に反復出撃！敵艦隊を撃滅せよ！",
-		"desc": "Organize a fleet with \"Shigure kai 2, Asagumo and Yamagumo\" or \"Naka, Oboro and Ushio\" in the fleet and score an S? rank in the boss nodes of 1-3, 1-4, 2-2, twice each."
-	},
-	"963": {
-		"code": "2112 LB02",
-		"name_jp": "【Xmas限定】Xmas海上護衛隊、抜錨！",
-		"name": "[Christmas Limited] Christmas Maritime Escort, Weigh Anchor!",
-		"desc_jp": "Xmas限定任務：「択捉」「松輪」「佐渡」「福江」「第四号」「第三〇号」の海防艦4隻以上を含む<br>艦隊で鎮守府近海、鎮守府近海航路、ブルネイ泊地沖に反復出撃！海上護衛隊、抜錨せよ！",
-		"desc": "Organize a fleet with 4 of the following ships: Etorofu, Matsuwa, Sado, Fukae, Kaiboukan No.4, Kaiboukan No.30 in the fleet and score an S? rank in the boss nodes or each the ressource node of 1-5, 1-6, 7-1, twice each."
-	},
-	"964": {
-		"code": "2112 LB03",
-		"name_jp": "【Xmas限定】聖夜の翼、出撃せよ！",
-		"name": "[Christmas Limited] Wings of the Holy Night, sortie!",
-		"desc_jp": "Xmas限定任務：「翔鶴」「瑞鶴」「速吸」の3隻、または「鈴谷」「熊野」「Gotland」の3隻を含む<br>艦隊で沖ノ島海域、北方AL海域、珊瑚諸島沖に反復出撃！敵艦隊を捕捉、これを撃滅せよ！",
-		"desc": "Organize a fleet with \"Shoukaku, Zuikaku, and Hayasui\" or \"Suzuya, Kumano and Gotland\" in the fleet and score an S? rank in the boss nodes of 2-4, 3-5, 5-2, twice each."
-	},
-	"965": {
-		"code": "2112 LB04",
-		"name_jp": "【Xmas拡張作戦】Xmas最終作戦、発動！",
-		"name": "[Christmas limited (Extra operation)] Christmas final operation, Commence!",
-		"desc_jp": "Xmas拡張作戦：「Sheffield」「Commandant Teste」「衣笠」「鹿島」「球磨」「酒匂」中の3隻以上<br>を含むXmas合同艦隊でカレー洋リランカ島沖、サブ島沖海域に反復出撃！敵を殲滅せよ！",
-		"desc": "Organize a fleet with 3 of the following ships: Sheffield, Commandant Teste, Kinugasa, Kashima, Kuma, Sakawa in the fleet and score an S? rank in the boss nodes of 4-5, 5-3, twice each."
 	},
 	"966": {
 		"code": "B175",
