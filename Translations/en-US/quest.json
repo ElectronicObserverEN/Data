@@ -1,5 +1,5 @@
 {
-	"version": "21030211",
+	"version": "21030212",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3751,6 +3751,13 @@
 		"name": "B152: Special Aircraft Carrier Mission: Our Carrier Divisions, Peerless and Unmatched!",
 		"desc_jp": "航空母艦特別任務：精強な正規空母2隻以上を擁する航空戦隊を中核とした機動部隊の精鋭で、<br>南西諸島海域沖ノ島海域、同沖ノ島沖、西方海域リランカ島に出撃！各方面の敵戦力を撃滅せよ！",
 		"desc": "Sortie a fleet with 2 Standard Aircraft Carriers and up to 4 additional ships to Worlds 2-4, 2-5, and 4-3. Obtain an S-rank at each boss node."
+	},
+	"925": {
+		"code": "B153",
+		"name_jp": "改加賀型航空母艦「加賀改二」、抜錨！",
+		"name": "Remodeled Kaga-class Aircraft Carrier \"Kaga K2\", Set Sail!",
+		"desc_jp": "旗艦「加賀改二」型航空母艦、僚艦に正規空母1隻以上を含む機動部隊を編成、西方海域カスガダマ島、<br>カレー洋リランカ島沖、北方海域全域、南方海域珊瑚諸島沖に展開！各方面の敵戦力を撃滅せよ！",
+		"desc": "Assemble a fleet containing Kaga Kai Ni/E/Go as flagship, 1 CV, and up to 4 XX, then S rank the boss nodes of 3-4, 4-4, 4-5, and 5-2."
 	},
 	"926": {
 		"code": "",
