@@ -1,5 +1,5 @@
 {
-	"version": "21030213",
+	"version": "21030214",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2722,6 +2722,13 @@
 		"name": "F74: Research on a New Type of Main Battery for Aviation Battleships",
 		"desc_jp": "秘書艦「伊勢改二」一番スロに「試製41cm三連装砲」改修max搭載、「41cm連装砲」x3 「22号対水上<br>電探」x2を廃棄、開発資材x40、高速建造材x50、鋼材4,500、新型砲熕兵装資材x2を準備せよ！",
 		"desc": "Have 40 Development Materials, 50 Flamethrowers, 4500 Steel and 2 New Model Artillery Armament Materials. Set Ise Kai Ni as secretary and equip her with a ★max Prototype 41cm Triple Gun Mount in her FIRST slot. Scrap two Type 22 Surface Radars and three 41cm Twin Gun Mounts."
+	},
+	"684": {
+		"code": "F75",
+		"name_jp": "精鋭「航空戦艦」彗星隊の編成",
+		"name": "Organize the Elite \"Battle Carrier\" Suisei Air Group",
+		"desc_jp": "精鋭彗星隊編成：旗艦「伊勢改二」第三装備スロに「彗星二二型(六三四空)」搭載、熟練搭乗員、開発資材<br>x30、新型航空兵装資材を用意、「九九艦爆」「彗星」各x3廃棄、ボーキサイト一定量確保せよ！",
+		"desc": "Set Ise kai ni as Secretary, equipped with a Suisei Model 22 (634 Air Group) in the third slot, scrap 3 Type 99 Dive Bombers and 3 Suisei, and prepare 3,000 bauxite, 1 Skilled Crew Member, 30 devmats and 1 New Model Aerial Armament Material."
 	},
 	"685": {
 		"code": "",
