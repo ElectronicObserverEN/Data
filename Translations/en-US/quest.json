@@ -1,5 +1,5 @@
 {
-	"version": "21030211",
+	"version": "21030214",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1230,7 +1230,7 @@
 		"name_jp": "精鋭無比「第一戦隊」まかり通る！【拡張作戦】",
 		"name": "Unrivaled \"First Squadron\" coming through! (Extra Operation)",
 		"desc_jp": "第一艦隊第一戦隊、改装主力戦艦「長門改二」及び「陸奥改二」を中核とした精鋭水上打撃艦隊を展開、<br>南西諸島海域沖ノ島沖、南方海域サーモン海域北方、中部海域ピーコック島沖の敵戦力を撃滅せよ！",
-		"desc": "Organize a fleet with Nagato Kai Ni and Mutsu Kai Ni in the fleet and score an S rank in the boss nodes of 2-5, 5-5, and 6-4."
+		"desc": "Assemble a fleet containing Nagato Kai Ni and Mutsu Kai Ni with either as Secretary and Second ship, and up to 4 XX, then S rank the boss nodes of 2-5, 5-5, and 6-4."
 	},
 	"283": {
 		"code": "",
@@ -1541,7 +1541,7 @@
 		"desc": "Use a fleet with Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai, Tanikaze D Kai, and up to 2 additional ships to obtain a B-rank (or higher) in Exercises 4 times within the same day."
 	},
 	"329": {
-		"code": "2201LQ05",
+		"code": "2201LC01",
 		"name_jp": "【節分任務】節分演習！二〇二二",
 		"name": "\"Setsubun Mission\" Setsubun Practice! 2022",
 		"desc_jp": "節分任務：軽巡または練習巡洋艦2隻、駆逐艦または海防艦2隻を含む節分艦隊を編成、<br>同艦隊を以て、節分演習を実施！本日中に演習において【S判定】を3回以上達成せよ！",
@@ -2003,7 +2003,7 @@
 		"desc": "Complete Expeditions 5, 40, 41, 46 and E2 once each."
 	},
 	"441": {
-		"code": "2201LQ09",
+		"code": "2201LD01",
 		"name_jp": "【節分任務】令和四年節分遠征任務",
 		"name": "\"Setsubun Mission\" 4th Year Reiwa Setsubun Expedition",
 		"desc_jp": "節分任務：「西方海域偵察作戦」「潜水艦派遣演習」「潜水艦派遣作戦」及び<br>「長時間対潜警戒」「ボーキサイト船団護衛」各遠征を実施、これを成功させよ！",
@@ -2728,7 +2728,7 @@
 		"name_jp": "精鋭「航空戦艦」彗星隊の編成",
 		"name": "Organize the Elite \"Battle Carrier\" Suisei Air Group",
 		"desc_jp": "精鋭彗星隊編成：旗艦「伊勢改二」第三装備スロに「彗星二二型(六三四空)」搭載、熟練搭乗員、開発資材<br>x30、新型航空兵装資材を用意、「九九艦爆」「彗星」各x3廃棄、ボーキサイト一定量確保せよ！",
-		"desc": "Have your secretary flagship Shinshuu Maru equip a Suisei Model 22 (634 Air Group) in the third slot and then proceed to scrap 3 Type 99 Dive Bombers and 3 Suisei, and prepare 3,000 bauxite, 1 Skilled Crew Member, 30 devmats and 1 New Model Aerial Armament Material (All resources and Materials will be consumed upon completion)"
+		"desc": "Set Ise kai ni as Secretary, equipped with a Suisei Model 22 (634 Air Group) in the third slot, scrap 3 Type 99 Dive Bombers and 3 Suisei, and prepare 3,000 bauxite, 1 Skilled Crew Member, 30 devmats and 1 New Model Aerial Armament Material."
 	},
 	"685": {
 		"code": "",
@@ -2932,13 +2932,6 @@
 		"name": "Continued: Carry out Mogami-class Modernization work",
 		"desc_jp": "最上型近代化改修：鋼材1,200及び弾薬1,200を準備、「最上型」を近代化改修！<br>[重巡級]x4隻同時使用で2回成功させよ！※任務達成後、準備資源は消費します。",
 		"desc": "Have 1,200 Steel, 1,200 Ammo and modernize a Mogami-class Heavy/Aviation Cruiser with 4 CAs at once twice."
-	},
-	"802": {
-		"code": "2022 LQ2",
-		"name_jp": "2022年令和四年！「沖ノ島」防衛作戦、発動！",
-		"name": "2022 Reiwa 4th year! \"Okinoshima\" defense operation activated!",
-		"desc_jp": "重巡級1隻以上、水上機母艦または軽航空巡洋艦1隻以上を配した精鋭艦隊で南西諸島海域バシー海峡、<br>東部オリョール海、沖ノ島海域の敵を撃破！沖ノ島沖に遊弋する敵を撃滅せよ！沖ノ島防衛作戦、発動！",
-		"desc": "Organize a fleet that includes 1 CA(V) and 1 AV/light aviation cruiser (Gotland) to get S rank? in the boss nodes of following maps: 2-2, 2-3, 2-4, 2-5"
 	},
 	"805": {
 		"code": "",
@@ -3186,14 +3179,14 @@
 		"desc": "Sortie two BB (one as flagship) and four wildcard and score an S-rank victory against World 3-3 Boss."
 	},
 	"840": {
-		"code": "2201LQ06",
+		"code": "2201LB05",
 		"name_jp": "【節分任務】節分作戦二〇二二",
 		"name": "\"Setsubun Mission\" Setsubun Operation 2022",
 		"desc_jp": "節分任務：軽空母または軽巡級を旗艦とする駆逐艦または海防艦3隻以上を含む艦隊で、節分期間の<br>鎮守府近海、鎮守府海域製油所地帯沿岸、東部オリョール海を哨戒！敵艦隊を発見、これを制圧せよ！",
 		"desc": "Organize a fleet with 1CVL/CL as flagship, 3DD/DE and up to 2XX in the fleet and score an A rank in the boss nodes of 1-3, 1-5, and 2-3"
 	},
 	"841": {
-		"code": "2201LQ07",
+		"code": "2201LB06",
 		"name_jp": "【節分任務】南西海域節分作戦二〇二二",
 		"name": "\"Setsubun Mission\" 4th Year Reiwa South Western Waters Setsubun Operation 2022",
 		"desc_jp": "節分任務：旗艦に水上機母艦・航空巡洋艦・重巡のいずれか、さらに旗艦と同艦種の随伴艦を含む艦隊で<br>昭南本土航路を妨害する敵を制圧、さらにペナン島沖深部、タウイタウイ泊地沖深部の敵主力を撃滅せよ！",
@@ -3207,7 +3200,7 @@
 		"desc": "Sortie two (non-fast) BB/BBV and four wildcard and score an S-rank victory against World 2-4 Boss."
 	},
 	"843": {
-		"code": "2201LQ08",
+		"code": "2201LB07",
 		"name_jp": "【節分拡張任務】節分作戦二〇二二、全力出撃！",
 		"name": "\"Setsubun Extra Operation\" Setsubun Operation 2022, Main Force Sortie!",
 		"desc_jp": "節分拡張任務：戦艦2隻以上または航空母艦2隻以上、さらに「大淀」または川内型軽巡を含む艦隊で、<br>節分期間の沖ノ島沖、珊瑚諸島沖、サーモン海域北方、中部北海域ピーコック島沖の敵を撃滅せよ！",
@@ -3744,6 +3737,13 @@
 		"name": "B152: Special Aircraft Carrier Mission: Our Carrier Divisions, Peerless and Unmatched!",
 		"desc_jp": "航空母艦特別任務：精強な正規空母2隻以上を擁する航空戦隊を中核とした機動部隊の精鋭で、<br>南西諸島海域沖ノ島海域、同沖ノ島沖、西方海域リランカ島に出撃！各方面の敵戦力を撃滅せよ！",
 		"desc": "Sortie a fleet with 2 Standard Aircraft Carriers and up to 4 additional ships to Worlds 2-4, 2-5, and 4-3. Obtain an S-rank at each boss node."
+	},
+	"925": {
+		"code": "B153",
+		"name_jp": "改加賀型航空母艦「加賀改二」、抜錨！",
+		"name": "Remodeled Kaga-class Aircraft Carrier \"Kaga K2\", Set Sail!",
+		"desc_jp": "旗艦「加賀改二」型航空母艦、僚艦に正規空母1隻以上を含む機動部隊を編成、西方海域カスガダマ島、<br>カレー洋リランカ島沖、北方海域全域、南方海域珊瑚諸島沖に展開！各方面の敵戦力を撃滅せよ！",
+		"desc": "Assemble a fleet containing Kaga Kai Ni/E/Go as flagship, 1 CV, and up to 4 XX, then S rank the boss nodes of 3-4, 4-4, 4-5, and 5-2."
 	},
 	"926": {
 		"code": "",
