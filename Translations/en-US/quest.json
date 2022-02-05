@@ -1,5 +1,5 @@
 {
-	"version": "21030210",
+	"version": "21030211",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1224,6 +1224,13 @@
 		"name": "B129: Unrivaled 1st Squadron, Coming Through!",
 		"desc_jp": "第一艦隊第一戦隊、改装主力戦艦「長門改二」及び「陸奥改二」を中核とした水上打撃艦隊を編成、<br>バシー海峡、北方AL海域戦闘哨戒、カレー洋リランカ島沖及び南方海域前面の敵を捕捉撃滅せよ！",
 		"desc": "Sortie a fleet with Mutsu Kai Ni and Nagato Kai Ni as flagship and second ship and up to 4 additional ships to World 2-2, 3-5, 4-5 and 5-1. Obtain a S-rank at each boss node."
+	},
+	"282": {
+		"code": "B130",
+		"name_jp": "精鋭無比「第一戦隊」まかり通る！【拡張作戦】",
+		"name": "Unrivaled \"First Squadron\" coming through! (Extra Operation)",
+		"desc_jp": "第一艦隊第一戦隊、改装主力戦艦「長門改二」及び「陸奥改二」を中核とした精鋭水上打撃艦隊を展開、<br>南西諸島海域沖ノ島沖、南方海域サーモン海域北方、中部海域ピーコック島沖の敵戦力を撃滅せよ！",
+		"desc": "Organize a fleet with Nagato Kai Ni and Mutsu Kai Ni in the fleet and score an S rank in the boss nodes of 2-5, 5-5, and 6-4."
 	},
 	"283": {
 		"code": "",
@@ -2716,6 +2723,13 @@
 		"desc_jp": "秘書艦「伊勢改二」一番スロに「試製41cm三連装砲」改修max搭載、「41cm連装砲」x3 「22号対水上<br>電探」x2を廃棄、開発資材x40、高速建造材x50、鋼材4,500、新型砲熕兵装資材x2を準備せよ！",
 		"desc": "Have 40 Development Materials, 50 Flamethrowers, 4500 Steel and 2 New Model Artillery Armament Materials. Set Ise Kai Ni as secretary and equip her with a ★max Prototype 41cm Triple Gun Mount in her FIRST slot. Scrap two Type 22 Surface Radars and three 41cm Twin Gun Mounts."
 	},
+	"684": {
+		"code": "F75",
+		"name_jp": "精鋭「航空戦艦」彗星隊の編成",
+		"name": "Organize the Elite \"Battle Carrier\" Suisei Air Group",
+		"desc_jp": "精鋭彗星隊編成：旗艦「伊勢改二」第三装備スロに「彗星二二型(六三四空)」搭載、熟練搭乗員、開発資材<br>x30、新型航空兵装資材を用意、「九九艦爆」「彗星」各x3廃棄、ボーキサイト一定量確保せよ！",
+		"desc": "Have your secretary flagship Shinshuu Maru equip a Suisei Model 22 (634 Air Group) in the third slot and then proceed to scrap 3 Type 99 Dive Bombers and 3 Suisei, and prepare 3,000 bauxite, 1 Skilled Crew Member, 30 devmats and 1 New Model Aerial Armament Material (All resources and Materials will be consumed upon completion)"
+	},
 	"685": {
 		"code": "",
 		"name_jp": "駆逐艦主砲兵装の戦時改修",
@@ -2919,33 +2933,12 @@
 		"desc_jp": "最上型近代化改修：鋼材1,200及び弾薬1,200を準備、「最上型」を近代化改修！<br>[重巡級]x4隻同時使用で2回成功させよ！※任務達成後、準備資源は消費します。",
 		"desc": "Have 1,200 Steel, 1,200 Ammo and modernize a Mogami-class Heavy/Aviation Cruiser with 4 CAs at once twice."
 	},
-	"801": {
-		"code": "2022 LQ1",
-		"name_jp": "新春！令和四年「精鋭水雷戦隊」出撃始め！",
-		"name": "New Year! Reiwa's 4th Year [Elite Torpedo Squadron], Sortie!",
-		"desc_jp": "軽巡級旗艦の精鋭水雷戦隊を鎮守府海域南西諸島沖及び製油所地帯沿岸、南西諸島防衛線、さらに<br>鎮守府近海航路、南西諸島海域南西諸島近海に新春展開！令和四年の暁に勝利を刻みなさい！",
-		"desc": "Organize a torpedo squadron with a CL as the flagship and 1-5 DD to get S rank? in the boss nodes or reach the final resource node of following maps: 1-2, 1-3, 1-4, 1-6 and 2-1"
-	},
 	"802": {
 		"code": "2022 LQ2",
 		"name_jp": "2022年令和四年！「沖ノ島」防衛作戦、発動！",
 		"name": "2022 Reiwa 4th year! \"Okinoshima\" defense operation activated!",
 		"desc_jp": "重巡級1隻以上、水上機母艦または軽航空巡洋艦1隻以上を配した精鋭艦隊で南西諸島海域バシー海峡、<br>東部オリョール海、沖ノ島海域の敵を撃破！沖ノ島沖に遊弋する敵を撃滅せよ！沖ノ島防衛作戦、発動！",
 		"desc": "Organize a fleet that includes 1 CA(V) and 1 AV/light aviation cruiser (Gotland) to get S rank? in the boss nodes of following maps: 2-2, 2-3, 2-4, 2-5"
-	},
-	"803": {
-		"code": "2022 LQ3",
-		"name_jp": "謹賀新年！特務編成機動部隊、西へ！",
-		"name": "Happy New Year! Special Task Force, To The West!",
-		"desc_jp": "航空母艦1隻以上、補給艦または潜水母艦1隻以上を含む特務機動部隊を編成、昭南本土航路、<br>西方海域ジャム島沖、カレー洋海域に展開！さらに、カレー洋リランカ島沖の敵戦力を撃滅せよ！",
-		"desc": "Organize a fleet with a CV(L/B) and a AO/AS to get S rank? in the boss nodes of the following maps: 7-4, 4-1, 4-2 and 4-5"
-	},
-	"804": {
-		"code": "2022 LQ4",
-		"name_jp": "新春任務群【拡張作戦】五航戦、迎春抜錨！",
-		"name": "New Year Task Force [Extra Operation] 5th CarDiv, Weigh Anchor!",
-		"desc_jp": "「翔鶴」「瑞鶴」を中核とする精鋭第五航空戦隊を、珊瑚諸島沖、北方AL海域、アルフォンシーノ方面、<br>タウイタウイ泊地沖深部、KW環礁沖海域に展開！立ち塞がる敵艦隊を鎧袖一触、殲滅せよ！",
-		"desc": "Organize a fleet with Shoukaku and Zuikaku (one must be flagship and the other must to be second ship) to get S rank? in the boss nodes of the following maps: 5-2, 3-5, 3-3, 7-2-2, 6-5"
 	},
 	"805": {
 		"code": "",
