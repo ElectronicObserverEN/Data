@@ -1,5 +1,5 @@
 {
-	"version": "21030214",
+	"version": "21030215",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -415,7 +415,7 @@
 		"SO3C Seamew改": "SO3C Seamew Kai",
 		"零式艦戦21型(台南空)": "Type 0 Fighter Model 21 (Tainan Air Group)",
 		"零式艦戦32型(台南空)": "Type 0 Fighter Model 32 (Tainan Air Group)",
-		"零式艦戦22型(251空)": "ype 0 Fighter Model 22 (251 Air Group)",
+		"零式艦戦22型(251空)": "Type 0 Fighter Model 22 (251 Air Group)",
 		"SBD-5": "SBD-5",
 		"SB2C-3": "SB2C-3",
 		"SB2C-5": "SB2C-5",
@@ -565,7 +565,10 @@
 		"二式複戦 屠龍": "Type 2 Two-seat Fighter Toryuu",
 		"二式複戦 屠龍 丙型": "Type 2 Two-seat Fighter Toryuu Model C",
 		"零式艦戦64型(複座KMX搭載機)": "Type 0 Fighter Model 64 (Two-seat w/ KMX)",
-		"特大発動艇+一式砲戦車": "Toku Daihatsu Landing Craft + Type 1 Gun Tank"
+		"特大発動艇+一式砲戦車": "Toku Daihatsu Landing Craft + Type 1 Gun Tank",
+		"13号対空電探改(後期型)": "Type 13 Air Radar Kai (Late Model)",
+		"三式指揮連絡機改": "Type 3 Command Liaison Aircraft Kai",
+		"キ96": "Ki-96"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",
