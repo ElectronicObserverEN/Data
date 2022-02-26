@@ -1,5 +1,5 @@
 {
-	"version": "21030116",
+	"version": "21030117",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -429,7 +429,9 @@
 		"軽巡新棲姫": "New Light Cruiser Princess",
 		"ルンガ沖重巡棲姫": "Lunga Point Heavy Cruiser Princess",
 		"昭南": "Shounan",
-		"潜水鮫水鬼": "Submarine Shark Water Demon Flagship"
+		"潜水鮫水鬼": "Submarine Shark Water Demon Flagship",
+		"梅": "Ume",
+		"山汐丸": "Yamashio Maru"
 	},
 	"suffix": {
 		"改": "Kai",
