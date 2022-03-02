@@ -1,5 +1,5 @@
 {
-	"version": "21030220",
+	"version": "21030221",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3555,6 +3555,13 @@
 		"name": "[Peach Festival] 2022 combat patrols in the Nansei Islands sea!",
 		"desc_jp": "【桃の節句作戦】精鋭駆逐艦または海防艦計4隻を含む艦隊で、南西諸島近海、バシー海峡、<br>東部オリョール海に反復出撃！各海域の敵艦隊を捕捉撃滅、制海権の確保を図れ！",
 		"desc": "Have 4 DD/DE in the fleet and score an S rank on 2-1, 2-2, and 2-3 twice each"
+	},
+	"908": {
+		"code": "",
+		"name_jp": "【桃の節句】決戦！敵機動部隊を叩け！2022",
+		"name": "[Peach Festival] 2022 decisive battle! Smash the enemy task force!",
+		"desc_jp": "【桃の節句作戦】航空母艦1隻以上、重巡または航空巡洋艦1隻以上、軽巡1隻以上を含む精強艦隊で、<br>南西諸島海域沖ノ島海域、沖ノ島沖、タウイタウイ泊地沖深部に反復出撃、敵艦隊主力を撃滅せよ！",
+		"desc": "Have a CV(L/B), a CA(V) and a CL in the fleet and score an S rank on 2-4, 2-5, and 7-2-2 twice each"
 	},
 	"910": {
 		"code": "",
