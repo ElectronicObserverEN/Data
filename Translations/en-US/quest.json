@@ -1,5 +1,5 @@
 {
-	"version": "21030221",
+	"version": "21030222",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1681,7 +1681,7 @@
 		"desc": "Organize a fleet consisting of 1 AV, 1 CA(V), 1 CL(T)/CT, 2 DD, 1 XX and score 4 S ranks in PVP."
 	},
 	"350": {
-		"code": "C54",
+		"code": "C55",
 		"name_jp": "精鋭「第七駆逐隊」演習開始！",
 		"name": "Elite \"7th Destroyer Division\", Commence Exercises!",
 		"desc_jp": "七駆演習任務：第七駆逐隊「朧」「曙」「漣」「潮」の4隻を含む演習艦隊を編成、<br>本日中に【A判定】勝利3回以上達成せよ。精鋭第七駆逐隊、演習開始！",
