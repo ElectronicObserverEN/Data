@@ -1,5 +1,5 @@
 {
-	"version": "21030117",
+	"version": "21030118",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -431,7 +431,12 @@
 		"昭南": "Shounan",
 		"潜水鮫水鬼": "Submarine Shark Water Demon Flagship",
 		"梅": "Ume",
-		"山汐丸": "Yamashio Maru"
+		"山汐丸": "Yamashio Maru",
+		"深海梅棲姫": "Abyssal Plum Princess",
+		"横浜岸壁棲姫": "Yokohama Wharf Princess",
+		"深海玉棲姫": "Abyssal Jade Princess",
+		"超重爆飛行場姫": "Super Heavy Bombing Airfield Princess",
+		"防空埋護冬姫": "Winter Entombed Anti-Air Guardian Princess"
 	},
 	"suffix": {
 		"改": "Kai",
@@ -466,7 +471,8 @@
 		"夏mode": "Summer Mode",
 		"夏季上陸mode": "Summer Landing Mode",
 		"(量産型)": "(Mass produced model)",
-		"II": "II"
+		"II": "II",
+		"III": "III"
 	},
 	"stype": {
 		"海防艦": "DE",
