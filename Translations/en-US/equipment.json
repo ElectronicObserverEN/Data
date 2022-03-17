@@ -1,5 +1,5 @@
 {
-	"version": "21030215",
+	"version": "21030216",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -568,7 +568,13 @@
 		"特大発動艇+一式砲戦車": "Toku Daihatsu Landing Craft + Type 1 Gun Tank",
 		"13号対空電探改(後期型)": "Type 13 Air Radar Kai (Late Model)",
 		"三式指揮連絡機改": "Type 3 Command Liaison Aircraft Kai",
-		"キ96": "Ki-96"
+		"キ96": "Ki-96",
+		"キ102乙": "Ki-102 B",
+		"深海5inch連装砲D型": "Abyssal 5inch Twin Gun Mount Model D",
+		"深海五連装(酸素)魚雷後期型": "Abyssal Quintuple (Oxygen) Torpedo Mount Late Model",
+		"深海空超要塞": "Aybssal Sky Super Fortress",
+		"深海空超要塞改": "Abyssal Sky Super Fortress Kai",
+		"深海四連装(酸素)魚雷後期型": "Abyssal Quadruple (Oxygen) Torpedo Mount Late Model"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",
