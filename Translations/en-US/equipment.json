@@ -1,5 +1,5 @@
 {
-	"version": "21030216",
+	"version": "21030217",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -574,7 +574,9 @@
 		"深海五連装(酸素)魚雷後期型": "Abyssal Quintuple (Oxygen) Torpedo Mount Late Model",
 		"深海空超要塞": "Aybssal Sky Super Fortress",
 		"深海空超要塞改": "Abyssal Sky Super Fortress Kai",
-		"深海四連装(酸素)魚雷後期型": "Abyssal Quadruple (Oxygen) Torpedo Mount Late Model"
+		"深海四連装(酸素)魚雷後期型": "Abyssal Quadruple (Oxygen) Torpedo Mount Late Model",
+		"深海戦爆複座鷹": "Abyssal Two-seat Fighter-bomber Hawk",
+		"深海戦爆複座鷹改": "Abyssal Two-seat Fighter-bomber Hawk Kai"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",
