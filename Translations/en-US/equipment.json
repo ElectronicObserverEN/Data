@@ -1,5 +1,5 @@
 {
-	"version": "21030217",
+	"version": "21030218",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -212,7 +212,7 @@
 		"彩雲(東カロリン空)": "Saiun (East Caroline Air Group)",
 		"後期型艦首魚雷(6門)": "Late Model Bow Torpedo (6 tubes)",
 		"熟練聴音員+後期型艦首魚雷(6門)": "Skilled Sonar Personnel+Late Model Bow Torpedo (6 tubes)",
-		"Ro.44水上戦闘機bis": "Ro.44 Seaplane Fighter Bis‎",
+		"Ro.44水上戦闘機bis": "Ro.44 Seaplane Fighter bis",
 		"二式水戦改(熟練)": "Type 2 Seaplane Fighter Kai (Skilled)",
 		"強風改": "Kyoufuu Kai",
 		"零式艦戦63型(爆戦)": "Zero Fighter-bomber Model 63",
