@@ -1,5 +1,5 @@
 {
-	"version": "21030224",
+	"version": "21030225",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3927,6 +3927,13 @@
 		"desc_jp": "「天霧改二/丁」、さらに「青葉」「大井」「狭霧」中の2隻を含む艦隊で、バシー海峡、ペナン島沖深部、<br>南方海域前面、サーモン海域、中部北海域ピーコック島沖へ出撃！全力で敵艦隊を捕捉撃滅せよ！",
 		"desc": "Organize a fleet with Amagiri Kai 2/D and any 2 of Aoba, Ooi and Sagiri in the fleet and score an S? rank in the boss nodes of 2-2, 7-3 (part 2), 5-1, 5-4, and 6-4"
 	},
+	"970": {
+		"code": "",
+		"name_jp": "第十六戦隊、改装「浦波改二」出撃します！",
+		"name": "16th Squadron, Uranami Kai Ni, sortie!",
+		"desc_jp": "「浦波改二」、さらに「青葉」「鬼怒」を含む艦隊で、南西諸島防衛線、東部オリョール海、<br>沖ノ島沖、タウイタウイ泊地沖深部、昭南本土航路へ出撃！敵艦隊を捕捉撃滅せよ！",
+		"desc": "Organize a fleet with Uranami Kai Ni, Kinu and Aoba in your fleet and score an S rank at the boss nodes on 1-4, 2-3, 2-5, 7-2 (Part 2) and 7-4"
+	},
 	"1101": {
 		"code": "F96",
 		"name_jp": "海軍工廠の再整備",
@@ -3996,5 +4003,33 @@
 		"name": "Naval Base \"General Cleaning\" Festival!",
 		"desc_jp": "「小口径主砲」「中口径主砲」「大口径主砲」各x4装備を廃棄、ドラム缶(輸送用)x1、開発資材x10<br>鋼材1,800を準備せよ！(任務達成後、準備した資源・ドラム缶(輸送用)・開発資材は消費)",
 		"desc": "Scrap 4 small/4 medium/4 large guns. Have 1 Drum Canister, 10x Development Material, 1800 bauxite (it will be consumed upon completion)."
+	},
+	"1113": {
+		"code": "",
+		"name_jp": "「無線誘導弾」装備新型襲撃機の実戦配備",
+		"name": "Actual deployment of assault aircraft equipped with \"guided missiles\"",
+		"desc_jp": "イ号一型乙誘導弾搭載機の開発：陸軍新鋭襲撃機「キ102乙」x1及び「二式複戦 屠龍 丙型」x1、<br>熟練搭乗員x2、さらに新型航空兵装資材x4を準備せよ！(任務達成後、用意した資材等は消滅します)",
+		"desc": "Have 1x Ki-102 B, 1x Type 2 Two-seat Fighter Toryuu Model C, 2x Skilled Crew Member, 4x New Model Aviation Material (All resources and Materials will be consumed upon completion)"
+	},
+	"9997": {
+		"code": "",
+		"name_jp": "Arsenal Model 2",
+		"name": "Arsenal Model 2",
+		"desc_jp": "Have XX (All resources and Materials will be consumed upon completion)",
+		"desc": "Have XX (All resources and Materials will be consumed upon completion)"
+	},
+	"9998": {
+		"code": "",
+		"name_jp": "Arsenal Model 1",
+		"name": "Arsenal Model 1",
+		"desc_jp": "Have your secretary flagship XX equip XX in the first slot and then proceed to scrap XX and have XX (All resources and Materials will be consumed upon completion)",
+		"desc": "Have your secretary flagship XX equip XX in the first slot and then proceed to scrap XX and have XX (All resources and Materials will be consumed upon completion)"
+	},
+	"9999": {
+		"code": "",
+		"name_jp": "Battle model",
+		"name": "Battle model",
+		"desc_jp": "Organize a fleet with XX in your fleet and score an S rank at the boss nodes on XX, and XX (Part X)",
+		"desc": "Organize a fleet with XX in your fleet and score an S rank at the boss nodes on XX, and XX (Part X)"
 	}
 }
