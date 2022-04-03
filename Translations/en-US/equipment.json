@@ -1,5 +1,5 @@
 {
-	"version": "21030218",
+	"version": "21030219",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -572,11 +572,13 @@
 		"キ102乙": "Ki-102 B",
 		"深海5inch連装砲D型": "Abyssal 5inch Twin Gun Mount Model D",
 		"深海五連装(酸素)魚雷後期型": "Abyssal Quintuple (Oxygen) Torpedo Mount Late Model",
-		"深海空超要塞": "Aybssal Sky Super Fortress",
+		"深海空超要塞": "Abyssal Sky Super Fortress",
 		"深海空超要塞改": "Abyssal Sky Super Fortress Kai",
 		"深海四連装(酸素)魚雷後期型": "Abyssal Quadruple (Oxygen) Torpedo Mount Late Model",
 		"深海戦爆複座鷹": "Abyssal Two-seat Fighter-bomber Hawk",
-		"深海戦爆複座鷹改": "Abyssal Two-seat Fighter-bomber Hawk Kai"
+		"深海戦爆複座鷹改": "Abyssal Two-seat Fighter-bomber Hawk Kai",
+		"キ102乙改+イ号一型乙 誘導弾": "Ki-102 B Kai + No.1 Model 1B Guided Missile",
+		"試製 長12.7cm連装砲A型改四": "Prototype Long-barrel 12.7cm Twin Gun Mount Model A Kai 4"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",
