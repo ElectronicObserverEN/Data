@@ -1,5 +1,0 @@
-﻿2017/11/26 00:00:00
-3.0.4
-* Added auto-updater function.
-* Added additional info on fleet tooltip.
-* Fixed bug relating to the battle predictor.
