@@ -4,16 +4,7 @@
 	"note": "Check github for release notes: https://github.com/gre4bee/ElectronicObserver/releases",
 	"url": "https://github.com/gre4bee/ElectronicObserver/releases/download/5.1.4/ElectronicObserver514EN.zip",
 	"hash": "5AEF3C6047420842B5FBC646E2E1D78267275BAA54066D564D6712544DF143E7",
-	"tl_ver": {
-		"equipment": "21030219",
-		"equipment_type": "1.3.83",
-		"expedition": "20071602",
-		"nodes": 20071503,
-		"operation": "20071501",
-		"quest": "21030229",
-		"ship": "21030119",
-		"ship_type": "1.1.24"
-	},
+	"nodes": 20071503,
 	"QuestTrackers": 14,
 	"kancolle_mt": "2021/08/20 11:00:00",
 	"event_state": 1
