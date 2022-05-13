@@ -1,5 +1,5 @@
 {
-	"version": "21030235",
+	"version": "21030236",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3968,6 +3968,13 @@
 		"name": "Isonami Kai Ni, weigh anchor!",
 		"desc_jp": "改装特I型駆逐艦「磯波改二」を含む有力な艦隊で、鎮守府海域南西諸島沖、製油所地帯沿岸、<br>さらに南方海域前面に展開！各作戦海域の敵艦隊を捕捉、これを撃滅せよ！",
 		"desc": "Organize a fleet with Isonami Kai Ni in your fleet and score an S rank at the boss nodes on 1-2, 1-3 and 5-1"
+	},
+	"975": {
+		"code": "By12",
+		"name_jp": "精鋭「第十九駆逐隊」、全力出撃！",
+		"name": "Elite DesDiv 19, sortie!",
+		"desc_jp": "精鋭第十九駆逐隊「磯波改二」「浦波改二」「綾波改二」「敷波改二」を含む艦隊で、鎮守府近海、<br>南西諸島東部オリョール海、北方キス島沖、南方サブ島沖海域に出撃！敵艦隊を捕捉撃滅せよ！",
+		"desc": "Organize a fleet with Isonami Kai Ni, Uranami Kai Ni, Ayanami Kai Ni, Shikinami Kai Ni in your fleet and score an S rank at the boss nodes on 1-5, 2-3, 3-2 and 5-3"
 	},
 	"1101": {
 		"code": "F96",
