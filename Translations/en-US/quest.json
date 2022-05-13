@@ -1,5 +1,5 @@
 {
-	"version": "21030234",
+	"version": "21030235",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1721,6 +1721,13 @@
 		"name": "Elite \"15th DesDiv\" 1st Platoon Exercise",
 		"desc_jp": "旗艦に「黒潮改二」または「親潮改二」、そのいずれかを二番艦とする演習艦隊で、<br>本日中に【S判定】勝利を4回以上達成せよ！",
 		"desc": "Organize a fleet with either Oyashio Kai Ni or Kuroshio Kai Ni as flagship while the other is in the 2nd ship slot and 4 XX and score 4 S ranks on the same day"
+	},
+	"356": {
+		"code": "C63",
+		"name_jp": "精鋭「第十九駆逐隊」演習！",
+		"name": "Elite DesDiv 19 exercise!",
+		"desc_jp": "精鋭駆逐艦演習任務：精鋭第十九駆逐隊「磯波改二」「浦波改二」「綾波改二」「敷波改二」<br>4隻を含む演習艦隊を編成。同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！",
+		"desc": "Organize a fleet with Isonami Kai Ni, Uranami Kai Ni, Ayanami Kai Ni, Shikinami Kai Ni in your fleet and score S rank 3 times in PvP"
 	},
 	"401": {
 		"code": "",
@@ -4045,6 +4052,13 @@
 		"name": "New equipment development plan I",
 		"desc_jp": "「小口径主砲」「中口径主砲」「副砲」各x3装備を廃棄、「35.6cm連装砲」x3、高速建造材x8、<br>ボーキサイト800を準備せよ！(任務達成後、準備した資源・装備・高速建造材は消費します)",
 		"desc": "Have 3x 35.6cm Twin Gun Mount, 8 flamethrower, 800 bauxite and then proceed to scrap 3x small gun, 3x medium gun, 3 secondary gun (All resources and Materials will be consumed upon completion)"
+	},
+	"9996": {
+		"code": "",
+		"name_jp": "PVP Model",
+		"name": "PVP Model",
+		"desc_jp": "Organize a fleet with XX in your fleet and score S rank XX times in PvP",
+		"desc": "Organize a fleet with XX in your fleet and score S rank XX times in PvP"
 	},
 	"9997": {
 		"code": "",
