@@ -1,5 +1,5 @@
 {
-	"version": "21030233",
+	"version": "21030234",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4035,9 +4035,9 @@
 	"1113": {
 		"code": "F107",
 		"name_jp": "「無線誘導弾」装備新型襲撃機の実戦配備",
-		"name": "TEST",
+		"name": "Actual deployment of assault aircraft equipped with \"guided missiles\"",
 		"desc_jp": "イ号一型乙誘導弾搭載機の開発：陸軍新鋭襲撃機「キ102乙」x1及び「二式複戦 屠龍 丙型」x1、<br>熟練搭乗員x2、さらに新型航空兵装資材x4を準備せよ！(任務達成後、用意した資材等は消滅します)",
-		"desc": "Have TESTTEST1x Ki-102 B, 1x Type 2 Two-seat Fighter Toryuu Model C, 2x Skilled Crew Member, 4x New Model Aviation Material (All resources and Materials will be consumed upon completion)"
+		"desc": "Have 1x Ki-102 B, 1x Type 2 Two-seat Fighter Toryuu Model C, 2x Skilled Crew Member, 4x New Model Aviation Material (All resources and Materials will be consumed upon completion)"
 	},
 	"1114": {
 		"code": "F108",
