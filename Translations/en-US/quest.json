@@ -1,5 +1,5 @@
 {
-	"version": "21030237",
+	"version": "21030238",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3960,7 +3960,7 @@
 		"name_jp": "日英米合同水上艦隊、抜錨せよ！",
 		"name": "Japan-UK-US joint surface fleet, weigh anchor! ",
 		"desc_jp": "米英艦艇3隻以上を含む空母を伴わない艦隊で、北方海域モーレイ海及びアルフォンシーノ方面、<br>西方海域リランカ島、南西海域ペナン島沖深部を哨戒、敵戦力を捕捉、これを撃破せよ！",
-		"desc": "Organize a fleet with 3 Royal Navy/US Navy ship in your fleet. No CV(L) in the fleet. Score an S rank at the boss nodes on 3-1, 3-3, 4-3 and 7-3 (Part 2)"
+		"desc": "Organize a fleet with 3 Royal Navy/US Navy ship in your fleet. No CV(L) in the fleet. Score an A rank at the boss nodes on 3-1, 3-3, 4-3 and 7-3 (Part 2)"
 	},
 	"974": {
 		"code": "B180",
