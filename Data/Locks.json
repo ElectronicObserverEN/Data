@@ -13,7 +13,6 @@
 		{"LockGroups":[2],"Name":"E2-1"},
 		{"LockGroups":[3],"Name":"E2-2"},
 		{"LockGroups":[3],"Name":"E2 R"},
-		{"LockGroups":[3],"Name":"E2-3"},
-		{"LockGroups":[],"Name":"-"}
+		{"LockGroups":[3],"Name":"E2-3"}
 	]
 }
