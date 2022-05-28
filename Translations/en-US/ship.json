@@ -1,5 +1,5 @@
 {
-	"version": "21030119",
+	"version": "21030120",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -437,7 +437,8 @@
 		"深海玉棲姫": "Abyssal Jade Princess",
 		"超重爆飛行場姫": "Super Heavy Bombing Airfield Princess",
 		"防空埋護冬姫": "Winter Entombed Anti-Air Guardian Princess",
-		"ヒ船団棲姫": "Hi Convoy Princess"
+		"ヒ船団棲姫": "Hi Convoy Princess",
+		"伊201": "I-201"
 	},
 	"suffix": {
 		"改": "Kai",
