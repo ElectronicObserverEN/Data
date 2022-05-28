@@ -1,36 +1,19 @@
 {
 	"Locks": [
-		{"Id":1,"A":255,"R":112,"G":173,"B":71,"Name":"南西方面艦隊"},
-		{"Id":2,"A":255,"R":192,"G":0,"B":0,"Name":"第三十一戦隊"},
-		{"Id":3,"A":255,"R":91,"G":155,"B":213,"Name":"連合艦隊"},
-		{"Id":4,"A":255,"R":255,"G":192,"B":0,"Name":"輸送部隊"},
-		{"Id":5,"A":255,"R":112,"G":48,"B":160,"Name":"第十六戦隊"},
-		{"Id":6,"A":255,"R":165,"G":165,"B":165,"Name":"シマ船団"},
-		{"Id":7,"A":255,"R":237,"G":125,"B":49,"Name":"遊撃部隊 "},
-		{"Id":8,"A":255,"R":84,"G":130,"B":53,"Name":"決戦艦隊"}
+		{"Id":1,"A":255,"R":183,"G":222,"B":140,"Name":"Ｒ方面防備部隊"},
+		{"Id":2,"A":255,"R":196,"G":197,"B":198,"Name":"進出第一陣"},
+		{"Id":3,"A":255,"R":218,"G":207,"B":190,"Name":"進出第二陣"}
 	],
 	"Phases": [
-		{"LockGroups":[1],"Name":"E1 G"},
-		{"LockGroups":[1],"Name":"E1"},
+		{"LockGroups":[1],"Name":"E1 E"},
+		{"LockGroups":[1],"Name":"E1 K"},
+		{"LockGroups":[1],"Name":"E1 J"},
+		{"LockGroups":[1],"Name":"E1 M"},
+		{"LockGroups":[1],"Name":"E1-1"},
 		{"LockGroups":[2],"Name":"E2-1"},
-		{"LockGroups":[1,2],"Name":"E2 G"},
-		{"LockGroups":[2],"Name":"E2-2"},
-		{"LockGroups":[1,2],"Name":"E2 A"},
-		{"LockGroups":[3],"Name":"E3-1"},
-		{"LockGroups":[4],"Name":"E3-2"},
-		{"LockGroups":[3],"Name":"E3 G"},
-		{"LockGroups":[3],"Name":"E3-3"},
-		{"LockGroups":[3,4],"Name":"E3 A"},
-		{"LockGroups":[5],"Name":"E4-1"},
-		{"LockGroups":[6],"Name":"E4-2"},
-		{"LockGroups":[1],"Name":"E4 G"},
-		{"LockGroups":[5],"Name":"E4-3"},
-		{"LockGroups":[1,5,6],"Name":"E4 A"},
-		{"LockGroups":[7],"Name":"E5-1"},
-		{"LockGroups":[3],"Name":"E5-2"},
-		{"LockGroups":[8],"Name":"E5 G1"},
-		{"LockGroups":[7,8],"Name":"E5 G2"},
-		{"LockGroups":[8],"Name":"E5-3"},
-		{"LockGroups":[3,7,8],"Name":"E5 A"}
+		{"LockGroups":[3],"Name":"E2-2"},
+		{"LockGroups":[3],"Name":"E2 R"},
+		{"LockGroups":[3],"Name":"E2-3"},
+		{"LockGroups":[],"Name":"-"}
 	]
 }
