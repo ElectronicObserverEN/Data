@@ -1,5 +1,5 @@
 {
-	"version": "21030219",
+	"version": "21030220",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -578,7 +578,12 @@
 		"深海戦爆複座鷹": "Abyssal Two-seat Fighter-bomber Hawk",
 		"深海戦爆複座鷹改": "Abyssal Two-seat Fighter-bomber Hawk Kai",
 		"キ102乙改+イ号一型乙 誘導弾": "Ki-102 B Kai + No.1 Model 1B Guided Missile",
-		"試製 長12.7cm連装砲A型改四": "Prototype Long-barrel 12.7cm Twin Gun Mount Model A Kai 4"
+		"試製 長12.7cm連装砲A型改四": "Prototype Long-barrel 12.7cm Twin Gun Mount Model A Kai 4",
+		"後期型電探&逆探+シュノーケル装備": "Late Model Radar & Passive Radiolocator + Snorkel Equipment",
+		"後期型艦首魚雷(4門)": "Late Model Bow Torpedo Mount (4 tubes)",
+		"B-25": "B-25",
+		"深海双発陸爆": "Abyssal Twin-engine Land-based Dive Bomber",
+		"深海双発陸爆Ace": "Abyssal Twin-engine Land-based Dive Bomber Ace"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",
