@@ -1,5 +1,5 @@
 {
-	"version": "21030220",
+	"version": "21030221",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -583,7 +583,8 @@
 		"後期型艦首魚雷(4門)": "Late Model Bow Torpedo Mount (4 tubes)",
 		"B-25": "B-25",
 		"深海双発陸爆": "Abyssal Twin-engine Land-based Dive Bomber",
-		"深海双発陸爆Ace": "Abyssal Twin-engine Land-based Dive Bomber Ace"
+		"深海双発陸爆Ace": "Abyssal Twin-engine Land-based Dive Bomber Ace",
+		"SG レーダー(後期型)": "SG Radar (Late Model)"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",
