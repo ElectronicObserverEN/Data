@@ -1,5 +1,5 @@
 {
-	"version": "21030120",
+	"version": "21030121",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -438,7 +438,8 @@
 		"超重爆飛行場姫": "Super Heavy Bombing Airfield Princess",
 		"防空埋護冬姫": "Winter Entombed Anti-Air Guardian Princess",
 		"ヒ船団棲姫": "Hi Convoy Princess",
-		"伊201": "I-201"
+		"伊201": "I-201",
+		"外南洋駆逐棲姫": "Outer Southern Sea Destroyer Princess"
 	},
 	"suffix": {
 		"改": "Kai",
@@ -474,7 +475,8 @@
 		"夏季上陸mode": "Summer Landing Mode",
 		"(量産型)": "(Mass produced model)",
 		"II": "II",
-		"III": "III"
+		"III": "III",
+		"(哨戒機配備)": "Patrol Aircraft Deployment"
 	},
 	"stype": {
 		"海防艦": "DE",
