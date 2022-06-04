@@ -1625,9 +1625,9 @@
 		"desc": "Use a fleet with 2 of Oboro, Akebono, Sazanami, and Ushio, and up to 4 additional ships. Obtain an A-rank in Exercises (PvP) 3 times within the same day."
 	},
 	"342": {
-		"code": "",
+		"code": "C44",
 		"name_jp": "小艦艇群演習強化任務",
-		"name": "C43: Small ship exercise strengthining mission",
+		"name": "Small ship exercise strengthining mission",
 		"desc_jp": "駆逐艦または海防艦計4隻(軽巡級1隻導入可能)を含む演習艦隊を編成、<br>同演習艦隊による演習で本日中に【A判定】以上の勝利を4回以上達成せよ！",
 		"desc": "Use a fleet with 3 Destroyers/Coastal Defense Ships, 1 additional Destroyer/Coastal Defense Ship OR 1 Light Cruiser, and up to 2 additional ships. Obtain an A-rank (or higher) in Exercises 4 times within the same day."
 	},
