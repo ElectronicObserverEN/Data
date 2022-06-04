@@ -1,9 +1,9 @@
 {
-	"bld_date": "2022/05/29 16:00:00",
-	"ver": "5.1.6",
+	"bld_date": "2022/06/04 14:00:00",
+	"ver": "5.1.7",
 	"note": "Check github for release notes: https://github.com/gre4bee/ElectronicObserver/releases",
-	"url": "https://github.com/gre4bee/ElectronicObserver/releases/download/5.1.6/ElectronicObserver516EN.zip",
-	"hash": "54CC9FE09A4B1136620E4A2C8E7293DB03C3BBF06858FE7BECF400B97D4D5BD4",
+	"url": "https://github.com/gre4bee/ElectronicObserver/releases/download/5.1.7/ElectronicObserver517EN.zip",
+	"hash": "058530B594DE1E809F9FE9C070E899A590CE3A93CD261065F8D7345A71BF28E9",
 	"nodes": 20071503,
 	"QuestTrackers": 23,
 	"Locks": 5,
