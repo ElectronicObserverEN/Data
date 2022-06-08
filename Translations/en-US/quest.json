@@ -1,5 +1,5 @@
 {
-	"version": "21030240",
+	"version": "21030241",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3996,6 +3996,13 @@
 		"name": "Kill on sight! The most elite Yamato-class \"1st Squadron\", weigh anchor!",
 		"desc_jp": "改大和型戦艦二隻「大和改二/重」及び「武蔵改二」、随伴駆逐艦2隻以上の艦隊を展開！<br>カレー洋リランカ島沖、サブ島沖海域、タウイタウイ泊地沖深部、KW環礁沖海域の敵を撃滅せよ！",
 		"desc": "Organize a fleet with Yamato Kai Ni/Kai Ni Juu, Musashi Kai Ni and 2DD in your fleet and score an S rank at the boss nodes on 4-5, 5-3, 6-5 and 7-2 (Part 2)"
+	},
+	"978": {
+		"code": "",
+		"name_jp": "【拡張作戦】重改装「大和改二重」、出撃！",
+		"name": "[Extra Operation] Heavy Remodelled [Yamato Kai Ni Juu], sortie!",
+		"desc_jp": "【拡張作戦】重改装「大和改二重」を旗艦とする有力な艦隊で、ペナン島沖深部、昭南本土航路、<br>サーモン海域北方、中部北海域ピーコック島沖に出撃！各戦域の敵戦力を撃滅粉砕せよ！",
+		"desc": "Organize a fleet with Yamato Kai Ni Juu (Kai Ni doesn't work) as flagship and score an S rank at the boss nodes on 7-4, 5-5, 6-4 and 7-3 (Part 2)"
 	},
 	"1101": {
 		"code": "F96",
