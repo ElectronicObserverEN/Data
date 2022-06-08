@@ -1,5 +1,5 @@
 {
-	"version": "21030241",
+	"version": "21030242",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1730,7 +1730,7 @@
 		"desc": "Organize a fleet with Isonami Kai Ni, Uranami Kai Ni, Ayanami Kai Ni, Shikinami Kai Ni in your fleet and score S rank 3 times in PvP"
 	},
 	"357": {
-		"code": "",
+		"code": "C66",
 		"name_jp": "「大和型戦艦」第一戦隊演習、始め！",
 		"name": "[Yamato-class Battleship] 1st Squadron exercises, begin! ",
 		"desc_jp": "大和型戦艦演習任務：大和型戦艦「大和」及び「武蔵」両艦、随伴艦に軽巡1隻、駆逐艦2隻<br>以上を含む演習艦隊を編成。同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！",
@@ -3984,21 +3984,21 @@
 		"desc": "Organize a fleet with Isonami Kai Ni, Uranami Kai Ni, Ayanami Kai Ni, Shikinami Kai Ni in your fleet and score an S rank at the boss nodes on 1-5, 2-3, 3-2 and 5-3"
 	},
 	"976": {
-		"code": "",
+		"code": "B181",
 		"name_jp": "改大和型戦艦「大和改二」、出撃せよ！",
 		"name": "Kai Yamato-class Battleship [Yamato Kai Ni], sortie!",
 		"desc_jp": "旗艦「大和改二/重」、随伴艦軽巡1隻、駆逐艦2隻以上の艦隊で、鎮守府海域南西諸島防衛線、<br>南西諸島海域沖ノ島沖、南方海域前面、西方海域カスガダマ島に出撃！敵艦隊を撃滅せよ！",
 		"desc": "Organize a fleet with Yamato Kai Ni/Kai Ni Juu as flagship, 1CL and 2DD in your fleet and score an S rank at the boss nodes on 1-4, 2-5, 4-4 and 5-1"
 	},
 	"977": {
-		"code": "",
+		"code": "B182",
 		"name_jp": "見敵必殺！最精鋭大和型「第一戦隊」抜錨！",
 		"name": "Kill on sight! The most elite Yamato-class \"1st Squadron\", weigh anchor!",
 		"desc_jp": "改大和型戦艦二隻「大和改二/重」及び「武蔵改二」、随伴駆逐艦2隻以上の艦隊を展開！<br>カレー洋リランカ島沖、サブ島沖海域、タウイタウイ泊地沖深部、KW環礁沖海域の敵を撃滅せよ！",
 		"desc": "Organize a fleet with Yamato Kai Ni/Kai Ni Juu, Musashi Kai Ni and 2DD in your fleet and score an S rank at the boss nodes on 4-5, 5-3, 6-5 and 7-2 (Part 2)"
 	},
 	"978": {
-		"code": "",
+		"code": "B183",
 		"name_jp": "【拡張作戦】重改装「大和改二重」、出撃！",
 		"name": "[Extra Operation] Heavy Remodelled [Yamato Kai Ni Juu], sortie!",
 		"desc_jp": "【拡張作戦】重改装「大和改二重」を旗艦とする有力な艦隊で、ペナン島沖深部、昭南本土航路、<br>サーモン海域北方、中部北海域ピーコック島沖に出撃！各戦域の敵戦力を撃滅粉砕せよ！",
@@ -4089,9 +4089,9 @@
 		"desc": "Have 3x 35.6cm Twin Gun Mount, 8 flamethrower, 800 bauxite and then proceed to scrap 3x small gun, 3x medium gun, 3 secondary gun (All resources and Materials will be consumed upon completion)"
 	},
 	"1115": {
-		"code": "",
+		"code": "F109",
 		"name_jp": "【工廠任務】新装備開発計画II",
-		"name": "[Arsenal quest] New equipment development plan II",
+		"name": "New equipment development plan II",
 		"desc_jp": "「大口径主砲」「副砲」「水上偵察機」各x3装備を廃棄、「46cm三連装砲」x2、「洋上補給」x4、<br>弾薬2,700を準備せよ！(任務達成後、準備した資源・装備・洋上補給は消費します)",
 		"desc": "Proceed to scrap 3x large guns, 3x secondary guns, 3x recon seaplanes and have 2x 46cm triple gun mounts, 4x underway replenishment and 2700 ammo (All resources and Materials will be consumed upon completion)"
 	},
