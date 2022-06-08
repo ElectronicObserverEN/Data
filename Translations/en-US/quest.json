@@ -1,5 +1,5 @@
 {
-	"version": "21030242",
+	"version": "21030243",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1587,7 +1587,7 @@
 		"name_jp": "輸送船団演習",
 		"name": "C37: Transport Fleet Exercise",
 		"desc_jp": "輸送船団演習任務：補給艦または揚陸艦、海防艦を計2隻以上含む輸送船団を編成、<br>同輸送船団及び護衛艦艇による演習で、本日中に【A判定】勝利4回以上達成せよ。",
-		"desc": "Use a fleet with 2 Amphibious Assault Ships/Fleet Oilers/Coastal Defense Ships and up to 4 additional ships.<br>Obtain an A-rank in Exercises 4 times within the same day."
+		"desc": "Use a fleet with 2 Amphibious Assault Ships/Fleet Oilers/Coastal Defense Ships and up to 4 additional ships. Obtain an A-rank in Exercises 4 times within the same day."
 	},
 	"337": {
 		"code": "",
