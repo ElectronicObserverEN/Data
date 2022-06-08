@@ -1,5 +1,5 @@
 {
-	"version": "21030239",
+	"version": "21030240",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3989,6 +3989,13 @@
 		"name": "Kai Yamato-class Battleship [Yamato Kai Ni], sortie!",
 		"desc_jp": "旗艦「大和改二/重」、随伴艦軽巡1隻、駆逐艦2隻以上の艦隊で、鎮守府海域南西諸島防衛線、<br>南西諸島海域沖ノ島沖、南方海域前面、西方海域カスガダマ島に出撃！敵艦隊を撃滅せよ！",
 		"desc": "Organize a fleet with Yamato Kai Ni/Kai Ni Juu as flagship, 1CL and 2DD in your fleet and score an S rank at the boss nodes on 1-4, 2-5, 4-4 and 5-1"
+	},
+	"977": {
+		"code": "",
+		"name_jp": "見敵必殺！最精鋭大和型「第一戦隊」抜錨！",
+		"name": "Kill on sight! The most elite Yamato-class \"1st Squadron\", weigh anchor!",
+		"desc_jp": "改大和型戦艦二隻「大和改二/重」及び「武蔵改二」、随伴駆逐艦2隻以上の艦隊を展開！<br>カレー洋リランカ島沖、サブ島沖海域、タウイタウイ泊地沖深部、KW環礁沖海域の敵を撃滅せよ！",
+		"desc": "Organize a fleet with Yamato Kai Ni/Kai Ni Juu, Musashi Kai Ni and 2DD in your fleet and score an S rank at the boss nodes on 4-5, 5-3, 6-5 and 7-2 (Part 2)"
 	},
 	"1101": {
 		"code": "F96",
