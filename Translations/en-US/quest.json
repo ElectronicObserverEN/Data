@@ -1,4 +1,5 @@
 {
+    "version": "21030244",
     "101": {
         "code": "A1",
         "name_jp": "はじめての「編成」！",
@@ -4107,6 +4108,5 @@
         "name": "Battle model",
         "desc_jp": "Organize a fleet with XX in your fleet and score an S rank at the boss nodes on XX, and XX (Part X)",
         "desc": "Organize a fleet with XX in your fleet and score an S rank at the boss nodes on XX, and XX (Part X)"
-    },
-    "version": "21030244"
+    }
 }
