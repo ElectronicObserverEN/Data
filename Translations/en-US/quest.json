@@ -304,7 +304,7 @@
 	"144": {
 		"code": "A42",
 		"name_jp": "主力戦艦部隊「第二戦隊」を編成せよ！",
-		"name": "Form the Main Battleship Fleet",
+		"name": "Form the Main Battleship Fleet: the 2nd Squadron",
 		"desc_jp": "長門型2隻及び扶桑型2隻の計4隻の主力戦艦からなる第二戦隊を編成せよ！",
 		"desc": "Have both Nagato-class and both Fusou-class battleships (and no other ships) in your main fleet."
 	},
@@ -1480,7 +1480,7 @@
 	"321": {
 		"code": "5A04",
 		"name_jp": "五周年任務【肆：演習】",
-		"name": "Fifth Anniversary Mission IV",
+		"name": "Fifth Anniversary Mission IV: Exercises",
 		"desc_jp": "五周年任務：駆逐艦または海防艦2隻以上を含む五隻の特別編成の艦隊を編成！<br>この五周年特別艦隊で、本日中に演習で4回以上勝利せよ！",
 		"desc": "Secure 4 victories in Exercises within the same day using 2 DD/DE and 3 additional ships."
 	},
@@ -1613,7 +1613,7 @@
 	"341": {
 		"code": "7thAnvLC1",
 		"name_jp": "七周年任務【七駆演習】",
-		"name": "7th Anniversary Mission",
+		"name": "7th Anniversary Mission: 7th DesDiv Exercise",
 		"desc_jp": "七周年任務：第七駆逐隊「朧」「曙」「漣」「潮」のうち2隻以上を含む演習艦隊を編成、<br>本日中に【A判定】勝利3回以上達成せよ。七周年、第七駆逐隊、おめでとう＆ありがと！",
 		"desc": "Use a fleet with 2 of Oboro, Akebono, Sazanami, and Ushio, and up to 4 additional ships. Obtain an A-rank in Exercises (PvP) 3 times within the same day."
 	},
@@ -1984,14 +1984,14 @@
 	"439": {
 		"code": "D36",
 		"name_jp": "兵站強化遠征任務【基本作戦】",
-		"name": "Military Buildup Expedition Mission",
+		"name": "Military Buildup Expedition Mission: \"Basic Operation\"",
 		"desc_jp": "兵站強化遠征任務：「海上護衛任務」「兵站強化任務」「ボーキサイト輸送任務」及び<br>「南西方面航空偵察作戦」の各遠征任務を実施、これを成功させよ！",
 		"desc": "Complete Expeditions 5, 11, A1 and B1 once each."
 	},
 	"440": {
 		"code": "D37",
 		"name_jp": "兵站強化遠征任務【拡張作戦】",
-		"name": "Military Buildup Expedition Mission",
+		"name": "Military Buildup Expedition Mission: \"Extra Operation\"",
 		"desc_jp": "兵站強化拡張任務：「ブルネイ泊地沖哨戒」「海上護衛任務」「水上機前線輸送」<br>及び「強行鼠輸送作戦」「南西海域戦闘哨戒」各遠征を実施、これを成功させよ！",
 		"desc": "Complete Expeditions 5, 40, 41, 46 and E2 once each."
 	},
@@ -2068,63 +2068,63 @@
 	"505": {
 		"code": "Su01",
 		"name_jp": "主計科任務【おにぎりを作る！】",
-		"name": "Accounting Department Mission",
+		"name": "Accounting Department Mission: Time to Make Onigiri!",
 		"desc_jp": "主計科任務：回収した「お米」炊いて、「おにぎり」を作ろう。<br>海の上で食う握り飯は……美味いぞ！",
 		"desc": "Collect 5 Rice and make an Onigiri."
 	},
 	"506": {
 		"code": "Su02",
 		"name_jp": "主計科任務【おにぎりを振舞おう！】",
-		"name": "Accounting Department Mission",
+		"name": "Accounting Department Mission: Treat Everyone to Some Onigiri!",
 		"desc_jp": "主計科任務：「お米」一杯炊いて、「おにぎり」を新たに3回作るかも。<br>工廠の皆に差し入れで振舞いたいかも！　※任務達成後、作った戦闘糧食は消費します。",
 		"desc": "Collect 15 Rice and make 3 Onigiri."
 	},
 	"507": {
 		"code": "Su03",
 		"name_jp": "主計科任務【高級おにぎりを作る！】",
-		"name": "Accounting Department Mission",
+		"name": "Accounting Department Mission: Time to Make High-Class Onigiri!",
 		"desc_jp": "主計科任務：美味しい「お米」と「梅干」と「海苔」で、「高級おにぎり」を作りましょう。<br>いい食材で、丁寧に作った握り飯は……美味しい！提督、美味しいです！",
 		"desc": "Collect 6 Rice, 2 Umeboshi and 3 Nori to make a High-Class Onigiri."
 	},
 	"508": {
 		"code": "Su04",
 		"name_jp": "主計科任務【差し入れ！高級おにぎり】",
-		"name": "Accounting Department Mission",
+		"name": "Accounting Department Mission: Supplies Incoming! High-Class Rice Balls",
 		"desc_jp": "主計科任務：そうだ、提督、いいこと考えました！この美味しい「高級おにぎり」を一杯作って<br>空技廠の皆さんに差し入れしましょう！ね、加賀さん！(※高級おにぎりを後2回作りましょう)",
 		"desc": "Collect 12 Rice, 4 Umeboshi, and 6 Nori. Then make 2 High-Class Onigiri."
 	},
 	"509": {
 		"code": "Su05",
 		"name_jp": "主計科任務【お茶漬けを作る！】",
-		"name": "Accounting Department Mission",
+		"name": "Accounting Department Mission: Time to Make Ochazuke!",
 		"desc_jp": "主計科任務：「お米」と「梅干」と「海苔」、そして良い「お茶」で、「お茶漬け」を作りましょう。<br>さらさら～っと食べれるお茶漬けは、夜食にも、飲みの後の〆の一杯としても最高ですね！",
 		"desc": "Collect 8 Rice, 3 Umeboshi, 3 Nori, 4 Tea, and make Ochazuke."
 	},
 	"510": {
 		"code": "Su06",
 		"name_jp": "主計科任務　【お茶漬け、夜食にどうぞ！】",
-		"name": "Accounting Department Mission",
+		"name": "Accounting Department Mission: Here, Have Some Ochazuke for Supper!",
 		"desc_jp": "",
 		"desc": "Collect 16 Rice, 6 Umeboshi, 6 Nori, 8 Tea, and make 2 Ochazuke."
 	},
 	"511": {
 		"code": "Su07",
 		"name_jp": "主計科任務　【海苔巻きを作ろう！】",
-		"name": "Accounting Department Mission",
+		"name": "Accounting Department Mission: Let's Make Nori Rolls!",
 		"desc_jp": "",
 		"desc": "Collect 12 Rice and 6 Nori."
 	},
 	"512": {
 		"code": "Su08",
 		"name_jp": "主計科任務　【和定食膳を作って完食！】",
-		"name": "Accounting Department Mission",
+		"name": "Accounting Department Mission: Make a Japanese Set Meal and Eat Up!",
 		"desc_jp": "",
 		"desc": "Collect 26 Rice, 5 Umeboshi, 6 Nori, and 7 Tea. Then make 1 Japanese Meal Set and 3 Onigiri."
 	},
 	"513": {
 		"code": "Su09",
 		"name_jp": "主計科拡張任務　【日の丸弁当、量産！】",
-		"name": "Accounting Department Extra Mission",
+		"name": "Accounting Department Extra Mission: Rising Sun Lunch Boxes for Everyone!",
 		"desc_jp": "",
 		"desc": ""
 	},
@@ -2803,7 +2803,7 @@
 	"697": {
 		"code": "2003LQ2",
 		"name_jp": "【春の期間限定任務】下駄履きメカジキの改修",
-		"name": "Limited-Time Spring Mission",
+		"name": "Limited-Time Spring Mission: Swordfish Floatplane's Remodel",
 		"desc_jp": "旗艦「Gotland」第一スロに「Swordfish(水上機型)」改修max、 「瑞雲」x3、「零式水上偵察機」x3、<br>「13号対空電探改」x1廃棄、弾薬x2,500、ボーキ4,000、新型航空兵装資材x1、熟練搭乗員x1を準備！",
 		"desc": "Have Gotland set as Flagship and place Swordfish (Seaplane Model) MAX★ in her 1st Slot. Prepare 2,500 Ammo, 4,000 Bauxite, 1x New Model Aerial Armament Material, 1x Skilled Crew Member. Scrap 3x Zuiun, 3x Type 0 Reconnaissance Seaplane, and 1x Type 13 Air Radar Kai."
 	},
@@ -2845,7 +2845,7 @@
 	"706": {
 		"code": "5A03",
 		"name_jp": "五周年任務【参：近代化改修】",
-		"name": "Fifth Anniversary Mission III",
+		"name": "Fifth Anniversary Mission III: Modernization",
 		"desc_jp": "五周年任務：鉄鋼555及びボーキサイト555を準備して、任意の海防艦の近代化改修を[駆逐艦]x5隻<br>同時使用により2回成功させよ！※任務達成後、準備した資源は消費します。",
 		"desc": "Have 555 steel and bauxite. Successfully modernize a DE using 5 DD twice."
 	},
@@ -3216,7 +3216,7 @@
 	"854": {
 		"code": "Bq2",
 		"name_jp": "戦果拡張任務！「Z作戦」前段作戦",
-		"name": "Ranking Expansion Mission",
+		"name": "Ranking Expansion Mission: 'Operation Z' Frontal Operation!",
 		"desc_jp": "戦果拡張作戦：我が第一艦隊に精鋭艦艇を集中配備、同精鋭艦隊を以て、南西諸島の沖ノ島海域、<br>中部海域哨戒線、グアノ環礁沖の敵艦隊を撃破、中部北海域ピーコック島の敵戦力を破砕殲滅せよ！",
 		"desc": "Score an A-rank victory against World 2-4, 6-1, and 6-3 boss. Score an S-rank victory against World 6-4 boss."
 	},
@@ -3321,7 +3321,7 @@
 	"872": {
 		"code": "Bq10",
 		"name_jp": "戦果拡張任務！「Z作戦」後段作戦",
-		"name": "Military Gains Extra Operation",
+		"name": "Military Gains Extra Operation: \"Operation Z\" Latter Operation",
 		"desc_jp": "戦果拡張作戦：我が第一艦隊に精鋭艦艇を集中配備、同精鋭艦隊を以て、南西海域タウイタウイ泊地沖、<br>南方海域サーモン海域北方、中部海域MS諸島沖及びKW環礁沖海域の敵艦隊を捕捉、これを撃滅せよ！",
 		"desc": "Score an S-rank at the boss node of 5-5, 6-2, 6-5, 7-2-2."
 	},
@@ -3391,14 +3391,14 @@
 	"882": {
 		"code": "7thAnvLB1",
 		"name_jp": "七周年任務【前段作戦】",
-		"name": "7th Anniversary Mission",
+		"name": "7th Anniversary Mission: First Operation",
 		"desc_jp": "【丙作戦級】駆逐艦または海防艦計3隻以上を含む艦隊で、鎮守府海域南西諸島沖、製油所地帯沿岸、<br>南西諸島防衛線、鎮守府近海、南西諸島近海、バシー海峡に展開！警戒防衛任務にあたれ！",
 		"desc": "Sortie a fleet with 3 Destroyers/Coastal Defense Ships and up to 3 additional ships to Worlds 1-2, 1-3, 1-4, 1-5, 2-1, and 2-2. Obtain a S-rank at each boss node."
 	},
 	"883": {
 		"code": "7thAnvLB2",
 		"name_jp": "七周年任務【後段作戦】",
-		"name": "7th Anniversary Mission",
+		"name": "7th Anniversary Mission: Second Operation",
 		"desc_jp": "【乙作戦級】軽巡級1隻駆逐艦2隻以上からなる精鋭水雷戦隊を含む艦隊で、南西諸島海域東部<br>オリョール海、北方海域全海域、南西海域タウイタウイ泊地沖深部に展開、同方面の敵戦力を一掃せよ！",
 		"desc": "Sortie a fleet with 1 Light Cruiser, 2 Destroyers, and up to 3 additional ships to Worlds 2-3, 3-1, 3-2, 3-3, 3-4, 3-5, and 7-2. Obtain a S-rank at the boss node of 2-3, 3-1, 3-2, 3-3, 3-4, and 3-5 once. Obtain a S-rank at the second boss node of 7-2 once."
 	},
@@ -3468,7 +3468,7 @@
 	"893": {
 		"code": "Bq8",
 		"name_jp": "泊地周辺海域の安全確保を徹底せよ！",
-		"name": "Ranking Expansion Quest",
+		"name": "Ranking Expansion Quest: Secure the Safety of the Anchorage Area!",
 		"desc_jp": "泊地近海警戒戦果拡張：有力な泊地哨戒部隊を編成、鎮守府近海、ブルネイ泊地沖、タウイタウイ泊地沖<br>に反復出撃！各周辺海域に出没する敵潜を制圧、さらに泊地周辺の脅威となる敵戦力を捕捉撃滅せよ！",
 		"desc": "Sortie a fleet to Worlds 1-5, 7-1, and 7-2. S-rank the boss node of 1-5 and 7-1 three times. S-rank both boss nodes of 7-2 three times."
 	},
@@ -3566,7 +3566,7 @@
 	"910": {
 		"code": "7thAnvLB3",
 		"name_jp": "七周年任務【拡張作戦】",
-		"name": "7th Anniversary Mission",
+		"name": "7th Anniversary Mission: Extra Operation",
 		"desc_jp": "【最終作戦:甲作戦級】編成自由の精鋭艦隊で、中部海域哨戒線、MS諸島沖、グアノ環礁沖海域、<br>中部北海域ピーコック島沖、KW環礁沖海域に展開、同方面の敵戦力を撃滅！暁の水平線に勝利を刻め！",
 		"desc": "Sortie a fleet to Worlds 6-1, 6-2, 6-3, 6-4, and 6-5. Obtain a S-rank at each boss node."
 	},
@@ -3601,7 +3601,7 @@
 	"915": {
 		"code": "2003LQ1",
 		"name_jp": "【春の期間限定任務】飛べ！下駄履きメカジキ",
-		"name": "Time-limited Spring Mission",
+		"name": "Time-limited Spring Mission: Fly! Swordfish Floatplanes",
 		"desc_jp": "【春の期間限定任務】水上機母艦を旗艦とし、随伴護衛艦に駆逐艦または海防艦を含む水上機運用艦隊で、<br>南西諸島防衛線、東部オリョール海、沖ノ島海域へ展開！同海域の敵艦隊と交戦、これを撃破せよ！",
 		"desc": "Sortie a fleet with a Seaplane Tender as flagship, 1 Destroyer/Coastal Defense Ship, and up to 4 additional ships to Worlds 1-4, 2-3, and 2-4. Obtain an A-rank (or higher) at each boss node."
 	},
@@ -3664,7 +3664,7 @@
 	"924": {
 		"code": "B152",
 		"name_jp": "【航空母艦特別任務】航空戦隊、精鋭無比！",
-		"name": "Special Aircraft Carrier Mission",
+		"name": "Special Aircraft Carrier Mission: Our Carrier Divisions, Peerless and Unmatched!",
 		"desc_jp": "航空母艦特別任務：精強な正規空母2隻以上を擁する航空戦隊を中核とした機動部隊の精鋭で、<br>南西諸島海域沖ノ島海域、同沖ノ島沖、西方海域リランカ島に出撃！各方面の敵戦力を撃滅せよ！",
 		"desc": "Sortie a fleet with 2 Standard Aircraft Carriers and up to 4 additional ships to Worlds 2-4, 2-5, and 4-3. Obtain an S-rank at each boss node."
 	},
