@@ -1,5 +1,5 @@
 {
-	"version": "21030222",
+	"version": "21030223",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -585,7 +585,13 @@
 		"深海双発陸爆": "Abyssal Twin-engine Land-based Dive Bomber",
 		"深海双発陸爆Ace": "Abyssal Twin-engine Land-based Dive Bomber Ace",
 		"SG レーダー(後期型)": "SG Radar (Late Model)",
-		"15m二重測距儀改+21号電探改二+熟練射撃指揮所": "15m Duplex Rangefinder Kai + Type 21 Radar Kai Ni + Skilled FDC"
+		"15m二重測距儀改+21号電探改二+熟練射撃指揮所": "15m Duplex Rangefinder Kai + Type 21 Radar Kai Ni + Skilled FDC",
+		"15.5cm三連装副砲改二": "15.5cm Triple Secondary Gun Mount Kai Ni",
+		"10cm連装高角砲群 集中配備": "10cm Twin High-angle Gun Mount Battery Concentrated Deployment",
+		"試製51cm三連装砲": "Prototype 51cm Triple Gun Mount",
+		"流星改(熟練)": "Ryuusei Kai (Skilled)",
+		"紫電改(三四三空) 戦闘701": "Shiden Kai (343 Air Group) 701st Fighter Squadron",
+		"5inch連装砲(副砲配置) 集中配備": "5inch Twin Gun Mount (Secondary Armament) Concentrated Deployment"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",
