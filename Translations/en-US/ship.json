@@ -1,5 +1,5 @@
 {
-	"version": "21030122",
+	"version": "21030123",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -439,7 +439,9 @@
 		"防空埋護冬姫": "Winter Entombed Anti-Air Guardian Princess",
 		"ヒ船団棲姫": "Hi Convoy Princess",
 		"伊201": "I-201",
-		"外南洋駆逐棲姫": "Outer Southern Sea Destroyer Princess"
+		"外南洋駆逐棲姫": "Outer Southern Sea Destroyer Princess",
+		"倉橋": "Kurahashi",
+		"近代化戦艦棲姫": "Modernization Battleship Princess"
 	},
 	"suffix": {
 		"改": "Kai",
