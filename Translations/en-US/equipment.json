@@ -1,5 +1,5 @@
 {
-	"version": "21030223",
+	"version": "21030224",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -590,7 +590,7 @@
 		"10cm連装高角砲群 集中配備": "10cm Twin High-angle Gun Mount Battery Concentrated Deployment",
 		"試製51cm三連装砲": "Prototype 51cm Triple Gun Mount",
 		"流星改(熟練)": "Ryuusei Kai (Skilled)",
-		"紫電改(三四三空) 戦闘701": "Shiden Kai (343 Air Group) 701st Fighter Squadron",
+		"紫電改(三四三空) 戦闘701": "Shiden Kai (343rd Air Group) 701st Fighter Squadron",
 		"5inch連装砲(副砲配置) 集中配備": "5inch Twin Gun Mount (Secondary Armament) Concentrated Deployment"
 	},
 	"equiptype": {
