@@ -1,5 +1,5 @@
 {
-	"version": "21030224",
+	"version": "21030225",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -591,7 +591,9 @@
 		"試製51cm三連装砲": "Prototype 51cm Triple Gun Mount",
 		"流星改(熟練)": "Ryuusei Kai (Skilled)",
 		"紫電改(三四三空) 戦闘701": "Shiden Kai (343rd Air Group) 701st Fighter Squadron",
-		"5inch連装砲(副砲配置) 集中配備": "5inch Twin Gun Mount (Secondary Armament) Concentrated Deployment"
+		"5inch連装砲(副砲配置) 集中配備": "5inch Twin Gun Mount (Secondary Armament) Concentrated Deployment",
+		"38cm四連装砲改 deux": "38cm Quadruple Gun Mount Kai Deux",
+		"零式水上偵察機11型乙改(夜偵)": "Type 0 Reconnaissance Seaplane Model 11B Kai (Night Recon)"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",
