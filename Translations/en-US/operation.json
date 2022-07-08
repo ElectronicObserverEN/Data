@@ -1,10 +1,9 @@
 {
-	"version": "20071501",
+	"version": "20071508",
 	"map": {
 		"南西諸島近海": "Adjacent Seas of Southwest Islands",
 		"バシー海峡": "Bashi Strait",
 		"東部オリョール海": "Eastern Orel Bay",
-		
 		"鎮守府正面海域": "Sea in Front of the Naval Base",
 		"南西諸島沖": "Sea around the Nansei Islands",
 		"製油所地帯沿岸": "Coastal Refinery Zone",
@@ -69,13 +68,21 @@
 		"ブラケット水道/クラ湾沖": "Blackett Strait/Kula Gulf",
 		"ラバウル/中部ソロモン海域": "Rabaul/Central Solomon Sea",
 		"中部ソロモン海域 ブーゲンビル島沖": "Central Solomon Sea Bougainville Island",
-		
 		"オホーツク海千島列島沖": "Sea of Okhotsk Kuril Islands",
 		"四国沖/九州西方五島列島沖": "Shikoku/West of Kyushu Goto Islands",
 		"小笠原諸島沖": "Ogasawara Islands",
 		"ニューブリテン島沖 ソロモン諸島西部沖": "New Britain/Western Solomon Islands",
 		"ソロモン諸島沖": "Solomon Islands",
-		"ソロモン諸島沖 サンタ・クルーズ諸島沖": "Solomon Islands/Santa Cruz Islands"
+		"ソロモン諸島沖 サンタ・クルーズ諸島沖": "Solomon Islands/Santa Cruz Islands",
+		"ジャム島沖": "Off the coast of Jam Island",
+		"カスガダマ島": "Casgadama Island",
+		"ペナン島沖": "Penang Island Sea",
+		"昭南本土航路": "Shounan Mainland Route",
+		"ニューブリテン島ラバウル沖": "Sea off of Rabaul / New Britain Island",
+		"ショートランド沖/レカタ沖": "Off Shortland/Rekata",
+		"ビスマルク海/ダンピール海峡沖": "Bismarck Sea, off the Dampier Strait",
+		"豊後水道/佐世保沖/坊ノ岬沖": "Bungo Channel / Sea off of Sasebo / Sea off of Cape Bono",
+		"坊ノ岬沖/台湾沖/南西諸島海域": "Off Bonomisaki / Off Taiwan / Nansei Islands Area"
 	},
 	"fleet": {
 		"渦潮": "Whirlpool",
@@ -156,7 +163,6 @@
 		"ABDA残存艦隊": "ABDA Remaining Fleet",
 		"深海棲艦ポートワイン泊地": "Port Wine Area Deep Sea Fleet",
 		"敵増援任務部隊": "Reinforcement Task Force",
-		"敵潜水主力艦隊": "Main Submarine Force",
 		"敵潜水主力艦隊": "Main Submarine Force",
 		"任務部隊A群 機動部隊(第一波)": "Task Force A Mobile Force (1st Wave)",
 		"任務部隊A群 機動部隊(第二波)": "Task Force A Mobile Force (2nd Wave)",
