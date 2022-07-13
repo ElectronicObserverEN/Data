@@ -1,5 +1,5 @@
 {
-	"version": "21030246",
+	"version": "21030247",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4004,6 +4004,13 @@
 		"desc_jp": "第十五駆逐隊「早潮改二」「親潮改二」「黒潮改二」のうち二隻以上を含む艦隊で、沖ノ島海域、<br>南方海域サーモン海域、サーモン海域北方、中部北海域ピーコック島沖の敵戦力を撃滅せよ！",
 		"desc": "Organize a fleet with any two of Hayashio Kai Ni, Oyashio Kai Ni or Kuroshio Kai Ni in your fleet and score an S rank at the boss nodes on 2-4, 5-4, 5-5 and 6-4"
 	},
+	"981": {
+		"code": "B185",
+		"name_jp": "米駆逐艦部隊の奮戦",
+		"name": "The hard fight of US destroyer unit",
+		"desc_jp": "「Fletcher級」及び「John C.Butler級」のうち二隻以上を含む艦隊で、南西諸島東部オリョール海、<br>中部北海域ピーコック島沖、南西海域ペナン島沖深部、昭南本土航路に反復出撃！敵を撃滅せよ！",
+		"desc": "Organize a fleet with 2 destroyer from Fletcher-class or John C. Butler-class in your fleet and score an S rank at the boss nodes on 2-3, 6-4, 7-4  and 7-3 (Part 2)"
+	},
 	"1101": {
 		"code": "F96",
 		"name_jp": "海軍工廠の再整備",
@@ -4101,6 +4108,13 @@
 		"name": "New equipment development plan III",
 		"desc_jp": "「水上偵察機」「水上爆撃機/多用途水上機」「機銃」各x3を廃棄、「九八式水上偵察機(夜偵)」x2、<br>高速建造材x10、鋼材2,800を準備せよ！(任務達成後、準備した資源・夜偵・資材は消費します)",
 		"desc": "Scrap 3x Seaplane recon, 3x Seaplane bomber, 3x AA machine gun and have 2x Type 98 Reconnaissance Seaplane (Night Recon), 10x Flamethrower, 2800 steel (All resources and Materials will be consumed upon completion)"
+	},
+	"1117": {
+		"code": "F111",
+		"name_jp": "【工廠任務】新夜偵の実戦配備",
+		"name": "Deployment of a new night recon",
+		"desc_jp": "旗艦「川内改二」または「由良改二」の第一装備スロに改修最大「九八式水上偵察機(夜偵)」を配備。<br>改修最大「零式水上偵察機11型乙」x1、改修資材及び開発資材x各13、熟練搭乗員x3を用意せよ！",
+		"desc": "Have your secretary flagship Sendai Kai Ni or Yura Kai Ni equip a maximum improved type 98 Reconnaissance Seaplane (Night Recon) in the first slot and have a maximum improved Type 0 Recon Model 11B, 13x Improvement Material, 13x Development Material and 3x Skilled Crew Member (All resources and Materials will be consumed upon completion)"
 	},
 	"9995": {
 		"code": "",
