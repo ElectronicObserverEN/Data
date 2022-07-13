@@ -1,5 +1,5 @@
 {
-	"version": "21030247",
+	"version": "21030248",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4009,7 +4009,7 @@
 		"name_jp": "米駆逐艦部隊の奮戦",
 		"name": "The hard fight of US destroyer unit",
 		"desc_jp": "「Fletcher級」及び「John C.Butler級」のうち二隻以上を含む艦隊で、南西諸島東部オリョール海、<br>中部北海域ピーコック島沖、南西海域ペナン島沖深部、昭南本土航路に反復出撃！敵を撃滅せよ！",
-		"desc": "Organize a fleet with 2 destroyer from Fletcher-class or John C. Butler-class in your fleet and score an S rank at the boss nodes on 2-3, 6-4, 7-4  and 7-3 (Part 2)"
+		"desc": "Organize a fleet with 2 destroyer from Fletcher-class or John C. Butler-class in your fleet and score an S rank at the boss nodes on 2-3, 6-4, 7-4  and 7-3 (Part 2) twice each"
 	},
 	"1101": {
 		"code": "F96",
