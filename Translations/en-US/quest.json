@@ -1,5 +1,5 @@
 {
-	"version": "21030244",
+	"version": "21030245",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1513,7 +1513,7 @@
 		"desc": "Use a fleet with Yuugumo Kai Ni, Naganami Kai Ni, and up to 4 additonal ships to obtain a B-rank (or higher) in Exercises 4 times within the same day."
 	},
 	"326": {
-		"code": "C22",
+		"code": "C59",
 		"name_jp": "夏季大演習",
 		"name": "Mass Exercises for Summer",
 		"desc_jp": "夏季大演習：夏季期間の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！<br>暑さに負けるな！　艦隊、抜錨！",
