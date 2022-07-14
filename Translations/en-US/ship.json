@@ -1,5 +1,5 @@
 {
-	"version": "21030124",
+	"version": "21030125",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -560,8 +560,7 @@
 		"Illustrious級": "Illustrious Class",
 		"Conte di Cavour級": "Conte di Cavour Class",
 		"Gato級": "Gato Class",
-		"特2TL型": "Special 2TL Class",
-		"不明": "Unknown"
+		"特2TL型": "Special 2TL Class"
 	},
 	"suffix": {
 		"改": "Kai",
