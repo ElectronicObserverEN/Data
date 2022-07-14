@@ -1,5 +1,5 @@
 {
-	"version": "21030125",
+	"version": "21030126",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -546,7 +546,7 @@
 		"迅鯨型": "Jingei Class",
 		"松型": "MatsuClass",
 		"South Dakota級": "South Dakota Class",
-		"巡潜丙型": "Junsen Type C Class",
+		"巡潜丙型": "Junsen Type C",
 		"丁型海防艦": "Type D Coastal Defense Ship",
 		"Yorktown級": "Yorktown Class",
 		"St. Louis級": "St. Louis Class",
