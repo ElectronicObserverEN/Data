@@ -1,5 +1,5 @@
 {
-	"version": "21030126",
+	"version": "21030127",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -544,7 +544,7 @@
 		"De Ruyter級": "De Ruyter Class",
 		"Atlanta級": "Atlanta Class",
 		"迅鯨型": "Jingei Class",
-		"松型": "MatsuClass",
+		"松型": "Matsu Class",
 		"South Dakota級": "South Dakota Class",
 		"巡潜丙型": "Junsen Type C",
 		"丁型海防艦": "Type D Coastal Defense Ship",
