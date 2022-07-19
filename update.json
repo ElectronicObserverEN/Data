@@ -1,12 +1,13 @@
 {
-	"bld_date": "2022/07/03 17:00:00",
-	"ver": "5.1.9",
-	"note": "Check github for release notes: https://github.com/gre4bee/ElectronicObserver/releases",
-	"url": "https://github.com/gre4bee/ElectronicObserver/releases/download/5.1.9/ElectronicObserver519EN.zip",
-	"hash": "AF361BCD8E1A1DF29F3BDE4FF20AC620FAD27F3A66286BDBD1701465EE0239B5",
-	"nodes": 20071505,
-	"QuestTrackers": 41,
-	"Locks": 9,
-	"kancolle_mt": "2021/08/20 11:00:00",
-	"event_state": 1
+  "bld_date": "2022/07/03 17:00:00",
+  "ver": "5.1.9",
+  "note": "Check github for release notes: https://github.com/gre4bee/ElectronicObserver/releases",
+  "url": "https://github.com/gre4bee/ElectronicObserver/releases/download/5.1.9/ElectronicObserver519EN.zip",
+  "hash": "AF361BCD8E1A1DF29F3BDE4FF20AC620FAD27F3A66286BDBD1701465EE0239B5",
+  "nodes": 20071505,
+  "QuestTrackers": 41,
+  "Locks": 9,
+  "FitBonuses": 1,
+  "kancolle_mt": "2021/08/20 11:00:00",
+  "event_state": 1
 }
