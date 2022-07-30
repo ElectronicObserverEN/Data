@@ -1,5 +1,5 @@
 {
-	"version": "21030249",
+	"version": "21030250",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1069,7 +1069,7 @@
 		"name_jp": "「水上打撃部隊」南方へ！",
 		"name": "Surface Strike Fleet, Onwards to the South!",
 		"desc_jp": "戦艦3隻軽巡1隻他を基幹とした水上打撃部隊で南方海域へ進出、敵艦隊を撃滅せよ！",
-		"desc": "Sortie 3 BB/BBV (only slow battleships), 1 CL and up to 2 additional ships to World 5-1 and score an S rank victory at the boss node."
+		"desc": "Organize a fleet with 3 battleships from Nagato-class/Fusou-class/Ise-class/Yamato-class, 1 CL and up to 2 additional ships in your fleet and score an S rank at the boss node on 5-1"
 	},
 	"260": {
 		"code": "B32",
