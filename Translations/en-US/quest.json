@@ -1,5 +1,5 @@
 {
-	"version": "21030252",
+	"version": "21030253",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4010,6 +4010,13 @@
 		"name": "Samuel B.Roberts Mk.II, Weigh anchor！",
 		"desc_jp": "改装されたSamuel B.Roberts Mk.IIを旗艦とする艦隊で、鎮守府近海、鎮守府近海航路を守り、<br>南西諸島バシー海峡、北方AL海域に出撃、同海域の敵艦隊を撃滅せよ！　Thanks a lot !",
 		"desc": "Organize a fleet with Samuel B.Roberts Mk.II as flagship and score an S rank at the boss nodes on 1-5, 2-2, 3-5 and reach the anchor node N on 1-6."
+	},
+	"983": {
+		"code": "B187",
+		"name_jp": "不屈敢闘「Taffy Ⅲ」、Weigh anchor!",
+		"name": "Unyielding [Taffy III], weigh anchor!",
+		"desc_jp": "「Gambier Bay」「Johnston」「Samuel B.Roberts」基幹の“Taffy Ⅲ”を編成、東部オリョール海、<br>沖ノ島沖、カレー洋リランカ島沖、サーモン海域北方に展開、同海域の敵を捕捉、これを撃滅せよ！",
+		"desc": "Organize a fleet with Gambier Bay, Johnston, Samuel B. Roberts in your fleet and score an S rank at the boss nodes on 2-3, 2-5, 4-5, and 5-5"
 	},
 	"1101": {
 		"code": "F96",
