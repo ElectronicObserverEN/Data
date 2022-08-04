@@ -1,5 +1,5 @@
 {
-	"version": "21030251",
+	"version": "21030252",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4115,6 +4115,13 @@
 		"name": "Deployment of a new night recon",
 		"desc_jp": "旗艦「川内改二」または「由良改二」の第一装備スロに改修最大「九八式水上偵察機(夜偵)」を配備。<br>改修最大「零式水上偵察機11型乙」x1、改修資材及び開発資材x各13、熟練搭乗員x3を用意せよ！",
 		"desc": "Have your secretary flagship Sendai Kai Ni or Yura Kai Ni equip a maximum improved type 98 Reconnaissance Seaplane (Night Recon) in the first slot and have a maximum improved Type 0 Recon Model 11B, 13x Improvement Material, 13x Development Material and 3x Skilled Crew Member (All resources and Materials will be consumed upon completion)"
+	},
+	"1118": {
+		"code": "F112",
+		"name_jp": "【工廠任務】Hedgehogの配備",
+		"name": "[Arsenal Quest] Deployment of Hedgehog",
+		"desc_jp": "旗艦「Samuel B.Roberts Mk.II」の第一スロに「5inch単装砲 Mk.30」(※改修してなくとも可)を装備。<br>開発資材x15、新型兵装資材x2、新型噴進装備開発資材x2、弾薬960を準備せよ！",
+		"desc": "Have your secretary flagship Samuel B.Roberts Mk.II equip 5inch Single Gun Mount Mk.30 without any improvment in the first slot and have 15x Development Material, 2x Armament Material, 2x Rocket Material, 960 ammo (All resources and Materials will be consumed upon completion)"
 	},
 	"9995": {
 		"code": "",
