@@ -1,5 +1,5 @@
 {
-	"version": "21030250",
+	"version": "21030251",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1728,6 +1728,13 @@
 		"name": "[Yamato-class Battleship] 1st Squadron exercises, begin! ",
 		"desc_jp": "大和型戦艦演習任務：大和型戦艦「大和」及び「武蔵」両艦、随伴艦に軽巡1隻、駆逐艦2隻<br>以上を含む演習艦隊を編成。同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！",
 		"desc": "Organize a fleet with Yamato, Musashi, 1CL and 2DD in your fleet and score S rank 3 times in PvP"
+	},
+	"358": {
+		"code": "C68",
+		"name_jp": "「Taffy Ⅲ」 This is a drill!",
+		"name": "「Taffy Ⅲ」 This is a drill!",
+		"desc_jp": "「Samuel B.Roberts」「Johnston」「Gambier Bay」の三隻を含む任務部隊「Taffy Ⅲ」を編成、<br>本日中に演習で【S判定】勝利を4回以上達成せよ！This is a drill. I repeat, this is a drill.",
+		"desc": "Organize a fleet with Samuel B.Roberts, Johnston and Gambier Bay in your fleet and score S rank 4 times in PvP"
 	},
 	"401": {
 		"code": "D1",
@@ -3996,6 +4003,13 @@
 		"name": "The hard fight of US destroyer unit",
 		"desc_jp": "「Fletcher級」及び「John C.Butler級」のうち二隻以上を含む艦隊で、南西諸島東部オリョール海、<br>中部北海域ピーコック島沖、南西海域ペナン島沖深部、昭南本土航路に反復出撃！敵を撃滅せよ！",
 		"desc": "Organize a fleet with 2 destroyer from Fletcher-class or John C. Butler-class in your fleet and score an S rank at the boss nodes on 2-3, 6-4, 7-4  and 7-3 (Part 2) twice each"
+	},
+	"982": {
+		"code": "B186",
+		"name_jp": "Samuel B.Roberts Mk.II、抜錨せよ！",
+		"name": "Samuel B.Roberts Mk.II, Weigh anchor！",
+		"desc_jp": "改装されたSamuel B.Roberts Mk.IIを旗艦とする艦隊で、鎮守府近海、鎮守府近海航路を守り、<br>南西諸島バシー海峡、北方AL海域に出撃、同海域の敵艦隊を撃滅せよ！　Thanks a lot !",
+		"desc": "Organize a fleet with Samuel B.Roberts Mk.II as flagship and score an S rank at the boss nodes on 1-5, 2-2, 3-5 and reach the anchor node N on 1-6."
 	},
 	"1101": {
 		"code": "F96",
