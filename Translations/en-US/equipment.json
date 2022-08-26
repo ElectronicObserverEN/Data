@@ -1,5 +1,5 @@
 {
-	"version": "21030228",
+	"version": "21030229",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -597,7 +597,9 @@
 		"12.7cm連装砲C型改三": "12.7cm Twin Gun Model C Kai 3",
 		"熟練聴音員+後期型艦首魚雷(4門)": "Skilled Sonar Personnel + Late Model Bow Torpedo Mount (4 tubes)",
 		"Loire 130M": "Loire 130M",
-		"Mk.32 対潜魚雷(Mk.2落射機)": "Mk.32 ASW Torpedo (Mk.2 Thrower)"
+		"Mk.32 対潜魚雷(Mk.2落射機)": "Mk.32 ASW Torpedo (Mk.2 Thrower)",
+		"熟練甲板要員": "Skilled Deck Personnel",
+		"熟練甲板要員+航空整備員": "Skilled Deck Personnel + Aviation Maintenance Personnel"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",
