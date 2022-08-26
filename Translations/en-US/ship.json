@@ -1,5 +1,5 @@
 {
-	"version": "21030127",
+	"version": "21030128",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -441,7 +441,8 @@
 		"伊201": "I-201",
 		"外南洋駆逐棲姫": "Outer Southern Sea Destroyer Princess",
 		"倉橋": "Kurahashi",
-		"近代化戦艦棲姫": "Modernization Battleship Princess"
+		"近代化戦艦棲姫": "Modernization Battleship Princess",
+		"鵜来": "Ukuru"
 	},
 	"class": {
 		"綾波型": "Ayanami Class",
