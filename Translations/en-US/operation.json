@@ -1,5 +1,5 @@
 {
-	"version": "20071509",
+	"version": "20071510",
 	"map": {
 		"南西諸島近海": "Adjacent Seas of Southwest Islands",
 		"バシー海峡": "Bashi Strait",
@@ -82,7 +82,13 @@
 		"ショートランド沖/レカタ沖": "Off Shortland/Rekata",
 		"ビスマルク海/ダンピール海峡沖": "Bismarck Sea, off the Dampier Strait",
 		"豊後水道/佐世保沖/坊ノ岬沖": "Bungo Channel / Sea off of Sasebo / Sea off of Cape Bono",
-		"坊ノ岬沖/台湾沖/南西諸島海域": "Off Bonomisaki / Off Taiwan / Nansei Islands Area"
+		"坊ノ岬沖/台湾沖/南西諸島海域": "Off Bonomisaki / Off Taiwan / Nansei Islands Area",
+		"インド洋/アラビア海": "Indian Ocean/Arabian Sea",
+		"アラビア海/アデン湾/紅海": "Arabian Sea/Gulf of Aden/Red Sea",
+		"スエズ湾/地中海": "Gulf of Suez/Mediterranean",
+		"#E4目的地": "#E4目的地 (55-4)",
+		"#E5目的地": "#E5目的地 (55-5)",
+		"#E6目的地": "#E6目的地 (55-6)"
 	},
 	"fleet": {
 		"渦潮": "Whirlpool",
@@ -349,6 +355,22 @@
 		"深海任務部隊 主力機動部隊群": "Abyssal Mobile Task Force Main Force Group",
 		"敵鉄底海峡任務部隊 重巡戦隊": "Enemy Ironbottom Strait Task Force Heavy Squadron",
 		"敵鉄底海峡任務部隊 増援艦隊": "Enemy Ironbottom Strait Task Force Reinforcements",
-		"敵南方艦隊 旗艦": "Enemy Southern Fleet Flagship"
+		"敵南方艦隊 旗艦": "Enemy Southern Fleet Flagship",
+		"敵通商破壊侵入水雷戦隊": "Enemy Trade Disruption Intruder Mine Squadron",
+		"任務部隊 主力群": "Task Force Main Force Group",
+		"敵前衛部隊": "Abyssal Vanguard Group",
+		"敵侵攻前衛艦隊 A群": "Enemy Invasion Vanguard Fleet Group A",
+		"敵侵攻重巡戦隊": "Enemy Invasion Heavy Cruiser Squadron",
+		"深海潜水艦隊 哨戒集団 C群": "Abyssal Submarine Fleet Patrolling Group C",
+		"深海潜水艦隊 哨戒集団 旗艦群": "Abyssal Submarine Fleet Patrolling Flagship Group",
+		"敵通商破壊機動部隊 主力艦隊": "Enemy Trade Sabotage Task Force Main Fleet",
+		"敵北方機動部隊": "Enemy Northern Task Force",
+		"敵深海北方泊地艦隊": "Enemy Deep Northern Sea Harbor Fleet",
+		"敵北方遊撃任務部隊": "Enemy Northern Raid Task Force",
+		"敵侵攻前衛艦隊 B群": "Enemy Invasion Vanguard Fleet Group B",
+		"敵侵攻水雷戦隊": "Enemy Invasion Mines",
+		"敵侵攻水上打撃部隊": "Enemy Invasion Surface Strike Force",
+		"敵潜水哨戒部隊": "Enemy Submarine Patrol Unit",
+		"敵北方巡洋艦戦隊 B群": "Enemy Northern Cruiser Squadron Group B"
 	}
 }
