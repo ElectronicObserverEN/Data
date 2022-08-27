@@ -6,20 +6,20 @@
 		{"Id":4,"A":255,"R":211,"G":145,"B":78,"Name":"地中海連合艦隊"}
 	],
 	"Phases": [
-		{"LockGroups":[5501],"Name":"E1 J"},
-		{"LockGroups":[5501],"Name":"E1 K"},
-		{"LockGroups":[5501],"Name":"E1-1"},
-		{"LockGroups":[5502],"Name":"E2-1"},
-		{"LockGroups":[5502],"Name":"E2 G"},
-		{"LockGroups":[5502],"Name":"E2 J"},
-		{"LockGroups":[5502],"Name":"E2 O"},
-		{"LockGroups":[5503],"Name":"E2-2"},
-		{"LockGroups":[5503],"Name":"E3 C2"},
-		{"LockGroups":[5503],"Name":"E3 E"},
-		{"LockGroups":[5504],"Name":"E3-1"},
-		{"LockGroups":[5504],"Name":"E3 G"},
-		{"LockGroups":[5504],"Name":"E3 N"},
-		{"LockGroups":[5504],"Name":"E3 P"},
-		{"LockGroups":[5504],"Name":"E3-2"}
+		{"LockGroups":[1],"Name":"E1 J"},
+		{"LockGroups":[1],"Name":"E1 K"},
+		{"LockGroups":[1],"Name":"E1-1"},
+		{"LockGroups":[2],"Name":"E2-1"},
+		{"LockGroups":[2],"Name":"E2 G"},
+		{"LockGroups":[2],"Name":"E2 J"},
+		{"LockGroups":[2],"Name":"E2 O"},
+		{"LockGroups":[3],"Name":"E2-2"},
+		{"LockGroups":[3],"Name":"E3 C2"},
+		{"LockGroups":[3],"Name":"E3 E"},
+		{"LockGroups":[4],"Name":"E3-1"},
+		{"LockGroups":[4],"Name":"E3 G"},
+		{"LockGroups":[4],"Name":"E3 N"},
+		{"LockGroups":[4],"Name":"E3 P"},
+		{"LockGroups":[4],"Name":"E3-2"}
 	]
 }
