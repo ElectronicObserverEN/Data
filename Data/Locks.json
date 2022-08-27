@@ -5,5 +5,21 @@
 		{"Id":5503,"A":255,"R":38,"G":114,"B":35,"Name":"遠征艦隊先遣隊"},
 		{"Id":5504,"A":255,"R":211,"G":145,"B":78,"Name":"地中海連合艦隊"}
 	],
-	"Phases": []
+	"Phases": [
+		{"LockGroups":[5501],"Name":"E1 J"},
+		{"LockGroups":[5501],"Name":"E1 K"},
+		{"LockGroups":[5501],"Name":"E1-1"},
+		{"LockGroups":[5502],"Name":"E2-1"},
+		{"LockGroups":[5502],"Name":"E2 G"},
+		{"LockGroups":[5502],"Name":"E2 J"},
+		{"LockGroups":[5502],"Name":"E2 O"},
+		{"LockGroups":[5503],"Name":"E2-2"},
+		{"LockGroups":[5503],"Name":"E3 C2"},
+		{"LockGroups":[5503],"Name":"E3 E"},
+		{"LockGroups":[5504],"Name":"E3-1"},
+		{"LockGroups":[5504],"Name":"E3 G"},
+		{"LockGroups":[5504],"Name":"E3 N"},
+		{"LockGroups":[5504],"Name":"E3 P"},
+		{"LockGroups":[5504],"Name":"E3-2"}
+	]
 }
