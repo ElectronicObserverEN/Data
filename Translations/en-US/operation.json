@@ -1,5 +1,5 @@
 {
-	"version": "20071510",
+	"version": "20071512",
 	"map": {
 		"南西諸島近海": "Adjacent Seas of Southwest Islands",
 		"バシー海峡": "Bashi Strait",
@@ -371,6 +371,13 @@
 		"敵侵攻水雷戦隊": "Enemy Invasion Mines",
 		"敵侵攻水上打撃部隊": "Enemy Invasion Surface Strike Force",
 		"敵潜水哨戒部隊": "Enemy Submarine Patrol Unit",
-		"敵北方巡洋艦戦隊 B群": "Enemy Northern Cruiser Squadron Group B"
+		"敵北方巡洋艦戦隊 B群": "Enemy Northern Cruiser Squadron Group B",
+		"深海任務部隊 極東偵察水雷戦隊": "Abyssal Task Force Far Eastern Reconnaissance Mines Squadron",
+		"深海任務部隊 極東軽空母戦隊": "Abyssal Task Force Far Eastern Light Carrier Battle Squadron",
+		"深海インド洋方面 港湾泊地": "Abyssal Indian Ocean Area Harbor Base",
+		"深海潜水艦隊 インド洋南哨戒線": "Abyssal Submarine Fleet Southern Indian Ocean Patrol Line",
+		"深海空母機動部隊 艦載機群": "Abyssal Carrier Task Force Ship-Based Aircraft Group",
+		"深海アラビア海方面 戦艦戦隊": "Abyssal Arabian Sea Area Battleship Squadron",
+		"深海アラビア海方面 空母機動部隊": "Abyssal Arabian Sea Area Carrier Task Force"
 	}
 }
