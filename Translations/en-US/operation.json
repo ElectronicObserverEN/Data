@@ -1,5 +1,5 @@
 {
-	"version": "20071512",
+	"version": "20071514",
 	"map": {
 		"南西諸島近海": "Adjacent Seas of Southwest Islands",
 		"バシー海峡": "Bashi Strait",
@@ -378,6 +378,9 @@
 		"深海潜水艦隊 インド洋南哨戒線": "Abyssal Submarine Fleet Southern Indian Ocean Patrol Line",
 		"深海空母機動部隊 艦載機群": "Abyssal Carrier Task Force Ship-Based Aircraft Group",
 		"深海アラビア海方面 戦艦戦隊": "Abyssal Arabian Sea Area Battleship Squadron",
-		"深海アラビア海方面 空母機動部隊": "Abyssal Arabian Sea Area Carrier Task Force"
+		"深海アラビア海方面 空母機動部隊": "Abyssal Arabian Sea Area Carrier Task Force",
+		"深海潜水艦隊 アラビア海哨戒線": "Abyssal Submarine Fleet Arabian Sea Area Patrol Line",
+		"深海任務部隊 揚陸阻止線": "Abyssal Task Force Anti Landing Line",
+		"深海任務部隊 揚陸地点強襲部隊": "Abyssal Task Force Landing Point Assault Force"
 	}
 }
