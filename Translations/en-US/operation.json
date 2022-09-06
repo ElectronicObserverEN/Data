@@ -1,5 +1,5 @@
 {
-	"version": "20071514",
+	"version": "20071516",
 	"map": {
 		"南西諸島近海": "Adjacent Seas of Southwest Islands",
 		"バシー海峡": "Bashi Strait",
@@ -381,6 +381,13 @@
 		"深海アラビア海方面 空母機動部隊": "Abyssal Arabian Sea Area Carrier Task Force",
 		"深海潜水艦隊 アラビア海哨戒線": "Abyssal Submarine Fleet Arabian Sea Area Patrol Line",
 		"深海任務部隊 揚陸阻止線": "Abyssal Task Force Anti Landing Line",
-		"深海任務部隊 揚陸地点強襲部隊": "Abyssal Task Force Landing Point Assault Force"
+		"深海任務部隊 揚陸地点強襲部隊": "Abyssal Task Force Landing Point Assault Force",
+		"深海任務部隊 油槽船団": "Abyssal Task Force Tanker Group",
+		"深海任務部隊 増援軽空母戦隊": "Abyssal Task Force Reinforcement Light Carrier Squadron",
+		"深海攻勢拠点 物資集積地": "Abyssal Offensive Base Supply Depot",
+		"深海任務部隊 アデン湾阻止線": "Abyssal Task Force Gulf of Aden Blockade",
+		"深海任務部隊 警戒軽空母集団": "Abyssal Task Force Alert Light Carrier Group",
+		"深海任務部隊 紅海阻止線前縁部": "Abyssal Task Force Leading Edge of the Red Sea Blockade",
+		"深海任務部隊 紅海絶対阻止線": "Abyssal Task Force Red Sea Blockade"
 	}
 }
