@@ -1,5 +1,5 @@
 {
-	"version": "21030229",
+	"version": "21030230",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -599,7 +599,8 @@
 		"Loire 130M": "Loire 130M",
 		"Mk.32 対潜魚雷(Mk.2落射機)": "Mk.32 ASW Torpedo (Mk.2 Thrower)",
 		"熟練甲板要員": "Skilled Deck Personnel",
-		"熟練甲板要員+航空整備員": "Skilled Deck Personnel + Aviation Maintenance Personnel"
+		"熟練甲板要員+航空整備員": "Skilled Deck Personnel + Aviation Maintenance Personnel",
+		"特大発動艇+Ⅲ号戦車(北アフリカ仕様)": "Toku Daihatsu Landing Craft + Panzer III (North African Corps)"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",
