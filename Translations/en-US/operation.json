@@ -1,5 +1,5 @@
 {
-	"version": "20071516",
+	"version": "20071518",
 	"map": {
 		"南西諸島近海": "Adjacent Seas of Southwest Islands",
 		"バシー海峡": "Bashi Strait",
@@ -88,7 +88,10 @@
 		"スエズ湾/地中海": "Gulf of Suez/Mediterranean",
 		"#E4目的地": "#E4目的地 (55-4)",
 		"#E5目的地": "#E5目的地 (55-5)",
-		"#E6目的地": "#E6目的地 (55-6)"
+		"#E6目的地": "#E6目的地 (55-6)",
+		"大西洋/ジブラルタル沖": "Atlantic Ocean/Off the coast of Gibraltar",
+		"ジブラルタル沖/北アフリカ沖": "Off Gibraltar/Off North Africa",
+		"カサブランカ沖": "Off Casablanca"
 	},
 	"fleet": {
 		"渦潮": "Whirlpool",
@@ -388,6 +391,10 @@
 		"深海任務部隊 アデン湾阻止線": "Abyssal Task Force Gulf of Aden Blockade",
 		"深海任務部隊 警戒軽空母集団": "Abyssal Task Force Alert Light Carrier Group",
 		"深海任務部隊 紅海阻止線前縁部": "Abyssal Task Force Leading Edge of the Red Sea Blockade",
-		"深海任務部隊 紅海絶対阻止線": "Abyssal Task Force Red Sea Blockade"
+		"深海任務部隊 紅海絶対阻止線": "Abyssal Task Force Red Sea Blockade",
+		"深海任務部隊 スエズ湾阻止線": "Abyssal Task Force Gulf of Suez Blocking Line",
+		"深海地中海艦隊 軽空母戦隊": "Abyssal Mediterranean Fleet Light Carrier Squadron",
+		"深海地中海艦隊 前衛偵察艦隊": "Abyssal Mediterranean Fleet Vanguard Scout Fleet",
+		"深海上陸橋頭堡 物資集積地": "Abyssal Landing Headquarters Supply Depot"
 	}
 }
