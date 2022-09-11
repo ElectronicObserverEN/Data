@@ -27,6 +27,19 @@
 		{"LockGroups":[4],"Name":"E3 N"},
 		{"LockGroups":[4],"Name":"E3 P"},
 		{"LockGroups":[4],"Name":"E3-2"},
-		{"LockGroups":[4],"Name":"E3 S"}
+		{"LockGroups":[4],"Name":"E3 S"},
+		{"LockGroups":[5],"Name":"E4-1"},
+		{"LockGroups":[5],"Name":"E4 G2"},
+		{"LockGroups":[5],"Name":"E4 L1"},
+		{"LockGroups":[5],"Name":"E4 L2"},
+		{"LockGroups":[6],"Name":"E4 O2"},
+		{"LockGroups":[6],"Name":"E4 T"},
+		{"LockGroups":[6],"Name":"E4-2"},
+		{"LockGroups":[7],"Name":"E5-1"},
+		{"LockGroups":[7],"Name":"E5 I"},
+		{"LockGroups":[7],"Name":"E5 F"},
+		{"LockGroups":[8],"Name":"E5-2"},
+		{"LockGroups":[8,4],"Name":"E5 M"},
+		{"LockGroups":[8,4],"Name":"E5-3"}
 	]
 }
