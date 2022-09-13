@@ -40,6 +40,11 @@
 		{"LockGroups":[7],"Name":"E5 F"},
 		{"LockGroups":[8],"Name":"E5-2"},
 		{"LockGroups":[8,4],"Name":"E5 M"},
-		{"LockGroups":[8,4],"Name":"E5-3"}
+		{"LockGroups":[8,4],"Name":"E5-3"},
+		{"LockGroups":[4],"Name":"E5-4"},
+		{"LockGroups":[7,4],"Name":"E5 I"},
+		{"LockGroups":[8,4],"Name":"E5 P"},
+		{"LockGroups":[4],"Name":"E5 T"},
+		{"LockGroups":[4],"Name":"E5 U"}
 	]
 }
