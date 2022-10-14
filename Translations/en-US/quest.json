@@ -1,5 +1,5 @@
 {
-	"version": "21030253",
+	"version": "21030254",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4017,6 +4017,13 @@
 		"name": "Unyielding [Taffy III], weigh anchor!",
 		"desc_jp": "「Gambier Bay」「Johnston」「Samuel B.Roberts」基幹の“Taffy Ⅲ”を編成、東部オリョール海、<br>沖ノ島沖、カレー洋リランカ島沖、サーモン海域北方に展開、同海域の敵を捕捉、これを撃滅せよ！",
 		"desc": "Organize a fleet with Gambier Bay, Johnston, Samuel B. Roberts in your fleet and score an S rank at the boss nodes on 2-3, 2-5, 4-5, and 5-5"
+	},
+	"984": {
+		"code": "",
+		"name_jp": "【期間限定任務】艦隊南瓜秋祭り、始め！",
+		"name": "Fleet Pumpkin Festival, let's begin!",
+		"desc_jp": "「朝潮」「浜波」「野分」「夕立」「瑞穂」のいずれかを旗艦とする艦隊で、製油所地帯沿岸、<br>南西諸島防衛線、鎮守府近海に出撃！敵艦隊を捜索、これを殲滅せよ！　Trick or Treat！",
+		"desc": "Organize a fleet with one of Asashio, Hamanami, Nowaki, Yuudachi or Mizuho as flagship and score an S rank at the boss nodes on 1-3, 1-4 and 1-5"
 	},
 	"1101": {
 		"code": "F96",
