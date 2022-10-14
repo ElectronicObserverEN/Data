@@ -1,5 +1,5 @@
 {
-	"version": "21030255",
+	"version": "21030256",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4039,6 +4039,13 @@
 		"desc_jp": "「最上」｢時雨」「満潮」「山雲」「朝雲」のうち2隻以上を含む艦隊を編成、北方モーレイ海、<br>アルフォンシーノ方面、北方AL海域に展開！北方方面の敵艦隊を捕捉、これを撃滅せよ！",
 		"desc": "Organize a fleet with 2 of Mogami, Shigure, Michishio, Asagumo, Yamagumo in your fleet and score an S rank at the boss nodes on 3-1, 3-3 and 3-5"
 	},
+	"986": {
+		"code": "",
+		"name_jp": "【期間限定任務】艦隊南瓜秋祭り、西方へ！",
+		"name": "Fleet Pumpkin Festival, heading west!",
+		"desc_jp": "「Roma」「Libeccio」「Grecale」「早波」「多摩」のいずれかを旗艦とする艦隊で、カレー洋海域、<br>リランカ島、カレー洋リランカ島沖に展開！同地の敵戦力を殲滅せよ！　Happy Halloween！",
+		"desc": "Organize a fleet with one of Roma, Libeccio, Grecale, Hayanami, Tama as flagship and score an S rank at the boss nodes on 4-2, 4-3 and 4-5"
+	},
 	"1101": {
 		"code": "F96",
 		"name_jp": "海軍工廠の再整備",
@@ -4150,6 +4157,13 @@
 		"name": "[Arsenal Quest] Deployment of Hedgehog",
 		"desc_jp": "旗艦「Samuel B.Roberts Mk.II」の第一スロに「5inch単装砲 Mk.30」(※改修してなくとも可)を装備。<br>開発資材x15、新型兵装資材x2、新型噴進装備開発資材x2、弾薬960を準備せよ！",
 		"desc": "Have your secretary flagship Samuel B.Roberts Mk.II equip 5inch Single Gun Mount Mk.30 without any improvment in the first slot and have 15x Development Material, 2x Armament Material, 2x Rocket Material, 960 ammo (All resources and Materials will be consumed upon completion)"
+	},
+	"1119": {
+		"code": "",
+		"name_jp": "【期間限定任務】Halloweenはお掃除も！",
+		"name": "Cleaning up for Halloween!",
+		"desc_jp": "「小口径主砲」「中口径主砲」「水上偵察機」各x5を廃棄、「35.6cm連装砲」x4、「13号対空電探」x2<br>家具コイン1031を準備せよ！(任務達成後、準備した装備・家具コインは消費します)",
+		"desc": "Have 4x 35.6cm Twin Gun Mount, 2x Type 13 AIR Radar, 1031 coins in inventory and then proceed to scrap 5x Small guns, 5x Medium guns, 5x Seaplane recons (All resources and Materials will be consumed upon completion)"
 	},
 	"9995": {
 		"code": "",
