@@ -1,5 +1,5 @@
 {
-	"version": "21030256",
+	"version": "21030257",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4045,6 +4045,13 @@
 		"name": "Fleet Pumpkin Festival, heading west!",
 		"desc_jp": "「Roma」「Libeccio」「Grecale」「早波」「多摩」のいずれかを旗艦とする艦隊で、カレー洋海域、<br>リランカ島、カレー洋リランカ島沖に展開！同地の敵戦力を殲滅せよ！　Happy Halloween！",
 		"desc": "Organize a fleet with one of Roma, Libeccio, Grecale, Hayanami, Tama as flagship and score an S rank at the boss nodes on 4-2, 4-3 and 4-5"
+	},
+	"987": {
+		"code": "",
+		"name_jp": "【甲種任務】艦隊南瓜秋祭り、拡張作戦！",
+		"name": "Fleet Pumpkin Festival, Extra Operation!",
+		"desc_jp": "「扶桑」「山城」2隻、または「伊勢」「日向」2隻または「磯風」「浜風」「雪風」3隻を含む艦隊で、<br>MS諸島沖、グアノ環礁沖海域、中部北海域ピーコック島沖、KW環礁沖海域の敵を撃滅せよ！",
+		"desc": "Organize a fleet with either Fusou+Yamashiro or Ise+Hyuuga or Isokaze+Hamakaze+Yukikaze in your fleet and score an S rank at the boss nodes on 6-2, 6-3, 6-4 and 6-5"
 	},
 	"1101": {
 		"code": "F96",
