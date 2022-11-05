@@ -1,5 +1,5 @@
 {
-	"version": "21030258",
+	"version": "21030259",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2820,6 +2820,13 @@
 		"name": "Limited-Time Spring Mission: Swordfish Floatplane's Remodel",
 		"desc_jp": "旗艦「Gotland」第一スロに「Swordfish(水上機型)」改修max、 「瑞雲」x3、「零式水上偵察機」x3、<br>「13号対空電探改」x1廃棄、弾薬x2,500、ボーキ4,000、新型航空兵装資材x1、熟練搭乗員x1を準備！",
 		"desc": "Have Gotland set as Flagship and place Swordfish (Seaplane Model) MAX★ in her 1st Slot. Prepare 2,500 Ammo, 4,000 Bauxite, 1x New Model Aerial Armament Material, 1x Skilled Crew Member. Scrap 3x Zuiun, 3x Type 0 Reconnaissance Seaplane, and 1x Type 13 Air Radar Kai."
+	},
+	"698": {
+		"code": "F91",
+		"name_jp": "新鋭対潜哨戒航空戦力の導入",
+		"name": "Introduction of Cutting-Edge ASW Patrol Aircraft",
+		"desc_jp": "旗艦「加賀改二護」第一スロに「TBM-3D」を搭載。 「TBF」x2、「流星」x1、「流星改」x1を廃棄、<br>弾薬x1,840、ボーキ6,200、新型航空兵装資材x2、熟練搭乗員x1を準備せよ！",
+		"desc": "Set Kaga Kai Ni Go as secretary, equipped with a TBM-3D in her 1st slot, then scrap 2 TBF, 1 Ryuusei, and 1 Ryuusei Kai, and prepare 2 New Model Aerial Armament Material, 1 Skilled Crew Member, 1,840 ammo, and 6,200 bauxite."
 	},
 	"701": {
 		"code": "G1",
