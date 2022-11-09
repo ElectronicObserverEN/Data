@@ -1,5 +1,5 @@
 {
-	"version": "21030259",
+	"version": "21030260",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3311,6 +3311,13 @@
 		"desc_jp": "出撃任務：「Saratoga Mk.II」を旗艦とした第一艦隊を KW環礁沖海域に展開、敵機動部隊を迎撃！<br>「空母機動部隊迎撃戦」を見事成功させよ！　夜戦作戦空母、抜錨！　前線に出撃せよ！",
 		"desc": "Sortie Saratoga Mk.II as flagship to [W6-5]. S-rank the boss nodes."
 	},
+	"866": {
+		"code": "",
+		"name_jp": "秋刀魚漁：不漁ですか～? 困り～ました～ね～！",
+		"name": "Saury Fishing: Easy ",
+		"desc_jp": "秋刀魚漁艦隊を近海、北方海域、中部海域などの秋刀魚漁漁場に展開ぃ～秋刀魚漁を～支援してぇ～、<br>新鮮な「秋刀魚」を～6尾入手してくださ～い～っ！不漁ですかぁ～? 困り～ました～ねぇ～！",
+		"desc": "Have 6 fish in inventory"
+	},
 	"869": {
 		"code": "B107",
 		"name_jp": "補給線の安全を確保せよ！",
@@ -3905,6 +3912,13 @@
 		"name": "Shiratsuyu-Class Destroyer \"Yamakaze Kai Ni\" will fight hard!",
 		"desc_jp": "「山風改二/丁」「江風改二」「海風改二」のうち2隻以上を含む艦隊で、南西諸島海域バシー海峡、<br>タウイタウイ泊地沖深部、南方海域前面、中部北海域ピーコック島沖へ出撃、敵戦力を撃滅せよ！",
 		"desc": "Have 2 ships which must have Yamakaze Kai Ni/D along with Umikaze Kai Ni and/or Kawakaze Kai Ni and 4 XX and score an S rank on 2-2, 7-2 (Part 2), 5-1, and 6-4"
+	},
+	"959": {
+		"code": "",
+		"name_jp": "「鎮守府秋刀魚祭り」発動準備！",
+		"name": "Preparing to launch Naval Base Saury Festival!",
+		"desc_jp": "軽巡(含む練習巡洋艦)・水上機母艦・特務艦を旗艦とした艦隊で、鎮守府正面海域、南西諸島沖、<br>製油所地帯沿岸、南西諸島防衛線、鎮守府近海を偵察！鎮守府海域周辺の安全を確保せよ！",
+		"desc": "Organize a fleet with CL/CT/AV/Souya as flagship and score an S rank at the boss nodes on 1-1, 1-2, 1-3, 1-4 and 1-5"
 	},
 	"961": {
 		"code": "B174",
