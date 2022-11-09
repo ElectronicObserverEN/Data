@@ -1,5 +1,5 @@
 {
-	"version": "21030231",
+	"version": "21030232",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -601,7 +601,8 @@
 		"熟練甲板要員": "Skilled Deck Personnel",
 		"熟練甲板要員+航空整備員": "Skilled Deck Personnel + Aviation Maintenance Personnel",
 		"特大発動艇+Ⅲ号戦車(北アフリカ仕様)": "Toku Daihatsu Landing Craft + Panzer III (North African Corps)",
-		"三式弾改二": "Type 3 Shell Kai Ni"
+		"三式弾改二": "Type 3 Shell Kai Ni",
+		"四式重爆 飛龍(熟練)+イ号一型甲 誘導弾": "Type 4 Heavy Bomber Hiryuu (Skilled) + No.1 Model 1A Guided Missile"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",
