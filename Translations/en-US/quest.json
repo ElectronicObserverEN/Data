@@ -1,5 +1,5 @@
 {
-	"version": "21030260",
+	"version": "21030261",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3919,6 +3919,13 @@
 		"name": "Preparing to launch Naval Base Saury Festival!",
 		"desc_jp": "軽巡(含む練習巡洋艦)・水上機母艦・特務艦を旗艦とした艦隊で、鎮守府正面海域、南西諸島沖、<br>製油所地帯沿岸、南西諸島防衛線、鎮守府近海を偵察！鎮守府海域周辺の安全を確保せよ！",
 		"desc": "Organize a fleet with CL/CT/AV/Souya as flagship and score an S rank at the boss nodes on 1-1, 1-2, 1-3, 1-4 and 1-5"
+	},
+	"960": {
+		"code": "",
+		"name_jp": "続：「鎮守府秋刀魚祭り」発動準備！",
+		"name": "Continuation: Preparing to launch Naval Base Saury Festival!",
+		"desc_jp": "軽巡(含む練習巡洋艦)・潜水母艦・特務艦を旗艦とした艦隊で、北方海域モーレイ海、キス島沖、<br>アルフォンシーノ方面、北方海域全域、北方AL海域へ展開！北方海域での秋刀魚漁に備えよ！",
+		"desc": "Organize a fleet with CL/CT/AS/Souya as flagship and score an S rank at the boss nodes on 3-1, 3-2, 3-3, 3-4 and 3-5"
 	},
 	"961": {
 		"code": "B174",
