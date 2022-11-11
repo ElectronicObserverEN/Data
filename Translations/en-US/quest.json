@@ -1,5 +1,5 @@
 {
-	"version": "21030263",
+	"version": "21030264",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4115,6 +4115,13 @@
 		"name": "Deployment of equipment to support landing operations",
 		"desc_jp": "旗艦「神州丸」の第一装備スロットに最大改修「大発動艇(八九式中戦車＆陸戦隊)」を搭載。<br>「7.7mm機銃」「大発動艇」各x2廃棄。高速建造材x8、開発資材x10、鋼材800を準備せよ！",
 		"desc": "Have your secretary flagship Shinshuu Maru equip a maxed modified Daihatsu Landing Craft (Type 89 Medium Tank & Landing Force) in the first slot and then proceed to scrap 2 7.7mm Machine Gun, 2 Daihatsu and have 8 Instant Construction Materials, 10 Development Mateirals, and 800 steel (All resources and Materials will be consumed upon completion)"
+	},
+	"1110": {
+		"code": "22Fa LF01",
+		"name_jp": "秋刀魚祭り限定任務：特別な「瑞雲」配備！",
+		"name": "Saury Festival Limited Mission: Special \"Zuiun\" Deployed!",
+		"desc_jp": "秋刀魚祭り2022限定任務：旗艦「最上」第一スロに最大改修「瑞雲(六三四空/熟練)」を搭載。「瑞雲」<br>「紫電改二」各x2を廃棄。水揚げした「秋刀魚」8尾、開発資材x22、ボーキサイト1,700を準備せよ！",
+		"desc": "Have your secretary flagship Mogami equip a max leveled Zuiun (634 Air Group/Skilled) in the first slot and then proceed to scrap 2 Zuiun and 2 Shiden Kai Ni and have 8 Saury, 22 Development Material, and 1700 bauxite (All resources and Materials will be consumed upon completion)"
 	},
 	"1111": {
 		"code": "F105",
