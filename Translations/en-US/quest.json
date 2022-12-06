@@ -1,5 +1,5 @@
 {
-	"version": "21030265",
+	"version": "21030266",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3611,13 +3611,6 @@
 		"name": "Heavy Cruiser Squadron, to the West!",
 		"desc_jp": "重巡(航空巡洋艦含まず)3隻以上、駆逐艦1隻以上を中核とした艦隊を編成。同艦隊を西方に展開。<br>西方海域ジャム島沖、カレー洋海域、リランカ島、カスガダマ島の敵戦力と交戦、これを撃破せよ！",
 		"desc": "Sortie a fleet with 3 Heavy Cruisers, 1 Destroyer, and up to 2 additional ships to Worlds 4-1, 4-2, 4-3, and 4-4. Obtain an S-rank at each boss node once."
-	},
-	"915": {
-		"code": "2003LQ1",
-		"name_jp": "【春の期間限定任務】飛べ！下駄履きメカジキ",
-		"name": "Time-limited Spring Mission: Fly! Swordfish Floatplanes",
-		"desc_jp": "【春の期間限定任務】水上機母艦を旗艦とし、随伴護衛艦に駆逐艦または海防艦を含む水上機運用艦隊で、<br>南西諸島防衛線、東部オリョール海、沖ノ島海域へ展開！同海域の敵艦隊と交戦、これを撃破せよ！",
-		"desc": "Sortie a fleet with a Seaplane Tender as flagship, 1 Destroyer/Coastal Defense Ship, and up to 4 additional ships to Worlds 1-4, 2-3, and 2-4. Obtain an A-rank (or higher) at each boss node."
 	},
 	"916": {
 		"code": "B144",
