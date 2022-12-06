@@ -1,5 +1,5 @@
 {
-	"version": "21030266",
+	"version": "21030267",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1735,6 +1735,13 @@
 		"name": "「Taffy Ⅲ」 This is a drill!",
 		"desc_jp": "「Samuel B.Roberts」「Johnston」「Gambier Bay」の三隻を含む任務部隊「Taffy Ⅲ」を編成、<br>本日中に演習で【S判定】勝利を4回以上達成せよ！This is a drill. I repeat, this is a drill.",
 		"desc": "Organize a fleet with Samuel B.Roberts, Johnston and Gambier Bay in your fleet and score S rank 4 times in PvP"
+	},
+	"360": {
+		"code": "",
+		"name_jp": "第一線航空母艦「鳳翔改二」、演習開始！",
+		"name": "第一線航空母艦「鳳翔改二」、演習開始！",
+		"desc_jp": "改装を完了した航空母艦「鳳翔改二」または同戦力投射母艦「鳳翔改二戦」を旗艦、そして<br>駆逐艦3隻以上を含む演習艦隊を編成！本日中に【S判定】勝利を5回以上達成せよ！",
+		"desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and 3 DD in your fleet and score S rank 5 times in PvP"
 	},
 	"401": {
 		"code": "D1",
@@ -3612,6 +3619,13 @@
 		"desc_jp": "重巡(航空巡洋艦含まず)3隻以上、駆逐艦1隻以上を中核とした艦隊を編成。同艦隊を西方に展開。<br>西方海域ジャム島沖、カレー洋海域、リランカ島、カスガダマ島の敵戦力と交戦、これを撃破せよ！",
 		"desc": "Sortie a fleet with 3 Heavy Cruisers, 1 Destroyer, and up to 2 additional ships to Worlds 4-1, 4-2, 4-3, and 4-4. Obtain an S-rank at each boss node once."
 	},
+	"915": {
+		"code": "",
+		"name_jp": "【期間限定任務】飛べ！世界の下駄履き機！",
+		"name": "【期間限定任務】飛べ！世界の下駄履き機！",
+		"desc_jp": "水上機母艦を旗艦とし、随伴護衛艦に駆逐艦または海防艦を2隻以上含む水上機運用艦隊で、<br>南西諸島防衛線、東部オリョール海、沖ノ島海域へ展開！敵艦隊を捜索捕捉、これを撃滅せよ！",
+		"desc": "Organize a fleet with an AV as flagship and 2 DD/DE in your fleet and score an S rank at the boss nodes on 1-4, 2-3, and 2-4"
+	},
 	"916": {
 		"code": "B144",
 		"name_jp": "「比叡改二丙」見参！第三戦隊、南方突入！",
@@ -4011,6 +4025,20 @@
 		"desc_jp": "「Gambier Bay」「Johnston」「Samuel B.Roberts」基幹の“Taffy Ⅲ”を編成、東部オリョール海、<br>沖ノ島沖、カレー洋リランカ島沖、サーモン海域北方に展開、同海域の敵を捕捉、これを撃滅せよ！",
 		"desc": "Organize a fleet with Gambier Bay, Johnston, Samuel B. Roberts in your fleet and score an S rank at the boss nodes on 2-3, 2-5, 4-5, and 5-5"
 	},
+	"988": {
+		"code": "",
+		"name_jp": "【Xmas限定任務】聖夜の哨戒線",
+		"name": "【Xmas限定任務】聖夜の哨戒線",
+		"desc_jp": "【Xmas限定任務】軽巡級を旗艦とする哨戒艦隊を編成、鎮守府海域南西諸島沖、製油所地帯沿岸、<br>鎮守府近海、南西諸島近海を哨戒！見敵必殺、敵艦隊を発見した際は、速やかにこれを排除せよ！",
+		"desc": "Organize a fleet with a CL as flagship and score an S rank at the boss nodes on 1-2, 1-3, 1-5 and 2-1"
+	},
+	"989": {
+		"code": "",
+		"name_jp": "機動部隊旗艦「鳳翔改二」、前線に出撃せよ！",
+		"name": "機動部隊旗艦「鳳翔改二」、前線に出撃せよ！",
+		"desc_jp": "「鳳翔改二/戦」を旗艦とする艦隊で、南西諸島海域沖ノ島沖、北方AL海域、カレー洋リランカ島沖、<br>南方海域珊瑚諸島沖、中部北海域ピーコック島沖、昭南本土航路に展開！敵戦力を撃滅せよ！",
+		"desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and score an S rank at the boss nodes on 2-5, 3-5, 4-5, 5-2, 6-4 and 7-4"
+	},
 	"1101": {
 		"code": "F96",
 		"name_jp": "海軍工廠の再整備",
@@ -4122,6 +4150,13 @@
 		"name": "[Arsenal Quest] Deployment of Hedgehog",
 		"desc_jp": "旗艦「Samuel B.Roberts Mk.II」の第一スロに「5inch単装砲 Mk.30」(※改修してなくとも可)を装備。<br>開発資材x15、新型兵装資材x2、新型噴進装備開発資材x2、弾薬960を準備せよ！",
 		"desc": "Have your secretary flagship Samuel B.Roberts Mk.II equip 5inch Single Gun Mount Mk.30 without any improvment in the first slot and have 15x Development Material, 2x Armament Material, 2x Rocket Material, 960 ammo (All resources and Materials will be consumed upon completion)"
+	},
+	"1120": {
+		"code": "",
+		"name_jp": "【機種整理統合】新型戦闘機の量産計画",
+		"name": "【機種整理統合】新型戦闘機の量産計画",
+		"desc_jp": "「艦上戦闘機」「艦上爆撃機」「艦上攻撃機」各x4を廃棄、「零式艦戦21型」x3、「零式艦戦52型」x3<br>ボーキサイト1,800を準備せよ！(任務達成後、準備した装備・ボーキサイトは消費します)",
+		"desc": "Have 3x Zero Fighter Model 21, 3x Zero Fighter Model 52 and 1800 bauxite. Proceed to scrap 4 carrier-based fighters, 4 dive bombers and 4 torpedo bombers (All resources and Materials will be consumed upon completion)"
 	},
 	"9995": {
 		"code": "",
