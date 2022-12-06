@@ -1,5 +1,5 @@
 {
-	"version": "21030130",
+	"version": "21030131",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -602,7 +602,8 @@
 		"(量産型)": "(Mass produced model)",
 		"II": "II",
 		"III": "III",
-		"(哨戒機配備)": "Patrol Aircraft Deployment"
+		"(哨戒機配備)": "Patrol Aircraft Deployment",
+		"戦": "Sen"
 	},
 	"stype": {
 		"海防艦": "DE",
