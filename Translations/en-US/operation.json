@@ -1,5 +1,5 @@
 {
-	"version": "20071523",
+	"version": "20071525",
 	"map": {
 		"南西諸島近海": "Adjacent Seas of Southwest Islands",
 		"バシー海峡": "Bashi Strait",
@@ -433,6 +433,22 @@
 		"深海カサブランカ要塞 在泊艦隊": "Abyssal Casablanca Fortress Stationed Fleet",
 		"深海大西洋艦隊 艦載機群": "Abyssal Atlantic Fleet Carrier Based Fleet",
 		"深海潜水艦隊 最終阻止線 I群": "Abyssal Submarine Fleet Last Line of Defence Group I",
-		"深海潜水艦隊 最終阻止線 III群": "Abyssal Submarine Fleet Last Line of Defence Group III"
+		"深海潜水艦隊 最終阻止線 III群": "Abyssal Submarine Fleet Last Line of Defence Group III",
+		"深海潜水艦隊 大西洋最終阻止線": "Abyssal Submarine Fleet Atlantic Ocean Last Line of Defence",
+		"深海大西洋方面 基地航空隊": "Abyssal Atlantic Ocean Area Base Air Base",
+		"敵支援打撃任務群": "Enemy Air Strike Support Group",
+		"深海南方潜水艦隊 哨戒線": "Deep South Abyssal Submarine Fleet Patrol Line",
+		"敵機動部隊 C群": "Mobile Force Group C",
+		"深海南方任務部隊 重水雷戦隊": "Deep South Task Force Heavy Torpedo Squadron",
+		"敵北方任務部隊": "Enemy Northern Task Force Group",
+		"中部海域哨戒遊撃部隊": "Central Sea Patrol and Strike Unit",
+		"中部海域哨戒水雷戦隊 B群": "Central Sea Patrol Torpedo Squadron Group B",
+		"敵通商破壊高速水上艦隊 B群": "Enemy Trade Destroying Fast Surface Fleet Group B",
+		"東洋方面潜水艦隊 哨戒線Bライン": "East Fleet Abyssal Submarine Fleet Patrol B-Line",
+		"敵北方艦隊 哨戒部隊": "Enemy Northern Fleet Patrol",
+		"敵北方艦隊 前衛部隊": "Enemy Northern Fleet Vanguard Group",
+		"敵北方艦隊 機動部隊": "Enemy Northern Fleet Mobile Force",
+		"深海棲艦 北方艦隊中枢": "Central Abyssal Northern Fleet",
+		"敵東方艦隊 遊撃戦隊分遣隊": "Enemy Eastern Fleet Guerrilla Detachment"
 	}
 }
