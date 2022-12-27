@@ -1,5 +1,5 @@
 {
-	"version": "21030271",
+	"version": "21030272",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4168,7 +4168,7 @@
 	"1121": {
 		"code": "1121",
 		"name_jp": "【年末年始】鎮守府大掃除！良いお年を！",
-		"name": "Cleaning the Naval Base! Wish you a good year!",
+		"name": "Great Cleaning of the Naval Base! Happy New Year!",
 		"desc_jp": "【年末年始整理】「機銃」「副砲」「中口径主砲」各x3を廃棄、「九六式艦戦」x2、「41cm連装砲」x2<br>鋼材900を準備せよ！よいお年を！(任務達成後、準備した装備・鋼材は消費します)",
 		"desc": "Proceed to scrap 3 machine guns, 3 secondary guns, 3 medium caliber guns and have two T96 fighters, two 41cm twin gun mounts and 900 steel (All resources and Materials will be consumed upon completion)"
 	},
