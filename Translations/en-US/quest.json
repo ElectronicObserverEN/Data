@@ -1,5 +1,5 @@
 {
-	"version": "21030270",
+	"version": "21030271",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1748,7 +1748,7 @@
 		"name_jp": "【年末年始】第一護衛艦隊 特別演習！",
 		"name": "First Escort Fleet, special exercise!",
 		"desc_jp": "【年末年始特別演習】軽空母級1隻+駆逐艦4隻以上、または海防艦2隻以上(他自由)編成の<br>第一護衛艦隊を編成！本日中に【S判定】勝利を5回以上達成せよ！第一護衛艦隊、特別演習！",
-		"desc": "Organize a fleet with 1 CVL and atleast 4 DD or organize a fleet with atleast 2 DE and score S rank 5 times in PvP"
+		"desc": "Organize a fleet with 1 CVL and at least 4 DD or organize a fleet with atleast 2 DE and score S rank 5 times in PvP"
 	},
 	"401": {
 		"code": "D1",
