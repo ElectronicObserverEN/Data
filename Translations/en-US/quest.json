@@ -1,5 +1,5 @@
 {
-	"version": "21030269",
+	"version": "21030270",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1742,6 +1742,13 @@
 		"name": "Frontline Aircraft Carrier [Houshou Kai Ni], Begin Exercises!",
 		"desc_jp": "改装を完了した航空母艦「鳳翔改二」または同戦力投射母艦「鳳翔改二戦」を旗艦、そして<br>駆逐艦3隻以上を含む演習艦隊を編成！本日中に【S判定】勝利を5回以上達成せよ！",
 		"desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and 3 DD in your fleet and score S rank 5 times in PvP"
+	},
+	"361": {
+		"code": "361",
+		"name_jp": "【年末年始】第一護衛艦隊 特別演習！",
+		"name": "First Escort Fleet, special exercise!",
+		"desc_jp": "【年末年始特別演習】軽空母級1隻+駆逐艦4隻以上、または海防艦2隻以上(他自由)編成の<br>第一護衛艦隊を編成！本日中に【S判定】勝利を5回以上達成せよ！第一護衛艦隊、特別演習！",
+		"desc": "Organize a fleet with 1 CVL and atleast 4 DD or organize a fleet with atleast 2 DE and score S rank 5 times in PvP"
 	},
 	"401": {
 		"code": "D1",
@@ -4032,6 +4039,13 @@
 		"desc_jp": "「鳳翔改二/戦」を旗艦とする艦隊で、南西諸島海域沖ノ島沖、北方AL海域、カレー洋リランカ島沖、<br>南方海域珊瑚諸島沖、中部北海域ピーコック島沖、昭南本土航路に展開！敵戦力を撃滅せよ！",
 		"desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and score an S rank at the boss nodes on 2-5, 3-5, 4-5, 5-2, 6-4 and 7-4"
 	},
+	"990": {
+		"code": "990",
+		"name_jp": "【年末年始】機動部隊、南西諸島を哨戒せよ！",
+		"name": "Mobile Force, patrol the Nansei Islands!",
+		"desc_jp": "【年末年始哨戒任務】航空母艦を旗艦、軽巡1隻駆逐2隻以上を含む機動部隊で、南西諸島沖、<br>製油所地帯沿岸、南西諸島防衛線、南西諸島近海、東部オリョール海を哨戒！敵を撃滅せよ！",
+		"desc": "Organize a fleet with a CV(L) as flagship, 1 CL and 2 DD in your fleet and score an S rank at the boss nodes on 1-2, 1-3, 1-4, 2-1 and 2-3"
+	},
 	"1101": {
 		"code": "F96",
 		"name_jp": "海軍工廠の再整備",
@@ -4150,6 +4164,13 @@
 		"name": "[Model Consolidation] Mass Production Plan For New Fighter",
 		"desc_jp": "「艦上戦闘機」「艦上爆撃機」「艦上攻撃機」各x4を廃棄、「零式艦戦21型」x3、「零式艦戦52型」x3<br>ボーキサイト1,800を準備せよ！(任務達成後、準備した装備・ボーキサイトは消費します)",
 		"desc": "Have 3x Zero Fighter Model 21, 3x Zero Fighter Model 52 and 1800 bauxite. Proceed to scrap 4 carrier-based fighters, 4 dive bombers and 4 torpedo bombers (All resources and Materials will be consumed upon completion)"
+	},
+	"1121": {
+		"code": "1121",
+		"name_jp": "【年末年始】鎮守府大掃除！良いお年を！",
+		"name": "Cleaning the Naval Base! Wish you a good year!",
+		"desc_jp": "【年末年始整理】「機銃」「副砲」「中口径主砲」各x3を廃棄、「九六式艦戦」x2、「41cm連装砲」x2<br>鋼材900を準備せよ！よいお年を！(任務達成後、準備した装備・鋼材は消費します)",
+		"desc": "Proceed to scrap 3 machine guns, 3 secondary guns, 3 medium caliber guns and have two T96 fighters, two 41cm twin gun mounts and 900 steel (All resources and Materials will be consumed upon completion)"
 	},
 	"9995": {
 		"code": "",
