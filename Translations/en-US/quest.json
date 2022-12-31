@@ -1,5 +1,5 @@
 {
-	"version": "21030277",
+	"version": "21030278",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2939,6 +2939,13 @@
 		"name": "Happy 5th Reiwa Year. New Year's Special Task Force, heading north!",
 		"desc_jp": "水上機母艦1隻以上、補給艦または潜水母艦を含む特務部隊を編成。同特務艦隊を、北方海域の<br>アルフォンシーノ方面、北方海域全域、北方AL海域に出撃！敵艦隊群を捜索、これを捕捉撃滅せよ！",
 		"desc": "Organize a fleet with an AV and either an AO or an AS in your fleet and score an S rank at the boss nodes on 3-3, 3-4 and 3-5"
+	},
+	"804": {
+		"code": "804",
+		"name_jp": "新春任務群【拡張作戦】機動部隊、縦横無尽！",
+		"name": "New Year Task Group [Expansion Operation] Mobile Task Force, go wild!",
+		"desc_jp": "航空母艦旗艦、随伴駆逐艦2隻以上を配した機動部隊で、昭南本土航路、タウイタウイ泊地沖深部<br>カレー洋リランカ島沖、中部北海域ピーコック島沖、KW環礁沖海域に出撃！敵戦力を撃滅せよ！",
+		"desc": "Organize a fleet with a carrier as flagship and 2 DD in your fleet and score an S rank at the boss nodes on 4-5, 6-4, 6-5, 7-2 (Part 2) and 7-4"
 	},
 	"805": {
 		"code": "B58",
