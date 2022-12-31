@@ -1,5 +1,5 @@
 {
-	"version": "21030234",
+	"version": "21030235",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -604,7 +604,8 @@
 		"三式弾改二": "Type 3 Shell Kai Ni",
 		"四式重爆 飛龍(熟練)+イ号一型甲 誘導弾": "Type 4 Heavy Bomber Hiryuu (Skilled) + No.1 Model 1A Guided Missile",
 		"零式艦戦64型(制空戦闘機仕様)": "Type 0 Fighter Model 64 (Air Superiority Fighter Specification)",
-		"零式艦戦64型(熟練爆戦)": "Type 0 Fighter Model 64 (Skilled Fighter-Bomber)"
+		"零式艦戦64型(熟練爆戦)": "Type 0 Fighter Model 64 (Skilled Fighter-Bomber)",
+		"二式爆雷改二": "Type 2 Depth Charge Kai Ni"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",
