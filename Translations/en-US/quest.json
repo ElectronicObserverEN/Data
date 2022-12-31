@@ -1,5 +1,5 @@
 {
-	"version": "21030276",
+	"version": "21030277",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2931,7 +2931,14 @@
 		"name_jp": "2023年「南西諸島」哨戒防衛作戦、発動！",
 		"name": "2023 Nansei Islands patrol defense operation, commence!",
 		"desc_jp": "重巡級2隻以上、軽巡級1隻以上を配した精鋭艦隊で南西諸島沖、南西諸島防衛線、南西諸島近海、<br>沖ノ島海域に新春緊急展開！各海域を哨戒、敵艦隊を撃滅し、「南西諸島」哨戒防衛作戦を完遂せよ！",
-		"desc": "Organize a fleet with 2CA and 1CL in your fleet and score an S? rank at the boss nodes on 1-2, 1-4, 2-1 and 2-4"
+		"desc": "Organize a fleet with 2 CA/CAV and 1 CL/CLT/CT in your fleet and score an S? rank at the boss nodes on 1-2, 1-4, 2-1 and 2-4"
+	},
+	"803": {
+		"code": "803",
+		"name_jp": "令和五年謹賀新年、新春特務部隊、北へ！",
+		"name": "Happy 5th Reiwa Year. New Year's Special Task Force, heading north!",
+		"desc_jp": "水上機母艦1隻以上、補給艦または潜水母艦を含む特務部隊を編成。同特務艦隊を、北方海域の<br>アルフォンシーノ方面、北方海域全域、北方AL海域に出撃！敵艦隊群を捜索、これを捕捉撃滅せよ！",
+		"desc": "Organize a fleet with an AV and either an AO or an AS in your fleet and score an S rank at the boss nodes on 3-3, 3-4 and 3-5"
 	},
 	"805": {
 		"code": "B58",
