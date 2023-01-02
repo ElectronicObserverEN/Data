@@ -1,5 +1,5 @@
 {
-	"version": "21030279",
+	"version": "21030280",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1737,7 +1737,7 @@
 		"desc": "Organize a fleet with Samuel B.Roberts, Johnston and Gambier Bay in your fleet and score S rank 4 times in PvP"
 	},
 	"360": {
-		"code": "C71",
+		"code": "C70",
 		"name_jp": "第一線航空母艦「鳳翔改二」、演習開始！",
 		"name": "Frontline Aircraft Carrier [Houshou Kai Ni], Begin Exercises!",
 		"desc_jp": "改装を完了した航空母艦「鳳翔改二」または同戦力投射母艦「鳳翔改二戦」を旗艦、そして<br>駆逐艦3隻以上を含む演習艦隊を編成！本日中に【S判定】勝利を5回以上達成せよ！",
