@@ -1,5 +1,5 @@
 {
-	"version": "21030280",
+	"version": "21030281",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3814,6 +3814,13 @@
 		"name": "Remodeled Aviation Cruiser \"Mogami\", Weigh Anchor!",
 		"desc_jp": "旗艦に改装航空巡洋艦「最上改二(改二特含む)」を配備した精鋭艦隊で、南西諸島海域バシー海峡、<br>沖ノ島海域、西方海域カレー洋リランカ島沖、南方海域前面に展開、敵艦隊を撃滅せよ！",
 		"desc": "Sortie a fleet with Mogami Kai Ni or Mogami Kai Ni Toku as flagship plus 5 XX and score an S-Rank victory at the boss nodes on 2-2, 2-4, 4-5 and 5-1."
+	},
+	"939": {
+		"code": "B167",
+		"name_jp": "西村艦隊、精鋭先行掃討隊、前進せよ！",
+		"name": "Elite Vanguard Squadron, Nishimura Fleet, Forward!",
+		"desc_jp": "「最上改二(改二特含む)」旗艦、時雨・満潮・朝雲・山雲より2隻を配備した艦隊で、東部オリョール海、<br>中部北海域ピーコック島沖、タウイタウイ泊地沖深部、マラッカ海峡ペナン島沖深部の敵を撃滅せよ！",
+		"desc": "Organize a fleet with Mogami Kai Ni/Toku as flagship and any 2 of Michishio, Shigure, Asagumo or Yamagumo in your fleet and score an S rank at the boss nodes on 2-3, 6-4, 7-2 (Part 2) and 7-3 (Part 2)"
 	},
 	"940": {
 		"code": "B168",
