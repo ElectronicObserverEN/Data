@@ -1,5 +1,5 @@
 {
-	"version": "21030281",
+	"version": "21030282",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4129,6 +4129,13 @@
 		"name": "[Exportation of Steel] Increase the Strength of your Land Base!",
 		"desc_jp": "鋼材を輸出し、ボーキサイトを輸入、基地航空を増備せよ！「艦戦」「艦攻」系装備各x2ずつ廃棄、<br>鋼材24,000及び開発資材10を準備せよ！　※任務達成後、準備した資材は消費します。",
 		"desc": "Prepare 24,000 steel, 10 development Materials and proceed to scrap 2 Fighters and 2 Torpedo Bombers (All resources and Materials will be consumed upon completion)"
+	},
+	"1108": {
+		"code": "F103",
+		"name_jp": "調整改良型「水中探信儀」の増産",
+		"name": "Increase the production of the newly adjusted and modified \"Active Sonar\"",
+		"desc_jp": "旗艦「山風改二/丁」または「時雨改二」第一装備スロに最大改修「三式水中探信儀」。「九三式水中<br>聴音機」及び「三式水中探信儀」各x2廃棄。新型兵装資材x2、開発資材x30、ボーキ1,300を準備せよ！",
+		"desc": "Have your secretary flagship Yamakaze Kai Ni/D or Shigure Kai Ni equip a max improved Type 3 Active Sonar in the first slot and then proceed to scrap 2x Type 3 Active Sonars and 2x Type 93 Passive Sonars and have 2x New Model Armament Material, 30x Development Materials and 1,300 bauxite (All resources and Materials will be consumed upon completion)"
 	},
 	"1109": {
 		"code": "F104",
