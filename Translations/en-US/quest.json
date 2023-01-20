@@ -1,5 +1,5 @@
 {
-	"version": "21030284",
+	"version": "21030285",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3170,6 +3170,13 @@
 		"name": "Setsubun Operation 2023",
 		"desc_jp": "節分任務：軽空母または軽巡級を旗艦とする駆逐艦または海防艦3隻以上を含む艦隊で、節分期間の<br>鎮守府近海、製油所地帯沿岸、南西諸島防衛線を哨戒！敵艦隊を捕捉、これを撃破せよ！艦隊抜錨！",
 		"desc": "Organize a fleet with a CVL/CL as flagship and 3DD/DE in your fleet and score an S rank at the boss nodes on 1-3, 1-4 and 1-5"
+	},
+	"841": {
+		"code": "841",
+		"name_jp": "【節分任務】南西海域節分作戦二〇二三",
+		"name": "Setsubun Operation 2023 in Southwestern Area",
+		"desc_jp": "節分任務：旗艦に水上機母艦または航空巡洋艦、さらに旗艦と同艦種の随伴艦を含む艦隊で昭南本土<br>航路の安全を確保、ペナン島沖深部、タウイタウイ泊地沖深部、ジャワ島沖深部の敵を捕捉撃滅せよ！",
+		"desc": "Organize a fleet with 2AV or 2CAV with one of them as flagship and score an S rank at the boss nodes on 7-2 (Part 2), 7-3 (Part 2), 7-4, 7-5 (Part 3)"
 	},
 	"842": {
 		"code": "B89",
