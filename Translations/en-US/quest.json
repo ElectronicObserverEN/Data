@@ -1,5 +1,5 @@
 {
-	"version": "21030286",
+	"version": "21030287",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1429,7 +1429,7 @@
 		"desc": "Get 8 victories in exercises within the same day."
 	},
 	"314": {
-		"code": "C11",
+		"code": "C71",
 		"name_jp": "冬季大演習",
 		"name": "Winter Large-scale Exercises",
 		"desc_jp": "冬季大演習：冬の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！",
