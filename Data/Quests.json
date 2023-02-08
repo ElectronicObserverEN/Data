@@ -7798,5 +7798,18 @@
 		"removed_update_id": null,
 		"season_id": null,
 		"tracker": "[\r\n  [\r\n    1123\r\n  ],\r\n  [\r\n    [\r\n      3,\r\n      [\r\n        82,\r\n        2\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+	},
+	{
+		"id": 607,
+		"api_id": 324,
+		"code": "C22",
+		"name_jp": "戦闘航空母艦一番艦、演習始め！",
+		"name_en": "Battle Carrier Lead Ship, Commence Exercises!",
+		"desc_jp": "改装航空戦艦(戦闘航空母艦)演習任務：旗艦「伊勢改二」、随伴艦に駆逐艦2隻以上を配した航空戦隊<br>を編成。新改装艦の慣熟も兼ねた同航空戦隊の演習で、本日中に3回以上勝利せよ！",
+		"desc_en": "Secure 3 victories in Exercises within the same day using Ise Kai Ni as flagship, 2 DD and up to 3 additional ships.",
+		"added_update_id": null,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": ""
 	}
 ]
