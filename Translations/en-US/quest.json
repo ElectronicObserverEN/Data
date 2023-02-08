@@ -1,5 +1,5 @@
 {
-	"version": "21030287",
+	"version": "21030290",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1499,7 +1499,7 @@
 		"desc": "Secure 4 victories in Exercises within the same day using 4 Lv70+ Kagerou/Yuugumo-class DD and up to 2 additional ships."
 	},
 	"324": {
-		"code": "C18",
+		"code": "C22",
 		"name_jp": "戦闘航空母艦一番艦、演習始め！",
 		"name": "Battle Carrier Lead Ship, Commence Exercises!",
 		"desc_jp": "改装航空戦艦(戦闘航空母艦)演習任務：旗艦「伊勢改二」、随伴艦に駆逐艦2隻以上を配した航空戦隊<br>を編成。新改装艦の慣熟も兼ねた同航空戦隊の演習で、本日中に3回以上勝利せよ！",
@@ -4206,40 +4206,5 @@
 		"name": "Improved 3-seat Reconnaissance Seaplane",
 		"desc_jp": "旗艦「利根改二」または「由良改二」第一スロに最大改修「零式水上偵察機」。「九七式艦攻(九三一空)」<br>x2廃棄、ボーキ950、新型航空兵装資材x2、開発資材x35、熟練搭乗員x2を準備！",
 		"desc": "Have your secretary flagship Yura Kai Ni or Tone Kai Ni equip a max Type 0 Reconnaissance Seaplane in the first slot and then proceed to scrap 2x Type 97 Torpedo Bomber (931 Air Group) and have 950 bauxite, 2x New Model Aviation Material, 35x Development Material and 2x Skilled Crew Member (All resources and Materials will be consumed upon completion)"
-	},
-	"9995": {
-		"code": "",
-		"name_jp": "Battle model with 1-6",
-		"name": "Battle model with 1-6",
-		"desc_jp": "Organize a fleet with XX in your fleet and score an S rank at the boss nodes on XX, and reach the anchor node N on 1-6.",
-		"desc": "Organize a fleet with XX in your fleet and score an S rank at the boss nodes on XX, and reach the anchor node N on 1-6."
-	},
-	"9996": {
-		"code": "",
-		"name_jp": "PVP Model",
-		"name": "PVP Model",
-		"desc_jp": "Organize a fleet with XX in your fleet and score S rank XX times in PvP",
-		"desc": "Organize a fleet with XX in your fleet and score S rank XX times in PvP"
-	},
-	"9997": {
-		"code": "",
-		"name_jp": "Arsenal Model 2",
-		"name": "Arsenal Model 2",
-		"desc_jp": "Have XX (All resources and Materials will be consumed upon completion)",
-		"desc": "Have XX (All resources and Materials will be consumed upon completion)"
-	},
-	"9998": {
-		"code": "",
-		"name_jp": "Arsenal Model 1",
-		"name": "Arsenal Model 1",
-		"desc_jp": "Have your secretary flagship XX equip XX in the first slot and then proceed to scrap XX and have XX (All resources and Materials will be consumed upon completion)",
-		"desc": "Have your secretary flagship XX equip XX in the first slot and then proceed to scrap XX and have XX (All resources and Materials will be consumed upon completion)"
-	},
-	"9999": {
-		"code": "",
-		"name_jp": "Battle model",
-		"name": "Battle model",
-		"desc_jp": "Organize a fleet with XX in your fleet and score an S rank at the boss nodes on XX, and XX (Part X)",
-		"desc": "Organize a fleet with XX in your fleet and score an S rank at the boss nodes on XX, and XX (Part X)"
 	}
 }
