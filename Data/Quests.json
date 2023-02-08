@@ -2506,7 +2506,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    299\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          2\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          3\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          2\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            3\r\n          ],\r\n          1,\r\n          true,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            2,\r\n            1\r\n          ],\r\n          2,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[299],[[0,[[1,2],6,1]],[0,[[1,3],6,1]],[0,[[1,4],6,1]],[0,[[2,2],6,1]]],[0,[[2,[[3],1,true,0]],[2,[[2,1],2,false,0]]]]]"
 	},
 	{
 		"id": 200,
@@ -2649,7 +2649,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    313\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        4,\r\n        8\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[313],[[9,[4,8]]],[0,[]]]"
 	},
 	{
 		"id": 211,
@@ -2662,7 +2662,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    314\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        4,\r\n        8\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[314],[[9,[4,8]]],[0,[]]]"
 	},
 	{
 		"id": 212,
@@ -2675,7 +2675,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    315\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        4,\r\n        8\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[315],[[9,[4,8]]],[0,[]]]"
 	},
 	{
 		"id": 213,
@@ -2805,7 +2805,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    326\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        4,\r\n        8\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[326],[[9,[4,8]]],[0,[]]]"
 	},
 	{
 		"id": 223,
@@ -2844,7 +2844,7 @@
 		"added_update_id": 9,
 		"removed_update_id": null,
 		"season_id": 2,
-		"tracker": "[\r\n  [\r\n    329\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        6,\r\n        3\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            2,\r\n            1\r\n          ],\r\n          3,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            3,\r\n            21\r\n          ],\r\n          2,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[329],[[9,[6,3]]],[0,[[2,[[2,1],3,false,0]],[2,[[3,21],2,false,0]]]]]"
 	},
 	{
 		"id": 226,
@@ -2896,7 +2896,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    333\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        6,\r\n        3\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            7,\r\n            11,\r\n            18\r\n          ],\r\n          3,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            2\r\n          ],\r\n          2,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[333],[[9,[6,3]]],[0,[[2,[[7,11,18],3,false,0]],[2,[[2],2,false,0]]]]]"
 	},
 	{
 		"id": 230,
@@ -2909,7 +2909,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    334\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        6,\r\n        6\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            7,\r\n            11,\r\n            18\r\n          ],\r\n          3,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            2\r\n          ],\r\n          2,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[334],[[9,[6,6]]],[0,[[2,[[7,11,18],3,false,0]],[2,[[2],2,false,0]]]]]"
 	},
 	{
 		"id": 231,
@@ -3026,7 +3026,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    343\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        4,\r\n        4\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            11\r\n          ],\r\n          2,\r\n          true,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            2\r\n          ],\r\n          2,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[343],[[9,[4,4]]],[0,[[2,[[11],2,true,0]],[2,[[2],2,false,0]]]]]"
 	},
 	{
 		"id": 240,
@@ -3052,7 +3052,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    345\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        5,\r\n        4\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        3,\r\n        [\r\n          [\r\n            [\r\n              439,\r\n              false,\r\n              0\r\n            ],\r\n            [\r\n              78,\r\n              false,\r\n              0\r\n            ],\r\n            [\r\n              571,\r\n              false,\r\n              0\r\n            ],\r\n            [\r\n              515,\r\n              false,\r\n              0\r\n            ],\r\n            [\r\n              519,\r\n              false,\r\n              0\r\n            ],\r\n            [\r\n              520,\r\n              false,\r\n              0\r\n            ]\r\n          ],\r\n          4\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[345],[[9,[5,4]]],[0,[[3,[[[439,false,0],[78,false,0],[571,false,0],[515,false,0],[519,false,0],[520,false,0]],4]]]]]"
 	},
 	{
 		"id": 242,
@@ -3065,7 +3065,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    346\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        6,\r\n        4\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        1,\r\n        [\r\n          542,\r\n          false,\r\n          1\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          563,\r\n          false,\r\n          1\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          564,\r\n          false,\r\n          1\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          648,\r\n          false,\r\n          1\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[346],[[9,[6,4]]],[0,[[1,[542,false,1]],[1,[563,false,1]],[1,[564,false,1]],[1,[648,false,1]]]]]"
 	},
 	{
 		"id": 243,
@@ -3117,7 +3117,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    350\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        5,\r\n        3\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        1,\r\n        [\r\n          93,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          15,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          94,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          16,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[350],[[9,[5,3]]],[0,[[1,[93,false,0]],[1,[15,false,0]],[1,[94,false,0]],[1,[16,false,0]]]]]"
 	},
 	{
 		"id": 247,
@@ -3156,7 +3156,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    353\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        4,\r\n        5\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            5,\r\n            6\r\n          ],\r\n          4,\r\n          true,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            2\r\n          ],\r\n          2,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[353],[[9,[4,5]]],[0,[[2,[[5,6],4,true,0]],[2,[[2],2,false,0]]]]]"
 	},
 	{
 		"id": 250,
@@ -3169,7 +3169,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    354\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        6,\r\n        4\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        1,\r\n        [\r\n          707,\r\n          true,\r\n          1\r\n        ]\r\n      ],\r\n      [\r\n        3,\r\n        [\r\n          [\r\n            [\r\n              561,\r\n              false,\r\n              0\r\n            ],\r\n            [\r\n              596,\r\n              false,\r\n              0\r\n            ],\r\n            [\r\n              562,\r\n              false,\r\n              0\r\n            ]\r\n          ],\r\n          2\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[354],[[9,[6,4]]],[0,[[1,[707,true,1]],[3,[[[561,false,0],[596,false,0],[562,false,0]],2]]]]]"
 	},
 	{
 		"id": 251,
@@ -3182,7 +3182,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    355\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        6,\r\n        4\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    1,\r\n    [\r\n      [\r\n        0,\r\n        [\r\n          1,\r\n          [\r\n            [\r\n              5,\r\n              [\r\n                568,\r\n                1,\r\n                0\r\n              ]\r\n            ],\r\n            [\r\n              5,\r\n              [\r\n                670,\r\n                2,\r\n                0\r\n              ]\r\n            ]\r\n          ]\r\n        ]\r\n      ],\r\n      [\r\n        0,\r\n        [\r\n          1,\r\n          [\r\n            [\r\n              5,\r\n              [\r\n                670,\r\n                1,\r\n                0\r\n              ]\r\n            ],\r\n            [\r\n              5,\r\n              [\r\n                568,\r\n                2,\r\n                0\r\n              ]\r\n            ]\r\n          ]\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[355],[[9,[6,4]]],[1,[[0,[1,[[5,[568,1,0]],[5,[670,2,0]]]]],[0,[1,[[5,[670,1,0]],[5,[568,2,0]]]]]]]]"
 	},
 	{
 		"id": 252,
@@ -3195,7 +3195,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    356\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        6,\r\n        3\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        1,\r\n        [\r\n          666,\r\n          false,\r\n          1\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          647,\r\n          false,\r\n          1\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          195,\r\n          false,\r\n          1\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          627,\r\n          false,\r\n          1\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[356],[[9,[6,3]]],[0,[[1,[666,false,1]],[1,[647,false,1]],[1,[195,false,1]],[1,[627,false,1]]]]]"
 	},
 	{
 		"id": 253,
@@ -3208,7 +3208,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    357\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        6,\r\n        3\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            2\r\n          ],\r\n          2,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            3\r\n          ],\r\n          1,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          131,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          143,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[357],[[9,[6,3]]],[0,[[2,[[2],2,false,0]],[2,[[3],1,false,0]],[1,[131,false,0]],[1,[143,false,0]]]]]"
 	},
 	{
 		"id": 254,
@@ -3221,7 +3221,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    358\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        6,\r\n        4\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        7,\r\n        [\r\n          562,\r\n          false,\r\n          0,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        7,\r\n        [\r\n          561,\r\n          false,\r\n          0,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        7,\r\n        [\r\n          544,\r\n          false,\r\n          0,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[358],[[9,[6,4]]],[0,[[7,[562,false,0,0]],[7,[561,false,0,0]],[7,[544,false,0,0]]]]]"
 	},
 	{
 		"id": 255,
@@ -3234,7 +3234,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    360\r\n  ],\r\n  [\r\n    [\r\n      9,\r\n      [\r\n        6,\r\n        5\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        7,\r\n        [\r\n          894,\r\n          true,\r\n          1,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            2\r\n          ],\r\n          3,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[360],[[9,[6,5]]],[0,[[7,[894,true,1,0]],[2,[[2],3,false,0]]]]]"
 	},
 	{
 		"id": 256,
@@ -3689,7 +3689,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    437\r\n  ],\r\n  [\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          4\r\n        ],\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          104\r\n        ],\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          105\r\n        ],\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          110\r\n        ],\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[437],[[1,[[4],1]],[1,[[104],1]],[1,[[105],1]],[1,[[110],1]]],[0,[]]]"
 	},
 	{
 		"id": 291,
@@ -3728,7 +3728,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    440\r\n  ],\r\n  [\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          5\r\n        ],\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          41\r\n        ],\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          46\r\n        ],\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          40\r\n        ],\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          142\r\n        ],\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[440],[[1,[[5],1]],[1,[[41],1]],[1,[[46],1]],[1,[[40],1]],[1,[[142],1]]],[0,[]]]"
 	},
 	{
 		"id": 294,
@@ -3741,7 +3741,7 @@
 		"added_update_id": 9,
 		"removed_update_id": null,
 		"season_id": 2,
-		"tracker": "[\r\n  [\r\n    441\r\n  ],\r\n  [\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          4\r\n        ],\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          5\r\n        ],\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          102\r\n        ],\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          14\r\n        ],\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          110\r\n        ],\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          41\r\n        ],\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[441],[[1,[[4],1]],[1,[[5],1]],[1,[[102],1]],[1,[[14],1]],[1,[[110],1]],[1,[[41],1]]],[0,[]]]"
 	},
 	{
 		"id": 295,
@@ -3819,7 +3819,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    447\r\n  ],\r\n  [\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          4\r\n        ],\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          5\r\n        ],\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          100\r\n        ],\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          9\r\n        ],\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      1,\r\n      [\r\n        [\r\n          110\r\n        ],\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[447],[[1,[[4],1]],[1,[[5],1]],[1,[[100],1]],[1,[[9],1]],[1,[[110],1]]],[0,[]]]"
 	},
 	{
 		"id": 301,
@@ -5886,7 +5886,7 @@
 		"added_update_id": 9,
 		"removed_update_id": null,
 		"season_id": 2,
-		"tracker": "[\r\n  [\r\n    840\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          3\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          4\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          5\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            3,\r\n            7\r\n          ],\r\n          1,\r\n          true,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            2,\r\n            1\r\n          ],\r\n          3,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[840],[[0,[[1,3],5,1]],[0,[[1,4],5,1]],[0,[[1,5],5,1]]],[0,[[2,[[3,7],1,true,0]],[2,[[2,1],3,false,0]]]]]"
 	},
 	{
 		"id": 460,
@@ -5899,7 +5899,7 @@
 		"added_update_id": 9,
 		"removed_update_id": null,
 		"season_id": 2,
-		"tracker": "[\r\n  [\r\n    841\r\n  ],\r\n  [\r\n    [\r\n      2,\r\n      [\r\n        [\r\n          7,\r\n          2\r\n        ],\r\n        6,\r\n        1,\r\n        [\r\n          15\r\n        ],\r\n        \"-2\"\r\n      ]\r\n    ],\r\n    [\r\n      2,\r\n      [\r\n        [\r\n          7,\r\n          3\r\n        ],\r\n        6,\r\n        1,\r\n        [\r\n          18,\r\n          23,\r\n          24,\r\n          25\r\n        ],\r\n        \"-2\"\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          7,\r\n          4\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      2,\r\n      [\r\n        [\r\n          7,\r\n          5\r\n        ],\r\n        6,\r\n        1,\r\n        [\r\n          24,\r\n          25\r\n        ],\r\n        \"-3\"\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    1,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            6\r\n          ],\r\n          2,\r\n          true,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            16\r\n          ],\r\n          2,\r\n          true,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[841],[[2,[[7,2],6,1,[15],\"-2\"]],[2,[[7,3],6,1,[18,23,24,25],\"-2\"]],[0,[[7,4],5,1]],[2,[[7,5],6,1,[24,25],\"-3\"]]],[1,[[2,[[6],2,true,0]],[2,[[16],2,true,0]]]]]"
 	},
 	{
 		"id": 461,
@@ -5925,7 +5925,7 @@
 		"added_update_id": 9,
 		"removed_update_id": null,
 		"season_id": 2,
-		"tracker": "[\r\n  [\r\n    843\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          4,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          5,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          6,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        0,\r\n        [\r\n          1,\r\n          [\r\n            [\r\n              2,\r\n              [\r\n                [\r\n                  9,\r\n                  8,\r\n                  10\r\n                ],\r\n                2,\r\n                false,\r\n                0\r\n              ]\r\n            ],\r\n            [\r\n              2,\r\n              [\r\n                [\r\n                  11,\r\n                  18,\r\n                  7\r\n                ],\r\n                2,\r\n                false,\r\n                0\r\n              ]\r\n            ]\r\n          ]\r\n        ]\r\n      ],\r\n      [\r\n        8,\r\n        [\r\n          [\r\n            [\r\n              183,\r\n              false,\r\n              0,\r\n              0\r\n            ],\r\n            [\r\n              0,\r\n              false,\r\n              0,\r\n              4\r\n            ]\r\n          ],\r\n          1\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[843],[[0,[[2,5],6,1]],[0,[[4,5],6,1]],[0,[[5,5],6,1]],[0,[[6,5],6,1]]],[0,[[0,[1,[[2,[[9,8,10],2,false,0]],[2,[[11,18,7],2,false,0]]]]],[8,[[[183,false,0,0],[0,false,0,4]],1]]]]]"
 	},
 	{
 		"id": 463,
@@ -6042,7 +6042,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    852\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          6,\r\n          2\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          6,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        1,\r\n        [\r\n          508,\r\n          true,\r\n          2\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[852],[[0,[[6,2],6,1]],[0,[[6,5],6,1]]],[0,[[1,[508,true,2]]]]]"
 	},
 	{
 		"id": 472,
@@ -6237,7 +6237,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    870\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          2\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          2\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        1,\r\n        [\r\n          95,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          96,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          98,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          97,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[870],[[0,[[1,2],6,1]],[0,[[2,2],6,1]]],[0,[[1,[95,false,0]],[1,[96,false,0]],[1,[98,false,0]],[1,[97,false,0]]]]]"
 	},
 	{
 		"id": 487,
@@ -6341,7 +6341,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    878\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          4\r\n        ],\r\n        5,\r\n        3\r\n      ]\r\n    ],\r\n    [\r\n      7,\r\n      [\r\n        [\r\n          1,\r\n          6\r\n        ],\r\n        3,\r\n        [\r\n          14,\r\n          17\r\n        ],\r\n        \"N\"\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    1,\r\n    [\r\n      [\r\n        0,\r\n        [\r\n          0,\r\n          [\r\n            [\r\n              2,\r\n              [\r\n                [\r\n                  3,\r\n                  4,\r\n                  21\r\n                ],\r\n                1,\r\n                true,\r\n                0\r\n              ]\r\n            ],\r\n            [\r\n              2,\r\n              [\r\n                [\r\n                  2,\r\n                  1\r\n                ],\r\n                3,\r\n                false,\r\n                0\r\n              ]\r\n            ]\r\n          ]\r\n        ]\r\n      ],\r\n      [\r\n        0,\r\n        [\r\n          0,\r\n          [\r\n            [\r\n              2,\r\n              [\r\n                [\r\n                  2\r\n                ],\r\n                1,\r\n                true,\r\n                0\r\n              ]\r\n            ],\r\n            [\r\n              2,\r\n              [\r\n                [\r\n                  2,\r\n                  1\r\n                ],\r\n                4,\r\n                false,\r\n                0\r\n              ]\r\n            ]\r\n          ]\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[878],[[0,[[1,4],5,3]],[7,[[1,6],3,[14,17],\"N\"]]],[1,[[0,[0,[[2,[[3,4,21],1,true,0]],[2,[[2,1],3,false,0]]]]],[0,[0,[[2,[[2],1,true,0]],[2,[[2,1],4,false,0]]]]]]]]"
 	},
 	{
 		"id": 495,
@@ -6601,7 +6601,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    898\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          3,\r\n          1\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          3,\r\n          2\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          3,\r\n          3\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          3,\r\n          4\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          3,\r\n          5\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[898],[[0,[[3,1],5,1]],[0,[[3,2],5,1]],[0,[[3,3],5,1]],[0,[[3,4],5,1]],[0,[[3,5],5,1]]],[0,[]]]"
 	},
 	{
 		"id": 515,
@@ -6679,7 +6679,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    906\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          2\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          3\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          5\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      7,\r\n      [\r\n        [\r\n          1,\r\n          6\r\n        ],\r\n        1,\r\n        [\r\n          14,\r\n          17\r\n        ],\r\n        \"N\"\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            2,\r\n            1\r\n          ],\r\n          3,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[906],[[0,[[1,2],5,1]],[0,[[1,3],5,1]],[0,[[1,5],5,1]],[7,[[1,6],1,[14,17],\"N\"]]],[0,[[2,[[2,1],3,false,0]]]]]"
 	},
 	{
 		"id": 521,
@@ -6692,7 +6692,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    907\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          1\r\n        ],\r\n        6,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          2\r\n        ],\r\n        6,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          3\r\n        ],\r\n        6,\r\n        2\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            2,\r\n            1\r\n          ],\r\n          4,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[907],[[0,[[2,1],6,2]],[0,[[2,2],6,2]],[0,[[2,3],6,2]]],[0,[[2,[[2,1],4,false,0]]]]]"
 	},
 	{
 		"id": 522,
@@ -6705,7 +6705,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    908\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          4\r\n        ],\r\n        6,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          5\r\n        ],\r\n        6,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      2,\r\n      [\r\n        [\r\n          7,\r\n          2\r\n        ],\r\n        6,\r\n        2,\r\n        [\r\n          15\r\n        ],\r\n        \"-2\"\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            11,\r\n            7,\r\n            18\r\n          ],\r\n          1,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            5,\r\n            6\r\n          ],\r\n          1,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            3\r\n          ],\r\n          1,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[908],[[0,[[2,4],6,2]],[0,[[2,5],6,2]],[2,[[7,2],6,2,[15],\"-2\"]]],[0,[[2,[[11,7,18],1,false,0]],[2,[[5,6],1,false,0]],[2,[[3],1,false,0]]]]]"
 	},
 	{
 		"id": 523,
@@ -6731,7 +6731,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    911\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          3\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          2\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          3\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        1,\r\n        [\r\n          135,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          425,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          527,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          569,\r\n          false,\r\n          1\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[911],[[0,[[1,3],6,1]],[0,[[1,4],6,1]],[0,[[1,5],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]]],[0,[[1,[135,false,0]],[1,[425,false,0]],[1,[527,false,0]],[1,[569,false,1]]]]]"
 	},
 	{
 		"id": 525,
@@ -6783,7 +6783,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    915\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          3\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            16\r\n          ],\r\n          1,\r\n          true,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            2,\r\n            1\r\n          ],\r\n          2,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[915],[[0,[[1,4],6,1]],[0,[[2,3],6,1]],[0,[[2,4],6,1]]],[0,[[2,[[16],1,true,0]],[2,[[2,1],2,false,0]]]]]"
 	},
 	{
 		"id": 529,
@@ -6835,7 +6835,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    919\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          2\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          3\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        6,\r\n        [\r\n          [\r\n            4\r\n          ],\r\n          2,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[919],[[0,[[2,2],6,1]],[0,[[2,3],6,1]],[0,[[2,4],6,1]]],[0,[[6,[[4],2,false,0]]]]]"
 	},
 	{
 		"id": 533,
@@ -6913,7 +6913,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    925\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          3,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          4,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          4,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          5,\r\n          2\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        1,\r\n        [\r\n          698,\r\n          true,\r\n          1\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            11\r\n          ],\r\n          2,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[925],[[0,[[3,4],6,1]],[0,[[4,4],6,1]],[0,[[4,5],6,1]],[0,[[5,2],6,1]]],[0,[[1,[698,true,1]],[2,[[11],2,false,0]]]]]"
 	},
 	{
 		"id": 539,
@@ -6991,7 +6991,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    932\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          2\r\n        ],\r\n        6,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          3\r\n        ],\r\n        6,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      2,\r\n      [\r\n        [\r\n          7,\r\n          3\r\n        ],\r\n        6,\r\n        2,\r\n        [\r\n          18,\r\n          23,\r\n          24,\r\n          25\r\n        ],\r\n        \"-2\"\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        1,\r\n        [\r\n          181,\r\n          true,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        0,\r\n        [\r\n          1,\r\n          [\r\n            [\r\n              5,\r\n              [\r\n                186,\r\n                2,\r\n                0\r\n              ]\r\n            ],\r\n            [\r\n              5,\r\n              [\r\n                20,\r\n                2,\r\n                0\r\n              ]\r\n            ],\r\n            [\r\n              5,\r\n              [\r\n                190,\r\n                2,\r\n                0\r\n              ]\r\n            ]\r\n          ]\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[932],[[0,[[2,2],6,2]],[0,[[2,3],6,2]],[2,[[7,3],6,2,[18,23,24,25],\"-2\"]]],[0,[[1,[181,true,0]],[0,[1,[[5,[186,2,0]],[5,[20,2,0]],[5,[190,2,0]]]]]]]]"
 	},
 	{
 		"id": 545,
@@ -7082,7 +7082,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    939\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          3\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          6,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      2,\r\n      [\r\n        [\r\n          7,\r\n          2\r\n        ],\r\n        6,\r\n        1,\r\n        [\r\n          15\r\n        ],\r\n        \"-2\"\r\n      ]\r\n    ],\r\n    [\r\n      2,\r\n      [\r\n        [\r\n          7,\r\n          3\r\n        ],\r\n        6,\r\n        1,\r\n        [\r\n          18,\r\n          23,\r\n          24,\r\n          25\r\n        ],\r\n        \"-2\"\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        7,\r\n        [\r\n          501,\r\n          true,\r\n          1,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        8,\r\n        [\r\n          [\r\n            [\r\n              97,\r\n              false,\r\n              0,\r\n              0\r\n            ],\r\n            [\r\n              43,\r\n              false,\r\n              0,\r\n              0\r\n            ],\r\n            [\r\n              413,\r\n              false,\r\n              0,\r\n              0\r\n            ],\r\n            [\r\n              414,\r\n              false,\r\n              0,\r\n              0\r\n            ]\r\n          ],\r\n          2\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[939],[[0,[[2,3],6,1]],[0,[[6,4],6,1]],[2,[[7,2],6,1,[15],\"-2\"]],[2,[[7,3],6,1,[18,23,24,25],\"-2\"]]],[0,[[7,[501,true,1,0]],[8,[[[97,false,0,0],[43,false,0,0],[413,false,0,0],[414,false,0,0]],2]]]]]"
 	},
 	{
 		"id": 552,
@@ -7147,7 +7147,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    944\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          2\r\n        ],\r\n        5,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          3\r\n        ],\r\n        5,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          4\r\n        ],\r\n        5,\r\n        2\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    1,\r\n    [\r\n      [\r\n        0,\r\n        [\r\n          0,\r\n          [\r\n            [\r\n              2,\r\n              [\r\n                [\r\n                  2\r\n                ],\r\n                1,\r\n                true,\r\n                0\r\n              ]\r\n            ],\r\n            [\r\n              2,\r\n              [\r\n                [\r\n                  2,\r\n                  1\r\n                ],\r\n                4,\r\n                false,\r\n                0\r\n              ]\r\n            ]\r\n          ]\r\n        ]\r\n      ],\r\n      [\r\n        0,\r\n        [\r\n          0,\r\n          [\r\n            [\r\n              2,\r\n              [\r\n                [\r\n                  5\r\n                ],\r\n                1,\r\n                true,\r\n                0\r\n              ]\r\n            ],\r\n            [\r\n              2,\r\n              [\r\n                [\r\n                  2,\r\n                  1\r\n                ],\r\n                3,\r\n                false,\r\n                0\r\n              ]\r\n            ]\r\n          ]\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[944],[[0,[[1,2],5,2]],[0,[[1,3],5,2]],[0,[[1,4],5,2]]],[1,[[0,[0,[[2,[[2],1,true,0]],[2,[[2,1],4,false,0]]]]],[0,[0,[[2,[[5],1,true,0]],[2,[[2,1],3,false,0]]]]]]]]"
 	},
 	{
 		"id": 557,
@@ -7160,7 +7160,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    945\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          5\r\n        ],\r\n        5,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          1\r\n        ],\r\n        5,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      7,\r\n      [\r\n        [\r\n          1,\r\n          6\r\n        ],\r\n        2,\r\n        [\r\n          14,\r\n          17\r\n        ],\r\n        \"N\"\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    1,\r\n    [\r\n      [\r\n        0,\r\n        [\r\n          0,\r\n          [\r\n            [\r\n              2,\r\n              [\r\n                [\r\n                  2\r\n                ],\r\n                1,\r\n                true,\r\n                0\r\n              ]\r\n            ],\r\n            [\r\n              2,\r\n              [\r\n                [\r\n                  2,\r\n                  1\r\n                ],\r\n                4,\r\n                false,\r\n                0\r\n              ]\r\n            ]\r\n          ]\r\n        ]\r\n      ],\r\n      [\r\n        0,\r\n        [\r\n          0,\r\n          [\r\n            [\r\n              2,\r\n              [\r\n                [\r\n                  3,\r\n                  21\r\n                ],\r\n                1,\r\n                true,\r\n                0\r\n              ]\r\n            ],\r\n            [\r\n              2,\r\n              [\r\n                [\r\n                  2,\r\n                  1\r\n                ],\r\n                3,\r\n                false,\r\n                0\r\n              ]\r\n            ]\r\n          ]\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[945],[[0,[[1,5],5,2]],[0,[[2,1],5,2]],[7,[[1,6],2,[14,17],\"N\"]]],[1,[[0,[0,[[2,[[2],1,true,0]],[2,[[2,1],4,false,0]]]]],[0,[0,[[2,[[3,21],1,true,0]],[2,[[2,1],3,false,0]]]]]]]]"
 	},
 	{
 		"id": 558,
@@ -7173,7 +7173,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    946\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          2\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          3\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            11,\r\n            7,\r\n            18\r\n          ],\r\n          1,\r\n          true,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            5,\r\n            6\r\n          ],\r\n          2,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[946],[[0,[[2,2],6,1]],[0,[[2,3],6,1]],[0,[[2,4],6,1]]],[0,[[2,[[11,7,18],1,true,0]],[2,[[5,6],2,false,0]]]]]"
 	},
 	{
 		"id": 559,
@@ -7186,7 +7186,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    947\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          3,\r\n          1\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          3,\r\n          3\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          3,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          3,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            7\r\n          ],\r\n          2,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[947],[[0,[[3,1],6,1]],[0,[[3,3],6,1]],[0,[[3,4],6,1]],[0,[[3,5],6,1]]],[0,[[2,[[7],2,false,0]]]]]"
 	},
 	{
 		"id": 560,
@@ -7199,7 +7199,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    948\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          5,\r\n          2\r\n        ],\r\n        6,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          5,\r\n          5\r\n        ],\r\n        6,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          6,\r\n          4\r\n        ],\r\n        5,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          6,\r\n          5\r\n        ],\r\n        6,\r\n        2\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            7,\r\n            11,\r\n            18\r\n          ],\r\n          1,\r\n          true,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[948],[[0,[[5,2],6,2]],[0,[[5,5],6,2]],[0,[[6,4],5,2]],[0,[[6,5],6,2]]],[0,[[2,[[7,11,18],1,true,0]]]]]"
 	},
 	{
 		"id": 561,
@@ -7355,7 +7355,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    966\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          1\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          2\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          3\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      2,\r\n      [\r\n        [\r\n          7,\r\n          3\r\n        ],\r\n        6,\r\n        1,\r\n        [\r\n          18,\r\n          23,\r\n          24,\r\n          25\r\n        ],\r\n        \"-2\"\r\n      ]\r\n    ],\r\n    [\r\n      7,\r\n      [\r\n        [\r\n          7,\r\n          4\r\n        ],\r\n        1,\r\n        [\r\n          15\r\n        ],\r\n        \"O\"\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[966],[[0,[[2,1],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]],[2,[[7,3],6,1,[18,23,24,25],\"-2\"]],[7,[[7,4],1,[15],\"O\"]]],[0,[]]]"
 	},
 	{
 		"id": 573,
@@ -7368,7 +7368,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    967\r\n  ],\r\n  [\r\n    [\r\n      8,\r\n      [\r\n        [\r\n          7,\r\n          4\r\n        ],\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[967],[[8,[[7,4],1]]],[0,[]]]"
 	},
 	{
 		"id": 574,
@@ -7381,7 +7381,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    968\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          5\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          6,\r\n          4\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      2,\r\n      [\r\n        [\r\n          7,\r\n          2\r\n        ],\r\n        5,\r\n        1,\r\n        [\r\n          15\r\n        ],\r\n        \"-2\"\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          7,\r\n          4\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        1,\r\n        [\r\n          884,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[968],[[0,[[2,5],5,1]],[0,[[6,4],5,1]],[2,[[7,2],5,1,[15],\"-2\"]],[0,[[7,4],5,1]]],[0,[[1,[884,false,0]]]]]"
 	},
 	{
 		"id": 575,
@@ -7394,7 +7394,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    969\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          2\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          5,\r\n          1\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          5,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          6,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      2,\r\n      [\r\n        [\r\n          7,\r\n          3\r\n        ],\r\n        6,\r\n        1,\r\n        [\r\n          18,\r\n          23,\r\n          24,\r\n          25\r\n        ],\r\n        \"-2\"\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        0,\r\n        [\r\n          0,\r\n          [\r\n            [\r\n              3,\r\n              [\r\n                [\r\n                  [\r\n                    61,\r\n                    false,\r\n                    0\r\n                  ],\r\n                  [\r\n                    24,\r\n                    false,\r\n                    0\r\n                  ],\r\n                  [\r\n                    480,\r\n                    false,\r\n                    0\r\n                  ]\r\n                ],\r\n                2\r\n              ]\r\n            ]\r\n          ]\r\n        ]\r\n      ],\r\n      [\r\n        0,\r\n        [\r\n          1,\r\n          [\r\n            [\r\n              1,\r\n              [\r\n                903,\r\n                false,\r\n                2\r\n              ]\r\n            ],\r\n            [\r\n              1,\r\n              [\r\n                908,\r\n                false,\r\n                2\r\n              ]\r\n            ]\r\n          ]\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[969],[[0,[[2,2],6,1]],[0,[[5,1],6,1]],[0,[[5,4],6,1]],[0,[[6,4],6,1]],[2,[[7,3],6,1,[18,23,24,25],\"-2\"]]],[0,[[0,[0,[[3,[[[61,false,0],[24,false,0],[480,false,0]],2]]]]],[0,[1,[[1,[903,false,2]],[1,[908,false,2]]]]]]]]"
 	},
 	{
 		"id": 576,
@@ -7407,7 +7407,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    970\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          3\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      2,\r\n      [\r\n        [\r\n          7,\r\n          2\r\n        ],\r\n        6,\r\n        1,\r\n        [\r\n          15\r\n        ],\r\n        \"-2\"\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          7,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        1,\r\n        [\r\n          647,\r\n          false,\r\n          1\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          113,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          61,\r\n          false,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[970],[[0,[[1,4],6,1]],[0,[[2,3],6,1]],[0,[[2,5],6,1]],[2,[[7,2],6,1,[15],\"-2\"]],[0,[[7,4],6,1]]],[0,[[1,[647,false,1]],[1,[113,false,0]],[1,[61,false,0]]]]]"
 	},
 	{
 		"id": 577,
@@ -7420,7 +7420,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    973\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          3,\r\n          1\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          3,\r\n          3\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          4,\r\n          3\r\n        ],\r\n        5,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      2,\r\n      [\r\n        [\r\n          7,\r\n          3\r\n        ],\r\n        5,\r\n        1,\r\n        [\r\n          18,\r\n          23,\r\n          24,\r\n          25\r\n        ],\r\n        \"-2\"\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        6,\r\n        [\r\n          [\r\n            5,\r\n            4\r\n          ],\r\n          3,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            11,\r\n            18,\r\n            7\r\n          ],\r\n          0,\r\n          false,\r\n          1\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[973],[[0,[[3,1],5,1]],[0,[[3,3],5,1]],[0,[[4,3],5,1]],[2,[[7,3],5,1,[18,23,24,25],\"-2\"]]],[0,[[6,[[5,4],3,false,0]],[2,[[11,18,7],0,false,1]]]]]"
 	},
 	{
 		"id": 578,
@@ -7433,7 +7433,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    974\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          2\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          3\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          5,\r\n          1\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        1,\r\n        [\r\n          666,\r\n          false,\r\n          1\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[974],[[0,[[1,2],6,1]],[0,[[1,3],6,1]],[0,[[5,1],6,1]]],[0,[[1,[666,false,1]]]]]"
 	},
 	{
 		"id": 579,
@@ -7446,7 +7446,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    975\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          3\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          3,\r\n          2\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          5,\r\n          3\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        1,\r\n        [\r\n          666,\r\n          false,\r\n          1\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          647,\r\n          false,\r\n          1\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          195,\r\n          false,\r\n          1\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          627,\r\n          false,\r\n          1\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[975],[[0,[[1,5],6,1]],[0,[[2,3],6,1]],[0,[[3,2],6,1]],[0,[[5,3],6,1]]],[0,[[1,[666,false,1]],[1,[647,false,1]],[1,[195,false,1]],[1,[627,false,1]]]]]"
 	},
 	{
 		"id": 580,
@@ -7459,7 +7459,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    976\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          4,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          5,\r\n          1\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            3\r\n          ],\r\n          1,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            2\r\n          ],\r\n          2,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        3,\r\n        [\r\n          [\r\n            [\r\n              911,\r\n              true,\r\n              2\r\n            ],\r\n            [\r\n              916,\r\n              true,\r\n              2\r\n            ]\r\n          ],\r\n          1\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[976],[[0,[[1,4],6,1]],[0,[[2,5],6,1]],[0,[[4,4],6,1]],[0,[[5,1],6,1]]],[0,[[2,[[3],1,false,0]],[2,[[2],2,false,0]],[3,[[[911,true,2],[916,true,2]],1]]]]]"
 	},
 	{
 		"id": 581,
@@ -7472,7 +7472,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    977\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          4,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          5,\r\n          3\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          6,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      2,\r\n      [\r\n        [\r\n          7,\r\n          2\r\n        ],\r\n        6,\r\n        1,\r\n        [\r\n          15\r\n        ],\r\n        \"-2\"\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        2,\r\n        [\r\n          [\r\n            2\r\n          ],\r\n          2,\r\n          false,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          546,\r\n          false,\r\n          1\r\n        ]\r\n      ],\r\n      [\r\n        1,\r\n        [\r\n          911,\r\n          false,\r\n          1\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[977],[[0,[[4,5],6,1]],[0,[[5,3],6,1]],[0,[[6,5],6,1]],[2,[[7,2],6,1,[15],\"-2\"]]],[0,[[2,[[2],2,false,0]],[1,[546,false,1]],[1,[911,false,1]]]]]"
 	},
 	{
 		"id": 582,
@@ -7485,7 +7485,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    978\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          5,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          6,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      2,\r\n      [\r\n        [\r\n          7,\r\n          3\r\n        ],\r\n        6,\r\n        1,\r\n        [\r\n          18,\r\n          23,\r\n          24,\r\n          25\r\n        ],\r\n        \"-2\"\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          7,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        1,\r\n        [\r\n          916,\r\n          true,\r\n          2\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[978],[[0,[[5,5],6,1]],[0,[[6,4],6,1]],[2,[[7,3],6,1,[18,23,24,25],\"-2\"]],[0,[[7,4],6,1]]],[0,[[1,[916,true,2]]]]]"
 	},
 	{
 		"id": 583,
@@ -7498,7 +7498,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    980\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          5,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          5,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          6,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        3,\r\n        [\r\n          [\r\n            [\r\n              670,\r\n              false,\r\n              1\r\n            ],\r\n            [\r\n              568,\r\n              false,\r\n              1\r\n            ],\r\n            [\r\n              915,\r\n              false,\r\n              1\r\n            ]\r\n          ],\r\n          2\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[980],[[0,[[2,4],6,1]],[0,[[5,4],6,1]],[0,[[5,5],6,1]],[0,[[6,4],6,1]]],[0,[[3,[[[670,false,1],[568,false,1],[915,false,1]],2]]]]]"
 	},
 	{
 		"id": 584,
@@ -7511,7 +7511,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    981\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          3\r\n        ],\r\n        6,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          6,\r\n          4\r\n        ],\r\n        6,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      2,\r\n      [\r\n        [\r\n          7,\r\n          3\r\n        ],\r\n        6,\r\n        2,\r\n        [\r\n          18,\r\n          23,\r\n          24,\r\n          25\r\n        ],\r\n        \"-2\"\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          7,\r\n          4\r\n        ],\r\n        6,\r\n        2\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        3,\r\n        [\r\n          [\r\n            [\r\n              596,\r\n              false,\r\n              0\r\n            ],\r\n            [\r\n              562,\r\n              false,\r\n              0\r\n            ],\r\n            [\r\n              561,\r\n              false,\r\n              0\r\n            ]\r\n          ],\r\n          2\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[981],[[0,[[2,3],6,2]],[0,[[6,4],6,2]],[2,[[7,3],6,2,[18,23,24,25],\"-2\"]],[0,[[7,4],6,2]]],[0,[[3,[[[596,false,0],[562,false,0],[561,false,0]],2]]]]]"
 	},
 	{
 		"id": 585,
@@ -7524,7 +7524,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    982\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          1,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          2\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          3,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      7,\r\n      [\r\n        [\r\n          1,\r\n          6\r\n        ],\r\n        1,\r\n        [\r\n          14,\r\n          17\r\n        ],\r\n        \"N\"\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        7,\r\n        [\r\n          920,\r\n          true,\r\n          1,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[982],[[0,[[1,5],6,1]],[0,[[2,2],6,1]],[0,[[3,5],6,1]],[7,[[1,6],1,[14,17],\"N\"]]],[0,[[7,[920,true,1,0]]]]]"
 	},
 	{
 		"id": 586,
@@ -7537,7 +7537,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    983\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          3\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          4,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          5,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        7,\r\n        [\r\n          544,\r\n          false,\r\n          0,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        7,\r\n        [\r\n          561,\r\n          false,\r\n          0,\r\n          0\r\n        ]\r\n      ],\r\n      [\r\n        7,\r\n        [\r\n          562,\r\n          false,\r\n          0,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[983],[[0,[[2,3],6,1]],[0,[[2,5],6,1]],[0,[[4,5],6,1]],[0,[[5,5],6,1]]],[0,[[7,[544,false,0,0]],[7,[561,false,0,0]],[7,[562,false,0,0]]]]]"
 	},
 	{
 		"id": 587,
@@ -7550,7 +7550,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    989\r\n  ],\r\n  [\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          2,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          3,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          4,\r\n          5\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          5,\r\n          2\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          6,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ],\r\n    [\r\n      0,\r\n      [\r\n        [\r\n          7,\r\n          4\r\n        ],\r\n        6,\r\n        1\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    [\r\n      [\r\n        7,\r\n        [\r\n          894,\r\n          true,\r\n          1,\r\n          0\r\n        ]\r\n      ]\r\n    ]\r\n  ]\r\n]"
+		"tracker": "[[989],[[0,[[2,5],6,1]],[0,[[3,5],6,1]],[0,[[4,5],6,1]],[0,[[5,2],6,1]],[0,[[6,4],6,1]],[0,[[7,4],6,1]]],[0,[[7,[894,true,1,0]]]]]"
 	},
 	{
 		"id": 588,
@@ -7589,7 +7589,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    1103\r\n  ],\r\n  [\r\n    [\r\n      3,\r\n      [\r\n        125,\r\n        3\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[1103],[[3,[125,3]]],[0,[]]]"
 	},
 	{
 		"id": 591,
@@ -7615,7 +7615,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    1105\r\n  ],\r\n  [\r\n    [\r\n      4,\r\n      [\r\n        47,\r\n        3\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[1105],[[4,[47,3]]],[0,[]]]"
 	},
 	{
 		"id": 593,
@@ -7641,7 +7641,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    1107\r\n  ],\r\n  [\r\n    [\r\n      4,\r\n      [\r\n        6,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      4,\r\n      [\r\n        8,\r\n        2\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[1107],[[4,[6,2]],[4,[8,2]]],[0,[]]]"
 	},
 	{
 		"id": 595,
@@ -7654,7 +7654,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    1108\r\n  ],\r\n  [\r\n    [\r\n      3,\r\n      [\r\n        46,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      3,\r\n      [\r\n        47,\r\n        2\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[1108],[[3,[46,2]],[3,[47,2]]],[0,[]]]"
 	},
 	{
 		"id": 596,
@@ -7667,7 +7667,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    1109\r\n  ],\r\n  [\r\n    [\r\n      3,\r\n      [\r\n        37,\r\n        2\r\n      ]\r\n    ],\r\n    [\r\n      3,\r\n      [\r\n        68,\r\n        2\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[1109],[[3,[37,2]],[3,[68,2]]],[0,[]]]"
 	},
 	{
 		"id": 597,
@@ -7693,7 +7693,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    1112\r\n  ],\r\n  [\r\n    [\r\n      4,\r\n      [\r\n        1,\r\n        4\r\n      ]\r\n    ],\r\n    [\r\n      4,\r\n      [\r\n        2,\r\n        4\r\n      ]\r\n    ],\r\n    [\r\n      6,\r\n      [\r\n        3,\r\n        4\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[1112],[[4,[1,4]],[4,[2,4]],[6,[3,4]]],[0,[]]]"
 	},
 	{
 		"id": 599,
@@ -7719,7 +7719,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    1114\r\n  ],\r\n  [\r\n    [\r\n      4,\r\n      [\r\n        1,\r\n        3\r\n      ]\r\n    ],\r\n    [\r\n      4,\r\n      [\r\n        2,\r\n        3\r\n      ]\r\n    ],\r\n    [\r\n      4,\r\n      [\r\n        4,\r\n        3\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[1114],[[4,[1,3]],[4,[2,3]],[4,[4,3]]],[0,[]]]"
 	},
 	{
 		"id": 601,
@@ -7732,7 +7732,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    1115\r\n  ],\r\n  [\r\n    [\r\n      4,\r\n      [\r\n        3,\r\n        3\r\n      ]\r\n    ],\r\n    [\r\n      4,\r\n      [\r\n        4,\r\n        3\r\n      ]\r\n    ],\r\n    [\r\n      4,\r\n      [\r\n        10,\r\n        3\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[1115],[[4,[3,3]],[4,[4,3]],[4,[10,3]]],[0,[]]]"
 	},
 	{
 		"id": 602,
@@ -7745,7 +7745,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    1116\r\n  ],\r\n  [\r\n    [\r\n      4,\r\n      [\r\n        10,\r\n        3\r\n      ]\r\n    ],\r\n    [\r\n      4,\r\n      [\r\n        11,\r\n        3\r\n      ]\r\n    ],\r\n    [\r\n      4,\r\n      [\r\n        21,\r\n        3\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[1116],[[4,[10,3]],[4,[11,3]],[4,[21,3]]],[0,[]]]"
 	},
 	{
 		"id": 603,
@@ -7784,7 +7784,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    1120\r\n  ],\r\n  [\r\n    [\r\n      4,\r\n      [\r\n        6,\r\n        4\r\n      ]\r\n    ],\r\n    [\r\n      4,\r\n      [\r\n        7,\r\n        4\r\n      ]\r\n    ],\r\n    [\r\n      4,\r\n      [\r\n        8,\r\n        4\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[1120],[[4,[6,4]],[4,[7,4]],[4,[8,4]]],[0,[]]]"
 	},
 	{
 		"id": 606,
@@ -7797,7 +7797,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[\r\n  [\r\n    1123\r\n  ],\r\n  [\r\n    [\r\n      3,\r\n      [\r\n        82,\r\n        2\r\n      ]\r\n    ]\r\n  ],\r\n  [\r\n    0,\r\n    []\r\n  ]\r\n]"
+		"tracker": "[[1123],[[3,[82,2]]],[0,[]]]"
 	},
 	{
 		"id": 607,
