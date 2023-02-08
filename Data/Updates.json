@@ -1,11 +1,20 @@
 [
 	{
-		"Id": 7,
-		"UpdateDate": "2023-02-14T00:00:00",
-		"UpdateStartTime": "11:00:00",
-		"UpdateEndTime": null,
-		"Name": "Valentine's Day 2023",
-		"Description": "- Setsubun end\r\n- Valentine's season start",
-		"WasLiveUpdate": false
+		"id": 7,
+		"start_date": "2023-02-14T00:00:00",
+		"start_time": "11:00:00",
+		"end_time": null,
+		"name": "Valentine's Day 2023",
+		"description": "- Setsubun end\r\n- Valentine's season start",
+		"live_update": false
+	},
+	{
+		"id": 9,
+		"start_date": "2023-01-20T00:00:00",
+		"start_time": "11:00:00",
+		"end_time": "20:00:00",
+		"name": "Setsubun 2023",
+		"description": "",
+		"live_update": false
 	}
 ]
