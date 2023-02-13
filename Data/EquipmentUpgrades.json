@@ -614,32 +614,15 @@
 				"convert": {"id_after":165,"lvl_after":0},
 				"helpers": [{"ship_ids":[106],"days":[5,6]},{"ship_ids":[107],"days":[3,4]},{"ship_ids":[450],"days":[0,4,5,6]},{"ship_ids":[451,348],"days":[1,2,3]}],
 				"costs": {"fuel":90,"ammo":20,"steel":0,"baux":300,"p1":{"devmats":4,"devmats_sli":6,"screws":2,"screws_sli":3,"equips":[{"id":25,"eq_count":1}],"consumable":[]},"p2":{"devmats":5,"devmats_sli":8,"screws":3,"screws_sli":5,"equips":[{"id":25,"eq_count":2}],"consumable":[]},"conv":{"devmats":9,"devmats_sli":15,"screws":5,"screws_sli":10,"equips":[{"id":20,"eq_count":3}],"consumable":[]}}
-			}
-		],
-		"convert_to": [
+			},
 			{
-				"id_after": 165,
-				"lvl_after": 0
+				"convert": {"id_after":59,"lvl_after":2},
+				"helpers": [{"ship_ids":[188],"days":[0,1,2,5,6]},{"ship_ids":[189],"days":[2,3,4,5,6]}],
+				"costs": {"fuel":90,"ammo":20,"steel":0,"baux":300,"p1":{"devmats":4,"devmats_sli":6,"screws":2,"screws_sli":3,"equips":[{"id":25,"eq_count":1}],"consumable":[]},"p2":{"devmats":5,"devmats_sli":8,"screws":3,"screws_sli":5,"equips":[{"id":25,"eq_count":2}],"consumable":[]},"conv":{"devmats":11,"devmats_sli":15,"screws":4,"screws_sli":7,"equips":[{"id":19,"eq_count":3}],"consumable":[]}}
 			}
 		],
-		"upgrade_for": [
-			171,
-			370,
-			102,
-			304,
-			163,
-			23,
-			371,
-			367,
-			82,
-			118,
-			115,
-			238,
-			165,
-			69,
-			414,
-			325
-		]
+		"convert_to": [],
+		"upgrade_for": []
 	},
 	{
 		"eq_id": 26,
@@ -4666,8 +4649,8 @@
 		"improvement": [
 			{
 				"convert": null,
-				"helpers": [{"ship_ids":[],"days":[]}],
-				"costs": {"fuel":20,"ammo":140,"steel":10,"baux":0,"p1":{"devmats":0,"devmats_sli":0,"screws":0,"screws_sli":0,"equips":[],"consumable":[]},"p2":{"devmats":0,"devmats_sli":0,"screws":0,"screws_sli":0,"equips":[],"consumable":[]}}
+				"helpers": [{"ship_ids":[145],"days":[0,5,6]}],
+				"costs": {"fuel":20,"ammo":140,"steel":10,"baux":90,"p1":{"devmats":6,"devmats_sli":7,"screws":3,"screws_sli":4,"equips":[{"id":227,"eq_count":1}],"consumable":[]},"p2":{"devmats":8,"devmats_sli":10,"screws":5,"screws_sli":7,"equips":[{"id":227,"eq_count":2}],"consumable":[]}}
 			}
 		],
 		"convert_to": [],
