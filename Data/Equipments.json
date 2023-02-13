@@ -3385,7 +3385,7 @@
 		"api_id": 488,
 		"name_jp": "二式爆雷改二",
 		"name_en": "Type 2 Depth Charge Kai Ni",
-		"upgrade_data": "{\"EquipmentId\":488,\"Improvement\":[{\"ConversionData\":null,\"Helpers\":[{\"ShipIds\":[145],\"CanHelpOnDays\":[0,5,6]}],\"Costs\":{\"Fuel\":20,\"Ammo\":140,\"Steel\":10,\"Bauxite\":90,\"Cost0To5\":{\"DevmatCost\":6,\"SliderDevmatCost\":7,\"ImproveMatCost\":3,\"SliderImproveMatCost\":4,\"EquipmentDetail\":[{\"Id\":227,\"Count\":1}],\"ConsumableDetail\":[]},\"Cost6To9\":{\"DevmatCost\":8,\"SliderDevmatCost\":10,\"ImproveMatCost\":5,\"SliderImproveMatCost\":7,\"EquipmentDetail\":[{\"Id\":227,\"Count\":2}],\"ConsumableDetail\":[]},\"CostMax\":null}}],\"ConvertTo\":[],\"UpgradeFor\":[]}"
+		"upgrade_data": "{\"eq_id\":488,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[145],\"days\":[0,5,6]}],\"costs\":{\"fuel\":20,\"ammo\":140,\"steel\":10,\"baux\":90,\"p1\":{\"devmats\":6,\"devmats_sli\":7,\"screws\":3,\"screws_sli\":4,\"equips\":[{\"id\":227,\"eq_count\":1}],\"consumable\":[]},\"p2\":{\"devmats\":8,\"devmats_sli\":10,\"screws\":5,\"screws_sli\":7,\"equips\":[{\"id\":227,\"eq_count\":2}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2327,
