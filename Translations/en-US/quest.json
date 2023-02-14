@@ -1,5 +1,5 @@
 {
-	"version": "21030290",
+	"version": "21030291",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1533,13 +1533,6 @@
 		"desc_jp": "駆逐隊演習任務：精強「第十七駆逐隊」4隻を含む艦隊を編成。新改装精強駆逐隊による<br>猛特訓を開始する！同艦隊で、本日中に演習で4回以上勝利せよ！",
 		"desc": "Use a fleet with Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai, Tanikaze D Kai, and up to 2 additional ships to obtain a B-rank (or higher) in Exercises 4 times within the same day."
 	},
-	"329": {
-		"code": "2301 C1",
-		"name_jp": "【節分任務】節分演習！二〇二三",
-		"name": "Setsubun Exercises! 2023",
-		"desc_jp": "節分任務：軽巡または練習巡洋艦2隻、駆逐艦または海防艦3隻を含む節分艦隊を編成、<br>同艦隊を以て、節分演習を実施！本日中に演習において【S判定】を3回以上達成せよ！",
-		"desc": "Organize a fleet with 2CL/CT and 3DD/DE in your fleet and score S rank 3 times in PvP"
-	},
 	"330": {
 		"code": "C29",
 		"name_jp": "空母機動部隊、演習始め！",
@@ -2015,13 +2008,6 @@
 		"name": "Military Buildup Expedition Mission: \"Extra Operation\"",
 		"desc_jp": "兵站強化拡張任務：「ブルネイ泊地沖哨戒」「海上護衛任務」「水上機前線輸送」<br>及び「強行鼠輸送作戦」「南西海域戦闘哨戒」各遠征を実施、これを成功させよ！",
 		"desc": "Complete Expeditions 5, 40, 41, 46 and E2 once each."
-	},
-	"441": {
-		"code": "2301 D1",
-		"name_jp": "【節分任務】令和五年節分遠征任務",
-		"name": "Setsubun Expedition Quest in Reiwa 5th Year",
-		"desc_jp": "節分任務：「ブルネイ泊地沖哨戒」「対潜警戒任務」「海上護衛任務」「長時間対潜警戒」<br>「南西方面航空偵察作戦」「包囲陸戦隊撤収作戦」各遠征を実施、これを成功させよ！",
-		"desc": "Complete expeditions 04, 05, A3, 14, B1 and 41"
 	},
 	"442": {
 		"code": "D38",
@@ -3171,33 +3157,12 @@
 		"desc_jp": "戦艦2隻を中核戦力とする戦艦旗艦の艦隊を北方海域アルフォンシーノ方面に進出させ、<br>同海域の敵艦隊を撃滅、北方海域の制海権確保に努めよ！",
 		"desc": "Sortie two BB (one as flagship) and four wildcard and score an S-rank victory against World 3-3 Boss."
 	},
-	"840": {
-		"code": "2301 B5",
-		"name_jp": "【節分任務】節分作戦二〇二三",
-		"name": "Setsubun Operation 2023",
-		"desc_jp": "節分任務：軽空母または軽巡級を旗艦とする駆逐艦または海防艦3隻以上を含む艦隊で、節分期間の<br>鎮守府近海、製油所地帯沿岸、南西諸島防衛線を哨戒！敵艦隊を捕捉、これを撃破せよ！艦隊抜錨！",
-		"desc": "Organize a fleet with a CVL/CL as flagship and 3DD/DE in your fleet and score an A rank at the boss nodes on 1-3, 1-4 and 1-5"
-	},
-	"841": {
-		"code": "2301 B6",
-		"name_jp": "【節分任務】南西海域節分作戦二〇二三",
-		"name": "Setsubun Operation 2023 in Southwestern Area",
-		"desc_jp": "節分任務：旗艦に水上機母艦または航空巡洋艦、さらに旗艦と同艦種の随伴艦を含む艦隊で昭南本土<br>航路の安全を確保、ペナン島沖深部、タウイタウイ泊地沖深部、ジャワ島沖深部の敵を捕捉撃滅せよ！",
-		"desc": "Organize a fleet with 2AV or 2CAV with one of them as flagship to score an S rank at the boss nodes on 7-2 (Part 2), 7-3 (Part 2), 7-5 (Part 3) and score an A rank at the boss node on 7-4"
-	},
 	"842": {
 		"code": "B89",
 		"name_jp": "主力戦艦戦隊、抜錨せよ！",
 		"name": "Battleship Squadron, Set Sail!",
 		"desc_jp": "戦艦または航空戦艦2隻以上からなる強力な戦艦戦隊を中核とした艦隊を沖ノ島海域前面に展開、<br>侵攻する敵艦隊を捕捉、これを撃滅せよ！",
 		"desc": "Sortie two (non-fast) BB/BBV and four wildcard and score an S-rank victory against World 2-4 Boss."
-	},
-	"843": {
-		"code": "2301 B7",
-		"name_jp": "【節分拡張任務】節分作戦二〇二三、全力出撃！",
-		"name": "Setsubun Operation 2023, All-out Sortie!",
-		"desc_jp": "節分拡張任務：戦艦級2隻以上または航空母艦2隻以上、さらに「大淀」または「球磨型」を含む艦隊で、<br>節分期間の沖ノ島沖、カレー洋リランカ島沖、サーモン海域北方、KW環礁沖海域の敵戦力を撃滅せよ！",
-		"desc": "Organize a fleet with 2(F)BB(V) or 2CV(L/B) and either Ooyodo or a Kuma-class ship in your fleet and score an S rank at the boss nodes on 2-5, 4-5, 5-5, and 6-5."
 	},
 	"844": {
 		"code": "B90",
