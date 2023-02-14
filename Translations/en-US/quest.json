@@ -1,5 +1,5 @@
 {
-	"version": "21030294",
+	"version": "21030295",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -890,7 +890,7 @@
 		"desc": "Sortie a fleet with Furutaka (古鷹), Kako (加古), Kinugasa (衣笠), Aoba (青葉) and 2 additional ships. Score an S rank victory against World 2-3 Boss."
 	},
 	"234": {
-		"code": "234",
+		"code": "2302 B1",
 		"name_jp": "バレンタイン2023限定任務【一号作戦】",
 		"name": "2023 Valentine's Limited Mission (Part 1)",
 		"desc_jp": "バレンタイン限定任務：軽巡級2隻及び駆逐艦2隻以上の艦隊で製油所地帯沿岸、南西諸島防衛線、<br>バシー海峡及び東部オリョール海を哨戒！敵艦隊を捕捉撃破し、各海域の制海権確保に努めよ！",
@@ -916,6 +916,13 @@
 		"name": "Haguro & Kamikaze, Sortie!",
 		"desc_jp": "第五戦隊任務：「羽黒」「神風」を基幹として、他に重巡級1隻駆逐艦2隻、または駆逐艦4隻の<br>艦隊で南西諸島近海、バシー海峡、東部オリョール海に出撃、敵艦隊と交戦、これを撃滅せよ！",
 		"desc": "Sortie a fleet with Haguro, Kamikaze, and either 1 CA and 2 DD (for a total of 5 ships) or 4 DD to World 2-1, 2-2, and 2-3. Obtain a S-rank at each boss node."
+	},
+	"238": {
+		"code": "2302 B2",
+		"name_jp": "バレンタイン2023限定任務【二号作戦】",
+		"name": "2023 Valentine's Limited Mission (Part 2)",
+		"desc_jp": "バレンタイン限定任務：巡洋艦3隻以上を含む有力な艦隊で、沖ノ島海域、北方モーレイ海、<br>アルフォンシーノ方面、北方海域全域の敵を捕捉撃滅、制海権を確保せよ！",
+		"desc": "Organize a fleet with 3 CA(V) in your fleet and score an S rank at the boss nodes on 2-4, 3-1, 3-3 and 3-4"
 	},
 	"239": {
 		"code": "B20",
@@ -1660,7 +1667,7 @@
 		"desc": "Organize a fleet with 3 CL/CT (one as flagship), 2 DD, 1 XX and score 4 A+ ranks in PVP on the same day."
 	},
 	"349": {
-		"code": "349",
+		"code": "2302 C1",
 		"name_jp": "バレンタイン2023限定任務【特別演習】",
 		"name": "2023 Valentine's Limited Mission (Exercises) ",
 		"desc_jp": "バレンタイン限定任務：水上機母艦1隻、重巡級1隻、軽巡級1隻、駆逐艦2隻を配備した特別演習<br>艦隊を編成、同特別演習艦隊により本日中に演習で【S判定】以上の勝利を4回以上達成せよ！",
@@ -4033,7 +4040,7 @@
 		"desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and score an S rank at the boss nodes on 2-5, 3-5, 4-5, 5-2, 6-4 and 7-4"
 	},
 	"991": {
-		"code": "991",
+		"code": "2302 B3",
 		"name_jp": "【早春限定任務】海上遊撃戦、展開せよ",
 		"name": "(Early Spring Limited Mission) Deploy the fleet to Sea Battles",
 		"desc_jp": "軽巡を旗艦、航空巡洋艦及び駆逐艦1隻以上を含む精鋭艦隊で、南西海域ペナン島沖深部、<br>昭南本土航路、タウイタウイ泊地沖深部、南方海域サーモン海域北方に出撃！敵艦隊を撃滅せよ！",
@@ -4173,7 +4180,7 @@
 		"desc": "Have your secretary flagship Yura Kai Ni or Tone Kai Ni equip a max Type 0 Reconnaissance Seaplane in the first slot and then proceed to scrap 2x Type 97 Torpedo Bomber (931 Air Group) and have 950 bauxite, 2x New Model Aviation Material, 35x Development Material and 2x Skilled Crew Member (All resources and Materials will be consumed upon completion)"
 	},
 	"1124": {
-		"code": "1124",
+		"code": "2302 F1",
 		"name_jp": "【早春限定任務】夜間航空作戦能力の増強",
 		"name": "(Early Spring Limited Mission) Improvement of Night Operation Capabilities",
 		"desc_jp": "旗艦「龍鳳改二/戊」「鳳翔改/鳳翔改二」第一スロに「九七式艦攻(熟練)」(改修度不問)を搭載。<br>「九七式艦攻」x2廃棄、ボーキ370、新型航空兵装資材x1、開発資材x16、熟練搭乗員x1を準備！",
