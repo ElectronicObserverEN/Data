@@ -16,5 +16,14 @@
 		"name": "Setsubun 2023",
 		"description": "",
 		"live_update": false
+	},
+	{
+		"id": 10,
+		"start_date": "2022-02-14T00:00:00",
+		"start_time": "00:00:00",
+		"end_time": "00:00:00",
+		"name": "Valentine's Day 2022",
+		"description": "",
+		"live_update": false
 	}
 ]

@@ -10,5 +10,11 @@
 		"name": "Valentine's day 2023",
 		"added_update_id": 7,
 		"removed_update_id": null
+	},
+	{
+		"id": 4,
+		"name": "Valentine's Day 2022",
+		"added_update_id": 10,
+		"removed_update_id": 10
 	}
 ]
