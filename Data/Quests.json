@@ -7811,5 +7811,44 @@
 		"removed_update_id": null,
 		"season_id": null,
 		"tracker": ""
+	},
+	{
+		"id": 610,
+		"api_id": 234,
+		"code": "234",
+		"name_jp": "バレンタイン2023限定任務【一号作戦】",
+		"name_en": "2023 Valentine's Limited Mission (Part 1)",
+		"desc_jp": "バレンタイン限定任務：軽巡級2隻及び駆逐艦2隻以上の艦隊で製油所地帯沿岸、南西諸島防衛線、<br>バシー海峡及び東部オリョール海を哨戒！敵艦隊を捕捉撃破し、各海域の制海権確保に努めよ！",
+		"desc_en": "Organize a fleet with 2DD and 2CL in your fleet and score an S rank at the boss nodes on 1-3, 1-4, 2-2 and 2-3",
+		"added_update_id": 7,
+		"removed_update_id": null,
+		"season_id": 3,
+		"tracker": "[[234],[[0,[[1,3],6,1]],[0,[[1,4],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]]],[0,[[2,[[2],2,false,0]],[2,[[3],2,false,0]]]]]"
+	},
+	{
+		"id": 611,
+		"api_id": 349,
+		"code": "349",
+		"name_jp": "バレンタイン2023限定任務【特別演習】",
+		"name_en": "2023 Valentine's Limited Mission (Exercises) ",
+		"desc_jp": "バレンタイン限定任務：水上機母艦1隻、重巡級1隻、軽巡級1隻、駆逐艦2隻を配備した特別演習<br>艦隊を編成、同特別演習艦隊により本日中に演習で【S判定】以上の勝利を4回以上達成せよ！",
+		"desc_en": "Organize a fleet with 1AV, 1CA, 1CL and 2DD in your fleet and score S rank 4 times in PvP",
+		"added_update_id": 7,
+		"removed_update_id": null,
+		"season_id": 3,
+		"tracker": "[[349],[[9,[6,4]]],[0,[[2,[[16],1,false,0]],[2,[[5],1,false,0]],[2,[[3],1,false,0]],[2,[[2],2,false,0]]]]]"
+	},
+	{
+		"id": 612,
+		"api_id": 1124,
+		"code": "1124",
+		"name_jp": "【早春限定任務】夜間航空作戦能力の増強",
+		"name_en": "(Early Spring Limited Mission) Improvement of Night Operation Capabilities",
+		"desc_jp": "旗艦「龍鳳改二/戊」「鳳翔改/鳳翔改二」第一スロに「九七式艦攻(熟練)」(改修度不問)を搭載。<br>「九七式艦攻」x2廃棄、ボーキ370、新型航空兵装資材x1、開発資材x16、熟練搭乗員x1を準備！",
+		"desc_en": "Have your secretary flagship Ryuuhou Kai Ni (E) or Houshou Kai (Ni) equip a Type 97 Torpedo Bomber (Skilled) in the first slot and then proceed to scrap 2x Type 97 Torpedo Bomber and have 370x Bauxite, 1x Air Mats , 16x Devmats, 1x Skilled Crew Member (All resources and Materials will be consumed upon completion)",
+		"added_update_id": 7,
+		"removed_update_id": null,
+		"season_id": 5,
+		"tracker": "[[1124],[[3,[16,2]]],[0,[]]]"
 	}
 ]

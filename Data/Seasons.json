@@ -16,5 +16,11 @@
 		"name": "Valentine's Day 2022",
 		"added_update_id": 10,
 		"removed_update_id": 10
+	},
+	{
+		"id": 5,
+		"name": "Early Spring 2023",
+		"added_update_id": 7,
+		"removed_update_id": null
 	}
 ]
