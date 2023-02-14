@@ -4296,5 +4296,12 @@
 		"name_jp": "深海空超要塞改",
 		"name_en": "Abyssal Sky Super Fortress Kai",
 		"upgrade_data": null
+	},
+	{
+		"id": 2458,
+		"api_id": 490,
+		"name_jp": "試製 夜間瑞雲(攻撃装備)",
+		"name_en": "Prototype Night Zuiun (Attack Equipment)",
+		"upgrade_data": "{\"eq_id\":490,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
 	}
 ]
