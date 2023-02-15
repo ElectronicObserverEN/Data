@@ -1,5 +1,5 @@
 {
-	"version": "21030296",
+	"version": "21030297",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1671,7 +1671,7 @@
 		"name_jp": "バレンタイン2023限定任務【特別演習】",
 		"name": "2023 Valentine's Limited Mission (Exercises) ",
 		"desc_jp": "バレンタイン限定任務：水上機母艦1隻、重巡級1隻、軽巡級1隻、駆逐艦2隻を配備した特別演習<br>艦隊を編成、同特別演習艦隊により本日中に演習で【S判定】以上の勝利を4回以上達成せよ！",
-		"desc": "Organize a fleet with 1AV, 1CA, 1CL and 2DD in your fleet and score S rank 4 times in PvP"
+		"desc": "Organize a fleet with 1AV, 1CA(V), 1CL/CLT/CT and 2DD in your fleet and score S rank 4 times in PvP"
 	},
 	"350": {
 		"code": "C55",
