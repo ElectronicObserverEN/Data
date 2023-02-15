@@ -7876,5 +7876,18 @@
 		"removed_update_id": null,
 		"season_id": 3,
 		"tracker": "[[238],[[0,[[2,4],6,1]],[0,[[3,1],6,1]],[0,[[3,3],6,1]],[0,[[3,4],6,1]]],[0,[[2,[[5,6,3,4,21],3,false,0]]]]]"
+	},
+	{
+		"id": 615,
+		"api_id": 1125,
+		"code": "2302 F2",
+		"name_jp": "【早春限定任務】試製「夜間瑞雲」の開発",
+		"name_en": "(Early Spring Limited Mission) Development of the Prototype \"Night Zuiun\"",
+		"desc_jp": "旗艦航空巡洋艦「最上改二/特」の第一スロに「瑞雲改二(六三四空)」(改修度★+6以上)を搭載。<br>「瑞雲」x3廃棄、ボーキ1634、新型航空兵装資材x4、開発資材x72、熟練搭乗員x2を準備！",
+		"desc_en": "Have your secretary flagship Mogami Kai Ni/Toku equip a Zuiun Kai Ni (634 Air Group) (at least ★+6) in the first slot and then proceed to scrap 3x Zuiun and have 72x Development Materials, 4x New Model Aerial Armament Material, 2x Skilled Crew Member, and 1634x bauxite (All resources and Materials will be consumed upon completion)",
+		"added_update_id": 7,
+		"removed_update_id": null,
+		"season_id": 5,
+		"tracker": "[[1125],[[3,[26,3]]],[0,[]]]"
 	}
 ]

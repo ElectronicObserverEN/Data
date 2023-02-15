@@ -1,5 +1,5 @@
 {
-	"version": "21030297",
+	"version": "21030298",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4185,5 +4185,12 @@
 		"name": "(Early Spring Limited Mission) Improvement of Night Operation Capabilities",
 		"desc_jp": "旗艦「龍鳳改二/戊」「鳳翔改/鳳翔改二」第一スロに「九七式艦攻(熟練)」(改修度不問)を搭載。<br>「九七式艦攻」x2廃棄、ボーキ370、新型航空兵装資材x1、開発資材x16、熟練搭乗員x1を準備！",
 		"desc": "Have your secretary flagship Ryuuhou Kai Ni (E) or Houshou Kai (Ni) equip a Type 97 Torpedo Bomber (Skilled) in the first slot and then proceed to scrap 2x Type 97 Torpedo Bomber and have 370x Bauxite, 1x Air Mats , 16x Devmats, 1x Skilled Crew Member (All resources and Materials will be consumed upon completion)"
+	},
+	"1125": {
+		"code": "2302 F2",
+		"name_jp": "【早春限定任務】試製「夜間瑞雲」の開発",
+		"name": "(Early Spring Limited Mission) Development of the Prototype \"Night Zuiun\"",
+		"desc_jp": "旗艦航空巡洋艦「最上改二/特」の第一スロに「瑞雲改二(六三四空)」(改修度★+6以上)を搭載。<br>「瑞雲」x3廃棄、ボーキ1634、新型航空兵装資材x4、開発資材x72、熟練搭乗員x2を準備！",
+		"desc": "Have your secretary flagship Mogami Kai Ni/Toku equip a Zuiun Kai Ni (634 Air Group) (at least ★+6) in the first slot and then proceed to scrap 3x Zuiun and have 72x Development Materials, 4x New Model Aerial Armament Material, 2x Skilled Crew Member, and 1634x bauxite (All resources and Materials will be consumed upon completion)"
 	}
 }
