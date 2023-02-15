@@ -1,5 +1,5 @@
 {
-	"version": "21030295",
+	"version": "21030296",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -922,7 +922,7 @@
 		"name_jp": "バレンタイン2023限定任務【二号作戦】",
 		"name": "2023 Valentine's Limited Mission (Part 2)",
 		"desc_jp": "バレンタイン限定任務：巡洋艦3隻以上を含む有力な艦隊で、沖ノ島海域、北方モーレイ海、<br>アルフォンシーノ方面、北方海域全域の敵を捕捉撃滅、制海権を確保せよ！",
-		"desc": "Organize a fleet with 3 CA(V) in your fleet and score an S rank at the boss nodes on 2-4, 3-1, 3-3 and 3-4"
+		"desc": "Organize a fleet with 3 CA(V)/CL/CLT/CT in your fleet and score an S rank at the boss nodes on 2-4, 3-1, 3-3 and 3-4"
 	},
 	"239": {
 		"code": "B20",
