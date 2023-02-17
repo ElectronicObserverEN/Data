@@ -1,5 +1,5 @@
 {
-	"version": "21030298",
+	"version": "21030299",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4044,7 +4044,7 @@
 		"name_jp": "【早春限定任務】海上遊撃戦、展開せよ",
 		"name": "(Early Spring Limited Mission) Deploy the fleet to Sea Battles",
 		"desc_jp": "軽巡を旗艦、航空巡洋艦及び駆逐艦1隻以上を含む精鋭艦隊で、南西海域ペナン島沖深部、<br>昭南本土航路、タウイタウイ泊地沖深部、南方海域サーモン海域北方に出撃！敵艦隊を撃滅せよ！",
-		"desc": "Organize a fleet with a CL as flagship, 1CAV and 1DD in your fleet and score an S rank at the boss nodes on 7-2 (Part 2), 7-3 (Part 2), 7-4 and 5-5"
+		"desc": "Organize a fleet with a CL as flagship, at least 1 Aviation Cruiser (CAV/Gotland) and 1DD in your fleet and score an S rank at the boss nodes on 7-2 (Part 2), 7-3 (Part 2), 7-4 and 5-5"
 	},
 	"1101": {
 		"code": "F96",
