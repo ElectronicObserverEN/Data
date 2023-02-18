@@ -1,6 +1,6 @@
 {
-	"bld_date": "2023/02/11 16:00:00",
-	"ver": "5.2.2",
+	"bld_date": "2023/02/18 16:00:00",
+	"ver": "5.2.3",
 	"note": "Check github for release notes: https://github.com/ElectronicObserverEN/ElectronicObserver/releases",
 	"url": "https://github.com/ElectronicObserverEN/ElectronicObserver/releases/download/5.2.2/ElectronicObserver5.2.2EN.zip",
 	"hash": "38C75AA26B2E92952BF75E98F6168A9F8DD3528C0ADA32FF7540BE86478275FA",
@@ -9,6 +9,6 @@
 	"Locks": 23,
 	"FitBonuses": 2,
 	"EquipmentUpgrades": 19,
-	"kancolle_mt": "2023/02/14 11:00:00",
+	"kancolle_mt": "2023/02/28 11:00:00",
 	"event_state": 0
 }
