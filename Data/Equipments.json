@@ -1824,7 +1824,7 @@
 		"api_id": 261,
 		"name_jp": "Type144/147 ASDIC",
 		"name_en": "Type 144/147 ASDIC",
-		"upgrade_data": "{\"eq_id\":261,\"improvement\":[{\"convert\":{\"id_after\":261,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[519,394],\"days\":[0,4,5,6]},{\"ship_ids\":[520,893],\"days\":[1,2,3]}],\"costs\":{\"fuel\":10,\"ammo\":0,\"steel\":50,\"baux\":110,\"p1\":{\"devmats\":5,\"devmats_sli\":7,\"screws\":4,\"screws_sli\":6,\"equips\":[{\"id\":47,\"eq_count\":1}],\"consumable\":[]},\"p2\":{\"devmats\":6,\"devmats_sli\":8,\"screws\":5,\"screws_sli\":6,\"equips\":[{\"id\":47,\"eq_count\":2}],\"consumable\":[]},\"conv\":{\"devmats\":14,\"devmats_sli\":19,\"screws\":7,\"screws_sli\":10,\"equips\":[{\"id\":27,\"eq_count\":3}],\"consumable\":[{\"id\":94,\"eq_count\":1},{\"id\":57,\"eq_count\":1}]}}}],\"convert_to\":[{\"id_after\":261,\"lvl_after\":0}]}"
+		"upgrade_data": "{\"eq_id\":261,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[519,394],\"days\":[0,4,5,6]},{\"ship_ids\":[520,893],\"days\":[1,2,3]}],\"costs\":{\"fuel\":10,\"ammo\":0,\"steel\":50,\"baux\":110,\"p1\":{\"devmats\":5,\"devmats_sli\":7,\"screws\":4,\"screws_sli\":6,\"equips\":[{\"id\":47,\"eq_count\":1}],\"consumable\":[]},\"p2\":{\"devmats\":6,\"devmats_sli\":8,\"screws\":5,\"screws_sli\":6,\"equips\":[{\"id\":47,\"eq_count\":2}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2104,
