@@ -6,9 +6,7 @@
 		"end_time": "23:27:00",
 		"name": "Valentine's Day 2023",
 		"description": "- Setsubun end\r\n- Valentine's season start",
-		"live_update": false,
-		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1624999969085349889",
-		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1625519915355734022"
+		"live_update": false
 	},
 	{
 		"id": 9,
@@ -17,9 +15,7 @@
 		"end_time": "20:00:00",
 		"name": "Setsubun 2023",
 		"description": "",
-		"live_update": false,
-		"maint_start_tweet": "",
-		"maint_end_tweet": ""
+		"live_update": false
 	},
 	{
 		"id": 10,
@@ -28,8 +24,6 @@
 		"end_time": "00:00:00",
 		"name": "Valentine's Day 2022",
 		"description": "",
-		"live_update": false,
-		"maint_start_tweet": "",
-		"maint_end_tweet": ""
+		"live_update": false
 	}
 ]
