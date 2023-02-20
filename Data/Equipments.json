@@ -2237,7 +2237,7 @@
 		"api_id": 322,
 		"name_jp": "瑞雲改二(六三四空)",
 		"name_en": "Zuiun Kai Ni (634 Air Group)",
-		"upgrade_data": "{\"eq_id\":322,\"improvement\":[{\"convert\":{\"id_after\":490,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[554],\"days\":[2,3,4]},{\"ship_ids\":[301],\"days\":[2,3,4]},{\"ship_ids\":[306],\"days\":[2,3]}],\"costs\":{\"fuel\":240,\"ammo\":280,\"steel\":0,\"baux\":630,\"p1\":{\"devmats\":10,\"devmats_sli\":12,\"screws\":8,\"screws_sli\":8,\"equips\":[{\"id\":26,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":15,\"devmats_sli\":30,\"screws\":9,\"screws_sli\":12,\"equips\":[{\"id\":55,\"eq_count\":2}],\"consumable\":[]},\"conv\":{\"devmats\":32,\"devmats_sli\":48,\"screws\":10,\"screws_sli\":17,\"equips\":[{\"id\":344,\"eq_count\":1}],\"consumable\":[{\"id\":77,\"eq_count\":4},{\"id\":78,\"eq_count\":1}]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
+		"upgrade_data": "{\"eq_id\":322,\"improvement\":[{\"convert\":{\"id_after\":490,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[554],\"days\":[2,3,4]},{\"ship_ids\":[501],\"days\":[2,3,4]},{\"ship_ids\":[506],\"days\":[2,3]}],\"costs\":{\"fuel\":240,\"ammo\":280,\"steel\":0,\"baux\":630,\"p1\":{\"devmats\":10,\"devmats_sli\":12,\"screws\":8,\"screws_sli\":8,\"equips\":[{\"id\":26,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":15,\"devmats_sli\":30,\"screws\":9,\"screws_sli\":12,\"equips\":[{\"id\":55,\"eq_count\":2}],\"consumable\":[]},\"conv\":{\"devmats\":32,\"devmats_sli\":48,\"screws\":10,\"screws_sli\":17,\"equips\":[{\"id\":344,\"eq_count\":1}],\"consumable\":[{\"id\":77,\"eq_count\":4},{\"id\":78,\"eq_count\":1}]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2163,
