@@ -31,5 +31,16 @@
 		"live_update": false,
 		"maint_start_tweet": "",
 		"maint_end_tweet": ""
+	},
+	{
+		"id": 11,
+		"start_date": "2023-02-28T00:00:00",
+		"start_time": "11:00:00",
+		"end_time": null,
+		"name": "Early Spring 2023 Event start",
+		"description": "- Start of the Early Spring 2023 Event",
+		"live_update": false,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1628049171956764672",
+		"maint_end_tweet": ""
 	}
 ]
