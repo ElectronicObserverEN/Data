@@ -1,5 +1,5 @@
 {
-	"version": "21030299",
+	"version": "21030300",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2033,7 +2033,7 @@
 	"445": {
 		"code": "D41",
 		"name_jp": "航空基地を整備拡張せよ！",
-		"name": "Development and Expansion of your Land Base!",
+		"name": "Development and Expansion of your Air Base!",
 		"desc_jp": "航空基地整備：「海上護衛任務」「兵站強化任務」「タンカー護衛任務」「航空機輸送<br>作戦」「水上機基地建設」「水上機前線輸送」「ボーキサイト船団護衛」を実施せよ！",
 		"desc": "Complete expeditions 5, A1, 9, 18, 36, 40, and 45."
 	},
@@ -3930,7 +3930,7 @@
 	"966": {
 		"code": "B175",
 		"name_jp": "南西海域「基地航空隊」開設！",
-		"name": "Establish \"Land Base Air Support\" in Southwestern waters!",
+		"name": "Establish \"Land Based Air Support\" in Southwestern waters!",
 		"desc_jp": "南西諸島近海、バシー海峡、東部オリョール海、ペナン島沖深部の敵艦隊を撃滅！昭南本土航路で<br>台湾に寄港。「設営隊」x1を用意して、同地にエアカバーする南西海域「基地航空隊」を展開せよ！",
 		"desc": "Get S rank on 2-1/2-2/2-3/7-3-2 one time. Reach O node in 7-4. Have one Construction Corps (it will be consumed upon completion)."
 	},
@@ -4077,9 +4077,9 @@
 	"1105": {
 		"code": "F100",
 		"name_jp": "夏の格納庫整備＆航空基地整備",
-		"name": "Summer Hangar & Land Base Maintenance",
+		"name": "Summer Hangar & Air Base Maintenance",
 		"desc_jp": "九六式や一式陸攻等の陸上攻撃機x3廃棄、弾薬x2,800と「九七式艦攻」「天山」各x4を準備せよ！<br>※任務達成後、用意した弾薬及び必要装備(低改修値のもの優先)は消費します。",
-		"desc": "Scrap 3 Land Base Attack Aircraft such as Type 96 and Type 1 LBAA. Then prepare 2800 ammo, 4 T97 torpedo bombers and 4 Tenzan. (All resources and unmodded equipment will be removed upon completion of quest)"
+		"desc": "Scrap 3 Land Based Attack Aircraft such as Type 96 and Type 1 LBAA. Then prepare 2800 ammo, 4 T97 torpedo bombers and 4 Tenzan. (All resources and unmodded equipment will be removed upon completion of quest)"
 	},
 	"1106": {
 		"code": "F101",
@@ -4091,7 +4091,7 @@
 	"1107": {
 		"code": "F102",
 		"name_jp": "【鋼材輸出】基地航空兵力を増備せよ！",
-		"name": "[Exportation of Steel] Increase the Strength of your Land Base!",
+		"name": "[Exportation of Steel] Increase the Strength of your Air Base!",
 		"desc_jp": "鋼材を輸出し、ボーキサイトを輸入、基地航空を増備せよ！「艦戦」「艦攻」系装備各x2ずつ廃棄、<br>鋼材24,000及び開発資材10を準備せよ！　※任務達成後、準備した資材は消費します。",
 		"desc": "Prepare 24,000 steel, 10 development Materials and proceed to scrap 2 Fighters and 2 Torpedo Bombers (All resources and Materials will be consumed upon completion)"
 	},
@@ -4112,7 +4112,7 @@
 	"1111": {
 		"code": "F105",
 		"name_jp": "精鋭「一式陸攻」隊の編成",
-		"name": "Organization of elite \"set of land base attack\" squadrons",
+		"name": "Organization of elite \"set of land based attack\" squadrons",
 		"desc_jp": "精鋭陸攻隊の編成：野中隊長率いる精鋭陸攻隊の編成を行う！「一式陸攻 二二型甲」(最大改修)x1、<br>さらに「一式陸攻」x2、熟練搭乗員x3を準備せよ！(任務達成後、用意した必要装備は消滅します)",
 		"desc": "Prepare following items: a maximum improved Type 1 Land-based Attack Aircraft Model 22A, two Type 1 Land-based Attack Aircraft and three skilled crew members (The items will be consumed)."
 	},
