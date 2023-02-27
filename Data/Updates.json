@@ -36,11 +36,22 @@
 		"id": 11,
 		"start_date": "2023-02-28T00:00:00",
 		"start_time": "11:00:00",
-		"end_time": null,
+		"end_time": "23:00:00",
 		"name": "Early Spring 2023 Event start",
 		"description": "- Start of the Early Spring 2023 Event",
 		"live_update": false,
-		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1629843159269400576",
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1630152413071163393",
+		"maint_end_tweet": ""
+	},
+	{
+		"id": 12,
+		"start_date": "2023-02-27T00:00:00",
+		"start_time": "22:30:00",
+		"end_time": "22:30:00",
+		"name": "January 2023 Ranking Reward",
+		"description": "- Ranking reward of January 2023",
+		"live_update": true,
+		"maint_start_tweet": "",
 		"maint_end_tweet": ""
 	}
 ]
