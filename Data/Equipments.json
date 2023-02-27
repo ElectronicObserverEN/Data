@@ -3391,8 +3391,8 @@
 		"id": 2327,
 		"api_id": 489,
 		"name_jp": "一式戦 隼II型改(20戦隊)",
-		"name_en": "Type 1 Fighter Hayabusa Model II (20th Squadron)",
-		"upgrade_data": null
+		"name_en": "Type 1 Fighter Hayabusa Model II Kai (20th Squadron)",
+		"upgrade_data": "{\"eq_id\":489,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2328,
@@ -4303,5 +4303,12 @@
 		"name_jp": "試製 夜間瑞雲(攻撃装備)",
 		"name_en": "Prototype Night Zuiun (Attack Equipment)",
 		"upgrade_data": "{\"eq_id\":490,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2459,
+		"api_id": 491,
+		"name_jp": "一式戦 隼III型改(熟練/20戦隊)",
+		"name_en": "Type 1 Fighter Hayabusa Model III Kai (Skilled/20th Squadron)",
+		"upgrade_data": "{\"eq_id\":491,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
 	}
 ]
