@@ -38,7 +38,7 @@
 		"start_time": "11:00:00",
 		"end_time": "23:00:00",
 		"name": "Early Spring 2023 Event start",
-		"description": "- Start of the Early Spring 2023 Event",
+		"description": "- Start of the Early Spring 2023 Event\r\n- Valentine quests will get removed",
 		"live_update": false,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1630152413071163393",
 		"maint_end_tweet": ""
