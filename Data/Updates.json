@@ -46,8 +46,8 @@
 	{
 		"id": 12,
 		"start_date": "2023-02-27T00:00:00",
-		"start_time": "22:30:00",
-		"end_time": "22:30:00",
+		"start_time": "23:00:00",
+		"end_time": "23:00:00",
 		"name": "January 2023 Ranking Reward",
 		"description": "- Ranking reward of January 2023",
 		"live_update": true,
