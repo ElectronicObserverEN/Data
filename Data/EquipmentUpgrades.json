@@ -379,27 +379,15 @@
 				"convert": {"id_after":82,"lvl_after":0},
 				"helpers": [{"ship_ids":[90,279,197],"days":[1,2,3]},{"ship_ids":[91,280,196],"days":[0,1,2,3,4,5,6]}],
 				"costs": {"fuel":200,"ammo":300,"steel":0,"baux":360,"p1":{"devmats":3,"devmats_sli":4,"screws":2,"screws_sli":2,"equips":[{"id":16,"eq_count":1}],"consumable":[]},"p2":{"devmats":4,"devmats_sli":7,"screws":3,"screws_sli":4,"equips":[{"id":16,"eq_count":2}],"consumable":[]},"conv":{"devmats":30,"devmats_sli":50,"screws":6,"screws_sli":10,"equips":[{"id":106,"eq_count":1}],"consumable":[{"id":77,"eq_count":1}]}}
-			}
-		],
-		"convert_to": [
+			},
 			{
-				"id_after": 82,
-				"lvl_after": 0
+				"convert": {"id_after":98,"lvl_after":6},
+				"helpers": [{"ship_ids":[89,285,894,899],"days":[2,3,4]}],
+				"costs": {"fuel":200,"ammo":300,"steel":0,"baux":360,"p1":{"devmats":3,"devmats_sli":4,"screws":2,"screws_sli":2,"equips":[{"id":16,"eq_count":1}],"consumable":[]},"p2":{"devmats":4,"devmats_sli":7,"screws":3,"screws_sli":4,"equips":[{"id":16,"eq_count":2}],"consumable":[]},"conv":{"devmats":3,"devmats_sli":6,"screws":2,"screws_sli":3,"equips":[{"id":16,"eq_count":2}],"consumable":[{"id":70,"eq_count":1}]}}
 			}
 		],
-		"upgrade_for": [
-			168,
-			344,
-			169,
-			367,
-			82,
-			70,
-			401,
-			196,
-			242,
-			98,
-			93
-		]
+		"convert_to": [],
+		"upgrade_for": []
 	},
 	{
 		"eq_id": 17,
@@ -4647,7 +4635,19 @@
 		"upgrade_for": []
 	},
 	{
+		"eq_id": 489,
+		"improvement": [],
+		"convert_to": [],
+		"upgrade_for": []
+	},
+	{
 		"eq_id": 490,
+		"improvement": [],
+		"convert_to": [],
+		"upgrade_for": []
+	},
+	{
+		"eq_id": 491,
 		"improvement": [],
 		"convert_to": [],
 		"upgrade_for": []
