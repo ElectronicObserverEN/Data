@@ -1,5 +1,5 @@
 {
-	"version": "21030240",
+	"version": "21030241",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -265,6 +265,7 @@
 		"HF/DF + Type144/147 ASDIC": "HF/DF + Type 144/147 ASDIC",
 		"紫電改(三四三空) 戦闘301": "Shiden Kai (343rd Air Group) 301st Fighter Squadron",
 		"紫電改(三四三空) 戦闘701": "Shiden Kai (343rd Air Group) 701st Fighter Squadron",
+		"紫電改(三四三空) 戦闘407": "Shiden Kai (343rd Air Group) 407th Fighter Squadron",
 		"12.7cm連装砲C型改二": "12.7cm Twin Gun Model C Kai 2",
 		"12.7cm連装砲D型改二": "12.7cm Twin Gun Model D Kai 2",
 		"北方迷彩(+北方装備)": "Arctic Camouflage (+ Arctic Equipment)",
