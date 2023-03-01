@@ -1,4 +1,16 @@
 {
-	"Locks": [],
-	"Phases": []
+	"Locks": [
+		{"Id":1,"A":217,"R":195,"G":195,"B":195,"Name":"横須賀防備戦隊"},
+		{"Id":2,"A":217,"R":204,"G":226,"B":22,"Name":"第二水雷戦隊"},
+		{"Id":3,"A":200,"R":112,"G":189,"B":120,"Name":"支援連合艦隊"}
+	],
+	"Phases": [
+		{"LockGroups":[1],"Name":"E1 C2"},
+		{"LockGroups":[1],"Name":"E1 J"},
+		{"LockGroups":[1],"Name":"E1 G2"},
+		{"LockGroups":[1],"Name":"E1-1"},
+		{"LockGroups":[1],"Name":"E1-2"},
+		{"LockGroups":[2],"Name":"E2-1"},
+		{"LockGroups":[2],"Name":"E2-2"}
+	]
 }
