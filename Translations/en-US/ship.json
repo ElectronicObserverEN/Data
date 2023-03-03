@@ -1,5 +1,5 @@
 {
-	"version": "21030133",
+	"version": "21030135",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -446,7 +446,7 @@
 		"高速軽空母水鬼": "Fast Light Carrier Water Demon",
 		"試作空母姫": "Prototype Carrier Princess",
 		"戦艦未完棲姫": "Incomplete Battleship Princess",
-		"熊野丸": "Kumano Maru"
+		"戦標船改装棲姫": "戦標船改装棲姫"
 	},
 	"class": {
 		"綾波型": "Ayanami Class",
@@ -604,7 +604,8 @@
 		"II": "II",
 		"III": "III",
 		"(哨戒機配備)": "Patrol Aircraft Deployment",
-		"戦": "Sen"
+		"戦": "Sen",
+		"丸": "Maru"
 	},
 	"stype": {
 		"海防艦": "DE",
