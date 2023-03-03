@@ -1,5 +1,5 @@
 {
-	"version": "21030302",
+	"version": "21030303",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1443,11 +1443,11 @@
 		"desc": "Get 3 victories in exercises and then obtain an A-rank victory at [W2-2], [W2-3], [W2-4], and [W2-5] boss using the main fleet including 2 Kagerou-Class or Yuugumo-Class Destroyers."
 	},
 	"318": {
-		"code": "C15",
+		"code": "C16",
 		"name_jp": "給糧艦「伊良湖」の支援",
-		"name": "Monthly Exercises",
+		"name": "Support from Supply Ship \"Irako\"",
 		"desc_jp": "伊良湖支援任務：軽巡を2隻以上配備した第一艦隊で本日中に演習で3回「勝利」、その後、<br>第一艦隊旗艦に戦闘糧食を二つ装備せよ！　※任務達成後、同戦闘糧食は消費します",
-		"desc": "Secure 3 victories in Exercises using 2 CLs. Afterwards, equip the Fleet 1 flagship with 2 Combat Rations."
+		"desc": "Assemble a fleet containing at least 2 CL in your First Fleet, then score 3 B+ ranks in exercises within the same day.  Afterwards, equip the Fleet 1 flagship with 2 Combat Rations."
 	},
 	"319": {
 		"code": "C17",
