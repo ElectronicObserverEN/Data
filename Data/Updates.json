@@ -6,7 +6,9 @@
 		"end_time": "23:27:00",
 		"name": "Valentine's Day 2023",
 		"description": "- Setsubun end\r\n- Valentine's season start",
-		"live_update": false
+		"live_update": false,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1624999969085349889",
+		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1625519915355734022"
 	},
 	{
 		"id": 9,
@@ -15,7 +17,9 @@
 		"end_time": "20:00:00",
 		"name": "Setsubun 2023",
 		"description": "",
-		"live_update": false
+		"live_update": false,
+		"maint_start_tweet": "",
+		"maint_end_tweet": ""
 	},
 	{
 		"id": 10,
@@ -24,6 +28,41 @@
 		"end_time": "00:00:00",
 		"name": "Valentine's Day 2022",
 		"description": "",
-		"live_update": false
+		"live_update": false,
+		"maint_start_tweet": "",
+		"maint_end_tweet": ""
+	},
+	{
+		"id": 11,
+		"start_date": "2023-02-28T00:00:00",
+		"start_time": "11:00:00",
+		"end_time": "1.03:00:00",
+		"name": "Early Spring 2023 Event start",
+		"description": "- Start of the Early Spring 2023 Event\r\n- Valentine quests will get removed",
+		"live_update": false,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1630152413071163393",
+		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1630608734920781825?s=20"
+	},
+	{
+		"id": 12,
+		"start_date": "2023-02-27T00:00:00",
+		"start_time": "23:00:00",
+		"end_time": "23:00:00",
+		"name": "January 2023 Ranking Reward",
+		"description": "- Ranking reward of January 2023",
+		"live_update": true,
+		"maint_start_tweet": "",
+		"maint_end_tweet": ""
+	},
+	{
+		"id": 13,
+		"start_date": "2023-03-03T00:00:00",
+		"start_time": "22:30:00",
+		"end_time": "22:30:00",
+		"name": "Early Spring 2023 Event E3",
+		"description": "- E3 will be added",
+		"live_update": true,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1630656966728249344",
+		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1631648133842374659"
 	}
 ]

@@ -1,15 +1,15 @@
 {
-	"bld_date": "2023/02/19 16:00:00",
+	"bld_date": "2023/02/26 12:00:00",
 	"ver": "5.2.3",
 	"note": "Check github for release notes: https://github.com/ElectronicObserverEN/ElectronicObserver/releases",
-	"url": "https://github.com/ElectronicObserverEN/ElectronicObserver/releases/download/5.2.2/ElectronicObserver5.2.2EN.zip",
-	"hash": "38C75AA26B2E92952BF75E98F6168A9F8DD3528C0ADA32FF7540BE86478275FA",
+	"url": "https://github.com/ElectronicObserverEN/ElectronicObserver/releases/download/5.2.3/ElectronicObserver5.2.3EN.zip",
+	"hash": "289826D03821F1BBC2876ACA64A3F60902BD78BEBFABB04E8D6D972D10B9828C",
 	"nodes": 20071507,
-	"QuestTrackers": 83,
-	"Locks": 23,
+	"QuestTrackers": 89,
+	"Locks": 26,
 	"FitBonuses": 2,
-	"EquipmentUpgrades": 20,
-	"kancolle_mt": "2023/02/28 11:00:00",
-	"event_state": 2,
-	"MaintInfoLink": "https://twitter.com/KanColle_STAFF"
+	"EquipmentUpgrades": 24,
+	"kancolle_mt": "2023/03/01 03:00:00",
+	"event_state": 0,
+	"MaintInfoLink": "https://twitter.com/KanColle_STAFF/status/1630608734920781825?s=20"
 }
