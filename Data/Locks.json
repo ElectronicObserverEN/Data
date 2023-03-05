@@ -3,8 +3,8 @@
 		{"Id":1,"A":217,"R":195,"G":195,"B":195,"Name":"横須賀防備戦隊"},
 		{"Id":2,"A":217,"R":224,"G":215,"B":55,"Name":"第二水雷戦隊"},
 		{"Id":3,"A":200,"R":155,"G":226,"B":162,"Name":"支援連合艦隊"},
-		{"Id":4,"A":235,"R":57,"G":158,"B":51,"Name":"空母機動部隊"},
-		{"Id":5,"A":214,"R":100,"G":169,"B":236,"Name":"連合艦隊"}
+		{"Id":4,"A":235,"R":57,"G":158,"B":51,"Name":"連合艦隊"},
+		{"Id":5,"A":214,"R":100,"G":169,"B":236,"Name":"空母機動部隊"}
 	],
 	"Phases": [
 		{"LockGroups":[1],"Name":"E1 C2"},
@@ -21,6 +21,13 @@
 		{"LockGroups":[3],"Name":"E2-3"},
 		{"LockGroups":[2],"Name":"E2 J"},
 		{"LockGroups":[2],"Name":"E2 G"},
-		{"LockGroups":[2],"Name":"E2 D"}
+		{"LockGroups":[2],"Name":"E2 D"},
+		{"LockGroups":[2],"Name":"E3-1"},
+		{"LockGroups":[2],"Name":"E3 I"},
+		{"LockGroups":[2],"Name":"E3 J"},
+		{"LockGroups":[2],"Name":"E3 P"},
+		{"LockGroups":[4],"Name":"E3 R"},
+		{"LockGroups":[4],"Name":"E3-2"},
+		{"LockGroups":[5],"Name":"E3-3"}
 	]
 }
