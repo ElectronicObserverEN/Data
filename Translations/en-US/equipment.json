@@ -1,5 +1,5 @@
 {
-	"version": "21030241",
+	"version": "21030242",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -613,7 +613,9 @@
 		"深海双発陸爆": "Abyssal Twin-engine Land-based Dive Bomber",
 		"深海双発陸爆Ace": "Abyssal Twin-engine Land-based Dive Bomber Ace",
 		"深海空超要塞": "Abyssal Sky Super Fortress",
-		"深海空超要塞改": "Abyssal Sky Super Fortress Kai"
+		"深海空超要塞改": "Abyssal Sky Super Fortress Kai",
+		"深海航空整備蟲": "Abyssal Aviation Maintenance Bugs",
+		"深海航空整備蟲pro": "Abyssal Aviation Maintenance Bugs Pro"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",

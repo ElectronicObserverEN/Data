@@ -4317,5 +4317,19 @@
 		"name_jp": "紫電改(三四三空) 戦闘407",
 		"name_en": "Shiden Kai (343rd Air Group) 407th Fighter Squadron",
 		"upgrade_data": "{\"eq_id\":265,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2461,
+		"api_id": 1632,
+		"name_jp": "深海航空整備蟲",
+		"name_en": "Abyssal Aviation Maintenance Bugs",
+		"upgrade_data": "{\"eq_id\":1632,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2462,
+		"api_id": 1633,
+		"name_jp": "深海航空整備蟲pro",
+		"name_en": "Abyssal Aviation Maintenance Bugs Pro",
+		"upgrade_data": "{\"eq_id\":1633,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
 	}
 ]
