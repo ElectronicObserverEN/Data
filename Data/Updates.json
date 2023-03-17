@@ -69,11 +69,11 @@
 		"id": 14,
 		"start_date": "2023-03-17T00:00:00",
 		"start_time": "00:00:00",
-		"end_time": null,
+		"end_time": "1.04:00:00",
 		"name": "Early Spring 2023 Event EOs",
-		"description": "- Early Spring 2023 Event EOs are added\r\n- No exact time was given",
+		"description": "- Early Spring 2023 Event E4 and E5 are added\r\n- No exact time was given",
 		"live_update": true,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1633665853551153152",
-		"maint_end_tweet": ""
+		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1636785521505759233"
 	}
 ]
