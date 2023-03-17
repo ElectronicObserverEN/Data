@@ -1,5 +1,5 @@
 {
-	"version": "21030244",
+	"version": "21030245",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -682,6 +682,6 @@
 		"追加装甲": "Add-on Armor",
 		"陸上偵察機": "Land-based Recon Aircraft",
 		"大型陸上機": "Large Land-based Aircraft",
-		"陸戦部隊": "Landing Units"
+		"陸戦部隊": "Landing Unit"
 	}
 }
