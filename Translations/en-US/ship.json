@@ -1,5 +1,5 @@
 {
-	"version": "21030136",
+	"version": "21030137",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -446,7 +446,8 @@
 		"高速軽空母水鬼": "Fast Light Carrier Water Demon",
 		"試作空母姫": "Prototype Carrier Princess",
 		"戦艦未完棲姫": "Incomplete Battleship Princess",
-		"戦標船改装棲姫": "Remodeled Wartime Cargo Princess"
+		"戦標船改装棲姫": "Remodeled Wartime Cargo Princess",
+		"能美": "Noumi"
 	},
 	"class": {
 		"綾波型": "Ayanami Class",
