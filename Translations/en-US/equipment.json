@@ -1,5 +1,5 @@
 {
-	"version": "21030242",
+	"version": "21030243",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -489,6 +489,12 @@
 		"一式戦 隼II型改(20戦隊)": "Type 1 Fighter Hayabusa Model II Kai (20th Squadron)",
 		"試製 夜間瑞雲(攻撃装備)": "Prototype Night Zuiun (Attack Equipment)",
 		"一式戦 隼III型改(熟練/20戦隊)": "Type 1 Fighter Hayabusa Model III Kai (Skilled/20th Squadron)",
+		"零戦52型丙(八幡部隊)": "Zero Fighter Type 52 Hei (Yawata Unit)",
+		"一式陸攻(八幡部隊)": "Type 1 Land-based Attack Aircraft (Yawata Unit)",
+		"特大発動艇+チハ": "Toku Daihatsu + Chi-Ha",
+		"特大発動艇+チハ改": "Toku Daihatsu + Chi-Ha Kai",
+		"陸軍歩兵部隊": "Army Infantry Unit",
+		"九七式中戦車(チハ)": "Type 97 Medium Tank (Chi-Ha)",
 		"5inch単装砲": "5inch Single Gun",
 		"5inch連装砲": "5inch Twin Gun",
 		"3inch単装高角砲": "3inch Single High-angle",
