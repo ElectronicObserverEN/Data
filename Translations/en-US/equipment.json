@@ -1,5 +1,5 @@
 {
-	"version": "21030245",
+	"version": "21030246",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -495,6 +495,8 @@
 		"特大発動艇+チハ改": "Toku Daihatsu + Chi-Ha Kai",
 		"陸軍歩兵部隊": "Army Infantry Unit",
 		"九七式中戦車(チハ)": "Type 97 Medium Tank (Chi-Ha)",
+		"九七式中戦車 新砲塔(チハ改)": "Type 97 Medium Tank New Turret (Chi-Ha Kai)",
+		"陸軍歩兵部隊+チハ改": "Army Infantry Corps + Chi-Ha Kai",
 		"5inch単装砲": "5inch Single Gun",
 		"5inch連装砲": "5inch Twin Gun",
 		"3inch単装高角砲": "3inch Single High-angle",
@@ -573,6 +575,7 @@
 		"深海15inch連装砲後期型": "Abyssal 15inch Twin Gun Late Model",
 		"深海14inch海峡連装砲": "Abyssal 14inch Strait Twin Gun",
 		"深海待伏魚雷": "Abyssal Ambush Torpedo",
+		"夜猫深海艦戦": "Abyssal Night Cat Fighter",
 		"夜深海艦爆": "Abyssal Night Dive Bomber",
 		"夜復讐深海艦攻": "Abyssal Night Revenge Torpedo Bomber",
 		"深海14inch連装砲改": "Abyssal 14inch Twin Gun Kai",

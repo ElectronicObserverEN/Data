@@ -4373,5 +4373,26 @@
 		"name_jp": "九七式中戦車(チハ)",
 		"name_en": "Type 97 Medium Tank (Chi-Ha)",
 		"upgrade_data": "{\"eq_id\":497,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2469,
+		"api_id": 1581,
+		"name_jp": "夜猫深海艦戦",
+		"name_en": "Abyssal Night Cat Fighter",
+		"upgrade_data": "{\"eq_id\":1581,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2470,
+		"api_id": 498,
+		"name_jp": "九七式中戦車 新砲塔(チハ改)",
+		"name_en": "Type 97 Medium Tank New Turret (Chi-Ha Kai)",
+		"upgrade_data": "{\"eq_id\":498,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2471,
+		"api_id": 499,
+		"name_jp": "陸軍歩兵部隊+チハ改",
+		"name_en": "Army Infantry Corps + Chi-Ha Kai",
+		"upgrade_data": "{\"eq_id\":499,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
 	}
 ]

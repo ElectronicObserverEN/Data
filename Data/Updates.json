@@ -75,5 +75,16 @@
 		"live_update": true,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1633665853551153152",
 		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1636785521505759233"
+	},
+	{
+		"id": 15,
+		"start_date": "2023-03-19T00:00:00",
+		"start_time": "18:00:00",
+		"end_time": null,
+		"name": "Spring 2023 Event E6",
+		"description": "- E6 of the Spring 2023 Event is added",
+		"live_update": true,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1637392212224008192",
+		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1637479304971030528"
 	}
 ]
