@@ -1,5 +1,5 @@
 {
-	"version": "21030138",
+	"version": "21030139",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -607,7 +607,8 @@
 		"III": "III",
 		"(哨戒機配備)": "Patrol Aircraft Deployment",
 		"戦": "Sen",
-		"丸": "Maru"
+		"丸": "Maru",
+		"IV": "IV"
 	},
 	"stype": {
 		"海防艦": "DE",
