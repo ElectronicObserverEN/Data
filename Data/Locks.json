@@ -32,6 +32,11 @@
 		{"LockGroups":[4],"Name":"E3 S2"},
 		{"LockGroups":[5],"Name":"E3 V1"},
 		{"LockGroups":[4],"Name":"E3 T"},
-		{"LockGroups":[2],"Name":"E3 K"}
+		{"LockGroups":[2],"Name":"E3 K"},
+		{"LockGroups":[1,6],"Name":"E4 J"},
+		{"LockGroups":[1,6],"Name":"E4 K"},
+		{"LockGroups":[1,6],"Name":"E4-1"},
+		{"LockGroups":[1,6],"Name":"E4 S"},
+		{"LockGroups":[1,6],"Name":"E4-2"}
 	]
 }
