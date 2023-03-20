@@ -3364,7 +3364,7 @@
 		"api_id": 485,
 		"name_jp": "強風改二",
 		"name_en": "Kyoufuu Kai Ni",
-		"upgrade_data": "{\"eq_id\":485,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[501],\"days\":[1,2,3,4]},{\"ship_ids\":[506],\"days\":[2,3]}],\"costs\":{\"fuel\":150,\"ammo\":130,\"steel\":0,\"baux\":340,\"p1\":{\"devmats\":12,\"devmats_sli\":14,\"screws\":7,\"screws_sli\":8,\"equips\":[{\"id\":201,\"eq_count\":1}],\"consumable\":[]},\"p2\":{\"devmats\":15,\"devmats_sli\":18,\"screws\":9,\"screws_sli\":12,\"equips\":[{\"id\":202,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
+		"upgrade_data": "{\"eq_id\":485,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[501],\"days\":[1,5,6,0]},{\"ship_ids\":[506],\"days\":[1,0]}],\"costs\":{\"fuel\":150,\"ammo\":130,\"steel\":0,\"baux\":340,\"p1\":{\"devmats\":12,\"devmats_sli\":14,\"screws\":7,\"screws_sli\":8,\"equips\":[{\"id\":201,\"eq_count\":1}],\"consumable\":[]},\"p2\":{\"devmats\":15,\"devmats_sli\":18,\"screws\":9,\"screws_sli\":12,\"equips\":[{\"id\":202,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2324,
