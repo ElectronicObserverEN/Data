@@ -3338,6 +3338,12 @@
 		"upgrade_for": []
 	},
 	{
+		"eq_id": 265,
+		"improvement": [],
+		"convert_to": [],
+		"upgrade_for": []
+	},
+	{
 		"eq_id": 266,
 		"improvement": [
 			{
@@ -4648,6 +4654,72 @@
 	},
 	{
 		"eq_id": 491,
+		"improvement": [],
+		"convert_to": [],
+		"upgrade_for": []
+	},
+	{
+		"eq_id": 492,
+		"improvement": [],
+		"convert_to": [],
+		"upgrade_for": []
+	},
+	{
+		"eq_id": 493,
+		"improvement": [],
+		"convert_to": [],
+		"upgrade_for": []
+	},
+	{
+		"eq_id": 494,
+		"improvement": [],
+		"convert_to": [],
+		"upgrade_for": []
+	},
+	{
+		"eq_id": 495,
+		"improvement": [],
+		"convert_to": [],
+		"upgrade_for": []
+	},
+	{
+		"eq_id": 496,
+		"improvement": [],
+		"convert_to": [],
+		"upgrade_for": []
+	},
+	{
+		"eq_id": 497,
+		"improvement": [],
+		"convert_to": [],
+		"upgrade_for": []
+	},
+	{
+		"eq_id": 498,
+		"improvement": [],
+		"convert_to": [],
+		"upgrade_for": []
+	},
+	{
+		"eq_id": 499,
+		"improvement": [],
+		"convert_to": [],
+		"upgrade_for": []
+	},
+	{
+		"eq_id": 1581,
+		"improvement": [],
+		"convert_to": [],
+		"upgrade_for": []
+	},
+	{
+		"eq_id": 1632,
+		"improvement": [],
+		"convert_to": [],
+		"upgrade_for": []
+	},
+	{
+		"eq_id": 1633,
 		"improvement": [],
 		"convert_to": [],
 		"upgrade_for": []
