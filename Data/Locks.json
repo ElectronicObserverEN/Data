@@ -59,6 +59,12 @@
 		{"LockGroups":[2],"Name":"E6-3"},
 		{"LockGroups":[6],"Name":"E6 G"},
 		{"LockGroups":[3,4,8],"Name":"E6 Z1"},
-		{"LockGroups":[3,4,8],"Name":"E6-4"}
+		{"LockGroups":[3,4,8],"Name":"E6-4"},
+		{"LockGroups":[6],"Name":"E6 G"},
+		{"LockGroups":[7],"Name":"E6 L"},
+		{"LockGroups":[7],"Name":"E6 O"},
+		{"LockGroups":[2],"Name":"E6 X"},
+		{"LockGroups":[3,4,8],"Name":"E6 Z"},
+		{"LockGroups":[3,4,8],"Name":"E6 Z1"}
 	]
 }
