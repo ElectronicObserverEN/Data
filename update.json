@@ -1,9 +1,9 @@
 {
-	"bld_date": "2023/03/04 13:00:00",
-	"ver": "5.2.4",
+	"bld_date": "2023/03/25 12:00:00",
+	"ver": "5.2.5",
 	"note": "Check github for release notes: https://github.com/ElectronicObserverEN/ElectronicObserver/releases",
-	"url": "https://github.com/ElectronicObserverEN/ElectronicObserver/releases/download/5.2.4/ElectronicObserver5.2.4EN.zip",
-	"hash": "C1FE91C75B4CC377F44530C4CBC416344E748E7FE2FB94E24356C0726AD1E301",
+	"url": "https://github.com/ElectronicObserverEN/ElectronicObserver/releases/download/5.2.5/ElectronicObserver5.2.5EN.zip",
+	"hash": "F0211C83D335F42AE81DE6091D452C5A2CE73465D2FB733ED253AD69E2530CAE",
 	"nodes": 20071508,
 	"QuestTrackers": 89,
 	"Locks": 36,
