@@ -4394,5 +4394,40 @@
 		"name_jp": "陸軍歩兵部隊+チハ改",
 		"name_en": "Army Infantry Corps + Chi-Ha Kai",
 		"upgrade_data": "{\"eq_id\":499,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2472,
+		"api_id": 1635,
+		"name_jp": "深海突破襲撃機",
+		"name_en": "Abyssal Breakthrough Assault Aircraft",
+		"upgrade_data": "{\"eq_id\":1635,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2473,
+		"api_id": 1636,
+		"name_jp": "深海突破襲撃機Ace",
+		"name_en": "Abyssal Breakthrough Assault Aircraft Ace",
+		"upgrade_data": "{\"eq_id\":1636,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2474,
+		"api_id": 1637,
+		"name_jp": "沿岸突撃半水中魚雷艇",
+		"name_en": "Coastal Ambush Semi-submersible Torpedo Boat",
+		"upgrade_data": "{\"eq_id\":1637,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2475,
+		"api_id": 1634,
+		"name_jp": "深海艤装水上汎用襲撃機",
+		"name_en": "Abyssal Rigging General Assault Seaplane",
+		"upgrade_data": "{\"eq_id\":1634,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2476,
+		"api_id": 1638,
+		"name_jp": "深海3inch単装高角砲+甲板機銃",
+		"name_en": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
+		"upgrade_data": "{\"eq_id\":1638,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
 	}
 ]

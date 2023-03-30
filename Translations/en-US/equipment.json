@@ -1,5 +1,5 @@
 {
-	"version": "21030246",
+	"version": "21030247",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -624,7 +624,12 @@
 		"深海空超要塞": "Abyssal Sky Super Fortress",
 		"深海空超要塞改": "Abyssal Sky Super Fortress Kai",
 		"深海航空整備蟲": "Abyssal Aviation Maintenance Bugs",
-		"深海航空整備蟲pro": "Abyssal Aviation Maintenance Bugs Pro"
+		"深海航空整備蟲pro": "Abyssal Aviation Maintenance Bugs Pro",
+		"深海艤装水上汎用襲撃機": "Abyssal Rigging General Assault Seaplane",
+		"深海突破襲撃機": "Abyssal Breakthrough Assault Aircraft",
+		"深海突破襲撃機Ace": "Abyssal Breakthrough Assault Aircraft Ace",
+		"沿岸突撃半水中魚雷艇": "Coastal Ambush Semi-submersible Torpedo Boat",
+		"深海3inch単装高角砲+甲板機銃": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",
