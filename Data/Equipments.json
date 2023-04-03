@@ -207,7 +207,7 @@
 		"api_id": 30,
 		"name_jp": "21号対空電探",
 		"name_en": "Type 21 Air RADAR",
-		"upgrade_data": "{\"eq_id\":30,\"improvement\":[{\"convert\":{\"id_after\":89,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[77,553],\"days\":[0,1,5,6]},{\"ship_ids\":[82],\"days\":[1]},{\"ship_ids\":[87],\"days\":[3,4,5,6]},{\"ship_ids\":[88],\"days\":[3,4]}],\"costs\":{\"fuel\":10,\"ammo\":0,\"steel\":40,\"baux\":50,\"p1\":{\"devmats\":5,\"devmats_sli\":6,\"screws\":2,\"screws_sli\":3,\"equips\":[],\"consumable\":[]},\"p2\":{\"devmats\":6,\"devmats_sli\":8,\"screws\":3,\"screws_sli\":5,\"equips\":[{\"id\":30,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":12,\"devmats_sli\":16,\"screws\":5,\"screws_sli\":13,\"equips\":[{\"id\":30,\"eq_count\":2}],\"consumable\":[]}}},{\"convert\":{\"id_after\":410,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[70,73,501,506],\"days\":[1,2,3,4]}],\"costs\":{\"fuel\":10,\"ammo\":0,\"steel\":40,\"baux\":50,\"p1\":{\"devmats\":5,\"devmats_sli\":6,\"screws\":2,\"screws_sli\":3,\"equips\":[],\"consumable\":[]},\"p2\":{\"devmats\":6,\"devmats_sli\":8,\"screws\":3,\"screws_sli\":5,\"equips\":[{\"id\":30,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":20,\"devmats_sli\":28,\"screws\":7,\"screws_sli\":15,\"equips\":[{\"id\":89,\"eq_count\":1}],\"consumable\":[{\"id\":94,\"eq_count\":1}]}}}],\"convert_to\":[{\"id_after\":89,\"lvl_after\":0},{\"id_after\":410,\"lvl_after\":0}],\"upgrade_for\":[142,27,89,410,32,278]}"
+		"upgrade_data": "{\"eq_id\":30,\"improvement\":[{\"convert\":{\"id_after\":89,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[77,553],\"days\":[0,1,5,6]},{\"ship_ids\":[82],\"days\":[1]},{\"ship_ids\":[87],\"days\":[3,4,5,6]},{\"ship_ids\":[88],\"days\":[3,4]}],\"costs\":{\"fuel\":10,\"ammo\":0,\"steel\":40,\"baux\":50,\"p1\":{\"devmats\":5,\"devmats_sli\":6,\"screws\":2,\"screws_sli\":3,\"equips\":[],\"consumable\":[]},\"p2\":{\"devmats\":6,\"devmats_sli\":8,\"screws\":3,\"screws_sli\":5,\"equips\":[{\"id\":30,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":12,\"devmats_sli\":16,\"screws\":5,\"screws_sli\":13,\"equips\":[{\"id\":30,\"eq_count\":2}],\"consumable\":[]}}},{\"convert\":{\"id_after\":410,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[70,73,501],\"days\":[1,2,3,4]},{\"ship_ids\":[506],\"days\":[1,4]}],\"costs\":{\"fuel\":10,\"ammo\":0,\"steel\":40,\"baux\":50,\"p1\":{\"devmats\":5,\"devmats_sli\":6,\"screws\":2,\"screws_sli\":3,\"equips\":[],\"consumable\":[]},\"p2\":{\"devmats\":6,\"devmats_sli\":8,\"screws\":3,\"screws_sli\":5,\"equips\":[{\"id\":30,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":20,\"devmats_sli\":28,\"screws\":7,\"screws_sli\":15,\"equips\":[{\"id\":89,\"eq_count\":1}],\"consumable\":[{\"id\":94,\"eq_count\":1}]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 1873,
@@ -3364,7 +3364,7 @@
 		"api_id": 485,
 		"name_jp": "強風改二",
 		"name_en": "Kyoufuu Kai Ni",
-		"upgrade_data": "{\"eq_id\":485,\"improvement\":[{\"helpers\":[{\"ship_ids\":[501],\"days\":[1,2,3,4]},{\"ship_ids\":[506],\"days\":[2,3]}],\"costs\":{\"fuel\":150,\"ammo\":130,\"steel\":0,\"baux\":340,\"p1\":{\"devmats\":12,\"devmats_sli\":14,\"screws\":7,\"screws_sli\":8,\"equips\":[{\"id\":201,\"eq_count\":1}],\"consumable\":[]},\"p2\":{\"devmats\":15,\"devmats_sli\":18,\"screws\":9,\"screws_sli\":12,\"equips\":[{\"id\":202,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[]}"
+		"upgrade_data": "{\"eq_id\":485,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[501],\"days\":[1,5,6,0]},{\"ship_ids\":[506],\"days\":[1,0]}],\"costs\":{\"fuel\":150,\"ammo\":130,\"steel\":0,\"baux\":340,\"p1\":{\"devmats\":12,\"devmats_sli\":14,\"screws\":7,\"screws_sli\":8,\"equips\":[{\"id\":201,\"eq_count\":1}],\"consumable\":[]},\"p2\":{\"devmats\":15,\"devmats_sli\":18,\"screws\":9,\"screws_sli\":12,\"equips\":[{\"id\":202,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2324,
@@ -4317,5 +4317,117 @@
 		"name_jp": "紫電改(三四三空) 戦闘407",
 		"name_en": "Shiden Kai (343rd Air Group) 407th Fighter Squadron",
 		"upgrade_data": "{\"eq_id\":265,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2461,
+		"api_id": 1632,
+		"name_jp": "深海航空整備蟲",
+		"name_en": "Abyssal Aviation Maintenance Bugs",
+		"upgrade_data": "{\"eq_id\":1632,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2462,
+		"api_id": 1633,
+		"name_jp": "深海航空整備蟲pro",
+		"name_en": "Abyssal Aviation Maintenance Bugs Pro",
+		"upgrade_data": "{\"eq_id\":1633,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2463,
+		"api_id": 492,
+		"name_jp": "零戦52型丙(八幡部隊)",
+		"name_en": "Zero Fighter Type 52 Hei (Yawata Unit)",
+		"upgrade_data": "{\"eq_id\":492,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2464,
+		"api_id": 493,
+		"name_jp": "一式陸攻(八幡部隊)",
+		"name_en": "Type 1 Land-based Attack Aircraft (Yawata Unit)",
+		"upgrade_data": "{\"eq_id\":493,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2465,
+		"api_id": 494,
+		"name_jp": "特大発動艇+チハ",
+		"name_en": "Toku Daihatsu + Chi-Ha",
+		"upgrade_data": "{\"eq_id\":494,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2466,
+		"api_id": 495,
+		"name_jp": "特大発動艇+チハ改",
+		"name_en": "Toku Daihatsu + Chi-Ha Kai",
+		"upgrade_data": "{\"eq_id\":495,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2467,
+		"api_id": 496,
+		"name_jp": "陸軍歩兵部隊",
+		"name_en": "Army Infantry Unit",
+		"upgrade_data": "{\"eq_id\":496,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2468,
+		"api_id": 497,
+		"name_jp": "九七式中戦車(チハ)",
+		"name_en": "Type 97 Medium Tank (Chi-Ha)",
+		"upgrade_data": "{\"eq_id\":497,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2469,
+		"api_id": 1581,
+		"name_jp": "夜猫深海艦戦",
+		"name_en": "Abyssal Night Cat Fighter",
+		"upgrade_data": "{\"eq_id\":1581,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2470,
+		"api_id": 498,
+		"name_jp": "九七式中戦車 新砲塔(チハ改)",
+		"name_en": "Type 97 Medium Tank New Turret (Chi-Ha Kai)",
+		"upgrade_data": "{\"eq_id\":498,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2471,
+		"api_id": 499,
+		"name_jp": "陸軍歩兵部隊+チハ改",
+		"name_en": "Army Infantry Corps + Chi-Ha Kai",
+		"upgrade_data": "{\"eq_id\":499,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2472,
+		"api_id": 1635,
+		"name_jp": "深海突破襲撃機",
+		"name_en": "Abyssal Breakthrough Assault Aircraft",
+		"upgrade_data": "{\"eq_id\":1635,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2473,
+		"api_id": 1636,
+		"name_jp": "深海突破襲撃機Ace",
+		"name_en": "Abyssal Breakthrough Assault Aircraft Ace",
+		"upgrade_data": "{\"eq_id\":1636,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2474,
+		"api_id": 1637,
+		"name_jp": "沿岸突撃半水中魚雷艇",
+		"name_en": "Coastal Ambush Semi-submersible Torpedo Boat",
+		"upgrade_data": "{\"eq_id\":1637,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2475,
+		"api_id": 1634,
+		"name_jp": "深海艤装水上汎用襲撃機",
+		"name_en": "Abyssal Rigging General Assault Seaplane",
+		"upgrade_data": "{\"eq_id\":1634,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2476,
+		"api_id": 1638,
+		"name_jp": "深海3inch単装高角砲+甲板機銃",
+		"name_en": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
+		"upgrade_data": "{\"eq_id\":1638,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
 	}
 ]
