@@ -86,5 +86,38 @@
 		"live_update": true,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1637392212224008192",
 		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1637479304971030528"
+	},
+	{
+		"id": 16,
+		"start_date": "2023-03-31T00:00:00",
+		"start_time": "19:30:00",
+		"end_time": "19:30:00",
+		"name": "Spring 2023 Event Friend Fleet Wave 1 & ranking rewards",
+		"description": "- First friend fleet wave for the Spring 2023 Event\r\n- February ranking rewards",
+		"live_update": true,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1641738583118839810",
+		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1641738583118839810"
+	},
+	{
+		"id": 17,
+		"start_date": "2023-04-14T00:00:00",
+		"start_time": "00:00:00",
+		"end_time": null,
+		"name": "Spring 2023 Event Friend Fleet Wave 2",
+		"description": "- 2nd wave of friend fleet added to MOs and EOs",
+		"live_update": true,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1645364025256206336",
+		"maint_end_tweet": ""
+	},
+	{
+		"id": 18,
+		"start_date": "2023-04-10T00:00:00",
+		"start_time": "19:30:00",
+		"end_time": null,
+		"name": "End of Winter CGs, Start of Spring CGs",
+		"description": "",
+		"live_update": true,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1645366155446743040",
+		"maint_end_tweet": ""
 	}
 ]
