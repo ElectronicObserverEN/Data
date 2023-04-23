@@ -22,5 +22,11 @@
 		"name": "Early Spring 2023",
 		"added_update_id": 7,
 		"removed_update_id": null
+	},
+	{
+		"id": 6,
+		"name": "10th anniversary",
+		"added_update_id": 19,
+		"removed_update_id": null
 	}
 ]
