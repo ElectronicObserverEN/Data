@@ -7928,5 +7928,44 @@
 		"removed_update_id": null,
 		"season_id": null,
 		"tracker": "[[995],[[0,[[3,2],6,1]],[0,[[5,3],6,1]],[0,[[6,4],6,1]],[2,[[7,3],6,1,[18,23,24,25],\"-2\"]]],[0,[[7,[959,false,1,0]],[7,[0,false,0,12]]]]]"
+	},
+	{
+		"id": 619,
+		"api_id": 363,
+		"code": "2304 C1",
+		"name_jp": "【艦隊10周年記念任務】睦月型、演習！",
+		"name_en": "[10th Anniversary Quest] Mutsuki-class Destroyer, Exercises!",
+		"desc_jp": "睦月型駆逐艦演習任務：睦月型駆逐艦4隻以上を含む10周年記念演習艦隊を編成。<br>同10周年記念演習艦隊で本日中に演習で【A判定】勝利以上を5回以上達成せよ！",
+		"desc_en": "Organize a fleet with 4 Mutsuki-class in your fleet and score A rank 5 times in PvP",
+		"added_update_id": 19,
+		"removed_update_id": null,
+		"season_id": 6,
+		"tracker": "[[363],[[9,[5,5]]],[0,[[8,[[[0,false,0,28]],4]]]]]"
+	},
+	{
+		"id": 620,
+		"api_id": 448,
+		"code": "2304 D1",
+		"name_jp": "【艦隊10周年記念任務】10周年兵站遠征",
+		"name_en": "[10th Anniversary Quest] 10th Anniversary Logistics Expedition",
+		"desc_jp": "【記念任務】「海上護衛任務」「タンカー護衛任務」及び「ボーキサイト輸送任務」<br>「兵站強化任務」各遠征任務を実施、さらに事前準備「観艦式予行」を3回成功させよ！",
+		"desc_en": "Complete expeditions 5, A1, 9, 11 once and expedition 7 three times",
+		"added_update_id": 19,
+		"removed_update_id": null,
+		"season_id": 6,
+		"tracker": "[[448],[[1,[[5],1]],[1,[[7],3]],[1,[[100],1]],[1,[[9],1]],[1,[[11],1]]],[0,[]]]"
+	},
+	{
+		"id": 621,
+		"api_id": 993,
+		"code": "2304 B2",
+		"name_jp": "【艦隊10周年記念任務】白露型駆逐艦、出撃！",
+		"name_en": "[10th Anniversary Quest] Shiratsuyu-class Destroyer, Sortie!",
+		"desc_jp": "【記念任務】白露型駆逐艦3隻以上を含む10周年記念精鋭白露型艦隊で、南西諸島海域バシー海峡、<br>東部オリョール海、沖ノ島海域、沖ノ島沖へ出撃。南西諸島海域の敵艦隊を捕捉、これを撃滅せよ！",
+		"desc_en": "Organize a fleet with 3 Shiratsuyu-class in your fleet and score an S rank at the boss nodes on 2-2, 2-3, 2-4 and 2-5",
+		"added_update_id": 19,
+		"removed_update_id": null,
+		"season_id": 6,
+		"tracker": "[[993],[[0,[[2,2],6,1]],[0,[[2,3],6,1]],[0,[[2,4],6,1]],[0,[[2,5],6,1]]],[0,[[8,[[[0,false,0,23]],3]]]]]"
 	}
 ]
