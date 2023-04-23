@@ -1,5 +1,5 @@
 {
-	"version": "21030306",
+	"version": "21030307",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1723,9 +1723,9 @@
 		"desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and 3 DD in your fleet and score S rank 5 times in PvP"
 	},
 	"362": {
-		"code": "362",
+		"code": "C72",
 		"name_jp": "特型初代「第十一駆逐隊」演習スペシャル！",
-		"name": "特型初代「第十一駆逐隊」演習スペシャル！",
+		"name": "Special Type \"11th DesDiv Destroyer\", Exercises!",
 		"desc_jp": "駆逐艦演習任務：第十一駆逐隊「吹雪」「白雪」「初雪」「深雪」の4隻を含む演習艦隊を編成。<br>同艦隊で本日中に演習で【A判定】勝利以上を4回以上達成せよ！特I型演習スペシャル！",
 		"desc": "Organize a fleet with Fubuki, Shirayuki, Hatsuyuki and Miyuki in your fleet and score A rank 4 times in PvP"
 	},
@@ -4033,14 +4033,14 @@
 		"desc": "Organize a fleet with a CL as flagship, at least 1 Aviation Cruiser (CAV/Gotland) and 1DD in your fleet and score an S rank at the boss nodes on 7-2 (Part 2), 7-3 (Part 2), 7-4 and 5-5"
 	},
 	"992": {
-		"code": "992",
+		"code": "2304 B1",
 		"name_jp": "【艦隊10周年記念任務】吹雪型駆逐艦、抜錨！",
-		"name": "[10th Anniv. Limited Quest] Fubuki-class Destroyers, Sortie!",
+		"name": "[10th Anniversary Quest] Fubuki-class Destroyer, Sortie!",
 		"desc_jp": "【記念任務】特I型(吹雪型)駆逐艦4隻以上を含む10周年記念艦隊で、鎮守府正面海域、南西諸島沖、<br>製油所地帯沿岸、南西諸島防衛線を哨戒！10周年を迎えた鎮守府海域の警戒を厳とせよ！",
 		"desc": "Organize a fleet with 4 Fubuki-class in your fleet and score an S rank at the boss nodes on 1-1, 1-2, 1-3 and 1-4"
 	},
 	"995": {
-		"code": "995",
+		"code": "B189",
 		"name_jp": "改装特I型駆逐艦「深雪改二」、出撃せよ！",
 		"name": "Remodelled Special Type I Destroyer [Miyuki Kai Ni], Sortie!",
 		"desc_jp": "改装特I型駆逐艦「深雪改二」及び同僚艦に吹雪型駆逐艦1隻を含む精鋭艦隊で、北方キス島沖、<br>南方サブ島沖海域、中部北海域ピーコック島沖、南西海域ペナン島沖深部の敵戦力を撃滅せよ！",
