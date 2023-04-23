@@ -4429,5 +4429,19 @@
 		"name_jp": "深海3inch単装高角砲+甲板機銃",
 		"name_en": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
 		"upgrade_data": "{\"eq_id\":1638,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2477,
+		"api_id": 500,
+		"name_jp": "発煙装置(煙幕)",
+		"name_en": "Smoke Generator (Smoke Screen)",
+		"upgrade_data": "{\"eq_id\":500,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2478,
+		"api_id": 501,
+		"name_jp": "発煙装置改(煙幕)",
+		"name_en": "Smoke Generator Kai (Smoke Screen)",
+		"upgrade_data": "{\"eq_id\":501,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
 	}
 ]
