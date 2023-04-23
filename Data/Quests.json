@@ -7921,12 +7921,12 @@
 		"api_id": 995,
 		"code": "995",
 		"name_jp": "改装特I型駆逐艦「深雪改二」、出撃せよ！",
-		"name_en": "改装特I型駆逐艦「深雪改二」、出撃せよ！",
+		"name_en": "Remodelled Special Type I Destroyer [Miyuki Kai Ni], Sortie!",
 		"desc_jp": "改装特I型駆逐艦「深雪改二」及び同僚艦に吹雪型駆逐艦1隻を含む精鋭艦隊で、北方キス島沖、<br>南方サブ島沖海域、中部北海域ピーコック島沖、南西海域ペナン島沖深部の敵戦力を撃滅せよ！",
-		"desc_en": "改装特I型駆逐艦「深雪改二」及び同僚艦に吹雪型駆逐艦1隻を含む精鋭艦隊で、北方キス島沖、<br>南方サブ島沖海域、中部北海域ピーコック島沖、南西海域ペナン島沖深部の敵戦力を撃滅せよ！",
-		"added_update_id": null,
+		"desc_en": "Organize a fleet with Miyuki Kai Ni and 1 Fubuki-class in your fleet and score an S rank at the boss nodes on 3-2, 5-3, 6-4 and 7-3 (Part 2)",
+		"added_update_id": 19,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[995],[[0,[[3,2],6,1]],[0,[[5,3],6,1]],[0,[[6,4],6,1]],[2,[[7,3],6,1,[18,23,24,25],\"-2\"]]],[0,[[7,[959,false,1,0]],[7,[0,false,0,12]]]]]"
 	}
 ]
