@@ -1,5 +1,5 @@
 {
-	"version": "21030311",
+	"version": "21030312",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4065,7 +4065,7 @@
 		"name_jp": "【記念任務:拡張作戦】主力オブ主力、決戦ッ！",
 		"name": "[Commemorative Mission: Expansion Operations] Main Force of Main Force, Decisive Battle!",
 		"desc_jp": "【記念任務:拡張作戦】夕雲型駆逐艦2隻以上を含む10周年記念決戦艦隊を編成！北方AL海域、<br>カレー洋リランカ島沖、珊瑚諸島沖、南方海域サーモン海域北方に出撃！敵艦隊を捕捉撃滅せよ！",
-		"desc": "Organize a fleet with 2 Yuugumo-class in your fleet and score an S rank at the boss nodes on 3-5, 4-5, 5-2 and 5-5. Test 4"
+		"desc": "Organize a fleet with 2 Yuugumo-class in your fleet and score an S rank at the boss nodes on 3-5, 4-5, 5-2 and 5-5."
 	},
 	"995": {
 		"code": "B189",
