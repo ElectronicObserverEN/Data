@@ -207,7 +207,7 @@
 		"api_id": 30,
 		"name_jp": "21号対空電探",
 		"name_en": "Type 21 Air RADAR",
-		"upgrade_data": "{\"eq_id\":30,\"improvement\":[{\"convert\":{\"id_after\":89,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[77,553],\"days\":[0,1,5,6]},{\"ship_ids\":[82],\"days\":[1]},{\"ship_ids\":[87],\"days\":[3,4,5,6]},{\"ship_ids\":[88],\"days\":[3,4]}],\"costs\":{\"fuel\":10,\"ammo\":0,\"steel\":40,\"baux\":50,\"p1\":{\"devmats\":5,\"devmats_sli\":6,\"screws\":2,\"screws_sli\":3,\"equips\":[],\"consumable\":[]},\"p2\":{\"devmats\":6,\"devmats_sli\":8,\"screws\":3,\"screws_sli\":5,\"equips\":[{\"id\":30,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":12,\"devmats_sli\":16,\"screws\":5,\"screws_sli\":13,\"equips\":[{\"id\":30,\"eq_count\":2}],\"consumable\":[]}}},{\"convert\":{\"id_after\":410,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[70,73,501],\"days\":[1,2,3,4]},{\"ship_ids\":[506],\"days\":[1,4]}],\"costs\":{\"fuel\":10,\"ammo\":0,\"steel\":40,\"baux\":50,\"p1\":{\"devmats\":5,\"devmats_sli\":6,\"screws\":2,\"screws_sli\":3,\"equips\":[],\"consumable\":[]},\"p2\":{\"devmats\":6,\"devmats_sli\":8,\"screws\":3,\"screws_sli\":5,\"equips\":[{\"id\":30,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":20,\"devmats_sli\":28,\"screws\":7,\"screws_sli\":15,\"equips\":[{\"id\":89,\"eq_count\":1}],\"consumable\":[{\"id\":94,\"eq_count\":1}]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
+		"upgrade_data": "{\"eq_id\":30,\"improvement\":[{\"convert\":{\"id_after\":89,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[77,553],\"days\":[0,1,5,6]},{\"ship_ids\":[82],\"days\":[1]},{\"ship_ids\":[87],\"days\":[3,4,5,6]},{\"ship_ids\":[88],\"days\":[3,4]}],\"costs\":{\"fuel\":10,\"ammo\":0,\"steel\":40,\"baux\":50,\"p1\":{\"devmats\":5,\"devmats_sli\":6,\"screws\":2,\"screws_sli\":3,\"equips\":[],\"consumable\":[]},\"p2\":{\"devmats\":6,\"devmats_sli\":8,\"screws\":3,\"screws_sli\":5,\"equips\":[{\"id\":30,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":12,\"devmats_sli\":16,\"screws\":5,\"screws_sli\":13,\"equips\":[{\"id\":30,\"eq_count\":2}],\"consumable\":[]}}},{\"convert\":{\"id_after\":410,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[70,73],\"days\":[1,2,3,4]}],\"costs\":{\"fuel\":10,\"ammo\":0,\"steel\":40,\"baux\":50,\"p1\":{\"devmats\":5,\"devmats_sli\":6,\"screws\":2,\"screws_sli\":3,\"equips\":[],\"consumable\":[]},\"p2\":{\"devmats\":6,\"devmats_sli\":8,\"screws\":3,\"screws_sli\":5,\"equips\":[{\"id\":30,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":20,\"devmats_sli\":28,\"screws\":7,\"screws_sli\":15,\"equips\":[{\"id\":89,\"eq_count\":1}],\"consumable\":[{\"id\":94,\"eq_count\":1}]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 1873,
@@ -4429,5 +4429,19 @@
 		"name_jp": "深海3inch単装高角砲+甲板機銃",
 		"name_en": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
 		"upgrade_data": "{\"eq_id\":1638,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2477,
+		"api_id": 500,
+		"name_jp": "発煙装置(煙幕)",
+		"name_en": "Smoke Generator (Smoke Screen)",
+		"upgrade_data": "{\"eq_id\":500,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2478,
+		"api_id": 501,
+		"name_jp": "発煙装置改(煙幕)",
+		"name_en": "Smoke Generator Kai (Smoke Screen)",
+		"upgrade_data": "{\"eq_id\":501,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
 	}
 ]

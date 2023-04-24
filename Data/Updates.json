@@ -119,5 +119,27 @@
 		"live_update": true,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1645366155446743040",
 		"maint_end_tweet": ""
+	},
+	{
+		"id": 19,
+		"start_date": "2023-04-23T00:00:00",
+		"start_time": "14:00:00",
+		"end_time": "19:30:00",
+		"name": "10th anniversary",
+		"description": "- Miyuki K2 ",
+		"live_update": false,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1649408633271201792",
+		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1650075274552414209"
+	},
+	{
+		"id": 20,
+		"start_date": "2023-05-01T00:00:00",
+		"start_time": "11:00:00",
+		"end_time": null,
+		"name": "Spring 2023 Event end",
+		"description": "",
+		"live_update": false,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1649410371483054085",
+		"maint_end_tweet": ""
 	}
 ]
