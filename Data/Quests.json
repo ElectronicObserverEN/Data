@@ -7980,5 +7980,18 @@
 		"removed_update_id": null,
 		"season_id": 6,
 		"tracker": "[[994],[[0,[[3,5],6,1]],[0,[[4,5],6,1]],[0,[[5,2],6,1]],[0,[[5,5],6,1]]],[0,[[8,[[[0,false,0,38]],2]]]]]"
+	},
+	{
+		"id": 623,
+		"api_id": 1127,
+		"code": "F113",
+		"name_jp": "艦載用「煙幕発生装置」の改良",
+		"name_en": "Improving Shipborne \"Smoke Screen Generator\"",
+		"desc_jp": "【煙幕改良任務】旗艦「深雪改二」の第一装備スロに「発煙装置(煙幕)」を装備。開発資材x12、<br>新型兵装資材x2、さらに「発煙装置(煙幕)」x2、燃料x480、ボーキサイトx350を準備せよ！",
+		"desc_en": "Have your secretary flagship Miyuki Kai Ni equip a Smoke Generator (Smoke Screen) in the first slot and have 2 Smoke Generator (Smoke Screen), 12 Development Materials, 1 New Model Armament Material, 480 fuel, and 350 bauxite (All resources and Materials will be consumed upon completion)",
+		"added_update_id": 19,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": ""
 	}
 ]

@@ -1,5 +1,5 @@
 {
-	"version": "21030309",
+	"version": "21030310",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4220,5 +4220,12 @@
 		"name": "(Early Spring Limited Mission) Development of the Prototype \"Night Zuiun\"",
 		"desc_jp": "旗艦航空巡洋艦「最上改二/特」の第一スロに「瑞雲改二(六三四空)」(改修度★+6以上)を搭載。<br>「瑞雲」x3廃棄、ボーキ1634、新型航空兵装資材x4、開発資材x72、熟練搭乗員x2を準備！",
 		"desc": "Have your secretary flagship Mogami Kai Ni/Toku equip a Zuiun Kai Ni (634 Air Group) (at least ★+6) in the first slot and then proceed to scrap 3x Zuiun and have 72x Development Materials, 4x New Model Aerial Armament Material, 2x Skilled Crew Member, and 1634x bauxite (All resources and Materials will be consumed upon completion)"
+	},
+	"1127": {
+		"code": "F113",
+		"name_jp": "艦載用「煙幕発生装置」の改良",
+		"name": "Improving Shipborne \"Smoke Screen Generator\"",
+		"desc_jp": "【煙幕改良任務】旗艦「深雪改二」の第一装備スロに「発煙装置(煙幕)」を装備。開発資材x12、<br>新型兵装資材x2、さらに「発煙装置(煙幕)」x2、燃料x480、ボーキサイトx350を準備せよ！",
+		"desc": "Have your secretary flagship Miyuki Kai Ni equip a Smoke Generator (Smoke Screen) in the first slot and have 2 Smoke Generator (Smoke Screen), 12 Development Materials, 1 New Model Armament Material, 480 fuel, and 350 bauxite (All resources and Materials will be consumed upon completion)"
 	}
 }
