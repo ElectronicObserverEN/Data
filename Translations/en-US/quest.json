@@ -1,5 +1,5 @@
 {
-	"version": "21030315",
+	"version": "21030316",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4220,6 +4220,13 @@
 		"name": "(Early Spring Limited Mission) Development of the Prototype \"Night Zuiun\"",
 		"desc_jp": "旗艦航空巡洋艦「最上改二/特」の第一スロに「瑞雲改二(六三四空)」(改修度★+6以上)を搭載。<br>「瑞雲」x3廃棄、ボーキ1634、新型航空兵装資材x4、開発資材x72、熟練搭乗員x2を準備！",
 		"desc": "Have your secretary flagship Mogami Kai Ni/Toku equip a Zuiun Kai Ni (634 Air Group) (at least ★+6) in the first slot and then proceed to scrap 3x Zuiun and have 72x Development Materials, 4x New Model Aerial Armament Material, 2x Skilled Crew Member, and 1634x bauxite (All resources and Materials will be consumed upon completion)"
+	},
+	"1126": {
+		"code": "2304 F1",
+		"name_jp": "【艦隊10周年記念任務:拡張任務】特別工廠",
+		"name": "[10th Anniversary Quest: Extended Mission] Special Arsenal Quest",
+		"desc_jp": "特別工廠：「艦戦」x8、「水上爆撃機/多用途水上機」x4、「機銃」x4を廃棄、「紫電改四」x2及び<br>開発資材x80、ボーキサイト3,000を準備！(任務達成後、準備した機体・資源・資材は消費します)",
+		"desc": "Have 2x Shiden Kai 4, 80x Development Materials, and 3000x bauxite and then proceed to scrap 8x Fighters, 4x Seaplane Bombers and 4x AA Guns (All resources and Materials will be consumed upon completion)"
 	},
 	"1127": {
 		"code": "F113",

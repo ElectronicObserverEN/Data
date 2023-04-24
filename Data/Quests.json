@@ -7993,5 +7993,18 @@
 		"removed_update_id": null,
 		"season_id": null,
 		"tracker": ""
+	},
+	{
+		"id": 624,
+		"api_id": 1126,
+		"code": "2304 F1",
+		"name_jp": "【艦隊10周年記念任務:拡張任務】特別工廠",
+		"name_en": "[10th Anniversary Quest: Extended Mission] Special Arsenal Quest",
+		"desc_jp": "特別工廠：「艦戦」x8、「水上爆撃機/多用途水上機」x4、「機銃」x4を廃棄、「紫電改四」x2及び<br>開発資材x80、ボーキサイト3,000を準備！(任務達成後、準備した機体・資源・資材は消費します)",
+		"desc_en": "Have 2x Shiden Kai 4, 80x Development Materials, and 3000x bauxite and then proceed to scrap 8x Fighters, 4x Seaplane Bombers and 4x AA Guns (All resources and Materials will be consumed upon completion)",
+		"added_update_id": 19,
+		"removed_update_id": null,
+		"season_id": 6,
+		"tracker": "[[1126],[[4,[6,8]],[4,[11,4]],[4,[21,4]]],[0,[]]]"
 	}
 ]
