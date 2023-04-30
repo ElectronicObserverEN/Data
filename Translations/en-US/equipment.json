@@ -1,5 +1,5 @@
 {
-	"version": "21030249",
+	"version": "21030250",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -499,6 +499,7 @@
 		"陸軍歩兵部隊+チハ改": "Army Infantry Corps + Chi-Ha Kai",
 		"発煙装置(煙幕)": "Smoke Generator (Smoke Screen)",
 		"発煙装置改(煙幕)": "Smoke Generator Kai (Smoke Screen)",
+		"35.6cm連装砲改三(ダズル迷彩仕様)": "35.6cm Twin Gun Mount Kai 3 (Dazzle Camouflage Specification)",
 		"5inch単装砲": "5inch Single Gun",
 		"5inch連装砲": "5inch Twin Gun",
 		"3inch単装高角砲": "3inch Single High-angle",

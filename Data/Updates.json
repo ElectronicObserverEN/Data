@@ -137,9 +137,20 @@
 		"start_time": "11:00:00",
 		"end_time": "20:00:00",
 		"name": "Spring 2023 Event end",
-		"description": "",
+		"description": "- End of Spring 2023 event\r\n- Early Spring Quests end\r\n- Haruna 3rd remodel",
 		"live_update": false,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1649410371483054085",
 		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1652131962012958720"
+	},
+	{
+		"id": 21,
+		"start_date": "2023-04-30T00:00:00",
+		"start_time": "19:30:00",
+		"end_time": "19:30:00",
+		"name": "March 2023 Ranking Rewards",
+		"description": "",
+		"live_update": true,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1652603465049456642",
+		"maint_end_tweet": ""
 	}
 ]
