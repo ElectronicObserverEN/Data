@@ -1,5 +1,5 @@
 {
-	"version": "21030316",
+	"version": "21030317",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -657,6 +657,13 @@
 		"name": "Elite 10th Destroyer Division, Prepare To Sortie!",
 		"desc_jp": "甲型駆逐艦編成任務：夕雲型駆逐艦「夕雲改二」及び「巻雲改二」の2隻から成る<br>精鋭第十駆逐隊(2隻編成)を編成せよ！",
 		"desc": "Have Yuugumo Kai Ni and Makigumo Kai Ni in your fleet."
+	},
+	"197": {
+		"code": "A93",
+		"name_jp": "主力オブ主力、精強「十駆」出撃準備ヨシ！",
+		"name": "Main Force of the Main Force, Powerful \"DesDiv 10\", ready to sortie!",
+		"desc_jp": "第十駆逐隊編成任務：改装甲型駆逐艦「夕雲改二」「巻雲改二」「風雲改二」、そして「秋雲改二」の<br>4隻から成る完全編成の最精強「第十駆逐隊」(4隻編成)を編成せよ！",
+		"desc": "Assemble a fleet containing only Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni, and Akigumo Kai Ni"
 	},
 	"201": {
 		"code": "Bd1",
