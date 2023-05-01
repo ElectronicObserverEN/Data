@@ -1,5 +1,5 @@
 {
-	"version": "21030314",
+	"version": "21030315",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4240,6 +4240,6 @@
 		"name_jp": "潜水艦魚雷攻撃の精度向上",
 		"name": "Accuracy Improvement of Submarine Torpedo Attacks",
 		"desc_jp": "旗艦に配備した潜水艦の第一装備スロに「後期型艦首魚雷(6門)」(★max) 。開発資材x36、<br>新型兵装資材x2、「61cm三連装(酸素)魚雷」x4、「熟練見張員」x3、弾薬800を準備せよ！",
-		"desc": "Have a submarine as secretary flagship with a Late Model Bow Torpedo Mount (6 Tubes) (★max?) in the first slot and have 36x Development Material, 2x New Model Armament Material, 4x 61cm Triple (Oxygen) Torpedo Mount, 3x Skilled Lookouts, 800 ammo (All resources and Materials will be consumed upon completion)"
+		"desc": "Have a submarine as secretary flagship with a Late Model Bow Torpedo Mount (6 Tubes) (★max) in the first slot and have 36x Development Material, 2x New Model Armament Material, 4x 61cm Triple (Oxygen) Torpedo Mount, 3x Skilled Lookouts, 800 ammo (All resources and Materials will be consumed upon completion)"
 	}
 }
