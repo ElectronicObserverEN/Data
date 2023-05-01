@@ -1,5 +1,5 @@
 {
-	"version": "21030312",
+	"version": "21030313",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4039,13 +4039,6 @@
 		"desc_jp": "「鳳翔改二/戦」を旗艦とする艦隊で、南西諸島海域沖ノ島沖、北方AL海域、カレー洋リランカ島沖、<br>南方海域珊瑚諸島沖、中部北海域ピーコック島沖、昭南本土航路に展開！敵戦力を撃滅せよ！",
 		"desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and score an S rank at the boss nodes on 2-5, 3-5, 4-5, 5-2, 6-4 and 7-4"
 	},
-	"991": {
-		"code": "2302 B3",
-		"name_jp": "【早春限定任務】海上遊撃戦、展開せよ",
-		"name": "(Early Spring Limited Mission) Deploy the fleet to Sea Battles",
-		"desc_jp": "軽巡を旗艦、航空巡洋艦及び駆逐艦1隻以上を含む精鋭艦隊で、南西海域ペナン島沖深部、<br>昭南本土航路、タウイタウイ泊地沖深部、南方海域サーモン海域北方に出撃！敵艦隊を撃滅せよ！",
-		"desc": "Organize a fleet with a CL as flagship, at least 1 Aviation Cruiser (CAV/Gotland) and 1DD in your fleet and score an S rank at the boss nodes on 7-2 (Part 2), 7-3 (Part 2), 7-4 and 5-5"
-	},
 	"992": {
 		"code": "2304 B1",
 		"name_jp": "【艦隊10周年記念任務】吹雪型駆逐艦、抜錨！",
@@ -4206,20 +4199,6 @@
 		"name": "Improved 3-seat Reconnaissance Seaplane",
 		"desc_jp": "旗艦「利根改二」または「由良改二」第一スロに最大改修「零式水上偵察機」。「九七式艦攻(九三一空)」<br>x2廃棄、ボーキ950、新型航空兵装資材x2、開発資材x35、熟練搭乗員x2を準備！",
 		"desc": "Have your secretary flagship Yura Kai Ni or Tone Kai Ni equip a max Type 0 Reconnaissance Seaplane in the first slot and then proceed to scrap 2x Type 97 Torpedo Bomber (931 Air Group) and have 950 bauxite, 2x New Model Aviation Material, 35x Development Material and 2x Skilled Crew Member (All resources and Materials will be consumed upon completion)"
-	},
-	"1124": {
-		"code": "2302 F1",
-		"name_jp": "【早春限定任務】夜間航空作戦能力の増強",
-		"name": "(Early Spring Limited Mission) Improvement of Night Operation Capabilities",
-		"desc_jp": "旗艦「龍鳳改二/戊」「鳳翔改/鳳翔改二」第一スロに「九七式艦攻(熟練)」(改修度不問)を搭載。<br>「九七式艦攻」x2廃棄、ボーキ370、新型航空兵装資材x1、開発資材x16、熟練搭乗員x1を準備！",
-		"desc": "Have your secretary flagship Ryuuhou Kai Ni (E) or Houshou Kai (Ni) equip a Type 97 Torpedo Bomber (Skilled) in the first slot and then proceed to scrap 2x Type 97 Torpedo Bomber and have 370x Bauxite, 1x Air Mats , 16x Devmats, 1x Skilled Crew Member (All resources and Materials will be consumed upon completion)"
-	},
-	"1125": {
-		"code": "2302 F2",
-		"name_jp": "【早春限定任務】試製「夜間瑞雲」の開発",
-		"name": "(Early Spring Limited Mission) Development of the Prototype \"Night Zuiun\"",
-		"desc_jp": "旗艦航空巡洋艦「最上改二/特」の第一スロに「瑞雲改二(六三四空)」(改修度★+6以上)を搭載。<br>「瑞雲」x3廃棄、ボーキ1634、新型航空兵装資材x4、開発資材x72、熟練搭乗員x2を準備！",
-		"desc": "Have your secretary flagship Mogami Kai Ni/Toku equip a Zuiun Kai Ni (634 Air Group) (at least ★+6) in the first slot and then proceed to scrap 3x Zuiun and have 72x Development Materials, 4x New Model Aerial Armament Material, 2x Skilled Crew Member, and 1634x bauxite (All resources and Materials will be consumed upon completion)"
 	},
 	"1126": {
 		"code": "2304 F1",
