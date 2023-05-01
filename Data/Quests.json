@@ -8006,5 +8006,57 @@
 		"removed_update_id": null,
 		"season_id": 6,
 		"tracker": "[[1126],[[4,[6,8]],[4,[11,4]],[4,[21,4]]],[0,[]]]"
+	},
+	{
+		"id": 625,
+		"api_id": 364,
+		"code": "364",
+		"name_jp": "精鋭第三戦隊、演習開始！",
+		"name_en": "Elite 3rd Fleet, Start Exercises!",
+		"desc_jp": "精鋭第三戦隊演習任務：「榛名改二乙/丙」「金剛改二丙」及び駆逐艦2隻以上を含む演習艦隊<br>を編成。同第三戦隊演習艦隊で本日中に演習で【S判定】勝利を4回以上達成せよ！",
+		"desc_en": "Organize a fleet with Haruna Kai Ni B/C , Kongou Kai Ni C, 2DD and 2XX in your fleet and score S rank 4 times in PvP",
+		"added_update_id": 20,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[364],[[9,[6,4]]],[0,[[7,[593,false,1,0]],[7,[591,false,0,0]],[2,[[2],2,false,0]]]]]"
+	},
+	{
+		"id": 626,
+		"api_id": 996,
+		"code": "996",
+		"name_jp": "改金剛型高速戦艦「榛名改二乙/丙」、抜錨！",
+		"name_en": "Improved Kongou-class Fast Battleship [Haruna Kai Ni B/C], Sortie!",
+		"desc_jp": "「榛名改二乙/丙」「金剛改二丙」及び駆逐艦2隻以上を含む精鋭艦隊で、バシー海峡、沖ノ島海域、<br>ジャワ島沖最深部、リランカ島、南方サブ島沖海域、サーモン海域の敵戦力を撃滅せよ！抜錨！",
+		"desc_en": "Organize a fleet with Haruna Kai Ni B/C , Kongou Kai Ni C, 2DD and 2XX in your fleet and score an S rank at the boss nodes on 2-2, 2-4, 4-3, 5-3, 5-4 and 7-5 (Part 3)",
+		"added_update_id": 20,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[996],[[0,[[2,2],6,1]],[0,[[2,4],6,1]],[0,[[4,3],6,1]],[0,[[5,3],6,1]],[0,[[5,4],6,1]],[2,[[7,5],6,1,[24,25],\"-3\"]]],[0,[[7,[593,false,1,0]],[7,[591,false,0,0]],[2,[[2],2,false,0]]]]]"
+	},
+	{
+		"id": 627,
+		"api_id": 1128,
+		"code": "1128",
+		"name_jp": "水上打撃戦用改良35.6cm砲の開発",
+		"name_en": "Development of Improved 35.6cm Gun Mount for Surface Combat",
+		"desc_jp": "旗艦「榛名改二乙/丙」の第一装備スロに「35.6cm連装砲改三(ダズル迷彩仕様)」 (★+3以上)。<br>開発資材x48、新型砲熕兵装資材x2、「35.6cm連装砲」x5、弾薬960、ボーキサイト800を準備！",
+		"desc_en": "Have your secretary flagship Haruna Kai Ni B/C equip a 35.6cm Twin Gun Mount Kai 3 (Dazzle Camouflage) ★+3 (or higher) in the first slot and have 48x Development Material, 2x New Model Artillery Material, 5x 35.6cm Twin Gun Mount, 960 ammo and 800 bauxite (All resources and Materials will be consumed upon completion)",
+		"added_update_id": 20,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": ""
+	},
+	{
+		"id": 628,
+		"api_id": 1129,
+		"code": "1129",
+		"name_jp": "潜水艦魚雷攻撃の精度向上",
+		"name_en": "Accuracy Improvement of Submarine Torpedo Attacks",
+		"desc_jp": "旗艦に配備した潜水艦の第一装備スロに「後期型艦首魚雷(6門)」(★max) 。開発資材x36、<br>新型兵装資材x2、「61cm三連装(酸素)魚雷」x4、「熟練見張員」x3、弾薬800を準備せよ！",
+		"desc_en": "Have a submarine as secretary flagship with a Late Model Bow Torpedo Mount (6 Tubes) (★max?) in the first slot and have 36x Development Material, 2x New Model Armament Material, 4x 61cm Triple (Oxygen) Torpedo Mount, 3x Skilled Lookouts, 800 ammo (All resources and Materials will be consumed upon completion)",
+		"added_update_id": null,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": ""
 	}
 ]
