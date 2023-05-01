@@ -8010,7 +8010,7 @@
 	{
 		"id": 625,
 		"api_id": 364,
-		"code": "364",
+		"code": "C74",
 		"name_jp": "精鋭第三戦隊、演習開始！",
 		"name_en": "Elite 3rd Fleet, Start Exercises!",
 		"desc_jp": "精鋭第三戦隊演習任務：「榛名改二乙/丙」「金剛改二丙」及び駆逐艦2隻以上を含む演習艦隊<br>を編成。同第三戦隊演習艦隊で本日中に演習で【S判定】勝利を4回以上達成せよ！",
@@ -8023,9 +8023,9 @@
 	{
 		"id": 626,
 		"api_id": 996,
-		"code": "996",
+		"code": "B190",
 		"name_jp": "改金剛型高速戦艦「榛名改二乙/丙」、抜錨！",
-		"name_en": "Improved Kongou-class Fast Battleship [Haruna Kai Ni B/C], Sortie!",
+		"name_en": "Improved Kongou-class Fast Battleship \"Haruna Kai Ni B/C\", Sortie!",
 		"desc_jp": "「榛名改二乙/丙」「金剛改二丙」及び駆逐艦2隻以上を含む精鋭艦隊で、バシー海峡、沖ノ島海域、<br>ジャワ島沖最深部、リランカ島、南方サブ島沖海域、サーモン海域の敵戦力を撃滅せよ！抜錨！",
 		"desc_en": "Organize a fleet with Haruna Kai Ni B/C , Kongou Kai Ni C, 2DD and 2XX in your fleet and score an S rank at the boss nodes on 2-2, 2-4, 4-3, 5-3, 5-4 and 7-5 (Part 3)",
 		"added_update_id": 20,
@@ -8036,7 +8036,7 @@
 	{
 		"id": 627,
 		"api_id": 1128,
-		"code": "1128",
+		"code": "F116",
 		"name_jp": "水上打撃戦用改良35.6cm砲の開発",
 		"name_en": "Development of Improved 35.6cm Gun Mount for Surface Combat",
 		"desc_jp": "旗艦「榛名改二乙/丙」の第一装備スロに「35.6cm連装砲改三(ダズル迷彩仕様)」 (★+3以上)。<br>開発資材x48、新型砲熕兵装資材x2、「35.6cm連装砲」x5、弾薬960、ボーキサイト800を準備！",
@@ -8049,7 +8049,7 @@
 	{
 		"id": 628,
 		"api_id": 1129,
-		"code": "1129",
+		"code": "F117",
 		"name_jp": "潜水艦魚雷攻撃の精度向上",
 		"name_en": "Accuracy Improvement of Submarine Torpedo Attacks",
 		"desc_jp": "旗艦に配備した潜水艦の第一装備スロに「後期型艦首魚雷(6門)」(★max) 。開発資材x36、<br>新型兵装資材x2、「61cm三連装(酸素)魚雷」x4、「熟練見張員」x3、弾薬800を準備せよ！",

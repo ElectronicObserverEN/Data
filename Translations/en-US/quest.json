@@ -1,5 +1,5 @@
 {
-	"version": "21030315",
+	"version": "21030316",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1737,7 +1737,7 @@
 		"desc": "Organize a fleet with 4 Mutsuki-class in your fleet and score A rank 5 times in PvP"
 	},
 	"364": {
-		"code": "364",
+		"code": "C74",
 		"name_jp": "精鋭第三戦隊、演習開始！",
 		"name": "Elite 3rd Fleet, Start Exercises!",
 		"desc_jp": "精鋭第三戦隊演習任務：「榛名改二乙/丙」「金剛改二丙」及び駆逐艦2隻以上を含む演習艦隊<br>を編成。同第三戦隊演習艦隊で本日中に演習で【S判定】勝利を4回以上達成せよ！",
@@ -4075,9 +4075,9 @@
 		"desc": "Organize a fleet with Miyuki Kai Ni and 1 Fubuki-class in your fleet and score an S rank at the boss nodes on 3-2, 5-3, 6-4 and 7-3 (Part 2)"
 	},
 	"996": {
-		"code": "996",
+		"code": "B190",
 		"name_jp": "改金剛型高速戦艦「榛名改二乙/丙」、抜錨！",
-		"name": "Improved Kongou-class Fast Battleship [Haruna Kai Ni B/C], Sortie!",
+		"name": "Improved Kongou-class Fast Battleship \"Haruna Kai Ni B/C\", Sortie!",
 		"desc_jp": "「榛名改二乙/丙」「金剛改二丙」及び駆逐艦2隻以上を含む精鋭艦隊で、バシー海峡、沖ノ島海域、<br>ジャワ島沖最深部、リランカ島、南方サブ島沖海域、サーモン海域の敵戦力を撃滅せよ！抜錨！",
 		"desc": "Organize a fleet with Haruna Kai Ni B/C , Kongou Kai Ni C, 2DD and 2XX in your fleet and score an S rank at the boss nodes on 2-2, 2-4, 4-3, 5-3, 5-4 and 7-5 (Part 3)"
 	},
@@ -4229,14 +4229,14 @@
 		"desc": "Have your secretary flagship Miyuki Kai Ni equip a Smoke Generator (Smoke Screen) in the first slot and have 2 Smoke Generator (Smoke Screen), 12 Development Materials, 1 New Model Armament Material, 480 fuel, and 350 bauxite (All resources and Materials will be consumed upon completion)"
 	},
 	"1128": {
-		"code": "1128",
+		"code": "F116",
 		"name_jp": "水上打撃戦用改良35.6cm砲の開発",
 		"name": "Development of Improved 35.6cm Gun Mount for Surface Combat",
 		"desc_jp": "旗艦「榛名改二乙/丙」の第一装備スロに「35.6cm連装砲改三(ダズル迷彩仕様)」 (★+3以上)。<br>開発資材x48、新型砲熕兵装資材x2、「35.6cm連装砲」x5、弾薬960、ボーキサイト800を準備！",
 		"desc": "Have your secretary flagship Haruna Kai Ni B/C equip a 35.6cm Twin Gun Mount Kai 3 (Dazzle Camouflage) ★+3 (or higher) in the first slot and have 48x Development Material, 2x New Model Artillery Material, 5x 35.6cm Twin Gun Mount, 960 ammo and 800 bauxite (All resources and Materials will be consumed upon completion)"
 	},
 	"1129": {
-		"code": "1129",
+		"code": "F117",
 		"name_jp": "潜水艦魚雷攻撃の精度向上",
 		"name": "Accuracy Improvement of Submarine Torpedo Attacks",
 		"desc_jp": "旗艦に配備した潜水艦の第一装備スロに「後期型艦首魚雷(6門)」(★max) 。開発資材x36、<br>新型兵装資材x2、「61cm三連装(酸素)魚雷」x4、「熟練見張員」x3、弾薬800を準備せよ！",
