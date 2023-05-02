@@ -381,7 +381,7 @@
 		"id": 1897,
 		"api_id": 55,
 		"name_jp": "紫電改二",
-		"name_en": "Shiden Kai 2",
+		"name_en": "Shiden Kai Ni",
 		"upgrade_data": "{\"eq_id\":55,\"improvement\":[{\"convert\":{\"id_after\":271,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[508],\"days\":[1,2,3,4]},{\"ship_ids\":[662],\"days\":[1,2,3,4,0]},{\"ship_ids\":[663,314],\"days\":[5,6,0]}],\"costs\":{\"fuel\":110,\"ammo\":160,\"steel\":0,\"baux\":330,\"p1\":{\"devmats\":5,\"devmats_sli\":7,\"screws\":4,\"screws_sli\":5,\"equips\":[{\"id\":55,\"eq_count\":1}],\"consumable\":[]},\"p2\":{\"devmats\":8,\"devmats_sli\":10,\"screws\":5,\"screws_sli\":7,\"equips\":[{\"id\":55,\"eq_count\":2}],\"consumable\":[]},\"conv\":{\"devmats\":13,\"devmats_sli\":20,\"screws\":7,\"screws_sli\":9,\"equips\":[{\"id\":22,\"eq_count\":2}],\"consumable\":[{\"id\":70,\"eq_count\":1},{\"id\":77,\"eq_count\":1}]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
@@ -437,8 +437,8 @@
 		"id": 1905,
 		"api_id": 63,
 		"name_jp": "12.7cm連装砲B型改二",
-		"name_en": "12.7cm Twin Gun Model B Kai 2",
-		"upgrade_data": "{\"eq_id\":63,\"improvement\":[{\"convert\":{\"id_after\":266,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[144,195],\"days\":[1,2,3]},{\"ship_ids\":[469],\"days\":[1,2,3,4]}],\"costs\":{\"fuel\":10,\"ammo\":40,\"steel\":70,\"baux\":0,\"p1\":{\"devmats\":2,\"devmats_sli\":2,\"screws\":2,\"screws_sli\":3,\"equips\":[],\"consumable\":[]},\"p2\":{\"devmats\":2,\"devmats_sli\":3,\"screws\":2,\"screws_sli\":4,\"equips\":[{\"id\":63,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":4,\"devmats_sli\":8,\"screws\":4,\"screws_sli\":7,\"equips\":[{\"id\":2,\"eq_count\":3}],\"consumable\":[]}}}],\"convert_to\":[{\"id_after\":266,\"lvl_after\":0}],\"upgrade_for\":[296,280,266]}"
+		"name_en": "12.7cm Twin Gun Model B Kai Ni",
+		"upgrade_data": "{\"eq_id\":63,\"improvement\":[{\"convert\":{\"id_after\":266,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[144,195],\"days\":[1,2,3]},{\"ship_ids\":[469],\"days\":[1,2,3,4]}],\"costs\":{\"fuel\":10,\"ammo\":40,\"steel\":70,\"baux\":0,\"p1\":{\"devmats\":2,\"devmats_sli\":2,\"screws\":2,\"screws_sli\":3,\"equips\":[],\"consumable\":[]},\"p2\":{\"devmats\":2,\"devmats_sli\":3,\"screws\":2,\"screws_sli\":4,\"equips\":[{\"id\":63,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":4,\"devmats_sli\":8,\"screws\":4,\"screws_sli\":7,\"equips\":[{\"id\":2,\"eq_count\":3}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 1906,
@@ -612,8 +612,8 @@
 		"id": 1930,
 		"api_id": 88,
 		"name_jp": "22号対水上電探改四",
-		"name_en": "Type 22 Surface RADAR Kai 4",
-		"upgrade_data": "{\"eq_id\":88,\"improvement\":[{\"helpers\":[{\"ship_ids\":[319],\"days\":[0,4,5,6]},{\"ship_ids\":[194],\"days\":[0,1,5,6]},{\"ship_ids\":[149],\"days\":[2,4,5]}],\"costs\":{\"fuel\":10,\"ammo\":0,\"steel\":40,\"baux\":40,\"p1\":{\"devmats\":5,\"devmats_sli\":8,\"screws\":3,\"screws_sli\":4,\"equips\":[{\"id\":28,\"eq_count\":1}],\"consumable\":[]},\"p2\":{\"devmats\":8,\"devmats_sli\":10,\"screws\":4,\"screws_sli\":8,\"equips\":[{\"id\":88,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[315,289,139]}"
+		"name_en": "Type 22 Surface RADAR Kai Yon",
+		"upgrade_data": "{\"eq_id\":88,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[319],\"days\":[0,4,5,6]},{\"ship_ids\":[194],\"days\":[0,1,5,6]},{\"ship_ids\":[149],\"days\":[2,4,5]}],\"costs\":{\"fuel\":10,\"ammo\":0,\"steel\":40,\"baux\":40,\"p1\":{\"devmats\":5,\"devmats_sli\":8,\"screws\":3,\"screws_sli\":4,\"equips\":[{\"id\":28,\"eq_count\":1}],\"consumable\":[]},\"p2\":{\"devmats\":8,\"devmats_sli\":10,\"screws\":4,\"screws_sli\":8,\"equips\":[{\"id\":88,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 1931,
@@ -990,8 +990,8 @@
 		"id": 1984,
 		"api_id": 142,
 		"name_jp": "15m二重測距儀+21号電探改二",
-		"name_en": "15m Duplex Rangefinder+Type 21 Air RADAR Kai 2",
-		"upgrade_data": "{\"eq_id\":142,\"improvement\":[{\"convert\":{\"id_after\":460,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[911,916],\"days\":[3,4]}],\"costs\":{\"fuel\":10,\"ammo\":0,\"steel\":200,\"baux\":150,\"p1\":{\"devmats\":12,\"devmats_sli\":15,\"screws\":5,\"screws_sli\":6,\"equips\":[{\"id\":30,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":16,\"devmats_sli\":28,\"screws\":7,\"screws_sli\":10,\"equips\":[{\"id\":89,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":30,\"devmats_sli\":45,\"screws\":9,\"screws_sli\":13,\"equips\":[{\"id\":129,\"eq_count\":4}],\"consumable\":[{\"id\":94,\"eq_count\":2},{\"id\":57,\"eq_count\":3}]}}}],\"convert_to\":[{\"id_after\":460,\"lvl_after\":0}]}"
+		"name_en": "15m Duplex Rangefinder+Type 21 Air RADAR Kai Ni",
+		"upgrade_data": "{\"eq_id\":142,\"improvement\":[{\"convert\":{\"id_after\":460,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[911,916],\"days\":[3,4]}],\"costs\":{\"fuel\":10,\"ammo\":0,\"steel\":200,\"baux\":150,\"p1\":{\"devmats\":12,\"devmats_sli\":15,\"screws\":5,\"screws_sli\":6,\"equips\":[{\"id\":30,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":16,\"devmats_sli\":28,\"screws\":7,\"screws_sli\":10,\"equips\":[{\"id\":89,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":30,\"devmats_sli\":45,\"screws\":9,\"screws_sli\":13,\"equips\":[{\"id\":129,\"eq_count\":4}],\"consumable\":[{\"id\":94,\"eq_count\":2},{\"id\":57,\"eq_count\":3}]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 1985,
@@ -1676,8 +1676,8 @@
 		"id": 2082,
 		"api_id": 240,
 		"name_jp": "22号対水上電探改四(後期調整型)",
-		"name_en": "Type 22 Surface Radar Kai 4 (Calibrated Late Model)",
-		"upgrade_data": null
+		"name_en": "Type 22 Surface Radar Kai Yon (Calibrated Late Model)",
+		"upgrade_data": "{\"eq_id\":240,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2083,
@@ -1851,15 +1851,15 @@
 		"id": 2107,
 		"api_id": 266,
 		"name_jp": "12.7cm連装砲C型改二",
-		"name_en": "12.7cm Twin Gun Model C Kai 2",
-		"upgrade_data": "{\"eq_id\":266,\"improvement\":[{\"convert\":{\"id_after\":267,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[489],\"days\":[0,1,2,3,4,5,6]},{\"ship_ids\":[490,498],\"days\":[3,4,5,6]},{\"ship_ids\":[228],\"days\":[4,5,6]}],\"costs\":{\"fuel\":10,\"ammo\":50,\"steel\":80,\"baux\":0,\"p1\":{\"devmats\":2,\"devmats_sli\":3,\"screws\":2,\"screws_sli\":3,\"equips\":[{\"id\":2,\"eq_count\":1}],\"consumable\":[]},\"p2\":{\"devmats\":3,\"devmats_sli\":4,\"screws\":3,\"screws_sli\":4,\"equips\":[{\"id\":63,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":6,\"devmats_sli\":10,\"screws\":4,\"screws_sli\":8,\"equips\":[{\"id\":28,\"eq_count\":1}],\"consumable\":[{\"id\":75,\"eq_count\":1},{\"id\":78,\"eq_count\":1}]}}},{\"convert\":{\"id_after\":470,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[670,915],\"days\":[0,1,2,3,4,5,6]}],\"costs\":{\"fuel\":10,\"ammo\":50,\"steel\":80,\"baux\":0,\"p1\":{\"devmats\":2,\"devmats_sli\":3,\"screws\":2,\"screws_sli\":3,\"equips\":[{\"id\":2,\"eq_count\":1}],\"consumable\":[]},\"p2\":{\"devmats\":3,\"devmats_sli\":4,\"screws\":3,\"screws_sli\":4,\"equips\":[{\"id\":63,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":5,\"devmats_sli\":13,\"screws\":4,\"screws_sli\":7,\"equips\":[{\"id\":45,\"eq_count\":2}],\"consumable\":[{\"id\":75,\"eq_count\":1},{\"id\":94,\"eq_count\":1}]}}}],\"convert_to\":[{\"id_after\":267,\"lvl_after\":0},{\"id_after\":470,\"lvl_after\":0}],\"upgrade_for\":[470,267]}"
+		"name_en": "12.7cm Twin Gun Model C Kai Ni",
+		"upgrade_data": "{\"eq_id\":266,\"improvement\":[{\"convert\":{\"id_after\":267,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[489],\"days\":[0,1,2,3,4,5,6]},{\"ship_ids\":[490,498],\"days\":[3,4,5,6]},{\"ship_ids\":[228],\"days\":[4,5,6]}],\"costs\":{\"fuel\":10,\"ammo\":50,\"steel\":80,\"baux\":0,\"p1\":{\"devmats\":2,\"devmats_sli\":3,\"screws\":2,\"screws_sli\":3,\"equips\":[{\"id\":2,\"eq_count\":1}],\"consumable\":[]},\"p2\":{\"devmats\":3,\"devmats_sli\":4,\"screws\":3,\"screws_sli\":4,\"equips\":[{\"id\":63,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":6,\"devmats_sli\":10,\"screws\":4,\"screws_sli\":8,\"equips\":[{\"id\":28,\"eq_count\":1}],\"consumable\":[{\"id\":75,\"eq_count\":1},{\"id\":78,\"eq_count\":1}]}}},{\"convert\":{\"id_after\":470,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[670,915],\"days\":[0,1,2,3,4,5,6]}],\"costs\":{\"fuel\":10,\"ammo\":50,\"steel\":80,\"baux\":0,\"p1\":{\"devmats\":2,\"devmats_sli\":3,\"screws\":2,\"screws_sli\":3,\"equips\":[{\"id\":2,\"eq_count\":1}],\"consumable\":[]},\"p2\":{\"devmats\":3,\"devmats_sli\":4,\"screws\":3,\"screws_sli\":4,\"equips\":[{\"id\":63,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":5,\"devmats_sli\":13,\"screws\":4,\"screws_sli\":7,\"equips\":[{\"id\":45,\"eq_count\":2}],\"consumable\":[{\"id\":75,\"eq_count\":1},{\"id\":94,\"eq_count\":1}]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2108,
 		"api_id": 267,
 		"name_jp": "12.7cm連装砲D型改二",
-		"name_en": "12.7cm Twin Gun Model D Kai 2",
-		"upgrade_data": "{\"eq_id\":267,\"improvement\":[{\"helpers\":[{\"ship_ids\":[543],\"days\":[0,1,2,3,4,5,6]},{\"ship_ids\":[302],\"days\":[0,3,4]},{\"ship_ids\":[542],\"days\":[0,4,5,6]}],\"costs\":{\"fuel\":20,\"ammo\":70,\"steel\":90,\"baux\":20,\"p1\":{\"devmats\":6,\"devmats_sli\":7,\"screws\":5,\"screws_sli\":6,\"equips\":[{\"id\":3,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":7,\"devmats_sli\":10,\"screws\":6,\"screws_sli\":9,\"equips\":[{\"id\":266,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[]}"
+		"name_en": "12.7cm Twin Gun Model D Kai Ni",
+		"upgrade_data": "{\"eq_id\":267,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[543],\"days\":[0,1,2,3,4,5,6]},{\"ship_ids\":[302],\"days\":[0,3,4]},{\"ship_ids\":[542],\"days\":[0,4,5,6]}],\"costs\":{\"fuel\":20,\"ammo\":70,\"steel\":90,\"baux\":20,\"p1\":{\"devmats\":6,\"devmats_sli\":7,\"screws\":5,\"screws_sli\":6,\"equips\":[{\"id\":3,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":7,\"devmats_sli\":10,\"screws\":6,\"screws_sli\":9,\"equips\":[{\"id\":266,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2109,
@@ -1886,8 +1886,8 @@
 		"id": 2112,
 		"api_id": 271,
 		"name_jp": "紫電改四",
-		"name_en": "Shiden Kai 4",
-		"upgrade_data": "{\"eq_id\":271,\"improvement\":[{\"helpers\":[{\"ship_ids\":[509],\"days\":[1,2,3,4]}],\"costs\":{\"fuel\":130,\"ammo\":180,\"steel\":0,\"baux\":370,\"p1\":{\"devmats\":8,\"devmats_sli\":10,\"screws\":5,\"screws_sli\":6,\"equips\":[{\"id\":55,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":13,\"devmats_sli\":18,\"screws\":7,\"screws_sli\":10,\"equips\":[{\"id\":22,\"eq_count\":2}],\"consumable\":[]}}}],\"convert_to\":[]}"
+		"name_en": "Shiden Kai Yon",
+		"upgrade_data": "{\"eq_id\":271,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[509],\"days\":[1,2,3,4]}],\"costs\":{\"fuel\":130,\"ammo\":180,\"steel\":0,\"baux\":370,\"p1\":{\"devmats\":8,\"devmats_sli\":10,\"screws\":5,\"screws_sli\":6,\"equips\":[{\"id\":55,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":13,\"devmats_sli\":18,\"screws\":7,\"screws_sli\":10,\"equips\":[{\"id\":22,\"eq_count\":2}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2113,
@@ -1907,8 +1907,8 @@
 		"id": 2115,
 		"api_id": 274,
 		"name_jp": "12cm30連装噴進砲改二",
-		"name_en": "12cm 30-tube Rocket Launcher Kai 2",
-		"upgrade_data": "{\"eq_id\":274,\"improvement\":[{\"helpers\":[{\"ship_ids\":[82],\"days\":[1,2]},{\"ship_ids\":[553],\"days\":[0,1,2]},{\"ship_ids\":[88],\"days\":[3,4]},{\"ship_ids\":[554],\"days\":[1,2]}],\"costs\":{\"fuel\":90,\"ammo\":300,\"steel\":90,\"baux\":190,\"p1\":{\"devmats\":5,\"devmats_sli\":7,\"screws\":4,\"screws_sli\":5,\"equips\":[{\"id\":40,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":7,\"devmats_sli\":15,\"screws\":5,\"screws_sli\":7,\"equips\":[{\"id\":51,\"eq_count\":2}],\"consumable\":[]}}}],\"convert_to\":[]}"
+		"name_en": "12cm 30-tube Rocket Launcher Kai Ni",
+		"upgrade_data": "{\"eq_id\":274,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[82],\"days\":[1,2]},{\"ship_ids\":[553],\"days\":[0,1,2]},{\"ship_ids\":[88],\"days\":[3,4]},{\"ship_ids\":[554],\"days\":[1,2]}],\"costs\":{\"fuel\":90,\"ammo\":300,\"steel\":90,\"baux\":190,\"p1\":{\"devmats\":5,\"devmats_sli\":7,\"screws\":4,\"screws_sli\":5,\"equips\":[{\"id\":40,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":7,\"devmats_sli\":15,\"screws\":5,\"screws_sli\":7,\"equips\":[{\"id\":51,\"eq_count\":2}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2116,
@@ -2019,8 +2019,8 @@
 		"id": 2131,
 		"api_id": 290,
 		"name_jp": "41cm三連装砲改二",
-		"name_en": "41cm Triple Gun Kai 2",
-		"upgrade_data": "{\"eq_id\":290,\"improvement\":[{\"helpers\":[{\"ship_ids\":[553],\"days\":[3,4,5,6]}],\"costs\":{\"fuel\":45,\"ammo\":460,\"steel\":720,\"baux\":50,\"p1\":{\"devmats\":8,\"devmats_sli\":10,\"screws\":7,\"screws_sli\":7,\"equips\":[{\"id\":8,\"eq_count\":3}],\"consumable\":[]},\"p2\":{\"devmats\":14,\"devmats_sli\":41,\"screws\":10,\"screws_sli\":13,\"equips\":[{\"id\":105,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[]}"
+		"name_en": "41cm Triple Gun Kai Ni",
+		"upgrade_data": "{\"eq_id\":290,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[553],\"days\":[3,4,5,6]}],\"costs\":{\"fuel\":45,\"ammo\":460,\"steel\":720,\"baux\":50,\"p1\":{\"devmats\":8,\"devmats_sli\":10,\"screws\":7,\"screws_sli\":7,\"equips\":[{\"id\":8,\"eq_count\":3}],\"consumable\":[]},\"p2\":{\"devmats\":14,\"devmats_sli\":41,\"screws\":10,\"screws_sli\":13,\"equips\":[{\"id\":105,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2132,
@@ -2040,29 +2040,29 @@
 		"id": 2134,
 		"api_id": 293,
 		"name_jp": "12cm単装砲改二",
-		"name_en": "12cm Single Gun Kai 2",
-		"upgrade_data": "{\"eq_id\":293,\"improvement\":[{\"helpers\":[{\"ship_ids\":[434],\"days\":[1,2,3,4,5]},{\"ship_ids\":[435],\"days\":[0,3,4,5,6]}],\"costs\":{\"fuel\":10,\"ammo\":30,\"steel\":50,\"baux\":10,\"p1\":{\"devmats\":3,\"devmats_sli\":4,\"screws\":2,\"screws_sli\":2,\"equips\":[{\"id\":1,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":4,\"devmats_sli\":5,\"screws\":2,\"screws_sli\":4,\"equips\":[{\"id\":28,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[]}"
+		"name_en": "12cm Single Gun Kai Ni",
+		"upgrade_data": "{\"eq_id\":293,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[434],\"days\":[1,2,3,4,5]},{\"ship_ids\":[435],\"days\":[0,3,4,5,6]}],\"costs\":{\"fuel\":10,\"ammo\":30,\"steel\":50,\"baux\":10,\"p1\":{\"devmats\":3,\"devmats_sli\":4,\"screws\":2,\"screws_sli\":2,\"equips\":[{\"id\":1,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":4,\"devmats_sli\":5,\"screws\":2,\"screws_sli\":4,\"equips\":[{\"id\":28,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2135,
 		"api_id": 294,
 		"name_jp": "12.7cm連装砲A型改二",
-		"name_en": "12.7cm Twin Gun Model A Kai 2",
-		"upgrade_data": "{\"eq_id\":294,\"improvement\":[{\"helpers\":[{\"ship_ids\":[426],\"days\":[0,1,2,3,4,5,6]},{\"ship_ids\":[420],\"days\":[3,4,5,6]}],\"costs\":{\"fuel\":10,\"ammo\":40,\"steel\":70,\"baux\":0,\"p1\":{\"devmats\":2,\"devmats_sli\":3,\"screws\":2,\"screws_sli\":2,\"equips\":[{\"id\":297,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":3,\"devmats_sli\":4,\"screws\":3,\"screws_sli\":5,\"equips\":[{\"id\":3,\"eq_count\":2}],\"consumable\":[]},\"conv\":{\"devmats\":0,\"devmats_sli\":0,\"screws\":0,\"screws_sli\":0,\"equips\":[],\"consumable\":[]}}},{\"convert\":{\"id_after\":455,\"lvl_after\":1},\"helpers\":[{\"ship_ids\":[647],\"days\":[0,6]}],\"costs\":{\"fuel\":10,\"ammo\":40,\"steel\":70,\"baux\":10,\"p1\":{\"devmats\":2,\"devmats_sli\":3,\"screws\":2,\"screws_sli\":2,\"equips\":[{\"id\":297,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":3,\"devmats_sli\":4,\"screws\":3,\"screws_sli\":5,\"equips\":[{\"id\":3,\"eq_count\":2}],\"consumable\":[]},\"conv\":{\"devmats\":9,\"devmats_sli\":17,\"screws\":8,\"screws_sli\":9,\"equips\":[{\"id\":294,\"eq_count\":1}],\"consumable\":[{\"id\":75,\"eq_count\":1}]}}},{\"convert\":{\"id_after\":295,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[666],\"days\":[4,5,6]}],\"costs\":{\"fuel\":10,\"ammo\":40,\"steel\":70,\"baux\":10,\"p1\":{\"devmats\":2,\"devmats_sli\":3,\"screws\":2,\"screws_sli\":2,\"equips\":[{\"id\":297,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":3,\"devmats_sli\":4,\"screws\":3,\"screws_sli\":5,\"equips\":[{\"id\":3,\"eq_count\":2}],\"consumable\":[]},\"conv\":{\"devmats\":11,\"devmats_sli\":18,\"screws\":8,\"screws_sli\":11,\"equips\":[{\"id\":121,\"eq_count\":1}],\"consumable\":[{\"id\":75,\"eq_count\":1},{\"id\":78,\"eq_count\":1}]}}}],\"convert_to\":[{\"id_after\":455,\"lvl_after\":1},{\"id_after\":295,\"lvl_after\":0}],\"upgrade_for\":[455,295]}"
+		"name_en": "12.7cm Twin Gun Model A Kai Ni",
+		"upgrade_data": "{\"eq_id\":294,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[426],\"days\":[0,1,2,3,4,5,6]},{\"ship_ids\":[420],\"days\":[3,4,5,6]}],\"costs\":{\"fuel\":10,\"ammo\":40,\"steel\":70,\"baux\":0,\"p1\":{\"devmats\":2,\"devmats_sli\":3,\"screws\":2,\"screws_sli\":2,\"equips\":[{\"id\":297,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":3,\"devmats_sli\":4,\"screws\":3,\"screws_sli\":5,\"equips\":[{\"id\":3,\"eq_count\":2}],\"consumable\":[]},\"conv\":{\"devmats\":0,\"devmats_sli\":0,\"screws\":0,\"screws_sli\":0,\"equips\":[],\"consumable\":[]}}},{\"convert\":{\"id_after\":455,\"lvl_after\":1},\"helpers\":[{\"ship_ids\":[647],\"days\":[0,6]}],\"costs\":{\"fuel\":10,\"ammo\":40,\"steel\":70,\"baux\":10,\"p1\":{\"devmats\":2,\"devmats_sli\":3,\"screws\":2,\"screws_sli\":2,\"equips\":[{\"id\":297,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":3,\"devmats_sli\":4,\"screws\":3,\"screws_sli\":5,\"equips\":[{\"id\":3,\"eq_count\":2}],\"consumable\":[]},\"conv\":{\"devmats\":9,\"devmats_sli\":17,\"screws\":8,\"screws_sli\":9,\"equips\":[{\"id\":294,\"eq_count\":1}],\"consumable\":[{\"id\":75,\"eq_count\":1}]}}},{\"convert\":{\"id_after\":295,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[666],\"days\":[4,5,6]}],\"costs\":{\"fuel\":10,\"ammo\":40,\"steel\":70,\"baux\":10,\"p1\":{\"devmats\":2,\"devmats_sli\":3,\"screws\":2,\"screws_sli\":2,\"equips\":[{\"id\":297,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":3,\"devmats_sli\":4,\"screws\":3,\"screws_sli\":5,\"equips\":[{\"id\":3,\"eq_count\":2}],\"consumable\":[]},\"conv\":{\"devmats\":11,\"devmats_sli\":18,\"screws\":8,\"screws_sli\":11,\"equips\":[{\"id\":121,\"eq_count\":1}],\"consumable\":[{\"id\":75,\"eq_count\":1},{\"id\":78,\"eq_count\":1}]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2136,
 		"api_id": 295,
 		"name_jp": "12.7cm連装砲A型改三(戦時改修)+高射装置",
-		"name_en": "12.7cm Twin Gun Model A Kai 3 (Wartime Modification) + AAFD",
-		"upgrade_data": "{\"eq_id\":295,\"improvement\":[{\"helpers\":[{\"ship_ids\":[426],\"days\":[0,6]},{\"ship_ids\":[666],\"days\":[0,1,5,6]},{\"ship_ids\":[368],\"days\":[0,4,5,6]}],\"costs\":{\"fuel\":10,\"ammo\":70,\"steel\":160,\"baux\":70,\"p1\":{\"devmats\":8,\"devmats_sli\":9,\"screws\":4,\"screws_sli\":5,\"equips\":[{\"id\":3,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":9,\"devmats_sli\":10,\"screws\":6,\"screws_sli\":9,\"equips\":[{\"id\":294,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[]}"
+		"name_en": "12.7cm Twin Gun Model A Kai San (Wartime Modification) + AAFD",
+		"upgrade_data": "{\"eq_id\":295,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[426],\"days\":[0,6]},{\"ship_ids\":[666],\"days\":[0,1,5,6]},{\"ship_ids\":[368],\"days\":[0,4,5,6]}],\"costs\":{\"fuel\":10,\"ammo\":70,\"steel\":160,\"baux\":70,\"p1\":{\"devmats\":8,\"devmats_sli\":9,\"screws\":4,\"screws_sli\":5,\"equips\":[{\"id\":3,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":9,\"devmats_sli\":10,\"screws\":6,\"screws_sli\":9,\"equips\":[{\"id\":294,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2137,
 		"api_id": 296,
 		"name_jp": "12.7cm連装砲B型改四(戦時改修)+高射装置",
-		"name_en": "12.7cm Twin Gun Model B Kai 4 (Wartime Modification) + AAFD",
-		"upgrade_data": "{\"eq_id\":296,\"improvement\":[{\"helpers\":[{\"ship_ids\":[627],\"days\":[0,1,2,3,4,5,6]}],\"costs\":{\"fuel\":30,\"ammo\":90,\"steel\":130,\"baux\":50,\"p1\":{\"devmats\":10,\"devmats_sli\":12,\"screws\":6,\"screws_sli\":6,\"equips\":[{\"id\":63,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":15,\"devmats_sli\":30,\"screws\":7,\"screws_sli\":9,\"equips\":[{\"id\":121,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[]}"
+		"name_en": "12.7cm Twin Gun Model B Kai Yon (Wartime Modification) + AAFD",
+		"upgrade_data": "{\"eq_id\":296,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[627],\"days\":[0,1,2,3,4,5,6]}],\"costs\":{\"fuel\":30,\"ammo\":90,\"steel\":130,\"baux\":50,\"p1\":{\"devmats\":10,\"devmats_sli\":12,\"screws\":6,\"screws_sli\":6,\"equips\":[{\"id\":63,\"eq_count\":2}],\"consumable\":[]},\"p2\":{\"devmats\":15,\"devmats_sli\":30,\"screws\":7,\"screws_sli\":9,\"equips\":[{\"id\":121,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2138,
@@ -2124,15 +2124,15 @@
 		"id": 2146,
 		"api_id": 305,
 		"name_jp": "Ju87C改二(KMX搭載機)",
-		"name_en": "Ju 87C Kai 2 (KMX)",
-		"upgrade_data": null
+		"name_en": "Ju 87C Kai Ni (KMX)",
+		"upgrade_data": "{\"eq_id\":305,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2147,
 		"api_id": 306,
 		"name_jp": "Ju87C改二(KMX搭載機/熟練)",
-		"name_en": "Ju 87C Kai 2 (KMX/Skilled)",
-		"upgrade_data": null
+		"name_en": "Ju 87C Kai Ni (KMX/Skilled)",
+		"upgrade_data": "{\"eq_id\":306,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2148,
@@ -2544,8 +2544,8 @@
 		"id": 2206,
 		"api_id": 366,
 		"name_jp": "12.7cm連装砲D型改三",
-		"name_en": "12.7cm Twin Gun Model D Kai 3",
-		"upgrade_data": null
+		"name_en": "12.7cm Twin Gun Model D Kai San",
+		"upgrade_data": "{\"eq_id\":366,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2207,
@@ -3160,8 +3160,8 @@
 		"id": 2294,
 		"api_id": 455,
 		"name_jp": "試製 長12.7cm連装砲A型改四",
-		"name_en": "Prototype Long-barrel 12.7cm Twin Gun Mount Model A Kai 4",
-		"upgrade_data": "{\"eq_id\":455,\"improvement\":[{\"helpers\":[{\"ship_ids\":[647],\"days\":[0,4,5,6]}],\"costs\":{\"fuel\":10,\"ammo\":70,\"steel\":100,\"baux\":20,\"p1\":{\"devmats\":5,\"devmats_sli\":6,\"screws\":3,\"screws_sli\":3,\"equips\":[{\"id\":297,\"eq_count\":3}],\"consumable\":[]},\"p2\":{\"devmats\":7,\"devmats_sli\":8,\"screws\":3,\"screws_sli\":6,\"equips\":[{\"id\":294,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[]}"
+		"name_en": "Prototype Long-barrel 12.7cm Twin Gun Mount Model A Kai Yon",
+		"upgrade_data": "{\"eq_id\":455,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[647],\"days\":[0,4,5,6]}],\"costs\":{\"fuel\":10,\"ammo\":70,\"steel\":100,\"baux\":20,\"p1\":{\"devmats\":5,\"devmats_sli\":6,\"screws\":3,\"screws_sli\":3,\"equips\":[{\"id\":297,\"eq_count\":3}],\"consumable\":[]},\"p2\":{\"devmats\":7,\"devmats_sli\":8,\"screws\":3,\"screws_sli\":6,\"equips\":[{\"id\":294,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2295,
@@ -3258,8 +3258,8 @@
 		"id": 2308,
 		"api_id": 470,
 		"name_jp": "12.7cm連装砲C型改三",
-		"name_en": "12.7cm Twin Gun Model C Kai 3",
-		"upgrade_data": "{\"eq_id\":470,\"improvement\":[{\"helpers\":[{\"ship_ids\":[670],\"days\":[1,2,3,4]},{\"ship_ids\":[915],\"days\":[3,4,5,6]}],\"costs\":{\"fuel\":20,\"ammo\":60,\"steel\":90,\"baux\":20,\"p1\":{\"devmats\":5,\"devmats_sli\":7,\"screws\":5,\"screws_sli\":5,\"equips\":[{\"id\":2,\"eq_count\":3}],\"consumable\":[]},\"p2\":{\"devmats\":8,\"devmats_sli\":12,\"screws\":6,\"screws_sli\":8,\"equips\":[{\"id\":266,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[]}"
+		"name_en": "12.7cm Twin Gun Model C Kai San",
+		"upgrade_data": "{\"eq_id\":470,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[670],\"days\":[1,2,3,4]},{\"ship_ids\":[915],\"days\":[3,4,5,6]}],\"costs\":{\"fuel\":20,\"ammo\":60,\"steel\":90,\"baux\":20,\"p1\":{\"devmats\":5,\"devmats_sli\":7,\"screws\":5,\"screws_sli\":5,\"equips\":[{\"id\":2,\"eq_count\":3}],\"consumable\":[]},\"p2\":{\"devmats\":8,\"devmats_sli\":12,\"screws\":6,\"screws_sli\":8,\"equips\":[{\"id\":266,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2309,
@@ -3993,15 +3993,15 @@
 		"id": 2413,
 		"api_id": 1586,
 		"name_jp": "深海攻撃哨戒鷹改二",
-		"name_en": "Abyssal Patrolling Attack Hawk Kai 2",
-		"upgrade_data": null
+		"name_en": "Abyssal Patrolling Attack Hawk Kai Ni",
+		"upgrade_data": "{\"eq_id\":1586,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2414,
 		"api_id": 1587,
 		"name_jp": "深海16inch三連装砲改二",
-		"name_en": "Abyssal 16inch Triple Gun Kai 2",
-		"upgrade_data": null
+		"name_en": "Abyssal 16inch Triple Gun Kai Ni",
+		"upgrade_data": "{\"eq_id\":1587,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2415,
@@ -4448,7 +4448,14 @@
 		"id": 2479,
 		"api_id": 502,
 		"name_jp": "35.6cm連装砲改三(ダズル迷彩仕様)",
-		"name_en": "35.6cm Twin Gun Mount Kai 3 (Dazzle Camouflage Specification)",
+		"name_en": "35.6cm Twin Gun Mount Kai San (Dazzle Camouflage Specification)",
 		"upgrade_data": "{\"eq_id\":502,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
+	},
+	{
+		"id": 2480,
+		"api_id": 503,
+		"name_jp": "35.6cm連装砲改四",
+		"name_en": "35.6cm Twin Gun Mount Kai Yon",
+		"upgrade_data": "{\"eq_id\":503,\"improvement\":[],\"convert_to\":[],\"upgrade_for\":[]}"
 	}
 ]
