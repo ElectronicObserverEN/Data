@@ -1,5 +1,5 @@
 {
-	"version": "21030317",
+	"version": "21030318",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1991,7 +1991,7 @@
 	"437": {
 		"code": "D34",
 		"name_jp": "小笠原沖哨戒線の強化を実施せよ！",
-		"name": "Strengthen the Ogasawara Corstal Patrol Line!",
+		"name": "Strengthen the Ogasawara Coastal Patrol Line!",
 		"desc_jp": "小笠原沖哨戒線任務：「対潜警戒任務」「小笠原沖哨戒線遠征」「小笠原沖戦闘哨戒」<br>「南西方面航空偵察作戦」の各遠征任務を軽巡・駆逐艦など実施、これを成功させよ！",
 		"desc": "Complete Expeditions 4, A5, A6, and B1 once each."
 	},
