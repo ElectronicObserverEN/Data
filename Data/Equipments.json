@@ -872,7 +872,7 @@
 		"api_id": 125,
 		"name_jp": "61cm三連装(酸素)魚雷",
 		"name_en": "61cm Triple (Oxygen) Torpedo",
-		"upgrade_data": "{\"eq_id\":125,\"improvement\":[{\"convert\":{\"id_after\":285,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[426],\"days\":[4,5]},{\"ship_ids\":[666,647],\"days\":[1,2,3]},{\"ship_ids\":[195],\"days\":[0,4,5,6]},{\"ship_ids\":[627],\"days\":[0,5,6]}],\"costs\":{\"fuel\":60,\"ammo\":90,\"steel\":60,\"baux\":20,\"p1\":{\"devmats\":1,\"devmats_sli\":2,\"screws\":1,\"screws_sli\":1,\"equips\":[],\"consumable\":[]},\"p2\":{\"devmats\":3,\"devmats_sli\":5,\"screws\":1,\"screws_sli\":3,\"equips\":[{\"id\":13,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":9,\"devmats_sli\":16,\"screws\":6,\"screws_sli\":9,\"equips\":[{\"id\":125,\"eq_count\":3}],\"consumable\":[{\"id\":94,\"eq_count\":2},{\"id\":57,\"eq_count\":2}]}}}],\"convert_to\":[{\"id_after\":285,\"lvl_after\":0}],\"upgrade_for\":[285]}"
+		"upgrade_data": "{\"eq_id\":125,\"improvement\":[{\"convert\":{\"id_after\":285,\"lvl_after\":0},\"helpers\":[{\"ship_ids\":[426],\"days\":[4,5]},{\"ship_ids\":[666,647],\"days\":[1,2,3]},{\"ship_ids\":[195],\"days\":[0,4,5,6]},{\"ship_ids\":[627],\"days\":[0,5,6]},{\"ship_ids\":[959],\"days\":[0,1,2,3]}],\"costs\":{\"fuel\":60,\"ammo\":90,\"steel\":60,\"baux\":20,\"p1\":{\"devmats\":1,\"devmats_sli\":2,\"screws\":1,\"screws_sli\":1,\"equips\":[],\"consumable\":[]},\"p2\":{\"devmats\":3,\"devmats_sli\":5,\"screws\":1,\"screws_sli\":3,\"equips\":[{\"id\":13,\"eq_count\":1}],\"consumable\":[]},\"conv\":{\"devmats\":9,\"devmats_sli\":16,\"screws\":6,\"screws_sli\":9,\"equips\":[{\"id\":125,\"eq_count\":3}],\"consumable\":[{\"id\":94,\"eq_count\":2},{\"id\":57,\"eq_count\":2}]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 1968,
@@ -1985,7 +1985,7 @@
 		"api_id": 285,
 		"name_jp": "61cm三連装(酸素)魚雷後期型",
 		"name_en": "61cm Triple (Oxygen) Torpedo Mount Late Model",
-		"upgrade_data": "{\"eq_id\":285,\"improvement\":[{\"helpers\":[{\"ship_ids\":[419],\"days\":[4,5,6]},{\"ship_ids\":[195],\"days\":[0,5,6]},{\"ship_ids\":[666],\"days\":[2,3,4]}],\"costs\":{\"fuel\":120,\"ammo\":180,\"steel\":90,\"baux\":60,\"p1\":{\"devmats\":5,\"devmats_sli\":6,\"screws\":3,\"screws_sli\":4,\"equips\":[{\"id\":13,\"eq_count\":3}],\"consumable\":[]},\"p2\":{\"devmats\":6,\"devmats_sli\":9,\"screws\":5,\"screws_sli\":7,\"equips\":[{\"id\":125,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[]}"
+		"upgrade_data": "{\"eq_id\":285,\"improvement\":[{\"convert\":null,\"helpers\":[{\"ship_ids\":[419],\"days\":[4,5,6]},{\"ship_ids\":[195],\"days\":[0,5,6]},{\"ship_ids\":[666],\"days\":[2,3,4]},{\"ship_ids\":[959],\"days\":[0,1,2,3]}],\"costs\":{\"fuel\":120,\"ammo\":180,\"steel\":90,\"baux\":60,\"p1\":{\"devmats\":5,\"devmats_sli\":6,\"screws\":3,\"screws_sli\":4,\"equips\":[{\"id\":13,\"eq_count\":3}],\"consumable\":[]},\"p2\":{\"devmats\":6,\"devmats_sli\":9,\"screws\":5,\"screws_sli\":7,\"equips\":[{\"id\":125,\"eq_count\":1}],\"consumable\":[]}}}],\"convert_to\":[],\"upgrade_for\":[]}"
 	},
 	{
 		"id": 2127,
