@@ -3087,11 +3087,11 @@
 		"name_jp": "「精鋭軽巡」演習！",
 		"name_en": "Elite Light Cruiser Exercise",
 		"desc_jp": "旗艦に軽巡級(雷巡を除く)、旗艦含む3隻以上の軽巡級と随伴駆逐艦2隻を配備した軽巡演習艦隊を<br>編成、同艦隊により本日中に演習で【A判定】以上の勝利を4回以上達成せよ！",
-		"desc_en": "Organize a fleet with 3 CL/CT (one as flagship), 2 DD, 1 XX and score 4 A+ ranks in PVP on the same day.",
+		"desc_en": "Organize a fleet with a CL/CT as flagship, 2 CL/CT/CLT, 2 DD, 1 XX and score 4 A+ ranks in PVP on the same day.",
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[348],[[9,[5,4]]],[0,[[2,[[3,21],1,true,0]],[2,[[3,21,4],3,false,0]],[2,[[2],2,false,0]]]]]"
 	},
 	{
 		"id": 245,
@@ -3130,7 +3130,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[351],[[9,[5,4]]],[0,[[7,[501,true,1,0]],[2,[[2],3,false,0]]]]]"
 	},
 	{
 		"id": 248,
@@ -7563,7 +7563,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[1101],[[3,[2,8]]],[0,[]]]"
 	},
 	{
 		"id": 589,
@@ -7576,7 +7576,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[1102],[[3,[1,7]]],[0,[]]]"
 	},
 	{
 		"id": 590,
