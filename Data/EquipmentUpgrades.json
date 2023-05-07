@@ -685,7 +685,7 @@
 			},
 			{
 				"convert": {"id_after":80,"lvl_after":0},
-				"helpers": [{"ship_ids":[501,506],"days":[1,2,3,4]}],
+				"helpers": [{"ship_ids":[501,506],"days":[2,3,4]}],
 				"costs": {"fuel":160,"ammo":160,"steel":0,"baux":360,"p1":{"devmats":5,"devmats_sli":7,"screws":3,"screws_sli":4,"equips":[{"id":26,"eq_count":1}],"consumable":[]},"p2":{"devmats":6,"devmats_sli":9,"screws":5,"screws_sli":7,"equips":[{"id":26,"eq_count":1}],"consumable":[]},"conv":{"devmats":14,"devmats_sli":18,"screws":7,"screws_sli":9,"equips":[{"id":26,"eq_count":2}],"consumable":[{"id":77,"eq_count":1}]}}
 			}
 		],
@@ -1317,7 +1317,7 @@
 		"improvement": [
 			{
 				"convert": {"id_after":139,"lvl_after":0},
-				"helpers": [{"ship_ids":[137,305],"days":[4,5,6]},{"ship_ids":[138,306],"days":[0,1,5,6]},{"ship_ids":[139,307,663,668],"days":[1,2,3,4]},{"ship_ids":[662],"days":[1,5,6]}],
+				"helpers": [{"ship_ids":[137,305],"days":[4,5,6]},{"ship_ids":[138,306],"days":[0,1,5,6]},{"ship_ids":[139,307,663,668],"days":[1,2,3,4]},{"ship_ids":[662],"days":[5,6]}],
 				"costs": {"fuel":10,"ammo":70,"steel":100,"baux":0,"p1":{"devmats":2,"devmats_sli":2,"screws":2,"screws_sli":3,"equips":[],"consumable":[]},"p2":{"devmats":2,"devmats_sli":3,"screws":2,"screws_sli":4,"equips":[{"id":65,"eq_count":1}],"consumable":[]},"conv":{"devmats":5,"devmats_sli":8,"screws":4,"screws_sli":10,"equips":[{"id":28,"eq_count":1}],"consumable":[]}}
 			}
 		],
@@ -3670,7 +3670,7 @@
 		"improvement": [
 			{
 				"convert": null,
-				"helpers": [{"ship_ids":[419],"days":[4,5,6]},{"ship_ids":[195],"days":[0,5,6]},{"ship_ids":[666],"days":[2,3,4]},{"ship_ids":[959],"days":[0,1,2,3]}],
+				"helpers": [{"ship_ids":[419],"days":[4,5,6]},{"ship_ids":[195],"days":[0,5,6]},{"ship_ids":[666],"days":[2,3,4]},{"ship_ids":[959],"days":[0,1,2,3,6]}],
 				"costs": {"fuel":120,"ammo":180,"steel":90,"baux":60,"p1":{"devmats":5,"devmats_sli":6,"screws":3,"screws_sli":4,"equips":[{"id":13,"eq_count":3}],"consumable":[]},"p2":{"devmats":6,"devmats_sli":9,"screws":5,"screws_sli":7,"equips":[{"id":125,"eq_count":1}],"consumable":[]}}
 			}
 		],
