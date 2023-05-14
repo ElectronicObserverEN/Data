@@ -1,5 +1,5 @@
 {
-	"version": "21030319",
+	"version": "21030320",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3155,7 +3155,7 @@
 		"name_jp": "輸送作戦を成功させ、帰還せよ！",
 		"name": "Report the Success of a Transport Operation!",
 		"desc_jp": "「鬼怒改二」を旗艦、僚艦に「浦波改」他駆逐艦3隻の計5隻の艦隊で<br>バシー島沖における柳輸送作戦を実施、同輸送作戦を完全成功させ、帰還せよ！",
-		"desc": "Sortie Kinu Kai Ni, Uranami Kai, 3 destroyers, and one wildcard and score an S-rank victory against World 2-2 Boss."
+		"desc": "Organize a fleet with Kinu Kai Ni as flagship, Uranami Kai, 3DD and another ship that is not a Destroyer in your fleet and score an S rank at the boss node on 2-2"
 	},
 	"838": {
 		"code": "B87",
