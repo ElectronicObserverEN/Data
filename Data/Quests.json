@@ -3039,7 +3039,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[344],[[9,[5,4]]],[0,[[8,[[[471,false,0,0],[64,false,0,0],[65,false,0,0]],2]]]]]"
 	},
 	{
 		"id": 241,
@@ -3087,11 +3087,11 @@
 		"name_jp": "「精鋭軽巡」演習！",
 		"name_en": "Elite Light Cruiser Exercise",
 		"desc_jp": "旗艦に軽巡級(雷巡を除く)、旗艦含む3隻以上の軽巡級と随伴駆逐艦2隻を配備した軽巡演習艦隊を<br>編成、同艦隊により本日中に演習で【A判定】以上の勝利を4回以上達成せよ！",
-		"desc_en": "Organize a fleet with 3 CL/CT (one as flagship), 2 DD, 1 XX and score 4 A+ ranks in PVP on the same day.",
+		"desc_en": "Organize a fleet with a CL/CT as flagship, 2 CL/CT/CLT, 2 DD, 1 XX and score 4 A+ ranks in PVP on the same day.",
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[348],[[9,[5,4]]],[0,[[2,[[3,21],1,true,0]],[2,[[3,21,4],3,false,0]],[2,[[2],2,false,0]]]]]"
 	},
 	{
 		"id": 245,
@@ -3130,7 +3130,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[351],[[9,[5,4]]],[0,[[7,[501,true,1,0]],[2,[[2],3,false,0]]]]]"
 	},
 	{
 		"id": 248,
@@ -3683,7 +3683,7 @@
 		"api_id": 437,
 		"code": "D34",
 		"name_jp": "小笠原沖哨戒線の強化を実施せよ！",
-		"name_en": "Strengthen the Ogasawara Corstal Patrol Line!",
+		"name_en": "Strengthen the Ogasawara Coastal Patrol Line!",
 		"desc_jp": "小笠原沖哨戒線任務：「対潜警戒任務」「小笠原沖哨戒線遠征」「小笠原沖戦闘哨戒」<br>「南西方面航空偵察作戦」の各遠征任務を軽巡・駆逐艦など実施、これを成功させよ！",
 		"desc_en": "Complete Expeditions 4, A5, A6, and B1 once each.",
 		"added_update_id": null,
@@ -5843,11 +5843,11 @@
 		"name_jp": "輸送作戦を成功させ、帰還せよ！",
 		"name_en": "Report the Success of a Transport Operation!",
 		"desc_jp": "「鬼怒改二」を旗艦、僚艦に「浦波改」他駆逐艦3隻の計5隻の艦隊で<br>バシー島沖における柳輸送作戦を実施、同輸送作戦を完全成功させ、帰還せよ！",
-		"desc_en": "Sortie Kinu Kai Ni, Uranami Kai, 3 destroyers, and one wildcard and score an S-rank victory against World 2-2 Boss.",
+		"desc_en": "Organize a fleet with Kinu Kai Ni as flagship, Uranami Kai, 3DD and another ship that is not a Destroyer in your fleet and score an S rank at the boss node on 2-2",
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[837],[[0,[[2,2],6,1]]],[0,[[7,[487,true,1,0]],[7,[368,false,1,0]],[2,[[2],4,false,1]]]]]"
 	},
 	{
 		"id": 457,
@@ -6822,7 +6822,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[918],[[0,[[2,5],6,1]],[0,[[6,3],6,1]],[0,[[6,4],6,1]],[0,[[6,5],6,1]]],[0,[[7,[630,true,1,0]],[2,[[2],1,false,0]]]]]"
 	},
 	{
 		"id": 532,
@@ -6948,7 +6948,7 @@
 		"name_jp": "歴戦「第十方面艦隊」、全力出撃！",
 		"name_en": "Experienced \"10th Area Fleet\", Go all out!",
 		"desc_jp": "重巡「羽黒」「足柄」「妙高」「高雄」、駆逐艦「神風」のうち2隻以上を含む精強な艦隊を編成！<br>マラッカ海峡ペナン島沖深部、タウイタウイ泊地沖深部、西方カレー洋海域に反復出撃！敵を撃滅せよ！",
-		"desc_en": "Organize a fleet with 2 ship historical ships which consist of the following: CA Haguro, Ashigara, Myouko, Takao and/or DD Kamikaze, and up to 4 XX and score an S rank on the boss nodes of 7-3 (part 2), 7-2 (Part 2), and 4-2 twice.",
+		"desc_en": "Organize a fleet with 2 historical ships which consist of the following: CA Haguro, Ashigara, Myouko, Takao and/or DD Kamikaze, and up to 4 XX and score an S rank on the boss nodes of 7-3 (part 2), 7-2 (Part 2), and 4-2 twice.",
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
@@ -7004,7 +7004,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[933],[[0,[[1,3],6,2]],[0,[[1,4],6,2]],[0,[[2,1],6,2]],[0,[[2,2],6,2]]],[1,[[0,[0,[[7,[651,true,2,0]],[2,[[2,1],4,false,0]]]]],[0,[0,[[7,[183,true,0,0]],[2,[[2,1],3,false,0]]]]]]]]"
 	},
 	{
 		"id": 546,
@@ -7563,7 +7563,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[1101],[[3,[2,8]]],[0,[]]]"
 	},
 	{
 		"id": 589,
@@ -7576,7 +7576,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[1102],[[3,[1,7]]],[0,[]]]"
 	},
 	{
 		"id": 590,
@@ -7602,7 +7602,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[1104],[[3,[106,3]]],[0,[]]]"
 	},
 	{
 		"id": 592,
@@ -7847,7 +7847,7 @@
 		"desc_jp": "旗艦「龍鳳改二/戊」「鳳翔改/鳳翔改二」第一スロに「九七式艦攻(熟練)」(改修度不問)を搭載。<br>「九七式艦攻」x2廃棄、ボーキ370、新型航空兵装資材x1、開発資材x16、熟練搭乗員x1を準備！",
 		"desc_en": "Have your secretary flagship Ryuuhou Kai Ni (E) or Houshou Kai (Ni) equip a Type 97 Torpedo Bomber (Skilled) in the first slot and then proceed to scrap 2x Type 97 Torpedo Bomber and have 370x Bauxite, 1x Air Mats , 16x Devmats, 1x Skilled Crew Member (All resources and Materials will be consumed upon completion)",
 		"added_update_id": 7,
-		"removed_update_id": null,
+		"removed_update_id": 20,
 		"season_id": 5,
 		"tracker": "[[1124],[[3,[16,2]]],[0,[]]]"
 	},
@@ -7860,7 +7860,7 @@
 		"desc_jp": "軽巡を旗艦、航空巡洋艦及び駆逐艦1隻以上を含む精鋭艦隊で、南西海域ペナン島沖深部、<br>昭南本土航路、タウイタウイ泊地沖深部、南方海域サーモン海域北方に出撃！敵艦隊を撃滅せよ！",
 		"desc_en": "Organize a fleet with a CL as flagship, at least 1 Aviation Cruiser (CAV/Gotland) and 1DD in your fleet and score an S rank at the boss nodes on 7-2 (Part 2), 7-3 (Part 2), 7-4 and 5-5",
 		"added_update_id": 7,
-		"removed_update_id": null,
+		"removed_update_id": 20,
 		"season_id": 5,
 		"tracker": "[[991],[[0,[[5,5],6,1]],[2,[[7,2],6,1,[15],\"-2\"]],[2,[[7,3],6,1,[18,23,24,25],\"-2\"]],[0,[[7,4],6,1]]],[0,[[2,[[3],1,true,0]],[0,[1,[[2,[[6],1,false,0]],[7,[574,false,0,0]]]]],[2,[[2],1,false,0]]]]]"
 	},
@@ -7886,7 +7886,7 @@
 		"desc_jp": "旗艦航空巡洋艦「最上改二/特」の第一スロに「瑞雲改二(六三四空)」(改修度★+6以上)を搭載。<br>「瑞雲」x3廃棄、ボーキ1634、新型航空兵装資材x4、開発資材x72、熟練搭乗員x2を準備！",
 		"desc_en": "Have your secretary flagship Mogami Kai Ni/Toku equip a Zuiun Kai Ni (634 Air Group) (at least ★+6) in the first slot and then proceed to scrap 3x Zuiun and have 72x Development Materials, 4x New Model Aerial Armament Material, 2x Skilled Crew Member, and 1634x bauxite (All resources and Materials will be consumed upon completion)",
 		"added_update_id": 7,
-		"removed_update_id": null,
+		"removed_update_id": 20,
 		"season_id": 5,
 		"tracker": "[[1125],[[3,[26,3]]],[0,[]]]"
 	},
@@ -7975,7 +7975,7 @@
 		"name_jp": "【記念任務:拡張作戦】主力オブ主力、決戦ッ！",
 		"name_en": "[Commemorative Mission: Expansion Operations] Main Force of Main Force, Decisive Battle!",
 		"desc_jp": "【記念任務:拡張作戦】夕雲型駆逐艦2隻以上を含む10周年記念決戦艦隊を編成！北方AL海域、<br>カレー洋リランカ島沖、珊瑚諸島沖、南方海域サーモン海域北方に出撃！敵艦隊を捕捉撃滅せよ！",
-		"desc_en": "Organize a fleet with 2 Yuugumo-class in your fleet and score an S rank at the boss nodes on 3-5, 4-5, 5-2 and 5-5. Test 4",
+		"desc_en": "Organize a fleet with 2 Yuugumo-class in your fleet and score an S rank at the boss nodes on 3-5, 4-5, 5-2 and 5-5.",
 		"added_update_id": 19,
 		"removed_update_id": null,
 		"season_id": 6,
@@ -8006,5 +8006,70 @@
 		"removed_update_id": null,
 		"season_id": 6,
 		"tracker": "[[1126],[[4,[6,8]],[4,[11,4]],[4,[21,4]]],[0,[]]]"
+	},
+	{
+		"id": 625,
+		"api_id": 364,
+		"code": "C74",
+		"name_jp": "精鋭第三戦隊、演習開始！",
+		"name_en": "Elite 3rd Fleet, Start Exercises!",
+		"desc_jp": "精鋭第三戦隊演習任務：「榛名改二乙/丙」「金剛改二丙」及び駆逐艦2隻以上を含む演習艦隊<br>を編成。同第三戦隊演習艦隊で本日中に演習で【S判定】勝利を4回以上達成せよ！",
+		"desc_en": "Organize a fleet with Haruna Kai Ni B/C , Kongou Kai Ni C, 2DD and 2XX in your fleet and score S rank 4 times in PvP",
+		"added_update_id": 20,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[364],[[9,[6,4]]],[0,[[7,[593,false,1,0]],[7,[591,false,0,0]],[2,[[2],2,false,0]]]]]"
+	},
+	{
+		"id": 626,
+		"api_id": 996,
+		"code": "B190",
+		"name_jp": "改金剛型高速戦艦「榛名改二乙/丙」、抜錨！",
+		"name_en": "Improved Kongou-class Fast Battleship \"Haruna Kai Ni B/C\", Sortie!",
+		"desc_jp": "「榛名改二乙/丙」「金剛改二丙」及び駆逐艦2隻以上を含む精鋭艦隊で、バシー海峡、沖ノ島海域、<br>ジャワ島沖最深部、リランカ島、南方サブ島沖海域、サーモン海域の敵戦力を撃滅せよ！抜錨！",
+		"desc_en": "Organize a fleet with Haruna Kai Ni B/C , Kongou Kai Ni C, 2DD and 2XX in your fleet and score an S rank at the boss nodes on 2-2, 2-4, 4-3, 5-3, 5-4 and 7-5 (Part 3)",
+		"added_update_id": 20,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[996],[[0,[[2,2],6,1]],[0,[[2,4],6,1]],[0,[[4,3],6,1]],[0,[[5,3],6,1]],[0,[[5,4],6,1]],[2,[[7,5],6,1,[24,25],\"-3\"]]],[0,[[7,[593,false,1,0]],[7,[591,false,0,0]],[2,[[2],2,false,0]]]]]"
+	},
+	{
+		"id": 627,
+		"api_id": 1128,
+		"code": "F116",
+		"name_jp": "水上打撃戦用改良35.6cm砲の開発",
+		"name_en": "Development of Improved 35.6cm Gun Mount for Surface Combat",
+		"desc_jp": "旗艦「榛名改二乙/丙」の第一装備スロに「35.6cm連装砲改三(ダズル迷彩仕様)」 (★+3以上)。<br>開発資材x48、新型砲熕兵装資材x2、「35.6cm連装砲」x5、弾薬960、ボーキサイト800を準備！",
+		"desc_en": "Have your secretary flagship Haruna Kai Ni B/C equip a 35.6cm Twin Gun Mount Kai 3 (Dazzle Camouflage) ★+3 (or higher) in the first slot and have 48x Development Material, 2x New Model Artillery Material, 5x 35.6cm Twin Gun Mount, 960 ammo and 800 bauxite (All resources and Materials will be consumed upon completion)",
+		"added_update_id": 20,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": ""
+	},
+	{
+		"id": 628,
+		"api_id": 1129,
+		"code": "F117",
+		"name_jp": "潜水艦魚雷攻撃の精度向上",
+		"name_en": "Accuracy Improvement of Submarine Torpedo Attacks",
+		"desc_jp": "旗艦に配備した潜水艦の第一装備スロに「後期型艦首魚雷(6門)」(★max) 。開発資材x36、<br>新型兵装資材x2、「61cm三連装(酸素)魚雷」x4、「熟練見張員」x3、弾薬800を準備せよ！",
+		"desc_en": "Have a submarine as secretary flagship with a Late Model Bow Torpedo Mount (6 Tubes) (★max) in the first slot and have 36x Development Material, 2x New Model Armament Material, 4x 61cm Triple (Oxygen) Torpedo Mount, 3x Skilled Lookouts, 800 ammo (All resources and Materials will be consumed upon completion)",
+		"added_update_id": 20,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": ""
+	},
+	{
+		"id": 629,
+		"api_id": 197,
+		"code": "A93",
+		"name_jp": "主力オブ主力、精強「十駆」出撃準備ヨシ！",
+		"name_en": "Main Force of the Main Force, Powerful \"DesDiv 10\", ready to sortie!",
+		"desc_jp": "第十駆逐隊編成任務：改装甲型駆逐艦「夕雲改二」「巻雲改二」「風雲改二」、そして「秋雲改二」の<br>4隻から成る完全編成の最精強「第十駆逐隊」(4隻編成)を編成せよ！",
+		"desc_en": "Assemble a fleet containing only Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni, and Akigumo Kai Ni",
+		"added_update_id": null,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": ""
 	}
 ]
