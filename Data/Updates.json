@@ -152,5 +152,16 @@
 		"live_update": true,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1652603465049456642",
 		"maint_end_tweet": ""
+	},
+	{
+		"id": 22,
+		"start_date": "2023-05-26T00:00:00",
+		"start_time": "11:00:00",
+		"end_time": "19:00:00",
+		"name": "May 2023 API/DB maintenance",
+		"description": "",
+		"live_update": false,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1661391507079720960",
+		"maint_end_tweet": ""
 	}
 ]
