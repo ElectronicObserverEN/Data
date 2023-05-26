@@ -1,5 +1,5 @@
 {
-	"version": "21030322",
+	"version": "21030323",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1749,6 +1749,13 @@
 		"name": "Elite 3rd Fleet, Start Exercises!",
 		"desc_jp": "精鋭第三戦隊演習任務：「榛名改二乙/丙」「金剛改二丙」及び駆逐艦2隻以上を含む演習艦隊<br>を編成。同第三戦隊演習艦隊で本日中に演習で【S判定】勝利を4回以上達成せよ！",
 		"desc": "Organize a fleet with Haruna Kai Ni B/C , Kongou Kai Ni C, 2DD and 2XX in your fleet and score S rank 4 times in PvP"
+	},
+	"365": {
+		"code": "365",
+		"name_jp": "「佐世保の時雨」練度向上を図れ！",
+		"name": "[Shigure of Sasebo] Get Rid Of Skill Issue!",
+		"desc_jp": "「佐世保の時雨」練度向上任務：駆逐艦「時雨」と第二七駆逐隊(白露・有明・夕暮)の僚艦1隻以上を<br>含む演習艦隊で、本日中に演習で【S判定】勝利を5回以上達成せよ！「佐世保の時雨」演習開始！",
+		"desc": "Organize a fleet with Shigure and at least one ship from DesDiv 27 (Shiratsuyu, Ariake, Yuugure) in your fleet and score S rank 5 times in PvP"
 	},
 	"401": {
 		"code": "D1",
