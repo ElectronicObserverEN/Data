@@ -1,5 +1,5 @@
 {
-	"version": "21030323",
+	"version": "21030324",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1751,7 +1751,7 @@
 		"desc": "Organize a fleet with Haruna Kai Ni B/C , Kongou Kai Ni C, 2DD and 2XX in your fleet and score S rank 4 times in PvP"
 	},
 	"365": {
-		"code": "365",
+		"code": "C75",
 		"name_jp": "「佐世保の時雨」練度向上を図れ！",
 		"name": "[Shigure of Sasebo] Get Rid Of Skill Issue!",
 		"desc_jp": "「佐世保の時雨」練度向上任務：駆逐艦「時雨」と第二七駆逐隊(白露・有明・夕暮)の僚艦1隻以上を<br>含む演習艦隊で、本日中に演習で【S判定】勝利を5回以上達成せよ！「佐世保の時雨」演習開始！",
@@ -4096,7 +4096,7 @@
 		"desc": "Organize a fleet with Haruna Kai Ni B/C , Kongou Kai Ni C, 2DD and 2XX in your fleet and score an S rank at the boss nodes on 2-2, 2-4, 4-3, 5-3, 5-4 and 7-5 (Part 3)"
 	},
 	"997": {
-		"code": "997",
+		"code": "B191",
 		"name_jp": "【海上護衛作戦】海上補給線を確保せよ！",
 		"name": "[Marine Escort Operation] Secure The Maritine Supply Line!",
 		"desc_jp": "海上護衛任務：海防艦3隻または駆逐艦4隻または水上機母艦2隻を含む艦隊で、製油所地帯沿岸、<br>鎮守府近海、鎮守府近海航路、南西諸島バシー海峡に反復出撃！重要な海上補給線を確保せよ！",
@@ -4262,5 +4262,12 @@
 		"name": "Accuracy Improvement of Submarine Torpedo Attacks",
 		"desc_jp": "旗艦に配備した潜水艦の第一装備スロに「後期型艦首魚雷(6門)」(★max) 。開発資材x36、<br>新型兵装資材x2、「61cm三連装(酸素)魚雷」x4、「熟練見張員」x3、弾薬800を準備せよ！",
 		"desc": "Have a submarine as secretary flagship with a Late Model Bow Torpedo Mount (6 Tubes) (★max) in the first slot and have 36x Development Material, 2x New Model Armament Material, 4x 61cm Triple (Oxygen) Torpedo Mount, 3x Skilled Lookouts, 800 ammo (All resources and Materials will be consumed upon completion)"
+	},
+	"1130": {
+		"code": "F117",
+		"name_jp": "大規模改装の工廠準備",
+		"name": "Arsenal Preparation For Large-Scale Remodel",
+		"desc_jp": "工廠事前準備任務：「機銃」「機関部強化」「バルジ」系各装備x3を廃棄。ドラム缶(輸送用)x3、<br>ボーキサイト2,700及び鋼材5,500を準備せよ！(任務達成後、準備した資源等は消費します)",
+		"desc": "Proceed to scrap 3x AA gun,  3x Engine/Boiler, 3x Armor bulge and have 3x Drum Canister, 2700 bauxite, 5500 steel (All resources and Materials will be consumed upon completion)"
 	}
 }

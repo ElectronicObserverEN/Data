@@ -8075,7 +8075,7 @@
 	{
 		"id": 630,
 		"api_id": 997,
-		"code": "997",
+		"code": "B191",
 		"name_jp": "【海上護衛作戦】海上補給線を確保せよ！",
 		"name_en": "[Marine Escort Operation] Secure The Maritine Supply Line!",
 		"desc_jp": "海上護衛任務：海防艦3隻または駆逐艦4隻または水上機母艦2隻を含む艦隊で、製油所地帯沿岸、<br>鎮守府近海、鎮守府近海航路、南西諸島バシー海峡に反復出撃！重要な海上補給線を確保せよ！",
@@ -8088,7 +8088,7 @@
 	{
 		"id": 631,
 		"api_id": 365,
-		"code": "365",
+		"code": "C75",
 		"name_jp": "「佐世保の時雨」練度向上を図れ！",
 		"name_en": "[Shigure of Sasebo] Get Rid Of Skill Issue!",
 		"desc_jp": "「佐世保の時雨」練度向上任務：駆逐艦「時雨」と第二七駆逐隊(白露・有明・夕暮)の僚艦1隻以上を<br>含む演習艦隊で、本日中に演習で【S判定】勝利を5回以上達成せよ！「佐世保の時雨」演習開始！",
@@ -8097,5 +8097,18 @@
 		"removed_update_id": null,
 		"season_id": null,
 		"tracker": "[[365],[[9,[6,5]]],[0,[[7,[43,false,0,0]],[0,[1,[[7,[42,false,0,0]],[7,[632,false,0,0]],[7,[633,false,0,0]]]]]]]]"
+	},
+	{
+		"id": 632,
+		"api_id": 1130,
+		"code": "F117",
+		"name_jp": "大規模改装の工廠準備",
+		"name_en": "Arsenal Preparation For Large-Scale Remodel",
+		"desc_jp": "工廠事前準備任務：「機銃」「機関部強化」「バルジ」系各装備x3を廃棄。ドラム缶(輸送用)x3、<br>ボーキサイト2,700及び鋼材5,500を準備せよ！(任務達成後、準備した資源等は消費します)",
+		"desc_en": "Proceed to scrap 3x AA gun,  3x Engine/Boiler, 3x Armor bulge and have 3x Drum Canister, 2700 bauxite, 5500 steel (All resources and Materials will be consumed upon completion)",
+		"added_update_id": 22,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[1130],[[4,[21,3]],[6,[19,3]],[6,[23,3]]],[0,[]]]"
 	}
 ]
