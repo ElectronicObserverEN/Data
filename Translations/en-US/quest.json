@@ -1,5 +1,5 @@
 {
-	"version": "21030321",
+	"version": "21030322",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4087,6 +4087,13 @@
 		"name": "Improved Kongou-class Fast Battleship \"Haruna Kai Ni B/C\", Sortie!",
 		"desc_jp": "「榛名改二乙/丙」「金剛改二丙」及び駆逐艦2隻以上を含む精鋭艦隊で、バシー海峡、沖ノ島海域、<br>ジャワ島沖最深部、リランカ島、南方サブ島沖海域、サーモン海域の敵戦力を撃滅せよ！抜錨！",
 		"desc": "Organize a fleet with Haruna Kai Ni B/C , Kongou Kai Ni C, 2DD and 2XX in your fleet and score an S rank at the boss nodes on 2-2, 2-4, 4-3, 5-3, 5-4 and 7-5 (Part 3)"
+	},
+	"997": {
+		"code": "997",
+		"name_jp": "【海上護衛作戦】海上補給線を確保せよ！",
+		"name": "[Marine Escort Operation] Secure The Maritine Supply Line!",
+		"desc_jp": "海上護衛任務：海防艦3隻または駆逐艦4隻または水上機母艦2隻を含む艦隊で、製油所地帯沿岸、<br>鎮守府近海、鎮守府近海航路、南西諸島バシー海峡に反復出撃！重要な海上補給線を確保せよ！",
+		"desc": "Organize a fleet with 3 DE or 4 DD or 2 AV in your fleet and score two S ranks at the boss nodes on 1-3, 1-5, 2-2 and reach the anchor node N on 1-6 twice."
 	},
 	"1101": {
 		"code": "F96",
