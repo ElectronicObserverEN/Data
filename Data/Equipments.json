@@ -3820,5 +3820,11 @@
 		"api_id": 503,
 		"name_jp": "35.6cm連装砲改四",
 		"name_en": "35.6cm Twin Gun Mount Kai Yon"
+	},
+	{
+		"id": 2481,
+		"api_id": 504,
+		"name_jp": "銀河(熟練)",
+		"name_en": "Ginga (Skilled)"
 	}
 ]

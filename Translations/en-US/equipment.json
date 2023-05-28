@@ -1,5 +1,5 @@
 {
-	"version": "21030252",
+	"version": "21030253",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -501,6 +501,7 @@
 		"発煙装置改(煙幕)": "Smoke Generator Kai (Smoke Screen)",
 		"35.6cm連装砲改三(ダズル迷彩仕様)": "35.6cm Twin Gun Mount Kai San (Dazzle Camouflage Specification)",
 		"35.6cm連装砲改四": "35.6cm Twin Gun Mount Kai Yon",
+		"銀河(熟練)": "Ginga (Skilled)",
 		"5inch単装砲": "5inch Single Gun",
 		"5inch連装砲": "5inch Twin Gun",
 		"3inch単装高角砲": "3inch Single High-angle",
