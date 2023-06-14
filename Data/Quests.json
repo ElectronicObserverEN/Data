@@ -8114,7 +8114,7 @@
 	{
 		"id": 633,
 		"api_id": 366,
-		"code": "366",
+		"code": "C76",
 		"name_jp": "最精鋭！改装「時雨」演習開始！",
 		"name_en": "The Most Elite! Improved Shigure Exercises, Commence!",
 		"desc_jp": "「時雨改三」練度向上任務：改装白露型駆逐艦「時雨改三」を旗艦として、僚艦駆逐艦3隻以上を含む<br>演習艦隊で、本日中に演習で【S判定】勝利を4回以上達成せよ！最精鋭「時雨改三」、演習開始ッ！",
@@ -8127,7 +8127,7 @@
 	{
 		"id": 634,
 		"api_id": 367,
-		"code": "367",
+		"code": "2306 C1",
 		"name_jp": "【梅雨限定任務】水雷戦隊、雨中演習！",
 		"name_en": "[Rainy Season] Torpedo Squadron, Exercises in the Rain!",
 		"desc_jp": "【梅雨限定任務】軽巡または練習巡洋艦を旗艦、他駆逐艦5隻を含む演習水雷戦隊を編成！<br>同演習戦隊で、本日中に演習で【A判定】勝利を4回以上達成せよ！水雷戦隊、雨中演習、始めッ！",
@@ -8140,7 +8140,7 @@
 	{
 		"id": 635,
 		"api_id": 953,
-		"code": "953",
+		"code": "2306 B1",
 		"name_jp": "【梅雨限定任務】梅雨の海上輸送航路を護れ！",
 		"name_en": "[Rainy Season] Protect the marine transportation route in the rainy season!",
 		"desc_jp": "【梅雨限定任務】軽巡・水上機母艦のいずれかを旗艦とする駆逐艦3隻以上を含む艦隊で、南西諸島<br>沖、鎮守府海域製油所地帯沿岸、バシー海峡、東部オリョール海を哨戒！水上輸送航路を防衛せよ！",
@@ -8153,7 +8153,7 @@
 	{
 		"id": 636,
 		"api_id": 998,
-		"code": "998",
+		"code": "B192",
 		"name_jp": "改装白露型精鋭駆逐艦「時雨改三」出撃す！",
 		"name_en": "Improved Shiratsuyu-class Destroyer \"Shigure Kai San\", Sortie!",
 		"desc_jp": "「時雨改三」及び第二七駆逐隊(白露・有明・夕暮)僚艦1隻を含む艦隊で、沖ノ島沖、昭南本土航路、<br>カレー洋リランカ島沖、サーモン海域北方、中部北海域ピーコック島沖の敵戦力を撃滅せよッ！",
@@ -8166,7 +8166,7 @@
 	{
 		"id": 637,
 		"api_id": 954,
-		"code": "954",
+		"code": "2306 B2",
 		"name_jp": "【梅雨拡張任務】雨の重巡作戦！",
 		"name_en": "[Rainy Season Extra Operation] Heavy Cruiser Rainy Operation!",
 		"desc_jp": "【梅雨限定任務】旗艦及び同随伴艦に重巡洋艦または航空巡洋艦を配備した艦隊で、昭南本土航路<br>に出没する敵艦隊を反復撃滅、さらに前進してペナン島沖深部に反復出撃、敵主力艦隊を撃滅せよ！",
@@ -8179,7 +8179,7 @@
 	{
 		"id": 638,
 		"api_id": 955,
-		"code": "955",
+		"code": "2306 B1",
 		"name_jp": "【梅雨限定月間任務】南方ソロモン方面漸減作戦",
 		"name_en": "[Rainy Season Monthly Quest] Southern Solomons Area Operation",
 		"desc_jp": "【梅雨限定任務】戦艦2隻以上、さらに阿賀野型・大淀型軽巡のいずれか1隻含む艦隊でソロモン海<br>方面に進出！南方海域の五作戦海域に遊弋する敵艦隊を随時撃滅、敵艦隊戦力の漸減を図れ！",
