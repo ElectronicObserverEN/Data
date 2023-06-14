@@ -1,5 +1,5 @@
 {
-	"version": "21030253",
+	"version": "21030254",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -502,6 +502,8 @@
 		"35.6cm連装砲改三(ダズル迷彩仕様)": "35.6cm Twin Gun Mount Kai San (Dazzle Camouflage Specification)",
 		"35.6cm連装砲改四": "35.6cm Twin Gun Mount Kai Yon",
 		"銀河(熟練)": "Ginga (Skilled)",
+		"25mm対空機銃増備": "25mm Anti-aircraft Machine Gun Extra",
+		"電探装備マスト(13号改+22号電探改四)": "Radar Mast (Type 13 Kai and Type 22 Kai 4 radars)",
 		"5inch単装砲": "5inch Single Gun",
 		"5inch連装砲": "5inch Twin Gun",
 		"3inch単装高角砲": "3inch Single High-angle",
