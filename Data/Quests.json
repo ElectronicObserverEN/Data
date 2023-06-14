@@ -7262,8 +7262,8 @@
 		"desc_jp": "【地中海遊撃部隊編成】第一作戦海域において、敵前線兵站集積地(Point【F】及び【L】)を強襲！<br>さらにタラント方面よりマルタ島への輸送部隊を狙う敵戦艦戦隊を迎撃、これを撃破せよ！",
 		"desc_en": "Get an A rank on nodes F, L, and O in E1",
 		"added_update_id": null,
-		"removed_update_id": null,
-		"season_id": null,
+		"removed_update_id": 24,
+		"season_id": 7,
 		"tracker": ""
 	},
 	{
@@ -7275,8 +7275,8 @@
 		"desc_jp": "【地中海敵戦力の漸減】第一作戦海域、地中海配備の敵魚雷艇群(Point【H】及び【S】)を撃破！<br>さらに敵に占拠されたタラント軍港を強襲、地中海東部に展開した敵深海戦力の漸減を図れ！",
 		"desc_en": "Get an A rank on nodes P, H and S in E1",
 		"added_update_id": null,
-		"removed_update_id": null,
-		"season_id": null,
+		"removed_update_id": 24,
+		"season_id": 7,
 		"tracker": ""
 	},
 	{
@@ -7288,8 +7288,8 @@
 		"desc_jp": "【地中海拡張作戦】最終作戦海域において、潜水艦隊をもって、地中海敵水上艦隊(Point【T1】<br>及び【T4】)への反復潜水艦攻撃を敢行！地中海の敵水上艦隊の行動封じ込めを実施せよ！",
 		"desc_en": "S Rank nodes T1 and T4 in E3 twice each. ",
 		"added_update_id": null,
-		"removed_update_id": null,
-		"season_id": null,
+		"removed_update_id": 24,
+		"season_id": 7,
 		"tracker": ""
 	},
 	{
@@ -7301,8 +7301,8 @@
 		"desc_jp": "【地中海拡張(高難易度専用)作戦】最終作戦海域において北アフリカ敵拠点(Point【F】及び【W】)<br>への対地反復攻撃を敢行！今後の同方面作戦に備え、敵戦線後方の集積兵站拠点を撃滅せよ！",
 		"desc_en": "S Rank nodes F and W in E3 twice each. ",
 		"added_update_id": null,
-		"removed_update_id": null,
-		"season_id": null,
+		"removed_update_id": 24,
+		"season_id": 7,
 		"tracker": ""
 	},
 	{
