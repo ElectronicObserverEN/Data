@@ -168,11 +168,11 @@
 		"id": 23,
 		"start_date": "2023-06-14T00:00:00",
 		"start_time": "11:00:00",
-		"end_time": "21:00:00",
+		"end_time": "22:00:00",
 		"name": "Shigure K3 Update",
 		"description": "- 10th anniv content & quests end\r\n- Shigure 3rd remodel",
 		"live_update": false,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1666452404034830344",
-		"maint_end_tweet": ""
+		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1668945710077853697"
 	}
 ]
