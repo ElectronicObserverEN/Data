@@ -1,5 +1,5 @@
 {
-	"version": "21030332",
+	"version": "21030333",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3911,7 +3911,7 @@
 		"name_jp": "【梅雨拡張任務】雨の重巡作戦！",
 		"name": "[Rainy Season Extra Operation] Heavy Cruiser Rainy Operation!",
 		"desc_jp": "【梅雨限定任務】旗艦及び同随伴艦に重巡洋艦または航空巡洋艦を配備した艦隊で、昭南本土航路<br>に出没する敵艦隊を反復撃滅、さらに前進してペナン島沖深部に反復出撃、敵主力艦隊を撃滅せよ！",
-		"desc": "Organize a fleet with a CA(V) as flagship and another CA(V) (mixing CA and CAV is not allowed) in your fleet and score S rank twice at the boss nodes on 7-3-2 and 7-4"
+		"desc": "Organize a fleet with a CA(V) as flagship and another CA(V) in your fleet and score S rank twice at the boss nodes on 7-3-2 and 7-4"
 	},
 	"955": {
 		"code": "2306 B1",
