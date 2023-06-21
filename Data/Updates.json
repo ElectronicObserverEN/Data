@@ -152,5 +152,38 @@
 		"live_update": true,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1652603465049456642",
 		"maint_end_tweet": ""
+	},
+	{
+		"id": 22,
+		"start_date": "2023-05-26T00:00:00",
+		"start_time": "11:00:00",
+		"end_time": "19:00:00",
+		"name": "May 2023 API/DB maintenance",
+		"description": "",
+		"live_update": false,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1661391507079720960",
+		"maint_end_tweet": ""
+	},
+	{
+		"id": 23,
+		"start_date": "2023-06-14T00:00:00",
+		"start_time": "11:00:00",
+		"end_time": "22:00:00",
+		"name": "Shigure K3 Update",
+		"description": "- 10th anniv content & quests end\r\n- Shigure 3rd remodel",
+		"live_update": false,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1666452404034830344",
+		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1668945710077853697"
+	},
+	{
+		"id": 24,
+		"start_date": "2021-09-28T00:00:00",
+		"start_time": "00:00:00",
+		"end_time": "00:00:00",
+		"name": "Summer 2021 Event End",
+		"description": "",
+		"live_update": false,
+		"maint_start_tweet": "",
+		"maint_end_tweet": ""
 	}
 ]

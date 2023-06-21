@@ -27,6 +27,18 @@
 		"id": 6,
 		"name": "10th anniversary",
 		"added_update_id": 19,
+		"removed_update_id": 23
+	},
+	{
+		"id": 7,
+		"name": "Summer 2021 Event",
+		"added_update_id": null,
+		"removed_update_id": 24
+	},
+	{
+		"id": 8,
+		"name": "Rainy Season 2023",
+		"added_update_id": 23,
 		"removed_update_id": null
 	}
 ]

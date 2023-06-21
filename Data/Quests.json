@@ -2298,7 +2298,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[283],[[0,[[4,5],6,1]],[0,[[5,2],6,1]],[0,[[6,5],6,2]]],[0,[[7,[594,true,1,0]],[5,[84,2,0]]]]]"
 	},
 	{
 		"id": 184,
@@ -3793,7 +3793,7 @@
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[445],[[1,[[5],1]],[1,[[100],1]],[1,[[9],1]],[1,[[18],1]],[1,[[45],1]],[1,[[36],1]],[1,[[40],1]]],[0,[]]]"
 	},
 	{
 		"id": 299,
@@ -7195,7 +7195,7 @@
 		"name_jp": "機動部隊決戦",
 		"name_en": "Naval Task Force Decisive Battle",
 		"desc_jp": "旗艦に「航空母艦」を編成した第一艦隊で、珊瑚諸島沖、サーモン海域北方、KW環礁沖海域へ<br>反復出撃、敵主力を撃滅！さらに中部北海域ピーコック島沖へも反復展開、敵戦力を撃破せよ！",
-		"desc_en": "Organize a fleet consisting of 1 CV(L)(B) as flagship and up to 5 XX, then score an S(?) rank on the boss nodes of 5-2, 5-5, 6-4 and 6-5 twice.",
+		"desc_en": "Organize a fleet with 1 CV(L)(B) as flagship and score an S rank at the boss nodes on 5-2, 5-5, 6-5 twice and score an A+ rank on 6-4 twice",
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
@@ -7262,8 +7262,8 @@
 		"desc_jp": "【地中海遊撃部隊編成】第一作戦海域において、敵前線兵站集積地(Point【F】及び【L】)を強襲！<br>さらにタラント方面よりマルタ島への輸送部隊を狙う敵戦艦戦隊を迎撃、これを撃破せよ！",
 		"desc_en": "Get an A rank on nodes F, L, and O in E1",
 		"added_update_id": null,
-		"removed_update_id": null,
-		"season_id": null,
+		"removed_update_id": 24,
+		"season_id": 7,
 		"tracker": ""
 	},
 	{
@@ -7275,8 +7275,8 @@
 		"desc_jp": "【地中海敵戦力の漸減】第一作戦海域、地中海配備の敵魚雷艇群(Point【H】及び【S】)を撃破！<br>さらに敵に占拠されたタラント軍港を強襲、地中海東部に展開した敵深海戦力の漸減を図れ！",
 		"desc_en": "Get an A rank on nodes P, H and S in E1",
 		"added_update_id": null,
-		"removed_update_id": null,
-		"season_id": null,
+		"removed_update_id": 24,
+		"season_id": 7,
 		"tracker": ""
 	},
 	{
@@ -7288,8 +7288,8 @@
 		"desc_jp": "【地中海拡張作戦】最終作戦海域において、潜水艦隊をもって、地中海敵水上艦隊(Point【T1】<br>及び【T4】)への反復潜水艦攻撃を敢行！地中海の敵水上艦隊の行動封じ込めを実施せよ！",
 		"desc_en": "S Rank nodes T1 and T4 in E3 twice each. ",
 		"added_update_id": null,
-		"removed_update_id": null,
-		"season_id": null,
+		"removed_update_id": 24,
+		"season_id": 7,
 		"tracker": ""
 	},
 	{
@@ -7301,8 +7301,8 @@
 		"desc_jp": "【地中海拡張(高難易度専用)作戦】最終作戦海域において北アフリカ敵拠点(Point【F】及び【W】)<br>への対地反復攻撃を敢行！今後の同方面作戦に備え、敵戦線後方の集積兵站拠点を撃滅せよ！",
 		"desc_en": "S Rank nodes F and W in E3 twice each. ",
 		"added_update_id": null,
-		"removed_update_id": null,
-		"season_id": null,
+		"removed_update_id": 24,
+		"season_id": 7,
 		"tracker": ""
 	},
 	{
@@ -7912,7 +7912,7 @@
 		"desc_jp": "【記念任務】特I型(吹雪型)駆逐艦4隻以上を含む10周年記念艦隊で、鎮守府正面海域、南西諸島沖、<br>製油所地帯沿岸、南西諸島防衛線を哨戒！10周年を迎えた鎮守府海域の警戒を厳とせよ！",
 		"desc_en": "Organize a fleet with 4 Fubuki-class in your fleet and score an S rank at the boss nodes on 1-1, 1-2, 1-3 and 1-4",
 		"added_update_id": 19,
-		"removed_update_id": null,
+		"removed_update_id": 23,
 		"season_id": 6,
 		"tracker": "[[992],[[0,[[1,1],6,1]],[0,[[1,2],6,1]],[0,[[1,3],6,1]],[0,[[1,4],6,1]]],[0,[[8,[[[0,false,0,12]],4]]]]]"
 	},
@@ -7938,7 +7938,7 @@
 		"desc_jp": "睦月型駆逐艦演習任務：睦月型駆逐艦4隻以上を含む10周年記念演習艦隊を編成。<br>同10周年記念演習艦隊で本日中に演習で【A判定】勝利以上を5回以上達成せよ！",
 		"desc_en": "Organize a fleet with 4 Mutsuki-class in your fleet and score A rank 5 times in PvP",
 		"added_update_id": 19,
-		"removed_update_id": null,
+		"removed_update_id": 23,
 		"season_id": 6,
 		"tracker": "[[363],[[9,[5,5]]],[0,[[8,[[[0,false,0,28]],4]]]]]"
 	},
@@ -7951,7 +7951,7 @@
 		"desc_jp": "【記念任務】「海上護衛任務」「タンカー護衛任務」及び「ボーキサイト輸送任務」<br>「兵站強化任務」各遠征任務を実施、さらに事前準備「観艦式予行」を3回成功させよ！",
 		"desc_en": "Complete expeditions 5, A1, 9, 11 once and expedition 7 three times",
 		"added_update_id": 19,
-		"removed_update_id": null,
+		"removed_update_id": 23,
 		"season_id": 6,
 		"tracker": "[[448],[[1,[[5],1]],[1,[[7],3]],[1,[[100],1]],[1,[[9],1]],[1,[[11],1]]],[0,[]]]"
 	},
@@ -7964,7 +7964,7 @@
 		"desc_jp": "【記念任務】白露型駆逐艦3隻以上を含む10周年記念精鋭白露型艦隊で、南西諸島海域バシー海峡、<br>東部オリョール海、沖ノ島海域、沖ノ島沖へ出撃。南西諸島海域の敵艦隊を捕捉、これを撃滅せよ！",
 		"desc_en": "Organize a fleet with 3 Shiratsuyu-class in your fleet and score an S rank at the boss nodes on 2-2, 2-3, 2-4 and 2-5",
 		"added_update_id": 19,
-		"removed_update_id": null,
+		"removed_update_id": 23,
 		"season_id": 6,
 		"tracker": "[[993],[[0,[[2,2],6,1]],[0,[[2,3],6,1]],[0,[[2,4],6,1]],[0,[[2,5],6,1]]],[0,[[8,[[[0,false,0,23]],3]]]]]"
 	},
@@ -7977,7 +7977,7 @@
 		"desc_jp": "【記念任務:拡張作戦】夕雲型駆逐艦2隻以上を含む10周年記念決戦艦隊を編成！北方AL海域、<br>カレー洋リランカ島沖、珊瑚諸島沖、南方海域サーモン海域北方に出撃！敵艦隊を捕捉撃滅せよ！",
 		"desc_en": "Organize a fleet with 2 Yuugumo-class in your fleet and score an S rank at the boss nodes on 3-5, 4-5, 5-2 and 5-5.",
 		"added_update_id": 19,
-		"removed_update_id": null,
+		"removed_update_id": 23,
 		"season_id": 6,
 		"tracker": "[[994],[[0,[[3,5],6,1]],[0,[[4,5],6,1]],[0,[[5,2],6,1]],[0,[[5,5],6,1]]],[0,[[8,[[[0,false,0,38]],2]]]]]"
 	},
@@ -8003,7 +8003,7 @@
 		"desc_jp": "特別工廠：「艦戦」x8、「水上爆撃機/多用途水上機」x4、「機銃」x4を廃棄、「紫電改四」x2及び<br>開発資材x80、ボーキサイト3,000を準備！(任務達成後、準備した機体・資源・資材は消費します)",
 		"desc_en": "Have 2x Shiden Kai 4, 80x Development Materials, and 3000x bauxite and then proceed to scrap 8x Fighters, 4x Seaplane Bombers and 4x AA Guns (All resources and Materials will be consumed upon completion)",
 		"added_update_id": 19,
-		"removed_update_id": null,
+		"removed_update_id": 23,
 		"season_id": 6,
 		"tracker": "[[1126],[[4,[6,8]],[4,[11,4]],[4,[21,4]]],[0,[]]]"
 	},
@@ -8071,5 +8071,122 @@
 		"removed_update_id": null,
 		"season_id": null,
 		"tracker": ""
+	},
+	{
+		"id": 630,
+		"api_id": 997,
+		"code": "B191",
+		"name_jp": "【海上護衛作戦】海上補給線を確保せよ！",
+		"name_en": "[Marine Escort Operation] Secure The Maritine Supply Line!",
+		"desc_jp": "海上護衛任務：海防艦3隻または駆逐艦4隻または水上機母艦2隻を含む艦隊で、製油所地帯沿岸、<br>鎮守府近海、鎮守府近海航路、南西諸島バシー海峡に反復出撃！重要な海上補給線を確保せよ！",
+		"desc_en": "Organize a fleet with 3 DE or 4 DD or 2 AV in your fleet and score two S ranks at the boss nodes on 1-3, 1-5, 2-2 and reach the anchor node N on 1-6 twice.",
+		"added_update_id": 22,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[997],[[0,[[1,3],6,2]],[0,[[1,5],6,2]],[0,[[2,2],6,2]],[7,[[1,6],2,[14,17],\"N\"]]],[1,[[2,[[1],3,false,0]],[2,[[2],4,false,0]],[2,[[16],2,false,0]]]]]"
+	},
+	{
+		"id": 631,
+		"api_id": 365,
+		"code": "C75",
+		"name_jp": "「佐世保の時雨」練度向上を図れ！",
+		"name_en": "[Shigure of Sasebo] Get Rid Of Skill Issue!",
+		"desc_jp": "「佐世保の時雨」練度向上任務：駆逐艦「時雨」と第二七駆逐隊(白露・有明・夕暮)の僚艦1隻以上を<br>含む演習艦隊で、本日中に演習で【S判定】勝利を5回以上達成せよ！「佐世保の時雨」演習開始！",
+		"desc_en": "Organize a fleet with Shigure and at least one ship from DesDiv 27 (Shiratsuyu, Ariake, Yuugure) in your fleet and score S rank 5 times in PvP",
+		"added_update_id": 22,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[365],[[9,[6,5]]],[0,[[7,[43,false,0,0]],[0,[1,[[7,[42,false,0,0]],[7,[632,false,0,0]],[7,[633,false,0,0]]]]]]]]"
+	},
+	{
+		"id": 632,
+		"api_id": 1130,
+		"code": "F117",
+		"name_jp": "大規模改装の工廠準備",
+		"name_en": "Arsenal Preparation For Large-Scale Remodel",
+		"desc_jp": "工廠事前準備任務：「機銃」「機関部強化」「バルジ」系各装備x3を廃棄。ドラム缶(輸送用)x3、<br>ボーキサイト2,700及び鋼材5,500を準備せよ！(任務達成後、準備した資源等は消費します)",
+		"desc_en": "Proceed to scrap 3x AA gun,  3x Engine/Boiler, 3x Armor bulge and have 3x Drum Canister, 2700 bauxite, 5500 steel (All resources and Materials will be consumed upon completion)",
+		"added_update_id": 22,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[1130],[[4,[21,3]],[6,[19,3]],[6,[23,3]]],[0,[]]]"
+	},
+	{
+		"id": 633,
+		"api_id": 366,
+		"code": "C76",
+		"name_jp": "最精鋭！改装「時雨」演習開始！",
+		"name_en": "The Most Elite! Improved Shigure Exercises, Commence!",
+		"desc_jp": "「時雨改三」練度向上任務：改装白露型駆逐艦「時雨改三」を旗艦として、僚艦駆逐艦3隻以上を含む<br>演習艦隊で、本日中に演習で【S判定】勝利を4回以上達成せよ！最精鋭「時雨改三」、演習開始ッ！",
+		"desc_en": "Organize a fleet with Shigure Kai San as flagship and 3 other DD in your fleet and score S rank 4 times in PvP",
+		"added_update_id": 23,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[366],[[9,[6,4]]],[0,[[7,[961,true,1,0]],[2,[[2],4,false,0]]]]]"
+	},
+	{
+		"id": 634,
+		"api_id": 367,
+		"code": "2306 C1",
+		"name_jp": "【梅雨限定任務】水雷戦隊、雨中演習！",
+		"name_en": "[Rainy Season] Torpedo Squadron, Exercises in the Rain!",
+		"desc_jp": "【梅雨限定任務】軽巡または練習巡洋艦を旗艦、他駆逐艦5隻を含む演習水雷戦隊を編成！<br>同演習戦隊で、本日中に演習で【A判定】勝利を4回以上達成せよ！水雷戦隊、雨中演習、始めッ！",
+		"desc_en": "Organize a fleet with a CL or CT as flagship and have 5 DD in your fleet and score A rank 4 times in PvP",
+		"added_update_id": 23,
+		"removed_update_id": null,
+		"season_id": 8,
+		"tracker": "[[367],[[9,[5,4]]],[0,[[2,[[3,21],1,true,0]],[2,[[2],5,false,0]]]]]"
+	},
+	{
+		"id": 635,
+		"api_id": 953,
+		"code": "2306 B1",
+		"name_jp": "【梅雨限定任務】梅雨の海上輸送航路を護れ！",
+		"name_en": "[Rainy Season] Protect the marine transportation route in the rainy season!",
+		"desc_jp": "【梅雨限定任務】軽巡・水上機母艦のいずれかを旗艦とする駆逐艦3隻以上を含む艦隊で、南西諸島<br>沖、鎮守府海域製油所地帯沿岸、バシー海峡、東部オリョール海を哨戒！水上輸送航路を防衛せよ！",
+		"desc_en": "Organize a fleet with a CL or an AV as the flagship and 3 DD in your fleet and score an S rank at the boss nodes on 1-2, 1-3, 2-2 and 2-3",
+		"added_update_id": 23,
+		"removed_update_id": null,
+		"season_id": 8,
+		"tracker": "[[953],[[0,[[1,2],6,1]],[0,[[1,3],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]]],[0,[[2,[[3,16],1,true,0]],[2,[[2],3,false,0]]]]]"
+	},
+	{
+		"id": 636,
+		"api_id": 998,
+		"code": "B192",
+		"name_jp": "改装白露型精鋭駆逐艦「時雨改三」出撃す！",
+		"name_en": "Improved Shiratsuyu-class Destroyer \"Shigure Kai San\", Sortie!",
+		"desc_jp": "「時雨改三」及び第二七駆逐隊(白露・有明・夕暮)僚艦1隻を含む艦隊で、沖ノ島沖、昭南本土航路、<br>カレー洋リランカ島沖、サーモン海域北方、中部北海域ピーコック島沖の敵戦力を撃滅せよッ！",
+		"desc_en": "Organize a fleet with Shigure Kai San and a member of DesDiv27 (Shiratsuyu, Ariake or Yuugure) in your fleet and score an S rank at the boss nodes on 2-5, 7-4, 4-5, 5-5 and 6-4",
+		"added_update_id": 23,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[998],[[0,[[2,5],6,1]],[0,[[4,5],6,1]],[0,[[5,5],6,1]],[0,[[6,4],6,1]],[0,[[7,4],6,1]]],[0,[[7,[961,false,1,0]],[8,[[[42,false,0,0],[632,false,0,0],[633,false,0,0]],1]]]]]"
+	},
+	{
+		"id": 637,
+		"api_id": 954,
+		"code": "2306 B2",
+		"name_jp": "【梅雨拡張任務】雨の重巡作戦！",
+		"name_en": "[Rainy Season Extra Operation] Heavy Cruiser Rainy Operation!",
+		"desc_jp": "【梅雨限定任務】旗艦及び同随伴艦に重巡洋艦または航空巡洋艦を配備した艦隊で、昭南本土航路<br>に出没する敵艦隊を反復撃滅、さらに前進してペナン島沖深部に反復出撃、敵主力艦隊を撃滅せよ！",
+		"desc_en": "Organize a fleet with a CA(V) as flagship and another CA(V) in your fleet and score S rank twice at the boss nodes on 7-3-2 and 7-4",
+		"added_update_id": 23,
+		"removed_update_id": null,
+		"season_id": 8,
+		"tracker": "[[954],[[2,[[7,3],6,2,[18,23,24,25],\"-2\"]],[0,[[7,4],6,2]]],[1,[[2,[[5,6],2,true,0]]]]]"
+	},
+	{
+		"id": 638,
+		"api_id": 955,
+		"code": "2306 B1",
+		"name_jp": "【梅雨限定月間任務】南方ソロモン方面漸減作戦",
+		"name_en": "[Rainy Season Monthly Quest] Southern Solomons Area Operation",
+		"desc_jp": "【梅雨限定任務】戦艦2隻以上、さらに阿賀野型・大淀型軽巡のいずれか1隻含む艦隊でソロモン海<br>方面に進出！南方海域の五作戦海域に遊弋する敵艦隊を随時撃滅、敵艦隊戦力の漸減を図れ！",
+		"desc_en": "Organize a fleet with 2 Battleship and 1 Agano-class or Oyoodo in your fleet and score an S rank at the boss nodes on 5-1, 5-2, 5-3, 5-4, 5-5",
+		"added_update_id": 23,
+		"removed_update_id": null,
+		"season_id": 8,
+		"tracker": "[[955],[[0,[[5,1],6,1]],[0,[[5,2],6,1]],[0,[[5,3],6,1]],[0,[[5,4],6,1]],[0,[[5,5],6,1]]],[0,[[2,[[8,9,10],2,false,0]],[8,[[[0,false,0,41],[183,false,0,0]],1]]]]]"
 	}
 ]

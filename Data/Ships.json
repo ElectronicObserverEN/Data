@@ -9812,5 +9812,12 @@
 		"NameJP": "集積地棲姫IV-壊",
 		"ApiId": 2171,
 		"IsFriendly": false
+	},
+	{
+		"Id": 1403,
+		"NameEN": "Shigure Kai San",
+		"NameJP": "時雨改三",
+		"ApiId": 961,
+		"IsFriendly": true
 	}
 ]

@@ -3820,5 +3820,23 @@
 		"api_id": 503,
 		"name_jp": "35.6cm連装砲改四",
 		"name_en": "35.6cm Twin Gun Mount Kai Yon"
+	},
+	{
+		"id": 2481,
+		"api_id": 504,
+		"name_jp": "銀河(熟練)",
+		"name_en": "Ginga (Skilled)"
+	},
+	{
+		"id": 2482,
+		"api_id": 505,
+		"name_jp": "25mm対空機銃増備",
+		"name_en": "25mm Anti-aircraft Machine Gun Extra"
+	},
+	{
+		"id": 2483,
+		"api_id": 506,
+		"name_jp": "電探装備マスト(13号改+22号電探改四)",
+		"name_en": "Radar Mast (Type 13 Kai and Type 22 Kai 4 radars)"
 	}
 ]
