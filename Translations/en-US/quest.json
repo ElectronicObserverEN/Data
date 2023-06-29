@@ -1,5 +1,5 @@
 {
-	"version": "21030334",
+	"version": "21030335",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1825,14 +1825,14 @@
 		"name_jp": "南方への輸送作戦を成功させよ！",
 		"name": "Transportation Towards South",
 		"desc_jp": "激戦海域である南方海域への「東京急行」系遠征を敢行、これを成功させよ！",
-		"desc": "Complete expedition 37 or 38."
+		"desc": "Complete either expedition 37 or 38 within the week"
 	},
 	"411": {
 		"code": "D11w3",
 		"name_jp": "南方への鼠輸送を継続実施せよ！",
 		"name": "Transportation Towards South (Cont.)",
 		"desc_jp": "今週中に「東京急行」系遠征を継続的に実施、同種作戦を7回成功させよう！",
-		"desc": "Complete expedition 37 or 38 a total of seven times in a week."
+		"desc": "Complete either expedition 37 or 38, 6 more times within the same week"
 	},
 	"412": {
 		"code": "D10",
@@ -4215,7 +4215,7 @@
 		"desc": "Have your secretary flagship Yura Kai Ni or Tone Kai Ni equip a max Type 0 Reconnaissance Seaplane in the first slot and then proceed to scrap 2x Type 97 Torpedo Bomber (931 Air Group) and have 950 bauxite, 2x New Model Aviation Material, 35x Development Material and 2x Skilled Crew Member (All resources and Materials will be consumed upon completion)"
 	},
 	"1127": {
-		"code": "F113",
+		"code": "F115",
 		"name_jp": "艦載用「煙幕発生装置」の改良",
 		"name": "Improving Shipborne \"Smoke Screen Generator\"",
 		"desc_jp": "【煙幕改良任務】旗艦「深雪改二」の第一装備スロに「発煙装置(煙幕)」を装備。開発資材x12、<br>新型兵装資材x2、さらに「発煙装置(煙幕)」x2、燃料x480、ボーキサイトx350を準備せよ！",
