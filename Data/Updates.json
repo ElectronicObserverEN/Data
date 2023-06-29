@@ -185,5 +185,16 @@
 		"live_update": false,
 		"maint_start_tweet": "",
 		"maint_end_tweet": ""
+	},
+	{
+		"id": 25,
+		"start_date": "2023-07-07T00:00:00",
+		"start_time": "11:00:00",
+		"end_time": null,
+		"name": "Rainy Season End",
+		"description": "- Rainy Season quests will be removed\r\n- Rainy Season CGs will be removed",
+		"live_update": false,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1674385855912480773?s=20",
+		"maint_end_tweet": ""
 	}
 ]
