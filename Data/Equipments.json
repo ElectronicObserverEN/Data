@@ -3838,5 +3838,17 @@
 		"api_id": 506,
 		"name_jp": "電探装備マスト(13号改+22号電探改四)",
 		"name_en": "Radar Mast (Type 13 Kai and Type 22 Kai 4 radars)"
+	},
+	{
+		"id": 2484,
+		"api_id": 507,
+		"name_jp": "14inch/45 連装砲",
+		"name_en": "14inch/45 Twin Gun Mount"
+	},
+	{
+		"id": 2485,
+		"api_id": 508,
+		"name_jp": "14inch/45 三連装砲",
+		"name_en": "14inch/45 Triple Gun Mount"
 	}
 ]
