@@ -1,5 +1,5 @@
 {
-	"version": "21030335",
+	"version": "21030336",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1279,7 +1279,7 @@
 		"name_jp": "「比叡」の出撃",
 		"name": "Hiei's Sortie",
 		"desc_jp": "「比叡」南方海域出撃任務：高速戦艦「比叡」を旗艦とする有力な艦隊で、南方海域<br>サブ島沖海域及びサーモン海域に出撃。同作戦海域の敵艦隊と交戦、これを撃滅せよ！",
-		"desc": "Sortie a fleet with Hiei as flagship to Worlds 5-3 and 5-4.<br>Obtain an S-rank at each boss node."
+		"desc": "Organize a fleet with Hiei as flagship and score an S rank at the boss nodes on 5-3 and 5-4"
 	},
 	"291": {
 		"code": "B134",

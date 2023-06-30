@@ -196,5 +196,16 @@
 		"live_update": false,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1674385855912480773?s=20",
 		"maint_end_tweet": ""
+	},
+	{
+		"id": 26,
+		"start_date": "2023-06-30T00:00:00",
+		"start_time": "19:30:00",
+		"end_time": null,
+		"name": "May 2023 Ranking Rewards",
+		"description": "",
+		"live_update": true,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1674715890485723146",
+		"maint_end_tweet": ""
 	}
 ]
