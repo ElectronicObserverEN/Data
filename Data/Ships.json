@@ -9819,5 +9819,12 @@
 		"NameJP": "時雨改三",
 		"ApiId": 961,
 		"IsFriendly": true
+	},
+	{
+		"Id": 1404,
+		"NameEN": "Amatsukaze Kai Ni",
+		"NameJP": "天津風改二",
+		"ApiId": 951,
+		"IsFriendly": true
 	}
 ]
