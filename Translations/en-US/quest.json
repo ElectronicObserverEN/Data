@@ -1,5 +1,5 @@
 {
-	"version": "21030340",
+	"version": "21030341",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4025,6 +4025,13 @@
 		"desc_jp": "【期間限定任務】「天津風」「雪風」「時津風」「初風」のうち2隻以上を含む艦隊で、製油所地帯沿岸、<br>南西諸島防衛線、鎮守府近海の反復哨戒を実施！鎮守府海域の安全を確保、作戦準備に備えよ！",
 		"desc": "Organize a fleet with at least two of Yukikaze, Tokitsukaze, Hatsukaze and Amatsukaze in your fleet and score an S rank at the boss nodes on 1-3, 1-4 and 1-5 three times each"
 	},
+	"993": {
+		"code": "993",
+		"name_jp": "改装駆逐艦「天津風改二」、抜錨せよ！",
+		"name": "Remodeled Destroyer [Amatsukaze Kai Ni], set sail!",
+		"desc_jp": "改装駆逐艦「天津風改二」旗艦の艦隊で、南西諸島海域沖ノ島沖、中部北海域ピーコック島沖、<br>南方海域サブ島沖海域及びサーモン海域、南西海域昭南本土航路に展開！敵戦力を撃滅せよ！",
+		"desc": "Organize a fleet with Amatsukaze Kai Ni as flagship and score an S rank at the boss nodes on 2-5, 5-3, 5-4, 6-4 and 7-4"
+	},
 	"995": {
 		"code": "B189",
 		"name_jp": "改装特I型駆逐艦「深雪改二」、出撃せよ！",
@@ -4213,5 +4220,12 @@
 		"name": "Arsenal Preparation For Large-Scale Remodel",
 		"desc_jp": "工廠事前準備任務：「機銃」「機関部強化」「バルジ」系各装備x3を廃棄。ドラム缶(輸送用)x3、<br>ボーキサイト2,700及び鋼材5,500を準備せよ！(任務達成後、準備した資源等は消費します)",
 		"desc": "Proceed to scrap 3x AA gun,  3x Engine/Boiler, 3x Armor bulge and have 3x Drum Canister, 2700 bauxite, 5500 steel (All resources and Materials will be consumed upon completion)"
+	},
+	"1131": {
+		"code": "1131",
+		"name_jp": "砲熕兵装の整備",
+		"name": "Maintenance of Artillery Armament",
+		"desc_jp": "「小口径主砲」x18、「中口径主砲」x12、「爆雷」系装備x6を廃棄。「応急修理要員」x1を用意。<br>さらに弾薬2,500及び鋼材3,000を準備せよ！ (任務達成後、準備した資源等は消費します)",
+		"desc": "Have 1x emergency repair personnel, 2500 ammo and 3000 steel and then proceed to scrap 18x small caliber main guns, 12x medium caliber main guns and 6x depth charges (All resources and Materials will be consumed upon completion)"
 	}
 }
