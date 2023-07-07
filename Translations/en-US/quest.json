@@ -1,5 +1,5 @@
 {
-	"version": "21030338",
+	"version": "21030339",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1756,6 +1756,13 @@
 		"name": "The Most Elite! Improved Shigure Exercises, Commence!",
 		"desc_jp": "「時雨改三」練度向上任務：改装白露型駆逐艦「時雨改三」を旗艦として、僚艦駆逐艦3隻以上を含む<br>演習艦隊で、本日中に演習で【S判定】勝利を4回以上達成せよ！最精鋭「時雨改三」、演習開始ッ！",
 		"desc": "Organize a fleet with Shigure Kai San as flagship and 3 other DD in your fleet and score S rank 4 times in PvP"
+	},
+	"368": {
+		"code": "368",
+		"name_jp": "「十六駆」演習！",
+		"name": " [16th Squadron] Exercises!",
+		"desc_jp": "駆逐隊演習：第十六駆逐隊「天津風」「雪風」「時津風」「初風」のうち2隻以上を含む演習艦隊を編成。<br>同演習艦隊で本日中に演習【S判定】勝利3回以上を達成せよ！　いい風きてる？十六駆、演習開始！",
+		"desc": "Organize a fleet with at least 2 members of Yukikaze, Tokitsukaze, Hatsukaze and Amatsukaze in your fleet and score S rank 3 times in PvP"
 	},
 	"401": {
 		"code": "D1",
