@@ -899,7 +899,8 @@
 			}
 		],
 		"upgrade_for": [
-			317
+			317,
+			483
 		]
 	},
 	{
@@ -4759,6 +4760,18 @@
 				"convert": null,
 				"helpers": [{"ship_ids":[110,288,461,466],"days":[0,1,2,3,6]},{"ship_ids":[603,704],"days":[0,1,2,3,4,5,6]}],
 				"costs": {"fuel":30,"ammo":30,"steel":30,"baux":30,"p1":{"devmats":3,"devmats_sli":4,"screws":2,"screws_sli":3,"equips":[{"id":477,"eq_count":1}],"consumable":[]},"p2":{"devmats":4,"devmats_sli":5,"screws":2,"screws_sli":3,"equips":[{"id":477,"eq_count":1}],"consumable":[]}}
+			}
+		],
+		"convert_to": [],
+		"upgrade_for": []
+	},
+	{
+		"eq_id": 483,
+		"improvement": [
+			{
+				"convert": null,
+				"helpers": [{"ship_ids":[591],"days":[6]}],
+				"costs": {"fuel":100,"ammo":240,"steel":220,"baux":280,"p1":{"devmats":11,"devmats_sli":13,"screws":6,"screws_sli":7,"equips":[{"id":35,"eq_count":1}],"consumable":[]},"p2":{"devmats":14,"devmats_sli":18,"screws":7,"screws_sli":9,"equips":[{"id":35,"eq_count":2}],"consumable":[]}}
 			}
 		],
 		"convert_to": [],
