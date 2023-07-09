@@ -8101,7 +8101,7 @@
 	{
 		"id": 632,
 		"api_id": 1130,
-		"code": "F117",
+		"code": "F118",
 		"name_jp": "大規模改装の工廠準備",
 		"name_en": "Arsenal Preparation For Large-Scale Remodel",
 		"desc_jp": "工廠事前準備任務：「機銃」「機関部強化」「バルジ」系各装備x3を廃棄。ドラム缶(輸送用)x3、<br>ボーキサイト2,700及び鋼材5,500を準備せよ！(任務達成後、準備した資源等は消費します)",
@@ -8218,9 +8218,9 @@
 	{
 		"id": 641,
 		"api_id": 1131,
-		"code": "F118",
+		"code": "F119",
 		"name_jp": "砲熕兵装の整備",
-		"name_en": "Maintenance of Artillery Armament",
+		"name_en": "Artillery Armament Maintenance",
 		"desc_jp": "「小口径主砲」x18、「中口径主砲」x12、「爆雷」系装備x6を廃棄。「応急修理要員」x1を用意。<br>さらに弾薬2,500及び鋼材3,000を準備せよ！ (任務達成後、準備した資源等は消費します)",
 		"desc_en": "Have 1x emergency repair personnel, 2500 ammo and 3000 steel and then proceed to scrap 18x small caliber main guns, 12x medium caliber main guns and 6x depth charges (All resources and Materials will be consumed upon completion)",
 		"added_update_id": 25,

@@ -1,5 +1,5 @@
 {
-	"version": "21030342",
+	"version": "21030343",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4222,16 +4222,16 @@
 		"desc": "Have a submarine as secretary flagship with a Late Model Bow Torpedo Mount (6 Tubes) (★max) in the first slot and have 36x Development Material, 2x New Model Armament Material, 4x 61cm Triple (Oxygen) Torpedo Mount, 3x Skilled Lookouts, 800 ammo (All resources and Materials will be consumed upon completion)"
 	},
 	"1130": {
-		"code": "F117",
+		"code": "F118",
 		"name_jp": "大規模改装の工廠準備",
 		"name": "Arsenal Preparation For Large-Scale Remodel",
 		"desc_jp": "工廠事前準備任務：「機銃」「機関部強化」「バルジ」系各装備x3を廃棄。ドラム缶(輸送用)x3、<br>ボーキサイト2,700及び鋼材5,500を準備せよ！(任務達成後、準備した資源等は消費します)",
 		"desc": "Proceed to scrap 3x AA gun,  3x Engine/Boiler, 3x Armor bulge and have 3x Drum Canister, 2700 bauxite, 5500 steel (All resources and Materials will be consumed upon completion)"
 	},
 	"1131": {
-		"code": "F118",
+		"code": "F119",
 		"name_jp": "砲熕兵装の整備",
-		"name": "Maintenance of Artillery Armament",
+		"name": "Artillery Armament Maintenance",
 		"desc_jp": "「小口径主砲」x18、「中口径主砲」x12、「爆雷」系装備x6を廃棄。「応急修理要員」x1を用意。<br>さらに弾薬2,500及び鋼材3,000を準備せよ！ (任務達成後、準備した資源等は消費します)",
 		"desc": "Have 1x emergency repair personnel, 2500 ammo and 3000 steel and then proceed to scrap 18x small caliber main guns, 12x medium caliber main guns and 6x depth charges (All resources and Materials will be consumed upon completion)"
 	}
