@@ -2524,7 +2524,7 @@
 	{
 		"id": 201,
 		"api_id": 302,
-		"code": "C4w",
+		"code": "Cw1",
 		"name_jp": "大規模演習",
 		"name_en": "Large-scale Exercises",
 		"desc_jp": "今週中に「演習」で他の提督の艦隊に対して20回「勝利」しよう！",
@@ -2537,7 +2537,7 @@
 	{
 		"id": 202,
 		"api_id": 303,
-		"code": "C2d1",
+		"code": "Cd1",
 		"name_jp": "「演習」で練度向上！",
 		"name_en": "Do Exercises",
 		"desc_jp": "本日中に他の司令官の艦隊に対して3回「演習」を挑もう！",
@@ -2550,7 +2550,7 @@
 	{
 		"id": 203,
 		"api_id": 304,
-		"code": "C3d2",
+		"code": "Cd2",
 		"name_jp": "「演習」で他提督を圧倒せよ！",
 		"name_en": "Defeat Other Admirals",
 		"desc_jp": "本日中に他の司令官の艦隊との「演習」で5回以上「勝利」をおさめよう！",
@@ -2615,7 +2615,7 @@
 	{
 		"id": 208,
 		"api_id": 311,
-		"code": "C8m",
+		"code": "Cm1",
 		"name_jp": "精鋭艦隊演習",
 		"name_en": "Elite Fleet Exercises",
 		"desc_jp": "同日中に「演習」で7回以上「勝利」をおさめ、我が精鋭艦隊の練度を示そう！",
@@ -2641,7 +2641,7 @@
 	{
 		"id": 210,
 		"api_id": 313,
-		"code": "C10",
+		"code": "Cs1",
 		"name_jp": "秋季大演習",
 		"name_en": "Autumn Large-scale Exercises",
 		"desc_jp": "秋の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！",
@@ -2654,7 +2654,7 @@
 	{
 		"id": 211,
 		"api_id": 314,
-		"code": "C71",
+		"code": "Cs2",
 		"name_jp": "冬季大演習",
 		"name_en": "Winter Large-scale Exercises",
 		"desc_jp": "冬季大演習：冬の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！",
@@ -2667,7 +2667,7 @@
 	{
 		"id": 212,
 		"api_id": 315,
-		"code": "C12",
+		"code": "Cs3",
 		"name_jp": "春季大演習",
 		"name_en": "Spring Large-scale Exercises",
 		"desc_jp": "春季大演習：春の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！",
@@ -2706,7 +2706,7 @@
 	{
 		"id": 215,
 		"api_id": 318,
-		"code": "C16",
+		"code": "Cm2",
 		"name_jp": "給糧艦「伊良湖」の支援",
 		"name_en": "Support from Supply Ship \"Irako\"",
 		"desc_jp": "伊良湖支援任務：軽巡を2隻以上配備した第一艦隊で本日中に演習で3回「勝利」、その後、<br>第一艦隊旗艦に戦闘糧食を二つ装備せよ！　※任務達成後、同戦闘糧食は消費します",
@@ -2797,7 +2797,7 @@
 	{
 		"id": 222,
 		"api_id": 326,
-		"code": "C77",
+		"code": "Cs4",
 		"name_jp": "夏季大演習",
 		"name_en": "Mass Exercises for Summer",
 		"desc_jp": "夏季大演習：夏季期間の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！<br>暑さに負けるな！　艦隊、抜錨！",
@@ -2849,7 +2849,7 @@
 	{
 		"id": 226,
 		"api_id": 330,
-		"code": "C29",
+		"code": "Cq1",
 		"name_jp": "空母機動部隊、演習始め！",
 		"name_en": "Carrier Task Force, Commence Exercises!",
 		"desc_jp": "空母機動部隊演習任務：航空母艦旗艦他1隻計2隻以上及び駆逐艦2隻を含む空母機動部隊を編成。<br>機動部隊各艦の練度向上を図る！同艦隊で、本日中に演習で4回以上勝利せよ！",
@@ -2940,7 +2940,7 @@
 	{
 		"id": 233,
 		"api_id": 337,
-		"code": "C38",
+		"code": "Cq2",
 		"name_jp": "「十八駆」演習！",
 		"name_en": "DesDiv 18 Exercise!",
 		"desc_jp": "駆逐艦演習任務：第十八駆逐隊「霞」「霰」「陽炎」「不知火」の4隻を含む演習艦隊を編成。<br>同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！精鋭十八駆に落ち度など無し！",
@@ -2966,7 +2966,7 @@
 	{
 		"id": 235,
 		"api_id": 339,
-		"code": "C42",
+		"code": "Cq3",
 		"name_jp": "「十九駆」演習！",
 		"name_en": "\"DesDiv 19\" Exercises!",
 		"desc_jp": "駆逐艦演習任務：第十九駆逐隊「磯波」「浦波」「綾波」「敷波」の4隻を含む演習艦隊を編成。<br>同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！精鋭十九駆、じゃ、見ててよね！",
@@ -3005,7 +3005,7 @@
 	{
 		"id": 238,
 		"api_id": 342,
-		"code": "C44",
+		"code": "Cq4",
 		"name_jp": "小艦艇群演習強化任務",
 		"name_en": "Small ship exercise strengthining mission",
 		"desc_jp": "駆逐艦または海防艦計4隻(軽巡級1隻導入可能)を含む演習艦隊を編成、<br>同演習艦隊による演習で本日中に【A判定】以上の勝利を4回以上達成せよ！",
@@ -3044,7 +3044,7 @@
 	{
 		"id": 241,
 		"api_id": 345,
-		"code": "C49",
+		"code": "Cy1",
 		"name_jp": "演習ティータイム！",
 		"name_en": "Tea Time Exercises",
 		"desc_jp": "「Warspite」「金剛」「Ark Royal」「Nelson」及びJ級駆逐艦から4隻以上含む艦隊を編成！<br>同ティータイム艦隊で、本日中に【A判定】以上の勝利を4回以上達成せよ！Tea Timeは大切ネー！",
@@ -3057,7 +3057,7 @@
 	{
 		"id": 242,
 		"api_id": 346,
-		"code": "C50",
+		"code": "Cy2",
 		"name_jp": "最精鋭！主力オブ主力、演習開始！",
 		"name_en": "The cream of the crop! Main Force of the Main Force, commence exercises!",
 		"desc_jp": "第十駆逐隊演習任務：改装甲型駆逐艦「夕雲改二」「巻雲改二」「風雲改二」「秋雲改二」の4隻を<br>含む艦隊を編成、同駆逐隊を含む精鋭艦隊で、本日中に【S判定】以上の勝利を4回以上達成せよ！",
@@ -3083,7 +3083,7 @@
 	{
 		"id": 244,
 		"api_id": 348,
-		"code": "C53",
+		"code": "Cy3",
 		"name_jp": "「精鋭軽巡」演習！",
 		"name_en": "Elite Light Cruiser Exercise",
 		"desc_jp": "旗艦に軽巡級(雷巡を除く)、旗艦含む3隻以上の軽巡級と随伴駆逐艦2隻を配備した軽巡演習艦隊を<br>編成、同艦隊により本日中に演習で【A判定】以上の勝利を4回以上達成せよ！",
@@ -3109,7 +3109,7 @@
 	{
 		"id": 246,
 		"api_id": 350,
-		"code": "C55",
+		"code": "Cy4",
 		"name_jp": "精鋭「第七駆逐隊」演習開始！",
 		"name_en": "Elite \"7th Destroyer Division\", Commence Exercises!",
 		"desc_jp": "七駆演習任務：第七駆逐隊「朧」「曙」「漣」「潮」の4隻を含む演習艦隊を編成、<br>本日中に【A判定】勝利3回以上達成せよ。精鋭第七駆逐隊、演習開始！",
@@ -3148,7 +3148,7 @@
 	{
 		"id": 249,
 		"api_id": 353,
-		"code": "C58",
+		"code": "Cy5",
 		"name_jp": "「巡洋艦戦隊」演習！",
 		"name_en": "Cruiser Squadron, Commence Practice!",
 		"desc_jp": "「重巡洋艦」または「航空巡洋艦」、旗艦を含む重巡級4隻による巡洋艦戦隊を基幹とし、<br>随伴駆逐艦2隻による計6隻編成の艦隊で、本日中に5回以上演習で勝利せよ！",
@@ -3161,7 +3161,7 @@
 	{
 		"id": 250,
 		"api_id": 354,
-		"code": "C60",
+		"code": "Cy6",
 		"name_jp": "「改装特務空母」任務部隊演習！",
 		"name_en": "\"Remodeled Utility Carrier\" Task Force Exercise",
 		"desc_jp": "旗艦に「改装特務空母」、僚艦に「Fletcher級駆逐艦」または「John C.Butler級護衛駆逐艦」<br>計2隻以上を含む任務部隊を編成。同艦隊で、本日中に【S判定】勝利を4回以上達成せよ！",
@@ -3174,7 +3174,7 @@
 	{
 		"id": 251,
 		"api_id": 355,
-		"code": "C62",
+		"code": "Cy7",
 		"name_jp": "精鋭「第十五駆逐隊」第一小隊演習！",
 		"name_en": "Elite \"15th DesDiv\" 1st Platoon Exercise",
 		"desc_jp": "旗艦に「黒潮改二」または「親潮改二」、そのいずれかを二番艦とする演習艦隊で、<br>本日中に【S判定】勝利を4回以上達成せよ！",
@@ -3187,7 +3187,7 @@
 	{
 		"id": 252,
 		"api_id": 356,
-		"code": "C63",
+		"code": "Cy8",
 		"name_jp": "精鋭「第十九駆逐隊」演習！",
 		"name_en": "Elite DesDiv 19 exercise!",
 		"desc_jp": "精鋭駆逐艦演習任務：精鋭第十九駆逐隊「磯波改二」「浦波改二」「綾波改二」「敷波改二」<br>4隻を含む演習艦隊を編成。同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！",
@@ -3200,7 +3200,7 @@
 	{
 		"id": 253,
 		"api_id": 357,
-		"code": "C66",
+		"code": "Cy9",
 		"name_jp": "「大和型戦艦」第一戦隊演習、始め！",
 		"name_en": "[Yamato-class Battleship] 1st Squadron exercises, begin! ",
 		"desc_jp": "大和型戦艦演習任務：大和型戦艦「大和」及び「武蔵」両艦、随伴艦に軽巡1隻、駆逐艦2隻<br>以上を含む演習艦隊を編成。同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！",
@@ -3252,7 +3252,7 @@
 	{
 		"id": 257,
 		"api_id": 402,
-		"code": "D2d1",
+		"code": "Dd1",
 		"name_jp": "「遠征」を３回成功させよう！",
 		"name_en": "Complete 3 Expeditions",
 		"desc_jp": "本日中に「遠征」３回成功させよう！",
@@ -3265,7 +3265,7 @@
 	{
 		"id": 258,
 		"api_id": 403,
-		"code": "D3d2",
+		"code": "Dd2",
 		"name_jp": "「遠征」を１０回成功させよう！",
 		"name_en": "Complete 10 Expeditions",
 		"desc_jp": "本日中に「遠征」10回成功させよう！",
@@ -3278,7 +3278,7 @@
 	{
 		"id": 259,
 		"api_id": 404,
-		"code": "D4w1",
+		"code": "Dw1",
 		"name_jp": "大規模遠征作戦、発令！",
 		"name_en": "Large-scale Expedition Operation",
 		"desc_jp": "今週中に「遠征」30回成功させよう！",
@@ -3343,7 +3343,7 @@
 	{
 		"id": 264,
 		"api_id": 410,
-		"code": "D9w2",
+		"code": "Dw2",
 		"name_jp": "南方への輸送作戦を成功させよ！",
 		"name_en": "Transportation Towards South",
 		"desc_jp": "激戦海域である南方海域への「東京急行」系遠征を敢行、これを成功させよ！",
@@ -3356,7 +3356,7 @@
 	{
 		"id": 265,
 		"api_id": 411,
-		"code": "D11w3",
+		"code": "Dw3",
 		"name_jp": "南方への鼠輸送を継続実施せよ！",
 		"name_en": "Transportation Towards South (Cont.)",
 		"desc_jp": "今週中に「東京急行」系遠征を継続的に実施、同種作戦を7回成功させよう！",
@@ -3512,7 +3512,7 @@
 	{
 		"id": 277,
 		"api_id": 424,
-		"code": "D22m",
+		"code": "Dm1",
 		"name_jp": "輸送船団護衛を強化せよ！",
 		"name_en": "Reinforce the Transport Escort!",
 		"desc_jp": "遠征任務：「海上護衛任務」を反復実施し、輸送船団の護衛に務めよ！",
@@ -3538,7 +3538,7 @@
 	{
 		"id": 279,
 		"api_id": 426,
-		"code": "D24q1",
+		"code": "Dq1",
 		"name_jp": "海上通商航路の警戒を厳とせよ！",
 		"name_en": "Stay Alert on the Maritime Routes!",
 		"desc_jp": "遠征任務：遠征任務「警備任務」「対潜警戒任務」「海上護衛任務」「強行偵察任務」<br>を実施し、敵の通商破壊部隊を制圧、海上通商航路の安全を確保せよ！",
@@ -3564,7 +3564,7 @@
 	{
 		"id": 281,
 		"api_id": 428,
-		"code": "D26q2",
+		"code": "Dq2",
 		"name_jp": "近海に侵入する敵潜を制圧せよ！",
 		"name_en": "Suppress the Enemy Submarines Invading Nearby!",
 		"desc_jp": "敵潜制圧任務：遠征任務「対潜警戒任務」「海峡警備行動」「長時間対潜警戒」を<br>それぞれ複数回実施し、近海に潜り込む敵潜部隊を制圧、我が領海から叩き出せ！",
@@ -3642,7 +3642,7 @@
 	{
 		"id": 287,
 		"api_id": 434,
-		"code": "D32",
+		"code": "Dy1",
 		"name_jp": "特設護衛船団司令部、活動開始！",
 		"name_en": "Establishing the Special Escort Convoy Headquarters!",
 		"desc_jp": "海上護衛任務：遠征任務「警備任務」「海上護衛任務」「兵站強化任務」「海峡警備行動」<br>「タンカー護衛任務」の各任務を、海防艦・駆逐艦などを主軸とした護衛艦艇で実施せよ！",
@@ -3668,7 +3668,7 @@
 	{
 		"id": 289,
 		"api_id": 436,
-		"code": "D33",
+		"code": "Dy2",
 		"name_jp": "練習航海及び警備任務を実施せよ！",
 		"name_en": "Carry out a Training Voyage as well as Guard Duty!",
 		"desc_jp": "練習航海及び警備任務：「練習航海」「長距離練習航海」「警備任務」「対潜警戒任務」<br>「強行偵察任務」の各遠征任務を、軽巡・駆逐艦・海防艦などの艦艇で実施せよ！",
@@ -3681,7 +3681,7 @@
 	{
 		"id": 290,
 		"api_id": 437,
-		"code": "D34",
+		"code": "Dy3",
 		"name_jp": "小笠原沖哨戒線の強化を実施せよ！",
 		"name_en": "Strengthen the Ogasawara Coastal Patrol Line!",
 		"desc_jp": "小笠原沖哨戒線任務：「対潜警戒任務」「小笠原沖哨戒線遠征」「小笠原沖戦闘哨戒」<br>「南西方面航空偵察作戦」の各遠征任務を軽巡・駆逐艦など実施、これを成功させよ！",
@@ -3694,7 +3694,7 @@
 	{
 		"id": 291,
 		"api_id": 438,
-		"code": "D35",
+		"code": "Dy4",
 		"name_jp": "南西諸島方面の海上護衛を強化せよ！",
 		"name_en": "Reinforce our maritime escorts in the Nansei Islands area!",
 		"desc_jp": "海上護衛任務：「兵站強化任務」「対潜警戒任務」「タンカー護衛任務」及び<br>「南西諸島捜索撃滅戦」の各遠征任務を実施、これを成功させよ！",
@@ -3707,7 +3707,7 @@
 	{
 		"id": 292,
 		"api_id": 439,
-		"code": "D36",
+		"code": "Dy5",
 		"name_jp": "兵站強化遠征任務【基本作戦】",
 		"name_en": "Military Buildup Expedition Mission: \"Basic Operation\"",
 		"desc_jp": "兵站強化遠征任務：「海上護衛任務」「兵站強化任務」「ボーキサイト輸送任務」及び<br>「南西方面航空偵察作戦」の各遠征任務を実施、これを成功させよ！",
@@ -3720,7 +3720,7 @@
 	{
 		"id": 293,
 		"api_id": 440,
-		"code": "D37",
+		"code": "Dy6",
 		"name_jp": "兵站強化遠征任務【拡張作戦】",
 		"name_en": "Military Buildup Expedition Mission: \"Extra Operation\"",
 		"desc_jp": "兵站強化拡張任務：「ブルネイ泊地沖哨戒」「海上護衛任務」「水上機前線輸送」<br>及び「強行鼠輸送作戦」「南西海域戦闘哨戒」各遠征を実施、これを成功させよ！",
@@ -3746,7 +3746,7 @@
 	{
 		"id": 295,
 		"api_id": 442,
-		"code": "D38",
+		"code": "Dy7",
 		"name_jp": "西方連絡作戦準備を実施せよ！",
 		"name_en": "Preparation for Western Contact Operation",
 		"desc_jp": "西方連絡作戦準備：「西方海域偵察作戦」「潜水艦派遣演習」「潜水艦派遣作戦」<br>及び「欧州方面友軍との接触」各遠征を実施、これを成功させよ！",
@@ -3772,7 +3772,7 @@
 	{
 		"id": 297,
 		"api_id": 444,
-		"code": "D40",
+		"code": "Dy8",
 		"name_jp": "新兵装開発資材輸送を船団護衛せよ！",
 		"name_en": "Escort the convoy to transport new weapons development materials!",
 		"desc_jp": "新兵装開発資材輸送護衛：「海上護衛任務」「資源輸送任務」「タンカー護衛任務」<br>「南西方面航空偵察作戦」「ボーキサイト輸送任務」遠征を実施、これを成功させよ！",
@@ -3850,7 +3850,7 @@
 	{
 		"id": 303,
 		"api_id": 503,
-		"code": "E3d1",
+		"code": "Ed1",
 		"name_jp": "艦隊大整備！",
 		"name_en": "Daily Repairs",
 		"desc_jp": "各艦隊から整備が必要な艦を5隻以上ドック入りさせ、大規模な整備をしよう！",
@@ -3863,7 +3863,7 @@
 	{
 		"id": 304,
 		"api_id": 504,
-		"code": "E4d2",
+		"code": "Ed2",
 		"name_jp": "艦隊酒保祭り！",
 		"name_en": "Daily Resupplies",
 		"desc_jp": "艦隊酒保祭り！各艦に延べ15回以上の補給を実施しよう！",
@@ -4045,7 +4045,7 @@
 	{
 		"id": 318,
 		"api_id": 605,
-		"code": "F5d1",
+		"code": "Fd1",
 		"name_jp": "新装備「開発」指令",
 		"name_en": "Develop New Equipment",
 		"desc_jp": "「工廠」で装備アイテムを新たに「開発」しよう(失敗もOK)！",
@@ -4058,7 +4058,7 @@
 	{
 		"id": 319,
 		"api_id": 606,
-		"code": "F6d2",
+		"code": "Fd2",
 		"name_jp": "新造艦「建造」指令",
 		"name_en": "Construct New Ship",
 		"desc_jp": "「工廠」で艦娘を本日中に新たに「建造」しよう！",
@@ -4071,7 +4071,7 @@
 	{
 		"id": 320,
 		"api_id": 607,
-		"code": "F7d3",
+		"code": "Fd3",
 		"name_jp": "装備「開発」集中強化！",
 		"name_en": "Develop More Equipment",
 		"desc_jp": "「工廠」で装備アイテムを本日中に3回「開発」しよう(失敗もOK)！",
@@ -4084,7 +4084,7 @@
 	{
 		"id": 321,
 		"api_id": 608,
-		"code": "F8d4",
+		"code": "Fd4",
 		"name_jp": "艦娘「建造」艦隊強化！",
 		"name_en": "Construct More New Ships",
 		"desc_jp": "艦隊強化のため、「工廠」で艦娘を本日中に3隻「建造」しよう！",
@@ -4097,7 +4097,7 @@
 	{
 		"id": 322,
 		"api_id": 609,
-		"code": "F9d5",
+		"code": "Fd5",
 		"name_jp": "軍縮条約対応！",
 		"name_en": "Dismantlement Duty",
 		"desc_jp": "少し艦隊規模が大きくなりすぎました！「工廠」で不要な艦を2隻「解体」してください！",
@@ -4149,7 +4149,7 @@
 	{
 		"id": 326,
 		"api_id": 613,
-		"code": "F12w1",
+		"code": "Fw1",
 		"name_jp": "資源の再利用",
 		"name_en": "Recycling Resources",
 		"desc_jp": "「工廠」で余剰の装備アイテムをなるべく多く「廃棄」して、鋼材の再利用に努めよう！",
@@ -4227,7 +4227,7 @@
 	{
 		"id": 332,
 		"api_id": 619,
-		"code": "F18d6",
+		"code": "Fd6",
 		"name_jp": "装備の改修強化",
 		"name_en": "Improve Equipment",
 		"desc_jp": "「改修工廠」で「装備」の改修強化に努めます。",
@@ -4318,7 +4318,7 @@
 	{
 		"id": 339,
 		"api_id": 626,
-		"code": "F22m1",
+		"code": "Fm1",
 		"name_jp": "精鋭「艦戦」隊の新編成",
 		"name_en": "Reorganisation of the Fighter Forces",
 		"desc_jp": "要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！",
@@ -4344,7 +4344,7 @@
 	{
 		"id": 341,
 		"api_id": 628,
-		"code": "F25m2",
+		"code": "Fm2",
 		"name_jp": "機種転換",
 		"name_en": "Model Conversion",
 		"desc_jp": "練度max「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！",
@@ -4461,7 +4461,7 @@
 	{
 		"id": 350,
 		"api_id": 637,
-		"code": "F35q1",
+		"code": "Fq1",
 		"name_jp": "「熟練搭乗員」養成",
 		"name_en": "Skilled Crew Member Training",
 		"desc_jp": "勲章x2消費：「鳳翔」秘書艦に練度max及び改修max「九六式艦戦」を搭載、熟練搭乗員を養成せよ！<br>(任務達成後、部隊は消滅します)",
@@ -4474,7 +4474,7 @@
 	{
 		"id": 351,
 		"api_id": 638,
-		"code": "F34w2",
+		"code": "Fw2",
 		"name_jp": "対空機銃量産",
 		"name_en": "AA Gun Mass Production",
 		"desc_jp": "「機銃」系装備を量産し、工廠で6個廃棄！ 「装備改修」強化をサポートせよ！",
@@ -4539,7 +4539,7 @@
 	{
 		"id": 356,
 		"api_id": 643,
-		"code": "F39q2",
+		"code": "Fq2",
 		"name_jp": "主力「陸攻」の調達",
 		"name_en": "Supply of the Land-based Main Bomber Force",
 		"desc_jp": "主力陸上攻撃機「一式陸攻」の新規調達を行う。「零式艦戦21型」を二つ「工廠」で廃棄し、<br>「九六式陸攻」一つと「九七式艦攻」二つを準備せよ！(任務達成後、用意した必要装備は消滅します)",
@@ -4565,7 +4565,7 @@
 	{
 		"id": 358,
 		"api_id": 645,
-		"code": "F41m3",
+		"code": "Fm3",
 		"name_jp": "「洋上補給」物資の調達",
 		"name_en": "Procurement of Underway Replenishment",
 		"desc_jp": "「三式弾」一つを廃棄し、燃料750及び弾薬750と「ドラム缶(輸送用)」二つと「九一式徹甲弾」一つを<br>用意せよ！※任務達成後、用意した資源及び必要装備(徹甲弾は改修値の低いもの優先)は消滅します。",
@@ -4669,7 +4669,7 @@
 	{
 		"id": 366,
 		"api_id": 653,
-		"code": "F90",
+		"code": "Fq9",
 		"name_jp": "工廠稼働！次期作戦準備！",
 		"name_en": "Arsenal Work! Preparations for the Next Operation!",
 		"desc_jp": "「14cm単装砲」x6廃棄、家具コイン6,000と「35.6cm連装砲」「九六式艦戦」各三つを<br>準備せよ！　※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。",
@@ -4682,7 +4682,7 @@
 	{
 		"id": 367,
 		"api_id": 654,
-		"code": "F93",
+		"code": "Fy2",
 		"name_jp": "精鋭複葉機飛行隊の編成",
 		"name_en": "Formation of a splendid biplane squadron",
 		"desc_jp": "精鋭複葉機飛行隊の編成：秘書艦「Ark Royal」に改修max「Swordfish」を一番スロットに搭載、「Swordfish」x1「Fulmar」x2を廃棄、「熟練搭乗員」、弾薬とボーキサイトを各1,500用意せよ！",
@@ -4695,7 +4695,7 @@
 	{
 		"id": 368,
 		"api_id": 655,
-		"code": "F94",
+		"code": "Fy3",
 		"name_jp": "工廠フル稼働！新兵装を開発せよ！",
 		"name_en": "Arsenal at maximum capacity! Develop new armaments!",
 		"desc_jp": "「小口径主砲」「中口径主砲」「大口径主砲」「水偵」「艦攻」系各装備をそれぞれ五つずつ廃棄！鋼材、燃料、ボーキサイト各1,500を準備せよ！　※任務達成後、準備した資源は消費します。",
@@ -4721,7 +4721,7 @@
 	{
 		"id": 370,
 		"api_id": 657,
-		"code": "F92",
+		"code": "Fy1",
 		"name_jp": "新型兵装開発整備の強化",
 		"name_en": "Improving Development and Maintenance of New Armaments",
 		"desc_jp": "新型兵装の開発体制整備を実施する！「小口径主砲」系装備x6、「中口径主砲」系装備x5、「魚雷」系装備x4を廃棄、鋼材4,000を準備せよ！　※任務達成後、準備した資源は消費します。",
@@ -4799,7 +4799,7 @@
 	{
 		"id": 376,
 		"api_id": 663,
-		"code": "F55q3",
+		"code": "Fq3",
 		"name_jp": "新型艤装の継続研究",
 		"name_en": "Development of New Type Equipment Fitting Research (Cont.)",
 		"desc_jp": "工廠任務：新型艤装の開発を継続実施する。「大口径主砲」系装備x10を廃棄、鉄鋼18,000を準備せよ！<br>※任務達成後、準備した資源は消費します。「勲章」と「新型砲熕兵装資材」の獲得選択が可能です。",
@@ -4929,7 +4929,7 @@
 	{
 		"id": 386,
 		"api_id": 673,
-		"code": "F65d7",
+		"code": "Fd7",
 		"name_jp": "装備開発力の整備",
 		"name_en": "Maintenance of Equipment Development Capability",
 		"desc_jp": "工廠整備任務：装備開発力を整備する。「小口径主砲」系装備x4を廃棄せよ！",
@@ -4942,7 +4942,7 @@
 	{
 		"id": 387,
 		"api_id": 674,
-		"code": "F66d8",
+		"code": "Fd8",
 		"name_jp": "工廠環境の整備",
 		"name_en": "Maintenance of the Arsenal Environment",
 		"desc_jp": "工廠整備任務：工廠環境の重整備を実施する。「機銃」系装備x3を廃棄、鋼材300を準備せよ！<br>※任務達成後、準備した資源は消費します。",
@@ -4955,7 +4955,7 @@
 	{
 		"id": 388,
 		"api_id": 675,
-		"code": "F67q4",
+		"code": "Fq4",
 		"name_jp": "運用装備の統合整備",
 		"name_en": "Integrated Maintenance of Operational Equipment",
 		"desc_jp": "運用装備統合任務：装備の統合整備を実施する。「艦上戦闘機」系装備x6、「機銃」系装備x4を廃棄、<br>ボーキサイト800を準備(本任務は時局により更新されます)。　※任務達成後、準備資源を消費します。",
@@ -4968,7 +4968,7 @@
 	{
 		"id": 389,
 		"api_id": 676,
-		"code": "F68w3",
+		"code": "Fw3",
 		"name_jp": "装備開発力の集中整備",
 		"name_en": "Weekly Gun Dismantlement",
 		"desc_jp": "工廠環境の集中整備を実施する！「中口径主砲」系装備x3、「副砲」系装備x3、「ドラム缶(輸送用)」x1<br>を廃棄、鋼材2,400を準備せよ！　※任務達成後、準備した資源は消費します。",
@@ -4981,7 +4981,7 @@
 	{
 		"id": 390,
 		"api_id": 677,
-		"code": "F69w4",
+		"code": "Fw4",
 		"name_jp": "継戦支援能力の整備",
 		"name_en": "Weekly Dismantlement 2",
 		"desc_jp": "艦娘の継戦支援体制の整備強化を実施する！「大口径主砲」系装備x4、「水上偵察機」系装備x2、<br>「魚雷」系装備x3を廃棄、鋼材3,600を準備せよ！　※任務達成後、準備した資源は消費します。",
@@ -4994,7 +4994,7 @@
 	{
 		"id": 391,
 		"api_id": 678,
-		"code": "F70q5",
+		"code": "Fq5",
 		"name_jp": "主力艦上戦闘機の更新",
 		"name_en": "Quarterly Shiden Kai Ni and Materials",
 		"desc_jp": "艦上戦闘機「九六式艦戦」x3、「零式艦戦21型」x5を廃棄。秘書艦の一番及び二番装備スロットに<br>「零式艦戦52型」を装備。ボーキサイト4,000を準備せよ。※任務達成後、準備資源は消費します。",
@@ -5020,7 +5020,7 @@
 	{
 		"id": 393,
 		"api_id": 680,
-		"code": "F72q6",
+		"code": "Fq6",
 		"name_jp": "対空兵装の整備拡充",
 		"name_en": "Quarterly AA Guns",
 		"desc_jp": "対空兵装の整備拡充を継続実施する！「機銃」系装備x4、「電探」系装備x4を廃棄、<br>ボーキサイト1,500を準備せよ！　※任務達成後、準備した資源は消費します。",
@@ -5033,7 +5033,7 @@
 	{
 		"id": 394,
 		"api_id": 681,
-		"code": "F95",
+		"code": "Fy4",
 		"name_jp": "航空戦力の再編増強準備",
 		"name_en": "Preparations for the reorganisation and build-up of air power",
 		"desc_jp": "航空戦力の再編増強準備を実施する！　「艦爆」系装備x4、「艦攻」系装備x4を廃棄、<br>開発資材20及びボーキサイト1600を準備せよ！　※任務達成後、準備した資源は消費します",
@@ -5098,7 +5098,7 @@
 	{
 		"id": 399,
 		"api_id": 686,
-		"code": "F77",
+		"code": "Fq7",
 		"name_jp": "戦時改修A型高角砲の量産",
 		"name_en": "Mass Wartime Production of the Type A Dual-Purpose Gun",
 		"desc_jp": "旗艦特型駆逐艦の第一スロに「12.7cm連装砲A型改二」改修maxを装備、 「10cm連装高角砲」x4<br> 「94式高射装置」x1を廃棄、開発資材x30、鋼材900、新型砲熕兵装資材x1を再び準備せよ！",
@@ -5124,7 +5124,7 @@
 	{
 		"id": 401,
 		"api_id": 688,
-		"code": "F79",
+		"code": "Fq8",
 		"name_jp": "航空戦力の強化",
 		"name_en": "Aerial Force Enhancement",
 		"desc_jp": "航空戦力強化任務：「艦戦」「艦爆」「艦攻」「水偵」を各3装備ずつ廃棄、さらに熟練搭乗員x1、及び<br>ボーキサイト1,800を準備せよ！(任務達成後、熟練搭乗員x1及びボーキサイト1,800は消滅します)",
@@ -5280,7 +5280,7 @@
 	{
 		"id": 413,
 		"api_id": 702,
-		"code": "G2d",
+		"code": "Gd1",
 		"name_jp": "艦の「近代化改修」を実施せよ！",
 		"name_en": "Ship Modernizations",
 		"desc_jp": "近代化改修を実施して、２回以上これを成功させよ！",
@@ -5293,7 +5293,7 @@
 	{
 		"id": 414,
 		"api_id": 703,
-		"code": "G3w",
+		"code": "Gw1",
 		"name_jp": "「近代化改修」を進め、戦備を整えよ！",
 		"name_en": "Proceed with Modernizations",
 		"desc_jp": "一週間の間に、近代化改修を１5回成功させよ！",
@@ -5345,7 +5345,7 @@
 	{
 		"id": 418,
 		"api_id": 714,
-		"code": "G6",
+		"code": "Gy1",
 		"name_jp": "「駆逐艦」の改修工事を実施せよ！",
 		"name_en": "Carry out Modernization for \"Destroyers\"",
 		"desc_jp": "近代化改修任務：鋼材600及びボーキサイト300を準備して、任意の駆逐艦を近代化改修！<br>[駆逐艦]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
@@ -5358,7 +5358,7 @@
 	{
 		"id": 419,
 		"api_id": 715,
-		"code": "G7",
+		"code": "Gy2",
 		"name_jp": "続：「駆逐艦」の改修工事を実施せよ！",
 		"name_en": "Part 2: Carry out Modernization for \"Destroyers\"",
 		"desc_jp": "近代化改修任務：鋼材900及びボーキサイト500を準備して、任意の駆逐艦を近代化改修！<br>[軽巡洋艦]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
@@ -5371,7 +5371,7 @@
 	{
 		"id": 420,
 		"api_id": 716,
-		"code": "G8",
+		"code": "Gy3",
 		"name_jp": "「軽巡」級の改修工事を実施せよ！",
 		"name_en": "Carry Out the Light Cruiser Modernization Operation",
 		"desc_jp": "軽巡近代化改修：鋼材800及びボーキサイト400を準備、任意の軽巡級を近代化改修！<br>[軽巡級]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
@@ -5384,7 +5384,7 @@
 	{
 		"id": 421,
 		"api_id": 717,
-		"code": "G9",
+		"code": "Gy4",
 		"name_jp": "続：「軽巡」級の改修工事を実施せよ！",
 		"name_en": "Part 2: Carry Out the Light Cruiser Modernization Operation",
 		"desc_jp": "軽巡近代化改修：鋼材900及び弾薬900を準備して、任意の軽巡級を近代化改修！<br>[重巡級]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
@@ -7581,7 +7581,7 @@
 	{
 		"id": 590,
 		"api_id": 1103,
-		"code": "F98",
+		"code": "Fy5",
 		"name_jp": "潜水艦強化兵装の量産",
 		"name_en": "Mass Production of Reinforced Submarine Armaments",
 		"desc_jp": "「61cm三連装(酸素)魚雷」x3廃棄、開発資材x60と「九三式水中聴音機」「13号対空電探改」各x2を<br>準備せよ！　※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。",
@@ -7592,22 +7592,9 @@
 		"tracker": "[[1103],[[3,[125,3]]],[0,[]]]"
 	},
 	{
-		"id": 591,
-		"api_id": 1104,
-		"code": "F99",
-		"name_jp": "潜水艦電子兵装の量産",
-		"name_en": "Mass Production of Submarine Radar Equipment",
-		"desc_jp": "「13号対空電探改」x3廃棄、開発資材x100と「九三式水中聴音機」及び「22号対水上電探」各x2を<br>準備せよ！　※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。",
-		"desc_en": "Arsenal Mission: Scrap 3 Type 13 Air Radar Kai, and then prepare 100 development Materials and have 2 Type 93 Sonars, and 2 Type 22 Surface Radars in your inventory. (All resources and unmodded equipment will be removed upon completion of quest)",
-		"added_update_id": null,
-		"removed_update_id": null,
-		"season_id": null,
-		"tracker": "[[1104],[[3,[106,3]]],[0,[]]]"
-	},
-	{
 		"id": 592,
 		"api_id": 1105,
-		"code": "F100",
+		"code": "Fy7",
 		"name_jp": "夏の格納庫整備＆航空基地整備",
 		"name_en": "Summer Hangar & Air Base Maintenance",
 		"desc_jp": "九六式や一式陸攻等の陸上攻撃機x3廃棄、弾薬x2,800と「九七式艦攻」「天山」各x4を準備せよ！<br>※任務達成後、用意した弾薬及び必要装備(低改修値のもの優先)は消費します。",
@@ -7633,7 +7620,7 @@
 	{
 		"id": 594,
 		"api_id": 1107,
-		"code": "F102",
+		"code": "Fy8",
 		"name_jp": "【鋼材輸出】基地航空兵力を増備せよ！",
 		"name_en": "[Exportation of Steel] Increase the Strength of your Air Base!",
 		"desc_jp": "鋼材を輸出し、ボーキサイトを輸入、基地航空を増備せよ！「艦戦」「艦攻」系装備各x2ずつ廃棄、<br>鋼材24,000及び開発資材10を準備せよ！　※任務達成後、準備した資材は消費します。",
@@ -7776,7 +7763,7 @@
 	{
 		"id": 605,
 		"api_id": 1120,
-		"code": "F113",
+		"code": "Fy9",
 		"name_jp": "【機種整理統合】新型戦闘機の量産計画",
 		"name_en": "[Model Consolidation] Mass Production Plan For New Fighter",
 		"desc_jp": "「艦上戦闘機」「艦上爆撃機」「艦上攻撃機」各x4を廃棄、「零式艦戦21型」x3、「零式艦戦52型」x3<br>ボーキサイト1,800を準備せよ！(任務達成後、準備した装備・ボーキサイトは消費します)",
@@ -7789,7 +7776,7 @@
 	{
 		"id": 606,
 		"api_id": 1123,
-		"code": "F114",
+		"code": "Fy10",
 		"name_jp": "改良三座水上偵察機の増備",
 		"name_en": "Improved 3-seat Reconnaissance Seaplane",
 		"desc_jp": "旗艦「利根改二」または「由良改二」第一スロに最大改修「零式水上偵察機」。「九七式艦攻(九三一空)」<br>x2廃棄、ボーキ950、新型航空兵装資材x2、開発資材x35、熟練搭乗員x2を準備！",
@@ -7893,7 +7880,7 @@
 	{
 		"id": 616,
 		"api_id": 362,
-		"code": "C72",
+		"code": "Cy10",
 		"name_jp": "特型初代「第十一駆逐隊」演習スペシャル！",
 		"name_en": "Special Type \"11th DesDiv Destroyer\", Exercises!",
 		"desc_jp": "駆逐艦演習任務：第十一駆逐隊「吹雪」「白雪」「初雪」「深雪」の4隻を含む演習艦隊を編成。<br>同艦隊で本日中に演習で【A判定】勝利以上を4回以上達成せよ！特I型演習スペシャル！",
@@ -8253,5 +8240,18 @@
 		"removed_update_id": null,
 		"season_id": null,
 		"tracker": "[[994],[[0,[[1,2],6,1]],[0,[[1,4],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]],[0,[[2,4],6,1]]],[0,[[2,[[9,10,8],1,true,0]],[8,[[[0,false,0,38]],2]]]]]"
+	},
+	{
+		"id": 644,
+		"api_id": 1104,
+		"code": "Fy6",
+		"name_jp": "潜水艦電子兵装の量産",
+		"name_en": "Mass Production of Submarine Radar Equipment",
+		"desc_jp": "「13号対空電探改」x3廃棄、開発資材x100と「九三式水中聴音機」及び「22号対水上電探」各x2を<br>準備せよ！　※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。",
+		"desc_en": "Arsenal Mission: Scrap 3 Type 13 Air Radar Kai, and then prepare 100 development Materials and have 2 Type 93 Sonars, and 2 Type 22 Surface Radars in your inventory. (All resources and unmodded equipment will be removed upon completion of quest)",
+		"added_update_id": null,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[1104],[[3,[106,3]]],[0,[]]]"
 	}
 ]

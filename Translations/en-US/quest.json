@@ -1,5 +1,5 @@
 {
-	"version": "21030343",
+	"version": "21030344",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1352,21 +1352,21 @@
 		"desc": "Challenge another fleet in exercises."
 	},
 	"302": {
-		"code": "C4w",
+		"code": "Cw1",
 		"name_jp": "大規模演習",
 		"name": "Large-scale Exercises",
 		"desc_jp": "今週中に「演習」で他の提督の艦隊に対して20回「勝利」しよう！",
 		"desc": "Get 20 victories in exercises within the same week."
 	},
 	"303": {
-		"code": "C2d1",
+		"code": "Cd1",
 		"name_jp": "「演習」で練度向上！",
 		"name": "Do Exercises",
 		"desc_jp": "本日中に他の司令官の艦隊に対して3回「演習」を挑もう！",
 		"desc": "Challenge 3 other fleets in exercises within the same day."
 	},
 	"304": {
-		"code": "C3d2",
+		"code": "Cd2",
 		"name_jp": "「演習」で他提督を圧倒せよ！",
 		"name": "Defeat Other Admirals",
 		"desc_jp": "本日中に他の司令官の艦隊との「演習」で5回以上「勝利」をおさめよう！",
@@ -1401,7 +1401,7 @@
 		"desc": "Get 4 victories in exercises within the same day."
 	},
 	"311": {
-		"code": "C8m",
+		"code": "Cm1",
 		"name_jp": "精鋭艦隊演習",
 		"name": "Elite Fleet Exercises",
 		"desc_jp": "同日中に「演習」で7回以上「勝利」をおさめ、我が精鋭艦隊の練度を示そう！",
@@ -1415,21 +1415,21 @@
 		"desc": "Get 4 victories in exercises within the same day."
 	},
 	"313": {
-		"code": "C10",
+		"code": "Cs1",
 		"name_jp": "秋季大演習",
 		"name": "Autumn Large-scale Exercises",
 		"desc_jp": "秋の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！",
 		"desc": "Get 8 victories in exercises within the same day."
 	},
 	"314": {
-		"code": "C71",
+		"code": "Cs2",
 		"name_jp": "冬季大演習",
 		"name": "Winter Large-scale Exercises",
 		"desc_jp": "冬季大演習：冬の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！",
 		"desc": "Get 8 victories in exercises within the same day."
 	},
 	"315": {
-		"code": "C12",
+		"code": "Cs3",
 		"name_jp": "春季大演習",
 		"name": "Spring Large-scale Exercises",
 		"desc_jp": "春季大演習：春の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！",
@@ -1450,7 +1450,7 @@
 		"desc": "Get 3 victories in exercises and then obtain an A-rank victory at [W2-2], [W2-3], [W2-4], and [W2-5] boss using the main fleet including 2 Kagerou-Class or Yuugumo-Class Destroyers."
 	},
 	"318": {
-		"code": "C16",
+		"code": "Cm2",
 		"name_jp": "給糧艦「伊良湖」の支援",
 		"name": "Support from Supply Ship \"Irako\"",
 		"desc_jp": "伊良湖支援任務：軽巡を2隻以上配備した第一艦隊で本日中に演習で3回「勝利」、その後、<br>第一艦隊旗艦に戦闘糧食を二つ装備せよ！　※任務達成後、同戦闘糧食は消費します",
@@ -1506,7 +1506,7 @@
 		"desc": "Use a fleet with Yuugumo Kai Ni, Naganami Kai Ni, and up to 4 additonal ships to obtain a B-rank (or higher) in Exercises 4 times within the same day."
 	},
 	"326": {
-		"code": "C77",
+		"code": "Cs4",
 		"name_jp": "夏季大演習",
 		"name": "Mass Exercises for Summer",
 		"desc_jp": "夏季大演習：夏季期間の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！<br>暑さに負けるな！　艦隊、抜錨！",
@@ -1527,7 +1527,7 @@
 		"desc": "Use a fleet with Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai, Tanikaze D Kai, and up to 2 additional ships to obtain a B-rank (or higher) in Exercises 4 times within the same day."
 	},
 	"330": {
-		"code": "C29",
+		"code": "Cq1",
 		"name_jp": "空母機動部隊、演習始め！",
 		"name": "Carrier Task Force, Commence Exercises!",
 		"desc_jp": "空母機動部隊演習任務：航空母艦旗艦他1隻計2隻以上及び駆逐艦2隻を含む空母機動部隊を編成。<br>機動部隊各艦の練度向上を図る！同艦隊で、本日中に演習で4回以上勝利せよ！",
@@ -1576,7 +1576,7 @@
 		"desc": "Use a fleet with 2 Amphibious Assault Ships/Fleet Oilers/Coastal Defense Ships and up to 4 additional ships. Obtain an A-rank in Exercises 4 times within the same day."
 	},
 	"337": {
-		"code": "C38",
+		"code": "Cq2",
 		"name_jp": "「十八駆」演習！",
 		"name": "DesDiv 18 Exercise!",
 		"desc_jp": "駆逐艦演習任務：第十八駆逐隊「霞」「霰」「陽炎」「不知火」の4隻を含む演習艦隊を編成。<br>同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！精鋭十八駆に落ち度など無し！",
@@ -1590,7 +1590,7 @@
 		"desc": "Use a fleet with 4 Mutsuki-class ships and up to 2 additional ships. Obtain a B-rank (or higher) in Exercises (PvP) 4 times within the same day."
 	},
 	"339": {
-		"code": "C42",
+		"code": "Cq3",
 		"name_jp": "「十九駆」演習！",
 		"name": "\"DesDiv 19\" Exercises!",
 		"desc_jp": "駆逐艦演習任務：第十九駆逐隊「磯波」「浦波」「綾波」「敷波」の4隻を含む演習艦隊を編成。<br>同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！精鋭十九駆、じゃ、見ててよね！",
@@ -1611,7 +1611,7 @@
 		"desc": "Use a fleet with 2 of Oboro, Akebono, Sazanami, and Ushio, and up to 4 additional ships. Obtain an A-rank in Exercises (PvP) 3 times within the same day."
 	},
 	"342": {
-		"code": "C44",
+		"code": "Cq4",
 		"name_jp": "小艦艇群演習強化任務",
 		"name": "Small ship exercise strengthining mission",
 		"desc_jp": "駆逐艦または海防艦計4隻(軽巡級1隻導入可能)を含む演習艦隊を編成、<br>同演習艦隊による演習で本日中に【A判定】以上の勝利を4回以上達成せよ！",
@@ -1632,14 +1632,14 @@
 		"desc": "Secure 4 A-Rank+ victories in Exercises within the same day using any 2 of Haguro, Ashigara or Kamikaze and up to 4 additional ships."
 	},
 	"345": {
-		"code": "C49",
+		"code": "Cy1",
 		"name_jp": "演習ティータイム！",
 		"name": "Tea Time Exercises",
 		"desc_jp": "「Warspite」「金剛」「Ark Royal」「Nelson」及びJ級駆逐艦から4隻以上含む艦隊を編成！<br>同ティータイム艦隊で、本日中に【A判定】以上の勝利を4回以上達成せよ！Tea Timeは大切ネー！",
 		"desc": "Organize a fleet which 4 of the ships include British born ships such as Warspite , Kongou , Ark Royal , Nelson or J-class DDs and score 4 PVP A rank victories or higher in the same day."
 	},
 	"346": {
-		"code": "C50",
+		"code": "Cy2",
 		"name_jp": "最精鋭！主力オブ主力、演習開始！",
 		"name": "The cream of the crop! Main Force of the Main Force, commence exercises!",
 		"desc_jp": "第十駆逐隊演習任務：改装甲型駆逐艦「夕雲改二」「巻雲改二」「風雲改二」「秋雲改二」の4隻を<br>含む艦隊を編成、同駆逐隊を含む精鋭艦隊で、本日中に【S判定】以上の勝利を4回以上達成せよ！",
@@ -1653,14 +1653,14 @@
 		"desc": "Have Yukikaze as flagship along with 3 additional DDs and 2 XX and win 4 S ranks on the same day."
 	},
 	"348": {
-		"code": "C53",
+		"code": "Cy3",
 		"name_jp": "「精鋭軽巡」演習！",
 		"name": "Elite Light Cruiser Exercise",
 		"desc_jp": "旗艦に軽巡級(雷巡を除く)、旗艦含む3隻以上の軽巡級と随伴駆逐艦2隻を配備した軽巡演習艦隊を<br>編成、同艦隊により本日中に演習で【A判定】以上の勝利を4回以上達成せよ！",
 		"desc": "Organize a fleet with a CL/CT as flagship, 2 CL/CT/CLT, 2 DD, 1 XX and score 4 A+ ranks in PVP on the same day."
 	},
 	"350": {
-		"code": "C55",
+		"code": "Cy4",
 		"name_jp": "精鋭「第七駆逐隊」演習開始！",
 		"name": "Elite \"7th Destroyer Division\", Commence Exercises!",
 		"desc_jp": "七駆演習任務：第七駆逐隊「朧」「曙」「漣」「潮」の4隻を含む演習艦隊を編成、<br>本日中に【A判定】勝利3回以上達成せよ。精鋭第七駆逐隊、演習開始！",
@@ -1681,35 +1681,35 @@
 		"desc": "Organize a fleet with Yahagi Kai Ni or Yahagi Kai Ni B as flagship, plus 4 DD and 1 XX and score 4 S-Rank victories in PvP on the same day."
 	},
 	"353": {
-		"code": "C58",
+		"code": "Cy5",
 		"name_jp": "「巡洋艦戦隊」演習！",
 		"name": "Cruiser Squadron, Commence Practice!",
 		"desc_jp": "「重巡洋艦」または「航空巡洋艦」、旗艦を含む重巡級4隻による巡洋艦戦隊を基幹とし、<br>随伴駆逐艦2隻による計6隻編成の艦隊で、本日中に5回以上演習で勝利せよ！",
 		"desc": "Organize a fleet consisting of 1 CA(V) as flagship, 3 CA(V) and 2 DD, then score 5 victories in PVP on the same day."
 	},
 	"354": {
-		"code": "C60",
+		"code": "Cy6",
 		"name_jp": "「改装特務空母」任務部隊演習！",
 		"name": "\"Remodeled Utility Carrier\" Task Force Exercise",
 		"desc_jp": "旗艦に「改装特務空母」、僚艦に「Fletcher級駆逐艦」または「John C.Butler級護衛駆逐艦」<br>計2隻以上を含む任務部隊を編成。同艦隊で、本日中に【S判定】勝利を4回以上達成せよ！",
 		"desc": "Organize a fleet with Gambier Bay Mk.II as flagship and at least two members of the Fletcher-class or the John C. Butler-class in your fleet and score S rank 4 times in PvP"
 	},
 	"355": {
-		"code": "C62",
+		"code": "Cy7",
 		"name_jp": "精鋭「第十五駆逐隊」第一小隊演習！",
 		"name": "Elite \"15th DesDiv\" 1st Platoon Exercise",
 		"desc_jp": "旗艦に「黒潮改二」または「親潮改二」、そのいずれかを二番艦とする演習艦隊で、<br>本日中に【S判定】勝利を4回以上達成せよ！",
 		"desc": "Organize a fleet with either Oyashio Kai Ni or Kuroshio Kai Ni as flagship while the other is in the 2nd ship slot and 4 XX and score 4 S ranks on the same day"
 	},
 	"356": {
-		"code": "C63",
+		"code": "Cy8",
 		"name_jp": "精鋭「第十九駆逐隊」演習！",
 		"name": "Elite DesDiv 19 exercise!",
 		"desc_jp": "精鋭駆逐艦演習任務：精鋭第十九駆逐隊「磯波改二」「浦波改二」「綾波改二」「敷波改二」<br>4隻を含む演習艦隊を編成。同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！",
 		"desc": "Organize a fleet with Isonami Kai Ni, Uranami Kai Ni, Ayanami Kai Ni, Shikinami Kai Ni in your fleet and score S rank 3 times in PvP"
 	},
 	"357": {
-		"code": "C66",
+		"code": "Cy9",
 		"name_jp": "「大和型戦艦」第一戦隊演習、始め！",
 		"name": "[Yamato-class Battleship] 1st Squadron exercises, begin! ",
 		"desc_jp": "大和型戦艦演習任務：大和型戦艦「大和」及び「武蔵」両艦、随伴艦に軽巡1隻、駆逐艦2隻<br>以上を含む演習艦隊を編成。同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！",
@@ -1730,7 +1730,7 @@
 		"desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and 3 DD in your fleet and score S rank 5 times in PvP"
 	},
 	"362": {
-		"code": "C72",
+		"code": "Cy10",
 		"name_jp": "特型初代「第十一駆逐隊」演習スペシャル！",
 		"name": "Special Type \"11th DesDiv Destroyer\", Exercises!",
 		"desc_jp": "駆逐艦演習任務：第十一駆逐隊「吹雪」「白雪」「初雪」「深雪」の4隻を含む演習艦隊を編成。<br>同艦隊で本日中に演習で【A判定】勝利以上を4回以上達成せよ！特I型演習スペシャル！",
@@ -1772,21 +1772,21 @@
 		"desc": "Perform an expedition."
 	},
 	"402": {
-		"code": "D2d1",
+		"code": "Dd1",
 		"name_jp": "「遠征」を３回成功させよう！",
 		"name": "Complete 3 Expeditions",
 		"desc_jp": "本日中に「遠征」３回成功させよう！",
 		"desc": "Perform 3 successful expeditions within the same day."
 	},
 	"403": {
-		"code": "D3d2",
+		"code": "Dd2",
 		"name_jp": "「遠征」を１０回成功させよう！",
 		"name": "Complete 10 Expeditions",
 		"desc_jp": "本日中に「遠征」10回成功させよう！",
 		"desc": "Perform 10 successful expeditions within the same day."
 	},
 	"404": {
-		"code": "D4w1",
+		"code": "Dw1",
 		"name_jp": "大規模遠征作戦、発令！",
 		"name": "Large-scale Expedition Operation",
 		"desc_jp": "今週中に「遠征」30回成功させよう！",
@@ -1821,14 +1821,14 @@
 		"desc": "Complete expedition 31 and receive foreign destroyer Z1!"
 	},
 	"410": {
-		"code": "D9w2",
+		"code": "Dw2",
 		"name_jp": "南方への輸送作戦を成功させよ！",
 		"name": "Transportation Towards South",
 		"desc_jp": "激戦海域である南方海域への「東京急行」系遠征を敢行、これを成功させよ！",
 		"desc": "Complete either expedition 37 or 38 within the week"
 	},
 	"411": {
-		"code": "D11w3",
+		"code": "Dw3",
 		"name_jp": "南方への鼠輸送を継続実施せよ！",
 		"name": "Transportation Towards South (Cont.)",
 		"desc_jp": "今週中に「東京急行」系遠征を継続的に実施、同種作戦を7回成功させよう！",
@@ -1912,7 +1912,7 @@
 		"desc": "Have 5000 steel and 1500 bauxite while completing Expedition 30 and 31 again."
 	},
 	"424": {
-		"code": "D22m",
+		"code": "Dm1",
 		"name_jp": "輸送船団護衛を強化せよ！",
 		"name": "Reinforce the Transport Escort!",
 		"desc_jp": "遠征任務：「海上護衛任務」を反復実施し、輸送船団の護衛に務めよ！",
@@ -1926,7 +1926,7 @@
 		"desc": "Complete expedition 4, 5 and 9."
 	},
 	"426": {
-		"code": "D24q1",
+		"code": "Dq1",
 		"name_jp": "海上通商航路の警戒を厳とせよ！",
 		"name": "Stay Alert on the Maritime Routes!",
 		"desc_jp": "遠征任務：遠征任務「警備任務」「対潜警戒任務」「海上護衛任務」「強行偵察任務」<br>を実施し、敵の通商破壊部隊を制圧、海上通商航路の安全を確保せよ！",
@@ -1940,7 +1940,7 @@
 		"desc": "Have 800 steel and complete expedition A1."
 	},
 	"428": {
-		"code": "D26q2",
+		"code": "Dq2",
 		"name_jp": "近海に侵入する敵潜を制圧せよ！",
 		"name": "Suppress the Enemy Submarines Invading Nearby!",
 		"desc_jp": "敵潜制圧任務：遠征任務「対潜警戒任務」「海峡警備行動」「長時間対潜警戒」を<br>それぞれ複数回実施し、近海に潜り込む敵潜部隊を制圧、我が領海から叩き出せ！",
@@ -1982,7 +1982,7 @@
 		"desc": "Complete Expeditions 35, 36, 37, 38, and 40 once each."
 	},
 	"434": {
-		"code": "D32",
+		"code": "Dy1",
 		"name_jp": "特設護衛船団司令部、活動開始！",
 		"name": "Establishing the Special Escort Convoy Headquarters!",
 		"desc_jp": "海上護衛任務：遠征任務「警備任務」「海上護衛任務」「兵站強化任務」「海峡警備行動」<br>「タンカー護衛任務」の各任務を、海防艦・駆逐艦などを主軸とした護衛艦艇で実施せよ！",
@@ -1996,42 +1996,42 @@
 		"desc": "Complete Expeditions 4, 10, 14, B1, and A3."
 	},
 	"436": {
-		"code": "D33",
+		"code": "Dy2",
 		"name_jp": "練習航海及び警備任務を実施せよ！",
 		"name": "Carry out a Training Voyage as well as Guard Duty!",
 		"desc_jp": "練習航海及び警備任務：「練習航海」「長距離練習航海」「警備任務」「対潜警戒任務」<br>「強行偵察任務」の各遠征任務を、軽巡・駆逐艦・海防艦などの艦艇で実施せよ！",
 		"desc": "Complete Expeditions 1, 2, 3, 4, and 10 once each."
 	},
 	"437": {
-		"code": "D34",
+		"code": "Dy3",
 		"name_jp": "小笠原沖哨戒線の強化を実施せよ！",
 		"name": "Strengthen the Ogasawara Coastal Patrol Line!",
 		"desc_jp": "小笠原沖哨戒線任務：「対潜警戒任務」「小笠原沖哨戒線遠征」「小笠原沖戦闘哨戒」<br>「南西方面航空偵察作戦」の各遠征任務を軽巡・駆逐艦など実施、これを成功させよ！",
 		"desc": "Complete Expeditions 4, A5, A6, and B1 once each."
 	},
 	"438": {
-		"code": "D35",
+		"code": "Dy4",
 		"name_jp": "南西諸島方面の海上護衛を強化せよ！",
 		"name": "Reinforce our maritime escorts in the Nansei Islands area!",
 		"desc_jp": "海上護衛任務：「兵站強化任務」「対潜警戒任務」「タンカー護衛任務」及び<br>「南西諸島捜索撃滅戦」の各遠征任務を実施、これを成功させよ！",
 		"desc": "Complete Expeditions 4, 9, A1, and B5 once each."
 	},
 	"439": {
-		"code": "D36",
+		"code": "Dy5",
 		"name_jp": "兵站強化遠征任務【基本作戦】",
 		"name": "Military Buildup Expedition Mission: \"Basic Operation\"",
 		"desc_jp": "兵站強化遠征任務：「海上護衛任務」「兵站強化任務」「ボーキサイト輸送任務」及び<br>「南西方面航空偵察作戦」の各遠征任務を実施、これを成功させよ！",
 		"desc": "Complete Expeditions 5, 11, A1 and B1 once each."
 	},
 	"440": {
-		"code": "D37",
+		"code": "Dy6",
 		"name_jp": "兵站強化遠征任務【拡張作戦】",
 		"name": "Military Buildup Expedition Mission: \"Extra Operation\"",
 		"desc_jp": "兵站強化拡張任務：「ブルネイ泊地沖哨戒」「海上護衛任務」「水上機前線輸送」<br>及び「強行鼠輸送作戦」「南西海域戦闘哨戒」各遠征を実施、これを成功させよ！",
 		"desc": "Complete Expeditions 5, 40, 41, 46 and E2 once each."
 	},
 	"442": {
-		"code": "D38",
+		"code": "Dy7",
 		"name_jp": "西方連絡作戦準備を実施せよ！",
 		"name": "Preparation for Western Contact Operation",
 		"desc_jp": "西方連絡作戦準備：「西方海域偵察作戦」「潜水艦派遣演習」「潜水艦派遣作戦」<br>及び「欧州方面友軍との接触」各遠征を実施、これを成功させよ！",
@@ -2045,7 +2045,7 @@
 		"desc": "Complete Expeditions 30 multiple times"
 	},
 	"444": {
-		"code": "D40",
+		"code": "Dy8",
 		"name_jp": "新兵装開発資材輸送を船団護衛せよ！",
 		"name": "Escort the convoy to transport new weapons development materials!",
 		"desc_jp": "新兵装開発資材輸送護衛：「海上護衛任務」「資源輸送任務」「タンカー護衛任務」<br>「南西方面航空偵察作戦」「ボーキサイト輸送任務」遠征を実施、これを成功させよ！",
@@ -2087,14 +2087,14 @@
 		"desc": "Repair a ship."
 	},
 	"503": {
-		"code": "E3d1",
+		"code": "Ed1",
 		"name_jp": "艦隊大整備！",
 		"name": "Daily Repairs",
 		"desc_jp": "各艦隊から整備が必要な艦を5隻以上ドック入りさせ、大規模な整備をしよう！",
 		"desc": "Repair 5 ships."
 	},
 	"504": {
-		"code": "E4d2",
+		"code": "Ed2",
 		"name_jp": "艦隊酒保祭り！",
 		"name": "Daily Resupplies",
 		"desc_jp": "艦隊酒保祭り！各艦に延べ15回以上の補給を実施しよう！",
@@ -2192,35 +2192,35 @@
 		"desc": "Scrap a piece of equipment."
 	},
 	"605": {
-		"code": "F5d1",
+		"code": "Fd1",
 		"name_jp": "新装備「開発」指令",
 		"name": "Develop New Equipment",
 		"desc_jp": "「工廠」で装備アイテムを新たに「開発」しよう(失敗もOK)！",
 		"desc": "Craft a piece of equipment. (Failures are OK)"
 	},
 	"606": {
-		"code": "F6d2",
+		"code": "Fd2",
 		"name_jp": "新造艦「建造」指令",
 		"name": "Construct New Ship",
 		"desc_jp": "「工廠」で艦娘を本日中に新たに「建造」しよう！",
 		"desc": "Craft a ship."
 	},
 	"607": {
-		"code": "F7d3",
+		"code": "Fd3",
 		"name_jp": "装備「開発」集中強化！",
 		"name": "Develop More Equipment",
 		"desc_jp": "「工廠」で装備アイテムを本日中に3回「開発」しよう(失敗もOK)！",
 		"desc": "Craft 3 pieces of equipment. (Failures are OK)"
 	},
 	"608": {
-		"code": "F8d4",
+		"code": "Fd4",
 		"name_jp": "艦娘「建造」艦隊強化！",
 		"name": "Construct More New Ships",
 		"desc_jp": "艦隊強化のため、「工廠」で艦娘を本日中に3隻「建造」しよう！",
 		"desc": "Craft 3 ships."
 	},
 	"609": {
-		"code": "F9d5",
+		"code": "Fd5",
 		"name_jp": "軍縮条約対応！",
 		"name": "Dismantlement Duty",
 		"desc_jp": "少し艦隊規模が大きくなりすぎました！「工廠」で不要な艦を2隻「解体」してください！",
@@ -2248,7 +2248,7 @@
 		"desc": "Scrap equipment 3 times to acquire a shipping barrel."
 	},
 	"613": {
-		"code": "F12w1",
+		"code": "Fw1",
 		"name_jp": "資源の再利用",
 		"name": "Recycling Resources",
 		"desc_jp": "「工廠」で余剰の装備アイテムをなるべく多く「廃棄」して、鋼材の再利用に努めよう！",
@@ -2290,7 +2290,7 @@
 		"desc": "Perform equipment modernisation once."
 	},
 	"619": {
-		"code": "F18d6",
+		"code": "Fd6",
 		"name_jp": "装備の改修強化",
 		"name": "Improve Equipment",
 		"desc_jp": "「改修工廠」で「装備」の改修強化に努めます。",
@@ -2339,7 +2339,7 @@
 		"desc": "Scrap equipment 9 times."
 	},
 	"626": {
-		"code": "F22m1",
+		"code": "Fm1",
 		"name_jp": "精鋭「艦戦」隊の新編成",
 		"name": "Reorganisation of the Fighter Forces",
 		"desc_jp": "要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！",
@@ -2353,7 +2353,7 @@
 		"desc": "Equip Zero Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Zero Fighter Model 52. The Zero Fighter Model 21 (Skilled) must not be locked."
 	},
 	"628": {
-		"code": "F25m2",
+		"code": "Fm2",
 		"name_jp": "機種転換",
 		"name": "Model Conversion",
 		"desc_jp": "練度max「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！",
@@ -2416,14 +2416,14 @@
 		"desc": "Scrap two 7.7mm Machine Gun and two 12.7mm Single Machine Gun Mount"
 	},
 	"637": {
-		"code": "F35q1",
+		"code": "Fq1",
 		"name_jp": "「熟練搭乗員」養成",
 		"name": "Skilled Crew Member Training",
 		"desc_jp": "勲章x2消費：「鳳翔」秘書艦に練度max及び改修max「九六式艦戦」を搭載、熟練搭乗員を養成せよ！<br>(任務達成後、部隊は消滅します)",
 		"desc": "Set Houshou as secretary and equip her with a Type 96 Fighter that is both rank 7 and ★max."
 	},
 	"638": {
-		"code": "F34w2",
+		"code": "Fw2",
 		"name_jp": "対空機銃量産",
 		"name": "AA Gun Mass Production",
 		"desc_jp": "「機銃」系装備を量産し、工廠で6個廃棄！ 「装備改修」強化をサポートせよ！",
@@ -2458,7 +2458,7 @@
 		"desc": "Have two 7.7mm Machine Guns and two Type 99 Dive Bombers in your inventory. Unlock both equipment."
 	},
 	"643": {
-		"code": "F39q2",
+		"code": "Fq2",
 		"name_jp": "主力「陸攻」の調達",
 		"name": "Supply of the Land-based Main Bomber Force",
 		"desc_jp": "主力陸上攻撃機「一式陸攻」の新規調達を行う。「零式艦戦21型」を二つ「工廠」で廃棄し、<br>「九六式陸攻」一つと「九七式艦攻」二つを準備せよ！(任務達成後、用意した必要装備は消滅します)",
@@ -2472,7 +2472,7 @@
 		"desc": "Have Type 1 Attack Bomber and two Tenzan in your inventory. Unlock both equipment."
 	},
 	"645": {
-		"code": "F41m3",
+		"code": "Fm3",
 		"name_jp": "「洋上補給」物資の調達",
 		"name": "Procurement of Underway Replenishment",
 		"desc_jp": "「三式弾」一つを廃棄し、燃料750及び弾薬750と「ドラム缶(輸送用)」二つと「九一式徹甲弾」一つを<br>用意せよ！※任務達成後、用意した資源及び必要装備(徹甲弾は改修値の低いもの優先)は消滅します。",
@@ -2528,21 +2528,21 @@
 		"desc": "Have 5000 furniture coins, two 7.7mm Machine Gun, and two Type 96 Fighter in your inventory. Unlock both equipment. And then, scrap two 12.7cm Twin Gun Mount."
 	},
 	"653": {
-		"code": "F90",
+		"code": "Fq9",
 		"name_jp": "工廠稼働！次期作戦準備！",
 		"name": "Arsenal Work! Preparations for the Next Operation!",
 		"desc_jp": "「14cm単装砲」x6廃棄、家具コイン6,000と「35.6cm連装砲」「九六式艦戦」各三つを<br>準備せよ！　※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。",
 		"desc": "Prepare 6000 Furniture Coins, 3 35.6cm Twin Gun Mount, and 3 Type 96 Fighter in your inventory. Scrap 6 14cm Single Gun Mount."
 	},
 	"654": {
-		"code": "F93",
+		"code": "Fy2",
 		"name_jp": "精鋭複葉機飛行隊の編成",
 		"name": "Formation of a splendid biplane squadron",
 		"desc_jp": "精鋭複葉機飛行隊の編成：秘書艦「Ark Royal」に改修max「Swordfish」を一番スロットに搭載、「Swordfish」x1「Fulmar」x2を廃棄、「熟練搭乗員」、弾薬とボーキサイトを各1,500用意せよ！",
 		"desc": "Formation of a splendid biplane squadron: prepare a maxed star Swordfish and equip it onto the first slot of Ark Royal who must be your secretary ship. Then proceed to scrap 1 Swordfish, 2 Fulmar and prepare 1 Skilled Pilot, 1500 ammo and bauxite each. (All prepared items and resources will be consumed upon completion)"
 	},
 	"655": {
-		"code": "F94",
+		"code": "Fy3",
 		"name_jp": "工廠フル稼働！新兵装を開発せよ！",
 		"name": "Arsenal at maximum capacity! Develop new armaments!",
 		"desc_jp": "「小口径主砲」「中口径主砲」「大口径主砲」「水偵」「艦攻」系各装備をそれぞれ五つずつ廃棄！鋼材、燃料、ボーキサイト各1,500を準備せよ！　※任務達成後、準備した資源は消費します。",
@@ -2556,7 +2556,7 @@
 		"desc": "Equip Prototype Seiran in first slot and Zuiun (631 Air Group) in second slot on either I-401, I-13 or I-14 as secretary. Unlock the equipment."
 	},
 	"657": {
-		"code": "F92",
+		"code": "Fy1",
 		"name_jp": "新型兵装開発整備の強化",
 		"name": "Improving Development and Maintenance of New Armaments",
 		"desc_jp": "新型兵装の開発体制整備を実施する！「小口径主砲」系装備x6、「中口径主砲」系装備x5、「魚雷」系装備x4を廃棄、鋼材4,000を準備せよ！　※任務達成後、準備した資源は消費します。",
@@ -2598,7 +2598,7 @@
 		"desc": "Prepare 12000 steel and scrap 10 medium guns."
 	},
 	"663": {
-		"code": "F55q3",
+		"code": "Fq3",
 		"name_jp": "新型艤装の継続研究",
 		"name": "Development of New Type Equipment Fitting Research (Cont.)",
 		"desc_jp": "工廠任務：新型艤装の開発を継続実施する。「大口径主砲」系装備x10を廃棄、鉄鋼18,000を準備せよ！<br>※任務達成後、準備した資源は消費します。「勲章」と「新型砲熕兵装資材」の獲得選択が可能です。",
@@ -2668,42 +2668,42 @@
 		"desc": "Have 10 Development Materials, 2000 Steel, and 2 Action Reports. Equip a secretary with a Fleet Command Facility in her first slot. Scrap 3 Radars."
 	},
 	"673": {
-		"code": "F65d7",
+		"code": "Fd7",
 		"name_jp": "装備開発力の整備",
 		"name": "Maintenance of Equipment Development Capability",
 		"desc_jp": "工廠整備任務：装備開発力を整備する。「小口径主砲」系装備x4を廃棄せよ！",
 		"desc": "Scrap four small-caliber guns."
 	},
 	"674": {
-		"code": "F66d8",
+		"code": "Fd8",
 		"name_jp": "工廠環境の整備",
 		"name": "Maintenance of the Arsenal Environment",
 		"desc_jp": "工廠整備任務：工廠環境の重整備を実施する。「機銃」系装備x3を廃棄、鋼材300を準備せよ！<br>※任務達成後、準備した資源は消費します。",
 		"desc": "Have 300 steel and then scrap three AA guns."
 	},
 	"675": {
-		"code": "F67q4",
+		"code": "Fq4",
 		"name_jp": "運用装備の統合整備",
 		"name": "Integrated Maintenance of Operational Equipment",
 		"desc_jp": "運用装備統合任務：装備の統合整備を実施する。「艦上戦闘機」系装備x6、「機銃」系装備x4を廃棄、<br>ボーキサイト800を準備(本任務は時局により更新されます)。　※任務達成後、準備資源を消費します。",
 		"desc": "Have 800 steel and then scrap six carrier-based fighter and four AA guns."
 	},
 	"676": {
-		"code": "F68w3",
+		"code": "Fw3",
 		"name_jp": "装備開発力の集中整備",
 		"name": "Weekly Gun Dismantlement",
 		"desc_jp": "工廠環境の集中整備を実施する！「中口径主砲」系装備x3、「副砲」系装備x3、「ドラム缶(輸送用)」x1<br>を廃棄、鋼材2,400を準備せよ！　※任務達成後、準備した資源は消費します。",
 		"desc": "Have 2400 Steel and then scrap three medium guns, three secondary guns, and one drum."
 	},
 	"677": {
-		"code": "F69w4",
+		"code": "Fw4",
 		"name_jp": "継戦支援能力の整備",
 		"name": "Weekly Dismantlement 2",
 		"desc_jp": "艦娘の継戦支援体制の整備強化を実施する！「大口径主砲」系装備x4、「水上偵察機」系装備x2、<br>「魚雷」系装備x3を廃棄、鋼材3,600を準備せよ！　※任務達成後、準備した資源は消費します。",
 		"desc": "Have 3600 Steel. Scrap 4 Large Cal. Main Guns, 2 Recon Seaplanes and 3 Torpedoes."
 	},
 	"678": {
-		"code": "F70q5",
+		"code": "Fq5",
 		"name_jp": "主力艦上戦闘機の更新",
 		"name": "Quarterly Shiden Kai Ni and Materials",
 		"desc_jp": "艦上戦闘機「九六式艦戦」x3、「零式艦戦21型」x5を廃棄。秘書艦の一番及び二番装備スロットに<br>「零式艦戦52型」を装備。ボーキサイト4,000を準備せよ。※任務達成後、準備資源は消費します。",
@@ -2717,14 +2717,14 @@
 		"desc": "Have 900 Bauxite. Scrap 6 Medium Cal. Main Guns and 3 Secondary Guns."
 	},
 	"680": {
-		"code": "F72q6",
+		"code": "Fq6",
 		"name_jp": "対空兵装の整備拡充",
 		"name": "Quarterly AA Guns",
 		"desc_jp": "対空兵装の整備拡充を継続実施する！「機銃」系装備x4、「電探」系装備x4を廃棄、<br>ボーキサイト1,500を準備せよ！　※任務達成後、準備した資源は消費します。",
 		"desc": "Have 1500 Bauxite. Scrap 4 AA Machine Guns and 4 Radars."
 	},
 	"681": {
-		"code": "F95",
+		"code": "Fy4",
 		"name_jp": "航空戦力の再編増強準備",
 		"name": "Preparations for the reorganisation and build-up of air power",
 		"desc_jp": "航空戦力の再編増強準備を実施する！　「艦爆」系装備x4、「艦攻」系装備x4を廃棄、<br>開発資材20及びボーキサイト1600を準備せよ！　※任務達成後、準備した資源は消費します",
@@ -2759,7 +2759,7 @@
 		"desc": "Have 30 Development Materials, 900 steel, and a New Type Artillery Armament Material. Equip an unlocked ★max 12.7cm Twin Gun Model A Kai 2 in the first slot of your Fubuki-class secretary ship. And then scrap four 10cm Twin High-angle Gun and one Type 94 AAFD."
 	},
 	"686": {
-		"code": "F77",
+		"code": "Fq7",
 		"name_jp": "戦時改修A型高角砲の量産",
 		"name": "Mass Wartime Production of the Type A Dual-Purpose Gun",
 		"desc_jp": "旗艦特型駆逐艦の第一スロに「12.7cm連装砲A型改二」改修maxを装備、 「10cm連装高角砲」x4<br> 「94式高射装置」x1を廃棄、開発資材x30、鋼材900、新型砲熕兵装資材x1を再び準備せよ！",
@@ -2773,7 +2773,7 @@
 		"desc": "Equip a max modified 12.7cm Twin Mount Type-B Kai 2 in the first slot of your secratery destroyer that must be either Yuudachi Kai Ni or Shigure Kai Ni and proceed to scrap x5 10cm Twin High-angle Mount and x1 Type 94 Anti-Aircraft Fire Director, and prepare x50 Development Materials, x1200 steel, and x1 New Type Artillery Armament Materials"
 	},
 	"688": {
-		"code": "F79",
+		"code": "Fq8",
 		"name_jp": "航空戦力の強化",
 		"name": "Aerial Force Enhancement",
 		"desc_jp": "航空戦力強化任務：「艦戦」「艦爆」「艦攻」「水偵」を各3装備ずつ廃棄、さらに熟練搭乗員x1、及び<br>ボーキサイト1,800を準備せよ！(任務達成後、熟練搭乗員x1及びボーキサイト1,800は消滅します)",
@@ -2857,14 +2857,14 @@
 		"desc": "Perform a successful modernization."
 	},
 	"702": {
-		"code": "G2d",
+		"code": "Gd1",
 		"name_jp": "艦の「近代化改修」を実施せよ！",
 		"name": "Ship Modernizations",
 		"desc_jp": "近代化改修を実施して、２回以上これを成功させよ！",
 		"desc": "Perform 2 successful modernizations within the same day."
 	},
 	"703": {
-		"code": "G3w",
+		"code": "Gw1",
 		"name_jp": "「近代化改修」を進め、戦備を整えよ！",
 		"name": "Proceed with Modernizations",
 		"desc_jp": "一週間の間に、近代化改修を１5回成功させよ！",
@@ -2892,28 +2892,28 @@
 		"desc": "Have 555 steel and bauxite. Successfully modernize a DE using 5 DD twice."
 	},
 	"714": {
-		"code": "G6",
+		"code": "Gy1",
 		"name_jp": "「駆逐艦」の改修工事を実施せよ！",
 		"name": "Carry out Modernization for \"Destroyers\"",
 		"desc_jp": "近代化改修任務：鋼材600及びボーキサイト300を準備して、任意の駆逐艦を近代化改修！<br>[駆逐艦]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
 		"desc": "Modernization mission: Prepare 600 steel as well as 300 bauxite, then modernize any destroyer! Perform 2 successful modernizations by using 3 destroyers each time!\n※ The resources will be consumed when you clear this mission"
 	},
 	"715": {
-		"code": "G7",
+		"code": "Gy2",
 		"name_jp": "続：「駆逐艦」の改修工事を実施せよ！",
 		"name": "Part 2: Carry out Modernization for \"Destroyers\"",
 		"desc_jp": "近代化改修任務：鋼材900及びボーキサイト500を準備して、任意の駆逐艦を近代化改修！<br>[軽巡洋艦]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
 		"desc": "Modernize a DD using 3 CL two times."
 	},
 	"716": {
-		"code": "G8",
+		"code": "Gy3",
 		"name_jp": "「軽巡」級の改修工事を実施せよ！",
 		"name": "Carry Out the Light Cruiser Modernization Operation",
 		"desc_jp": "軽巡近代化改修：鋼材800及びボーキサイト400を準備、任意の軽巡級を近代化改修！<br>[軽巡級]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
 		"desc": "Modernize a CL with 3 CT/CL(T) two times."
 	},
 	"717": {
-		"code": "G9",
+		"code": "Gy4",
 		"name_jp": "続：「軽巡」級の改修工事を実施せよ！",
 		"name": "Part 2: Carry Out the Light Cruiser Modernization Operation",
 		"desc_jp": "軽巡近代化改修：鋼材900及び弾薬900を準備して、任意の軽巡級を近代化改修！<br>[重巡級]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
@@ -4082,21 +4082,21 @@
 		"desc": "Arsenal Mission: Scrap 7 12cm Single Gun Mounts, and then prepare 2,400 Fuel and have 5 20.3cm Twin Gun Mounts, and 5 35.6cm Twin Gun Mounts in your inventory. (All resources and unmodded equipment will be removed upon completion of quest)"
 	},
 	"1103": {
-		"code": "F98",
+		"code": "Fy5",
 		"name_jp": "潜水艦強化兵装の量産",
 		"name": "Mass Production of Reinforced Submarine Armaments",
 		"desc_jp": "「61cm三連装(酸素)魚雷」x3廃棄、開発資材x60と「九三式水中聴音機」「13号対空電探改」各x2を<br>準備せよ！　※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。",
 		"desc": "Scrap 3 61cm Triple (Oxygen) Torpedo Mounts, and then prepare 60 development Materials and have 2 Type 93 Sonars, and 2 Type 13 Air Radar Kai in your inventory. (All resources and unmodded equipment will be removed upon completion of quest)"
 	},
 	"1104": {
-		"code": "F99",
+		"code": "Fy6",
 		"name_jp": "潜水艦電子兵装の量産",
 		"name": "Mass Production of Submarine Radar Equipment",
 		"desc_jp": "「13号対空電探改」x3廃棄、開発資材x100と「九三式水中聴音機」及び「22号対水上電探」各x2を<br>準備せよ！　※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。",
 		"desc": "Arsenal Mission: Scrap 3 Type 13 Air Radar Kai, and then prepare 100 development Materials and have 2 Type 93 Sonars, and 2 Type 22 Surface Radars in your inventory. (All resources and unmodded equipment will be removed upon completion of quest)"
 	},
 	"1105": {
-		"code": "F100",
+		"code": "Fy7",
 		"name_jp": "夏の格納庫整備＆航空基地整備",
 		"name": "Summer Hangar & Air Base Maintenance",
 		"desc_jp": "九六式や一式陸攻等の陸上攻撃機x3廃棄、弾薬x2,800と「九七式艦攻」「天山」各x4を準備せよ！<br>※任務達成後、用意した弾薬及び必要装備(低改修値のもの優先)は消費します。",
@@ -4110,7 +4110,7 @@
 		"desc": "Yura Kai Ni as the flagship and equipped with a maximum improved Type 0 Reconnaissance Seaplane Model 11B in the first slot. Scrap 3 Type 0 Reconnaissance Seaplane and 3 Zuiun. Prepare 1300 fuel, 1700 bauxite, 1 aerial armament material, an action report and 3 skilled crew members. The resource and the items will be consumed. (All resources and unmodded equipment will be removed upon completion of quest)"
 	},
 	"1107": {
-		"code": "F102",
+		"code": "Fy8",
 		"name_jp": "【鋼材輸出】基地航空兵力を増備せよ！",
 		"name": "[Exportation of Steel] Increase the Strength of your Air Base!",
 		"desc_jp": "鋼材を輸出し、ボーキサイトを輸入、基地航空を増備せよ！「艦戦」「艦攻」系装備各x2ずつ廃棄、<br>鋼材24,000及び開発資材10を準備せよ！　※任務達成後、準備した資材は消費します。",
@@ -4187,14 +4187,14 @@
 		"desc": "Have your secretary flagship Samuel B.Roberts Mk.II equip 5inch Single Gun Mount Mk.30 without any improvment in the first slot and have 15x Development Material, 2x Armament Material, 2x Rocket Material, 960 ammo (All resources and Materials will be consumed upon completion)"
 	},
 	"1120": {
-		"code": "F113",
+		"code": "Fy9",
 		"name_jp": "【機種整理統合】新型戦闘機の量産計画",
 		"name": "[Model Consolidation] Mass Production Plan For New Fighter",
 		"desc_jp": "「艦上戦闘機」「艦上爆撃機」「艦上攻撃機」各x4を廃棄、「零式艦戦21型」x3、「零式艦戦52型」x3<br>ボーキサイト1,800を準備せよ！(任務達成後、準備した装備・ボーキサイトは消費します)",
 		"desc": "Have 3x Zero Fighter Model 21, 3x Zero Fighter Model 52 and 1800 bauxite. Proceed to scrap 4 carrier-based fighters, 4 dive bombers and 4 torpedo bombers (All resources and Materials will be consumed upon completion)"
 	},
 	"1123": {
-		"code": "F114",
+		"code": "Fy10",
 		"name_jp": "改良三座水上偵察機の増備",
 		"name": "Improved 3-seat Reconnaissance Seaplane",
 		"desc_jp": "旗艦「利根改二」または「由良改二」第一スロに最大改修「零式水上偵察機」。「九七式艦攻(九三一空)」<br>x2廃棄、ボーキ950、新型航空兵装資材x2、開発資材x35、熟練搭乗員x2を準備！",
