@@ -3850,5 +3850,17 @@
 		"api_id": 508,
 		"name_jp": "14inch/45 三連装砲",
 		"name_en": "14inch/45 Triple Gun Mount"
+	},
+	{
+		"id": 2486,
+		"api_id": 509,
+		"name_jp": "12cm単装高角砲E型改",
+		"name_en": "12cm Single High-angle Gun Model E Kai"
+	},
+	{
+		"id": 2487,
+		"api_id": 510,
+		"name_jp": "Walrus",
+		"name_en": "Walrus"
 	}
 ]

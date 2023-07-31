@@ -1,5 +1,5 @@
 {
-	"version": "21030255",
+	"version": "21030256",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -506,6 +506,8 @@
 		"電探装備マスト(13号改+22号電探改四)": "Radar Mast (Type 13 Kai and Type 22 Kai 4 radars)",
 		"14inch/45 連装砲": "14inch/45 Twin Gun Mount",
 		"14inch/45 三連装砲": "14inch/45 Triple Gun Mount",
+		"12cm単装高角砲E型改": "12cm Single High-angle Gun Model E Kai",
+		"Walrus": "Walrus",
 		"5inch単装砲": "5inch Single Gun",
 		"5inch連装砲": "5inch Twin Gun",
 		"3inch単装高角砲": "3inch Single High-angle",
