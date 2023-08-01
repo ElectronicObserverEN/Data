@@ -1,5 +1,5 @@
 {
-	"version": "21030344",
+	"version": "21030345",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1443,9 +1443,9 @@
 		"desc": "Get 4 victories in exercises within the same day."
 	},
 	"317": {
-		"code": "C14",
+		"code": "C15",
 		"name_jp": "甲型駆逐艦の戦力整備計画",
-		"name": "Type-A Destroyer Strength Improvement Plan",
+		"name": "Project To Improve The Combat Strength Of the Type-A Destroyers",
 		"desc_jp": "甲型駆逐艦整備任務：甲型駆逐艦【夕雲型/陽炎型】を2隻以上配備した第一艦隊で演習で3回「勝利」、<br>その後、同艦隊を南西諸島海域に投入。各出撃で得られた戦訓を艦隊型駆逐艦戦力整備に活用せよ！",
 		"desc": "Get 3 victories in exercises and then obtain an A-rank victory at [W2-2], [W2-3], [W2-4], and [W2-5] boss using the main fleet including 2 Kagerou-Class or Yuugumo-Class Destroyers."
 	},
