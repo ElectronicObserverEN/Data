@@ -212,12 +212,12 @@
 		"id": 27,
 		"start_date": "2023-08-08T00:00:00",
 		"start_time": "11:00:00",
-		"end_time": "1.01:20:00",
+		"end_time": "1.01:00:00",
 		"name": "Summer 2023 Event Start",
 		"description": "- Summer 2023 MO start\r\n- TeruTeruBozu are removed",
 		"live_update": false,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1685298537029091328",
-		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1688386788799504384"
+		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1688939349973651457"
 	},
 	{
 		"id": 28,
