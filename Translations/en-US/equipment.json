@@ -1,5 +1,5 @@
 {
-	"version": "21030256",
+	"version": "21030257",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -508,6 +508,8 @@
 		"14inch/45 三連装砲": "14inch/45 Triple Gun Mount",
 		"12cm単装高角砲E型改": "12cm Single High-angle Gun Model E Kai",
 		"Walrus": "Walrus",
+		"21inch艦首魚雷発射管4門(初期型)": "21inch 4-tube Bow Torpedo Launcher (Initial Model)",
+		"21inch艦首魚雷発射管4門(後期型)": "21inch 4-tube Bow Torpedo Launcher (Late Model)",
 		"5inch単装砲": "5inch Single Gun",
 		"5inch連装砲": "5inch Twin Gun",
 		"3inch単装高角砲": "3inch Single High-angle",
