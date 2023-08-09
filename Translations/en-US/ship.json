@@ -1,5 +1,5 @@
 {
-	"version": "21030142",
+	"version": "21030143",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -450,7 +450,10 @@
 		"能美": "Noumi",
 		"第百一号輸送艦": "No.101 Landing Ship",
 		"深海重巡水姫": "Abyssal Heavy Cruiser Water Princess",
-		"深海擱座揚陸姫": "Abyssal Stranded Landing Princess"
+		"深海擱座揚陸姫": "Abyssal Stranded Landing Princess",
+		"稲木": "Inagi",
+		"第二十二号海防艦": "Kaiboukan No.22",
+		"朝日": "Asahi"
 	},
 	"class": {
 		"綾波型": "Ayanami Class",
