@@ -7,5 +7,29 @@
 		{"Id":5,"A":255,"R":109,"G":142,"B":223,"Name":"第五艦隊主力"},
 		{"Id":6,"A":255,"R":44,"G":85,"B":207,"Name":"第一艦隊"}
 	],
-	"Phases": []
+	"Phases": [
+		{"LockGroups":[1],"Name":"E1 C"},
+		{"LockGroups":[1],"Name":"E1 C3"},
+		{"LockGroups":[1],"Name":"E1 H3"},
+		{"LockGroups":[1],"Name":"E1 J"},
+		{"LockGroups":[1],"Name":"E1-1"},
+		{"LockGroups":[1],"Name":"E1-2"},
+		{"LockGroups":[2],"Name":"E2 C2"},
+		{"LockGroups":[2],"Name":"E2 F2"},
+		{"LockGroups":[2],"Name":"E2 G"},
+		{"LockGroups":[2],"Name":"E2 J2"},
+		{"LockGroups":[3],"Name":"E2-1"},
+		{"LockGroups":[2],"Name":"E2-2"},
+		{"LockGroups":[4],"Name":"E3-1"},
+		{"LockGroups":[5],"Name":"E3-2"},
+		{"LockGroups":[1],"Name":"E3-3"},
+		{"LockGroups":[4],"Name":"E4-1"},
+		{"LockGroups":[6],"Name":"E4-2"},
+		{"LockGroups":[5],"Name":"E4 U"},
+		{"LockGroups":[5],"Name":"E4 T"},
+		{"LockGroups":[4],"Name":"E4 F"},
+		{"LockGroups":[6],"Name":"E4 Q"},
+		{"LockGroups":[6],"Name":"E4 M3"},
+		{"LockGroups":[5],"Name":"E4-3"}
+	]
 }
