@@ -1,5 +1,5 @@
 {
-	"version": "20071529",
+	"version": "20071531",
 	"map": {
 		"南西諸島近海": "Adjacent Seas of Southwest Islands",
 		"バシー海峡": "Bashi Strait",
@@ -98,7 +98,12 @@
 		"九州沖/四国沖/八丈島沖": "Off Kyushu / Off Shikoku / Off Hachijoujima",
 		"小笠原諸島航路/父島沖": "Ogasawara Islands route /  Off Chichijima",
 		"父島沖/硫黄島沖": "Off Chichijima / Off Iwo Jima",
-		"硫黄島沖": "Off Iwo Jima"
+		"硫黄島沖": "Off Iwo Jima",
+		"横須賀鎮守府/呉鎮守府沖": "Yokosuka Naval Base / Kure Naval Base ",
+		"南沙諸島沖/カムラン湾沖": "Off Spratly Islands / Off Cam Ranh Bay",
+		"八戸港沖/三陸沖": "Off Hachinohe Port / Off Sanriku",
+		"津軽海峡/北海道釧路沖": "Tsugaru Strait / Off Kushiro, Hokkaido",
+		"": " (57-7)"
 	},
 	"fleet": {
 		"渦潮": "Whirlpool",
@@ -550,6 +555,25 @@
 		"深海硫黄島攻略部隊 主力艦隊": "Abyssal Iwo Jima Landing Force Main Fleet",
 		"深海任務部隊 快速警戒遊撃戦隊": "Abyssal Task Force Fast Guard Squadron",
 		"深海潜水艦隊 硫黄島哨戒線B群": "Abyssal Submarine Fleet Iwo Jima Patrol Line Group B",
-		"深海任務部隊 硫黄島攻略支援群": "Abyssal Task Force Iwo Jima Invasion Support Group"
+		"深海任務部隊 硫黄島攻略支援群": "Abyssal Task Force Iwo Jima Invasion Support Group",
+		"敵東方潜水艦隊 哨戒主力集団": "Enemy Eastern Submarine Fleet Partol Main Force Group",
+		"敵東方空母機動部隊": "Enemy Eastern Carrier Task Forces",
+		"深海任務部隊 レーダー射撃戦隊": "Abyssal Task Force Radar Shooting Squadron",
+		"敵任務部隊 前衛哨戒隊": "Vanguard Patrol Task Force",
+		"敵機動部隊 A群": "Mobile Force Group A",
+		"深海連合混成艦隊 増援機動部隊": "Abyssal Combined Fleet Reinforcement",
+		"敵南方増援部隊 前方警戒艦隊": "Enemy Southern Reinforcements Forward Patrol Fleet",
+		"敵北方巡洋艦戦隊 A群": "Enemy Northern Cruiser Squadron Group A",
+		"敵通商破壊侵入 高速機動部隊": "Enemy Trade Disruption High Speed Task Force",
+		"敵南方空母機動部隊": "Enemy Southern Aircraft Carrier Task Force",
+		"深海前衛ピケット駆逐艦 I群": "Abyssal Vanguard Picket Destroyers Group I",
+		"深海潜水艦隊 偵察哨戒線 C群": "Abyssal Submarine Fleet Reconnaissance Patrol Line Group C",
+		"深海潜水艦隊 偵察哨戒線 B群": "Abyssal Submarine Fleet Reconnaissance Patrol Line Group B",
+		"深海前衛ピケット駆逐艦 III群": "Abyssal Vanguard Picket Destroyers Group III",
+		"深海潜水艦隊 侵入哨戒群": "Abyssal Submarine Fleet Intrusion Patrol Group",
+		"深海任務部隊 随伴護衛部隊": "Abyssal Task Force Escort",
+		"深海任務部隊 前衛機動部隊": "Abyssal Task Force Vanguard Task Force",
+		"深海前衛ピケット駆逐艦 II群": "Abyssal Vanguard Picket Destroyers Group II",
+		"深海任務部隊 前衛主力艦隊": "Abyssal Task Force Vanguard Fleet"
 	}
 }
