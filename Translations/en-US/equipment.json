@@ -1,5 +1,5 @@
 {
-	"version": "21030258",
+	"version": "21030259",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -510,6 +510,10 @@
 		"Walrus": "Walrus",
 		"21inch艦首魚雷発射管4門(初期型)": "21inch 4-tube Bow Torpedo Launcher (Initial Model)",
 		"21inch艦首魚雷発射管4門(後期型)": "21inch 4-tube Bow Torpedo Launcher (Late Model)",
+		"阻塞気球": "Barrage Balloon",
+		"特大発動艇+Ⅲ号戦車J型": "Toku Daihatsu Landing Craft + Panzer III Type J",
+		"Sea Otter": "Sea Otter",
+		"Me 262 A-1a/R1": "Me 262 A-1a/R1",
 		"5inch単装砲": "5inch Single Gun",
 		"5inch連装砲": "5inch Twin Gun",
 		"3inch単装高角砲": "3inch Single High-angle",
@@ -642,7 +646,8 @@
 		"深海突破襲撃機": "Abyssal Breakthrough Assault Aircraft",
 		"深海突破襲撃機Ace": "Abyssal Breakthrough Assault Aircraft Ace",
 		"沿岸突撃半水中魚雷艇": "Coastal Ambush Semi-submersible Torpedo Boat",
-		"深海3inch単装高角砲+甲板機銃": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun"
+		"深海3inch単装高角砲+甲板機銃": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
+		"深海水中探信儀 & 深海調整電探": "Abyssal Active Sonar & Abyssal Calibrated Radar"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",

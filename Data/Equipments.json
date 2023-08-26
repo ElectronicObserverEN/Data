@@ -3874,5 +3874,35 @@
 		"api_id": 512,
 		"name_jp": "21inch艦首魚雷発射管4門(後期型)",
 		"name_en": "21inch 4-tube Bow Torpedo Launcher (Late Model)"
+	},
+	{
+		"id": 2490,
+		"api_id": 1639,
+		"name_jp": "深海水中探信儀 & 深海調整電探",
+		"name_en": "Abyssal Active Sonar & Abyssal Calibrated Radar"
+	},
+	{
+		"id": 2491,
+		"api_id": 513,
+		"name_jp": "阻塞気球",
+		"name_en": "Barrage Balloon"
+	},
+	{
+		"id": 2492,
+		"api_id": 514,
+		"name_jp": "特大発動艇+Ⅲ号戦車J型",
+		"name_en": "Toku Daihatsu Landing Craft + Panzer III Type J"
+	},
+	{
+		"id": 2493,
+		"api_id": 515,
+		"name_jp": "Sea Otter",
+		"name_en": "Sea Otter"
+	},
+	{
+		"id": 2494,
+		"api_id": 516,
+		"name_jp": "Me 262 A-1a/R1",
+		"name_en": "Me 262 A-1a/R1"
 	}
 ]
