@@ -1,5 +1,5 @@
 {
-	"version": "21030143",
+	"version": "21030144",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -453,7 +453,9 @@
 		"深海擱座揚陸姫": "Abyssal Stranded Landing Princess",
 		"稲木": "Inagi",
 		"第二十二号海防艦": "Kaiboukan No.22",
-		"朝日": "Asahi"
+		"朝日": "Asahi",
+		"深海釧路沖棲雲姫": "Abyssal Kushiro Cloud Princess",
+		"伊503": "I-503"
 	},
 	"class": {
 		"綾波型": "Ayanami Class",
