@@ -229,5 +229,27 @@
 		"live_update": true,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1685939406199517184?s=20",
 		"maint_end_tweet": ""
+	},
+	{
+		"id": 29,
+		"start_date": "2023-08-25T00:00:00",
+		"start_time": "1.22:00:00",
+		"end_time": null,
+		"name": "Summer 2023 Event EO release",
+		"description": "",
+		"live_update": true,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1693992331144511836?s=20",
+		"maint_end_tweet": ""
+	},
+	{
+		"id": 30,
+		"start_date": "2023-08-27T00:00:00",
+		"start_time": "00:00:00",
+		"end_time": null,
+		"name": "Summer 2023 Event E7 release",
+		"description": "",
+		"live_update": true,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1693992331144511836?s=20",
+		"maint_end_tweet": ""
 	}
 ]

@@ -9826,5 +9826,117 @@
 		"NameJP": "天津風改二",
 		"ApiId": 951,
 		"IsFriendly": true
+	},
+	{
+		"Id": 1405,
+		"NameEN": "Kaiboukan No.22 Kai",
+		"NameJP": "第二十二号海防艦改",
+		"ApiId": 728,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1406,
+		"NameEN": "Shirakumo Kai",
+		"NameJP": "白雲改",
+		"ApiId": 729,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1407,
+		"NameEN": "Inagi Kai",
+		"NameJP": "稲木改",
+		"ApiId": 730,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1408,
+		"NameEN": "Salmon",
+		"NameJP": "Salmon",
+		"ApiId": 891,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1409,
+		"NameEN": "Salmon Kai",
+		"NameJP": "Salmon改",
+		"ApiId": 897,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1410,
+		"NameEN": "Kaiboukan No.22",
+		"NameJP": "第二十二号海防艦",
+		"ApiId": 898,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1411,
+		"NameEN": "Inagi",
+		"NameJP": "稲木",
+		"ApiId": 922,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1412,
+		"NameEN": "Asahi",
+		"NameJP": "朝日",
+		"ApiId": 953,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1413,
+		"NameEN": "Asahi Kai",
+		"NameJP": "朝日改",
+		"ApiId": 958,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1414,
+		"NameEN": "Shirakumo",
+		"NameJP": "白雲",
+		"ApiId": 964,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1415,
+		"NameEN": "深海釧路沖棲雲姫",
+		"NameJP": "深海釧路沖棲雲姫",
+		"ApiId": 2172,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1416,
+		"NameEN": "深海釧路沖棲雲姫",
+		"NameJP": "深海釧路沖棲雲姫",
+		"ApiId": 2173,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1417,
+		"NameEN": "深海釧路沖棲雲姫",
+		"NameJP": "深海釧路沖棲雲姫",
+		"ApiId": 2174,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1418,
+		"NameEN": "深海釧路沖棲雲姫 - Damaged",
+		"NameJP": "深海釧路沖棲雲姫-壊",
+		"ApiId": 2175,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1419,
+		"NameEN": "深海釧路沖棲雲姫 - Damaged",
+		"NameJP": "深海釧路沖棲雲姫-壊",
+		"ApiId": 2176,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1420,
+		"NameEN": "深海釧路沖棲雲姫 - Damaged",
+		"NameJP": "深海釧路沖棲雲姫-壊",
+		"ApiId": 2177,
+		"IsFriendly": false
 	}
 ]
