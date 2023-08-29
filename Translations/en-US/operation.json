@@ -1,5 +1,5 @@
 {
-	"version": "20071533",
+	"version": "20071534",
 	"map": {
 		"南西諸島近海": "Adjacent Seas of Southwest Islands",
 		"バシー海峡": "Bashi Strait",
@@ -106,7 +106,14 @@
 		"": " (57-7)",
 		"大西洋/イギリス海峡沖": "Atlantic Ocean/Off the English Channel",
 		"ポートランド島沖/ライム湾": "Off Portland/Lyme Bay",
-		"ノルマンディー沖": "Off Normandy"
+		"ノルマンディー沖": "Off Normandy",
+		"鎮守府海域": "Naval Base Waters",
+		"南西諸島海域": "Nansei Island Waters",
+		"北方海域": "Northern Waters",
+		"西方海域": "Western Waters",
+		"南方海域": "Southern Waters",
+		"南西海域": "South Western Waters",
+		"船団護衛！輸送航路防衛戦": "Fleet Escort! Transport Route Defence Battle"
 	},
 	"fleet": {
 		"渦潮": "Whirlpool",
