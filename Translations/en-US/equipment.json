@@ -1,5 +1,5 @@
 {
-	"version": "21030259",
+	"version": "21030260",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -647,7 +647,11 @@
 		"深海突破襲撃機Ace": "Abyssal Breakthrough Assault Aircraft Ace",
 		"沿岸突撃半水中魚雷艇": "Coastal Ambush Semi-submersible Torpedo Boat",
 		"深海3inch単装高角砲+甲板機銃": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun",
-		"深海水中探信儀 & 深海調整電探": "Abyssal Active Sonar & Abyssal Calibrated Radar"
+		"深海水中探信儀 & 深海調整電探": "Abyssal Active Sonar & Abyssal Calibrated Radar",
+		"深海観測阻塞気球": "Abyssal Observation Barrage Balloon",
+		"深海標準14inch/45 連装砲": "Abyssal Standard 14inch/45 Twin Gun Mount",
+		" 深海標準14inch/45 三連装砲": "Abyssal Standard 14inch/45 Triple Gun Mount",
+		"深海3.7cm FlaK": "Abyssal 3.7cm FlaK"
 	},
 	"equiptype": {
 		"小口径主砲": "Small-caliber Gun",

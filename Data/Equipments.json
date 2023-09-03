@@ -3904,5 +3904,29 @@
 		"api_id": 516,
 		"name_jp": "Me 262 A-1a/R1",
 		"name_en": "Me 262 A-1a/R1"
+	},
+	{
+		"id": 2495,
+		"api_id": 1640,
+		"name_jp": "深海観測阻塞気球",
+		"name_en": "Abyssal Observation Barrage Balloon"
+	},
+	{
+		"id": 2496,
+		"api_id": 1641,
+		"name_jp": "深海標準14inch/45 連装砲",
+		"name_en": "Abyssal Standard 14inch/45 Twin Gun Mount"
+	},
+	{
+		"id": 2497,
+		"api_id": 1642,
+		"name_jp": " 深海標準14inch/45 三連装砲",
+		"name_en": "Abyssal Standard 14inch/45 Triple Gun Mount"
+	},
+	{
+		"id": 2498,
+		"api_id": 1643,
+		"name_jp": "深海3.7cm FlaK",
+		"name_en": "Abyssal 3.7cm FlaK"
 	}
 ]
