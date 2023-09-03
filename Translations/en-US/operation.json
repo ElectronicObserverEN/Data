@@ -1,5 +1,5 @@
 {
-	"version": "20071536",
+	"version": "20071537",
 	"map": {
 		"南西諸島近海": "Adjacent Seas of Southwest Islands",
 		"バシー海峡": "Bashi Strait",
@@ -668,6 +668,7 @@
 		"深海潜水艦隊 遊撃群狼集団": "Abyssal Submarine Fleet Raid Wolfpack Unit",
 		"深海要塞群 後方補給兵站基地": "Abyssal Fortifications Rear Supply Depots",
 		"深海大西洋艦隊 最終阻止線": "Abyssal Atlantic Fleet Line Of Final Defense",
-		"深海大西洋方面 要塞守備旗艦": "Abyssal Atlantic Area Fortress Defence Flagship"
+		"深海大西洋方面 要塞守備旗艦": "Abyssal Atlantic Area Fortress Defence Flagship",
+		"深海潜水艦隊 機動部隊随伴部隊": "Abyssal Submarine Fleet Mobile Force Escort Unit"
 	}
 }
