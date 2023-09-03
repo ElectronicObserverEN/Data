@@ -1,5 +1,5 @@
 {
-	"version": "21030145",
+	"version": "21030146",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -460,7 +460,8 @@
 		"対空小鬼": "Anti-Air Guns Imp",
 		"標準型戦艦棲姫": "Standard Type Battleship Princess",
 		"トーチカ要塞棲姫": "Fortified Pillbox Princess",
-		"Schnellboot小鬼群": "Schnellboot Imp Pack"
+		"Schnellboot小鬼群": "Schnellboot Imp Pack",
+		"欧州妹姫": "European Little Sister Princess"
 	},
 	"class": {
 		"綾波型": "Ayanami Class",
