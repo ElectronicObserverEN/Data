@@ -9899,44 +9899,296 @@
 	},
 	{
 		"Id": 1415,
-		"NameEN": "深海釧路沖棲雲姫",
+		"NameEN": "Abyssal Kushiro Cloud Princess",
 		"NameJP": "深海釧路沖棲雲姫",
 		"ApiId": 2172,
 		"IsFriendly": false
 	},
 	{
 		"Id": 1416,
-		"NameEN": "深海釧路沖棲雲姫",
+		"NameEN": "Abyssal Kushiro Cloud Princess",
 		"NameJP": "深海釧路沖棲雲姫",
 		"ApiId": 2173,
 		"IsFriendly": false
 	},
 	{
 		"Id": 1417,
-		"NameEN": "深海釧路沖棲雲姫",
+		"NameEN": "Abyssal Kushiro Cloud Princess",
 		"NameJP": "深海釧路沖棲雲姫",
 		"ApiId": 2174,
 		"IsFriendly": false
 	},
 	{
 		"Id": 1418,
-		"NameEN": "深海釧路沖棲雲姫 - Damaged",
+		"NameEN": "Abyssal Kushiro Cloud Princess - Damaged",
 		"NameJP": "深海釧路沖棲雲姫-壊",
 		"ApiId": 2175,
 		"IsFriendly": false
 	},
 	{
 		"Id": 1419,
-		"NameEN": "深海釧路沖棲雲姫 - Damaged",
+		"NameEN": "Abyssal Kushiro Cloud Princess - Damaged",
 		"NameJP": "深海釧路沖棲雲姫-壊",
 		"ApiId": 2176,
 		"IsFriendly": false
 	},
 	{
 		"Id": 1420,
-		"NameEN": "深海釧路沖棲雲姫 - Damaged",
+		"NameEN": "Abyssal Kushiro Cloud Princess - Damaged",
 		"NameJP": "深海釧路沖棲雲姫-壊",
 		"ApiId": 2177,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1421,
+		"NameEN": "Rodney",
+		"NameJP": "Rodney",
+		"ApiId": 572,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1422,
+		"NameEN": "Rodney Kai",
+		"NameJP": "Rodney改",
+		"ApiId": 577,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1423,
+		"NameEN": "C.Cappellini Kai",
+		"NameJP": "C.Cappellini改",
+		"ApiId": 731,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1424,
+		"NameEN": "Javelin",
+		"NameJP": "Javelin",
+		"ApiId": 901,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1425,
+		"NameEN": "Javelin Kai",
+		"NameJP": "Javelin改",
+		"ApiId": 906,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1426,
+		"NameEN": "Nevada",
+		"NameJP": "Nevada",
+		"ApiId": 924,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1427,
+		"NameEN": "Nevada Kai",
+		"NameJP": "Nevada改",
+		"ApiId": 929,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1428,
+		"NameEN": "C.Cappellini",
+		"NameJP": "C.Cappellini",
+		"ApiId": 934,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1429,
+		"NameEN": "Nevada Kai Mod.2",
+		"NameJP": "Nevada改 Mod.2",
+		"ApiId": 936,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1430,
+		"NameEN": "UIT-24",
+		"NameJP": "UIT-24",
+		"ApiId": 939,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1431,
+		"NameEN": "I-503",
+		"NameJP": "伊503",
+		"ApiId": 940,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1457,
+		"NameEN": "Pillbox Imp",
+		"NameJP": "トーチカ小鬼",
+		"ApiId": 2178,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1458,
+		"NameEN": "Pillbox Imp",
+		"NameJP": "トーチカ小鬼",
+		"ApiId": 2179,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1459,
+		"NameEN": "Anti-Air Guns Imp",
+		"NameJP": "対空小鬼",
+		"ApiId": 2180,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1460,
+		"NameEN": "Anti-Air Guns Imp",
+		"NameJP": "対空小鬼",
+		"ApiId": 2181,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1461,
+		"NameEN": "Standard Type Battleship Princess",
+		"NameJP": "標準型戦艦棲姫",
+		"ApiId": 2182,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1462,
+		"NameEN": "Standard Type Battleship Princess",
+		"NameJP": "標準型戦艦棲姫",
+		"ApiId": 2183,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1463,
+		"NameEN": "Standard Type Battleship Princess",
+		"NameJP": "標準型戦艦棲姫",
+		"ApiId": 2184,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1464,
+		"NameEN": "Standard Type Battleship Princess - Damaged",
+		"NameJP": "標準型戦艦棲姫-壊",
+		"ApiId": 2185,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1465,
+		"NameEN": "Standard Type Battleship Princess - Damaged",
+		"NameJP": "標準型戦艦棲姫-壊",
+		"ApiId": 2186,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1466,
+		"NameEN": "Standard Type Battleship Princess - Damaged",
+		"NameJP": "標準型戦艦棲姫-壊",
+		"ApiId": 2187,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1467,
+		"NameEN": "Fortified Pillbox Princess",
+		"NameJP": "トーチカ要塞棲姫",
+		"ApiId": 2188,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1468,
+		"NameEN": "Fortified Pillbox Princess",
+		"NameJP": "トーチカ要塞棲姫",
+		"ApiId": 2189,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1469,
+		"NameEN": "Fortified Pillbox Princess - Damaged",
+		"NameJP": "トーチカ要塞棲姫-壊",
+		"ApiId": 2190,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1470,
+		"NameEN": "Fortified Pillbox Princess - Damaged",
+		"NameJP": "トーチカ要塞棲姫-壊",
+		"ApiId": 2191,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1471,
+		"NameEN": "Schnellboot Imp Pack",
+		"NameJP": "Schnellboot小鬼群",
+		"ApiId": 2192,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1472,
+		"NameEN": "Schnellboot Imp Pack",
+		"NameJP": "Schnellboot小鬼群",
+		"ApiId": 2193,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1473,
+		"NameEN": "Schnellboot Imp Pack",
+		"NameJP": "Schnellboot小鬼群",
+		"ApiId": 2194,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1474,
+		"NameEN": "Pillbox Imp",
+		"NameJP": "トーチカ小鬼",
+		"ApiId": 2196,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1475,
+		"NameEN": "Pillbox Imp",
+		"NameJP": "トーチカ小鬼",
+		"ApiId": 2197,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1482,
+		"NameEN": "European Little Sister Princess",
+		"NameJP": "欧州妹姫",
+		"ApiId": 2198,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1483,
+		"NameEN": "European Little Sister Princess",
+		"NameJP": "欧州妹姫",
+		"ApiId": 2199,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1484,
+		"NameEN": "European Little Sister Princess",
+		"NameJP": "欧州妹姫",
+		"ApiId": 2200,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1485,
+		"NameEN": "European Little Sister Princess - Damaged",
+		"NameJP": "欧州妹姫-壊",
+		"ApiId": 2201,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1486,
+		"NameEN": "European Little Sister Princess - Damaged",
+		"NameJP": "欧州妹姫-壊",
+		"ApiId": 2202,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1487,
+		"NameEN": "European Little Sister Princess - Damaged",
+		"NameJP": "欧州妹姫-壊",
+		"ApiId": 2203,
 		"IsFriendly": false
 	}
 ]
