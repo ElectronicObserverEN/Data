@@ -251,5 +251,27 @@
 		"live_update": true,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1693992331144511836?s=20",
 		"maint_end_tweet": ""
+	},
+	{
+		"id": 31,
+		"start_date": "2023-09-30T00:00:00",
+		"start_time": "19:30:00",
+		"end_time": null,
+		"name": "August 2023 Ranking Rewards",
+		"description": "",
+		"live_update": true,
+		"maint_start_tweet": "https://x.com/KanColle_STAFF/status/1708066300185207248?s=20",
+		"maint_end_tweet": ""
+	},
+	{
+		"id": 32,
+		"start_date": "2023-10-11T00:00:00",
+		"start_time": "11:00:00",
+		"end_time": null,
+		"name": "Summer 2023 Event End",
+		"description": "- Summer event will end\r\n- Some new K2",
+		"live_update": false,
+		"maint_start_tweet": "https://x.com/KanColle_STAFF/status/1708813431753822410?s=20",
+		"maint_end_tweet": ""
 	}
 ]
