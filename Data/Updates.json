@@ -267,11 +267,11 @@
 		"id": 32,
 		"start_date": "2023-10-11T00:00:00",
 		"start_time": "11:00:00",
-		"end_time": null,
+		"end_time": "20:30:00",
 		"name": "Summer 2023 Event End",
-		"description": "- Summer event will end\r\n- Some new K2",
+		"description": "- Summer event will end\r\n- Some new K2\r\n- Halloween stuff",
 		"live_update": false,
 		"maint_start_tweet": "https://x.com/KanColle_STAFF/status/1708813431753822410?s=20",
-		"maint_end_tweet": ""
+		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1711669746658410988"
 	}
 ]
