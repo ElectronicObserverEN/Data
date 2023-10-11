@@ -10190,5 +10190,19 @@
 		"NameJP": "欧州妹姫-壊",
 		"ApiId": 2203,
 		"IsFriendly": false
+	},
+	{
+		"Id": 1488,
+		"NameEN": "Kiyoshimo Kai Ni",
+		"NameJP": "清霜改二",
+		"ApiId": 955,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1489,
+		"NameEN": "Kiyoshimo Kai Ni D",
+		"NameJP": "清霜改二丁",
+		"ApiId": 960,
+		"IsFriendly": true
 	}
 ]
