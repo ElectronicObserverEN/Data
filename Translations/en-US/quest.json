@@ -1,5 +1,5 @@
 {
-	"version": "21030357",
+	"version": "21030358",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4038,6 +4038,13 @@
 		"name": "10th Anniversary Autumn Pumpkin Festival, Westward!",
 		"desc_jp": "「Roma」「Maestrale」「Grecale」「Libeccio」「Scirocco」「浜波」「早波」2隻以上を含む艦隊で<br>カレー洋海域、リランカ島、カレー洋リランカ島沖の敵戦力を殲滅せよ！　Happy Halloween！",
 		"desc": "Organize a fleet with 2 of Roma, Maestrale, Grecale, Libeccio, Scirocco, Hamanami and Hayanami in your fleet and score an S rank at the boss nodes on 4-2, 4-3 and 4-5."
+	},
+	"987": {
+		"code": "987",
+		"name_jp": "【限定週間任務】10周年秋南瓜祭りおかわり！",
+		"name": "10th Anniversary Autumn Pumpkin Festival, Seconds!",
+		"desc_jp": "「阿武隈」「伊201」2隻、「鵜来」「稲木」2隻、または「瑞穂」「Brooklyn」「Johnston」3隻<br>を含む艦隊で、中部海域哨戒線、MS諸島沖、グアノ環礁沖海域に展開、遭遇する敵を撃破せよ！",
+		"desc": "Organize a fleet with either Abukuma and I-201 or Ukuru and Inagi or Mizuho, Brooklyn and Johnston in your fleet and score an S rank at the boss nodes on 6-1, 6-2, and 6-3"
 	},
 	"989": {
 		"code": "B188",
