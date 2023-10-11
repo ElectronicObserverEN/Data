@@ -40,5 +40,11 @@
 		"name": "Rainy Season 2023",
 		"added_update_id": 23,
 		"removed_update_id": 25
+	},
+	{
+		"id": 9,
+		"name": "Halloween Festival 2023",
+		"added_update_id": 32,
+		"removed_update_id": null
 	}
 ]

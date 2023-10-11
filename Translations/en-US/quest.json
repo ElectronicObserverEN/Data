@@ -1,5 +1,5 @@
 {
-	"version": "21030349",
+	"version": "21030350",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4011,6 +4011,13 @@
 		"desc_jp": "「Gambier Bay」「Johnston」「Samuel B.Roberts」基幹の“Taffy Ⅲ”を編成、東部オリョール海、<br>沖ノ島沖、カレー洋リランカ島沖、サーモン海域北方に展開、同海域の敵を捕捉、これを撃滅せよ！",
 		"desc": "Organize a fleet with Gambier Bay, Johnston, Samuel B. Roberts in your fleet and score an S rank at the boss nodes on 2-3, 2-5, 4-5, and 5-5"
 	},
+	"984": {
+		"code": "984",
+		"name_jp": "【期間限定任務】10周年秋南瓜祭り、始め！",
+		"name": "10th Anniversary Autumn Pumpkin Festival, Begin!",
+		"desc_jp": "「鵜来」「稲木」「夕立」「朝潮」「清霜」のいずれかを旗艦とする艦隊で、製油所地帯沿岸、<br>南西諸島防衛線、鎮守府近海に出撃！敵艦隊を捜索、これを殲滅せよ！　Trick or Treat！",
+		"desc": "Organize a fleet with Ukuru, Inagi, Yuudachi, Asashio or Kiyoshimo as flagship and score an S rank at the boss nodes on 1-3, 1-4 and 1-5"
+	},
 	"989": {
 		"code": "B188",
 		"name_jp": "機動部隊旗艦「鳳翔改二」、前線に出撃せよ！",
@@ -4066,6 +4073,13 @@
 		"name": "Improved Shiratsuyu-class Destroyer \"Shigure Kai San\", Sortie!",
 		"desc_jp": "「時雨改三」及び第二七駆逐隊(白露・有明・夕暮)僚艦1隻を含む艦隊で、沖ノ島沖、昭南本土航路、<br>カレー洋リランカ島沖、サーモン海域北方、中部北海域ピーコック島沖の敵戦力を撃滅せよッ！",
 		"desc": "Organize a fleet with Shigure Kai San and a member of DesDiv27 (Shiratsuyu, Ariake or Yuugure) in your fleet and score an S rank at the boss nodes on 2-5, 7-4, 4-5, 5-5 and 6-4"
+	},
+	"1001": {
+		"code": "1001",
+		"name_jp": "主力オブ主力「清霜改二」、出撃せよ！",
+		"name": "Main Force of Main Force [Kiyoshimo Kai Ni], Sortie!",
+		"desc_jp": "改夕雲型駆逐艦「清霜改二/丁」、さらに随伴艦に「霞」「朝霜」「大淀」「足柄」から2隻を配備。同艦隊<br>で、バシー海峡、東部オリョール海、沖ノ島海域、昭南本土航路に出撃！各海域の敵戦力を撃滅せよ！",
+		"desc": "Organize a fleet with Kiyoshimo Kai Ni (D) as Flagship and two of Kasumi, Ashigara, Ooyodo or Asashimo in your fleet and score an S rank at the boss nodes on 2-2, 2-3, 2-4 and 7-4"
 	},
 	"1101": {
 		"code": "F96",
@@ -4234,5 +4248,19 @@
 		"name": "Artillery Armament Maintenance",
 		"desc_jp": "「小口径主砲」x18、「中口径主砲」x12、「爆雷」系装備x6を廃棄。「応急修理要員」x1を用意。<br>さらに弾薬2,500及び鋼材3,000を準備せよ！ (任務達成後、準備した資源等は消費します)",
 		"desc": "Have 1x emergency repair personnel, 2500 ammo and 3000 steel and then proceed to scrap 18x small caliber main guns, 12x medium caliber main guns and 6x depth charges (All resources and Materials will be consumed upon completion)"
+	},
+	"1132": {
+		"code": "1132",
+		"name_jp": "改良D型砲の配備",
+		"name": "Deployment of the improved Model D Gun!",
+		"desc_jp": "旗艦「清霜改二/丁」の第一装備スロットに、「12.7cm連装砲D型改二」 (★+8以上)を装備。<br>開発資材x22、新型砲熕兵装資材x1、「12.7cm連装砲」x10、弾薬350、改修資材x8を準備！",
+		"desc": "Have your secretary flagship Kiyoshimo Kai Ni (D) equip 12.7cm Twin Gun Mount Model D Kai Ni which is at least ★+8 and have 22x DevMat, 2x New Model Gun Materials, 2x Type 22 Surface Radar and 6x Screw. (All resources and Materials will be consumed upon completion)"
+	},
+	"1134": {
+		"code": "1134",
+		"name_jp": "22号対水上電探の改良",
+		"name": "Improvement of the Type 22 Surface Radar!",
+		"desc_jp": "旗艦「時雨改二/改三」または「満潮改二」第一装備スロに「22号対水上電探改四(★max)」を<br>装備。開発資材x22、新型兵装資材x2、「22号対水上電探」x4、改修資材x6を準備せよ！",
+		"desc": "Have your secretary flagship Michishio Kai Ni or Shigure Kai Ni or Kai San equip a Type 22 Surface Radar Kai 4 ★max in the first slot and have 22x DevMat, 2x New Model Armament Materials, 4x Type 22 Surface Radar, 6x Screw (All resources and Materials will be consumed upon completion)"
 	}
 }

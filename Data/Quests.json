@@ -8253,5 +8253,57 @@
 		"removed_update_id": null,
 		"season_id": null,
 		"tracker": "[[1104],[[3,[106,3]]],[0,[]]]"
+	},
+	{
+		"id": 645,
+		"api_id": 984,
+		"code": "984",
+		"name_jp": "【期間限定任務】10周年秋南瓜祭り、始め！",
+		"name_en": "10th Anniversary Autumn Pumpkin Festival, Begin!",
+		"desc_jp": "「鵜来」「稲木」「夕立」「朝潮」「清霜」のいずれかを旗艦とする艦隊で、製油所地帯沿岸、<br>南西諸島防衛線、鎮守府近海に出撃！敵艦隊を捜索、これを殲滅せよ！　Trick or Treat！",
+		"desc_en": "Organize a fleet with Ukuru, Inagi, Yuudachi, Asashio or Kiyoshimo as flagship and score an S rank at the boss nodes on 1-3, 1-4 and 1-5",
+		"added_update_id": 32,
+		"removed_update_id": null,
+		"season_id": 9,
+		"tracker": "[[984],[[0,[[1,3],6,1]],[0,[[1,4],6,1]],[0,[[1,5],6,1]]],[1,[[7,[921,true,0,0]],[7,[922,true,0,0]],[7,[45,true,0,0]],[7,[95,true,0,0]],[7,[410,true,0,0]]]]]"
+	},
+	{
+		"id": 646,
+		"api_id": 1001,
+		"code": "1001",
+		"name_jp": "主力オブ主力「清霜改二」、出撃せよ！",
+		"name_en": "Main Force of Main Force [Kiyoshimo Kai Ni], Sortie!",
+		"desc_jp": "改夕雲型駆逐艦「清霜改二/丁」、さらに随伴艦に「霞」「朝霜」「大淀」「足柄」から2隻を配備。同艦隊<br>で、バシー海峡、東部オリョール海、沖ノ島海域、昭南本土航路に出撃！各海域の敵戦力を撃滅せよ！",
+		"desc_en": "Organize a fleet with Kiyoshimo Kai Ni (D) as Flagship and two of Kasumi, Ashigara, Ooyodo or Asashimo in your fleet and score an S rank at the boss nodes on 2-2, 2-3, 2-4 and 7-4",
+		"added_update_id": 32,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[1001],[[0,[[2,2],6,1]],[0,[[2,3],6,1]],[0,[[2,4],6,1]],[0,[[7,4],6,1]]],[0,[[7,[955,true,1,0]],[8,[[[49,false,0,0],[64,false,0,0],[183,false,0,0],[425,false,0,0]],2]]]]]"
+	},
+	{
+		"id": 647,
+		"api_id": 1132,
+		"code": "1132",
+		"name_jp": "改良D型砲の配備",
+		"name_en": "Deployment of the improved Model D Gun!",
+		"desc_jp": "旗艦「清霜改二/丁」の第一装備スロットに、「12.7cm連装砲D型改二」 (★+8以上)を装備。<br>開発資材x22、新型砲熕兵装資材x1、「12.7cm連装砲」x10、弾薬350、改修資材x8を準備！",
+		"desc_en": "Have your secretary flagship Kiyoshimo Kai Ni (D) equip 12.7cm Twin Gun Mount Model D Kai Ni which is at least ★+8 and have 22x DevMat, 2x New Model Gun Materials, 2x Type 22 Surface Radar and 6x Screw. (All resources and Materials will be consumed upon completion)",
+		"added_update_id": 32,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": ""
+	},
+	{
+		"id": 648,
+		"api_id": 1134,
+		"code": "1134",
+		"name_jp": "22号対水上電探の改良",
+		"name_en": "Improvement of the Type 22 Surface Radar!",
+		"desc_jp": "旗艦「時雨改二/改三」または「満潮改二」第一装備スロに「22号対水上電探改四(★max)」を<br>装備。開発資材x22、新型兵装資材x2、「22号対水上電探」x4、改修資材x6を準備せよ！",
+		"desc_en": "Have your secretary flagship Michishio Kai Ni or Shigure Kai Ni or Kai San equip a Type 22 Surface Radar Kai 4 ★max in the first slot and have 22x DevMat, 2x New Model Armament Materials, 4x Type 22 Surface Radar, 6x Screw (All resources and Materials will be consumed upon completion)",
+		"added_update_id": null,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": ""
 	}
 ]
