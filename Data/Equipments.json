@@ -3928,5 +3928,11 @@
 		"api_id": 1643,
 		"name_jp": "深海3.7cm FlaK",
 		"name_en": "Abyssal 3.7cm FlaK"
+	},
+	{
+		"id": 2499,
+		"api_id": 517,
+		"name_jp": "逆探(E27)+22号対水上電探改四(後期調整型)",
+		"name_en": "Passive Radiolocator (E27) + Type 22 Surface Radar Kai 4 (Calibrated Late Model)"
 	}
 ]
