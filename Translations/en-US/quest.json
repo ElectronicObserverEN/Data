@@ -1,5 +1,5 @@
 {
-	"version": "21030353",
+	"version": "21030354",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1725,7 +1725,7 @@
 	"359": {
 		"code": "359",
 		"name_jp": "Halloween 小型艦艇 特別演習！",
-		"name": "Halloween 小型艦艇 特別演習！",
+		"name": "Halloween Small Ship Exercises!",
 		"desc_jp": "「野分」「朝潮」「夕立」「浜波」「早波」「鵜来」「稲木」「伊47」「伊201」「Johnston」のうち<br>4隻以上を含むHalloween艦隊を編成。同艦隊で本日中に演習で【A判定】以上を4回達成せよ！",
 		"desc": "Organize a fleet with 4 of Nowaki, Asashio, Yuudachi, Hamanami, Hayanami, Ukuru, Inagi, I-47, I-201 and Johnston in your fleet and score A rank 4 times in PvP"
 	},
