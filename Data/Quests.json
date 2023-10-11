@@ -8287,7 +8287,7 @@
 		"name_jp": "改良D型砲の配備",
 		"name_en": "Deployment of the improved Model D Gun!",
 		"desc_jp": "旗艦「清霜改二/丁」の第一装備スロットに、「12.7cm連装砲D型改二」 (★+8以上)を装備。<br>開発資材x22、新型砲熕兵装資材x1、「12.7cm連装砲」x10、弾薬350、改修資材x8を準備！",
-		"desc_en": "Have your secretary flagship Kiyoshimo Kai Ni (D) equip 12.7cm Twin Gun Mount Model D Kai Ni which is at least ★+8 and have 22x DevMat, 2x New Model Gun Materials, 2x Type 22 Surface Radar and 6x Screw. (All resources and Materials will be consumed upon completion)",
+		"desc_en": "Have your secretary flagship Kiyoshimo Kai Ni (D) equip 12.7cm Twin Gun Mount Model D Kai Ni which is at least ★+8 and have 22x DevMat, 1x New Model Gun Materials, 10x 12.7cm Twin Gun and 8x Screws. (All resources and Materials will be consumed upon completion)",
 		"added_update_id": 32,
 		"removed_update_id": null,
 		"season_id": null,
