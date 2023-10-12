@@ -1,5 +1,5 @@
 {
-	"version": "21030359",
+	"version": "21030360",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4108,6 +4108,13 @@
 		"name": "Main Force of Main Force [Kiyoshimo Kai Ni], Sortie!",
 		"desc_jp": "改夕雲型駆逐艦「清霜改二/丁」、さらに随伴艦に「霞」「朝霜」「大淀」「足柄」から2隻を配備。同艦隊<br>で、バシー海峡、東部オリョール海、沖ノ島海域、昭南本土航路に出撃！各海域の敵戦力を撃滅せよ！",
 		"desc": "Organize a fleet with Kiyoshimo Kai Ni (D) and two of Kasumi, Ashigara, Ooyodo or Asashimo in your fleet and score an S rank at the boss nodes on 2-2, 2-3, 2-4 and 7-4"
+	},
+	"1002": {
+		"code": "2310 B4",
+		"name_jp": "【期間限定任務】10周年秋南瓜祭り拡張作戦！",
+		"name": "[Limited Time Quest] 10th Anniversary Autumn Pumpkin Festival, Expanded Strategy!",
+		"desc_jp": "「鵜来」「稲木」「朝潮」「夕立」「野分」「浜波」「早波」「阿武隈」のうち2隻以上を含む精鋭艦隊で<br>鎮守府近海、東部オリョール海、カスガダマ島、中部北海域ピーコック島沖の敵戦力を撃滅せよ！",
+		"desc": "Organize a fleet with any 2 of Abukuma, Yuudachi, Asashio, Nowaki, Hamanami, Hayanami, Ukuru and Inagi in your fleet and score an S rank at the boss nodes on 1-5, 2-3, 4-4, and 6-4"
 	},
 	"1101": {
 		"code": "F96",
