@@ -8257,9 +8257,9 @@
 	{
 		"id": 645,
 		"api_id": 984,
-		"code": "984",
+		"code": "2310 B1",
 		"name_jp": "【期間限定任務】10周年秋南瓜祭り、始め！",
-		"name_en": "10th Anniversary Autumn Pumpkin Festival, Begin!",
+		"name_en": "[Limited Time Quest] 10th Anniversary Autumn Pumpkin Festival, Begin!",
 		"desc_jp": "「鵜来」「稲木」「夕立」「朝潮」「清霜」のいずれかを旗艦とする艦隊で、製油所地帯沿岸、<br>南西諸島防衛線、鎮守府近海に出撃！敵艦隊を捜索、これを殲滅せよ！　Trick or Treat！",
 		"desc_en": "Organize a fleet with Ukuru, Inagi, Yuudachi, Asashio or Kiyoshimo as flagship and score an S rank at the boss nodes on 1-3, 1-4 and 1-5",
 		"added_update_id": 32,
@@ -8270,20 +8270,20 @@
 	{
 		"id": 646,
 		"api_id": 1001,
-		"code": "1001",
+		"code": "B194",
 		"name_jp": "主力オブ主力「清霜改二」、出撃せよ！",
 		"name_en": "Main Force of Main Force [Kiyoshimo Kai Ni], Sortie!",
 		"desc_jp": "改夕雲型駆逐艦「清霜改二/丁」、さらに随伴艦に「霞」「朝霜」「大淀」「足柄」から2隻を配備。同艦隊<br>で、バシー海峡、東部オリョール海、沖ノ島海域、昭南本土航路に出撃！各海域の敵戦力を撃滅せよ！",
-		"desc_en": "Organize a fleet with Kiyoshimo Kai Ni (D) as Flagship and two of Kasumi, Ashigara, Ooyodo or Asashimo in your fleet and score an S rank at the boss nodes on 2-2, 2-3, 2-4 and 7-4",
+		"desc_en": "Organize a fleet with Kiyoshimo Kai Ni (D) and two of Kasumi, Ashigara, Ooyodo or Asashimo in your fleet and score an S rank at the boss nodes on 2-2, 2-3, 2-4 and 7-4",
 		"added_update_id": 32,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": "[[1001],[[0,[[2,2],6,1]],[0,[[2,3],6,1]],[0,[[2,4],6,1]],[0,[[7,4],6,1]]],[0,[[7,[955,true,1,0]],[8,[[[49,false,0,0],[64,false,0,0],[183,false,0,0],[425,false,0,0]],2]]]]]"
+		"tracker": "[[1001],[[0,[[2,2],6,1]],[0,[[2,3],6,1]],[0,[[2,4],6,1]],[0,[[7,4],6,1]]],[0,[[7,[955,false,1,0]],[8,[[[49,false,0,0],[64,false,0,0],[183,false,0,0],[425,false,0,0]],2]]]]]"
 	},
 	{
 		"id": 647,
 		"api_id": 1132,
-		"code": "1132",
+		"code": "F120",
 		"name_jp": "改良D型砲の配備",
 		"name_en": "Deployment of the improved Model D Gun!",
 		"desc_jp": "旗艦「清霜改二/丁」の第一装備スロットに、「12.7cm連装砲D型改二」 (★+8以上)を装備。<br>開発資材x22、新型砲熕兵装資材x1、「12.7cm連装砲」x10、弾薬350、改修資材x8を準備！",
@@ -8296,7 +8296,7 @@
 	{
 		"id": 648,
 		"api_id": 1134,
-		"code": "1134",
+		"code": "F121",
 		"name_jp": "22号対水上電探の改良",
 		"name_en": "Improvement of the Type 22 Surface Radar!",
 		"desc_jp": "旗艦「時雨改二/改三」または「満潮改二」第一装備スロに「22号対水上電探改四(★max)」を<br>装備。開発資材x22、新型兵装資材x2、「22号対水上電探」x4、改修資材x6を準備せよ！",
@@ -8309,7 +8309,7 @@
 	{
 		"id": 649,
 		"api_id": 359,
-		"code": "359",
+		"code": "2310 C1",
 		"name_jp": "Halloween 小型艦艇 特別演習！",
 		"name_en": "Halloween Small Ship Exercises!",
 		"desc_jp": "「野分」「朝潮」「夕立」「浜波」「早波」「鵜来」「稲木」「伊47」「伊201」「Johnston」のうち<br>4隻以上を含むHalloween艦隊を編成。同艦隊で本日中に演習で【A判定】以上を4回達成せよ！",
@@ -8322,9 +8322,9 @@
 	{
 		"id": 650,
 		"api_id": 985,
-		"code": "985",
+		"code": "2310 B2",
 		"name_jp": "【期間限定任務】10周年秋南瓜祭り、北方へ！",
-		"name_en": "10th Anniversary Autumn Pumpkin Festival, Northward!",
+		"name_en": "[Limited Time Quest] 10th Anniversary Autumn Pumpkin Festival, Northward!",
 		"desc_jp": "「霞」「足柄」「大淀」「朝霜」「清霜」のうち2隻以上を含む艦隊を編成、北方モーレイ海、<br>アルフォンシーノ方面、北方AL海域に展開！北方方面の敵艦隊を捕捉、これを撃滅せよ！",
 		"desc_en": "Organize a fleet with 2 of Kasumi, Ashigara, Ooyodo, Asashimo and Kiyoshimo in your fleet and score an S rank at the boss nodes on 3-1, 3-3 and 3-5",
 		"added_update_id": 32,
@@ -8335,11 +8335,11 @@
 	{
 		"id": 651,
 		"api_id": 1119,
-		"code": "1119",
+		"code": "2310 Fw1",
 		"name_jp": "【期間限定】Halloweenはお掃除もね、ね？",
-		"name_en": "Cleaning up for Halloween, huh?",
+		"name_en": "[Limited Time] Cleaning up for Halloween, huh?",
 		"desc_jp": "「小口径主砲」「中口径主砲」「水上偵察機」各x6を廃棄、「35.6cm連装砲」x3、「25mm連装機銃」<br>x3、家具コイン1031を準備せよ！(任務達成後、準備した装備・家具コインは消費します)",
-		"desc_en": "Scrap 6x Small Guns, Medium Guns and Seaplane Recons and have 1031x Furniture Coins, 3x 35.6cm Twin Gun Mount, 3x 25mm Twin Machine Gun (All resources and Materials will be consumed upon completion)",
+		"desc_en": "Scrap 6x Small Guns, 6x Medium Guns and 6x Seaplane Recons and have 1031x Furniture Coins, 3x 35.6cm Twin Gun Mount, 3x 25mm Twin Machine Gun (All resources and Materials will be consumed upon completion)",
 		"added_update_id": 32,
 		"removed_update_id": null,
 		"season_id": 9,
@@ -8348,9 +8348,9 @@
 	{
 		"id": 652,
 		"api_id": 986,
-		"code": "986",
+		"code": "2310 B3",
 		"name_jp": "【期間限定任務】10周年秋南瓜祭り、西方へ！",
-		"name_en": "10th Anniversary Autumn Pumpkin Festival, Westward!",
+		"name_en": "[Limited Time Quest] 10th Anniversary Autumn Pumpkin Festival, Westward!",
 		"desc_jp": "「Roma」「Maestrale」「Grecale」「Libeccio」「Scirocco」「浜波」「早波」2隻以上を含む艦隊で<br>カレー洋海域、リランカ島、カレー洋リランカ島沖の敵戦力を殲滅せよ！　Happy Halloween！",
 		"desc_en": "Organize a fleet with 2 of Roma, Maestrale, Grecale, Libeccio, Scirocco, Hamanami and Hayanami in your fleet and score an S rank at the boss nodes on 4-2, 4-3 and 4-5.",
 		"added_update_id": 32,
@@ -8361,7 +8361,7 @@
 	{
 		"id": 653,
 		"api_id": 1133,
-		"code": "1133",
+		"code": "F122",
 		"name_jp": "逆探及び改良水上電探の実戦配備",
 		"name_en": "Definitive release of an improved combat RADAR!",
 		"desc_jp": "旗艦「清霜改二/丁」または「朝霜改二」第一装備スロに「22号対水上電探改四(後期調整型)」<br>を装備。 開発資材x40、「13号対空電探改(後期型)」(★+4以上)x1、改修資材x6を準備！",
@@ -8374,14 +8374,14 @@
 	{
 		"id": 654,
 		"api_id": 987,
-		"code": "987",
+		"code": "2310 Bw1",
 		"name_jp": "【限定週間任務】10周年秋南瓜祭りおかわり！",
-		"name_en": "10th Anniversary Autumn Pumpkin Festival, Seconds!",
+		"name_en": "[Extended Cyclical Quest] 10th Anniversary Autumn Pumpkin Festival, Seconds!",
 		"desc_jp": "「阿武隈」「伊201」2隻、「鵜来」「稲木」2隻、または「瑞穂」「Brooklyn」「Johnston」3隻<br>を含む艦隊で、中部海域哨戒線、MS諸島沖、グアノ環礁沖海域に展開、遭遇する敵を撃破せよ！",
-		"desc_en": "Organize a fleet with either Abukuma and I-201 or Ukuru and Inagi or Mizuho, Brooklyn and Johnston in your fleet and score an S rank at the boss nodes on 6-1, 6-2, and 6-3",
+		"desc_en": "Organize a fleet with either Abukuma and I-201 or Ukuru and Inagi or Mizuho, Brooklyn and Johnston in your fleet and score an A rank at the boss nodes on 6-1, 6-2, and 6-3",
 		"added_update_id": 32,
 		"removed_update_id": null,
 		"season_id": 9,
-		"tracker": "[[987],[[0,[[6,1],6,1]],[0,[[6,2],6,1]],[0,[[6,3],6,1]]],[1,[[0,[0,[[7,[114,false,0,0]],[7,[881,false,0,0]]]]],[0,[0,[[7,[921,false,0,0]],[7,[922,false,0,0]]]]],[0,[0,[[7,[451,false,0,0]],[7,[896,false,0,0]],[7,[562,false,0,0]]]]]]]]"
+		"tracker": "[[987],[[0,[[6,1],5,1]],[0,[[6,2],5,1]],[0,[[6,3],5,1]]],[1,[[0,[0,[[7,[114,false,0,0]],[7,[881,false,0,0]]]]],[0,[0,[[7,[921,false,0,0]],[7,[922,false,0,0]]]]],[0,[0,[[7,[451,false,0,0]],[7,[896,false,0,0]],[7,[562,false,0,0]]]]]]]]"
 	}
 ]
