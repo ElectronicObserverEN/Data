@@ -8296,7 +8296,7 @@
 	{
 		"id": 648,
 		"api_id": 1134,
-		"code": "F121",
+		"code": "F122",
 		"name_jp": "22号対水上電探の改良",
 		"name_en": "Improvement of the Type 22 Surface Radar!",
 		"desc_jp": "旗艦「時雨改二/改三」または「満潮改二」第一装備スロに「22号対水上電探改四(★max)」を<br>装備。開発資材x22、新型兵装資材x2、「22号対水上電探」x4、改修資材x6を準備せよ！",
@@ -8361,7 +8361,7 @@
 	{
 		"id": 653,
 		"api_id": 1133,
-		"code": "F122",
+		"code": "F121",
 		"name_jp": "逆探及び改良水上電探の実戦配備",
 		"name_en": "Definitive release of an improved combat RADAR!",
 		"desc_jp": "旗艦「清霜改二/丁」または「朝霜改二」第一装備スロに「22号対水上電探改四(後期調整型)」<br>を装備。 開発資材x40、「13号対空電探改(後期型)」(★+4以上)x1、改修資材x6を準備！",

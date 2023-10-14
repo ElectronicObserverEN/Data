@@ -1,5 +1,5 @@
 {
-	"version": "21030360",
+	"version": "21030361",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4299,14 +4299,14 @@
 		"desc": "Have your secretary flagship Kiyoshimo Kai Ni (D) equip 12.7cm Twin Gun Mount Model D Kai Ni which is at least ★+8 and have 22x DevMat, 1x New Model Gun Materials, 10x 12.7cm Twin Gun, 350 ammo and 8x Screws. (All resources and Materials will be consumed upon completion)"
 	},
 	"1133": {
-		"code": "F122",
+		"code": "F121",
 		"name_jp": "逆探及び改良水上電探の実戦配備",
 		"name": "Definitive release of an improved combat RADAR!",
 		"desc_jp": "旗艦「清霜改二/丁」または「朝霜改二」第一装備スロに「22号対水上電探改四(後期調整型)」<br>を装備。 開発資材x40、「13号対空電探改(後期型)」(★+4以上)x1、改修資材x6を準備！",
 		"desc": "Have your secretary flagship Kiyoshimo Kai Ni (D) or Asashimo Kai Ni equip a Type 22 Surface Radar Kai Yon (Calibrated Late Model) in the first slot and have 40x DevMat, Type 13 Air Radar Kai (Late Model) which is at least ★+4, 6x Screws (All resources and Materials will be consumed upon completion)"
 	},
 	"1134": {
-		"code": "F121",
+		"code": "F122",
 		"name_jp": "22号対水上電探の改良",
 		"name": "Improvement of the Type 22 Surface Radar!",
 		"desc_jp": "旗艦「時雨改二/改三」または「満潮改二」第一装備スロに「22号対水上電探改四(★max)」を<br>装備。開発資材x22、新型兵装資材x2、「22号対水上電探」x4、改修資材x6を準備せよ！",
