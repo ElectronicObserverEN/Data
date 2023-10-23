@@ -273,5 +273,16 @@
 		"live_update": false,
 		"maint_start_tweet": "https://x.com/KanColle_STAFF/status/1708813431753822410?s=20",
 		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1711669746658410988"
+	},
+	{
+		"id": 33,
+		"start_date": "2023-10-23T00:00:00",
+		"start_time": "11:00:00",
+		"end_time": null,
+		"name": "Saury Festival 2023 Start",
+		"description": "- pumpkin festival end\r\n- saury festival start",
+		"live_update": false,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1716430433934889432",
+		"maint_end_tweet": ""
 	}
 ]
