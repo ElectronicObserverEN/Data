@@ -1,5 +1,5 @@
 {
-	"version": "21030366",
+	"version": "21030367",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3335,7 +3335,7 @@
 	"866": {
 		"code": "2311 B1",
 		"name_jp": "秋刀魚漁：秋刀魚祭り、主力オブ主力、いきますね！",
-		"name": "Saury fishing: Let's draw Big Catch flag!",
+		"name": "Saury fishing: Saury Festival, Main force of Main force, here we go!",
 		"desc_jp": "【秋刀魚漁】いいですか？艦隊を近海、北方海域、中部海域などの秋刀魚漁漁場に展開してください。<br>秋刀魚漁に協力し、新鮮な旬の「秋刀魚」を8尾獲得してくださいね。うふふ、大丈夫よ……できるわ。",
 		"desc": "Have 8 Saury in the inventory"
 	},
