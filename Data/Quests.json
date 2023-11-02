@@ -8435,5 +8435,44 @@
 		"removed_update_id": null,
 		"season_id": 10,
 		"tracker": "[[960],[[0,[[3,1],6,1]],[0,[[3,2],6,1]],[0,[[3,3],6,1]],[0,[[3,4],6,1]],[0,[[3,5],6,1]]],[0,[[2,[[3,21,19,17],1,true,0]]]]]"
+	},
+	{
+		"id": 659,
+		"api_id": 867,
+		"code": "2311 B2",
+		"name_jp": "秋刀魚漁：さらさらさら～大漁旗、描き始めるぜ～！",
+		"name_en": "Saury fishing: Oh, is it a big catch again this year? Nice to meet you",
+		"desc_jp": "【秋刀魚漁】いや～、秋刀魚漁支援艦隊はいつ見ても壮観だな～。探照灯が沢山光ってて、夜でも<br>イラストが描きやすいぜ！旬の「秋刀魚」16尾位、いけるっしょ？あ、大漁旗？その後描き始めるぜ～！",
+		"desc_en": "Have 16 Saury in the inventory",
+		"added_update_id": 33,
+		"removed_update_id": null,
+		"season_id": 10,
+		"tracker": ""
+	},
+	{
+		"id": 660,
+		"api_id": 1110,
+		"code": "2311 F1",
+		"name_jp": "秋刀魚祭り【拡張任務】最精鋭「飛龍」飛行戦隊！",
+		"name_en": "Saury Festival [Extra Operation] The Most Elite Hiryuu Squadron!",
+		"desc_jp": "旗艦に「山汐丸」「熊野丸」または「朝日」を配備。「四式重爆 飛龍+イ号一型甲 誘導弾」<br>(★不問)及び「キ96」(★+7以上)を準備。水揚げ「秋刀魚」10尾、開発資材x35を準備せよ！",
+		"desc_en": "Have Asahi/Yamashio Maru/Kumano Maru as secretary flagship and have 1x Type 4 Heavy Bomber Hiryuu + No.1 Model 1A Guided Missile, 1x Ki-96 (★+7 or above), 10x Saury and 35x Development Material (All resources and Materials will be consumed upon completion)",
+		"added_update_id": 33,
+		"removed_update_id": null,
+		"season_id": 10,
+		"tracker": ""
+	},
+	{
+		"id": 661,
+		"api_id": 369,
+		"code": "2311 C1",
+		"name_jp": "【鎮守府秋刀魚祭り】秋刀魚塩焼き演習！",
+		"name_en": "[Naval Base Saury Festival] Saury Fishing Exercises!",
+		"desc_jp": "第七駆逐隊各艦、「夕雲」「沖波」「岸波」「朝霜」「磯風」「大鯨」「満潮」「時雨改二/改三」<br>「白雪」「祥鳳」「Ranger」のうち4隻以上を含む艦隊で、本日中に演習【A判定】以上を4回達成せよ！",
+		"desc_en": "Organize a fleet with 4 of the following : Akebono, Ushio, Sazanami, Oboro, Yuugumo, Okinami, Kishinami, Isokaze, Taigei, Michishio, Shigure Kai Ni or Kai San, Shirayuki, Shouhou, Ranger and score A+ rank 4 times in PvP",
+		"added_update_id": 33,
+		"removed_update_id": null,
+		"season_id": 10,
+		"tracker": "[[369],[[9,[5,4]]],[0,[[8,[[[15,false,0,0],[16,false,0,0],[94,false,0,0],[93,false,0,0],[133,false,0,0],[452,false,0,0],[527,false,0,0],[167,false,0,0],[97,false,0,0],[145,false,1,0],[10,false,0,0],[184,false,0,0],[74,false,0,0],[931,false,0,0]],4]]]]]"
 	}
 ]
