@@ -8441,7 +8441,7 @@
 		"api_id": 867,
 		"code": "2311 B2",
 		"name_jp": "秋刀魚漁：さらさらさら～大漁旗、描き始めるぜ～！",
-		"name_en": "Saury fishing: Oh, is it a big catch again this year? Nice to meet you",
+		"name_en": "Saury fishing: Let's Draw Big Catch Flag!",
 		"desc_jp": "【秋刀魚漁】いや～、秋刀魚漁支援艦隊はいつ見ても壮観だな～。探照灯が沢山光ってて、夜でも<br>イラストが描きやすいぜ！旬の「秋刀魚」16尾位、いけるっしょ？あ、大漁旗？その後描き始めるぜ～！",
 		"desc_en": "Have 16 Saury in the inventory",
 		"added_update_id": 33,
@@ -8474,5 +8474,18 @@
 		"removed_update_id": null,
 		"season_id": 10,
 		"tracker": "[[369],[[9,[5,4]]],[0,[[8,[[[15,false,0,0],[16,false,0,0],[94,false,0,0],[93,false,0,0],[133,false,0,0],[452,false,0,0],[527,false,0,0],[167,false,0,0],[97,false,0,0],[145,false,1,0],[10,false,0,0],[184,false,0,0],[74,false,0,0],[931,false,0,0]],4]]]]]"
+	},
+	{
+		"id": 662,
+		"api_id": 868,
+		"code": "2311 B3",
+		"name_jp": "秋刀魚漁：あら、今年も大漁ですか？よろしくてよ。",
+		"name_en": "Saury Fishing: Oh, Is It A Big Catch Again This Year? Nice To Meet You",
+		"desc_jp": "【秋刀魚漁】この朝日もお手伝い致したく存じます。ええ、……よろしくてよ、提督。遠慮なさらないで。<br>旬の「秋刀魚」46尾位、皆さんなら造作もないこと。さ、がんばりましょう！天気晴朗なれど、波高し！",
+		"desc_en": "Have 46 Saury in the inventory",
+		"added_update_id": 33,
+		"removed_update_id": null,
+		"season_id": 10,
+		"tracker": ""
 	}
 ]

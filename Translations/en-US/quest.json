@@ -1,5 +1,5 @@
 {
-	"version": "21030365",
+	"version": "21030366",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3342,9 +3342,16 @@
 	"867": {
 		"code": "2311 B2",
 		"name_jp": "秋刀魚漁：さらさらさら～大漁旗、描き始めるぜ～！",
-		"name": "Saury fishing: Oh, is it a big catch again this year? Nice to meet you",
+		"name": "Saury fishing: Let's Draw Big Catch Flag!",
 		"desc_jp": "【秋刀魚漁】いや～、秋刀魚漁支援艦隊はいつ見ても壮観だな～。探照灯が沢山光ってて、夜でも<br>イラストが描きやすいぜ！旬の「秋刀魚」16尾位、いけるっしょ？あ、大漁旗？その後描き始めるぜ～！",
 		"desc": "Have 16 Saury in the inventory"
+	},
+	"868": {
+		"code": "2311 B3",
+		"name_jp": "秋刀魚漁：あら、今年も大漁ですか？よろしくてよ。",
+		"name": "Saury Fishing: Oh, Is It A Big Catch Again This Year? Nice To Meet You",
+		"desc_jp": "【秋刀魚漁】この朝日もお手伝い致したく存じます。ええ、……よろしくてよ、提督。遠慮なさらないで。<br>旬の「秋刀魚」46尾位、皆さんなら造作もないこと。さ、がんばりましょう！天気晴朗なれど、波高し！",
+		"desc": "Have 46 Saury in the inventory"
 	},
 	"869": {
 		"code": "B107",
