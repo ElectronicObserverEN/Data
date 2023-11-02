@@ -1,5 +1,5 @@
 {
-	"version": "21030364",
+	"version": "21030365",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1764,6 +1764,13 @@
 		"desc_jp": "駆逐隊演習：第十六駆逐隊「天津風」「雪風」「時津風」「初風」のうち2隻以上を含む演習艦隊を編成。<br>同演習艦隊で本日中に演習【S判定】勝利3回以上を達成せよ！　いい風きてる？十六駆、演習開始！",
 		"desc": "Organize a fleet with at least two members of Yukikaze, Tokitsukaze, Hatsukaze and Amatsukaze in your fleet and score S rank three times in PvP"
 	},
+	"369": {
+		"code": "2311 C1",
+		"name_jp": "【鎮守府秋刀魚祭り】秋刀魚塩焼き演習！",
+		"name": "[Naval Base Saury Festival] Saury Fishing Exercises!",
+		"desc_jp": "第七駆逐隊各艦、「夕雲」「沖波」「岸波」「朝霜」「磯風」「大鯨」「満潮」「時雨改二/改三」<br>「白雪」「祥鳳」「Ranger」のうち4隻以上を含む艦隊で、本日中に演習【A判定】以上を4回達成せよ！",
+		"desc": "Organize a fleet with 4 of the following : Akebono, Ushio, Sazanami, Oboro, Yuugumo, Okinami, Kishinami, Isokaze, Taigei, Michishio, Shigure Kai Ni or Kai San, Shirayuki, Shouhou, Ranger and score A+ rank 4 times in PvP"
+	},
 	"401": {
 		"code": "D1",
 		"name_jp": "はじめての「遠征」！",
@@ -3332,6 +3339,13 @@
 		"desc_jp": "【秋刀魚漁】いいですか？艦隊を近海、北方海域、中部海域などの秋刀魚漁漁場に展開してください。<br>秋刀魚漁に協力し、新鮮な旬の「秋刀魚」を8尾獲得してくださいね。うふふ、大丈夫よ……できるわ。",
 		"desc": "Have 8 Saury in the inventory"
 	},
+	"867": {
+		"code": "2311 B2",
+		"name_jp": "秋刀魚漁：さらさらさら～大漁旗、描き始めるぜ～！",
+		"name": "Saury fishing: Oh, is it a big catch again this year? Nice to meet you",
+		"desc_jp": "【秋刀魚漁】いや～、秋刀魚漁支援艦隊はいつ見ても壮観だな～。探照灯が沢山光ってて、夜でも<br>イラストが描きやすいぜ！旬の「秋刀魚」16尾位、いけるっしょ？あ、大漁旗？その後描き始めるぜ～！",
+		"desc": "Have 16 Saury in the inventory"
+	},
 	"869": {
 		"code": "B107",
 		"name_jp": "補給線の安全を確保せよ！",
@@ -4157,6 +4171,13 @@
 		"name": "Deployment of equipment to support landing operations",
 		"desc_jp": "旗艦「神州丸」の第一装備スロットに最大改修「大発動艇(八九式中戦車＆陸戦隊)」を搭載。<br>「7.7mm機銃」「大発動艇」各x2廃棄。高速建造材x8、開発資材x10、鋼材800を準備せよ！",
 		"desc": "Have your secretary flagship Shinshuu Maru equip a maxed modified Daihatsu Landing Craft (Type 89 Medium Tank & Landing Force) in the first slot and then proceed to scrap 2 7.7mm Machine Gun, 2 Daihatsu and have 8 Instant Construction Materials, 10 Development Mateirals, and 800 steel (All resources and Materials will be consumed upon completion)"
+	},
+	"1110": {
+		"code": "2311 F1",
+		"name_jp": "秋刀魚祭り【拡張任務】最精鋭「飛龍」飛行戦隊！",
+		"name": "Saury Festival [Extra Operation] The Most Elite Hiryuu Squadron!",
+		"desc_jp": "旗艦に「山汐丸」「熊野丸」または「朝日」を配備。「四式重爆 飛龍+イ号一型甲 誘導弾」<br>(★不問)及び「キ96」(★+7以上)を準備。水揚げ「秋刀魚」10尾、開発資材x35を準備せよ！",
+		"desc": "Have Asahi/Yamashio Maru/Kumano Maru as secretary flagship and have 1x Type 4 Heavy Bomber Hiryuu + No.1 Model 1A Guided Missile, 1x Ki-96 (★+7 or above), 10x Saury and 35x Development Material (All resources and Materials will be consumed upon completion)"
 	},
 	"1111": {
 		"code": "F105",
