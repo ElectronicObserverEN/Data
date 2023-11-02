@@ -46,5 +46,11 @@
 		"name": "Halloween Festival 2023",
 		"added_update_id": 32,
 		"removed_update_id": 33
+	},
+	{
+		"id": 10,
+		"name": "Saury 2023",
+		"added_update_id": 33,
+		"removed_update_id": null
 	}
 ]
