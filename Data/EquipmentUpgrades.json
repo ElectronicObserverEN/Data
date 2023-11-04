@@ -4661,7 +4661,7 @@
 		"improvement": [
 			{
 				"convert": null,
-				"helpers": [{"ship_ids":[716],"days":[1,2,3,4]},{"ship_ids":[955,960],"days":[0,3,4]}],
+				"helpers": [{"ship_ids":[716],"days":[1,2,3,4]},{"ship_ids":[955,960],"days":[0,3,4]},{"ship_ids":[578],"days":[0,6,5]}],
 				"costs": {"fuel":10,"ammo":0,"steel":30,"baux":60,"p1":{"devmats":6,"devmats_sli":8,"screws":3,"screws_sli":4,"equips":[{"id":106,"eq_count":1}],"consumable":[]},"p2":{"devmats":8,"devmats_sli":13,"screws":5,"screws_sli":8,"equips":[{"id":106,"eq_count":2}],"consumable":[]}}
 			}
 		],
