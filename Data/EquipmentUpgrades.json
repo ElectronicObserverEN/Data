@@ -3037,14 +3037,6 @@
 	},
 	{
 		"eq_id": 213,
-		"improvement": [],
-		"convert_to": [],
-		"upgrade_for": [
-			383
-		]
-	},
-	{
-		"eq_id": 213,
 		"improvement": [
 			{
 				"convert": null,
