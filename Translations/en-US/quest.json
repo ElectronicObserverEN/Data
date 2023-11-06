@@ -1,5 +1,5 @@
 {
-	"version": "21030368",
+	"version": "21030369",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1769,7 +1769,7 @@
 		"name_jp": "【鎮守府秋刀魚祭り】秋刀魚塩焼き演習！",
 		"name": "[Naval Base Saury Festival] Saury Fishing Exercises!",
 		"desc_jp": "第七駆逐隊各艦、「夕雲」「沖波」「岸波」「朝霜」「磯風」「大鯨」「満潮」「時雨改二/改三」<br>「白雪」「祥鳳」「Ranger」のうち4隻以上を含む艦隊で、本日中に演習【A判定】以上を4回達成せよ！",
-		"desc": "Organize a fleet with 4 of the following : Akebono, Ushio, Sazanami, Oboro, Yuugumo, Okinami, Kishinami, Asashimo, Isokaze, Taigei, Michishio, Shigure Kai Ni or Kai San, Shirayuki, Shouhou, Ranger and score A+ rank 4 times in PvP"
+		"desc": "Organize a fleet with 4 of the following : Akebono, Ushio, Sazanami, Oboro, Yuugumo, Okinami, Kishinami, Asashimo, Isokaze, Taigei (Ryuuhou won't work), Michishio, Shigure Kai Ni or Kai San, Shirayuki, Shouhou, Ranger and score A+ rank 4 times in PvP"
 	},
 	"401": {
 		"code": "D1",
