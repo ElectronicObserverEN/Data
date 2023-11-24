@@ -1,0 +1,746 @@
+[
+	{
+		"Id": 1460,
+		"ApiId": 28,
+		"NameEnglish": "Mutsuki Class",
+		"NameJapanese": "睦月型"
+	},
+	{
+		"Id": 1461,
+		"ApiId": 12,
+		"NameEnglish": "Fubuki Class",
+		"NameJapanese": "吹雪型"
+	},
+	{
+		"Id": 1462,
+		"ApiId": 1,
+		"NameEnglish": "Ayanami Class",
+		"NameJapanese": "綾波型"
+	},
+	{
+		"Id": 1463,
+		"ApiId": 30,
+		"NameEnglish": "Kagerou Class",
+		"NameJapanese": "陽炎型"
+	},
+	{
+		"Id": 1464,
+		"ApiId": 20,
+		"NameEnglish": "Nagara Class",
+		"NameJapanese": "長良型"
+	},
+	{
+		"Id": 1465,
+		"ApiId": 4,
+		"NameEnglish": "Kuma Class",
+		"NameJapanese": "球磨型"
+	},
+	{
+		"Id": 1466,
+		"ApiId": 26,
+		"NameEnglish": "Fusou Class",
+		"NameJapanese": "扶桑型"
+	},
+	{
+		"Id": 1467,
+		"ApiId": 5,
+		"NameEnglish": "Akatsuki Class",
+		"NameJapanese": "暁型"
+	},
+	{
+		"Id": 1468,
+		"ApiId": 10,
+		"NameEnglish": "Hatsuharu Class",
+		"NameJapanese": "初春型"
+	},
+	{
+		"Id": 1469,
+		"ApiId": 23,
+		"NameEnglish": "Shiratsuyu Class",
+		"NameJapanese": "白露型"
+	},
+	{
+		"Id": 1470,
+		"ApiId": 18,
+		"NameEnglish": "Asashio Class",
+		"NameJapanese": "朝潮型"
+	},
+	{
+		"Id": 1471,
+		"ApiId": 22,
+		"NameEnglish": "Shimakaze Class",
+		"NameJapanese": "島風型"
+	},
+	{
+		"Id": 1472,
+		"ApiId": 21,
+		"NameEnglish": "Tenryuu Class",
+		"NameJapanese": "天龍型"
+	},
+	{
+		"Id": 1473,
+		"ApiId": 16,
+		"NameEnglish": "Sendai Class",
+		"NameJapanese": "川内型"
+	},
+	{
+		"Id": 1474,
+		"ApiId": 7,
+		"NameEnglish": "Furutaka Class",
+		"NameJapanese": "古鷹型"
+	},
+	{
+		"Id": 1475,
+		"ApiId": 13,
+		"NameEnglish": "Aoba Class",
+		"NameJapanese": "青葉型"
+	},
+	{
+		"Id": 1476,
+		"ApiId": 29,
+		"NameEnglish": "Myoukou Class",
+		"NameJapanese": "妙高型"
+	},
+	{
+		"Id": 1477,
+		"ApiId": 8,
+		"NameEnglish": "Takao Class",
+		"NameJapanese": "高雄型"
+	},
+	{
+		"Id": 1478,
+		"ApiId": 9,
+		"NameEnglish": "Mogami Class",
+		"NameJapanese": "最上型"
+	},
+	{
+		"Id": 1479,
+		"ApiId": 31,
+		"NameEnglish": "Tone Class",
+		"NameJapanese": "利根型"
+	},
+	{
+		"Id": 1480,
+		"ApiId": 11,
+		"NameEnglish": "Shouhou Class",
+		"NameJapanese": "祥鳳型"
+	},
+	{
+		"Id": 1481,
+		"ApiId": 24,
+		"NameEnglish": "Hiyou Class",
+		"NameJapanese": "飛鷹型"
+	},
+	{
+		"Id": 1482,
+		"ApiId": 32,
+		"NameEnglish": "Ryuujou Class",
+		"NameJapanese": "龍驤型"
+	},
+	{
+		"Id": 1483,
+		"ApiId": 2,
+		"NameEnglish": "Ise Class",
+		"NameJapanese": "伊勢型"
+	},
+	{
+		"Id": 1484,
+		"ApiId": 6,
+		"NameEnglish": "Kongou Class",
+		"NameJapanese": "金剛型"
+	},
+	{
+		"Id": 1485,
+		"ApiId": 19,
+		"NameEnglish": "Nagato Class",
+		"NameJapanese": "長門型"
+	},
+	{
+		"Id": 1486,
+		"ApiId": 14,
+		"NameEnglish": "Akagi Class",
+		"NameJapanese": "赤城型"
+	},
+	{
+		"Id": 1487,
+		"ApiId": 3,
+		"NameEnglish": "Kaga Class",
+		"NameJapanese": "加賀型"
+	},
+	{
+		"Id": 1488,
+		"ApiId": 27,
+		"NameEnglish": "Houshou Class",
+		"NameJapanese": "鳳翔型"
+	},
+	{
+		"Id": 1489,
+		"ApiId": 17,
+		"NameEnglish": "Souryuu Class",
+		"NameJapanese": "蒼龍型"
+	},
+	{
+		"Id": 1490,
+		"ApiId": 25,
+		"NameEnglish": "Hiryuu Class",
+		"NameJapanese": "飛龍型"
+	},
+	{
+		"Id": 1491,
+		"ApiId": 15,
+		"NameEnglish": "Chitose Class",
+		"NameJapanese": "千歳型"
+	},
+	{
+		"Id": 1492,
+		"ApiId": 33,
+		"NameEnglish": "Shoukaku Class",
+		"NameJapanese": "翔鶴型"
+	},
+	{
+		"Id": 1493,
+		"ApiId": 34,
+		"NameEnglish": "Yuubari Class",
+		"NameJapanese": "夕張型"
+	},
+	{
+		"Id": 1494,
+		"ApiId": 35,
+		"NameEnglish": "Kaidai VI Class",
+		"NameJapanese": "海大VI型"
+	},
+	{
+		"Id": 1495,
+		"ApiId": 36,
+		"NameEnglish": "Junsen Type B Kai Ni ",
+		"NameJapanese": "巡潜乙型改二"
+	},
+	{
+		"Id": 1496,
+		"ApiId": 40,
+		"NameEnglish": "Junsen Type 3",
+		"NameJapanese": "巡潜3型"
+	},
+	{
+		"Id": 1497,
+		"ApiId": 37,
+		"NameEnglish": "Yamato Class",
+		"NameJapanese": "大和型"
+	},
+	{
+		"Id": 1498,
+		"ApiId": 38,
+		"NameEnglish": "Yuugumo Class",
+		"NameJapanese": "夕雲型"
+	},
+	{
+		"Id": 1499,
+		"ApiId": 41,
+		"NameEnglish": "Agano Class",
+		"NameJapanese": "阿賀野型"
+	},
+	{
+		"Id": 1500,
+		"ApiId": 43,
+		"NameEnglish": "Taihou Class",
+		"NameJapanese": "大鳳型"
+	},
+	{
+		"Id": 1501,
+		"ApiId": 56,
+		"NameEnglish": "Katori Class",
+		"NameJapanese": "香取型"
+	},
+	{
+		"Id": 1502,
+		"ApiId": 44,
+		"NameEnglish": "Sentoku Class (I-400 Class)",
+		"NameJapanese": "潜特型(伊400型潜水艦)"
+	},
+	{
+		"Id": 1503,
+		"ApiId": 45,
+		"NameEnglish": "Amphibious Assault Ship",
+		"NameJapanese": "特種船丙型"
+	},
+	{
+		"Id": 1504,
+		"ApiId": 72,
+		"NameEnglish": "Kamoi Class",
+		"NameJapanese": "神威型"
+	},
+	{
+		"Id": 1505,
+		"ApiId": 46,
+		"NameEnglish": "T3 Sub Transport Ship",
+		"NameJapanese": "三式潜航輸送艇"
+	},
+	{
+		"Id": 1506,
+		"ApiId": 47,
+		"NameEnglish": "Bismarck Class",
+		"NameJapanese": "Bismarck級"
+	},
+	{
+		"Id": 1507,
+		"ApiId": 48,
+		"NameEnglish": "Z1 Class",
+		"NameJapanese": "Z1型"
+	},
+	{
+		"Id": 1508,
+		"ApiId": 55,
+		"NameEnglish": "Admiral Hipper Class",
+		"NameJapanese": "Admiral Hipper級"
+	},
+	{
+		"Id": 1509,
+		"ApiId": 49,
+		"NameEnglish": "Repair Ship",
+		"NameJapanese": "工作艦"
+	},
+	{
+		"Id": 1510,
+		"ApiId": 52,
+		"NameEnglish": "Ooyodo Class",
+		"NameJapanese": "大淀型"
+	},
+	{
+		"Id": 1511,
+		"ApiId": 50,
+		"NameEnglish": "Taigei Class",
+		"NameJapanese": "大鯨型"
+	},
+	{
+		"Id": 1512,
+		"ApiId": 51,
+		"NameEnglish": "Ryuuhou Class",
+		"NameJapanese": "龍鳳型"
+	},
+	{
+		"Id": 1513,
+		"ApiId": 39,
+		"NameEnglish": "Junsen Type B",
+		"NameJapanese": "巡潜乙型"
+	},
+	{
+		"Id": 1514,
+		"ApiId": 114,
+		"NameEnglish": "Gato Class",
+		"NameJapanese": "Gato級"
+	},
+	{
+		"Id": 1515,
+		"ApiId": 54,
+		"NameEnglish": "Akizuki Class",
+		"NameJapanese": "秋月型"
+	},
+	{
+		"Id": 1516,
+		"ApiId": 53,
+		"NameEnglish": "Unryuu Class",
+		"NameJapanese": "雲龍型"
+	},
+	{
+		"Id": 1517,
+		"ApiId": 57,
+		"NameEnglish": "Type IXC U-boat",
+		"NameJapanese": "UボートIXC型"
+	},
+	{
+		"Id": 1518,
+		"ApiId": 61,
+		"NameEnglish": "Maestrale Class",
+		"NameJapanese": "Maestrale級"
+	},
+	{
+		"Id": 1519,
+		"ApiId": 62,
+		"NameEnglish": "Mizuho Class",
+		"NameJapanese": "瑞穂型"
+	},
+	{
+		"Id": 1520,
+		"ApiId": 60,
+		"NameEnglish": "Kai Kazahaya Class",
+		"NameJapanese": "改風早型"
+	},
+	{
+		"Id": 1521,
+		"ApiId": 63,
+		"NameEnglish": "Graf Zeppelin Class",
+		"NameJapanese": "Graf Zeppelin級"
+	},
+	{
+		"Id": 1522,
+		"ApiId": 64,
+		"NameEnglish": "Zara Class",
+		"NameJapanese": "Zara級"
+	},
+	{
+		"Id": 1523,
+		"ApiId": 65,
+		"NameEnglish": "Iowa Class",
+		"NameJapanese": "Iowa級"
+	},
+	{
+		"Id": 1524,
+		"ApiId": 66,
+		"NameEnglish": "Kamikaze Class",
+		"NameJapanese": "神風型"
+	},
+	{
+		"Id": 1525,
+		"ApiId": 67,
+		"NameEnglish": "Queen Elizabeth Class",
+		"NameJapanese": "Queen Elizabeth級"
+	},
+	{
+		"Id": 1526,
+		"ApiId": 68,
+		"NameEnglish": "Aquila Class",
+		"NameJapanese": "Aquila級"
+	},
+	{
+		"Id": 1527,
+		"ApiId": 70,
+		"NameEnglish": "C.Teste Class",
+		"NameJapanese": "C.Teste級"
+	},
+	{
+		"Id": 1528,
+		"ApiId": 71,
+		"NameEnglish": "Junsen A Type Kai Ni",
+		"NameJapanese": "巡潜甲型改二"
+	},
+	{
+		"Id": 1529,
+		"ApiId": 74,
+		"NameEnglish": "Shimushu Class",
+		"NameJapanese": "占守型"
+	},
+	{
+		"Id": 1530,
+		"ApiId": 76,
+		"NameEnglish": "Taiyou Class",
+		"NameJapanese": "大鷹型"
+	},
+	{
+		"Id": 1531,
+		"ApiId": 77,
+		"NameEnglish": "Etorofu Class",
+		"NameJapanese": "択捉型"
+	},
+	{
+		"Id": 1532,
+		"ApiId": 79,
+		"NameEnglish": "Richelieu Class",
+		"NameJapanese": "Richelieu級"
+	},
+	{
+		"Id": 1533,
+		"ApiId": 78,
+		"NameEnglish": "Ark Royal Class",
+		"NameJapanese": "Ark Royal級"
+	},
+	{
+		"Id": 1534,
+		"ApiId": 82,
+		"NameEnglish": "J Class",
+		"NameJapanese": "J級"
+	},
+	{
+		"Id": 1535,
+		"ApiId": 81,
+		"NameEnglish": "Tashkent Class",
+		"NameJapanese": "Ташкент級"
+	},
+	{
+		"Id": 1536,
+		"ApiId": 83,
+		"NameEnglish": "Casablanca Class",
+		"NameJapanese": "Casablanca級"
+	},
+	{
+		"Id": 1537,
+		"ApiId": 84,
+		"NameEnglish": "Essex Class",
+		"NameJapanese": "Essex級"
+	},
+	{
+		"Id": 1538,
+		"ApiId": 69,
+		"NameEnglish": "Lexington Class",
+		"NameJapanese": "Lexington級"
+	},
+	{
+		"Id": 1539,
+		"ApiId": 86,
+		"NameEnglish": "Ro Class",
+		"NameJapanese": "呂号潜水艦"
+	},
+	{
+		"Id": 1540,
+		"ApiId": 58,
+		"NameEnglish": "V.Veneto Class",
+		"NameJapanese": "V.Veneto級"
+	},
+	{
+		"Id": 1541,
+		"ApiId": 59,
+		"NameEnglish": "Akitsushima Class",
+		"NameJapanese": "秋津洲型"
+	},
+	{
+		"Id": 1542,
+		"ApiId": 73,
+		"NameEnglish": "Gangut Class",
+		"NameJapanese": "Гангут級"
+	},
+	{
+		"Id": 1543,
+		"ApiId": 108,
+		"NameEnglish": "Town Class",
+		"NameJapanese": "Town級"
+	},
+	{
+		"Id": 1544,
+		"ApiId": 75,
+		"NameEnglish": "Kasuga Maru Class",
+		"NameJapanese": "春日丸級"
+	},
+	{
+		"Id": 1545,
+		"ApiId": 80,
+		"NameEnglish": "Guglielmo Marconi Class",
+		"NameJapanese": "Guglielmo Marconi級"
+	},
+	{
+		"Id": 1546,
+		"ApiId": 85,
+		"NameEnglish": "Hiburi Class",
+		"NameJapanese": "日振型"
+	},
+	{
+		"Id": 1547,
+		"ApiId": 87,
+		"NameEnglish": "John C.Butler Class",
+		"NameJapanese": "John C.Butler級"
+	},
+	{
+		"Id": 1548,
+		"ApiId": 91,
+		"NameEnglish": "Fletcher Class",
+		"NameJapanese": "Fletcher級"
+	},
+	{
+		"Id": 1549,
+		"ApiId": 88,
+		"NameEnglish": "Nelson Class",
+		"NameJapanese": "Nelson級"
+	},
+	{
+		"Id": 1550,
+		"ApiId": 89,
+		"NameEnglish": "Gotland Class",
+		"NameJapanese": "Gotland級"
+	},
+	{
+		"Id": 1551,
+		"ApiId": 90,
+		"NameEnglish": "Nisshin Class",
+		"NameJapanese": "日進型"
+	},
+	{
+		"Id": 1552,
+		"ApiId": 92,
+		"NameEnglish": "L.d.S.D.d.Abruzzi Class",
+		"NameJapanese": "L.d.S.D.d.Abruzzi級"
+	},
+	{
+		"Id": 1553,
+		"ApiId": 95,
+		"NameEnglish": "Northampton Class",
+		"NameJapanese": "Northampton級"
+	},
+	{
+		"Id": 1554,
+		"ApiId": 99,
+		"NameEnglish": "Atlanta Class",
+		"NameJapanese": "Atlanta級"
+	},
+	{
+		"Id": 1555,
+		"ApiId": 110,
+		"NameEnglish": "Brooklyn Class",
+		"NameJapanese": "Brooklyn級"
+	},
+	{
+		"Id": 1556,
+		"ApiId": 93,
+		"NameEnglish": "Colorado Class",
+		"NameJapanese": "Colorado級"
+	},
+	{
+		"Id": 1557,
+		"ApiId": 102,
+		"NameEnglish": "South Dakota Class",
+		"NameJapanese": "South Dakota級"
+	},
+	{
+		"Id": 1558,
+		"ApiId": 105,
+		"NameEnglish": "Yorktown Class",
+		"NameJapanese": "Yorktown級"
+	},
+	{
+		"Id": 1559,
+		"ApiId": 98,
+		"NameEnglish": "De Ruyter Class",
+		"NameJapanese": "De Ruyter級"
+	},
+	{
+		"Id": 1560,
+		"ApiId": 103,
+		"NameEnglish": "Junsen Type C",
+		"NameJapanese": "巡潜丙型"
+	},
+	{
+		"Id": 1561,
+		"ApiId": 94,
+		"NameEnglish": "Mikura Class",
+		"NameJapanese": "御蔵型"
+	},
+	{
+		"Id": 1562,
+		"ApiId": 96,
+		"NameEnglish": "Perth Class",
+		"NameJapanese": "Perth級"
+	},
+	{
+		"Id": 1563,
+		"ApiId": 106,
+		"NameEnglish": "St. Louis Class",
+		"NameJapanese": "St. Louis級"
+	},
+	{
+		"Id": 1564,
+		"ApiId": 97,
+		"NameEnglish": "Amphibious Assault Ship (R1)",
+		"NameJapanese": "陸軍特種船(R1)"
+	},
+	{
+		"Id": 1565,
+		"ApiId": 100,
+		"NameEnglish": "Jingei Class",
+		"NameJapanese": "迅鯨型"
+	},
+	{
+		"Id": 1566,
+		"ApiId": 104,
+		"NameEnglish": "Type D Coastal Defense Ship",
+		"NameJapanese": "丁型海防艦"
+	},
+	{
+		"Id": 1567,
+		"ApiId": 101,
+		"NameEnglish": "Matsu Class",
+		"NameJapanese": "松型"
+	},
+	{
+		"Id": 1568,
+		"ApiId": 111,
+		"NameEnglish": "LL01",
+		"NameJapanese": "LL01"
+	},
+	{
+		"Id": 1569,
+		"ApiId": 107,
+		"NameEnglish": "North Carolina Class",
+		"NameJapanese": "North Carolina級"
+	},
+	{
+		"Id": 1570,
+		"ApiId": 112,
+		"NameEnglish": "Illustrious Class",
+		"NameJapanese": "Illustrious級"
+	},
+	{
+		"Id": 1571,
+		"ApiId": 115,
+		"NameEnglish": "Special 2TL Class",
+		"NameJapanese": "特2TL型"
+	},
+	{
+		"Id": 1572,
+		"ApiId": 109,
+		"NameEnglish": "Sentaka Type",
+		"NameJapanese": "潜高型"
+	},
+	{
+		"Id": 1573,
+		"ApiId": 118,
+		"NameEnglish": "Ranger Class",
+		"NameJapanese": "Ranger級"
+	},
+	{
+		"Id": 1574,
+		"ApiId": 120,
+		"NameEnglish": "No.101 Class",
+		"NameJapanese": "第百一号型"
+	},
+	{
+		"Id": 1575,
+		"ApiId": 113,
+		"NameEnglish": "Conte di Cavour Class",
+		"NameJapanese": "Conte di Cavour級"
+	},
+	{
+		"Id": 1576,
+		"ApiId": 117,
+		"NameEnglish": "Ukuru Class",
+		"NameJapanese": "鵜来型"
+	},
+	{
+		"Id": 1577,
+		"ApiId": 121,
+		"NameEnglish": "New Orleans Class",
+		"NameJapanese": "New Orleans級"
+	},
+	{
+		"Id": 1578,
+		"ApiId": 116,
+		"NameEnglish": "Independence Class",
+		"NameJapanese": "Independence級"
+	},
+	{
+		"Id": 1579,
+		"ApiId": 119,
+		"NameEnglish": "Special ship M Hei-type",
+		"NameJapanese": "特種船M丙型"
+	},
+	{
+		"Id": 1580,
+		"ApiId": 122,
+		"NameEnglish": "Salmon Class",
+		"NameJapanese": "Salmon級"
+	},
+	{
+		"Id": 1581,
+		"ApiId": 123,
+		"NameEnglish": "Kai Shikishima Class",
+		"NameJapanese": "改敷島型"
+	},
+	{
+		"Id": 1582,
+		"ApiId": 124,
+		"NameEnglish": "Marcello Class",
+		"NameJapanese": "Marcello級"
+	},
+	{
+		"Id": 1583,
+		"ApiId": 125,
+		"NameEnglish": "Nevada CLass",
+		"NameJapanese": "Nevada級"
+	}
+]
