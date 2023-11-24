@@ -1,5 +1,5 @@
 {
-	"version": "21030146",
+	"version": "21030149",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -580,7 +580,17 @@
 		"Illustrious級": "Illustrious Class",
 		"Conte di Cavour級": "Conte di Cavour Class",
 		"Gato級": "Gato Class",
-		"特2TL型": "Special 2TL Class"
+		"特2TL型": "Special 2TL Class",
+		"Ranger級": "Ranger Class",
+		"第百一号型": "No.101 Class",
+		"鵜来型": "Ukuru Class",
+		"New Orleans級": "New Orleans Class",
+		"Independence級": "Independence Class",
+		"特種船M丙型": "Special ship M Hei-type",
+		"Salmon級": "Salmon Class",
+		"改敷島型": "Kai Shikishima Class",
+		"Marcello級": "Marcello Class",
+		"Nevada級": "Nevada CLass"
 	},
 	"suffix": {
 		"改": "Kai",
