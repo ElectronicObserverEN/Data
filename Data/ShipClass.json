@@ -742,5 +742,17 @@
 		"ApiId": 125,
 		"NameEnglish": "Nevada CLass",
 		"NameJapanese": "Nevada級"
+	},
+	{
+		"Id": 1584,
+		"ApiId": 111,
+		"NameEnglish": "PL107",
+		"NameJapanese": "PL107"
+	},
+	{
+		"Id": 1585,
+		"ApiId": 111,
+		"NameEnglish": "Ice-strengthened Auxiliary Ship",
+		"NameJapanese": "耐氷型雑用運送艦"
 	}
 ]
