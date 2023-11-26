@@ -5532,42 +5532,6 @@
 				"level": 10,
 				"num": 1,
 				"bonus": {"houm":1}
-			},
-			{
-				"shipClass": [38],
-				"requires": [267],
-				"num": 1,
-				"bonusSR": {"houg":2,"raig":3,"kaih":1}
-			},
-			{
-				"shipX": [542,543,563,564,569,578,649],
-				"requires": [267],
-				"num": 1,
-				"bonusSR": {"houg":1,"raig":3,"kaih":2}
-			},
-			{
-				"shipX": [955],
-				"requires": [267],
-				"num": 1,
-				"bonusSR": {"houg":1,"raig":2,"kaih":2}
-			},
-			{
-				"shipX": [960],
-				"requires": [267],
-				"num": 1,
-				"bonusSR": {"houg":1,"raig":1,"kaih":2}
-			},
-			{
-				"shipX": [542,543,563,564,569,578,649,955],
-				"requires": [366],
-				"num": 1,
-				"bonusSR": {"houg":2,"raig":4,"kaih":2,"houm":2}
-			},
-			{
-				"shipX": [960],
-				"requires": [366],
-				"num": 1,
-				"bonusSR": {"houg":3,"raig":3,"kaih":2,"houm":2}
 			}
 		]
 	}
