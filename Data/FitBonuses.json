@@ -5534,5 +5534,20 @@
 				"bonus": {"houm":1}
 			}
 		]
+	},
+	{
+		"ids": [
+			510
+		],
+		"bonuses": [
+			{
+				"shipNationality": [5],
+				"bonus": {"houg":2,"kaih":2,"tais":3,"saku":2}
+			},
+			{
+				"shipClass": [88],
+				"bonus": {"houg":4,"kaih":2,"saku":3,"houm":2}
+			}
+		]
 	}
 ]
