@@ -5514,18 +5514,22 @@
 				"bonus": {"houg":1,"houm":1}
 			},
 			{
+				"level": 7,
 				"num": 1,
 				"bonus": {"houm":1}
 			},
 			{
+				"level": 8,
 				"num": 1,
 				"bonus": {"kaih":1}
 			},
 			{
+				"level": 9,
 				"num": 1,
 				"bonus": {"houg":1}
 			},
 			{
+				"level": 10,
 				"num": 1,
 				"bonus": {"houm":1}
 			},
