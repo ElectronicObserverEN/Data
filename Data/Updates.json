@@ -289,11 +289,11 @@
 		"id": 34,
 		"start_date": "2023-11-28T00:00:00",
 		"start_time": "11:00:00",
-		"end_time": null,
+		"end_time": "20:00:00",
 		"name": "Saury Festival 2023 End",
 		"description": "- Saury festival end",
 		"live_update": false,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1725839600684568953",
-		"maint_end_tweet": ""
+		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1728966460494823695"
 	}
 ]
