@@ -5549,5 +5549,23 @@
 				"bonus": {"houg":4,"kaih":2,"saku":3,"houm":2}
 			}
 		]
+	},
+	{
+		"ids": [
+			511,
+			512
+		],
+		"bonuses": [
+			{
+				"shipClass": [122],
+				"num": 1,
+				"bonus": {"raig":3,"kaih":4}
+			},
+			{
+				"shipClass": [114],
+				"num": 1,
+				"bonus": {"raig":1,"kaih":2}
+			}
+		]
 	}
 ]
