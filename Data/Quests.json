@@ -8487,5 +8487,31 @@
 		"removed_update_id": 34,
 		"season_id": 10,
 		"tracker": ""
+	},
+	{
+		"id": 663,
+		"api_id": 370,
+		"code": "370",
+		"name_jp": "【Xmas限定】聖夜の海上護衛隊演習",
+		"name_en": "Holy Night Maritime Escort Exercise",
+		"desc_jp": "「鹿島」「択捉」「松輪」「佐渡」「福江」「鵜来」「岸波」「早波」「谷風」「江風」「山雲」「朝雲」<br>「山汐丸」及び丁型海防艦のうち4隻以上を含む艦隊で、今週中に演習【A判定】以上を5回達成せよ！",
+		"desc_en": "Organize a fleet with 4 of Kashima, Etorofu, Matsuwa, Sado, Fukae, Ukuru, Kishinami, Hayanami, Tanikaze, Kawakaze, Yamagumo, Asagumo, Yamashio Maru or any of the Type D Coastal Defense Ships in your fleet and score A rank 4 times in PvP",
+		"added_update_id": 34,
+		"removed_update_id": null,
+		"season_id": 11,
+		"tracker": "[[370],[[9,[5,5]]],[0,[[8,[[[465,false,0,0],[524,false,0,0],[525,false,0,0],[531,false,0,0],[565,false,0,0],[921,false,0,0],[527,false,0,0],[528,false,0,0],[169,false,0,0],[459,false,0,0],[414,false,0,0],[413,false,0,0],[900,false,0,0],[637,false,0,0],[898,false,0,0],[638,false,0,0]],4]]]]]"
+	},
+	{
+		"id": 664,
+		"api_id": 962,
+		"code": "962",
+		"name_jp": "【Xmas限定】Merry Xmas 駆逐隊、出撃！",
+		"name_en": "【Xmas限定】Merry Xmas 駆逐隊、出撃！",
+		"desc_jp": "【Xmas限定任務】「夕雲」「早波」「浜波」「巻波」「朧」「漣」「潮」「曙」の4隻以上を含む艦隊で<br>鎮守府正面海域、製油所地帯沿岸、南西諸島防衛線、鎮守府近海に反復出撃！敵を駆逐せよ！",
+		"desc_en": "【Xmas限定任務】「夕雲」「早波」「浜波」「巻波」「朧」「漣」「潮」「曙」の4隻以上を含む艦隊で<br>鎮守府正面海域、製油所地帯沿岸、南西諸島防衛線、鎮守府近海に反復出撃！敵を駆逐せよ！",
+		"added_update_id": null,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": ""
 	}
 ]

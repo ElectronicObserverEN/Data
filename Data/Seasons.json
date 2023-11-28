@@ -52,5 +52,11 @@
 		"name": "Saury 2023",
 		"added_update_id": 33,
 		"removed_update_id": 34
+	},
+	{
+		"id": 11,
+		"name": "Christmas 2023",
+		"added_update_id": 34,
+		"removed_update_id": null
 	}
 ]
