@@ -1,5 +1,5 @@
 {
-	"version": "21030370",
+	"version": "21030371",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1763,6 +1763,13 @@
 		"name": " [16th Squadron] Exercises!",
 		"desc_jp": "駆逐隊演習：第十六駆逐隊「天津風」「雪風」「時津風」「初風」のうち2隻以上を含む演習艦隊を編成。<br>同演習艦隊で本日中に演習【S判定】勝利3回以上を達成せよ！　いい風きてる？十六駆、演習開始！",
 		"desc": "Organize a fleet with at least two members of Yukikaze, Tokitsukaze, Hatsukaze and Amatsukaze in your fleet and score S rank three times in PvP"
+	},
+	"370": {
+		"code": "370",
+		"name_jp": "【Xmas限定】聖夜の海上護衛隊演習",
+		"name": "Holy Night Maritime Escort Exercise",
+		"desc_jp": "「鹿島」「択捉」「松輪」「佐渡」「福江」「鵜来」「岸波」「早波」「谷風」「江風」「山雲」「朝雲」<br>「山汐丸」及び丁型海防艦のうち4隻以上を含む艦隊で、今週中に演習【A判定】以上を5回達成せよ！",
+		"desc": "Organize a fleet with 4 of Kashima, Etorofu, Matsuwa, Sado, Fukae, Ukuru, Kishinami, Hayanami, Tanikaze, Kawakaze, Yamagumo, Asagumo, Yamashio Maru or any of the Type D Coastal Defense Ships in your fleet and score A rank 4 times in PvP"
 	},
 	"401": {
 		"code": "D1",
@@ -3905,6 +3912,13 @@
 		"name": "Fight hard! Elite \"DesDiv15\" 1st Platoon",
 		"desc_jp": "第十五駆逐隊任務：「親潮改二」及び「黒潮改二」を配備した艦隊で、南西諸島海域沖ノ島海域、<br>南方海域サーモン海域、南西海域タウイタウイ泊地沖深部へ反復出撃。敵艦隊を捕捉撃滅せよ！",
 		"desc": "Organize a fleet with Oyashio Kai Ni and Kuroshio Kai Ni in the fleet and score an S rank in the boss nodes of 2-4, 5-4 and 7-2 (Part 2), twice each."
+	},
+	"962": {
+		"code": "962",
+		"name_jp": "【Xmas限定】Merry Xmas 駆逐隊、出撃！",
+		"name": "【Xmas限定】Merry Xmas 駆逐隊、出撃！",
+		"desc_jp": "【Xmas限定任務】「夕雲」「早波」「浜波」「巻波」「朧」「漣」「潮」「曙」の4隻以上を含む艦隊で<br>鎮守府正面海域、製油所地帯沿岸、南西諸島防衛線、鎮守府近海に反復出撃！敵を駆逐せよ！",
+		"desc": "【Xmas限定任務】「夕雲」「早波」「浜波」「巻波」「朧」「漣」「潮」「曙」の4隻以上を含む艦隊で<br>鎮守府正面海域、製油所地帯沿岸、南西諸島防衛線、鎮守府近海に反復出撃！敵を駆逐せよ！"
 	},
 	"966": {
 		"code": "B175",
