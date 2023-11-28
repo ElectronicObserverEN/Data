@@ -1,5 +1,5 @@
 {
-	"version": "21030371",
+	"version": "21030372",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1765,11 +1765,11 @@
 		"desc": "Organize a fleet with at least two members of Yukikaze, Tokitsukaze, Hatsukaze and Amatsukaze in your fleet and score S rank three times in PvP"
 	},
 	"370": {
-		"code": "370",
+		"code": "2311 C2",
 		"name_jp": "【Xmas限定】聖夜の海上護衛隊演習",
-		"name": "Holy Night Maritime Escort Exercise",
+		"name": "[Xmas Limited] Holy Night Maritime Escort Exercise",
 		"desc_jp": "「鹿島」「択捉」「松輪」「佐渡」「福江」「鵜来」「岸波」「早波」「谷風」「江風」「山雲」「朝雲」<br>「山汐丸」及び丁型海防艦のうち4隻以上を含む艦隊で、今週中に演習【A判定】以上を5回達成せよ！",
-		"desc": "Organize a fleet with 4 of Kashima, Etorofu, Matsuwa, Sado, Fukae, Ukuru, Kishinami, Hayanami, Tanikaze, Kawakaze, Yamagumo, Asagumo, Yamashio Maru or any of the Type D Coastal Defense Ships in your fleet and score A rank 4 times in PvP"
+		"desc": "Organize a fleet with 4 of Kashima, Etorofu, Matsuwa, Sado, Fukae, Ukuru, Kishinami, Hayanami, Tanikaze, Kawakaze, Yamagumo, Asagumo, Yamashio Maru or any of the Type D Coastal Defense Ships in your fleet and score A rank 5 times in PvP"
 	},
 	"401": {
 		"code": "D1",
@@ -3914,11 +3914,11 @@
 		"desc": "Organize a fleet with Oyashio Kai Ni and Kuroshio Kai Ni in the fleet and score an S rank in the boss nodes of 2-4, 5-4 and 7-2 (Part 2), twice each."
 	},
 	"962": {
-		"code": "962",
+		"code": "2311 B6",
 		"name_jp": "【Xmas限定】Merry Xmas 駆逐隊、出撃！",
-		"name": "【Xmas限定】Merry Xmas 駆逐隊、出撃！",
+		"name": "[Xmas Limited] Merry Xmas, Destroyer Squadron, Sortie!",
 		"desc_jp": "【Xmas限定任務】「夕雲」「早波」「浜波」「巻波」「朧」「漣」「潮」「曙」の4隻以上を含む艦隊で<br>鎮守府正面海域、製油所地帯沿岸、南西諸島防衛線、鎮守府近海に反復出撃！敵を駆逐せよ！",
-		"desc": "【Xmas限定任務】「夕雲」「早波」「浜波」「巻波」「朧」「漣」「潮」「曙」の4隻以上を含む艦隊で<br>鎮守府正面海域、製油所地帯沿岸、南西諸島防衛線、鎮守府近海に反復出撃！敵を駆逐せよ！"
+		"desc": "Organize a fleet with 4 of Yuugumo, Hayanami, Hamanami, Makinami, Oboro, Sazanami, Ushio and Akebono in your fleet and score an S rank at the boss nodes on 1-1, 1-3, 1-4 and 1-5 twice each"
 	},
 	"966": {
 		"code": "B175",
