@@ -3934,5 +3934,11 @@
 		"api_id": 517,
 		"name_jp": "逆探(E27)+22号対水上電探改四(後期調整型)",
 		"name_en": "Passive Radiolocator (E27) + Type 22 Surface Radar Kai 4 (Calibrated Late Model)"
+	},
+	{
+		"id": 2500,
+		"api_id": 518,
+		"name_jp": "14cm連装砲改二",
+		"name_en": "14cm Twin Gun Kai Ni"
 	}
 ]
