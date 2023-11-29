@@ -2212,7 +2212,8 @@
 	},
 	{
 		"ids": [
-			310
+			310,
+			518
 		],
 		"bonuses": [
 			{
@@ -5565,6 +5566,33 @@
 				"shipClass": [114],
 				"num": 1,
 				"bonus": {"raig":1,"kaih":2}
+			}
+		]
+	},
+	{
+		"ids": [
+			518
+		],
+		"bonuses": [
+			{
+				"shipClass": [34,56],
+				"bonus": {"houg":1,"tyku":1,"kaih":1,"tais":1}
+			},
+			{
+				"shipType": [16],
+				"bonus": {"houg":1,"souk":1,"kaih":1}
+			},
+			{
+				"shipX": [622],
+				"bonus": {"houg":1,"tyku":1}
+			},
+			{
+				"shipX": [623],
+				"bonus": {"houg":1}
+			},
+			{
+				"shipX": [624],
+				"bonus": {"houg":1,"tyku":1,"tais":2}
 			}
 		]
 	}
