@@ -5762,7 +5762,7 @@
 			{
 				"shipS": [924],
 				"level": 9,
-				"bonus": {}
+				"bonus": {"houm":-1}
 			},
 			{
 				"shipNationality": [4],
