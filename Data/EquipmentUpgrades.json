@@ -3478,7 +3478,7 @@
 		"improvement": [
 			{
 				"convert": {"id_after":423,"lvl_after":0},
-				"helpers": [{"ship_ids":[515,393],"days":[1,2,3,4]},{"ship_ids":[713],"days":[5,6]}],
+				"helpers": [{"ship_ids":[515,393],"days":[1,2,3,4]},{"ship_ids":[713],"days":[5,6,0]}],
 				"costs": {"fuel":120,"ammo":80,"steel":0,"baux":260,"p1":{"devmats":5,"devmats_sli":6,"screws":2,"screws_sli":3,"equips":[{"id":249,"eq_count":1}],"consumable":[]},"p2":{"devmats":6,"devmats_sli":7,"screws":3,"screws_sli":5,"equips":[{"id":250,"eq_count":1}],"consumable":[]},"conv":{"devmats":7,"devmats_sli":9,"screws":6,"screws_sli":9,"equips":[{"id":242,"eq_count":2}],"consumable":[{"id":77,"eq_count":1},{"id":70,"eq_count":2}]}}
 			}
 		],
@@ -3943,7 +3943,7 @@
 		"improvement": [
 			{
 				"convert": {"id_after":299,"lvl_after":0},
-				"helpers": [{"ship_ids":[576],"days":[1,2,3,4]},{"ship_ids":[577],"days":[3]}],
+				"helpers": [{"ship_ids":[576],"days":[1,2,3,4]},{"ship_ids":[577],"days":[3,0]}],
 				"costs": {"fuel":80,"ammo":390,"steel":490,"baux":0,"p1":{"devmats":5,"devmats_sli":6,"screws":3,"screws_sli":3,"equips":[{"id":8,"eq_count":1}],"consumable":[]},"p2":{"devmats":6,"devmats_sli":8,"screws":4,"screws_sli":6,"equips":[{"id":298,"eq_count":1}],"consumable":[]},"conv":{"devmats":16,"devmats_sli":24,"screws":12,"screws_sli":16,"equips":[{"id":298,"eq_count":1}],"consumable":[{"id":75,"eq_count":1}]}}
 			}
 		],
@@ -3963,7 +3963,7 @@
 		"improvement": [
 			{
 				"convert": {"id_after":300,"lvl_after":0},
-				"helpers": [{"ship_ids":[576],"days":[2,3,4]},{"ship_ids":[577],"days":[3]}],
+				"helpers": [{"ship_ids":[576],"days":[2,3,4]},{"ship_ids":[577],"days":[3,0]}],
 				"costs": {"fuel":90,"ammo":400,"steel":510,"baux":60,"p1":{"devmats":7,"devmats_sli":8,"screws":4,"screws_sli":4,"equips":[{"id":8,"eq_count":2}],"consumable":[]},"p2":{"devmats":8,"devmats_sli":10,"screws":5,"screws_sli":7,"equips":[{"id":298,"eq_count":1}],"consumable":[]},"conv":{"devmats":18,"devmats_sli":30,"screws":14,"screws_sli":18,"equips":[{"id":301,"eq_count":2}],"consumable":[{"id":75,"eq_count":1},{"id":94,"eq_count":2}]}}
 			}
 		],
