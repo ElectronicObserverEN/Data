@@ -1,5 +1,5 @@
 {
-	"version": "21030262",
+	"version": "21030263",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -36,7 +36,7 @@
 		"改良型艦本式タービン": "Improved Kanhon Turbine",
 		"強化型艦本式缶": "Enhanced Kanhon Boiler",
 		"三式弾": "Type 3 Shell",
-		"九一式徹甲弾": "Type 91 AP Shell",
+		"九一式徹甲弾": "Type 91 Armor Piercing Shell",
 		"7.7mm機銃": "7.7mm Machine Gun",
 		"12.7mm単装機銃": "12.7mm Single Machine Gun",
 		"25mm連装機銃": "25mm Twin Autocannon",
@@ -116,7 +116,7 @@
 		"流星(六〇一空)": "Ryuusei (601 Air Group)",
 		"38cm連装砲改": "38cm Twin Gun Kai",
 		"Ar196改": "Ar196 Kai",
-		"一式徹甲弾": "Type 1 AP Shell",
+		"一式徹甲弾": "Type 1 Armor Piercing Shell",
 		"試製46cm連装砲": "Prototype 46cm Twin Gun",
 		"紫雲": "Shiun",
 		"14cm連装砲": "14cm Twin Gun",
@@ -550,7 +550,7 @@
 		"改良型深海タービン": "Improved Abyssal Turbine",
 		"強化型深海缶": "Enhanced Abyssal Engine",
 		"対空散弾": "Abyssal Anti-air Dispersal Shell",
-		"劣化徹甲弾": "Deteriorate AP Shell",
+		"劣化徹甲弾": "Deterioration Armor Piercing Shell",
 		"12.7mm機銃": "12.7mm Abyssal Autocannon",
 		"20mm機銃": "20mm Abyssal Autocannon",
 		"40mm二連装機関砲": "40mm Abyssal Twin Autocannon",

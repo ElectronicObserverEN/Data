@@ -213,7 +213,7 @@
 		"id": 1878,
 		"api_id": 36,
 		"name_jp": "九一式徹甲弾",
-		"name_en": "Type 91 AP Shell"
+		"name_en": "Type 91 Armor Piercing Shell"
 	},
 	{
 		"id": 1879,
@@ -693,7 +693,7 @@
 		"id": 1958,
 		"api_id": 116,
 		"name_jp": "一式徹甲弾",
-		"name_en": "Type 1 AP Shell"
+		"name_en": "Type 1 Armor Piercing Shell"
 	},
 	{
 		"id": 1959,
@@ -3123,7 +3123,7 @@
 		"id": 2363,
 		"api_id": 1536,
 		"name_jp": "劣化徹甲弾",
-		"name_en": "Deteriorate AP Shell"
+		"name_en": "Deterioration Armor Piercing Shell"
 	},
 	{
 		"id": 2364,
