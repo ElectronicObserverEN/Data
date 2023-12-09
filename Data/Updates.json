@@ -295,5 +295,16 @@
 		"live_update": false,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1725839600684568953",
 		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1728966460494823695"
+	},
+	{
+		"id": 35,
+		"start_date": "2023-12-15T00:00:00",
+		"start_time": "13:00:00",
+		"end_time": "16:30:00",
+		"name": "December 2023 Android Update",
+		"description": "- Android update\r\n- Database maintenance",
+		"live_update": false,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1733449163592138789",
+		"maint_end_tweet": ""
 	}
 ]
