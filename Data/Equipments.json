@@ -3,247 +3,288 @@
 		"id": 1843,
 		"api_id": 1,
 		"name_jp": "12cm単装砲",
-		"name_en": "12cm Single Gun"
+		"name_en": "12cm Single Gun",
+		"developement": true
 	},
 	{
 		"id": 1844,
 		"api_id": 2,
 		"name_jp": "12.7cm連装砲",
-		"name_en": "12.7cm Twin Gun"
+		"name_en": "12.7cm Twin Gun",
+		"developement": true
 	},
 	{
 		"id": 1845,
 		"api_id": 3,
 		"name_jp": "10cm連装高角砲",
-		"name_en": "10cm Twin High-angle Gun"
+		"name_en": "10cm Twin High-angle Gun",
+		"developement": true
 	},
 	{
 		"id": 1846,
 		"api_id": 4,
 		"name_jp": "14cm単装砲",
-		"name_en": "14cm Single Gun"
+		"name_en": "14cm Single Gun",
+		"developement": true
 	},
 	{
 		"id": 1847,
 		"api_id": 5,
 		"name_jp": "15.5cm三連装砲",
-		"name_en": "15.5cm Triple Gun"
+		"name_en": "15.5cm Triple Gun",
+		"developement": true
 	},
 	{
 		"id": 1848,
 		"api_id": 6,
 		"name_jp": "20.3cm連装砲",
-		"name_en": "20.3cm Twin Gun"
+		"name_en": "20.3cm Twin Gun",
+		"developement": true
 	},
 	{
 		"id": 1849,
 		"api_id": 7,
 		"name_jp": "35.6cm連装砲",
-		"name_en": "35.6cm Twin Gun"
+		"name_en": "35.6cm Twin Gun",
+		"developement": true
 	},
 	{
 		"id": 1850,
 		"api_id": 8,
 		"name_jp": "41cm連装砲",
-		"name_en": "41cm Twin Gun"
+		"name_en": "41cm Twin Gun",
+		"developement": true
 	},
 	{
 		"id": 1851,
 		"api_id": 9,
 		"name_jp": "46cm三連装砲",
-		"name_en": "46cm Triple Gun"
+		"name_en": "46cm Triple Gun",
+		"developement": true
 	},
 	{
 		"id": 1852,
 		"api_id": 10,
 		"name_jp": "12.7cm連装高角砲",
-		"name_en": "12.7cm Twin High-angle Gun"
+		"name_en": "12.7cm Twin High-angle Gun",
+		"developement": true
 	},
 	{
 		"id": 1853,
 		"api_id": 11,
 		"name_jp": "15.2cm単装砲",
-		"name_en": "15.2cm Single Gun"
+		"name_en": "15.2cm Single Gun",
+		"developement": true
 	},
 	{
 		"id": 1854,
 		"api_id": 12,
 		"name_jp": "15.5cm三連装副砲",
-		"name_en": "15.5cm Triple Secondary Gun"
+		"name_en": "15.5cm Triple Secondary Gun",
+		"developement": true
 	},
 	{
 		"id": 1855,
 		"api_id": 13,
 		"name_jp": "61cm三連装魚雷",
-		"name_en": "61cm Triple Torpedo"
+		"name_en": "61cm Triple Torpedo",
+		"developement": true
 	},
 	{
 		"id": 1856,
 		"api_id": 14,
 		"name_jp": "61cm四連装魚雷",
-		"name_en": "61cm Quadruple Torpedo"
+		"name_en": "61cm Quadruple Torpedo",
+		"developement": true
 	},
 	{
 		"id": 1857,
 		"api_id": 15,
 		"name_jp": "61cm四連装(酸素)魚雷",
-		"name_en": "61cm Quadruple (Oxygen) Torpedo"
+		"name_en": "61cm Quadruple (Oxygen) Torpedo",
+		"developement": true
 	},
 	{
 		"id": 1858,
 		"api_id": 16,
 		"name_jp": "九七式艦攻",
-		"name_en": "Type 97 Torpedo Bomber"
+		"name_en": "Type 97 Torpedo Bomber",
+		"developement": true
 	},
 	{
 		"id": 1859,
 		"api_id": 17,
 		"name_jp": "天山",
-		"name_en": "Tenzan"
+		"name_en": "Tenzan",
+		"developement": true
 	},
 	{
 		"id": 1860,
 		"api_id": 18,
 		"name_jp": "流星",
-		"name_en": "Ryuusei"
+		"name_en": "Ryuusei",
+		"developement": true
 	},
 	{
 		"id": 1861,
 		"api_id": 19,
 		"name_jp": "九六式艦戦",
-		"name_en": "Type 96 Fighter"
+		"name_en": "Type 96 Fighter",
+		"developement": true
 	},
 	{
 		"id": 1862,
 		"api_id": 20,
 		"name_jp": "零式艦戦21型",
-		"name_en": "Zero Fighter Model 21"
+		"name_en": "Zero Fighter Model 21",
+		"developement": true
 	},
 	{
 		"id": 1863,
 		"api_id": 21,
 		"name_jp": "零式艦戦52型",
-		"name_en": "Zero Fighter Model 52"
+		"name_en": "Zero Fighter Model 52",
+		"developement": true
 	},
 	{
 		"id": 1864,
 		"api_id": 22,
 		"name_jp": "試製烈風 後期型",
-		"name_en": "Prototype Reppuu Late Model"
+		"name_en": "Prototype Reppuu Late Model",
+		"developement": true
 	},
 	{
 		"id": 1865,
 		"api_id": 23,
 		"name_jp": "九九式艦爆",
-		"name_en": "Type 99 Dive Bomber"
+		"name_en": "Type 99 Dive Bomber",
+		"developement": true
 	},
 	{
 		"id": 1866,
 		"api_id": 24,
 		"name_jp": "彗星",
-		"name_en": "Suisei"
+		"name_en": "Suisei",
+		"developement": true
 	},
 	{
 		"id": 1867,
 		"api_id": 25,
 		"name_jp": "零式水上偵察機",
-		"name_en": "Type 0 Recon Seaplane"
+		"name_en": "Type 0 Recon Seaplane",
+		"developement": true
 	},
 	{
 		"id": 1868,
 		"api_id": 26,
 		"name_jp": "瑞雲",
-		"name_en": "Zuiun"
+		"name_en": "Zuiun",
+		"developement": true
 	},
 	{
 		"id": 1869,
 		"api_id": 27,
 		"name_jp": "13号対空電探",
-		"name_en": "Type 13 Air RADAR"
+		"name_en": "Type 13 Air RADAR",
+		"developement": true
 	},
 	{
 		"id": 1870,
 		"api_id": 28,
 		"name_jp": "22号対水上電探",
-		"name_en": "Type 22 Surface RADAR"
+		"name_en": "Type 22 Surface RADAR",
+		"developement": true
 	},
 	{
 		"id": 1871,
 		"api_id": 29,
 		"name_jp": "33号対水上電探",
-		"name_en": "Type 33 Surface RADAR"
+		"name_en": "Type 33 Surface RADAR",
+		"developement": true
 	},
 	{
 		"id": 1872,
 		"api_id": 30,
 		"name_jp": "21号対空電探",
-		"name_en": "Type 21 Air RADAR"
+		"name_en": "Type 21 Air RADAR",
+		"developement": true
 	},
 	{
 		"id": 1873,
 		"api_id": 31,
 		"name_jp": "32号対水上電探",
-		"name_en": "Type 32 Surface RADAR"
+		"name_en": "Type 32 Surface RADAR",
+		"developement": true
 	},
 	{
 		"id": 1874,
 		"api_id": 32,
 		"name_jp": "42号対空電探",
-		"name_en": "Type 42 Air RADAR"
+		"name_en": "Type 42 Air RADAR",
+		"developement": true
 	},
 	{
 		"id": 1875,
 		"api_id": 33,
 		"name_jp": "改良型艦本式タービン",
-		"name_en": "Improved Kanhon Turbine"
+		"name_en": "Improved Kanhon Turbine",
+		"developement": true
 	},
 	{
 		"id": 1876,
 		"api_id": 34,
 		"name_jp": "強化型艦本式缶",
-		"name_en": "Enhanced Kanhon Boiler"
+		"name_en": "Enhanced Kanhon Boiler",
+		"developement": true
 	},
 	{
 		"id": 1877,
 		"api_id": 35,
 		"name_jp": "三式弾",
-		"name_en": "Type 3 Shell"
+		"name_en": "Type 3 Shell",
+		"developement": true
 	},
 	{
 		"id": 1878,
 		"api_id": 36,
 		"name_jp": "九一式徹甲弾",
-		"name_en": "Type 91 Armor Piercing Shell"
+		"name_en": "Type 91 Armor Piercing Shell",
+		"developement": true
 	},
 	{
 		"id": 1879,
 		"api_id": 37,
 		"name_jp": "7.7mm機銃",
-		"name_en": "7.7mm Machine Gun"
+		"name_en": "7.7mm Machine Gun",
+		"developement": true
 	},
 	{
 		"id": 1880,
 		"api_id": 38,
 		"name_jp": "12.7mm単装機銃",
-		"name_en": "12.7mm Single Machine Gun"
+		"name_en": "12.7mm Single Machine Gun",
+		"developement": true
 	},
 	{
 		"id": 1881,
 		"api_id": 39,
 		"name_jp": "25mm連装機銃",
-		"name_en": "25mm Twin Autocannon"
+		"name_en": "25mm Twin Autocannon",
+		"developement": true
 	},
 	{
 		"id": 1882,
 		"api_id": 40,
 		"name_jp": "25mm三連装機銃",
-		"name_en": "25mm Triple Autocannon"
+		"name_en": "25mm Triple Autocannon",
+		"developement": true
 	},
 	{
 		"id": 1883,
 		"api_id": 41,
 		"name_jp": "甲標的 甲型",
-		"name_en": "Type A Kouhyouteki"
+		"name_en": "Type A Kouhyouteki",
+		"developement": true
 	},
 	{
 		"id": 1884,
@@ -261,37 +302,43 @@
 		"id": 1886,
 		"api_id": 44,
 		"name_jp": "九四式爆雷投射機",
-		"name_en": "Type 94 Depth Charge Projector"
+		"name_en": "Type 94 Depth Charge Projector",
+		"developement": true
 	},
 	{
 		"id": 1887,
 		"api_id": 45,
 		"name_jp": "三式爆雷投射機",
-		"name_en": "Type 3 Depth Charge Projector"
+		"name_en": "Type 3 Depth Charge Projector",
+		"developement": true
 	},
 	{
 		"id": 1888,
 		"api_id": 46,
 		"name_jp": "九三式水中聴音機",
-		"name_en": "Type 93 Passive SONAR"
+		"name_en": "Type 93 Passive SONAR",
+		"developement": true
 	},
 	{
 		"id": 1889,
 		"api_id": 47,
 		"name_jp": "三式水中探信儀",
-		"name_en": "Type 3 Active SONAR"
+		"name_en": "Type 3 Active SONAR",
+		"developement": true
 	},
 	{
 		"id": 1890,
 		"api_id": 48,
 		"name_jp": "12cm単装高角砲",
-		"name_en": "12cm Single High-angle Gun"
+		"name_en": "12cm Single High-angle Gun",
+		"developement": true
 	},
 	{
 		"id": 1891,
 		"api_id": 49,
 		"name_jp": "25mm単装機銃",
-		"name_en": "25mm Single Autocannon"
+		"name_en": "25mm Single Autocannon",
+		"developement": true
 	},
 	{
 		"id": 1892,
@@ -303,13 +350,15 @@
 		"id": 1893,
 		"api_id": 51,
 		"name_jp": "12cm30連装噴進砲",
-		"name_en": "12cm 30-tube Rocket Launcher"
+		"name_en": "12cm 30-tube Rocket Launcher",
+		"developement": true
 	},
 	{
 		"id": 1894,
 		"api_id": 52,
 		"name_jp": "流星改",
-		"name_en": "Ryuusei Kai"
+		"name_en": "Ryuusei Kai",
+		"developement": true
 	},
 	{
 		"id": 1895,
@@ -321,13 +370,15 @@
 		"id": 1896,
 		"api_id": 54,
 		"name_jp": "彩雲",
-		"name_en": "Saiun"
+		"name_en": "Saiun",
+		"developement": true
 	},
 	{
 		"id": 1897,
 		"api_id": 55,
 		"name_jp": "紫電改二",
-		"name_en": "Shiden Kai Ni"
+		"name_en": "Shiden Kai Ni",
+		"developement": true
 	},
 	{
 		"id": 1898,
@@ -339,7 +390,8 @@
 		"id": 1899,
 		"api_id": 57,
 		"name_jp": "彗星一二型甲",
-		"name_en": "Suisei Model 12A"
+		"name_en": "Suisei Model 12A",
+		"developement": true
 	},
 	{
 		"id": 1900,
@@ -351,19 +403,22 @@
 		"id": 1901,
 		"api_id": 59,
 		"name_jp": "零式水上観測機",
-		"name_en": "Type 0 Observation Seaplane"
+		"name_en": "Type 0 Observation Seaplane",
+		"developement": true
 	},
 	{
 		"id": 1902,
 		"api_id": 60,
 		"name_jp": "零式艦戦62型(爆戦)",
-		"name_en": "Zero Fighter-bomber Model 62"
+		"name_en": "Zero Fighter-bomber Model 62",
+		"developement": true
 	},
 	{
 		"id": 1903,
 		"api_id": 61,
 		"name_jp": "二式艦上偵察機",
-		"name_en": "Type 2 Recon Aircraft"
+		"name_en": "Type 2 Recon Aircraft",
+		"developement": true
 	},
 	{
 		"id": 1904,
@@ -387,13 +442,15 @@
 		"id": 1907,
 		"api_id": 65,
 		"name_jp": "15.2cm連装砲",
-		"name_en": "15.2cm Twin Gun"
+		"name_en": "15.2cm Twin Gun",
+		"developement": true
 	},
 	{
 		"id": 1908,
 		"api_id": 66,
 		"name_jp": "8cm高角砲",
-		"name_en": "8cm High-angle Gun"
+		"name_en": "8cm High-angle Gun",
+		"developement": true
 	},
 	{
 		"id": 1909,
@@ -405,49 +462,57 @@
 		"id": 1910,
 		"api_id": 68,
 		"name_jp": "大発動艇",
-		"name_en": "Daihatsu LC"
+		"name_en": "Daihatsu LC",
+		"developement": true
 	},
 	{
 		"id": 1911,
 		"api_id": 69,
 		"name_jp": "カ号観測機",
-		"name_en": "Ka Type Observation Autogyro"
+		"name_en": "Ka Type Observation Autogyro",
+		"developement": true
 	},
 	{
 		"id": 1912,
 		"api_id": 70,
 		"name_jp": "三式指揮連絡機(対潜)",
-		"name_en": "Type 3 Command Liaison Aircraft (ASW)"
+		"name_en": "Type 3 Command Liaison Aircraft (ASW)",
+		"developement": true
 	},
 	{
 		"id": 1913,
 		"api_id": 71,
 		"name_jp": "10cm連装高角砲(砲架)",
-		"name_en": "10cm Twin High-angle Gun (Carriage)"
+		"name_en": "10cm Twin High-angle Gun (Carriage)",
+		"developement": true
 	},
 	{
 		"id": 1914,
 		"api_id": 72,
 		"name_jp": "増設バルジ(中型艦)",
-		"name_en": "Anti-torpedo Bulge (M)"
+		"name_en": "Anti-torpedo Bulge (M)",
+		"developement": true
 	},
 	{
 		"id": 1915,
 		"api_id": 73,
 		"name_jp": "増設バルジ(大型艦)",
-		"name_en": "Anti-torpedo Bulge (L)"
+		"name_en": "Anti-torpedo Bulge (L)",
+		"developement": true
 	},
 	{
 		"id": 1916,
 		"api_id": 74,
 		"name_jp": "探照灯",
-		"name_en": "Searchlight"
+		"name_en": "Searchlight",
+		"developement": true
 	},
 	{
 		"id": 1917,
 		"api_id": 75,
 		"name_jp": "ドラム缶(輸送用)",
-		"name_en": "Drum (Transport)"
+		"name_en": "Drum (Transport)",
+		"developement": true
 	},
 	{
 		"id": 1918,
@@ -465,7 +530,8 @@
 		"id": 1920,
 		"api_id": 78,
 		"name_jp": "12.7cm単装砲",
-		"name_en": "12.7cm Single Gun"
+		"name_en": "12.7cm Single Gun",
+		"developement": true
 	},
 	{
 		"id": 1921,
@@ -537,7 +603,8 @@
 		"id": 1932,
 		"api_id": 90,
 		"name_jp": "20.3cm(2号)連装砲",
-		"name_en": "20.3cm (No.2) Twin Gun"
+		"name_en": "20.3cm (No.2) Twin Gun",
+		"developement": true
 	},
 	{
 		"id": 1933,
@@ -609,7 +676,8 @@
 		"id": 1944,
 		"api_id": 102,
 		"name_jp": "九八式水上偵察機(夜偵)",
-		"name_en": "Type 98 Recon Seaplane (Night Recon)"
+		"name_en": "Type 98 Recon Seaplane (Night Recon)",
+		"developement": true
 	},
 	{
 		"id": 1945,
@@ -717,7 +785,8 @@
 		"id": 1962,
 		"api_id": 120,
 		"name_jp": "91式高射装置",
-		"name_en": "Type 91 AAFD"
+		"name_en": "Type 91 AAFD",
+		"developement": true
 	},
 	{
 		"id": 1963,
@@ -879,7 +948,8 @@
 		"id": 1989,
 		"api_id": 147,
 		"name_jp": "120mm/50 連装砲",
-		"name_en": "120mm/50 Twin Gun Mount"
+		"name_en": "120mm/50 Twin Gun Mount",
+		"developement": true
 	},
 	{
 		"id": 1990,
@@ -975,7 +1045,8 @@
 		"id": 2005,
 		"api_id": 163,
 		"name_jp": "Ro.43水偵",
-		"name_en": "Ro.43 Recon Seaplane"
+		"name_en": "Ro.43 Recon Seaplane",
+		"developement": true
 	},
 	{
 		"id": 2006,
@@ -1005,7 +1076,8 @@
 		"id": 2010,
 		"api_id": 168,
 		"name_jp": "九六式陸攻",
-		"name_en": "Type 96 Attack Bomber"
+		"name_en": "Type 96 Attack Bomber",
+		"developement": true
 	},
 	{
 		"id": 2011,
@@ -1083,7 +1155,8 @@
 		"id": 2023,
 		"api_id": 181,
 		"name_jp": "零式艦戦32型",
-		"name_en": "Zero Fighter Model 32"
+		"name_en": "Zero Fighter Model 32",
+		"developement": true
 	},
 	{
 		"id": 2024,
@@ -1161,13 +1234,15 @@
 		"id": 2036,
 		"api_id": 194,
 		"name_jp": "Laté 298B",
-		"name_en": "Laté 298B"
+		"name_en": "Laté 298B",
+		"developement": true
 	},
 	{
 		"id": 2037,
 		"api_id": 195,
 		"name_jp": "SBD",
-		"name_en": "SBD Dauntless"
+		"name_en": "SBD Dauntless",
+		"developement": true
 	},
 	{
 		"id": 2038,
@@ -1179,7 +1254,8 @@
 		"id": 2039,
 		"api_id": 197,
 		"name_jp": "F4F-3",
-		"name_en": "F4F-3 Wildcat"
+		"name_en": "F4F-3 Wildcat",
+		"developement": true
 	},
 	{
 		"id": 2040,
@@ -1203,7 +1279,8 @@
 		"id": 2043,
 		"api_id": 201,
 		"name_jp": "紫電一一型",
-		"name_en": "Shiden Model 11"
+		"name_en": "Shiden Model 11",
+		"developement": true
 	},
 	{
 		"id": 2044,
@@ -1239,7 +1316,8 @@
 		"id": 2049,
 		"api_id": 207,
 		"name_jp": "瑞雲(六三一空)",
-		"name_en": "Zuiun (631 Air Group)"
+		"name_en": "Zuiun (631 Air Group)",
+		"developement": true
 	},
 	{
 		"id": 2050,
@@ -1257,7 +1335,8 @@
 		"id": 2052,
 		"api_id": 210,
 		"name_jp": "潜水艦搭載電探&水防式望遠鏡",
-		"name_en": "Submarine Radar+Periscope"
+		"name_en": "Submarine Radar+Periscope",
+		"developement": true
 	},
 	{
 		"id": 2053,
@@ -1275,7 +1354,8 @@
 		"id": 2055,
 		"api_id": 213,
 		"name_jp": "後期型艦首魚雷(6門)",
-		"name_en": "Late Model Bow Torpedo (6 tubes)"
+		"name_en": "Late Model Bow Torpedo (6 tubes)",
+		"developement": true
 	},
 	{
 		"id": 2056,
@@ -1323,7 +1403,8 @@
 		"id": 2063,
 		"api_id": 221,
 		"name_jp": "一式戦 隼II型",
-		"name_en": "Type 1 Fighter Hayabusa Model II"
+		"name_en": "Type 1 Fighter Hayabusa Model II",
+		"developement": true
 	},
 	{
 		"id": 2064,
@@ -1353,7 +1434,8 @@
 		"id": 2068,
 		"api_id": 226,
 		"name_jp": "九五式爆雷",
-		"name_en": "Type 95 Depth Charge"
+		"name_en": "Type 95 Depth Charge",
+		"developement": true
 	},
 	{
 		"id": 2069,
@@ -1449,7 +1531,8 @@
 		"id": 2084,
 		"api_id": 242,
 		"name_jp": "Swordfish",
-		"name_en": "Swordfish"
+		"name_en": "Swordfish",
+		"developement": true
 	},
 	{
 		"id": 2085,
@@ -1491,13 +1574,15 @@
 		"id": 2091,
 		"api_id": 249,
 		"name_jp": "Fulmar",
-		"name_en": "Fulmar"
+		"name_en": "Fulmar",
+		"developement": true
 	},
 	{
 		"id": 2092,
 		"api_id": 250,
 		"name_jp": "Spitfire Mk.I",
-		"name_en": "Spitfire Mk.I"
+		"name_en": "Spitfire Mk.I",
+		"developement": true
 	},
 	{
 		"id": 2093,
@@ -1779,7 +1864,8 @@
 		"id": 2139,
 		"api_id": 298,
 		"name_jp": "16inch Mk.I三連装砲",
-		"name_en": "16inch Mk.I Triple Gun"
+		"name_en": "16inch Mk.I Triple Gun",
+		"developement": true
 	},
 	{
 		"id": 2140,
@@ -1797,7 +1883,8 @@
 		"id": 2142,
 		"api_id": 301,
 		"name_jp": "20連装7inch UP Rocket Launchers",
-		"name_en": "20-tube 7inch UP Rocket Launchers"
+		"name_en": "20-tube 7inch UP Rocket Launchers",
+		"developement": true
 	},
 	{
 		"id": 2143,
@@ -2469,7 +2556,8 @@
 		"id": 2254,
 		"api_id": 414,
 		"name_jp": "SOC Seagull",
-		"name_en": "SOC Seagull"
+		"name_en": "SOC Seagull",
+		"developement": true
 	},
 	{
 		"id": 2255,
@@ -2625,7 +2713,8 @@
 		"id": 2280,
 		"api_id": 440,
 		"name_jp": "21inch艦首魚雷発射管6門(初期型)",
-		"name_en": "21inch 6-tube Bow Torpedo Launcher (Initial Model)"
+		"name_en": "21inch 6-tube Bow Torpedo Launcher (Initial Model)",
+		"developement": true
 	},
 	{
 		"id": 2281,
@@ -2637,7 +2726,8 @@
 		"id": 2282,
 		"api_id": 442,
 		"name_jp": "潜水艦後部魚雷発射管4門(初期型)",
-		"name_en": "Submarine 4-tube Stern Torpedo Launcher (Initial Model)"
+		"name_en": "Submarine 4-tube Stern Torpedo Launcher (Initial Model)",
+		"developement": true
 	},
 	{
 		"id": 2283,
@@ -2655,7 +2745,8 @@
 		"id": 2285,
 		"api_id": 445,
 		"name_jp": "二式複戦 屠龍",
-		"name_en": "Type 2 Two-seat Fighter Toryuu"
+		"name_en": "Type 2 Two-seat Fighter Toryuu",
+		"developement": true
 	},
 	{
 		"id": 2286,
@@ -2721,7 +2812,8 @@
 		"id": 2296,
 		"api_id": 457,
 		"name_jp": "後期型艦首魚雷(4門)",
-		"name_en": "Late Model Bow Torpedo Mount (4 tubes)"
+		"name_en": "Late Model Bow Torpedo Mount (4 tubes)",
+		"developement": true
 	},
 	{
 		"id": 2297,
@@ -3801,7 +3893,8 @@
 		"id": 2477,
 		"api_id": 500,
 		"name_jp": "発煙装置(煙幕)",
-		"name_en": "Smoke Generator (Smoke Screen)"
+		"name_en": "Smoke Generator (Smoke Screen)",
+		"developement": true
 	},
 	{
 		"id": 2478,
@@ -3867,7 +3960,8 @@
 		"id": 2488,
 		"api_id": 511,
 		"name_jp": "21inch艦首魚雷発射管4門(初期型)",
-		"name_en": "21inch 4-tube Bow Torpedo Launcher (Initial Model)"
+		"name_en": "21inch 4-tube Bow Torpedo Launcher (Initial Model)",
+		"developement": true
 	},
 	{
 		"id": 2489,
