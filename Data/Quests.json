@@ -4985,11 +4985,11 @@
 		"name_jp": "継戦支援能力の整備",
 		"name_en": "Weekly Dismantlement 2",
 		"desc_jp": "艦娘の継戦支援体制の整備強化を実施する！「大口径主砲」系装備x4、「水上偵察機」系装備x2、<br>「魚雷」系装備x3を廃棄、鋼材3,600を準備せよ！　※任務達成後、準備した資源は消費します。",
-		"desc_en": "Have 3600 Steel. Scrap 4 Large Cal. Main Guns, 2 Recon Seaplanes and 3 Torpedoes.",
+		"desc_en": "Proceed to scrap 4 Large Cal. Main Guns, 2 Recon Seaplanes and 3 Torpedoes and have 3600 steel (All resources will be consumed upon completion)",
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[677],[[4,[3,4]],[4,[10,2]],[6,[5,3]]],[0,[]]]"
 	},
 	{
 		"id": 391,
