@@ -57,6 +57,12 @@
 		"id": 11,
 		"name": "Christmas 2023",
 		"added_update_id": 34,
+		"removed_update_id": 36
+	},
+	{
+		"id": 12,
+		"name": "New Year 2024",
+		"added_update_id": 36,
 		"removed_update_id": null
 	}
 ]
