@@ -310,12 +310,12 @@
 	{
 		"id": 36,
 		"start_date": "2023-12-26T00:00:00",
-		"start_time": "11:00:00",
-		"end_time": null,
+		"start_time": "13:30:00",
+		"end_time": "20:30:00",
 		"name": "Deecember 2023 update",
 		"description": "- end of xmas quests\r\n- new year content ?",
 		"live_update": false,
 		"maint_start_tweet": "https://x.com/KanColle_STAFF/status/1738575058858316029?s=20",
-		"maint_end_tweet": ""
+		"maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1739218856059842855"
 	}
 ]
