@@ -1,5 +1,5 @@
 {
-	"version": "21030378",
+	"version": "21030379",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1721,6 +1721,13 @@
 		"name": "Frontline Aircraft Carrier [Houshou Kai Ni], Begin Exercises!",
 		"desc_jp": "改装を完了した航空母艦「鳳翔改二」または同戦力投射母艦「鳳翔改二戦」を旗艦、そして<br>駆逐艦3隻以上を含む演習艦隊を編成！本日中に【S判定】勝利を5回以上達成せよ！",
 		"desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and 3 DD in your fleet and score S rank 5 times in PvP"
+	},
+	"361": {
+		"code": "361",
+		"name_jp": "【年末年始】第一護衛艦隊 特別演習！",
+		"name": "[New Year Holidays] First Escort Fleet Special Exercise!",
+		"desc_jp": "【年末年始特別演習】軽空母級1隻+駆逐艦4隻以上、または海防艦2隻以上(他自由)編成の<br>第一護衛艦隊を編成！本日中に【S判定】勝利を5回以上達成せよ！第一護衛艦隊、特別演習！",
+		"desc": "Organize a fleet with either 1CVL and 4DD or 2DE in your fleet and score S rank 5 times in PvP"
 	},
 	"362": {
 		"code": "Cy10",
@@ -3570,6 +3577,13 @@
 		"desc_jp": "【桃の節句作戦】航空母艦1隻以上、重巡または航空巡洋艦1隻以上、軽巡1隻以上を含む精強艦隊で、<br>南西諸島海域沖ノ島海域、沖ノ島沖、タウイタウイ泊地沖深部に反復出撃、敵艦隊主力を撃滅せよ！",
 		"desc": "Have a CV(L/B), a CA(V) and a CL in the fleet and score an S rank on 2-4, 2-5, and 7-2-2 twice each"
 	},
+	"910": {
+		"code": "910",
+		"name_jp": "【年末年始】鎮守府海域哨戒、警戒を厳に！",
+		"name": "[New Year Holidays] Naval Base Patrol, Strict Vigilance!",
+		"desc_jp": "【年末年始哨戒任務】軽巡1隻、駆逐または海防艦計3隻以上を含む哨戒部隊を鎮守府海域に展開。<br>鎮守府正面海域、南西諸島沖海域、製油所地帯沿岸を反復哨戒。年末年始、近海の警戒も厳に！",
+		"desc": "Organize a fleet with either 1CL and 1DD or 3DE in your fleet and score an S rank at the boss nodes on 1-1, 1-2, 1-3 twice each"
+	},
 	"911": {
 		"code": "B142 ",
 		"name_jp": "再編「第三一駆逐隊」、抜錨せよ！",
@@ -4046,6 +4060,13 @@
 		"desc_jp": "改夕雲型駆逐艦「清霜改二/丁」、さらに随伴艦に「霞」「朝霜」「大淀」「足柄」から2隻を配備。同艦隊<br>で、バシー海峡、東部オリョール海、沖ノ島海域、昭南本土航路に出撃！各海域の敵戦力を撃滅せよ！",
 		"desc": "Organize a fleet with Kiyoshimo Kai Ni (D) and two of Kasumi, Ashigara, Ooyodo or Asashimo in your fleet and score an S rank at the boss nodes on 2-2, 2-3, 2-4 and 7-4"
 	},
+	"1003": {
+		"code": "1003",
+		"name_jp": "【潜水艦任務】潜水艦、戦闘哨戒！",
+		"name": "【潜水艦任務】潜水艦、戦闘哨戒！",
+		"desc_jp": "USS潜水艦「Salmon」または「Scamp」を旗艦とした艦隊で、南西諸島沖海域、製油所地帯沿岸、<br>東部オリョール海、北方モーレイ海の戦闘哨戒を実施！各海域の敵艦隊を痛打！これを撃滅せよ！",
+		"desc": "USS潜水艦「Salmon」または「Scamp」を旗艦とした艦隊で、南西諸島沖海域、製油所地帯沿岸、<br>東部オリョール海、北方モーレイ海の戦闘哨戒を実施！各海域の敵艦隊を痛打！これを撃滅せよ！"
+	},
 	"1101": {
 		"code": "F96",
 		"name_jp": "海軍工廠の再整備",
@@ -4171,6 +4192,13 @@
 		"name": "[Model Consolidation] Mass Production Plan For New Fighter",
 		"desc_jp": "「艦上戦闘機」「艦上爆撃機」「艦上攻撃機」各x4を廃棄、「零式艦戦21型」x3、「零式艦戦52型」x3<br>ボーキサイト1,800を準備せよ！(任務達成後、準備した装備・ボーキサイトは消費します)",
 		"desc": "Have 3x Zero Fighter Model 21, 3x Zero Fighter Model 52 and 1800 bauxite. Proceed to scrap 4 carrier-based fighters, 4 dive bombers and 4 torpedo bombers (All resources and Materials will be consumed upon completion)"
+	},
+	"1121": {
+		"code": "1121",
+		"name_jp": "【年末年始】鎮守府大掃除！良いお年を！",
+		"name": "【年末年始】鎮守府大掃除！良いお年を！",
+		"desc_jp": "【年末年始鎮守府大掃除】「小口径主砲」「中口径主砲」「水上偵察機」x各8を廃棄。<br>「九六式艦戦」x6、「戦闘糧食」x4、鋼材2,023を準備、提督の皆さん、よいお年を！",
+		"desc": "【年末年始鎮守府大掃除】「小口径主砲」「中口径主砲」「水上偵察機」x各8を廃棄。<br>「九六式艦戦」x6、「戦闘糧食」x4、鋼材2,023を準備、提督の皆さん、よいお年を！"
 	},
 	"1123": {
 		"code": "Fy10",
