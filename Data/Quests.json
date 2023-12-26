@@ -2998,7 +2998,7 @@
 		"desc_jp": "七周年任務：第七駆逐隊「朧」「曙」「漣」「潮」のうち2隻以上を含む演習艦隊を編成、<br>本日中に【A判定】勝利3回以上達成せよ。七周年、第七駆逐隊、おめでとう＆ありがと！",
 		"desc_en": "Use a fleet with 2 of Oboro, Akebono, Sazanami, and Ushio, and up to 4 additional ships. Obtain an A-rank in Exercises (PvP) 3 times within the same day.",
 		"added_update_id": null,
-		"removed_update_id": null,
+		"removed_update_id": 37,
 		"season_id": null,
 		"tracker": ""
 	},
@@ -6391,7 +6391,7 @@
 		"desc_jp": "【丙作戦級】駆逐艦または海防艦計3隻以上を含む艦隊で、鎮守府海域南西諸島沖、製油所地帯沿岸、<br>南西諸島防衛線、鎮守府近海、南西諸島近海、バシー海峡に展開！警戒防衛任務にあたれ！",
 		"desc_en": "Sortie a fleet with 3 Destroyers/Coastal Defense Ships and up to 3 additional ships to Worlds 1-2, 1-3, 1-4, 1-5, 2-1, and 2-2. Obtain a S-rank at each boss node.",
 		"added_update_id": null,
-		"removed_update_id": null,
+		"removed_update_id": 37,
 		"season_id": null,
 		"tracker": ""
 	},
@@ -6404,7 +6404,7 @@
 		"desc_jp": "【乙作戦級】軽巡級1隻駆逐艦2隻以上からなる精鋭水雷戦隊を含む艦隊で、南西諸島海域東部<br>オリョール海、北方海域全海域、南西海域タウイタウイ泊地沖深部に展開、同方面の敵戦力を一掃せよ！",
 		"desc_en": "Sortie a fleet with 1 Light Cruiser, 2 Destroyers, and up to 3 additional ships to Worlds 2-3, 3-1, 3-2, 3-3, 3-4, 3-5, and 7-2. Obtain a S-rank at the boss node of 2-3, 3-1, 3-2, 3-3, 3-4, and 3-5 once. Obtain a S-rank at the second boss node of 7-2 once.",
 		"added_update_id": null,
-		"removed_update_id": null,
+		"removed_update_id": 37,
 		"season_id": null,
 		"tracker": ""
 	},
@@ -6716,7 +6716,7 @@
 		"desc_jp": "【最終作戦:甲作戦級】編成自由の精鋭艦隊で、中部海域哨戒線、MS諸島沖、グアノ環礁沖海域、<br>中部北海域ピーコック島沖、KW環礁沖海域に展開、同方面の敵戦力を撃滅！暁の水平線に勝利を刻め！",
 		"desc_en": "Sortie a fleet to Worlds 6-1, 6-2, 6-3, 6-4, and 6-5. Obtain a S-rank at each boss node.",
 		"added_update_id": null,
-		"removed_update_id": null,
+		"removed_update_id": 37,
 		"season_id": null,
 		"tracker": ""
 	},

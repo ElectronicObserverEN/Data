@@ -1,5 +1,5 @@
 {
-	"version": "21030377",
+	"version": "21030378",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1602,13 +1602,6 @@
 		"name": "Peach Festival Exercises!",
 		"desc_jp": "桃の節句任務：駆逐艦または海防艦計3隻を含む桃の節句艦隊を編成、同艦隊を以て、演習を実施！<br>桃の節句演習艦隊で、本日中に演習において【S判定】勝利を3回以上達成せよ！",
 		"desc": "Use a fleet with 3 Destroyers and up to 3 additional ships to obtain an S-rank in Exercises 3 times within the same day."
-	},
-	"341": {
-		"code": "7thAnvLC1",
-		"name_jp": "七周年任務【七駆演習】",
-		"name": "7th Anniversary Mission: 7th DesDiv Exercise",
-		"desc_jp": "七周年任務：第七駆逐隊「朧」「曙」「漣」「潮」のうち2隻以上を含む演習艦隊を編成、<br>本日中に【A判定】勝利3回以上達成せよ。七周年、第七駆逐隊、おめでとう＆ありがと！",
-		"desc": "Use a fleet with 2 of Oboro, Akebono, Sazanami, and Ushio, and up to 4 additional ships. Obtain an A-rank in Exercises (PvP) 3 times within the same day."
 	},
 	"342": {
 		"code": "Cq4",
@@ -3416,20 +3409,6 @@
 		"desc_jp": "精鋭「第十八駆逐隊」を投入し、北方海域キス島撤退作戦を実施する！<br>同作戦に反復出動し、キス島撤退作戦を完全成功させよ！",
 		"desc": "Sortie Arare Kai Ni, Kasumi Kai Ni/B, Kagerou Kai, and Shiranui Kai to [W3-2] and S-rank the boss node twice(?)."
 	},
-	"882": {
-		"code": "7thAnvLB1",
-		"name_jp": "七周年任務【前段作戦】",
-		"name": "7th Anniversary Mission: First Operation",
-		"desc_jp": "【丙作戦級】駆逐艦または海防艦計3隻以上を含む艦隊で、鎮守府海域南西諸島沖、製油所地帯沿岸、<br>南西諸島防衛線、鎮守府近海、南西諸島近海、バシー海峡に展開！警戒防衛任務にあたれ！",
-		"desc": "Sortie a fleet with 3 Destroyers/Coastal Defense Ships and up to 3 additional ships to Worlds 1-2, 1-3, 1-4, 1-5, 2-1, and 2-2. Obtain a S-rank at each boss node."
-	},
-	"883": {
-		"code": "7thAnvLB2",
-		"name_jp": "七周年任務【後段作戦】",
-		"name": "7th Anniversary Mission: Second Operation",
-		"desc_jp": "【乙作戦級】軽巡級1隻駆逐艦2隻以上からなる精鋭水雷戦隊を含む艦隊で、南西諸島海域東部<br>オリョール海、北方海域全海域、南西海域タウイタウイ泊地沖深部に展開、同方面の敵戦力を一掃せよ！",
-		"desc": "Sortie a fleet with 1 Light Cruiser, 2 Destroyers, and up to 3 additional ships to Worlds 2-3, 3-1, 3-2, 3-3, 3-4, 3-5, and 7-2. Obtain a S-rank at the boss node of 2-3, 3-1, 3-2, 3-3, 3-4, and 3-5 once. Obtain a S-rank at the second boss node of 7-2 once."
-	},
 	"884": {
 		"code": "B117",
 		"name_jp": "最精鋭甲型駆逐艦、突入！敵中突破！",
@@ -3590,13 +3569,6 @@
 		"name": "[Peach Festival] 2022 decisive battle! Smash the enemy task force!",
 		"desc_jp": "【桃の節句作戦】航空母艦1隻以上、重巡または航空巡洋艦1隻以上、軽巡1隻以上を含む精強艦隊で、<br>南西諸島海域沖ノ島海域、沖ノ島沖、タウイタウイ泊地沖深部に反復出撃、敵艦隊主力を撃滅せよ！",
 		"desc": "Have a CV(L/B), a CA(V) and a CL in the fleet and score an S rank on 2-4, 2-5, and 7-2-2 twice each"
-	},
-	"910": {
-		"code": "7thAnvLB3",
-		"name_jp": "七周年任務【拡張作戦】",
-		"name": "7th Anniversary Mission: Extra Operation",
-		"desc_jp": "【最終作戦:甲作戦級】編成自由の精鋭艦隊で、中部海域哨戒線、MS諸島沖、グアノ環礁沖海域、<br>中部北海域ピーコック島沖、KW環礁沖海域に展開、同方面の敵戦力を撃滅！暁の水平線に勝利を刻め！",
-		"desc": "Sortie a fleet to Worlds 6-1, 6-2, 6-3, 6-4, and 6-5. Obtain a S-rank at each boss node."
 	},
 	"911": {
 		"code": "B142 ",
