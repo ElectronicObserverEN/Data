@@ -1,5 +1,5 @@
 {
-	"version": "21030376",
+	"version": "21030377",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1763,13 +1763,6 @@
 		"name": " [16th Squadron] Exercises!",
 		"desc_jp": "駆逐隊演習：第十六駆逐隊「天津風」「雪風」「時津風」「初風」のうち2隻以上を含む演習艦隊を編成。<br>同演習艦隊で本日中に演習【S判定】勝利3回以上を達成せよ！　いい風きてる？十六駆、演習開始！",
 		"desc": "Organize a fleet with at least two members of Yukikaze, Tokitsukaze, Hatsukaze and Amatsukaze in your fleet and score S rank three times in PvP"
-	},
-	"370": {
-		"code": "2311 C2",
-		"name_jp": "【Xmas限定】聖夜の海上護衛隊演習",
-		"name": "[Xmas Limited] Holy Night Maritime Escort Exercise",
-		"desc_jp": "「鹿島」「択捉」「松輪」「佐渡」「福江」「鵜来」「岸波」「早波」「谷風」「江風」「山雲」「朝雲」<br>「山汐丸」及び丁型海防艦のうち4隻以上を含む艦隊で、今週中に演習【A判定】以上を5回達成せよ！",
-		"desc": "Organize a fleet with 4 of Kashima, Etorofu, Matsuwa, Sado, Fukae, Ukuru, Kishinami, Hayanami, Tanikaze, Kawakaze, Yamagumo, Asagumo, Yamashio Maru or any of the Type D Coastal Defense Ships in your fleet and score A rank 5 times in PvP"
 	},
 	"401": {
 		"code": "D1",
@@ -3912,34 +3905,6 @@
 		"name": "Fight hard! Elite \"DesDiv15\" 1st Platoon",
 		"desc_jp": "第十五駆逐隊任務：「親潮改二」及び「黒潮改二」を配備した艦隊で、南西諸島海域沖ノ島海域、<br>南方海域サーモン海域、南西海域タウイタウイ泊地沖深部へ反復出撃。敵艦隊を捕捉撃滅せよ！",
 		"desc": "Organize a fleet with Oyashio Kai Ni and Kuroshio Kai Ni in the fleet and score an S rank in the boss nodes of 2-4, 5-4 and 7-2 (Part 2), twice each."
-	},
-	"962": {
-		"code": "2311 B6",
-		"name_jp": "【Xmas限定】Merry Xmas 駆逐隊、出撃！",
-		"name": "[Xmas Limited] Merry Xmas, Destroyer Squadron, Sortie!",
-		"desc_jp": "【Xmas限定任務】「夕雲」「早波」「浜波」「巻波」「朧」「漣」「潮」「曙」の4隻以上を含む艦隊で<br>鎮守府正面海域、製油所地帯沿岸、南西諸島防衛線、鎮守府近海に反復出撃！敵を駆逐せよ！",
-		"desc": "Organize a fleet with 4 of Yuugumo, Hayanami, Hamanami, Makinami, Oboro, Sazanami, Ushio and Akebono in your fleet and score an S rank at the boss nodes on 1-1, 1-3, 1-4 and 1-5 twice each"
-	},
-	"963": {
-		"code": "2311 B7",
-		"name_jp": "【Xmas限定】聖夜の軽巡、抜錨せよ！",
-		"name": "[Xmas Limited] Holy Night Light Cruiser, Weigh Anchor!",
-		"desc_jp": "【Xmas限定任務】旗艦及び同僚艦に「大淀」「那珂」「酒匂」「矢矧改二/乙」「Sheffield」<br>「De Ruyter」「Gotland」を含む艦隊で、東部オリョール海、沖ノ島海域の敵を反復撃滅せよ！",
-		"desc": "Organize a fleet with 2 of Ooyodo, Naka, Sakawa, Yahagi K2/K2B, Sheffield, De Ruyter and Gotland (one being the flagship) in your fleet and score an S rank at the boss nodes on 2-3 and 2-4 twice each"
-	},
-	"964": {
-		"code": "2311 B8",
-		"name_jp": "【Xmas拡張作戦I】Xmas特務艦、作戦開始！",
-		"name": "[Xmas Expansion Strategy I] Xmas Special Mission Ship, Operation Start!",
-		"desc_jp": "旗艦及び同僚艦に「神威」「瑞穂」「速吸」「迅鯨」「長鯨」「明石」「朝日」「C.Teste」「Nevada」<br>「鹿島」「宗谷」を含む艦隊でジャム島沖、MS諸島沖、グアノ環礁沖海域で反復S勝利！",
-		"desc": "Organize a fleet with 2 of Kamoi, Mizuho, Hayasui, Jingei, Chougei, Akashi, Asahi, Commandant Teste, Nevada, Kashima and Souya (one being the flagship) in your fleet and score an S rank at the boss nodes on 4-1, 6-2 and 6-3 twice each"
-	},
-	"965": {
-		"code": "2311 B9",
-		"name_jp": "【Xmas拡張作戦II】Xmas最終決戦、発動！",
-		"name": "[Xmas Expansion Strategy II] Xmas Final Battle, Begin!",
-		"desc_jp": "「Warspite」「Sheffield」「Houston」「鈴谷」「熊野」「衣笠」中の3隻以上を含むXmas合同艦隊で<br>カレー洋リランカ島沖、サブ島沖海域、中部北海域ピーコック島沖に反復出撃！敵を殲滅せよ！",
-		"desc": "Organize a fleet with 3 of Warspite, Sheffield, Houston, Kumano, Suzuya and Kinugasa in your fleet and score an S rank at the boss nodes on 4-5, 5-3 and 6-4 twice each"
 	},
 	"966": {
 		"code": "B175",
