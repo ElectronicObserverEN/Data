@@ -4034,5 +4034,11 @@
 		"api_id": 518,
 		"name_jp": "14cm連装砲改二",
 		"name_en": "14cm Twin Gun Kai Ni"
+	},
+	{
+		"id": 2501,
+		"api_id": 519,
+		"name_jp": "SJレーダー+潜水艦司令塔装備",
+		"name_en": "SJ Radar + Submarine Conning Tower Equipment"
 	}
 ]
