@@ -8599,10 +8599,10 @@
 		"name_jp": "【年末年始】鎮守府海域哨戒、警戒を厳に！",
 		"name_en": "[New Year Holidays] Naval Base Patrol, Strict Vigilance!",
 		"desc_jp": "【年末年始哨戒任務】軽巡1隻、駆逐または海防艦計3隻以上を含む哨戒部隊を鎮守府海域に展開。<br>鎮守府正面海域、南西諸島沖海域、製油所地帯沿岸を反復哨戒。年末年始、近海の警戒も厳に！",
-		"desc_en": "Organize a fleet with either 1CL and 1DD or 3DE in your fleet and score an S rank at the boss nodes on 1-1, 1-2, 1-3 twice each",
+		"desc_en": "Organize a fleet with either 1CL and 3DD or 3DE in your fleet and score an S rank at the boss nodes on 1-1, 1-2, 1-3 twice each",
 		"added_update_id": 36,
 		"removed_update_id": null,
 		"season_id": 12,
-		"tracker": "[[910],[[0,[[1,1],6,2]],[0,[[1,2],6,2]],[0,[[1,3],6,2]]],[1,[[2,[[1],3,false,0]],[0,[0,[[2,[[3],1,false,0]],[2,[[2],1,false,0]]]]]]]]"
+		"tracker": "[[910],[[0,[[1,1],6,2]],[0,[[1,2],6,2]],[0,[[1,3],6,2]]],[1,[[2,[[1],3,false,0]],[0,[0,[[2,[[3],1,false,0]],[2,[[2],3,false,0]]]]]]]]"
 	}
 ]
