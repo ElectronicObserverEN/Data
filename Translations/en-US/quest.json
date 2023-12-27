@@ -1,5 +1,5 @@
 {
-	"version": "21030382",
+	"version": "21030383",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4061,11 +4061,11 @@
 		"desc": "Organize a fleet with Kiyoshimo Kai Ni (D) and two of Kasumi, Ashigara, Ooyodo or Asashimo in your fleet and score an S rank at the boss nodes on 2-2, 2-3, 2-4 and 7-4"
 	},
 	"1003": {
-		"code": "1003",
+		"code": "B195",
 		"name_jp": "【潜水艦任務】潜水艦、戦闘哨戒！",
-		"name": "【潜水艦任務】潜水艦、戦闘哨戒！",
+		"name": "[Submarine Quest] Submarines, Combat Patrol!",
 		"desc_jp": "USS潜水艦「Salmon」または「Scamp」を旗艦とした艦隊で、南西諸島沖海域、製油所地帯沿岸、<br>東部オリョール海、北方モーレイ海の戦闘哨戒を実施！各海域の敵艦隊を痛打！これを撃滅せよ！",
-		"desc": "USS潜水艦「Salmon」または「Scamp」を旗艦とした艦隊で、南西諸島沖海域、製油所地帯沿岸、<br>東部オリョール海、北方モーレイ海の戦闘哨戒を実施！各海域の敵艦隊を痛打！これを撃滅せよ！"
+		"desc": "Organize a fleet with Salmon or Scamp as flagship and score an S rank at the boss nodes on 1-2, 1-3, 2-3 and 3-1"
 	},
 	"1101": {
 		"code": "F96",
