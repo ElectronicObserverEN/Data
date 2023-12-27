@@ -8630,5 +8630,18 @@
 		"removed_update_id": null,
 		"season_id": 12,
 		"tracker": ""
+	},
+	{
+		"id": 675,
+		"api_id": 1135,
+		"code": "2312 F3",
+		"name_jp": "【期間限定任務】「連山」に連なる翼",
+		"name_en": "[Time-Limited Quest] Wings Connected To The \"Renzan\"",
+		"desc_jp": "試作大型陸上攻撃機の改良：「深山」(最大改修)x1、さらに「一式陸攻 二二型甲」x1、<br>熟練搭乗員x3、新型航空兵装資材x2を準備！大型攻撃機「深山」の改良を試みよ！",
+		"desc_en": "Have a Shinzan (★max), 1x Type 1 Land-based Attack Aircraft Model 22A, 3x New Model Aerial Armament Material and 2x New Model Armament Material (All resources and Materials will be consumed upon completion)",
+		"added_update_id": 36,
+		"removed_update_id": null,
+		"season_id": 12,
+		"tracker": ""
 	}
 ]
