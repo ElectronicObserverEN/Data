@@ -5791,7 +5791,7 @@
 		"name_jp": "陸戦用装備の艦載運用実戦研究",
 		"name_en": "Research of Ship-borne Land Based Equipment in Actual Combat",
 		"desc_jp": "陸戦用装備の艦載運用研究：水上機母艦または揚陸艦を含む艦隊を編成、西方海域カレー洋リランカ島沖<br>及び中部北海域ピーコック島沖の各作戦において、敵地上戦力と交戦、これを複数回撃破せよ！",
-		"desc_en": "Sortie a fleet with 1 Seaplane Tender/Amphibious Assault Ship and up to 5 additional ships to Worlds 4-5 and 6-4.<br>Obtain an A-rank or higher at each boss node twice.",
+		"desc_en": "Sortie a fleet with 1 Seaplane Tender/Amphibious Assault Ship and up to 5 additional ships to Worlds 4-5 and 6-4. Obtain an A-rank or higher at each boss node twice.",
 		"added_update_id": null,
 		"removed_update_id": null,
 		"season_id": null,
@@ -8616,6 +8616,6 @@
 		"added_update_id": 36,
 		"removed_update_id": null,
 		"season_id": 12,
-		"tracker": "[[990],[],[0,[[2,[[7,18,11],1,true,0]],[2,[[3],1,false,0]],[2,[[2],2,false,0]]]]]"
+		"tracker": "[[990],[[0,[[1,4],6,1]],[0,[[2,1],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]],[0,[[2,4],6,1]]],[0,[[2,[[7,18,11],1,true,0]],[2,[[3],1,false,0]],[2,[[2],2,false,0]]]]]"
 	}
 ]

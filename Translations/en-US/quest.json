@@ -1,5 +1,5 @@
 {
-	"version": "21030385",
+	"version": "21030386",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3120,7 +3120,7 @@
 		"name_jp": "陸戦用装備の艦載運用実戦研究",
 		"name": "Research of Ship-borne Land Based Equipment in Actual Combat",
 		"desc_jp": "陸戦用装備の艦載運用研究：水上機母艦または揚陸艦を含む艦隊を編成、西方海域カレー洋リランカ島沖<br>及び中部北海域ピーコック島沖の各作戦において、敵地上戦力と交戦、これを複数回撃破せよ！",
-		"desc": "Sortie a fleet with 1 Seaplane Tender/Amphibious Assault Ship and up to 5 additional ships to Worlds 4-5 and 6-4.<br>Obtain an A-rank or higher at each boss node twice."
+		"desc": "Sortie a fleet with 1 Seaplane Tender/Amphibious Assault Ship and up to 5 additional ships to Worlds 4-5 and 6-4. Obtain an A-rank or higher at each boss node twice."
 	},
 	"834": {
 		"code": "B83",
