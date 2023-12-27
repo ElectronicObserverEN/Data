@@ -1,5 +1,5 @@
 {
-	"version": "21030383",
+	"version": "21030384",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1723,7 +1723,7 @@
 		"desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and 3 DD in your fleet and score S rank 5 times in PvP"
 	},
 	"361": {
-		"code": "361",
+		"code": "2312 C1",
 		"name_jp": "【年末年始】第一護衛艦隊 特別演習！",
 		"name": "[New Year Holidays] First Escort Fleet Special Exercise!",
 		"desc_jp": "【年末年始特別演習】軽空母級1隻+駆逐艦4隻以上、または海防艦2隻以上(他自由)編成の<br>第一護衛艦隊を編成！本日中に【S判定】勝利を5回以上達成せよ！第一護衛艦隊、特別演習！",
@@ -3578,7 +3578,7 @@
 		"desc": "Have a CV(L/B), a CA(V) and a CL in the fleet and score an S rank on 2-4, 2-5, and 7-2-2 twice each"
 	},
 	"910": {
-		"code": "910",
+		"code": "2312 B1",
 		"name_jp": "【年末年始】鎮守府海域哨戒、警戒を厳に！",
 		"name": "[New Year Holidays] Naval Base Patrol, Strict Vigilance!",
 		"desc_jp": "【年末年始哨戒任務】軽巡1隻、駆逐または海防艦計3隻以上を含む哨戒部隊を鎮守府海域に展開。<br>鎮守府正面海域、南西諸島沖海域、製油所地帯沿岸を反復哨戒。年末年始、近海の警戒も厳に！",
@@ -4004,6 +4004,13 @@
 		"desc_jp": "「鳳翔改二/戦」を旗艦とする艦隊で、南西諸島海域沖ノ島沖、北方AL海域、カレー洋リランカ島沖、<br>南方海域珊瑚諸島沖、中部北海域ピーコック島沖、昭南本土航路に展開！敵戦力を撃滅せよ！",
 		"desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and score an S rank at the boss nodes on 2-5, 3-5, 4-5, 5-2, 6-4 and 7-4"
 	},
+	"990": {
+		"code": "2312 B2",
+		"name_jp": "【年末年始】機動部隊哨戒、南西諸島を防衛せよ！",
+		"name": "[New Year's Holiday] Task Force Patrol, Defend The Nansei Islands",
+		"desc_jp": "【年末年始哨戒任務】航空母艦を旗艦、軽巡1隻駆逐2隻以上を含む機動部隊で、南西諸島防衛線、<br>南西諸島近海、バシー海峡、東部オリョール海、沖ノ島海域を哨戒！南西諸島海域を防衛せよ！",
+		"desc": "Organize a fleet with a CV(L/B) as flagship, 1CL and 2DD in your fleet and score an S rank at the boss nodes on 1-4, 2-1, 2-2, 2-3 and 2-4"
+	},
 	"992": {
 		"code": "2307B1",
 		"name_jp": "「十六駆」出撃！鎮守府海域の安全を確保せよ！",
@@ -4194,7 +4201,7 @@
 		"desc": "Have 3x Zero Fighter Model 21, 3x Zero Fighter Model 52 and 1800 bauxite. Proceed to scrap 4 carrier-based fighters, 4 dive bombers and 4 torpedo bombers (All resources and Materials will be consumed upon completion)"
 	},
 	"1121": {
-		"code": "1121",
+		"code": "2312 F1",
 		"name_jp": "【年末年始】鎮守府大掃除！良いお年を！",
 		"name": "[New Year Holidays] Great cleaning of the military base! Have a great new year!",
 		"desc_jp": "【年末年始鎮守府大掃除】「小口径主砲」「中口径主砲」「水上偵察機」x各8を廃棄。<br>「九六式艦戦」x6、「戦闘糧食」x4、鋼材2,023を準備、提督の皆さん、よいお年を！",
