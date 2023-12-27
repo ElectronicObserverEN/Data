@@ -1,5 +1,5 @@
 {
-	"version": "21030386",
+	"version": "21030387",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4206,6 +4206,13 @@
 		"name": "[New Year Holidays] Great cleaning of the military base! Have a great new year!",
 		"desc_jp": "【年末年始鎮守府大掃除】「小口径主砲」「中口径主砲」「水上偵察機」x各8を廃棄。<br>「九六式艦戦」x6、「戦闘糧食」x4、鋼材2,023を準備、提督の皆さん、よいお年を！",
 		"desc": "Proceed to scrap 8x Small Caliber Guns, 8x Medium Caliber Guns, 8x Seaplanes and have 2023 steel, 6x Type 96 Fighters and 4x Combat ration (All resources and Materials will be consumed upon completion)"
+	},
+	"1122": {
+		"code": "2312 F2",
+		"name_jp": "【年末年始】続:鎮守府年末改修ジャンボ",
+		"name": "[New Year Holidays] Continuation: Year-end Renovation Of The Naval Base Jumbo",
+		"desc_jp": "【年末年始試製任務】旗艦の第一装備スロに最大改修の「25mm単装機銃」(★max) を装備。<br>開発資材x8、高速建造材x8、「九七式艦攻」x8、鉄鋼2,800、弾薬2,800を準備せよ！",
+		"desc": "Have your secretary flagship equip a 25mm Single Autocannon in the first slot and have 8x Type 97 Torpedo Bomber, 8x Development Materials, 8x Instant Construction Materials, 2800x ammo, and 2800x steel (All resources and Materials will be consumed upon completion)"
 	},
 	"1123": {
 		"code": "Fy10",
