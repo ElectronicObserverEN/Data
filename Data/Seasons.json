@@ -64,5 +64,11 @@
 		"name": "New Year Holidays 2024",
 		"added_update_id": 36,
 		"removed_update_id": null
+	},
+	{
+		"id": 14,
+		"name": "New Year 2024",
+		"added_update_id": 38,
+		"removed_update_id": null
 	}
 ]
