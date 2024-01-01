@@ -1,5 +1,5 @@
 {
-	"version": "21030390",
+	"version": "21030391",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2939,6 +2939,20 @@
 		"name": "Happy New Year! Fleet, Weigh Anchor In 2024!",
 		"desc_jp": "旗艦に軽巡級、同随伴艦に駆逐艦2隻以上を含む艦隊で抜錨！南西諸島沖、製油所地帯沿岸、<br>南西諸島防衛線に出撃し、各海域の敵艦隊を一掃せよ！　2024年も静かな海を静かなままに！",
 		"desc": "Organize a fleet with a 1 CL(T)/CT as flagship and 2DD in your fleet and score an A rank at the boss nodes on 1-2, 1-3 and 1-4"
+	},
+	"802": {
+		"code": "2401 B2",
+		"name_jp": "令和六年、艦隊出動！「南西諸島海域」防衛戦",
+		"name": "Reiwa 6th Year, Dispatch The Fleet! Defense Battle For Nansei Islands Area",
+		"desc_jp": "第六駆逐隊「暁」「響」「雷」「電」のうち2隻以上を含む精鋭艦隊で、南西諸島近海、バシー海峡、<br>東部オリョール海、沖ノ島海域に展開！「南西諸島海域」を敵の侵攻から防衛せよ！艦隊、出動！",
+		"desc": "Organize a fleet with any 2 of Akatsuki, Hibiki, Ikazuchi and Inazuma in your fleet and score an S rank at the boss nodes on 2-1, 2-2, 2-3 and 2-4"
+	},
+	"803": {
+		"code": "803",
+		"name_jp": "2024年迎春！海上護衛艦隊、新春の海へ！",
+		"name": "2024年迎春！海上護衛艦隊、新春の海へ！",
+		"desc_jp": "丁型海防艦、潜水母艦、「神鷹」「龍鳳」「瑞鳳」「山汐丸」「大井」「川内」「比叡」「宗谷」のうち2隻<br>を含む艦隊で、鎮守府近海、鎮守府近海航路、昭南本土航路に反復出撃！海上護衛戦を全うせよ！",
+		"desc": "丁型海防艦、潜水母艦、「神鷹」「龍鳳」「瑞鳳」「山汐丸」「大井」「川内」「比叡」「宗谷」のうち2隻<br>を含む艦隊で、鎮守府近海、鎮守府近海航路、昭南本土航路に反復出撃！海上護衛戦を全うせよ！"
 	},
 	"805": {
 		"code": "B58",
