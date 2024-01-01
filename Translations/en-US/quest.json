@@ -1,5 +1,5 @@
 {
-	"version": "21030392",
+	"version": "21030393",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2953,6 +2953,13 @@
 		"name": "2024 New Year Festival! Maritine Escort Fleet Heading To The Sea In New Year!",
 		"desc_jp": "丁型海防艦、潜水母艦、「神鷹」「龍鳳」「瑞鳳」「山汐丸」「大井」「川内」「比叡」「宗谷」のうち2隻<br>を含む艦隊で、鎮守府近海、鎮守府近海航路、昭南本土航路に反復出撃！海上護衛戦を全うせよ！",
 		"desc": "Organize a fleet with any 2 of Shinyou, Ryuuhou, Zuihou, Yamashio Maru, Sendai, Ooi, Hiei, Souya, any type D DE or any AS in your fleet and score an S rank at the boss nodes on 1-5, 7-4 twice each and reach the anchor node N on 1-6 twice"
+	},
+	"804": {
+		"code": "2401 B4",
+		"name_jp": "新春【拡張作戦】一航戦五航戦、新年協同作戦！",
+		"name": "New Year [Extra Operation] New Year Joint Operation Of CarDiv1 And CarDiv5!",
+		"desc_jp": "「赤城」「加賀」及び「翔鶴」「瑞鶴」のうち2隻以上を含む艦隊でカレー洋リランカ島沖、珊瑚諸島沖、<br>サーモン海域北方、タウイタウイ泊地沖深部、中部北海域ピーコック島沖に展開！敵を粉砕せよ！",
+		"desc": "Organize a fleet with any two of Akagi, Kaga, Zuikaku or Shokaku in your fleet and score an S rank at the boss nodes on 7-2 (Part 2), 4-5, 5-2, 5-5 and 6-4."
 	},
 	"805": {
 		"code": "B58",
