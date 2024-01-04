@@ -1,5 +1,5 @@
 {
-	"version": "21030393",
+	"version": "21030394",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4065,7 +4065,7 @@
 		"name_jp": "改装特I型駆逐艦「深雪改二」、出撃せよ！",
 		"name": "Remodelled Special Type I Destroyer [Miyuki Kai Ni], Sortie!",
 		"desc_jp": "改装特I型駆逐艦「深雪改二」及び同僚艦に吹雪型駆逐艦1隻を含む精鋭艦隊で、北方キス島沖、<br>南方サブ島沖海域、中部北海域ピーコック島沖、南西海域ペナン島沖深部の敵戦力を撃滅せよ！",
-		"desc": "Organize a fleet with Miyuki Kai Ni and 1 Fubuki-class in your fleet and score an S rank at the boss nodes on 3-2, 5-3, 6-4 and 7-3 (Part 2)"
+		"desc": "Organize a fleet with Miyuki Kai Ni and another Fubuki-class in your fleet and score an S rank at the boss nodes on 3-2, 5-3, 6-4 and 7-3 (Part 2)"
 	},
 	"996": {
 		"code": "B190",
