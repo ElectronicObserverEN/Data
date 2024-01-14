@@ -3936,7 +3936,8 @@
 		"id": 2484,
 		"api_id": 507,
 		"name_jp": "14inch/45 連装砲",
-		"name_en": "14inch/45 Twin Gun Mount"
+		"name_en": "14inch/45 Twin Gun Mount",
+		"development": true
 	},
 	{
 		"id": 2485,
