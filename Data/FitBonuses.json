@@ -5822,5 +5822,26 @@
 				"bonus": {"houg":1,"kaih":1,"houm":2}
 			}
 		]
+	},
+	{
+		"ids": [
+			506
+		],
+		"bonuses": [
+			{
+				"shipX": [961],
+				"num": 1,
+				"bonus": {"houg":2,"tyku":2,"kaih":4,"houm":3}
+			},
+			{
+				"shipX": [145,497,557,558,656,951],
+				"num": 1,
+				"bonus": {"houg":1,"tyku":1,"kaih":3,"houm":2}
+			},
+			{
+				"shipX": [147,235,407,419,464,470,537,538,578,955,960],
+				"bonus": {"houg":1,"tyku":1,"kaih":2,"houm":1}
+			}
+		]
 	}
 ]
