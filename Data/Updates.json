@@ -339,5 +339,16 @@
 		"live_update": true,
 		"maint_start_tweet": "",
 		"maint_end_tweet": ""
+	},
+	{
+		"id": 39,
+		"start_date": "2024-01-25T00:00:00",
+		"start_time": "11:00:00",
+		"end_time": null,
+		"name": "Mikuma K2 Update",
+		"description": "- Mikuma K2\r\n- End of limited quests",
+		"live_update": false,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1746912068509597943",
+		"maint_end_tweet": ""
 	}
 ]

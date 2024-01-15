@@ -8562,7 +8562,7 @@
 		"desc_jp": "【年末年始特別演習】軽空母級1隻+駆逐艦4隻以上、または海防艦2隻以上(他自由)編成の<br>第一護衛艦隊を編成！本日中に【S判定】勝利を5回以上達成せよ！第一護衛艦隊、特別演習！",
 		"desc_en": "Organize a fleet with either 1CVL and 4DD or 2DE in your fleet and score S rank 5 times in PvP",
 		"added_update_id": 36,
-		"removed_update_id": null,
+		"removed_update_id": 39,
 		"season_id": 12,
 		"tracker": "[[361],[[9,[6,5]]],[1,[[0,[0,[[2,[[7],1,false,0]],[2,[[2],4,false,0]]]]],[2,[[1],2,false,0]]]]]"
 	},
@@ -8588,7 +8588,7 @@
 		"desc_jp": "【年末年始鎮守府大掃除】「小口径主砲」「中口径主砲」「水上偵察機」x各8を廃棄。<br>「九六式艦戦」x6、「戦闘糧食」x4、鋼材2,023を準備、提督の皆さん、よいお年を！",
 		"desc_en": "Proceed to scrap 8x Small Caliber Guns, 8x Medium Caliber Guns, 8x Seaplanes and have 2023 steel, 6x Type 96 Fighters and 4x Combat ration (All resources and Materials will be consumed upon completion)",
 		"added_update_id": 36,
-		"removed_update_id": null,
+		"removed_update_id": 39,
 		"season_id": 12,
 		"tracker": "[[1121],[[4,[1,8]],[4,[2,8]],[4,[10,8]]],[0,[]]]"
 	},
@@ -8601,7 +8601,7 @@
 		"desc_jp": "【年末年始哨戒任務】軽巡1隻、駆逐または海防艦計3隻以上を含む哨戒部隊を鎮守府海域に展開。<br>鎮守府正面海域、南西諸島沖海域、製油所地帯沿岸を反復哨戒。年末年始、近海の警戒も厳に！",
 		"desc_en": "Organize a fleet with 1CL and 3DD/DE in your fleet and score an S rank at the boss nodes on 1-1, 1-2, 1-3 twice each",
 		"added_update_id": 36,
-		"removed_update_id": null,
+		"removed_update_id": 39,
 		"season_id": 12,
 		"tracker": "[[910],[[0,[[1,1],6,2]],[0,[[1,2],6,2]],[0,[[1,3],6,2]]],[0,[[2,[[2,1],3,false,0]],[2,[[3],1,false,0]]]]]"
 	},
@@ -8614,7 +8614,7 @@
 		"desc_jp": "【年末年始哨戒任務】航空母艦を旗艦、軽巡1隻駆逐2隻以上を含む機動部隊で、南西諸島防衛線、<br>南西諸島近海、バシー海峡、東部オリョール海、沖ノ島海域を哨戒！南西諸島海域を防衛せよ！",
 		"desc_en": "Organize a fleet with a CV(L/B) as flagship, 1CL and 2DD in your fleet and score an S rank at the boss nodes on 1-4, 2-1, 2-2, 2-3 and 2-4",
 		"added_update_id": 36,
-		"removed_update_id": null,
+		"removed_update_id": 39,
 		"season_id": 12,
 		"tracker": "[[990],[[0,[[1,4],6,1]],[0,[[2,1],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]],[0,[[2,4],6,1]]],[0,[[2,[[7,18,11],1,true,0]],[2,[[3],1,false,0]],[2,[[2],2,false,0]]]]]"
 	},
@@ -8627,7 +8627,7 @@
 		"desc_jp": "【年末年始試製任務】旗艦の第一装備スロに最大改修の「25mm単装機銃」(★max) を装備。<br>開発資材x8、高速建造材x8、「九七式艦攻」x8、鉄鋼2,800、弾薬2,800を準備せよ！",
 		"desc_en": "Have your secretary flagship equip a 25mm Single Autocannon (★max) in the first slot and have 8x Type 97 Torpedo Bomber, 8x Development Materials, 8x Instant Construction Materials, 2800x ammo, and 2800x steel (All resources and Materials will be consumed upon completion)",
 		"added_update_id": 36,
-		"removed_update_id": null,
+		"removed_update_id": 39,
 		"season_id": 12,
 		"tracker": ""
 	},
@@ -8640,7 +8640,7 @@
 		"desc_jp": "試作大型陸上攻撃機の改良：「深山」(最大改修)x1、さらに「一式陸攻 二二型甲」x1、<br>熟練搭乗員x3、新型航空兵装資材x2を準備！大型攻撃機「深山」の改良を試みよ！",
 		"desc_en": "Have a Shinzan (★max), 1x Type 1 Land-based Attack Aircraft Model 22A, 3x New Model Aerial Armament Material and 2x New Model Armament Material (All resources and Materials will be consumed upon completion)",
 		"added_update_id": 36,
-		"removed_update_id": null,
+		"removed_update_id": 39,
 		"season_id": 12,
 		"tracker": ""
 	},
@@ -8653,7 +8653,7 @@
 		"desc_jp": "旗艦に軽巡級、同随伴艦に駆逐艦2隻以上を含む艦隊で抜錨！南西諸島沖、製油所地帯沿岸、<br>南西諸島防衛線に出撃し、各海域の敵艦隊を一掃せよ！　2024年も静かな海を静かなままに！",
 		"desc_en": "Organize a fleet with a 1 CL(T)/CT as flagship and 2DD in your fleet and score an A rank at the boss nodes on 1-2, 1-3 and 1-4",
 		"added_update_id": 38,
-		"removed_update_id": null,
+		"removed_update_id": 39,
 		"season_id": 14,
 		"tracker": "[[801],[[0,[[1,2],5,1]],[0,[[1,3],5,1]],[0,[[1,4],5,1]]],[0,[[2,[[3,4,21],1,true,0]],[2,[[2],2,false,0]]]]]"
 	},
@@ -8666,7 +8666,7 @@
 		"desc_jp": "第六駆逐隊「暁」「響」「雷」「電」のうち2隻以上を含む精鋭艦隊で、南西諸島近海、バシー海峡、<br>東部オリョール海、沖ノ島海域に展開！「南西諸島海域」を敵の侵攻から防衛せよ！艦隊、出動！",
 		"desc_en": "Organize a fleet with any 2 of Akatsuki, Hibiki, Ikazuchi and Inazuma in your fleet and score an S rank at the boss nodes on 2-1, 2-2, 2-3 and 2-4",
 		"added_update_id": 38,
-		"removed_update_id": null,
+		"removed_update_id": 39,
 		"season_id": 14,
 		"tracker": "[[802],[[0,[[2,1],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]],[0,[[2,4],6,1]]],[0,[[8,[[[34,false,0,0],[35,false,0,0],[36,false,0,0],[37,false,0,0]],2]]]]]"
 	},
@@ -8679,7 +8679,7 @@
 		"desc_jp": "丁型海防艦、潜水母艦、「神鷹」「龍鳳」「瑞鳳」「山汐丸」「大井」「川内」「比叡」「宗谷」のうち2隻<br>を含む艦隊で、鎮守府近海、鎮守府近海航路、昭南本土航路に反復出撃！海上護衛戦を全うせよ！",
 		"desc_en": "Organize a fleet with any 2 of Shinyou, Ryuuhou, Zuihou, Yamashio Maru, Sendai, Ooi, Hiei, Souya, any type D DE or any AS in your fleet and score an S rank at the boss nodes on 1-5, 7-4 twice each and reach the anchor node N on 1-6 twice",
 		"added_update_id": 38,
-		"removed_update_id": null,
+		"removed_update_id": 39,
 		"season_id": 14,
 		"tracker": "[[803],[[0,[[1,5],6,2]],[0,[[7,4],6,2]],[7,[[1,6],2,[14,17],\"N\"]]],[0,[[8,[[[534,false,0,0],[185,false,0,0],[116,false,0,0],[900,false,0,0],[54,false,0,0],[24,false,0,0],[86,false,0,0],[699,false,0,0],[0,false,0,104],[0,false,0,50],[0,false,0,100]],2]]]]]"
 	},
@@ -8692,7 +8692,7 @@
 		"desc_jp": "「赤城」「加賀」及び「翔鶴」「瑞鶴」のうち2隻以上を含む艦隊でカレー洋リランカ島沖、珊瑚諸島沖、<br>サーモン海域北方、タウイタウイ泊地沖深部、中部北海域ピーコック島沖に展開！敵を粉砕せよ！",
 		"desc_en": "Organize a fleet with any two of Akagi, Kaga, Zuikaku or Shokaku in your fleet and score an S rank at the boss nodes on 7-2 (Part 2), 4-5, 5-2, 5-5 and 6-4.",
 		"added_update_id": 38,
-		"removed_update_id": null,
+		"removed_update_id": 39,
 		"season_id": 14,
 		"tracker": "[[804],[[0,[[4,5],6,1]],[0,[[5,2],6,1]],[0,[[5,5],6,1]],[0,[[6,4],6,1]],[2,[[7,2],6,1,[15],\"-2\"]]],[0,[[8,[[[83,false,0,0],[84,false,0,0],[110,false,0,0],[111,false,0,0]],2]]]]]"
 	}
