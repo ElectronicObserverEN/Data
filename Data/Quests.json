@@ -8198,7 +8198,7 @@
 		"desc_jp": "【期間限定任務】「天津風」「雪風」「時津風」「初風」のうち2隻以上を含む艦隊で、製油所地帯沿岸、<br>南西諸島防衛線、鎮守府近海の反復哨戒を実施！鎮守府海域の安全を確保、作戦準備に備えよ！",
 		"desc_en": "Organize a fleet with at least two of Yukikaze, Tokitsukaze, Hatsukaze and Amatsukaze in your fleet and score an S rank at the boss nodes on 1-3, 1-4 and 1-5 three times each",
 		"added_update_id": 25,
-		"removed_update_id": null,
+		"removed_update_id": 40,
 		"season_id": null,
 		"tracker": "[[992],[[0,[[1,3],6,3]],[0,[[1,4],6,3]],[0,[[1,5],6,3]]],[0,[[8,[[[190,false,0,0],[20,false,0,0],[181,false,0,0],[186,false,0,0]],2]]]]]"
 	},
@@ -8237,7 +8237,7 @@
 		"desc_jp": "【期間限定任務】旗艦に戦艦級、夕雲型駆逐艦2隻以上を含む主力艦隊を編成！ 南西諸島沖、<br>南西諸島防衛線、バシー海峡、東部オリョール海、沖ノ島海域に出撃！ 敵主力艦隊を撃滅せよ！",
 		"desc_en": "Organize a fleet with a Battleship as flagship and two Yuugumo-class Destroyers in your fleet and score an S rank at the boss nodes on 1-2, 1-4, 2-2, 2-3 and 2-4",
 		"added_update_id": 25,
-		"removed_update_id": null,
+		"removed_update_id": 40,
 		"season_id": null,
 		"tracker": "[[994],[[0,[[1,2],6,1]],[0,[[1,4],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]],[0,[[2,4],6,1]]],[0,[[2,[[9,10,8],1,true,0]],[8,[[[0,false,0,38]],2]]]]]"
 	},
@@ -8640,7 +8640,7 @@
 		"desc_jp": "試作大型陸上攻撃機の改良：「深山」(最大改修)x1、さらに「一式陸攻 二二型甲」x1、<br>熟練搭乗員x3、新型航空兵装資材x2を準備！大型攻撃機「深山」の改良を試みよ！",
 		"desc_en": "Have a Shinzan (★max), 1x Type 1 Land-based Attack Aircraft Model 22A, 3x New Model Aerial Armament Material and 2x New Model Armament Material (All resources and Materials will be consumed upon completion)",
 		"added_update_id": 36,
-		"removed_update_id": 39,
+		"removed_update_id": 41,
 		"season_id": 12,
 		"tracker": ""
 	},

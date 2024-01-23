@@ -350,5 +350,27 @@
 		"live_update": false,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1746912068509597943",
 		"maint_end_tweet": ""
+	},
+	{
+		"id": 40,
+		"start_date": null,
+		"start_time": null,
+		"end_time": null,
+		"name": "Winter 2024 Event Start",
+		"description": "",
+		"live_update": false,
+		"maint_start_tweet": "",
+		"maint_end_tweet": ""
+	},
+	{
+		"id": 41,
+		"start_date": null,
+		"start_time": null,
+		"end_time": null,
+		"name": "Winter 2024 Event End",
+		"description": "",
+		"live_update": false,
+		"maint_start_tweet": "",
+		"maint_end_tweet": ""
 	}
 ]
