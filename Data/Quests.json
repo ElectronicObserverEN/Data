@@ -8795,9 +8795,9 @@
 		"name_en": "[Setsubun Mission: Eho] Reiwa 6th Year Setsubun Expedition",
 		"desc_jp": "節分遠征任務：「タンカー護衛任務」「対潜警戒任務」「海上護衛任務」<br>「北号作戦」「長時間対潜警戒」「囮機動部隊支援作戦」の各遠征を成功させよ！",
 		"desc_en": "Complete expeditions 04, 05, 09, A3, 15 and 19",
-		"added_update_id": null,
+		"added_update_id": 39,
 		"removed_update_id": null,
-		"season_id": null,
+		"season_id": 15,
 		"tracker": "[[441],[[1,[[4],1]],[1,[[5],1]],[1,[[102],1]],[1,[[9],1]],[1,[[15],1]],[1,[[19],1]]],[0,[]]]"
 	}
 ]
