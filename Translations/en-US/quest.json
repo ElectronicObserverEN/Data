@@ -1,5 +1,5 @@
 {
-	"version": "21030398",
+	"version": "21030399",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -3178,6 +3178,13 @@
 		"desc_jp": "節分任務：旗艦及び二番艦に「鳳翔」「阿賀野」「浦波」「深雪」「朧」「潮」「清霜」「風雲」「朝霜」<br>「峯雲」「迅鯨」「長鯨」を配備、鎮守府正面海域、製油所地帯沿岸、南西諸島防衛線を節分反復哨戒せよ！",
 		"desc": "Organize a fleet with two of Houshou, Agano, Uranami, Miyuki, Oboro, Ushio, Kiyoshimo, Kazagumo, Asashimo, Minegumo, Jingei, Chougei as flagship and second ship and score an S rank at the boss nodes on 1-1, 1-3 and 1-4 twice each"
 	},
+	"841": {
+		"code": "2401 B6",
+		"name_jp": "【節分任務:鬼】南西方面節分作戦二〇二四",
+		"name": "[Sestubun Mission: Oni] Setsubun Operation, 2024!",
+		"desc_jp": "節分任務：旗艦及び二番艦に 「Ranger」「Johnston」「早霜」「神鷹」「大淀」「明石」「天霧」「狭霧」<br>「瑞穂」「Commandant Teste」を配備、南西諸島近海、バシー海峡、昭南本土航路を反復哨戒せよ！",
+		"desc": "Organize a fleet with two of Ranger, Johnston, Hayashimo, Shin'you, Ooyodo, Akashi, Amagiri, Sagiri, Mizuho and Commandant Teste as flagship and second ship and score an S rank at the boss nodes on 2-1, 2-2 and 7-4 twice each"
+	},
 	"842": {
 		"code": "B89",
 		"name_jp": "主力戦艦戦隊、抜錨せよ！",
@@ -4082,7 +4089,7 @@
 		"desc": "Organize a fleet with Mikuma Kai Ni or Kai Ni Toku as flagship and score an S rank at the boss nodes on 2-3, 2-4, 4-5 and 6-4"
 	},
 	"1005": {
-		"code": "1005",
+		"code": "By13",
 		"name_jp": "精強「第七駆逐隊」緊急出動！",
 		"name": "Powerful! DesDiv7, Emergency sortie!",
 		"desc_jp": "第七駆逐隊出撃任務：全艦一次改装以上の第七駆逐隊4隻を含む艦隊で、南西諸島沖海域、<br>製油所地帯沿岸、鎮守府近海、北方海域キス島沖を哨戒、敵戦力を捕捉、これを撃破せよ！",

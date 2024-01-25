@@ -8751,14 +8751,27 @@
 	{
 		"id": 684,
 		"api_id": 1005,
-		"code": "1005",
+		"code": "By13",
 		"name_jp": "精強「第七駆逐隊」緊急出動！",
 		"name_en": "Powerful! DesDiv7, Emergency sortie!",
 		"desc_jp": "第七駆逐隊出撃任務：全艦一次改装以上の第七駆逐隊4隻を含む艦隊で、南西諸島沖海域、<br>製油所地帯沿岸、鎮守府近海、北方海域キス島沖を哨戒、敵戦力を捕捉、これを撃破せよ！",
 		"desc_en": "Organize a fleet with Oboro Kai, Akebono Kai, Sazanami Kai and Ushio Kai (Second remodel is also allowed) in your fleet and score an S rank at the boss nodes on 1-2, 1-3, 1-5 and 3-2",
-		"added_update_id": null,
+		"added_update_id": 39,
 		"removed_update_id": null,
 		"season_id": null,
 		"tracker": "[[1005],[[0,[[1,2],6,1]],[0,[[1,3],6,1]],[0,[[1,5],6,1]],[0,[[3,2],6,1]]],[0,[[7,[230,false,1,0]],[7,[231,false,1,0]],[7,[232,false,1,0]],[7,[233,false,1,0]]]]]"
+	},
+	{
+		"id": 685,
+		"api_id": 841,
+		"code": "2401 B6",
+		"name_jp": "【節分任務:鬼】南西方面節分作戦二〇二四",
+		"name_en": "[Sestubun Mission: Oni] Setsubun Operation, 2024!",
+		"desc_jp": "節分任務：旗艦及び二番艦に 「Ranger」「Johnston」「早霜」「神鷹」「大淀」「明石」「天霧」「狭霧」<br>「瑞穂」「Commandant Teste」を配備、南西諸島近海、バシー海峡、昭南本土航路を反復哨戒せよ！",
+		"desc_en": "Organize a fleet with two of Ranger, Johnston, Hayashimo, Shin'you, Ooyodo, Akashi, Amagiri, Sagiri, Mizuho and Commandant Teste as flagship and second ship and score an S rank at the boss nodes on 2-1, 2-2 and 7-4 twice each",
+		"added_update_id": 39,
+		"removed_update_id": null,
+		"season_id": 15,
+		"tracker": "[[841],[[0,[[2,1],6,2]],[0,[[2,2],6,2]],[0,[[7,4],6,2]]],[0,[[0,[1,[[5,[931,1,0]],[5,[562,1,0]],[5,[409,1,0]],[5,[534,1,0]],[5,[183,1,0]],[5,[182,1,0]],[5,[479,1,0]],[5,[480,1,0]],[5,[451,1,0]],[5,[491,1,0]]]]],[0,[1,[[5,[931,2,0]],[5,[562,2,0]],[5,[409,2,0]],[5,[534,2,0]],[5,[183,2,0]],[5,[182,2,0]],[5,[479,2,0]],[5,[480,2,0]],[5,[451,2,0]],[5,[491,2,0]]]]]]]]"
 	}
 ]
