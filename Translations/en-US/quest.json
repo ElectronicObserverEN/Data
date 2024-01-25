@@ -1,5 +1,5 @@
 {
-	"version": "21030395",
+	"version": "21030396",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1722,13 +1722,6 @@
 		"desc_jp": "改装を完了した航空母艦「鳳翔改二」または同戦力投射母艦「鳳翔改二戦」を旗艦、そして<br>駆逐艦3隻以上を含む演習艦隊を編成！本日中に【S判定】勝利を5回以上達成せよ！",
 		"desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and 3 DD in your fleet and score S rank 5 times in PvP"
 	},
-	"361": {
-		"code": "2312 C1",
-		"name_jp": "【年末年始】第一護衛艦隊 特別演習！",
-		"name": "[New Year Holidays] First Escort Fleet Special Exercise!",
-		"desc_jp": "【年末年始特別演習】軽空母級1隻+駆逐艦4隻以上、または海防艦2隻以上(他自由)編成の<br>第一護衛艦隊を編成！本日中に【S判定】勝利を5回以上達成せよ！第一護衛艦隊、特別演習！",
-		"desc": "Organize a fleet with either 1CVL and 4DD or 2DE in your fleet and score S rank 5 times in PvP"
-	},
 	"362": {
 		"code": "Cy10",
 		"name_jp": "特型初代「第十一駆逐隊」演習スペシャル！",
@@ -2933,34 +2926,6 @@
 		"desc_jp": "最上型近代化改修：鋼材1,200及び弾薬1,200を準備、「最上型」を近代化改修！<br>[重巡級]x4隻同時使用で2回成功させよ！※任務達成後、準備資源は消費します。",
 		"desc": "Have 1,200 Steel, 1,200 Ammo and modernize a Mogami-class Heavy/Aviation Cruiser with 4 CAs at once twice."
 	},
-	"801": {
-		"code": "2401 B1",
-		"name_jp": "謹賀新年！2024年、艦隊抜錨せよ！",
-		"name": "Happy New Year! Fleet, Weigh Anchor In 2024!",
-		"desc_jp": "旗艦に軽巡級、同随伴艦に駆逐艦2隻以上を含む艦隊で抜錨！南西諸島沖、製油所地帯沿岸、<br>南西諸島防衛線に出撃し、各海域の敵艦隊を一掃せよ！　2024年も静かな海を静かなままに！",
-		"desc": "Organize a fleet with a 1 CL(T)/CT as flagship and 2DD in your fleet and score an A rank at the boss nodes on 1-2, 1-3 and 1-4"
-	},
-	"802": {
-		"code": "2401 B2",
-		"name_jp": "令和六年、艦隊出動！「南西諸島海域」防衛戦",
-		"name": "Reiwa 6th Year, Dispatch The Fleet! Defense Battle For Nansei Islands Area",
-		"desc_jp": "第六駆逐隊「暁」「響」「雷」「電」のうち2隻以上を含む精鋭艦隊で、南西諸島近海、バシー海峡、<br>東部オリョール海、沖ノ島海域に展開！「南西諸島海域」を敵の侵攻から防衛せよ！艦隊、出動！",
-		"desc": "Organize a fleet with any 2 of Akatsuki, Hibiki, Ikazuchi and Inazuma in your fleet and score an S rank at the boss nodes on 2-1, 2-2, 2-3 and 2-4"
-	},
-	"803": {
-		"code": "2401 B3",
-		"name_jp": "2024年迎春！海上護衛艦隊、新春の海へ！",
-		"name": "2024 New Year Festival! Maritine Escort Fleet Heading To The Sea In New Year!",
-		"desc_jp": "丁型海防艦、潜水母艦、「神鷹」「龍鳳」「瑞鳳」「山汐丸」「大井」「川内」「比叡」「宗谷」のうち2隻<br>を含む艦隊で、鎮守府近海、鎮守府近海航路、昭南本土航路に反復出撃！海上護衛戦を全うせよ！",
-		"desc": "Organize a fleet with any 2 of Shinyou, Ryuuhou, Zuihou, Yamashio Maru, Sendai, Ooi, Hiei, Souya, any type D DE or any AS in your fleet and score an S rank at the boss nodes on 1-5, 7-4 twice each and reach the anchor node N on 1-6 twice"
-	},
-	"804": {
-		"code": "2401 B4",
-		"name_jp": "新春【拡張作戦】一航戦五航戦、新年協同作戦！",
-		"name": "New Year [Extra Operation] New Year Joint Operation Of CarDiv1 And CarDiv5!",
-		"desc_jp": "「赤城」「加賀」及び「翔鶴」「瑞鶴」のうち2隻以上を含む艦隊でカレー洋リランカ島沖、珊瑚諸島沖、<br>サーモン海域北方、タウイタウイ泊地沖深部、中部北海域ピーコック島沖に展開！敵を粉砕せよ！",
-		"desc": "Organize a fleet with any two of Akagi, Kaga, Zuikaku or Shokaku in your fleet and score an S rank at the boss nodes on 7-2 (Part 2), 4-5, 5-2, 5-5 and 6-4."
-	},
 	"805": {
 		"code": "B58",
 		"name_jp": "旗艦「霞」北方海域を哨戒せよ！",
@@ -3605,13 +3570,6 @@
 		"desc_jp": "【桃の節句作戦】航空母艦1隻以上、重巡または航空巡洋艦1隻以上、軽巡1隻以上を含む精強艦隊で、<br>南西諸島海域沖ノ島海域、沖ノ島沖、タウイタウイ泊地沖深部に反復出撃、敵艦隊主力を撃滅せよ！",
 		"desc": "Have a CV(L/B), a CA(V) and a CL in the fleet and score an S rank on 2-4, 2-5, and 7-2-2 twice each"
 	},
-	"910": {
-		"code": "2312 B1",
-		"name_jp": "【年末年始】鎮守府海域哨戒、警戒を厳に！",
-		"name": "[New Year Holidays] Naval Base Patrol, Strict Vigilance!",
-		"desc_jp": "【年末年始哨戒任務】軽巡1隻、駆逐または海防艦計3隻以上を含む哨戒部隊を鎮守府海域に展開。<br>鎮守府正面海域、南西諸島沖海域、製油所地帯沿岸を反復哨戒。年末年始、近海の警戒も厳に！",
-		"desc": "Organize a fleet with 1CL and 3DD/DE in your fleet and score an S rank at the boss nodes on 1-1, 1-2, 1-3 twice each"
-	},
 	"911": {
 		"code": "B142 ",
 		"name_jp": "再編「第三一駆逐隊」、抜錨せよ！",
@@ -4032,13 +3990,6 @@
 		"desc_jp": "「鳳翔改二/戦」を旗艦とする艦隊で、南西諸島海域沖ノ島沖、北方AL海域、カレー洋リランカ島沖、<br>南方海域珊瑚諸島沖、中部北海域ピーコック島沖、昭南本土航路に展開！敵戦力を撃滅せよ！",
 		"desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and score an S rank at the boss nodes on 2-5, 3-5, 4-5, 5-2, 6-4 and 7-4"
 	},
-	"990": {
-		"code": "2312 B2",
-		"name_jp": "【年末年始】機動部隊哨戒、南西諸島を防衛せよ！",
-		"name": "[New Year's Holiday] Task Force Patrol, Defend The Nansei Islands",
-		"desc_jp": "【年末年始哨戒任務】航空母艦を旗艦、軽巡1隻駆逐2隻以上を含む機動部隊で、南西諸島防衛線、<br>南西諸島近海、バシー海峡、東部オリョール海、沖ノ島海域を哨戒！南西諸島海域を防衛せよ！",
-		"desc": "Organize a fleet with a CV(L/B) as flagship, 1CL and 2DD in your fleet and score an S rank at the boss nodes on 1-4, 2-1, 2-2, 2-3 and 2-4"
-	},
 	"992": {
 		"code": "2307B1",
 		"name_jp": "「十六駆」出撃！鎮守府海域の安全を確保せよ！",
@@ -4227,20 +4178,6 @@
 		"name": "[Model Consolidation] Mass Production Plan For New Fighter",
 		"desc_jp": "「艦上戦闘機」「艦上爆撃機」「艦上攻撃機」各x4を廃棄、「零式艦戦21型」x3、「零式艦戦52型」x3<br>ボーキサイト1,800を準備せよ！(任務達成後、準備した装備・ボーキサイトは消費します)",
 		"desc": "Have 3x Zero Fighter Model 21, 3x Zero Fighter Model 52 and 1800 bauxite. Proceed to scrap 4 carrier-based fighters, 4 dive bombers and 4 torpedo bombers (All resources and Materials will be consumed upon completion)"
-	},
-	"1121": {
-		"code": "2312 F1",
-		"name_jp": "【年末年始】鎮守府大掃除！良いお年を！",
-		"name": "[New Year Holidays] Great cleaning of the military base! Have a great new year!",
-		"desc_jp": "【年末年始鎮守府大掃除】「小口径主砲」「中口径主砲」「水上偵察機」x各8を廃棄。<br>「九六式艦戦」x6、「戦闘糧食」x4、鋼材2,023を準備、提督の皆さん、よいお年を！",
-		"desc": "Proceed to scrap 8x Small Caliber Guns, 8x Medium Caliber Guns, 8x Seaplanes and have 2023 steel, 6x Type 96 Fighters and 4x Combat ration (All resources and Materials will be consumed upon completion)"
-	},
-	"1122": {
-		"code": "2312 F2",
-		"name_jp": "【年末年始】続:鎮守府年末改修ジャンボ",
-		"name": "[New Year Holidays] Continuation: Year-end Renovation Of The Naval Base Jumbo",
-		"desc_jp": "【年末年始試製任務】旗艦の第一装備スロに最大改修の「25mm単装機銃」(★max) を装備。<br>開発資材x8、高速建造材x8、「九七式艦攻」x8、鉄鋼2,800、弾薬2,800を準備せよ！",
-		"desc": "Have your secretary flagship equip a 25mm Single Autocannon (★max) in the first slot and have 8x Type 97 Torpedo Bomber, 8x Development Materials, 8x Instant Construction Materials, 2800x ammo, and 2800x steel (All resources and Materials will be consumed upon completion)"
 	},
 	"1123": {
 		"code": "Fy10",
