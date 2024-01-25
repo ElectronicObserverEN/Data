@@ -1,5 +1,5 @@
 {
-	"version": "21030264",
+	"version": "21030265",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -517,6 +517,7 @@
 		"逆探(E27)+22号対水上電探改四(後期調整型)": "Passive Radiolocator (E27) + Type 22 Surface Radar Kai 4 (Calibrated Late Model)",
 		"14cm連装砲改二": "14cm Twin Gun Kai Ni",
 		"SJレーダー+潜水艦司令塔装備": "SJ Radar + Submarine Conning Tower Equipment",
+		"試製20.3cm(4号)連装砲": "Prototype 20.3cm (no.4) Twin Gun Mount",
 		"5inch単装砲": "5inch Single Gun",
 		"5inch連装砲": "5inch Twin Gun",
 		"3inch単装高角砲": "3inch Single High-angle",
@@ -653,7 +654,7 @@
 		"深海水中探信儀 & 深海調整電探": "Abyssal Active Sonar & Abyssal Calibrated Radar",
 		"深海観測阻塞気球": "Abyssal Observation Barrage Balloon",
 		"深海標準14inch/45 連装砲": "Abyssal Standard 14inch/45 Twin Gun Mount",
-		" 深海標準14inch/45 三連装砲": "Abyssal Standard 14inch/45 Triple Gun Mount",
+		"深海標準14inch/45 三連装砲": "Abyssal Standard 14inch/45 Triple Gun Mount",
 		"深海3.7cm FlaK": "Abyssal 3.7cm FlaK"
 	},
 	"equiptype": {
