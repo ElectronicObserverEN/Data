@@ -1,5 +1,5 @@
 {
-	"version": "21030397",
+	"version": "21030398",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4080,6 +4080,13 @@
 		"name": "Remodeled Aviation Cruiser [Mikuma], Forward!",
 		"desc_jp": "旗艦に改装航空巡洋艦「三隈改二/改二特」を配備した艦隊で、南西諸島海域東部オリョール海、<br>沖ノ島海域、西方海域カレー洋リランカ島沖、中部北海域ピーコック島沖に展開、敵艦隊を撃滅せよ！",
 		"desc": "Organize a fleet with Mikuma Kai Ni or Kai Ni Toku as flagship and score an S rank at the boss nodes on 2-3, 2-4, 4-5 and 6-4"
+	},
+	"1005": {
+		"code": "1005",
+		"name_jp": "精強「第七駆逐隊」緊急出動！",
+		"name": "Powerful! DesDiv7, Emergency sortie!",
+		"desc_jp": "第七駆逐隊出撃任務：全艦一次改装以上の第七駆逐隊4隻を含む艦隊で、南西諸島沖海域、<br>製油所地帯沿岸、鎮守府近海、北方海域キス島沖を哨戒、敵戦力を捕捉、これを撃破せよ！",
+		"desc": "Organize a fleet with Oboro Kai, Akebono Kai, Sazanami Kai and Ushio Kai (Second remodel is also allowed) in your fleet and score an S rank at the boss nodes on 1-2, 1-3, 1-5 and 3-2"
 	},
 	"1101": {
 		"code": "F96",
