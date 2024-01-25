@@ -1,5 +1,5 @@
 {
-	"version": "21030396",
+	"version": "21030397",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -664,6 +664,13 @@
 		"name": "Main Force of the Main Force, Powerful \"DesDiv 10\", ready to sortie!",
 		"desc_jp": "第十駆逐隊編成任務：改装甲型駆逐艦「夕雲改二」「巻雲改二」「風雲改二」、そして「秋雲改二」の<br>4隻から成る完全編成の最精強「第十駆逐隊」(4隻編成)を編成せよ！",
 		"desc": "Assemble a fleet containing only Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni, and Akigumo Kai Ni"
+	},
+	"198": {
+		"code": "A94",
+		"name_jp": "精強！「第七駆逐隊」抜錨準備せよ！",
+		"name": "Powerful! DesDiv7, prepare to weigh anchor!",
+		"desc_jp": "第七駆逐隊編成任務：全艦一次改装を終えた第七駆逐隊「朧改」「漣改」「曙改」「潮改」<br>(改二改装以降も可)による精強七駆(4隻編成)を編成せよ！",
+		"desc": "Assemble a fleet containing Oboro Kai, Akebono Kai, Sazanami Kai and Ushio Kai. Second remodel version of them is also allowed."
 	},
 	"201": {
 		"code": "Bd1",
@@ -1525,6 +1532,13 @@
 		"name": "Elite 17th Destroyer Division, Begin the Intense Training!",
 		"desc_jp": "駆逐隊演習任務：精強「第十七駆逐隊」4隻を含む艦隊を編成。新改装精強駆逐隊による<br>猛特訓を開始する！同艦隊で、本日中に演習で4回以上勝利せよ！",
 		"desc": "Use a fleet with Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai, Tanikaze D Kai, and up to 2 additional ships to obtain a B-rank (or higher) in Exercises 4 times within the same day."
+	},
+	"329": {
+		"code": "2401 C1",
+		"name_jp": "【節分任務:枡】節分演習！二〇二四",
+		"name": "[Sestubun Mission: Masu] Setsubun Exercises, 2024!",
+		"desc_jp": "節分任務：重巡洋艦級2隻、随伴に駆逐艦または海防艦計3隻を含む節分特別演習艦隊を編成、<br>同演習艦隊を以て、節分特別演習を実施！本日中に同演習において4回以上勝利せよ！",
+		"desc": "Organize a fleet with 2 CA(V) and 3 DD/DE in your fleet and score A+ rank 4 times in PvP"
 	},
 	"330": {
 		"code": "Cq1",
@@ -3157,6 +3171,13 @@
 		"desc_jp": "戦艦2隻を中核戦力とする戦艦旗艦の艦隊を北方海域アルフォンシーノ方面に進出させ、<br>同海域の敵艦隊を撃滅、北方海域の制海権確保に努めよ！",
 		"desc": "Sortie two BB (one as flagship) and four wildcard and score an S-rank victory against World 3-3 Boss."
 	},
+	"840": {
+		"code": "2401 B5",
+		"name_jp": "【節分任務:豆】節分作戦二〇二四",
+		"name": "[Sestubun Mission: Mame] Setsubun Operation, 2024!",
+		"desc_jp": "節分任務：旗艦及び二番艦に「鳳翔」「阿賀野」「浦波」「深雪」「朧」「潮」「清霜」「風雲」「朝霜」<br>「峯雲」「迅鯨」「長鯨」を配備、鎮守府正面海域、製油所地帯沿岸、南西諸島防衛線を節分反復哨戒せよ！",
+		"desc": "Organize a fleet with two of Houshou, Agano, Uranami, Miyuki, Oboro, Ushio, Kiyoshimo, Kazagumo, Asashimo, Minegumo, Jingei, Chougei as flagship and second ship and score an S rank at the boss nodes on 1-1, 1-3 and 1-4 twice each"
+	},
 	"842": {
 		"code": "B89",
 		"name_jp": "主力戦艦戦隊、抜錨せよ！",
@@ -4052,6 +4073,13 @@
 		"name": "[Submarine Quest] Submarines, Combat Patrol!",
 		"desc_jp": "USS潜水艦「Salmon」または「Scamp」を旗艦とした艦隊で、南西諸島沖海域、製油所地帯沿岸、<br>東部オリョール海、北方モーレイ海の戦闘哨戒を実施！各海域の敵艦隊を痛打！これを撃滅せよ！",
 		"desc": "Organize a fleet with Salmon or Scamp as flagship and score an S rank at the boss nodes on 1-2, 1-3, 2-3 and 3-1"
+	},
+	"1004": {
+		"code": "B196",
+		"name_jp": "改装航空巡洋艦「三隈」、進発せよ！",
+		"name": "Remodeled Aviation Cruiser [Mikuma], Forward!",
+		"desc_jp": "旗艦に改装航空巡洋艦「三隈改二/改二特」を配備した艦隊で、南西諸島海域東部オリョール海、<br>沖ノ島海域、西方海域カレー洋リランカ島沖、中部北海域ピーコック島沖に展開、敵艦隊を撃滅せよ！",
+		"desc": "Organize a fleet with Mikuma Kai Ni or Kai Ni Toku as flagship and score an S rank at the boss nodes on 2-3, 2-4, 4-5 and 6-4"
 	},
 	"1101": {
 		"code": "F96",

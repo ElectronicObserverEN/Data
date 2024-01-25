@@ -8699,12 +8699,12 @@
 	{
 		"id": 680,
 		"api_id": 198,
-		"code": "198",
+		"code": "A94",
 		"name_jp": "精強！「第七駆逐隊」抜錨準備せよ！",
-		"name_en": "精強！「第七駆逐隊」抜錨準備せよ！",
+		"name_en": "Powerful! DesDiv7, prepare to weigh anchor!",
 		"desc_jp": "第七駆逐隊編成任務：全艦一次改装を終えた第七駆逐隊「朧改」「漣改」「曙改」「潮改」<br>(改二改装以降も可)による精強七駆(4隻編成)を編成せよ！",
-		"desc_en": "第七駆逐隊編成任務：全艦一次改装を終えた第七駆逐隊「朧改」「漣改」「曙改」「潮改」<br>(改二改装以降も可)による精強七駆(4隻編成)を編成せよ！",
-		"added_update_id": null,
+		"desc_en": "Assemble a fleet containing Oboro Kai, Akebono Kai, Sazanami Kai and Ushio Kai. Second remodel version of them is also allowed.",
+		"added_update_id": 39,
 		"removed_update_id": null,
 		"season_id": null,
 		"tracker": ""
@@ -8712,9 +8712,9 @@
 	{
 		"id": 681,
 		"api_id": 329,
-		"code": "329",
+		"code": "2401 C1",
 		"name_jp": "【節分任務:枡】節分演習！二〇二四",
-		"name_en": "【節分任務:枡】節分演習！二〇二四",
+		"name_en": "[Sestubun Mission: Masu] Setsubun Exercises, 2024!",
 		"desc_jp": "節分任務：重巡洋艦級2隻、随伴に駆逐艦または海防艦計3隻を含む節分特別演習艦隊を編成、<br>同演習艦隊を以て、節分特別演習を実施！本日中に同演習において4回以上勝利せよ！",
 		"desc_en": "Organize a fleet with 2 CA(V) and 3 DD/DE in your fleet and score A+ rank 4 times in PvP",
 		"added_update_id": 39,
@@ -8725,27 +8725,27 @@
 	{
 		"id": 682,
 		"api_id": 840,
-		"code": "840",
+		"code": "2401 B5",
 		"name_jp": "【節分任務:豆】節分作戦二〇二四",
-		"name_en": "【節分任務:豆】節分作戦二〇二四",
+		"name_en": "[Sestubun Mission: Mame] Setsubun Operation, 2024!",
 		"desc_jp": "節分任務：旗艦及び二番艦に「鳳翔」「阿賀野」「浦波」「深雪」「朧」「潮」「清霜」「風雲」「朝霜」<br>「峯雲」「迅鯨」「長鯨」を配備、鎮守府正面海域、製油所地帯沿岸、南西諸島防衛線を節分反復哨戒せよ！",
-		"desc_en": "節分任務：旗艦及び二番艦に「鳳翔」「阿賀野」「浦波」「深雪」「朧」「潮」「清霜」「風雲」「朝霜」<br>「峯雲」「迅鯨」「長鯨」を配備、鎮守府正面海域、製油所地帯沿岸、南西諸島防衛線を節分反復哨戒せよ！",
-		"added_update_id": null,
+		"desc_en": "Organize a fleet with two of Houshou, Agano, Uranami, Miyuki, Oboro, Ushio, Kiyoshimo, Kazagumo, Asashimo, Minegumo, Jingei, Chougei as flagship and second ship and score an S rank at the boss nodes on 1-1, 1-3 and 1-4 twice each",
+		"added_update_id": 39,
 		"removed_update_id": null,
-		"season_id": null,
-		"tracker": ""
+		"season_id": 15,
+		"tracker": "[[840],[[0,[[1,1],6,2]],[0,[[1,3],6,2]],[0,[[1,4],6,2]]],[0,[[0,[1,[[5,[89,1,0]],[5,[137,1,0]],[5,[486,1,0]],[5,[11,1,0]],[5,[93,1,0]],[5,[16,1,0]],[5,[410,1,0]],[5,[453,1,0]],[5,[425,1,0]],[5,[583,1,0]],[5,[634,1,0]],[5,[635,1,0]]]]],[0,[1,[[5,[89,2,0]],[5,[137,2,0]],[5,[486,2,0]],[5,[11,2,0]],[5,[93,2,0]],[5,[16,2,0]],[5,[410,2,0]],[5,[453,2,0]],[5,[425,2,0]],[5,[583,2,0]],[5,[634,2,0]],[5,[635,2,0]]]]]]]]"
 	},
 	{
 		"id": 683,
 		"api_id": 1004,
-		"code": "1004",
+		"code": "B196",
 		"name_jp": "改装航空巡洋艦「三隈」、進発せよ！",
-		"name_en": "改装航空巡洋艦「三隈」、進発せよ！",
+		"name_en": "Remodeled Aviation Cruiser [Mikuma], Forward!",
 		"desc_jp": "旗艦に改装航空巡洋艦「三隈改二/改二特」を配備した艦隊で、南西諸島海域東部オリョール海、<br>沖ノ島海域、西方海域カレー洋リランカ島沖、中部北海域ピーコック島沖に展開、敵艦隊を撃滅せよ！",
-		"desc_en": "旗艦に改装航空巡洋艦「三隈改二/改二特」を配備した艦隊で、南西諸島海域東部オリョール海、<br>沖ノ島海域、西方海域カレー洋リランカ島沖、中部北海域ピーコック島沖に展開、敵艦隊を撃滅せよ！",
-		"added_update_id": null,
+		"desc_en": "Organize a fleet with Mikuma Kai Ni or Kai Ni Toku as flagship and score an S rank at the boss nodes on 2-3, 2-4, 4-5 and 6-4",
+		"added_update_id": 39,
 		"removed_update_id": null,
 		"season_id": null,
-		"tracker": ""
+		"tracker": "[[1004],[[0,[[2,3],6,1]],[0,[[2,4],6,1]],[0,[[4,5],6,1]],[0,[[6,4],6,1]]],[0,[[7,[502,true,1,0]]]]]"
 	}
 ]
