@@ -344,7 +344,7 @@
 		"id": 39,
 		"start_date": "2024-01-25T00:00:00",
 		"start_time": "11:00:00",
-		"end_time": null,
+		"end_time": "20:00:00",
 		"name": "Mikuma K2 Update",
 		"description": "- Mikuma K2\r\n- End of limited quests",
 		"live_update": false,
