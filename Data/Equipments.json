@@ -4015,7 +4015,7 @@
 	{
 		"id": 2497,
 		"api_id": 1642,
-		"name_jp": " 深海標準14inch/45 三連装砲",
+		"name_jp": "深海標準14inch/45 三連装砲",
 		"name_en": "Abyssal Standard 14inch/45 Triple Gun Mount"
 	},
 	{
@@ -4041,5 +4041,11 @@
 		"api_id": 519,
 		"name_jp": "SJレーダー+潜水艦司令塔装備",
 		"name_en": "SJ Radar + Submarine Conning Tower Equipment"
+	},
+	{
+		"id": 2502,
+		"api_id": 520,
+		"name_jp": "試製20.3cm(4号)連装砲",
+		"name_en": "Prototype 20.3cm (no.4) Twin Gun Mount"
 	}
 ]

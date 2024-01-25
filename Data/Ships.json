@@ -13120,5 +13120,23 @@
 		"ShipClassId": 1498,
 		"ShipClassApiId": 38,
 		"IsFriendly": true
+	},
+	{
+		"Id": 1490,
+		"NameEN": "Mikuma Kai Ni",
+		"NameJP": "三隈改二",
+		"ApiId": 502,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1491,
+		"NameEN": "Mikuma Kai Ni Toku",
+		"NameJP": "三隈改二特",
+		"ApiId": 507,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": true
 	}
 ]
