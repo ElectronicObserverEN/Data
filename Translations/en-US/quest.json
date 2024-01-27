@@ -1,5 +1,5 @@
 {
-	"version": "21030401",
+	"version": "21030402",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -668,7 +668,7 @@
 	"198": {
 		"code": "A94",
 		"name_jp": "精強！「第七駆逐隊」抜錨準備せよ！",
-		"name": "Powerful! DesDiv7, prepare to weigh anchor!",
+		"name": "Powerful! \"DesDiv7\", Prepare To Weigh Anchor!",
 		"desc_jp": "第七駆逐隊編成任務：全艦一次改装を終えた第七駆逐隊「朧改」「漣改」「曙改」「潮改」<br>(改二改装以降も可)による精強七駆(4隻編成)を編成せよ！",
 		"desc": "Assemble a fleet containing Oboro Kai, Akebono Kai, Sazanami Kai and Ushio Kai. Second remodel version of them is also allowed."
 	},
@@ -1536,7 +1536,7 @@
 	"329": {
 		"code": "2401 C1",
 		"name_jp": "【節分任務:枡】節分演習！二〇二四",
-		"name": "[Sestubun Mission: Masu] Setsubun Exercises, 2024!",
+		"name": "[Setsubun Quest: Masu] Setsubun Exercise! 2024",
 		"desc_jp": "節分任務：重巡洋艦級2隻、随伴に駆逐艦または海防艦計3隻を含む節分特別演習艦隊を編成、<br>同演習艦隊を以て、節分特別演習を実施！本日中に同演習において4回以上勝利せよ！",
 		"desc": "Organize a fleet with 2 CA(V) and 3 DD/DE in your fleet and score A+ rank 4 times in PvP"
 	},
@@ -2040,7 +2040,7 @@
 	"441": {
 		"code": "2401 D1",
 		"name_jp": "【節分任務:恵方】令和六年節分遠征",
-		"name": "[Setsubun Mission: Eho] Reiwa 6th Year Setsubun Expedition",
+		"name": "[Setsubun Quest: Eho] Reiwa 6th Year Setsubun Expedition",
 		"desc_jp": "節分遠征任務：「タンカー護衛任務」「対潜警戒任務」「海上護衛任務」<br>「北号作戦」「長時間対潜警戒」「囮機動部隊支援作戦」の各遠征を成功させよ！",
 		"desc": "Complete expeditions 04, 05, 09, A3, 15 and 19"
 	},
@@ -3181,16 +3181,16 @@
 	"840": {
 		"code": "2401 B5",
 		"name_jp": "【節分任務:豆】節分作戦二〇二四",
-		"name": "[Sestubun Mission: Mame] Setsubun Operation, 2024!",
+		"name": "[Setsubun Quest: Mame] Setsubun Operation 2024",
 		"desc_jp": "節分任務：旗艦及び二番艦に「鳳翔」「阿賀野」「浦波」「深雪」「朧」「潮」「清霜」「風雲」「朝霜」<br>「峯雲」「迅鯨」「長鯨」を配備、鎮守府正面海域、製油所地帯沿岸、南西諸島防衛線を節分反復哨戒せよ！",
-		"desc": "Organize a fleet with two of Houshou, Agano, Uranami, Miyuki, Oboro, Ushio, Kiyoshimo, Kazagumo, Asashimo, Minegumo, Jingei, Chougei as flagship and second ship and score an S rank at the boss nodes on 1-1, 1-3 and 1-4 twice each"
+		"desc": "Organize a fleet with two of Houshou, Agano, Uranami, Miyuki, Oboro, Ushio, Kiyoshimo, Kazagumo, Asashimo, Minegumo, Jingei, Chougei as flagship and second ship and score an A+ rank at the boss nodes on 1-1, 1-3 and 1-4 twice each"
 	},
 	"841": {
 		"code": "2401 B6",
 		"name_jp": "【節分任務:鬼】南西方面節分作戦二〇二四",
-		"name": "[Sestubun Mission: Oni] Setsubun Operation, 2024!",
+		"name": "[Setsubun Quest: Oni] Southwest Setsubun Operation 2024",
 		"desc_jp": "節分任務：旗艦及び二番艦に 「Ranger」「Johnston」「早霜」「神鷹」「大淀」「明石」「天霧」「狭霧」<br>「瑞穂」「Commandant Teste」を配備、南西諸島近海、バシー海峡、昭南本土航路を反復哨戒せよ！",
-		"desc": "Organize a fleet with two of Ranger, Johnston, Hayashimo, Shin'you, Ooyodo, Akashi, Amagiri, Sagiri, Mizuho and Commandant Teste as flagship and second ship and score an S rank at the boss nodes on 2-1, 2-2 and 7-4 twice each"
+		"desc": "Organize a fleet with two of Ranger, Johnston, Hayashimo, Shin'you, Ooyodo, Akashi, Amagiri, Sagiri, Mizuho and Commandant Teste as flagship and second ship and score an A+ rank at the boss nodes on 2-1, 2-2 and 7-4 twice each"
 	},
 	"842": {
 		"code": "B89",
@@ -3202,7 +3202,7 @@
 	"843": {
 		"code": "2401 B7",
 		"name_jp": "【節分任務:柊】節分拡張作戦二〇二四 精強即応！",
-		"name": "[Sestubun Mission: Hiiragi] Setsubun Operation 2024, Powerful Counterattack!",
+		"name": "[Setsubun Quest: Hiiragi] Setsubun Expansion Operation 2024, Fast Retaliation!",
 		"desc_jp": "節分拡張作戦：最上型2隻以上、その他に軽空母1隻を含む我が精強即応艦隊で東部オリョール海、<br>カレー洋リランカ島沖、サーモン海域北方、KW環礁沖海域に防衛出撃、敵艦隊を捕捉撃滅せよ！",
 		"desc": "Organize a fleet with 2 Mogami-class and 1 CVL in your fleet and score an S rank at the boss nodes on 2-3, 4-5, 5-5 and 6-5"
 	},
@@ -4098,14 +4098,14 @@
 	"1004": {
 		"code": "B196",
 		"name_jp": "改装航空巡洋艦「三隈」、進発せよ！",
-		"name": "Remodeled Aviation Cruiser [Mikuma], Forward!",
+		"name": "Remodelled Aviation Cruiser “Mikuma”, Take Off!",
 		"desc_jp": "旗艦に改装航空巡洋艦「三隈改二/改二特」を配備した艦隊で、南西諸島海域東部オリョール海、<br>沖ノ島海域、西方海域カレー洋リランカ島沖、中部北海域ピーコック島沖に展開、敵艦隊を撃滅せよ！",
 		"desc": "Organize a fleet with Mikuma Kai Ni or Kai Ni Toku as flagship and score an S rank at the boss nodes on 2-3, 2-4, 4-5 and 6-4"
 	},
 	"1005": {
 		"code": "By13",
 		"name_jp": "精強「第七駆逐隊」緊急出動！",
-		"name": "Powerful! DesDiv7, Emergency sortie!",
+		"name": "Emergency Dispatch of the Powerful \"DesDiv7\"!",
 		"desc_jp": "第七駆逐隊出撃任務：全艦一次改装以上の第七駆逐隊4隻を含む艦隊で、南西諸島沖海域、<br>製油所地帯沿岸、鎮守府近海、北方海域キス島沖を哨戒、敵戦力を捕捉、これを撃破せよ！",
 		"desc": "Organize a fleet with Oboro Kai, Akebono Kai, Sazanami Kai and Ushio Kai (Second remodel is also allowed) in your fleet and score an S rank at the boss nodes on 1-2, 1-3, 1-5 and 3-2"
 	},
