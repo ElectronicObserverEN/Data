@@ -253,7 +253,7 @@
 		"improvement": [
 			{
 				"convert": {"id_after":66,"lvl_after":0},
-				"helpers": [{"ship_ids":[428],"days":[5,6]},{"ship_ids":[124,129,503,508],"days":[0,5,6]},{"ship_ids":[125,130,504,509],"days":[0,1,6]},{"ship_ids":[120,121,502,507],"days":[5,6]}],
+				"helpers": [{"ship_ids":[428],"days":[5,6]},{"ship_ids":[124,129,503,508],"days":[0,5,6]},{"ship_ids":[125,130,504,509],"days":[0,1,6]},{"ship_ids":[120,121,502,507],"days":[5,6,0]}],
 				"costs": {"fuel":10,"ammo":40,"steel":70,"baux":20,"p1":{"devmats":2,"devmats_sli":3,"screws":2,"screws_sli":3,"equips":[{"id":10,"eq_count":1}],"consumable":[]},"p2":{"devmats":3,"devmats_sli":4,"screws":3,"screws_sli":4,"equips":[{"id":10,"eq_count":1}],"consumable":[]},"conv":{"devmats":5,"devmats_sli":8,"screws":6,"screws_sli":10,"equips":[{"id":3,"eq_count":1}],"consumable":[]}}
 			}
 		],
@@ -1151,7 +1151,7 @@
 		"improvement": [
 			{
 				"convert": {"id_after":520,"lvl_after":0},
-				"helpers": [{"ship_ids":[120,121],"days":[2,3]},{"ship_ids":[504,130],"days":[5,6]}],
+				"helpers": [{"ship_ids":[120,121],"days":[2,3]},{"ship_ids":[504,130],"days":[5,6,0]}],
 				"costs": {"fuel":10,"ammo":110,"steel":140,"baux":0,"p1":{"devmats":3,"devmats_sli":4,"screws":2,"screws_sli":3,"equips":[],"consumable":[]},"p2":{"devmats":3,"devmats_sli":5,"screws":3,"screws_sli":5,"equips":[{"id":50,"eq_count":1}],"consumable":[]},"conv":{"devmats":5,"devmats_sli":10,"screws":8,"screws_sli":14,"equips":[{"id":6,"eq_count":10}],"consumable":[{"id":75,"eq_count":2},{"id":94,"eq_count":1}]}}
 			}
 		],
@@ -5137,7 +5137,7 @@
 		"improvement": [
 			{
 				"convert": null,
-				"helpers": [{"ship_ids":[502],"days":[5,4,6]}],
+				"helpers": [{"ship_ids":[502],"days":[5,4,6,0]}],
 				"costs": {"fuel":20,"ammo":140,"steel":190,"baux":40,"p1":{"devmats":7,"devmats_sli":8,"screws":4,"screws_sli":4,"equips":[{"id":6,"eq_count":4}],"consumable":[]},"p2":{"devmats":9,"devmats_sli":14,"screws":6,"screws_sli":7,"equips":[{"id":6,"eq_count":8}],"consumable":[]}}
 			}
 		],
