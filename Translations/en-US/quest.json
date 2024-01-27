@@ -1,5 +1,5 @@
 {
-	"version": "21030402",
+	"version": "21030403",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1538,7 +1538,7 @@
 		"name_jp": "【節分任務:枡】節分演習！二〇二四",
 		"name": "[Setsubun Quest: Masu] Setsubun Exercise! 2024",
 		"desc_jp": "節分任務：重巡洋艦級2隻、随伴に駆逐艦または海防艦計3隻を含む節分特別演習艦隊を編成、<br>同演習艦隊を以て、節分特別演習を実施！本日中に同演習において4回以上勝利せよ！",
-		"desc": "Organize a fleet with 2 CA(V) and 3 DD/DE in your fleet and score A+ rank 4 times in PvP"
+		"desc": "Organize a fleet with 2 CA(V) and 3 DD/DE in your fleet and score B+ rank 4 times in PvP"
 	},
 	"330": {
 		"code": "Cq1",
