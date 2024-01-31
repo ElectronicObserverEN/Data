@@ -1,5 +1,5 @@
 {
-	"version": "21030265",
+	"version": "21030266",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -518,6 +518,7 @@
 		"14cm連装砲改二": "14cm Twin Gun Kai Ni",
 		"SJレーダー+潜水艦司令塔装備": "SJ Radar + Submarine Conning Tower Equipment",
 		"試製20.3cm(4号)連装砲": "Prototype 20.3cm (no.4) Twin Gun Mount",
+		"紫雲(熟練)": "Shiun (Skilled)",
 		"5inch単装砲": "5inch Single Gun",
 		"5inch連装砲": "5inch Twin Gun",
 		"3inch単装高角砲": "3inch Single High-angle",

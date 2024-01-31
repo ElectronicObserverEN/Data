@@ -4047,5 +4047,11 @@
 		"api_id": 520,
 		"name_jp": "試製20.3cm(4号)連装砲",
 		"name_en": "Prototype 20.3cm (no.4) Twin Gun Mount"
+	},
+	{
+		"id": 2503,
+		"api_id": 521,
+		"name_jp": "紫雲(熟練)",
+		"name_en": "Shiun (Skilled)"
 	}
 ]
