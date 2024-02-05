@@ -6240,5 +6240,42 @@
 				"bonus": {"houg":2}
 			}
 		]
+	},
+	{
+		"ids": [
+			519
+		],
+		"bonuses": [
+			{
+				"shipClass": [122],
+				"num": 1,
+				"bonus": {"kaih":2,"houm":2}
+			},
+			{
+				"shipClass": [114],
+				"num": 1,
+				"bonus": {"raig":1,"kaih":2,"houm":2}
+			}
+		]
+	},
+	{
+		"ids": [
+			500,
+			501
+		],
+		"bonuses": [
+			{
+				"shipX": [959],
+				"bonus": {"kaih":4}
+			},
+			{
+				"shipS": [471,473,486,14,54,61,561,562],
+				"bonus": {"kaih":3}
+			},
+			{
+				"shipS": [9,479,37,41,49,484,65,67],
+				"bonus": {"kaih":2}
+			}
+		]
 	}
 ]
