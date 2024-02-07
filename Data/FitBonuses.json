@@ -6356,5 +6356,59 @@
 				"bonus": {"tais":1}
 			}
 		]
+	},
+	{
+		"ids": [
+			487
+		],
+		"bonuses": [
+			{
+				"shipX": [894,899],
+				"bonus": {"houg":5,"tyku":3,"kaih":2,"houm":4}
+			},
+			{
+				"shipX": [883,888],
+				"bonus": {"houg":3,"tyku":1,"kaih":1,"houm":2}
+			},
+			{
+				"level": 6,
+				"bonus": {"houg":1,"kaih":1}
+			},
+			{
+				"level": 8,
+				"bonus": {"tyku":1,"houm":1}
+			},
+			{
+				"level": 10,
+				"bonus": {"houg":1,"houm":1}
+			}
+		]
+	},
+	{
+		"ids": [
+			486
+		],
+		"bonuses": [
+			{
+				"shipX": [894,899],
+				"bonus": {"houg":4,"tyku":4,"kaih":3,"houm":2}
+			},
+			{
+				"shipX": [883,888],
+				"bonus": {"houg":2,"tyku":2,"kaih":2,"houm":1}
+			},
+			{
+				"level": 6,
+				"bonus": {"kaih":1,"houm":1}
+			},
+			{
+				"level": 8,
+				"bonus": {"tyku":1,"kaih":1}
+			},
+			{
+				"level": 10,
+				"bonus": {"houg":1,"houm":1}
+			}
+		]
 	}
 ]
