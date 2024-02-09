@@ -6638,5 +6638,62 @@
 				"bonus": {"houg":1}
 			}
 		]
+	},
+	{
+		"ids": [
+			478
+		],
+		"bonuses": [
+			{
+				"level": 1,
+				"num": 1,
+				"bonus": {"houg":1}
+			},
+			{
+				"level": 2,
+				"num": 1,
+				"bonus": {"houm":1}
+			},
+			{
+				"level": 3,
+				"num": 1,
+				"bonus": {"kaih":1}
+			},
+			{
+				"level": 4,
+				"num": 1,
+				"bonus": {"baku":1}
+			},
+			{
+				"level": 5,
+				"num": 1,
+				"bonus": {"raig":1}
+			},
+			{
+				"level": 6,
+				"num": 1,
+				"bonus": {"tyku":1}
+			},
+			{
+				"level": 7,
+				"num": 1,
+				"bonus": {"houg":1}
+			},
+			{
+				"level": 8,
+				"num": 1,
+				"bonus": {"houm":1}
+			},
+			{
+				"level": 9,
+				"num": 1,
+				"bonus": {"kaih":1}
+			},
+			{
+				"level": 10,
+				"num": 1,
+				"bonus": {"houg":1}
+			}
+		]
 	}
 ]
