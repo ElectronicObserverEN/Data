@@ -1,5 +1,5 @@
 {
-	"version": "21030404",
+	"version": "21030405",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1681,11 +1681,11 @@
 		"desc": "Organize a fleet with a CL/CT as flagship, 2 CL/CT/CLT, 2 DD, 1 XX and score 4 A+ ranks in PVP on the same day."
 	},
 	"349": {
-		"code": "349",
+		"code": "2402 C1",
 		"name_jp": "バレンタイン2024限定任務【特別演習】",
-		"name": "バレンタイン2024限定任務【特別演習】",
+		"name": "Valentine 2024 Limited Quest [Special Exercise]",
 		"desc_jp": "バレンタイン限定演習任務：水上機母艦1隻、重巡級1隻、軽巡級1隻、駆逐艦2隻を配備した特別演習<br>艦隊を編成、同特別演習艦隊により本日中に演習で【S判定】以上の勝利を4回以上達成せよ！",
-		"desc": "バレンタイン限定演習任務：水上機母艦1隻、重巡級1隻、軽巡級1隻、駆逐艦2隻を配備した特別演習<br>艦隊を編成、同特別演習艦隊により本日中に演習で【S判定】以上の勝利を4回以上達成せよ！"
+		"desc": "Organize a fleet with an AV, a CA(V), a CL/CT and 2 DD in your fleet and score S rank 4 times in PvP"
 	},
 	"350": {
 		"code": "Cy4",

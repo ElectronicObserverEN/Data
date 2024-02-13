@@ -8829,14 +8829,14 @@
 	{
 		"id": 690,
 		"api_id": 349,
-		"code": "349",
+		"code": "2402 C1",
 		"name_jp": "バレンタイン2024限定任務【特別演習】",
-		"name_en": "バレンタイン2024限定任務【特別演習】",
+		"name_en": "Valentine 2024 Limited Quest [Special Exercise]",
 		"desc_jp": "バレンタイン限定演習任務：水上機母艦1隻、重巡級1隻、軽巡級1隻、駆逐艦2隻を配備した特別演習<br>艦隊を編成、同特別演習艦隊により本日中に演習で【S判定】以上の勝利を4回以上達成せよ！",
-		"desc_en": "バレンタイン限定演習任務：水上機母艦1隻、重巡級1隻、軽巡級1隻、駆逐艦2隻を配備した特別演習<br>艦隊を編成、同特別演習艦隊により本日中に演習で【S判定】以上の勝利を4回以上達成せよ！",
+		"desc_en": "Organize a fleet with an AV, a CA(V), a CL/CT and 2 DD in your fleet and score S rank 4 times in PvP",
 		"added_update_id": 42,
 		"removed_update_id": null,
 		"season_id": 16,
-		"tracker": ""
+		"tracker": "[[349],[[9,[6,4]]],[0,[[2,[[16],1,false,0]],[2,[[6,5],1,false,0]],[2,[[3,21],1,false,0]],[2,[[2],2,false,0]]]]]"
 	}
 ]
