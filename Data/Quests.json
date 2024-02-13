@@ -8799,5 +8799,44 @@
 		"removed_update_id": null,
 		"season_id": 15,
 		"tracker": "[[441],[[1,[[4],1]],[1,[[5],1]],[1,[[102],1]],[1,[[9],1]],[1,[[15],1]],[1,[[19],1]]],[0,[]]]"
+	},
+	{
+		"id": 688,
+		"api_id": 234,
+		"code": "2402 B1",
+		"name_jp": "バレンタイン2024限定任務【一号作戦】",
+		"name_en": "Valentine 2024 Limited Quest [Operation N°1]",
+		"desc_jp": "「衣笠」「古鷹」「球磨」「神風」「叢雲」「曙」「潮」「朧」「迅鯨」「伊201」「伊203」のうち<br>2隻以上を含む艦隊で製油所地帯沿岸、南西諸島防衛線、バシー海峡及び東部オリョール海を哨戒せよ！",
+		"desc_en": "Organize a fleet with any two of Kinugasa, Furutaka, Kuma, Kamikaze, Murakumo, Akebono, Ushio, Oboro, Jingei, I-201 and I-203 in your fleet and score an A+ rank at the boss nodes on 1-3, 1-4, 2-2 and 2-3",
+		"added_update_id": 42,
+		"removed_update_id": null,
+		"season_id": 16,
+		"tracker": "[[234],[[0,[[1,3],6,1]],[0,[[1,4],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]]],[0,[[8,[[[123,false,0,0],[59,false,0,0],[99,false,0,0],[471,false,0,0],[33,false,0,0],[15,false,0,0],[16,false,0,0],[93,false,0,0],[634,false,0,0],[881,false,0,0],[882,false,0,0]],2]]]]]"
+	},
+	{
+		"id": 689,
+		"api_id": 238,
+		"code": "238",
+		"name_jp": "バレンタイン2024限定任務【二号作戦】",
+		"name_en": "バレンタイン2024限定任務【二号作戦】",
+		"desc_jp": "「浜風」「藤波」「浜波」「早波」「秋霜」「高波」「涼波」「狭霧」「明石」「Perth」「South Dakota」<br>「鹿島」のうち2隻以上を含む艦隊で南西諸島近海、北方モーレイ海、キス島沖、カレー洋海域を哨戒せよ！",
+		"desc_en": "「浜風」「藤波」「浜波」「早波」「秋霜」「高波」「涼波」「狭霧」「明石」「Perth」「South Dakota」<br>「鹿島」のうち2隻以上を含む艦隊で南西諸島近海、北方モーレイ海、キス島沖、カレー洋海域を哨戒せよ！",
+		"added_update_id": 42,
+		"removed_update_id": null,
+		"season_id": 16,
+		"tracker": ""
+	},
+	{
+		"id": 690,
+		"api_id": 349,
+		"code": "349",
+		"name_jp": "バレンタイン2024限定任務【特別演習】",
+		"name_en": "バレンタイン2024限定任務【特別演習】",
+		"desc_jp": "バレンタイン限定演習任務：水上機母艦1隻、重巡級1隻、軽巡級1隻、駆逐艦2隻を配備した特別演習<br>艦隊を編成、同特別演習艦隊により本日中に演習で【S判定】以上の勝利を4回以上達成せよ！",
+		"desc_en": "バレンタイン限定演習任務：水上機母艦1隻、重巡級1隻、軽巡級1隻、駆逐艦2隻を配備した特別演習<br>艦隊を編成、同特別演習艦隊により本日中に演習で【S判定】以上の勝利を4回以上達成せよ！",
+		"added_update_id": 42,
+		"removed_update_id": null,
+		"season_id": 16,
+		"tracker": ""
 	}
 ]

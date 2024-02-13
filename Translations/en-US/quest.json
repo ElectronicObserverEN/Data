@@ -1,5 +1,5 @@
 {
-	"version": "21030403",
+	"version": "21030404",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -903,6 +903,13 @@
 		"desc_jp": "編成した「第六戦隊」をもって出撃し、オリョール海の敵を撃滅「完全勝利」せよ！",
 		"desc": "Sortie a fleet with Furutaka (古鷹), Kako (加古), Kinugasa (衣笠), Aoba (青葉) and 2 additional ships. Score an S rank victory against World 2-3 Boss."
 	},
+	"234": {
+		"code": "2402 B1",
+		"name_jp": "バレンタイン2024限定任務【一号作戦】",
+		"name": "Valentine 2024 Limited Quest [Operation N°1]",
+		"desc_jp": "「衣笠」「古鷹」「球磨」「神風」「叢雲」「曙」「潮」「朧」「迅鯨」「伊201」「伊203」のうち<br>2隻以上を含む艦隊で製油所地帯沿岸、南西諸島防衛線、バシー海峡及び東部オリョール海を哨戒せよ！",
+		"desc": "Organize a fleet with any two of Kinugasa, Furutaka, Kuma, Kamikaze, Murakumo, Akebono, Ushio, Oboro, Jingei, I-201 and I-203 in your fleet and score an A+ rank at the boss nodes on 1-3, 1-4, 2-2 and 2-3"
+	},
 	"235": {
 		"code": "B135",
 		"name_jp": "近海哨戒を実施せよ！",
@@ -923,6 +930,13 @@
 		"name": "Haguro & Kamikaze, Sortie!",
 		"desc_jp": "第五戦隊任務：「羽黒」「神風」を基幹として、他に重巡級1隻駆逐艦2隻、または駆逐艦4隻の<br>艦隊で南西諸島近海、バシー海峡、東部オリョール海に出撃、敵艦隊と交戦、これを撃滅せよ！",
 		"desc": "Sortie a fleet with Haguro, Kamikaze, and either 1 CA and 2 DD (for a total of 5 ships) or 4 DD to World 2-1, 2-2, and 2-3. Obtain a S-rank at each boss node."
+	},
+	"238": {
+		"code": "238",
+		"name_jp": "バレンタイン2024限定任務【二号作戦】",
+		"name": "バレンタイン2024限定任務【二号作戦】",
+		"desc_jp": "「浜風」「藤波」「浜波」「早波」「秋霜」「高波」「涼波」「狭霧」「明石」「Perth」「South Dakota」<br>「鹿島」のうち2隻以上を含む艦隊で南西諸島近海、北方モーレイ海、キス島沖、カレー洋海域を哨戒せよ！",
+		"desc": "「浜風」「藤波」「浜波」「早波」「秋霜」「高波」「涼波」「狭霧」「明石」「Perth」「South Dakota」<br>「鹿島」のうち2隻以上を含む艦隊で南西諸島近海、北方モーレイ海、キス島沖、カレー洋海域を哨戒せよ！"
 	},
 	"239": {
 		"code": "B20",
@@ -1665,6 +1679,13 @@
 		"name": "Elite Light Cruiser Exercise",
 		"desc_jp": "旗艦に軽巡級(雷巡を除く)、旗艦含む3隻以上の軽巡級と随伴駆逐艦2隻を配備した軽巡演習艦隊を<br>編成、同艦隊により本日中に演習で【A判定】以上の勝利を4回以上達成せよ！",
 		"desc": "Organize a fleet with a CL/CT as flagship, 2 CL/CT/CLT, 2 DD, 1 XX and score 4 A+ ranks in PVP on the same day."
+	},
+	"349": {
+		"code": "349",
+		"name_jp": "バレンタイン2024限定任務【特別演習】",
+		"name": "バレンタイン2024限定任務【特別演習】",
+		"desc_jp": "バレンタイン限定演習任務：水上機母艦1隻、重巡級1隻、軽巡級1隻、駆逐艦2隻を配備した特別演習<br>艦隊を編成、同特別演習艦隊により本日中に演習で【S判定】以上の勝利を4回以上達成せよ！",
+		"desc": "バレンタイン限定演習任務：水上機母艦1隻、重巡級1隻、軽巡級1隻、駆逐艦2隻を配備した特別演習<br>艦隊を編成、同特別演習艦隊により本日中に演習で【S判定】以上の勝利を4回以上達成せよ！"
 	},
 	"350": {
 		"code": "Cy4",
