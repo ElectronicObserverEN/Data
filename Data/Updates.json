@@ -353,13 +353,13 @@
 	},
 	{
 		"id": 40,
-		"start_date": null,
-		"start_time": null,
+		"start_date": "2024-02-29T00:00:00",
+		"start_time": "11:00:00",
 		"end_time": null,
-		"name": "Winter 2024 Event Start",
+		"name": "Early Spring 2024 Event Start (Part 1)",
 		"description": "",
 		"live_update": false,
-		"maint_start_tweet": "",
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1759602907413123381",
 		"maint_end_tweet": ""
 	},
 	{
