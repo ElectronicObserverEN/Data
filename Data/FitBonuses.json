@@ -2355,7 +2355,7 @@
 			{
 				"shipClass": [6],
 				"num": 1,
-				"bonus": {"houg":1,"tyku":1}
+				"bonus": {"houg":2,"tyku":1}
 			},
 			{
 				"shipX": [149,591,592],
@@ -2384,6 +2384,33 @@
 			},
 			{
 				"shipX": [573],
+				"num": 1,
+				"bonus": {"houg":2,"tyku":2,"kaih":1}
+			},
+			{
+				"shipClass": [6],
+				"level": 8,
+				"num": 1,
+				"bonus": {"houm":1}
+			},
+			{
+				"shipClass": [2],
+				"num": 1,
+				"bonus": {"houg":1,"tyku":1,"kaih":1}
+			},
+			{
+				"shipClass": [2],
+				"level": 10,
+				"num": 1,
+				"bonus": {"houm":1}
+			},
+			{
+				"shipX": [593],
+				"num": 1,
+				"bonus": {"houg":1,"tyku":3,"kaih":2}
+			},
+			{
+				"shipX": [954],
 				"num": 1,
 				"bonus": {"houg":2,"tyku":2,"kaih":1}
 			}
