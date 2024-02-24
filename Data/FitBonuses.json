@@ -447,19 +447,23 @@
 				"bonus": {"houg":1}
 			},
 			{
-				"shipX": [501,506],
-				"bonus": {"houg":1},
-				"bonusSR": {"houg":1,"kaih":1}
+				"shipX": [501,502,506,507],
+				"bonus": {"houg":1}
 			},
 			{
-				"shipX": [501,506],
+				"shipX": [501,502,506,507],
 				"requires": [30,410],
 				"bonus": {"houg":1,"tyku":3,"kaih":2}
 			},
 			{
-				"shipX": [501,506],
+				"shipX": [501,502,506,507],
 				"requires": [410],
 				"bonus": {"houg":2}
+			},
+			{
+				"shipX": [501,506],
+				"num": 1,
+				"bonusSR": {"houg":1,"kaih":1}
 			}
 		]
 	},
@@ -484,7 +488,7 @@
 		],
 		"bonuses": [
 			{
-				"shipX": [501,506],
+				"shipX": [501,502,506,507],
 				"num": 1,
 				"bonus": {"tyku":1,"kaih":1}
 			}
