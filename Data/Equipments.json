@@ -4053,5 +4053,11 @@
 		"api_id": 521,
 		"name_jp": "紫雲(熟練)",
 		"name_en": "Shiun (Skilled)"
+	},
+	{
+		"id": 2504,
+		"api_id": 524,
+		"name_jp": "12cm単装高角砲+25mm機銃増備",
+		"name_en": "12cm Single High-angle Gun + 25mm Machine Gun"
 	}
 ]
