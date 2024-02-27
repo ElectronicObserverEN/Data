@@ -8718,7 +8718,7 @@
 		"desc_jp": "節分任務：重巡洋艦級2隻、随伴に駆逐艦または海防艦計3隻を含む節分特別演習艦隊を編成、<br>同演習艦隊を以て、節分特別演習を実施！本日中に同演習において4回以上勝利せよ！",
 		"desc_en": "Organize a fleet with 2 CA(V) and 3 DD/DE in your fleet and score B+ rank 4 times in PvP",
 		"added_update_id": 39,
-		"removed_update_id": null,
+		"removed_update_id": 40,
 		"season_id": 15,
 		"tracker": "[[329],[[9,[4,4]]],[0,[[2,[[5,6],2,false,0]],[2,[[2,1],3,false,0]]]]]"
 	},
@@ -8731,7 +8731,7 @@
 		"desc_jp": "節分任務：旗艦及び二番艦に「鳳翔」「阿賀野」「浦波」「深雪」「朧」「潮」「清霜」「風雲」「朝霜」<br>「峯雲」「迅鯨」「長鯨」を配備、鎮守府正面海域、製油所地帯沿岸、南西諸島防衛線を節分反復哨戒せよ！",
 		"desc_en": "Organize a fleet with two of Houshou, Agano, Uranami, Miyuki, Oboro, Ushio, Kiyoshimo, Kazagumo, Asashimo, Minegumo, Jingei, Chougei as flagship and second ship and score an A+ rank at the boss nodes on 1-1, 1-3 and 1-4 twice each",
 		"added_update_id": 39,
-		"removed_update_id": null,
+		"removed_update_id": 40,
 		"season_id": 15,
 		"tracker": "[[840],[[0,[[1,1],5,2]],[0,[[1,3],5,2]],[0,[[1,4],5,2]]],[0,[[0,[1,[[5,[89,1,0]],[5,[137,1,0]],[5,[486,1,0]],[5,[11,1,0]],[5,[93,1,0]],[5,[16,1,0]],[5,[410,1,0]],[5,[453,1,0]],[5,[425,1,0]],[5,[583,1,0]],[5,[634,1,0]],[5,[635,1,0]]]]],[0,[1,[[5,[89,2,0]],[5,[137,2,0]],[5,[486,2,0]],[5,[11,2,0]],[5,[93,2,0]],[5,[16,2,0]],[5,[410,2,0]],[5,[453,2,0]],[5,[425,2,0]],[5,[583,2,0]],[5,[634,2,0]],[5,[635,2,0]]]]]]]]"
 	},
@@ -8770,7 +8770,7 @@
 		"desc_jp": "節分任務：旗艦及び二番艦に 「Ranger」「Johnston」「早霜」「神鷹」「大淀」「明石」「天霧」「狭霧」<br>「瑞穂」「Commandant Teste」を配備、南西諸島近海、バシー海峡、昭南本土航路を反復哨戒せよ！",
 		"desc_en": "Organize a fleet with two of Ranger, Johnston, Hayashimo, Shin'you, Ooyodo, Akashi, Amagiri, Sagiri, Mizuho and Commandant Teste as flagship and second ship and score an A+ rank at the boss nodes on 2-1, 2-2 and 7-4 twice each",
 		"added_update_id": 39,
-		"removed_update_id": null,
+		"removed_update_id": 40,
 		"season_id": 15,
 		"tracker": "[[841],[[0,[[2,1],5,2]],[0,[[2,2],5,2]],[0,[[7,4],5,2]]],[0,[[0,[1,[[5,[931,1,0]],[5,[562,1,0]],[5,[409,1,0]],[5,[534,1,0]],[5,[183,1,0]],[5,[182,1,0]],[5,[479,1,0]],[5,[480,1,0]],[5,[451,1,0]],[5,[491,1,0]]]]],[0,[1,[[5,[931,2,0]],[5,[562,2,0]],[5,[409,2,0]],[5,[534,2,0]],[5,[183,2,0]],[5,[182,2,0]],[5,[479,2,0]],[5,[480,2,0]],[5,[451,2,0]],[5,[491,2,0]]]]]]]]"
 	},
@@ -8783,7 +8783,7 @@
 		"desc_jp": "節分拡張作戦：最上型2隻以上、その他に軽空母1隻を含む我が精強即応艦隊で東部オリョール海、<br>カレー洋リランカ島沖、サーモン海域北方、KW環礁沖海域に防衛出撃、敵艦隊を捕捉撃滅せよ！",
 		"desc_en": "Organize a fleet with 2 Mogami-class and 1 CVL in your fleet and score an S rank at the boss nodes on 2-3, 4-5, 5-5 and 6-5",
 		"added_update_id": 39,
-		"removed_update_id": null,
+		"removed_update_id": 40,
 		"season_id": 15,
 		"tracker": "[[843],[[0,[[2,3],6,1]],[0,[[4,5],6,1]],[0,[[5,5],6,1]],[0,[[6,5],6,1]]],[0,[[8,[[[0,false,0,9]],2]],[2,[[7],1,false,0]]]]]"
 	},
@@ -8796,7 +8796,7 @@
 		"desc_jp": "節分遠征任務：「タンカー護衛任務」「対潜警戒任務」「海上護衛任務」<br>「北号作戦」「長時間対潜警戒」「囮機動部隊支援作戦」の各遠征を成功させよ！",
 		"desc_en": "Complete expeditions 04, 05, 09, A3, 15 and 19",
 		"added_update_id": 39,
-		"removed_update_id": null,
+		"removed_update_id": 40,
 		"season_id": 15,
 		"tracker": "[[441],[[1,[[4],1]],[1,[[5],1]],[1,[[102],1]],[1,[[9],1]],[1,[[15],1]],[1,[[19],1]]],[0,[]]]"
 	},
@@ -8809,7 +8809,7 @@
 		"desc_jp": "「衣笠」「古鷹」「球磨」「神風」「叢雲」「曙」「潮」「朧」「迅鯨」「伊201」「伊203」のうち<br>2隻以上を含む艦隊で製油所地帯沿岸、南西諸島防衛線、バシー海峡及び東部オリョール海を哨戒せよ！",
 		"desc_en": "Organize a fleet with any two of Kinugasa, Furutaka, Kuma, Kamikaze, Murakumo, Akebono, Ushio, Oboro, Jingei, I-201 and I-203 in your fleet and score an A+ rank at the boss nodes on 1-3, 1-4, 2-2 and 2-3",
 		"added_update_id": 42,
-		"removed_update_id": null,
+		"removed_update_id": 41,
 		"season_id": 16,
 		"tracker": "[[234],[[0,[[1,3],5,1]],[0,[[1,4],5,1]],[0,[[2,2],5,1]],[0,[[2,3],5,1]]],[0,[[8,[[[123,false,0,0],[59,false,0,0],[99,false,0,0],[471,false,0,0],[33,false,0,0],[15,false,0,0],[16,false,0,0],[93,false,0,0],[634,false,0,0],[881,false,0,0],[882,false,0,0]],2]]]]]"
 	},
@@ -8822,7 +8822,7 @@
 		"desc_jp": "「浜風」「藤波」「浜波」「早波」「秋霜」「高波」「涼波」「狭霧」「明石」「Perth」「South Dakota」<br>「鹿島」のうち2隻以上を含む艦隊で南西諸島近海、北方モーレイ海、キス島沖、カレー洋海域を哨戒せよ！",
 		"desc_en": "Organize a fleet with any two of Hamakaze, Fujinami, Hamanami, Hayanami, Akishimo, Takanami, Suzunami, Sagiri, Akashi, Perth, South Dakota and Kashima in your fleet and score an A+ rank at the boss nodes on 2-1, 3-1, 3-2 and 4-2",
 		"added_update_id": 42,
-		"removed_update_id": null,
+		"removed_update_id": 41,
 		"season_id": 16,
 		"tracker": "[[238],[[0,[[2,1],5,1]],[0,[[3,1],5,1]],[0,[[3,2],5,1]],[0,[[4,2],5,1]]],[0,[[8,[[[170,false,0,0],[485,false,0,0],[484,false,0,0],[528,false,0,0],[625,false,0,0],[424,false,0,0],[675,false,0,0],[480,false,0,0],[182,false,0,0],[613,false,0,0],[602,false,0,0],[465,false,0,0]],2]]]]]"
 	},
@@ -8835,7 +8835,7 @@
 		"desc_jp": "バレンタイン限定演習任務：水上機母艦1隻、重巡級1隻、軽巡級1隻、駆逐艦2隻を配備した特別演習<br>艦隊を編成、同特別演習艦隊により本日中に演習で【S判定】以上の勝利を4回以上達成せよ！",
 		"desc_en": "Organize a fleet with an AV, a CA(V), a CL/CT and 2 DD in your fleet and score S rank 4 times in PvP",
 		"added_update_id": 42,
-		"removed_update_id": null,
+		"removed_update_id": 41,
 		"season_id": 16,
 		"tracker": "[[349],[[9,[6,4]]],[0,[[2,[[16],1,false,0]],[2,[[6,5],1,false,0]],[2,[[3,21],1,false,0]],[2,[[2],2,false,0]]]]]"
 	}
