@@ -355,12 +355,12 @@
 		"id": 40,
 		"start_date": "2024-02-29T00:00:00",
 		"start_time": "11:00:00",
-		"end_time": null,
-		"name": "Early Spring 2024 Event Start (Part 1)",
-		"description": "",
+		"end_time": "22:00:00",
+		"name": "Early Spring 2024 Event Start (MO)",
+		"description": "- Event start (E1 to E3)",
 		"live_update": false,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1759602907413123381",
-		"maint_end_tweet": ""
+		"maint_end_tweet": "https://x.com/KanColle_STAFF/status/1762403292997722203?s=20"
 	},
 	{
 		"id": 41,
@@ -382,6 +382,17 @@
 		"description": "- Valentine CGs",
 		"live_update": false,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1756650459790778852",
+		"maint_end_tweet": ""
+	},
+	{
+		"id": 43,
+		"start_date": "2024-03-02T00:00:00",
+		"start_time": null,
+		"end_time": null,
+		"name": "Early Spring 2024 EO",
+		"description": "- E4",
+		"live_update": true,
+		"maint_start_tweet": "https://x.com/KanColle_STAFF/status/1762413361340555632?s=20",
 		"maint_end_tweet": ""
 	}
 ]
