@@ -355,7 +355,7 @@
 		"id": 40,
 		"start_date": "2024-02-29T00:00:00",
 		"start_time": "11:00:00",
-		"end_time": "24.00:00:00",
+		"end_time": "1.00:00:00",
 		"name": "Early Spring 2024 Event Start (MO)",
 		"description": "- Event start (E1 to E3)\r\n- Actual maint end time is unknown",
 		"live_update": false,
