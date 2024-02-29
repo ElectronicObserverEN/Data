@@ -1,5 +1,5 @@
 {
-	"version": "21030408",
+	"version": "21030409",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4018,12 +4018,26 @@
 		"desc_jp": "「鳳翔改二/戦」を旗艦とする艦隊で、南西諸島海域沖ノ島沖、北方AL海域、カレー洋リランカ島沖、<br>南方海域珊瑚諸島沖、中部北海域ピーコック島沖、昭南本土航路に展開！敵戦力を撃滅せよ！",
 		"desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and score an S rank at the boss nodes on 2-5, 3-5, 4-5, 5-2, 6-4 and 7-4"
 	},
+	"992": {
+		"code": "2307B1",
+		"name_jp": "「十六駆」出撃！鎮守府海域の安全を確保せよ！",
+		"name": " [16th Squadron] Sortie! Patrol of the Naval Base waters!",
+		"desc_jp": "【期間限定任務】「天津風」「雪風」「時津風」「初風」のうち2隻以上を含む艦隊で、製油所地帯沿岸、<br>南西諸島防衛線、鎮守府近海の反復哨戒を実施！鎮守府海域の安全を確保、作戦準備に備えよ！",
+		"desc": "Organize a fleet with at least two of Yukikaze, Tokitsukaze, Hatsukaze and Amatsukaze in your fleet and score an S rank at the boss nodes on 1-3, 1-4 and 1-5 three times each"
+	},
 	"993": {
 		"code": "B193",
 		"name_jp": "改装駆逐艦「天津風改二」、抜錨せよ！",
 		"name": "Remodeled Destroyer [Amatsukaze Kai Ni], set sail!",
 		"desc_jp": "改装駆逐艦「天津風改二」旗艦の艦隊で、南西諸島海域沖ノ島沖、中部北海域ピーコック島沖、<br>南方海域サブ島沖海域及びサーモン海域、南西海域昭南本土航路に展開！敵戦力を撃滅せよ！",
 		"desc": "Organize a fleet with Amatsukaze Kai Ni as flagship and score an S rank at the boss nodes on 2-5, 5-3, 5-4, 6-4 and 7-4"
+	},
+	"994": {
+		"code": "2307B2",
+		"name_jp": "主力オブ主力、抜錨！敵艦隊を撃滅せよ！",
+		"name": "The Main Force Of The Main Force, Set Sail! Destroy The Enemy Fleet!",
+		"desc_jp": "【期間限定任務】旗艦に戦艦級、夕雲型駆逐艦2隻以上を含む主力艦隊を編成！ 南西諸島沖、<br>南西諸島防衛線、バシー海峡、東部オリョール海、沖ノ島海域に出撃！ 敵主力艦隊を撃滅せよ！",
+		"desc": "Organize a fleet with a Battleship as flagship and two Yuugumo-class Destroyers in your fleet and score an S rank at the boss nodes on 1-2, 1-4, 2-2, 2-3 and 2-4"
 	},
 	"995": {
 		"code": "B189",
