@@ -4059,5 +4059,29 @@
 		"api_id": 524,
 		"name_jp": "12cm単装高角砲+25mm機銃増備",
 		"name_en": "12cm Single High-angle Gun + 25mm Machine Gun"
+	},
+	{
+		"id": 2505,
+		"api_id": 522,
+		"name_jp": "零式小型水上機",
+		"name_en": "Type 0 Small Reconnaissance Seaplane"
+	},
+	{
+		"id": 2506,
+		"api_id": 523,
+		"name_jp": "零式小型水上機(熟練)",
+		"name_en": "Type 0 Small Reconnaissance Seaplane (Skilled)"
+	},
+	{
+		"id": 2507,
+		"api_id": 525,
+		"name_jp": "特四式内火艇",
+		"name_en": "Special Type 4 Amphibious Tank"
+	},
+	{
+		"id": 2508,
+		"api_id": 526,
+		"name_jp": "特四式内火艇改",
+		"name_en": "Special Type 4 Amphibious Tank Kai"
 	}
 ]
