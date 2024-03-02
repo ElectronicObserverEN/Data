@@ -16,7 +16,7 @@
 		{"LockGroups":[2],"Name":"E1 M"},
 		{"LockGroups":[1],"Name":"E1 T"},
 		{"LockGroups":[1],"Name":"E1 R1"},
-		{"LockGroups":[3],"Name":"E1-2"},
+		{"LockGroups":[3,1],"Name":"E1-2"},
 		{"LockGroups":[2],"Name":"E2 C"},
 		{"LockGroups":[2],"Name":"E2 D2"},
 		{"LockGroups":[2],"Name":"E2 I"},
