@@ -1,5 +1,5 @@
 {
-	"version": "20071537",
+	"version": "20071538",
 	"map": {
 		"南西諸島近海": "Adjacent Seas of Southwest Islands",
 		"バシー海峡": "Bashi Strait",
@@ -113,7 +113,12 @@
 		"西方海域": "Western Waters",
 		"南方海域": "Southern Waters",
 		"南西海域": "South Western Waters",
-		"船団護衛！輸送航路防衛戦": "Fleet Escort! Transport Route Defence Battle"
+		"船団護衛！輸送航路防衛戦": "Fleet Escort! Transport Route Defence Battle",
+		"日本列島沖/呉Q基地": "Off the coast of the Japanese archipelago/Kure Q base",
+		"九州南方沖/マリアナ諸島方面": "Off the southern coast of Kyushu/Mariana Islands",
+		"マリアナ諸島/ウルシー環礁沖": "Off the coast of Mariana Islands/Ulithi Atoll",
+		"#E4": "#E4",
+		"2024冬イベ": "Spring 2024 Event"
 	},
 	"fleet": {
 		"渦潮": "Whirlpool",
@@ -669,6 +674,13 @@
 		"深海要塞群 後方補給兵站基地": "Abyssal Fortifications Rear Supply Depots",
 		"深海大西洋艦隊 最終阻止線": "Abyssal Atlantic Fleet Line Of Final Defense",
 		"深海大西洋方面 要塞守備旗艦": "Abyssal Atlantic Area Fortress Defence Flagship",
-		"深海潜水艦隊 機動部隊随伴部隊": "Abyssal Submarine Fleet Mobile Force Escort Unit"
+		"深海潜水艦隊 機動部隊随伴部隊": "Abyssal Submarine Fleet Mobile Force Escort Unit",
+		"敵鉄底海峡任務部隊 哨戒隊": "敵鉄底海峡任務部隊 哨戒隊",
+		"深海潜水艦隊 ジャワ海哨戒群": "深海潜水艦隊 ジャワ海哨戒群",
+		"東方艦隊 先遣戦艦部隊": "東方艦隊 先遣戦艦部隊",
+		"深海潜水艦隊 精鋭群狼部隊": "深海潜水艦隊 精鋭群狼部隊",
+		"深海任務部隊 偵察戦隊 II群": "深海任務部隊 偵察戦隊 II群",
+		"深海潜水艦隊 前進哨戒部隊 IV群": "深海潜水艦隊 前進哨戒部隊 IV群",
+		"深海潜水艦隊 南方哨戒集団": "深海潜水艦隊 南方哨戒集団"
 	}
 }
