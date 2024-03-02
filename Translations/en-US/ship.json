@@ -1,5 +1,5 @@
 {
-	"version": "21030149",
+	"version": "21030150",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -461,7 +461,13 @@
 		"標準型戦艦棲姫": "Standard Type Battleship Princess",
 		"トーチカ要塞棲姫": "Fortified Pillbox Princess",
 		"Schnellboot小鬼群": "Schnellboot Imp Pack",
-		"欧州妹姫": "European Little Sister Princess"
+		"欧州妹姫": "European Little Sister Princess",
+		"伊36": " I-36",
+		"平安丸": "Heian Maru",
+		"米駆逐棲姫": "American Destroyer Princess",
+		"環礁空母泊地棲姫": "Atoll Aircraft Carrier Anchorage Princess",
+		"深海伊号水姫": "Abyssal I-go Water Princess",
+		"伊41": "I-41"
 	},
 	"class": {
 		"綾波型": "Ayanami Class",
@@ -590,7 +596,8 @@
 		"Salmon級": "Salmon Class",
 		"改敷島型": "Kai Shikishima Class",
 		"Marcello級": "Marcello Class",
-		"Nevada級": "Nevada CLass"
+		"Nevada級": "Nevada CLass",
+		"改氷川丸級": "Hikawa Maru"
 	},
 	"suffix": {
 		"改": "Kai",
