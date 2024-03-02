@@ -22,6 +22,12 @@
 		{"LockGroups":[2],"Name":"E2 I"},
 		{"LockGroups":[2],"Name":"E2 J"},
 		{"LockGroups":[4],"Name":"E2-1"},
-		{"LockGroups":[5],"Name":"E2-2"}
+		{"LockGroups":[5],"Name":"E2-2"},
+		{"LockGroups":[6],"Name":"E3 N"},
+		{"LockGroups":[6],"Name":"E3 P"},
+		{"LockGroups":[4],"Name":"E3 O"},
+		{"LockGroups":[4],"Name":"E3-1"},
+		{"LockGroups":[6,7],"Name":"E3-2"},
+		{"LockGroups":[5],"Name":"E3-3"}
 	]
 }
