@@ -754,5 +754,23 @@
 		"ApiId": 111,
 		"NameEnglish": "Ice-strengthened Auxiliary Ship",
 		"NameJapanese": "耐氷型雑用運送艦"
+	},
+	{
+		"Id": 1586,
+		"ApiId": 126,
+		"NameEnglish": "Hikawa Maru",
+		"NameJapanese": "改氷川丸級"
+	},
+	{
+		"Id": 1594,
+		"ApiId": 126,
+		"NameEnglish": "不明",
+		"NameJapanese": "不明"
+	},
+	{
+		"Id": 1595,
+		"ApiId": 126,
+		"NameEnglish": "不明",
+		"NameJapanese": "不明"
 	}
 ]

@@ -13104,7 +13104,61 @@
 		"IsFriendly": false
 	},
 	{
-		"Id": 1488,
+		"Id": 1624,
+		"NameEN": "Mikuma Kai Ni",
+		"NameJP": "三隈改二",
+		"ApiId": 502,
+		"ShipClassId": 1478,
+		"ShipClassApiId": 9,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1625,
+		"NameEN": "Mikuma Kai Ni Toku",
+		"NameJP": "三隈改二特",
+		"ApiId": 507,
+		"ShipClassId": 1478,
+		"ShipClassApiId": 9,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1626,
+		"NameEN": "Drum Kai",
+		"NameJP": "Drum改",
+		"ApiId": 732,
+		"ShipClassId": 1514,
+		"ShipClassApiId": 114,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1627,
+		"NameEN": "Drum",
+		"NameJP": "Drum",
+		"ApiId": 892,
+		"ShipClassId": 1514,
+		"ShipClassApiId": 114,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1628,
+		"NameEN": "Heian Maru",
+		"NameJP": "平安丸",
+		"ApiId": 944,
+		"ShipClassId": 1586,
+		"ShipClassApiId": 126,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1629,
+		"NameEN": "Heian Maru Kai",
+		"NameJP": "平安丸改",
+		"ApiId": 949,
+		"ShipClassId": 1586,
+		"ShipClassApiId": 126,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1630,
 		"NameEN": "Kiyoshimo Kai Ni",
 		"NameJP": "清霜改二",
 		"ApiId": 955,
@@ -13113,7 +13167,7 @@
 		"IsFriendly": true
 	},
 	{
-		"Id": 1489,
+		"Id": 1631,
 		"NameEN": "Kiyoshimo Kai Ni D",
 		"NameJP": "清霜改二丁",
 		"ApiId": 960,
@@ -13122,21 +13176,237 @@
 		"IsFriendly": true
 	},
 	{
-		"Id": 1490,
-		"NameEN": "Mikuma Kai Ni",
-		"NameJP": "三隈改二",
-		"ApiId": 502,
-		"ShipClassId": null,
-		"ShipClassApiId": null,
+		"Id": 1632,
+		"NameEN": " I-36",
+		"NameJP": "伊36",
+		"ApiId": 971,
+		"ShipClassId": 1513,
+		"ShipClassApiId": 39,
 		"IsFriendly": true
 	},
 	{
-		"Id": 1491,
-		"NameEN": "Mikuma Kai Ni Toku",
-		"NameJP": "三隈改二特",
-		"ApiId": 507,
+		"Id": 1633,
+		"NameEN": " I-36 Kai",
+		"NameJP": "伊36改",
+		"ApiId": 976,
+		"ShipClassId": 1513,
+		"ShipClassApiId": 39,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1634,
+		"NameEN": "American Destroyer Princess",
+		"NameJP": "米駆逐棲姫",
+		"ApiId": 2204,
 		"ShipClassId": null,
 		"ShipClassApiId": null,
-		"IsFriendly": true
+		"IsFriendly": false
+	},
+	{
+		"Id": 1635,
+		"NameEN": "American Destroyer Princess",
+		"NameJP": "米駆逐棲姫",
+		"ApiId": 2205,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1636,
+		"NameEN": "American Destroyer Princess",
+		"NameJP": "米駆逐棲姫",
+		"ApiId": 2206,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1637,
+		"NameEN": "American Destroyer Princess - Damaged",
+		"NameJP": "米駆逐棲姫-壊",
+		"ApiId": 2207,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1638,
+		"NameEN": "American Destroyer Princess - Damaged",
+		"NameJP": "米駆逐棲姫-壊",
+		"ApiId": 2208,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1639,
+		"NameEN": "American Destroyer Princess - Damaged",
+		"NameJP": "米駆逐棲姫-壊",
+		"ApiId": 2209,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1640,
+		"NameEN": "Atoll Aircraft Carrier Anchorage Princess",
+		"NameJP": "環礁空母泊地棲姫",
+		"ApiId": 2210,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1641,
+		"NameEN": "Atoll Aircraft Carrier Anchorage Princess",
+		"NameJP": "環礁空母泊地棲姫",
+		"ApiId": 2211,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1642,
+		"NameEN": "Atoll Aircraft Carrier Anchorage Princess",
+		"NameJP": "環礁空母泊地棲姫",
+		"ApiId": 2212,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1643,
+		"NameEN": "Atoll Aircraft Carrier Anchorage Princess - Damaged",
+		"NameJP": "環礁空母泊地棲姫-壊",
+		"ApiId": 2213,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1644,
+		"NameEN": "Atoll Aircraft Carrier Anchorage Princess - Damaged",
+		"NameJP": "環礁空母泊地棲姫-壊",
+		"ApiId": 2214,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1645,
+		"NameEN": "Atoll Aircraft Carrier Anchorage Princess - Damaged",
+		"NameJP": "環礁空母泊地棲姫-壊",
+		"ApiId": 2215,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1646,
+		"NameEN": "American Destroyer Princess (Mass produced model)",
+		"NameJP": "米駆逐棲姫(量産型)",
+		"ApiId": 2216,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1647,
+		"NameEN": "American Destroyer Princess (Mass produced model)",
+		"NameJP": "米駆逐棲姫(量産型)",
+		"ApiId": 2217,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1648,
+		"NameEN": "American Destroyer Princess (Mass produced model)",
+		"NameJP": "米駆逐棲姫(量産型)",
+		"ApiId": 2218,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1649,
+		"NameEN": "American Destroyer Princess (Mass produced model) - Damaged",
+		"NameJP": "米駆逐棲姫(量産型)-壊",
+		"ApiId": 2219,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1650,
+		"NameEN": "American Destroyer Princess (Mass produced model) - Damaged",
+		"NameJP": "米駆逐棲姫(量産型)-壊",
+		"ApiId": 2220,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1651,
+		"NameEN": "American Destroyer Princess (Mass produced model) - Damaged",
+		"NameJP": "米駆逐棲姫(量産型)-壊",
+		"ApiId": 2221,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1652,
+		"NameEN": "Abyssal I-go Water Princess",
+		"NameJP": "深海伊号水姫",
+		"ApiId": 2222,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1653,
+		"NameEN": "Abyssal I-go Water Princess",
+		"NameJP": "深海伊号水姫",
+		"ApiId": 2223,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1654,
+		"NameEN": "Abyssal I-go Water Princess",
+		"NameJP": "深海伊号水姫",
+		"ApiId": 2224,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1655,
+		"NameEN": "Abyssal I-go Water Princess - Damaged",
+		"NameJP": "深海伊号水姫-壊",
+		"ApiId": 2225,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1656,
+		"NameEN": "Abyssal I-go Water Princess - Damaged",
+		"NameJP": "深海伊号水姫-壊",
+		"ApiId": 2226,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1657,
+		"NameEN": "Abyssal I-go Water Princess - Damaged",
+		"NameJP": "深海伊号水姫-壊",
+		"ApiId": 2227,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
 	}
 ]
