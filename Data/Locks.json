@@ -8,5 +8,20 @@
 		{"Id":6,"A":190,"R":131,"G":250,"B":63,"Name":"第三艦隊先遣隊"},
 		{"Id":7,"A":215,"R":202,"G":202,"B":202,"Name":"前衛艦隊"}
 	],
-	"Phases": []
+	"Phases": [
+		{"LockGroups":[1],"Name":"E1 G"},
+		{"LockGroups":[1],"Name":"E1 C"},
+		{"LockGroups":[1],"Name":"E1 H"},
+		{"LockGroups":[2],"Name":"E1-1"},
+		{"LockGroups":[2],"Name":"E1 M"},
+		{"LockGroups":[1],"Name":"E1 T"},
+		{"LockGroups":[1],"Name":"E1 R1"},
+		{"LockGroups":[3],"Name":"E1-2"},
+		{"LockGroups":[2],"Name":"E2 C"},
+		{"LockGroups":[2],"Name":"E2 D2"},
+		{"LockGroups":[2],"Name":"E2 I"},
+		{"LockGroups":[2],"Name":"E2 J"},
+		{"LockGroups":[4],"Name":"E2-1"},
+		{"LockGroups":[5],"Name":"E2-2"}
+	]
 }
