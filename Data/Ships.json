@@ -13144,7 +13144,7 @@
 		"NameEN": "Heian Maru",
 		"NameJP": "平安丸",
 		"ApiId": 944,
-		"ShipClassId": 1586,
+		"ShipClassId": 1596,
 		"ShipClassApiId": 126,
 		"IsFriendly": true
 	},
@@ -13153,7 +13153,7 @@
 		"NameEN": "Heian Maru Kai",
 		"NameJP": "平安丸改",
 		"ApiId": 949,
-		"ShipClassId": 1586,
+		"ShipClassId": 1596,
 		"ShipClassApiId": 126,
 		"IsFriendly": true
 	},
@@ -13356,54 +13356,126 @@
 		"IsFriendly": false
 	},
 	{
-		"Id": 1652,
+		"Id": 1658,
+		"NameEN": "I-41",
+		"NameJP": "伊41",
+		"ApiId": 972,
+		"ShipClassId": 1495,
+		"ShipClassApiId": 36,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1659,
+		"NameEN": "I-41 Kai",
+		"NameJP": "伊41改",
+		"ApiId": 977,
+		"ShipClassId": 1495,
+		"ShipClassApiId": 36,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1660,
 		"NameEN": "Abyssal I-go Water Princess",
 		"NameJP": "深海伊号水姫",
+		"ApiId": 2228,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1661,
+		"NameEN": "Abyssal I-go Water Princess",
+		"NameJP": "深海伊号水姫",
+		"ApiId": 2229,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1662,
+		"NameEN": "Abyssal I-go Water Princess",
+		"NameJP": "深海伊号水姫",
+		"ApiId": 2230,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1663,
+		"NameEN": "Abyssal I-go Water Princess - Damaged",
+		"NameJP": "深海伊号水姫-壊",
+		"ApiId": 2231,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1664,
+		"NameEN": "Abyssal I-go Water Princess - Damaged",
+		"NameJP": "深海伊号水姫-壊",
+		"ApiId": 2232,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1665,
+		"NameEN": "Abyssal I-go Water Princess - Damaged",
+		"NameJP": "深海伊号水姫-壊",
+		"ApiId": 2233,
+		"ShipClassId": null,
+		"ShipClassApiId": null,
+		"IsFriendly": false
+	},
+	{
+		"Id": 1672,
+		"NameEN": "New Mass-Produced Aircraft Carrier Princess",
+		"NameJP": "新量産空母棲姫",
 		"ApiId": 2222,
 		"ShipClassId": null,
 		"ShipClassApiId": null,
 		"IsFriendly": false
 	},
 	{
-		"Id": 1653,
-		"NameEN": "Abyssal I-go Water Princess",
-		"NameJP": "深海伊号水姫",
+		"Id": 1673,
+		"NameEN": "New Mass-Produced Aircraft Carrier Princess",
+		"NameJP": "新量産空母棲姫",
 		"ApiId": 2223,
 		"ShipClassId": null,
 		"ShipClassApiId": null,
 		"IsFriendly": false
 	},
 	{
-		"Id": 1654,
-		"NameEN": "Abyssal I-go Water Princess",
-		"NameJP": "深海伊号水姫",
+		"Id": 1674,
+		"NameEN": "New Mass-Produced Aircraft Carrier Princess",
+		"NameJP": "新量産空母棲姫",
 		"ApiId": 2224,
 		"ShipClassId": null,
 		"ShipClassApiId": null,
 		"IsFriendly": false
 	},
 	{
-		"Id": 1655,
-		"NameEN": "Abyssal I-go Water Princess - Damaged",
-		"NameJP": "深海伊号水姫-壊",
+		"Id": 1675,
+		"NameEN": "New Mass-Produced Aircraft Carrier Princess - Damaged",
+		"NameJP": "新量産空母棲姫-壊",
 		"ApiId": 2225,
 		"ShipClassId": null,
 		"ShipClassApiId": null,
 		"IsFriendly": false
 	},
 	{
-		"Id": 1656,
-		"NameEN": "Abyssal I-go Water Princess - Damaged",
-		"NameJP": "深海伊号水姫-壊",
+		"Id": 1676,
+		"NameEN": "New Mass-Produced Aircraft Carrier Princess - Damaged",
+		"NameJP": "新量産空母棲姫-壊",
 		"ApiId": 2226,
 		"ShipClassId": null,
 		"ShipClassApiId": null,
 		"IsFriendly": false
 	},
 	{
-		"Id": 1657,
-		"NameEN": "Abyssal I-go Water Princess - Damaged",
-		"NameJP": "深海伊号水姫-壊",
+		"Id": 1677,
+		"NameEN": "New Mass-Produced Aircraft Carrier Princess - Damaged",
+		"NameJP": "新量産空母棲姫-壊",
 		"ApiId": 2227,
 		"ShipClassId": null,
 		"ShipClassApiId": null,

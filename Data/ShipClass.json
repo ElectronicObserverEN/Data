@@ -762,14 +762,26 @@
 		"NameJapanese": "改氷川丸級"
 	},
 	{
-		"Id": 1594,
+		"Id": 1596,
 		"ApiId": 126,
 		"NameEnglish": "不明",
 		"NameJapanese": "不明"
 	},
 	{
-		"Id": 1595,
+		"Id": 1597,
 		"ApiId": 126,
+		"NameEnglish": "不明",
+		"NameJapanese": "不明"
+	},
+	{
+		"Id": 1598,
+		"ApiId": 127,
+		"NameEnglish": "不明",
+		"NameJapanese": "不明"
+	},
+	{
+		"Id": 1599,
+		"ApiId": 127,
 		"NameEnglish": "不明",
 		"NameJapanese": "不明"
 	}
