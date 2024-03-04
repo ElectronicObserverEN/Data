@@ -1,5 +1,5 @@
 {
-	"version": "21030150",
+	"version": "21030151",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -467,7 +467,8 @@
 		"米駆逐棲姫": "American Destroyer Princess",
 		"環礁空母泊地棲姫": "Atoll Aircraft Carrier Anchorage Princess",
 		"深海伊号水姫": "Abyssal I-go Water Princess",
-		"伊41": "I-41"
+		"伊41": "I-41",
+		"新量産空母棲姫": "New Mass-Produced Aircraft Carrier Princess"
 	},
 	"class": {
 		"綾波型": "Ayanami Class",
