@@ -13360,8 +13360,8 @@
 		"NameEN": "I-41",
 		"NameJP": "伊41",
 		"ApiId": 972,
-		"ShipClassId": 1495,
-		"ShipClassApiId": 36,
+		"ShipClassId": 1596,
+		"ShipClassApiId": 127,
 		"IsFriendly": true
 	},
 	{
@@ -13369,8 +13369,8 @@
 		"NameEN": "I-41 Kai",
 		"NameJP": "伊41改",
 		"ApiId": 977,
-		"ShipClassId": 1495,
-		"ShipClassApiId": 36,
+		"ShipClassId": 1596,
+		"ShipClassApiId": 127,
 		"IsFriendly": true
 	},
 	{
