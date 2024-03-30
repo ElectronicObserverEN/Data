@@ -4083,5 +4083,47 @@
 		"api_id": 526,
 		"name_jp": "特四式内火艇改",
 		"name_en": "Special Type 4 Amphibious Tank Kai"
+	},
+	{
+		"id": 2509,
+		"api_id": 527,
+		"name_jp": "Type281 レーダー",
+		"name_en": "Type281 Radar"
+	},
+	{
+		"id": 2510,
+		"api_id": 528,
+		"name_jp": "Type274 射撃管制レーダー",
+		"name_en": "Type274 Fire Control Radar"
+	},
+	{
+		"id": 2511,
+		"api_id": 1644,
+		"name_jp": "深海5inch単装砲 Mk.30+GFCS",
+		"name_en": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS"
+	},
+	{
+		"id": 2512,
+		"api_id": 1645,
+		"name_jp": "深海533mm 5連装魚雷+深海SG",
+		"name_en": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG"
+	},
+	{
+		"id": 2513,
+		"api_id": 1646,
+		"name_jp": "深海Hedgehog Mk.10",
+		"name_en": "Abyssal Hedgehog Mk.10"
+	},
+	{
+		"id": 2514,
+		"api_id": 1647,
+		"name_jp": "GFCS+深海5inch連装砲 Mk.32",
+		"name_en": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32"
+	},
+	{
+		"id": 2515,
+		"api_id": 1648,
+		"name_jp": "深海対戦回転翼海鴎",
+		"name_en": "Abyssal Combat Autogyro Seagull"
 	}
 ]
