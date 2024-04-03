@@ -9,10 +9,10 @@
 	"Locks": 55,
 	"FitBonuses": 30,
 	"EquipmentUpgrades": 171,
-	"kancolle_mt": "2024/03/01 07:00:00",
-	"event_state": 0,
-	"MaintInfoLink": "https://x.com/KanColle_STAFF/status/1763300003819450547?s=20",
-	"MaintStart": "2024/02/29 11:00:00",
-	"MaintEnd": "2024/03/01 07:00:00",
-	"MaintEventState": 0
+	"kancolle_mt": "2024/04/10 11:00:00",
+	"event_state": 3,
+	"MaintInfoLink": "https://twitter.com/KanColle_STAFF/status/1775490162547650713",
+	"MaintStart": "2024/04/10 11:00:00",
+	"MaintEnd": null,
+	"MaintEventState": 3
 }
