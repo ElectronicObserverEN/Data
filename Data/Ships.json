@@ -13480,5 +13480,14 @@
 		"ShipClassId": null,
 		"ShipClassApiId": null,
 		"IsFriendly": false
+	},
+	{
+		"Id": 1678,
+		"NameEN": "Harusame Kai Ni",
+		"NameJP": "春雨改二",
+		"ApiId": 975,
+		"ShipClassId": 1469,
+		"ShipClassApiId": 23,
+		"IsFriendly": true
 	}
 ]
