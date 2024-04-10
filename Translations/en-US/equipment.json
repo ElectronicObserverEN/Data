@@ -1,5 +1,5 @@
 {
-	"version": "21030269",
+	"version": "21030270",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -526,6 +526,7 @@
 		"特四式内火艇改": "Special Type 4 Amphibious Tank Kai",
 		"Type281 レーダー": "Type281 Radar",
 		"Type274 射撃管制レーダー": "Type274 Fire Control Radar",
+		"12.7cm連装砲C型改三H": "12.7cm Twin Gun Model C Kai San H",
 		"5inch単装砲": "5inch Single Gun",
 		"5inch連装砲": "5inch Twin Gun",
 		"3inch単装高角砲": "3inch Single High-angle",

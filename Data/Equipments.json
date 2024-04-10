@@ -4125,5 +4125,11 @@
 		"api_id": 1648,
 		"name_jp": "深海対戦回転翼海鴎",
 		"name_en": "Abyssal Combat Autogyro Seagull"
+	},
+	{
+		"id": 2516,
+		"api_id": 529,
+		"name_jp": "12.7cm連装砲C型改三H",
+		"name_en": "12.7cm Twin Gun Model C Kai San H"
 	}
 ]
