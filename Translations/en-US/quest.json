@@ -1,5 +1,5 @@
 {
-	"version": "21030412",
+	"version": "21030413",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4080,6 +4080,13 @@
 		"name": "Remodelled Shiratsuyu-class “Harusame Kai Ni”, Sortie!",
 		"desc_jp": "旗艦に改装白露型駆逐艦「春雨改二」を配備、他に軽巡1隻駆逐艦1隻以上を伴う艦隊で、<br>バシー海峡、東部オリョール海、南方海域前面に反復展開！立ちふさがる敵艦隊を蹴散らせッ！",
 		"desc": "Organize a fleet with Harusame Kai Ni as flagship, another DD and a CL in your fleet and score an S rank at the boss nodes on 2-2, 2-3 and 5-1 twice each"
+	},
+	"1008": {
+		"code": "B199",
+		"name_jp": "夕立姉さん！今度は一緒について行きますっ！",
+		"name": "Yuudachi-nee-san! This Time I'll Go With You!",
+		"desc_jp": "ソロモン海特別任務：改装白露型駆逐艦「夕立改二」及び「春雨改二」を含む強力な艦隊で、カレー洋<br>リランカ島沖、そして南方サブ島沖海域、サーモン海域、サーモン海域北方に出撃！敵を撃滅せよ！",
+		"desc": "Organize a fleet with Harusame Kai Ni and Yuudachi Kai Ni in your fleet and score an S rank at the boss nodes on 4-5, 5-3, 5-4 and 5-5"
 	},
 	"1101": {
 		"code": "F96",
