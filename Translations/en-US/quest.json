@@ -1,5 +1,5 @@
 {
-	"version": "21030411",
+	"version": "21030412",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1763,6 +1763,13 @@
 		"name": " [16th Squadron] Exercises!",
 		"desc_jp": "駆逐隊演習：第十六駆逐隊「天津風」「雪風」「時津風」「初風」のうち2隻以上を含む演習艦隊を編成。<br>同演習艦隊で本日中に演習【S判定】勝利3回以上を達成せよ！　いい風きてる？十六駆、演習開始！",
 		"desc": "Organize a fleet with at least two members of Yukikaze, Tokitsukaze, Hatsukaze and Amatsukaze in your fleet and score S rank three times in PvP"
+	},
+	"371": {
+		"code": "Cy12",
+		"name_jp": "春です！「春雨」、演習しますっ！",
+		"name": "It's Spring! Harusame, Let's Practice!",
+		"desc_jp": "「春雨」を旗艦として「村雨」「夕立」「五月雨」「白露」「時雨」のうち3隻以上を含む演習艦隊を編成。<br>同演習艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！優しい春の雨、濡れてまいりましょう？",
+		"desc": "Organize a fleet with Harusame as flagship and any 3 of Shiratsuyu, Shigure, Murasame, Yuudachi and Samidare in your fleet and score A rank 4 times in PvP"
 	},
 	"401": {
 		"code": "D1",

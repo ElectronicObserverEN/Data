@@ -8864,5 +8864,18 @@
 		"removed_update_id": null,
 		"season_id": null,
 		"tracker": "[[1007],[[0,[[2,2],6,2]],[0,[[2,3],6,2]],[0,[[5,1],6,2]]],[0,[[7,[975,true,1,0]],[2,[[2],2,false,0]],[2,[[3],1,false,0]]]]]"
+	},
+	{
+		"id": 693,
+		"api_id": 371,
+		"code": "Cy12",
+		"name_jp": "春です！「春雨」、演習しますっ！",
+		"name_en": "It's Spring! Harusame, Let's Practice!",
+		"desc_jp": "「春雨」を旗艦として「村雨」「夕立」「五月雨」「白露」「時雨」のうち3隻以上を含む演習艦隊を編成。<br>同演習艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！優しい春の雨、濡れてまいりましょう？",
+		"desc_en": "Organize a fleet with Harusame as flagship and any 3 of Shiratsuyu, Shigure, Murasame, Yuudachi and Samidare in your fleet and score A rank 4 times in PvP",
+		"added_update_id": 41,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[371],[[9,[5,4]]],[0,[[7,[405,true,0,0]],[8,[[[42,false,0,0],[43,false,0,0],[44,false,0,0],[45,false,0,0],[46,false,0,0]],3]]]]]"
 	}
 ]
