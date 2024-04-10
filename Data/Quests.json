@@ -8838,5 +8838,31 @@
 		"removed_update_id": 41,
 		"season_id": 16,
 		"tracker": "[[349],[[9,[6,4]]],[0,[[2,[[16],1,false,0]],[2,[[6,5],1,false,0]],[2,[[3,21],1,false,0]],[2,[[2],2,false,0]]]]]"
+	},
+	{
+		"id": 691,
+		"api_id": 1006,
+		"code": "B197",
+		"name_jp": "「第二駆逐隊」抜錨！",
+		"name_en": "\"DesDiv 2\" Weigh Anchor!",
+		"desc_jp": "第二駆逐隊任務：「村雨」「夕立」「春雨」「五月雨」のうち3隻以上を含む艦隊で、南西諸島沖海域、<br>製油所地帯沿岸、鎮守府近海、南西諸島防衛線を哨戒、敵戦力を捕捉、これを撃破せよ！",
+		"desc_en": "Organize a fleet with any 3 of Murasame, Yuudachi, Harusame and Samidare in your fleet and score an S rank at the boss nodes on 1-2, 1-3, 1-4 and 1-5",
+		"added_update_id": 41,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[1006],[[0,[[1,2],6,1]],[0,[[1,3],6,1]],[0,[[1,4],6,1]],[0,[[1,5],6,1]]],[0,[[8,[[[44,false,0,0],[45,false,0,0],[405,false,0,0],[46,false,0,0]],3]]]]]"
+	},
+	{
+		"id": 692,
+		"api_id": 1007,
+		"code": "B198",
+		"name_jp": "改装白露型「春雨改二」出撃です！",
+		"name_en": "Remodelled Shiratsuyu-class “Harusame Kai Ni”, Sortie!",
+		"desc_jp": "旗艦に改装白露型駆逐艦「春雨改二」を配備、他に軽巡1隻駆逐艦1隻以上を伴う艦隊で、<br>バシー海峡、東部オリョール海、南方海域前面に反復展開！立ちふさがる敵艦隊を蹴散らせッ！",
+		"desc_en": "Organize a fleet with Harusame Kai Ni as flagship, another DD and a CL in your fleet and score an S rank at the boss nodes on 2-2, 2-3 and 5-1 twice each",
+		"added_update_id": 41,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[1007],[[0,[[2,2],6,2]],[0,[[2,3],6,2]],[0,[[5,1],6,2]]],[0,[[7,[975,true,1,0]],[2,[[2],2,false,0]],[2,[[3],1,false,0]]]]]"
 	}
 ]
