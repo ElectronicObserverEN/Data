@@ -394,5 +394,16 @@
 		"live_update": true,
 		"maint_start_tweet": "https://x.com/KanColle_STAFF/status/1762413361340555632?s=20",
 		"maint_end_tweet": ""
+	},
+	{
+		"id": 44,
+		"start_date": "2024-04-23T00:00:00",
+		"start_time": "14:00:00",
+		"end_time": "18:00:00",
+		"name": "11th anniversary",
+		"description": "- 11th anniversary stuff (quest & more)",
+		"live_update": false,
+		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1782062850590327129",
+		"maint_end_tweet": ""
 	}
 ]
