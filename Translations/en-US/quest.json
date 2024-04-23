@@ -1,5 +1,5 @@
 {
-	"version": "21030413",
+	"version": "21030414",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1736,6 +1736,13 @@
 		"desc_jp": "駆逐艦演習任務：第十一駆逐隊「吹雪」「白雪」「初雪」「深雪」の4隻を含む演習艦隊を編成。<br>同艦隊で本日中に演習で【A判定】勝利以上を4回以上達成せよ！特I型演習スペシャル！",
 		"desc": "Organize a fleet with Fubuki, Shirayuki, Hatsuyuki and Miyuki in your fleet and score A rank 4 times in PvP"
 	},
+	"363": {
+		"code": "363",
+		"name_jp": "【艦隊11周年記念任務】記念艦隊演習！",
+		"name": "【艦隊11周年記念任務】記念艦隊演習！",
+		"desc_jp": "11周年記念演習：「大和」「翔鶴」「吹雪」「朧」「Tuscaloosa」「Houston」「Northampton」及び「山汐丸」<br>「熊野丸」のうち3隻以上を含む記念艦隊で、本日中に演習で【A判定】勝利以上を5回以上達成せよ！",
+		"desc": "11周年記念演習：「大和」「翔鶴」「吹雪」「朧」「Tuscaloosa」「Houston」「Northampton」及び「山汐丸」<br>「熊野丸」のうち3隻以上を含む記念艦隊で、本日中に演習で【A判定】勝利以上を5回以上達成せよ！"
+	},
 	"364": {
 		"code": "C73",
 		"name_jp": "精鋭第三戦隊、演習開始！",
@@ -2078,6 +2085,13 @@
 		"name": "Strengthening escort for the maritime transport routes",
 		"desc_jp": "海上輸送航路の護衛強化：「対潜警戒任務」「海上護衛任務」「タンカー護衛任務」<br>「兵站強化任務」「南西方面航空偵察作戦」遠征を実施、各１回以上成功させよ！",
 		"desc": "Complete Expedition 4,5,9,A1 and B1 once each"
+	},
+	"448": {
+		"code": "448",
+		"name_jp": "【艦隊11周年記念任務】海上護衛遠征",
+		"name": "【艦隊11周年記念任務】海上護衛遠征",
+		"desc_jp": "11周年海上護衛：「海上護衛任務」「兵站強化任務」「長時間対潜警戒」各遠征を<br>実施！さらに「資源輸送任務」を複数回実施、これらの遠征を無事完遂せよ！",
+		"desc": "11周年海上護衛：「海上護衛任務」「兵站強化任務」「長時間対潜警戒」各遠征を<br>実施！さらに「資源輸送任務」を複数回実施、これらの遠征を無事完遂せよ！"
 	},
 	"501": {
 		"code": "E1",
@@ -3927,6 +3941,20 @@
 		"desc_jp": "「浦波改二」、さらに「青葉」「鬼怒」を含む艦隊で、南西諸島防衛線、東部オリョール海、<br>沖ノ島沖、タウイタウイ泊地沖深部、昭南本土航路へ出撃！敵艦隊を捕捉撃滅せよ！",
 		"desc": "Organize a fleet with Uranami Kai Ni, Kinu and Aoba in your fleet and score an S rank at the boss nodes on 1-4, 2-3, 2-5, 7-2 (Part 2) and 7-4"
 	},
+	"971": {
+		"code": "2404 B1",
+		"name_jp": "【艦隊11周年記念任務】第11駆逐隊、抜錨！",
+		"name": "[11th anniversary] DesDiv11, weigh anchor!",
+		"desc_jp": "第11駆逐隊「吹雪」「白雪」「初雪」「深雪」「叢雲」のうち4隻以上を含む艦隊で、鎮守府正面海域、<br>南西諸島沖、製油所地帯沿岸、南西諸島防衛線、鎮守府近海に抜錨！近海の警戒を厳とせよ！",
+		"desc": "Organize a fleet with any 4 of Fubuki, Shirayuki, Hatsuyuki, Miyuki and Murakumo in your fleet and score an S rank at the boss nodes on 1-1, 1-2, 1-3, 1-4 and 1-5"
+	},
+	"972": {
+		"code": "972",
+		"name_jp": "【艦隊11周年記念任務】11周年艦隊、出撃！",
+		"name": "【艦隊11周年記念任務】11周年艦隊、出撃！",
+		"desc_jp": "旗艦及び同随伴艦に重巡各1隻、他軽巡1隻、駆逐2隻以上を含む11周年記念精鋭艦隊で、バシー<br>海峡、東部オリョール海、沖ノ島海域、南方海域前面へ展開。各方面の敵艦隊を捕捉撃滅せよ！",
+		"desc": "旗艦及び同随伴艦に重巡各1隻、他軽巡1隻、駆逐2隻以上を含む11周年記念精鋭艦隊で、バシー<br>海峡、東部オリョール海、沖ノ島海域、南方海域前面へ展開。各方面の敵艦隊を捕捉撃滅せよ！"
+	},
 	"973": {
 		"code": "By11",
 		"name_jp": "日英米合同水上艦隊、抜錨せよ！",
@@ -3968,6 +3996,13 @@
 		"name": "[Extra Operation] Heavy Remodelled [Yamato Kai Ni Juu], sortie!",
 		"desc_jp": "【拡張作戦】重改装「大和改二重」を旗艦とする有力な艦隊で、ペナン島沖深部、昭南本土航路、<br>サーモン海域北方、中部北海域ピーコック島沖に出撃！各戦域の敵戦力を撃滅粉砕せよ！",
 		"desc": "Organize a fleet with Yamato Kai Ni Juu (Kai Ni doesn't work) as flagship and score an S rank at the boss nodes on 7-4, 5-5, 6-4 and 7-3 (Part 2)"
+	},
+	"979": {
+		"code": "979",
+		"name_jp": "【艦隊11周年記念任務】資源確保海上護衛作戦",
+		"name": "【艦隊11周年記念任務】資源確保海上護衛作戦",
+		"desc_jp": "海上重要兵站補給線の維持確保を実施する！鎮守府海域南西諸島沖、製油所地帯沿岸、<br>鎮守府近海、鎮守府近海航路、昭南本土航路に出撃！海上輸送航路の安全を確保せよ！",
+		"desc": "海上重要兵站補給線の維持確保を実施する！鎮守府海域南西諸島沖、製油所地帯沿岸、<br>鎮守府近海、鎮守府近海航路、昭南本土航路に出撃！海上輸送航路の安全を確保せよ！"
 	},
 	"980": {
 		"code": "B184",
@@ -4087,6 +4122,13 @@
 		"name": "Yuudachi-nee-san! This Time I'll Go With You!",
 		"desc_jp": "ソロモン海特別任務：改装白露型駆逐艦「夕立改二」及び「春雨改二」を含む強力な艦隊で、カレー洋<br>リランカ島沖、そして南方サブ島沖海域、サーモン海域、サーモン海域北方に出撃！敵を撃滅せよ！",
 		"desc": "Organize a fleet with Harusame Kai Ni and Yuudachi Kai Ni in your fleet and score an S rank at the boss nodes on 4-5, 5-3, 5-4 and 5-5"
+	},
+	"1009": {
+		"code": "1009",
+		"name_jp": "【記念任務:拡張作戦】艦隊、南方戦線へ！",
+		"name": "【記念任務:拡張作戦】艦隊、南方戦線へ！",
+		"desc_jp": "【記念任務:拡張作戦】「吹雪」「神通」「由良」「Northampton」「Helena」のうち2隻以上、さらに<br>「秋月型」駆逐艦1隻を含む艦隊を編成、南方海域の全海域に展開、敵艦隊と交戦、これを撃滅せよ！",
+		"desc": "【記念任務:拡張作戦】「吹雪」「神通」「由良」「Northampton」「Helena」のうち2隻以上、さらに<br>「秋月型」駆逐艦1隻を含む艦隊を編成、南方海域の全海域に展開、敵艦隊と交戦、これを撃滅せよ！"
 	},
 	"1101": {
 		"code": "F96",
@@ -4221,6 +4263,13 @@
 		"desc_jp": "旗艦「利根改二」または「由良改二」第一スロに最大改修「零式水上偵察機」。「九七式艦攻(九三一空)」<br>x2廃棄、ボーキ950、新型航空兵装資材x2、開発資材x35、熟練搭乗員x2を準備！",
 		"desc": "Have your secretary flagship Yura Kai Ni or Tone Kai Ni equip a max Type 0 Reconnaissance Seaplane in the first slot and then proceed to scrap 2x Type 97 Torpedo Bomber (931 Air Group) and have 950 bauxite, 2x New Model Aviation Material, 35x Development Material and 2x Skilled Crew Member (All resources and Materials will be consumed upon completion)"
 	},
+	"1126": {
+		"code": "1126",
+		"name_jp": "【艦隊11周年記念任務:拡張任務】特別工廠",
+		"name": "【艦隊11周年記念任務:拡張任務】特別工廠",
+		"desc_jp": "特別工廠：「水上偵察機」x11、「艦上戦闘機」x11、「水上爆撃機/多用途水上機」x2を廃棄、<br>「零式水上偵察機(★+3以上)」x2及び開発資材x36、ボーキサイト3,600を準備せよ！",
+		"desc": "特別工廠：「水上偵察機」x11、「艦上戦闘機」x11、「水上爆撃機/多用途水上機」x2を廃棄、<br>「零式水上偵察機(★+3以上)」x2及び開発資材x36、ボーキサイト3,600を準備せよ！"
+	},
 	"1127": {
 		"code": "F115",
 		"name_jp": "艦載用「煙幕発生装置」の改良",
@@ -4276,5 +4325,12 @@
 		"name": "Improvement of the Type 22 Surface Radar!",
 		"desc_jp": "旗艦「時雨改二/改三」または「満潮改二」第一装備スロに「22号対水上電探改四(★max)」を<br>装備。開発資材x22、新型兵装資材x2、「22号対水上電探」x4、改修資材x6を準備せよ！",
 		"desc": "Have your secretary flagship Michishio Kai Ni or Shigure Kai Ni or Kai San equip a Type 22 Surface Radar Kai 4 ★max in the first slot and have 22x DevMat, 2x New Model Armament Materials, 4x Type 22 Surface Radar, 6x Screw (All resources and Materials will be consumed upon completion)"
+	},
+	"1136": {
+		"code": "1136",
+		"name_jp": "【艦隊11周年記念任務】重巡主砲整備任務",
+		"name": "【艦隊11周年記念任務】重巡主砲整備任務",
+		"desc_jp": "「中口径主砲」x8、「小口径主砲」x6、「爆雷」x3を各廃棄。そして、「20.3cm連装砲」x10、<br>開発資材x6、鋼材2,000を準備せよ！(任務達成後、準備した装備及び資材等は消費します)",
+		"desc": "「中口径主砲」x8、「小口径主砲」x6、「爆雷」x3を各廃棄。そして、「20.3cm連装砲」x10、<br>開発資材x6、鋼材2,000を準備せよ！(任務達成後、準備した装備及び資材等は消費します)"
 	}
 }

@@ -82,5 +82,11 @@
 		"name": "Valentine 2024",
 		"added_update_id": 42,
 		"removed_update_id": 41
+	},
+	{
+		"id": 17,
+		"name": "11th Anniversary",
+		"added_update_id": 44,
+		"removed_update_id": null
 	}
 ]
