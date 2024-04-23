@@ -1,5 +1,5 @@
 {
-	"version": "21030418",
+	"version": "21030419",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4264,11 +4264,11 @@
 		"desc": "Have your secretary flagship Yura Kai Ni or Tone Kai Ni equip a max Type 0 Reconnaissance Seaplane in the first slot and then proceed to scrap 2x Type 97 Torpedo Bomber (931 Air Group) and have 950 bauxite, 2x New Model Aviation Material, 35x Development Material and 2x Skilled Crew Member (All resources and Materials will be consumed upon completion)"
 	},
 	"1126": {
-		"code": "1126",
+		"code": "2404 F2",
 		"name_jp": "【艦隊11周年記念任務:拡張任務】特別工廠",
-		"name": "【艦隊11周年記念任務:拡張任務】特別工廠",
+		"name": "[11th anniversary: Extra Mission] Special Arsenal",
 		"desc_jp": "特別工廠：「水上偵察機」x11、「艦上戦闘機」x11、「水上爆撃機/多用途水上機」x2を廃棄、<br>「零式水上偵察機(★+3以上)」x2及び開発資材x36、ボーキサイト3,600を準備せよ！",
-		"desc": "特別工廠：「水上偵察機」x11、「艦上戦闘機」x11、「水上爆撃機/多用途水上機」x2を廃棄、<br>「零式水上偵察機(★+3以上)」x2及び開発資材x36、ボーキサイト3,600を準備せよ！"
+		"desc": "Proceed to scrap 11x Seaplane Recons, 11x Fighters, 2x Seaplane Bombers and have a ★+3 Type 0 Recon Seaplane, 36 Development Materials and 3600 bauxite (All resources and Materials will be consumed upon completion)"
 	},
 	"1127": {
 		"code": "F115",
