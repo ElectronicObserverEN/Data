@@ -1,5 +1,5 @@
 {
-	"version": "21030421",
+	"version": "21030422",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4268,7 +4268,7 @@
 		"name_jp": "【艦隊11周年記念任務:拡張任務】特別工廠",
 		"name": "[11th anniversary: Extra Mission] Special Arsenal",
 		"desc_jp": "特別工廠：「水上偵察機」x11、「艦上戦闘機」x11、「水上爆撃機/多用途水上機」x2を廃棄、<br>「零式水上偵察機(★+3以上)」x2及び開発資材x36、ボーキサイト3,600を準備せよ！",
-		"desc": "Proceed to scrap 11x Seaplane Recons, 11x Fighters, 2x Seaplane Bombers and have a ★+3 Type 0 Recon Seaplane, 36 Development Materials and 3600 bauxite (All resources and Materials will be consumed upon completion)"
+		"desc": "Proceed to scrap 11x Seaplane Recons, 11x Fighters, 2x Seaplane Bombers and have 2x ★+3 Type 0 Recon Seaplane, 36 Development Materials and 3600 bauxite (All resources and Materials will be consumed upon completion)"
 	},
 	"1127": {
 		"code": "F115",
