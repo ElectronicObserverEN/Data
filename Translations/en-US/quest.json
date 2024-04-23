@@ -1,5 +1,5 @@
 {
-	"version": "21030420",
+	"version": "21030421",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4126,7 +4126,7 @@
 	"1009": {
 		"code": "2404 B4",
 		"name_jp": "【記念任務:拡張作戦】艦隊、南方戦線へ！",
-		"name": "[11th anniversary: Extra Mission] Fleet to the Southern Front",
+		"name": "[11th anniversary] Fleet to the Southern Front",
 		"desc_jp": "【記念任務:拡張作戦】「吹雪」「神通」「由良」「Northampton」「Helena」のうち2隻以上、さらに<br>「秋月型」駆逐艦1隻を含む艦隊を編成、南方海域の全海域に展開、敵艦隊と交戦、これを撃滅せよ！",
 		"desc": "Organize a fleet with any 2 of Fubuki, Jintsuu, Yura, Northampton, Helena and have an Akizuki-class in your fleet and score an S rank at the boss nodes on 5-1, 5-2, 5-3, 5-4 and 5-5"
 	},
@@ -4327,10 +4327,10 @@
 		"desc": "Have your secretary flagship Michishio Kai Ni or Shigure Kai Ni or Kai San equip a Type 22 Surface Radar Kai 4 ★max in the first slot and have 22x DevMat, 2x New Model Armament Materials, 4x Type 22 Surface Radar, 6x Screw (All resources and Materials will be consumed upon completion)"
 	},
 	"1136": {
-		"code": "1136",
+		"code": "2404 F1",
 		"name_jp": "【艦隊11周年記念任務】重巡主砲整備任務",
-		"name": "【艦隊11周年記念任務】重巡主砲整備任務",
+		"name": "[11th anniversary] Heavy cruiser main gun maintenance mission",
 		"desc_jp": "「中口径主砲」x8、「小口径主砲」x6、「爆雷」x3を各廃棄。そして、「20.3cm連装砲」x10、<br>開発資材x6、鋼材2,000を準備せよ！(任務達成後、準備した装備及び資材等は消費します)",
-		"desc": "「中口径主砲」x8、「小口径主砲」x6、「爆雷」x3を各廃棄。そして、「20.3cm連装砲」x10、<br>開発資材x6、鋼材2,000を準備せよ！(任務達成後、準備した装備及び資材等は消費します)"
+		"desc": "Proceed to scrap 6x Small Caliber Main Guns, 8x Medium Caliber Main Guns and 3x Depth Charges and have 10x 20.3cm Twin Gun Mount, 6x Development Materials and 2000 steel (All resources and Materials will be consumed upon completion)"
 	}
 }
