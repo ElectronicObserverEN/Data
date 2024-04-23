@@ -8933,15 +8933,15 @@
 	{
 		"id": 698,
 		"api_id": 363,
-		"code": "363",
+		"code": "2404 C1",
 		"name_jp": "【艦隊11周年記念任務】記念艦隊演習！",
-		"name_en": "【艦隊11周年記念任務】記念艦隊演習！",
+		"name_en": "[11th anniversary] Commemorative Fleet Exercise!",
 		"desc_jp": "11周年記念演習：「大和」「翔鶴」「吹雪」「朧」「Tuscaloosa」「Houston」「Northampton」及び「山汐丸」<br>「熊野丸」のうち3隻以上を含む記念艦隊で、本日中に演習で【A判定】勝利以上を5回以上達成せよ！",
-		"desc_en": "11周年記念演習：「大和」「翔鶴」「吹雪」「朧」「Tuscaloosa」「Houston」「Northampton」及び「山汐丸」<br>「熊野丸」のうち3隻以上を含む記念艦隊で、本日中に演習で【A判定】勝利以上を5回以上達成せよ！",
-		"added_update_id": null,
+		"desc_en": "Organize a fleet with any 3 of Yamato, Shoukaku, Fubuki, Oboro, Tuscaloosa, Houston, Northampton, Yamashio Maru and Kumano Maru in your fleet and score A rank 5 times in PvP",
+		"added_update_id": 44,
 		"removed_update_id": null,
-		"season_id": null,
-		"tracker": ""
+		"season_id": 17,
+		"tracker": "[[363],[[9,[5,5]]],[0,[[8,[[[131,false,0,0],[110,false,0,0],[9,false,0,0],[93,false,0,0],[923,false,0,0],[595,false,0,0],[655,false,0,0],[900,false,0,0],[943,false,0,0]],3]]]]]"
 	},
 	{
 		"id": 699,

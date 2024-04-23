@@ -1,5 +1,5 @@
 {
-	"version": "21030416",
+	"version": "21030417",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1737,11 +1737,11 @@
 		"desc": "Organize a fleet with Fubuki, Shirayuki, Hatsuyuki and Miyuki in your fleet and score A rank 4 times in PvP"
 	},
 	"363": {
-		"code": "363",
+		"code": "2404 C1",
 		"name_jp": "【艦隊11周年記念任務】記念艦隊演習！",
-		"name": "【艦隊11周年記念任務】記念艦隊演習！",
+		"name": "[11th anniversary] Commemorative Fleet Exercise!",
 		"desc_jp": "11周年記念演習：「大和」「翔鶴」「吹雪」「朧」「Tuscaloosa」「Houston」「Northampton」及び「山汐丸」<br>「熊野丸」のうち3隻以上を含む記念艦隊で、本日中に演習で【A判定】勝利以上を5回以上達成せよ！",
-		"desc": "11周年記念演習：「大和」「翔鶴」「吹雪」「朧」「Tuscaloosa」「Houston」「Northampton」及び「山汐丸」<br>「熊野丸」のうち3隻以上を含む記念艦隊で、本日中に演習で【A判定】勝利以上を5回以上達成せよ！"
+		"desc": "Organize a fleet with any 3 of Yamato, Shoukaku, Fubuki, Oboro, Tuscaloosa, Houston, Northampton, Yamashio Maru and Kumano Maru in your fleet and score A rank 5 times in PvP"
 	},
 	"364": {
 		"code": "C73",
