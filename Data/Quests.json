@@ -8907,15 +8907,15 @@
 	{
 		"id": 696,
 		"api_id": 448,
-		"code": "448",
+		"code": "2404 D1",
 		"name_jp": "【艦隊11周年記念任務】海上護衛遠征",
-		"name_en": "【艦隊11周年記念任務】海上護衛遠征",
+		"name_en": "[11th anniversary] Maritime escort expedition",
 		"desc_jp": "11周年海上護衛：「海上護衛任務」「兵站強化任務」「長時間対潜警戒」各遠征を<br>実施！さらに「資源輸送任務」を複数回実施、これらの遠征を無事完遂せよ！",
-		"desc_en": "11周年海上護衛：「海上護衛任務」「兵站強化任務」「長時間対潜警戒」各遠征を<br>実施！さらに「資源輸送任務」を複数回実施、これらの遠征を無事完遂せよ！",
-		"added_update_id": null,
+		"desc_en": "Complete expeditions 05, A1 and A3 once each. Complete expedition 12 ??? times.",
+		"added_update_id": 44,
 		"removed_update_id": null,
-		"season_id": null,
-		"tracker": ""
+		"season_id": 17,
+		"tracker": "[[448],[[1,[[5],1]],[1,[[100],1]],[1,[[102],1]],[1,[[12],2]]],[0,[]]]"
 	},
 	{
 		"id": 697,

@@ -1,5 +1,5 @@
 {
-	"version": "21030414",
+	"version": "21030415",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2087,11 +2087,11 @@
 		"desc": "Complete Expedition 4,5,9,A1 and B1 once each"
 	},
 	"448": {
-		"code": "448",
+		"code": "2404 D1",
 		"name_jp": "【艦隊11周年記念任務】海上護衛遠征",
-		"name": "【艦隊11周年記念任務】海上護衛遠征",
+		"name": "[11th anniversary] Maritime escort expedition",
 		"desc_jp": "11周年海上護衛：「海上護衛任務」「兵站強化任務」「長時間対潜警戒」各遠征を<br>実施！さらに「資源輸送任務」を複数回実施、これらの遠征を無事完遂せよ！",
-		"desc": "11周年海上護衛：「海上護衛任務」「兵站強化任務」「長時間対潜警戒」各遠征を<br>実施！さらに「資源輸送任務」を複数回実施、これらの遠征を無事完遂せよ！"
+		"desc": "Complete expeditions 05, A1 and A3 once each. Complete expedition 12 ??? times."
 	},
 	"501": {
 		"code": "E1",
