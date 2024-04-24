@@ -8994,5 +8994,18 @@
 		"removed_update_id": null,
 		"season_id": 17,
 		"tracker": "[[1136],[[4,[1,6]],[4,[2,8]],[4,[15,3]]],[0,[]]]"
+	},
+	{
+		"id": 703,
+		"api_id": 449,
+		"code": "2404 D2",
+		"name_jp": "【艦隊11周年記念任務】資源輸出",
+		"name_en": "[Fleet 11th Anniversary Quest] Resource Export",
+		"desc_jp": "資源輸出任務：輸出用の鋼材9,500及び弾薬7,500を用意。その上で「海上護衛任務」<br>及び「タンカー護衛任務」「ボーキサイト輸送任務」を各2回以上成功させよ！",
+		"desc_en": "Complete expeditions 05, 09 and 11 twice each. Prepare 7500 ammo and 9500 steel.",
+		"added_update_id": 44,
+		"removed_update_id": null,
+		"season_id": 17,
+		"tracker": "[[449],[[1,[[5],2]],[1,[[9],2]],[1,[[11],2]]],[0,[]]]"
 	}
 ]
