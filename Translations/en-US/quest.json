@@ -1,5 +1,5 @@
 {
-	"version": "21030424",
+	"version": "21030425",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -2339,14 +2339,14 @@
 		"desc": "Equip a 7.7mm Machine Gun on the first equipment slot of your light cruiser flagship. Then scrap 2 25mm Single Autocannons, 2 Drum Canisters, 1 12cm 30-tube Rocket Launcher, prepare 1,700 ammo, 30 development materials and 10 Instant Construction"
 	},
 	"622": {
-		"code": "F19",
+		"code": "F20",
 		"name_jp": "機種転換",
 		"name": "Model Conversion",
 		"desc_jp": "「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！",
 		"desc": "Equip a Type 97 Torpedo Bomber (Murata Squadron) on Shoukaku as secretary, then scrap 2 Tenzan. The Type 97 Torpedo Bomber (Murata Squadron) must not be locked."
 	},
 	"623": {
-		"code": "F20",
+		"code": "F19",
 		"name_jp": "精鋭「九七式艦攻」部隊の編成",
 		"name": "Formation of the Elite Type 97 Torpedo Bomber Squadron",
 		"desc_jp": "「翔鶴」または「赤城」を秘書艦にした状態で新たに「九七式艦攻」を3つ廃棄！",

@@ -4266,7 +4266,7 @@
 	{
 		"id": 335,
 		"api_id": 622,
-		"code": "F19",
+		"code": "F20",
 		"name_jp": "機種転換",
 		"name_en": "Model Conversion",
 		"desc_jp": "「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！",
@@ -4279,7 +4279,7 @@
 	{
 		"id": 336,
 		"api_id": 623,
-		"code": "F20",
+		"code": "F19",
 		"name_jp": "精鋭「九七式艦攻」部隊の編成",
 		"name_en": "Formation of the Elite Type 97 Torpedo Bomber Squadron",
 		"desc_jp": "「翔鶴」または「赤城」を秘書艦にした状態で新たに「九七式艦攻」を3つ廃棄！",
