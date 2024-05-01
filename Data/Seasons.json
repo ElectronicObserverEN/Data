@@ -88,5 +88,11 @@
 		"name": "11th Anniversary",
 		"added_update_id": 44,
 		"removed_update_id": null
+	},
+	{
+		"id": 18,
+		"name": "May 2024",
+		"added_update_id": 45,
+		"removed_update_id": null
 	}
 ]

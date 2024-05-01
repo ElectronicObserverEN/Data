@@ -405,5 +405,16 @@
 		"live_update": false,
 		"maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1782062850590327129",
 		"maint_end_tweet": ""
+	},
+	{
+		"id": 45,
+		"start_date": "2024-05-01T00:00:00",
+		"start_time": "19:30:00",
+		"end_time": "19:30:00",
+		"name": "May Furniture Update",
+		"description": "- New furniture\r\n- New Weekly quests",
+		"live_update": true,
+		"maint_start_tweet": "https://x.com/KanColle_STAFF/status/1785611153068212326",
+		"maint_end_tweet": ""
 	}
 ]
