@@ -2,364 +2,404 @@
 	"version": "20071602",
 	"1": {
 		"name_jp": "練習航海",
-		"name": "Practice Voyage",
+		"name": "연습항해",
 		"desc_jp": "鎮守府近海を航海し、艦隊の練度を高めよう！",
-		"desc": "Sail around the Naval District to improve the skills of our fleet! (This mission will not yield any bonus rewards)"
+		"desc": "진수부 근처 해역을 항해하여 함대의 숙련도를 높이자!"
 	},
 	"2": {
 		"name_jp": "長距離練習航海",
-		"name": "Long Distance Training Voyage",
+		"name": "장거리연습항해",
 		"desc_jp": "外海まで足を延ばし、艦隊の練度を高めよう！",
-		"desc": "Extend our sea legs on a long distance voyage!"
+		"desc": "해외까지 발을 뻗어 함대의 숙련도를 높이자!"
 	},
 	"3": {
 		"name_jp": "警備任務",
-		"name": "Security Tasks",
+		"name": "경비임무",
 		"desc_jp": "鎮守府の担当海域をパトロールして、領海の安全を守ろう！",
-		"desc": "Patrol the Naval District to maintain the safety of our waters! (This mission will not yield any bonus rewards)"
+		"desc": "진수부가 담당하는 해역을 순찰하여 영해의 안정을 지키자! (This mission will not yield any bonus rewards)"
 	},
 	"4": {
 		"name_jp": "対潜警戒任務",
-		"name": "Anti-Submarine Alert",
+		"name": "대잠경계임무",
 		"desc_jp": "水雷戦隊を編成し、領海内を索敵、対潜水警戒任務につこう！",
-		"desc": "Send a Torpedo Squadron to engage an enemy submarine in our waters!"
+		"desc": "수뢰전대를 편성하여 영해 내를 수색, 대잠경계임무에 동원하자!"
 	},
 	"5": {
 		"name_jp": "海上護衛任務",
-		"name": "Maritime Security Missions",
+		"name": "해상호위임무",
 		"desc_jp": "輸送船団の安全を図るために、船団に同行して、これを護衛しよう！",
-		"desc": "Escort a convoy out of our waters to ensure it's safety! (This mission will not yield any bonus rewards)"
+		"desc": "수송선단의 안전을 위해 선단을 편성해 수송단을 호위하자! (This mission will not yield any bonus rewards)"
 	},
 	"6": {
 		"name_jp": "防空射撃演習",
-		"name": "Anti-Air Exercises",
+		"name": "방공사격연습",
 		"desc_jp": "敵艦載機襲来に備えて、対空射撃や回避運動の訓練をしよう！",
-		"desc": "Prepare against an enemy carrier-based attack in a special training session!"
+		"desc": "적 함재기 공습에 대비해 대공사격과 회피의 훈련을 실시하자!"
 	},
 	"7": {
 		"name_jp": "観艦式予行",
-		"name": "Ceremonial Dress Rehearsal",
+		"name": "관함식연습",
 		"desc_jp": "海の一大ページェント、「観艦式」の予行航海を実施しよう！",
-		"desc": "Perform a dry-run for an upcoming naval review, the \"Voyage of the Sea\" Ceremony!"
+		"desc": "바다의 일대 프로젝트, 「관함식」의 예행항해를 실시하자!"
 	},
 	"8": {
 		"name_jp": "観艦式",
-		"name": "Naval Review",
+		"name": "관함식",
 		"desc_jp": "今こそ日頃の訓練の成果を見せるとき！「観艦式」を挙行しよう！",
-		"desc": "Show the results of your training, the \"Voyage of the Sea\" Ceremony is happening now!"
+		"desc": "지금이야말로 그날의 훈련성과를 보여줄 때! 「관함식」을 실시하자!"
 	},
 	"9": {
 		"name_jp": "タンカー護衛任務",
-		"name": "Tanker Escort Duties",
+		"name": "유조선호위임무",
 		"desc_jp": "油田地帯から燃料を満載して戻るタンカー船団を護衛しよう！",
-		"desc": "Escort a Tanker Convoy carrying a great supply of fuel back from the oil fields!"
+		"desc": "유전지대에서 연료를 채우고 돌아오는 유조선단을 호위하자!"
 	},
 	"10": {
 		"name_jp": "強行偵察任務",
-		"name": "Attack Force Recon Missions",
+		"name": "강행정찰임무",
 		"desc_jp": "水上偵察機搭載艦などを活用し、敵艦隊の動向を探れ！",
-		"desc": "Utilise a Seaplane Reconnaissance Aircraft Carrier to gather Intel on the enemy fleet!"
+		"desc": "수상정찰기 탑재함등을 활용하여 적 함대의 동향을 살펴라!"
 	},
 	"11": {
 		"name_jp": "ボーキサイト輸送任務",
-		"name": "Bauxite Transport Missions",
+		"name": "보크사이트수송임무",
 		"desc_jp": "資源集積地から母港に、ボーキサイトを輸送しよう！",
-		"desc": "Transport bauxite from a land-integrated resource back to home-port!"
+		"desc": "자원이 축적된 지역에서 모항으로 보크사이트를 수송하라!"
 	},
 	"12": {
 		"name_jp": "資源輸送任務",
-		"name": "Resource Transportation Missions",
+		"name": "자원수송임무",
 		"desc_jp": "資源国から輸入される資源を母港へ護衛し、無事輸送を完了しよう！",
-		"desc": "A convoy carrying goods imported from resource-rich countries is heading to home-port. Send out an escort to ensure it's safety!"
+		"desc": "자원국에서 수입할 수 있는 자원을 모항으로 호위하여 무사히 수송을 완료하자!"
 	},
 	"13": {
 		"name_jp": "鼠輸送作戦",
-		"name": "Rat Transportation Strategy",
+		"name": "쥐수송작전",
 		"desc_jp": "快速の駆逐艦を集中運用して、激戦の諸島へ物資を輸送しよう！",
-		"desc": "Send out a fleet of Destroyers at night in an operation to transport supplies closer to the front lines!"
+		"desc": "고속의 구축함을 집중운용하여 격전이 벌어지는 제도에 물자를 수송하자!"
 	},
 	"14": {
 		"name_jp": "包囲陸戦隊撤収作戦",
-		"name": "Siege-Corps Withdrawal Strategies",
+		"name": "포위육전대철수작전",
 		"desc_jp": "機動力のある小艦艇部隊を結集し、包囲下の部隊を収容しよう！",
-		"desc": "Our troops are under siege! Send in a squadron our smallest, fastest vessels to get them out of there!"
+		"desc": "기동성 좋은 소형함부대를 결집하여 포위하에 있는 부대를 철수시키자!"
 	},
 	"15": {
 		"name_jp": "囮機動部隊支援作戦",
-		"name": "Decoy Task Force Assistance Operations",
+		"name": "미끼기동부대지원작전",
 		"desc_jp": "敵機動部隊の戦力を誘引する空母を含む囮部隊で、主力艦隊を支援しよう！",
-		"desc": "The Main Fleet is in dire need of assistance! Send out some decoy troops, including an Aircraft Carrier, to attract the enemy task force's attention!"
+		"desc": "적 기동부대의 주력을 유인하는 항공모함을 포함한 미끼부대로 주력함대를 지원하자!"
 	},
 	"16": {
 		"name_jp": "艦隊決戦援護作戦",
-		"name": "Fleet Battle Support Strategy",
+		"name": "함대결전지원작전",
 		"desc_jp": "有力な艦隊を編成し、敵の背後側面を奇襲、主力の艦隊決戦を援護しよう！",
-		"desc": "Organise a powerful fleet and perform a sneak attack behind enemy forces to assist the Main Fleet!"
+		"desc": "유력한 함대를 편성해 적의 배후, 측면을 기습하여 주력함대의 결전을 지원하자!"
 	},
 	"17": {
 		"name_jp": "敵地偵察作戦",
-		"name": "Enemy Territory Reconnaissance Operations",
+		"name": "적지정찰작전",
 		"desc_jp": "精鋭の水雷戦隊を編成し、北方海域の敵情勢を強行偵察せよ！",
-		"desc": "Send an elite Torpedo Squadron into northern waters to analyse the movement patterns of our enemy! (This mission will not yield any bonus rewards)"
+		"desc": "정예 수뢰전대를 편성하여 북방해역의 적 정세를 강행정찰하자! (This mission will not yield any bonus rewards)"
 	},
 	"18": {
 		"name_jp": "航空機輸送作戦",
-		"name": "Aircraft Transport Strategy",
+		"name": "항공기수송작전",
 		"desc_jp": "有力な「航空母艦」多数を配備した艦隊を編成、前線に航空機を輸送せよ！",
-		"desc": "Deploy a fleet consisting of numerous Aircraft Carriers to transport planes to the front lines!"
+		"desc": "유력한 「항공모함」다수를 배치시킨 함대를 편성하여 전선에 항공기를 수송하자!"
 	},
 	"19": {
 		"name_jp": "北号作戦",
-		"name": "Northern Offensive Operations",
+		"name": "북호작전",
 		"desc_jp": "練度の高い「航空戦艦」複数を基幹とした、強行輸送船団を出航させよ！",
-		"desc": "Set sail to the North with a fleet of Aircraft Carriers and Battleships to defend our vital convoys from enemy forces!"
+		"desc": "숙련도 높은 「항공전함」다수를 기본으로 하는 강행수송선단을 출격하자!"
 	},
 	"20": {
 		"name_jp": "潜水艦哨戒任務",
-		"name": "Submarine Patrol",
+		"name": "잠수함초계임무",
 		"desc_jp": "潜水艦とその支援艦艇によって構成された艦隊で、北方海域の哨戒任務に当たれ！",
-		"desc": "Send a fleet of Submarines and Support Vessels to patrol northern waters!"
+		"desc": "잠수함과 그 지원함선으로 구성된 함대로 북방해역의 초계임무를 맡자!"
 	},
 	"21": {
 		"name_jp": "北方鼠輸送作戦",
-		"name": "Northern Rat Transportation Strategy",
+		"name": "북방쥐수송작전",
 		"desc_jp": "水雷戦隊にドラム缶(輸送用)を積載し、北方方面の友軍への糧食補給を図れ！",
-		"desc": "Send out a Torpedo Squadron at night in an operation to transport supplies to allied ground forces in the North! Use Drum Canisters to carry rations and other supplies!"
+		"desc": "수뢰전대에 드럼통(수송용)을 적재하여, 북방방면의 아군의 양식 보급을 도모하자!"
 	},
 	"22": {
 		"name_jp": "艦隊演習",
-		"name": "Fleet Exercises",
+		"name": "함대연습",
 		"desc_jp": "練度を向上させるための艦隊演習を行う。(資源獲得目的の遠征ではありません)",
-		"desc": "Perform some exercises around the Naval District to improve the skills of our fleet! (This mission will not yield any bonus rewards)"
+		"desc": "숙련도를 향상시키기 위한 함대연습을 행하자. (This mission will not yield any bonus rewards)"
 	},
 	"23": {
 		"name_jp": "航空戦艦運用演習",
-		"name": "Aviation Battleship Exercises",
+		"name": "항공전함운용연습",
 		"desc_jp": "練度の高い「航空戦艦」複数を基幹とした艦隊による総合演習を実施せよ！",
-		"desc": "Implement two Aviation Battleships into our general practice program to assist with training our fleet! (This mission will not yield any bonus rewards)"
+		"desc": "숙련도가 높은 「항공전함」 복수를 중심으로 한 함대로 종합 훈련을 실​​시하라! (This mission will not yield any bonus rewards)"
 	},
 	"24": {
 		"name_jp": "北方航路海上護衛",
-		"name": "Guard the North Sea Route",
+		"name": "북방항로해상호위",
 		"desc_jp": "練度の高い軽巡が率いる精鋭の護衛艦隊で、北方航路の海上護衛を実施せよ！",
-		"desc": "With a Light Cruiser as the flagship, deploy an Elite Escort Fleet on a maritime escort mission along the Northern Sea Route!"
+		"desc": "숙련도가 높은 경순양함이 이끄는 정예의 호위대로, 북방 항로의 해상 호위를 실시하라!"
 	},
 	"25": {
 		"name_jp": "通商破壊作戦",
-		"name": "Trade-Route Destruction Strategy",
+		"name": "통상파괴작전",
 		"desc_jp": "快速かつ打撃力のある重巡を中心とした艦隊によって、敵後方補給線を遮断せよ!",
-		"desc": "Send out a fleet containing the strength of a fast and powerful Heavy Cruiser to intercept the enemy rear supply lines! (This mission will not yield any bonus rewards)"
+		"desc": "고속에 파괴력 좋은 중순을 중심으로 한 함대를 통해 적 후방보급선을 절단하자! (This mission will not yield any bonus rewards)"
 	},
 	"26": {
 		"name_jp": "敵母港空襲作戦",
-		"name": "Bombing Campaign on the Enemy Home-Port",
+		"name": "적모항공습작전",
 		"desc_jp": "敵潜水艦の哨戒線を長躯突破し、空母を伴った有力な機動部隊で敵母港を叩け！",
-		"desc": "The enemy is currently the dominant force and has recently increased the size of their submarine patrol lines. Send out an Aircraft Carrier to teach them a lesson!"
+		"desc": "적 잠수함의 초계선을 장거리 돌파하여 항모를 동반한 유력한 기동부대로 적 모항을 타격하자!"
 	},
 	"27": {
 		"name_jp": "潜水艦通商破壊作戦",
-		"name": "Submarine Commerce Destruction Strategy",
+		"name": "잠수함통상파괴작전",
 		"desc_jp": "潜水艦2隻以上を伴う艦隊で敵後方へ進出、通商破壊作戦を実施せよ！",
-		"desc": "Deploy a fleet of two submarines to seek and destroy trade ships entering the enemy's home-port via the rear!"
+		"desc": "잠수함 2척이상을 동반하는 함대로 적 후방으로 진출하여 통상파괴작전을 실시하자!"
 	},
 	"28": {
 		"name_jp": "西方海域封鎖作戦",
-		"name": "Western Sea Blockade Operation",
+		"name": "서방해역봉쇄작전",
 		"desc_jp": "潜水艦3隻以上で構成される艦隊で、西方海域の敵水上艦の活動を封鎖せよ!",
-		"desc": "Deploy a fleet of three submarines to blockade enemy ships returning to the Western sea area of activity!"
+		"desc": "잠수함 3척이상으로 구성된 함대로 서방해역의 적 수상함의 활동을 봉쇄하자!"
 	},
 	"29": {
 		"name_jp": "潜水艦派遣演習",
-		"name": "Submarine Dispatch Exercises",
+		"name": "잠수함파견연습",
 		"desc_jp": "潜水艦3隻以上で構成される艦隊を編成、長距離派遣の演習を実施せよ！",
-		"desc": "Deploy a fleet of three submarines to perform in formation and long-range staffing exercises!"
+		"desc": "잠수함 3척이상으로 구성된 함대를 편성해 장거리파견의 연습을 실시하자!"
 	},
 	"30": {
 		"name_jp": "潜水艦派遣作戦",
-		"name": "Submarine Dispatch Operations",
+		"name": "잠수함파견작전",
 		"desc_jp": "潜水艦4隻以上で構成される艦隊を編成し、遠方の友軍勢力との連絡を試みよ！",
-		"desc": "Deploy a fleet of four submarines to battle alongside friendly forces far away!"
+		"desc": "잠수함 4척이상으로 구성된 함대를 편성해 멀리 있는 아군세력과의 연락로를 시험하자!"
 	},
 	"31": {
 		"name_jp": "海外艦との接触",
-		"name": "Contacting Foreign Vessels",
+		"name": "해외함과의 접촉",
 		"desc_jp": "潜水艦4隻以上で構成される艦隊を編成・派遣し、海外艦との邂逅を試みよ！",
-		"desc": "Deploy a fleet of four submarines to meet up with a foreign ship in a friendly meet-up!"
+		"desc": "잠수함 4척 이상으로 구성된 함대를 편성ㆍ파견하여 해외함과의 해후를 시도하자!"
 	},
 	"32": {
 		"name_jp": "遠洋練習航海",
-		"name": "Seafaring Training",
+		"name": "원양연습항해",
 		"desc_jp": "練習巡洋艦を旗艦とした練習艦隊で遠洋練習航海を実施、基礎練度向上に努めよ！",
-		"desc": "Bring the Training Vessel Katori on a special training voyage to improve the skills and abilities of your fleet!"
+		"desc": "연습순양함을 기함으로 한 연습함대로 원양연습항해를 실시하여 기초 숙련도 향상을 노리자!"
 	},
 	"33": {
 		"name_jp": "前衛支援任務",
-		"name": "Vanguard Support Missions (1)",
+		"name": "전방지원임무",
 		"desc_jp": "南方海域へ支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)",
-		"desc": "Send out a support fleet to the Southern Ocean to defend against an enemy invasion fleet!(Sortie-Support Expedition)"
+		"desc": "남방해역에 지원함대를 출격시켜 주력함대의 진격을 원호하자! (지원함대)"
 	},
 	"34": {
 		"name_jp": "艦隊決戦支援任務",
-		"name": "Vanguard Support Missions (2)",
+		"name": "함대결전지원임무",
 		"desc_jp": "南方海域へ決戦支援を行う別動隊を出撃させ、主力艦隊の艦隊決戦を援護せよ！(要:駆逐2隻)",
-		"desc": "The enemy has brought in very powerful forces! Send out another fleet into the Southern Ocean to assist against the invasion! (Sortie-Support Expedition)"
+		"desc": "남방해역에 결전지원을 수행하는 별동대를 출격시켜 주력함대의 함대결전을 원호하자! (지원함대)"
 	},
 	"35": {
 		"name_jp": "MO作戦",
-		"name": "MO Operations",
+		"name": "MO작전",
 		"desc_jp": "空母2隻を基幹とするMO機動部隊を出撃させ、南方海域の制海権を確保せよ！",
-		"desc": "Send out an MO Task Force featuring an Armoured Aircraft Carrier to secure the Southern Ocean once and for all!"
+		"desc": "항모 2척을 기본으로 하는 MO기동부대를 출격시켜 남방해역의 제해권을 확보하자!"
 	},
 	"36": {
 		"name_jp": "水上機基地建設",
-		"name": "Water Base Construction",
+		"name": "수상기지건설",
 		"desc_jp": "水上機母艦2隻を含む艦隊を編成し、南方海域に哨戒用の水上機基地を建設せよ！",
-		"desc": "We need a base in the Southern Ocean to make patrols easier! Send out a Seaplane Tender amongst your fleet to aid in organising and constructing the project!"
+		"desc": "수상기모함 2척을 포함한 함대를 편성하여 남방해역에 초계용 수상기지를 건설하자!"
 	},
 	"37": {
 		"name_jp": "東京急行",
-		"name": "Tokyo Express (1)",
+		"name": "도쿄급행",
 		"desc_jp": "水雷戦隊にドラム缶(輸送用)を満載し、南方方面友軍への鼠輸送作戦を遂行せよ！",
-		"desc": "Send out a Torpedo Squadron at night in an operation to transport supplies to friendly faces in the South! Use Drum Canisters to carry rations and other supplies!"
+		"desc": "수뢰전대에 드럼통(수송용)을 적재하여, 남방방면의 아군으로의 쥐수송작전을 실행하자!"
 	},
 	"38": {
 		"name_jp": "東京急行(弐)",
-		"name": "Tokyo Express (2)",
+		"name": "도쿄급행(2)",
 		"desc_jp": "水雷戦隊にドラム缶(輸送用)を可能な限り満載し、南方鼠輸送作戦を続行せよ！",
-		"desc": "Send out a Torpedo Squadron at night with as many supplies as possible! Continue south with Drum Canisters packed to the brim in this special Rat Transport Operation!"
+		"desc": "수뢰전대에 드럼통(수송용)을 적재하여, 남방방면의 아군으로의 쥐수송작전을 계속하라!"
 	},
 	"39": {
 		"name_jp": "遠洋潜水艦作戦",
-		"name": "Deep-Sea Submarine Warfare",
+		"name": "원양잠수함작전",
 		"desc_jp": "潜水母艦と多数の潜水艦による遠洋潜水艦作戦を実施、敵戦力の漸減に努めよ！",
-		"desc": "Our intelligence says the enemy submarine forces are dwindling. Conduct a deep-sea battle against them with a fleet of Submarines and a Submarine Tender!"
+		"desc": "잠수모함과 다수의 잠수함으로 구성된 원양잠수함작전을 실시, 적 세력의 감소에 힘써라!"
 	},
 	"40": {
 		"name_jp": "水上機前線輸送",
-		"name": "Seaplane Delivery on the Front Lines",
+		"name": "수상기전선수송",
 		"desc_jp": "複数の水上機母艦を有する軽巡を旗艦とした艦隊で、水上機の前線輸送を実施せよ！",
-		"desc": "Assemble a fleet with a Light Cruiser as the flagship and multiple Seaplane Tenders. Deploy them on a transport mission to the front lines!"
+		"desc": "숙련도가 높은 경순양함을 기함으로 수상기모함들과 같이 수송 작전을 실시하라!"
 	},
 	"41": {
 		"name_jp": "ブルネイ泊地沖哨戒",
-		"name": "Brunei Anchorage Patrol"
+		"name": "브루네이정박지해상초계"
+		"desc_jp": "海防艦や駆逐艦による哨戒艦隊でブルネイ泊地沖対潜警戒を実施、同泊地周辺海域の安全を図れ！",
+		"desc": "해방함과 구축함으로 구성된 초계함대로 브루나이 정박지 앞바다의 대잠경계를 실시, 정박지 주변 해역의 안전을 도모하라!"
 	},
 	"42": {
 		"name_jp": "ミ船団護衛(一号船団)",
-		"name": "Mi Convoy Escort (Fleet No.1)"
+		"name": "미선단호위(1호선단)"
+		"desc_jp": "油田地帯から本土への輸送船団の護衛を行う。護衛空母と海防艦や軽巡級と駆逐艦等の対潜哨戒能力の高い部隊を編成、船団護衛を遂行せよ！【月一回実施可能遠征】",
+		"desc": "유전지대로부터 본토로의 수송 선단의 호위를 실시한다. 호위항모와 해방함, 경순급과 구축함 등 대잠초계력이 높은 부대를 편성, 선단호위를 수행하라! (월간원정)"
 	},
 	"43": {
 		"name_jp": "ミ船団護衛(二号船団)",
-		"name": "Mi Convoy Escort (Fleet No.2)"
+		"name": "미선단호위(2호선단)"
+		"desc_jp": "大規模ミ船団の護衛作戦を行う。敵通商破壊部隊との会敵が予想される。護衛空母(または軽空母)を旗艦とする海上護衛部隊、出撃！【月一回実施可能・交戦遠征】",
+		"desc": "대규모 미선단호위작전을 실시한다. 적통상파괴부대와 마주칠 것으로 예상된다. 호위항모(또는 경항모)를 기함으로 하는 해상호위부대, 출격! (월간원정/I형 전투원정)"
 	},
 	"44": {
 		"name_jp": "航空装備輸送任務",
-		"name": "Aircraft Equipment Transport Mission"
+		"name": "항공장비수송임무"
+		"desc_jp": "航空母艦2及び水上機母艦1を投入して、南西海域拠点への航空装備輸送作戦を実施せよ！可能な限り輸送用ドラム缶も積載されたし！【月一回実施可能遠征】",
+		"desc": "항공모함 2척 및 수상기모함 1척을 투입하여 남서해역 거점으로의 항공장비수송작전을 실시하라! 가능한 한 수송용 드럼통도 적재하라! (월간원정)"
 	},
 	"45": {
 		"name_jp": "ボーキサイト船団護衛",
-		"name": "Bauxite Convoy Escort"
+		"name": "보크사이트선단호위"
+		"desc_jp": "海上護衛総隊によるボーキサイト輸送船団の護衛を実施する。護衛空母(または軽空母)を旗艦とする海上護衛部隊、抜錨せよ！",
+		"desc": "해상호위총대에 의한 보크사이트 호송 호위를 실시한다. 호위 항모(또는 경항모)를 기함으로 하는 해상호위부대 발묘하라!"
 	},
 	"46": {
 		"name_jp": "南西海域戦闘哨戒",
-		"name": "Southwestern Sea Combat Patrols "
+		"name": "남서해역전투초계"
+		"desc_jp": "精強な重巡戦隊と水雷戦隊を中核とした有力なる艦隊で、南西海域深部を哨戒、敵艦隊を捜索！発見次第、これを撃滅せよ！【月一回実施可能・交戦遠征】",
+		"desc": "정예 중순전대와 수뢰전대를 핵심으로 한 유력함대로 남서해역심부를 초계, 적함대를 수색! 발견되는대로 이를 격멸하라!(월간원정/II형 전투원정)"
 	},
 	"100": {
 		"name_jp": "兵站強化任務",
-		"name": "Logistic Reinforcement",
+		"name": "병참강화임무",
 		"desc_jp": "港湾施設強化と兵站備蓄施設拡充<br>に協力し、補給体制を強化せよ！",
-		"desc": "港湾施設強化と兵站備蓄施設拡充<br>に協力し、補給体制を強化せよ！"
+		"desc": "항만시설강화와 병참비축시설확충에 협력하고, 보급체제를 강화하라!"
 	},
 	"101": {
 		"name_jp": "海峡警備行動",
-		"name": "Strait Security Operation",
+		"name": "해협경비행동",
 		"desc_jp": "海防艦や駆逐艦による、沿岸警備<br>部隊で、海峡警備を実施しよう！",
-		"desc": "海防艦や駆逐艦による、沿岸警備<br>部隊で、海峡警備を実施しよう！"
+		"desc": "해방함이나 구축함으로 구성된 연안경비부대로 해협경비를 실시하라!"
 	},
 	"102": {
 		"name_jp": "長時間対潜警戒",
-		"name": "Extended Anti-Submarine Alert",
+		"name": "장시간대잠경계",
 		"desc_jp": "高練度の対潜部隊を展開、敵潜を<br>制圧し、航路の安全を確保せよ！",
-		"desc": "高練度の対潜部隊を展開、敵潜を<br>制圧し、航路の安全を確保せよ！"
+		"desc": "높은 숙련도의 대잠 부대를 전개, 적 잠수함을 제압하고, 항로의 안전을 확보하라!"
 	},
 	"103": {
 		"name_jp": "南西方面連絡線哨戒",
-		"name": "SouthWestern Connection Line Patrol"
+		"name": "남서방면연락선초계"
+		"desc_jp": "油田地帯航路の安全を確保する。対潜哨戒能力の高い海上護衛部隊を編成、南西方面連絡線に展開、同方面の対潜哨戒を実施せよ!【月一回実施可能遠征】",
+		"desc": "유전지대항로의 안전을 확보하라. 대잠초계능력이 높은 해상호위부대를 편성해, 남서방면연락선을 전개, 동방면의 대잠초계를 실시하라! (월간원정)"
 	},
 	"104": {
 		"name_jp": "小笠原沖哨戒線",
-		"name": "Ogasawara Coastal Patrol Line"
+		"name": "오가사와라연안초계선"
+		"desc_jp": "本土の守りの要、小笠原沖哨戒線に精強な哨戒小艦隊を展開する。敵遠征部隊との交戦に備え、練度装備の充実した戦隊を投入せよ！【月一回実施可能・交戦遠征】",
+		"desc": "본토 방어의 요새, 오가사와라 앞바다 방면에 정예의 초계소함대를 전개한다. 적 원정부대와의 교전을 대비하여 숙련도와 장비를 충실히 한 전대를 투입하라! (월간원정/I형 전투원정)"
 	},
 	"105": {
 		"name_jp": "小笠原沖戦闘哨戒",
-		"name": "Ogasawara Coastal Combat Patrol"
+		"name": "오가사와라연안전투초계"
+		"desc_jp": "小笠原沖方面への敵部隊の接近を確認した！同方面防衛のため、最精鋭の哨戒艦隊を編成、同方面の戦闘哨戒を実施、敵を撃破せよ！【月一回実施可能・交戦遠征】",
+		"desc": "오가사와라 앞바다 방면의 적 함대 접근이 확인되었다! 동 방면의 방위를 위해 최정예의 초계함대를 편성하여 전투초계를 실시, 적을 격멸하라! (월간원정/II형 전투원정)"
 	},
 	"110": {
 		"name_jp": "南西方面航空偵察作戦",
-		"name": "South Western Air Reconnaissance Operation"
+		"name": "남서방면항공정찰작전"
+		"desc_jp": "索敵力の高い水上機母艦及び軽巡を伴う艦隊で敵情勢を偵察せよ！",
+		"desc": "색적력이 높은 수상기 모함 및 경순을 포함한 함대로 적정세를 정찰하라!"
 	},
 	"111": {
 		"name_jp": "敵泊地強襲反撃作戦",
-		"name": "Enemy Harbor Assault Counter Attack Operation"
+		"name": "적정박지강습반격작전"
+		"desc_jp": "重巡1軽巡1と精強駆逐隊による最精鋭艦隊で敵泊地を強襲せよ！【月一回実施可能遠征】",
+		"desc": "중순 1척, 경순 1척과 정예구축함부대로 이루어진 최정예함대로 적의 정박지를 강습하라! (월간원정)"
 	},
 	"112": {
 		"name_jp": "南西諸島離島哨戒作戦",
-		"name": "Nansei Island Remote Island Patrolling Operation"
+		"name": "남서제도낙도초계작전"
+		"desc_jp": "水上機母艦と護衛水雷戦隊による哨戒部隊を編成、南西諸島海域の哨戒作戦を実施せよ！【月一回実施可能遠征】",
+		"desc": "수상기모함과 호위수뢰전대로 초계부대를 편성, 남서제도해역의 초계작전을 실시하라! (월간원정)"
 	},
 	"113": {
 		"name_jp": "南西諸島離島防衛作戦",
-		"name": "Nansei Island Remote Island Defense Operation"
+		"name": "남서제도낙도방위작전"
+		"desc_jp": "重巡2軽巡1駆逐艦2、さらに潜水艦1隻を含む、精強な遊撃部隊を編成。同遊撃部隊による南西諸島海域防衛作戦を実施せよ！【月一回実施可能遠征】",
+		"desc": "중순 2척, 경순 1척, 구축함 2척, 그리고 잠수함 1척을 포함한 정예유격부대를 편성. 동 유격부대로 남서제도해역방위작전을 실시하라! (월간원정/I형 전투원정)"
 	},
 	"114": {
 		"name_jp": "南西諸島捜索撃滅戦",
-		"name": "Nansei Island Search and Destroy Mission"
+		"name": "남서제도수색격멸전"
+		"desc_jp": "水上機母艦1軽巡1駆逐艦2を含む精鋭の捜索機動部隊を編成。南西諸島方面で索敵撃滅戦を展開、敵艦隊を捜索、これを撃破せよ！【月一回実施可能・交戦遠征】",
+		"desc": "수상기모함 1척, 경순 1척 구축함 2척을 포함하는 정예수색기동부대를 편성. 남서제도방면에서 색적격멸전을 전개, 적의 함대를 수색 후 격파하라! (월간원정/II형 전투원정)"
 	},
 	"115": {
 		"name_jp": "精鋭水雷戦隊夜襲",
-		"name": "Elite Destroyer Squadron Night Raid"
+		"name": "정예수뢰전대야습"
+		"desc_jp": "精鋭無比の軽巡が率いる、軽巡1駆逐艦5からなる精強な水雷戦隊を編成、敵泊地への夜襲を敢行、敵艦隊を痛撃せよ！【月一回実施可能・交戦遠征】",
+		"desc": "정예무쌍한 경순을 기함으로 하여 경 1척, 구축함 5척으로 구성된 정예수뢰전대를 편성, 적 정박지에 대한 야습을 감행하여 적 함대를 요격하라! (월간원정/II형 전투원정)"
 	},
 	"125": {
 		"name_jp": "前衛支援任務",
-		"name": "General Vanguard Support Missions",
+		"name": "전위지원임무",
 		"desc_jp": "支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)",
-		"desc": "Deploy a support fleet in an avant-garde support mission! (Sortie-Support Expedition)"
+		"desc": "지원함대를 출격시켜 주력함대의 진격을 엄호하라! (지원함대)"
 	},
 	"126": {
 		"name_jp": "艦隊決戦支援任務",
-		"name": "General Fleet Battle Support Missions",
+		"name": "함대결전지원임무",
 		"desc_jp": "主力艦隊支援を行う別動隊を出撃させ、艦隊決戦を援護せよ！(要:駆逐2隻)",
-		"desc": "Deploy a support fleet to assist our main forces battle out against the enemy! (Sortie-Support Expedition)"
+		"desc": "주력 함대 지원을 실시, 별동대를 출격시켜 함대 결전을 엄호하라! (지원함대)"
 	},
 	"131": {
-		"name_jp": "西方海域偵察作戦",
-		"name": "Western Sea Reconnaissance Operation"
+		"name지원_jp": "西方海域偵察作戦",
+		"name": "서방해역정찰작전"
+		"desc_jp": "索敵能力の高い水上機母艦を旗艦とする偵察艦隊を編成し、西方海域敵情勢の偵察を実施せよ！",
+		"desc": "색적 능력이 높은 수상기모함을 기함으로하는 정찰함대를 편성하여 서방해역 적 정세에 대한 정찰을 실시하라!"
 	},
 	"132": {
 		"name_jp": "西方潜水艦作戦",
-		"name": "Western Submarine Operation"
+		"name": "서방잠수함작전"
+		"desc_jp": "潜水母艦を旗艦として潜水艦3隻以上から構成される精強な潜水艦隊を編成、西方海域に進出、潜水艦作戦を実施せよ！【月一回実施可能・交戦遠征】",
+		"desc": "잠수모함을 기함으로 잠수함 3척 이상으로 구성된 정예잠수함부대를 편성하여 서방해역에 진출, 잠수함작전을 실시하라! (월간원정/I형 전투원정)"
 	},
 	"133": {
 		"name_jp": "欧州方面友軍との接触",
-		"name": "Contact with Friendly European Forces "
+		"name": "구주방면우군과의 접촉"
+		"desc_jp": "旗艦に潜水母艦、同随伴護衛艦艇と潜水艦3隻以上から構成される西方潜水艦隊で戦線を強行突破、欧州方面友軍艦隊と接触を図れ！【月一回実施可能・交戦遠征】",
+		"desc": "기함에 잠수모함, 동반호위함정과 잠수함 3척 이상으로 구성된 서방잠수대대로 전선을 강행돌파, 구주방면우군함대와 점촉을 시도하라! (월간원정/II형 전투원정)"
 	},
 	"141": {
 		"name_jp": "ラバウル方面艦隊進出",
-		"name": "Rabaul District Fleet Advance"
+		"name": "라바울 방면 함대 진출"
+		"desc_jp": "重巡旗艦、軽巡1駆逐艦3を含む艦隊を南方海域の要衝、ラバウル方面に進出させる。同海域周辺は敵空襲も予想される。注意せよ！【月一回実施可能・交戦遠征】",
+		"desc": "중순을 기함으로 경순 1척, 구축함 3척을 포함한 함대를 남방해역의 요충지, 라바울방면으로 진출시킨다. 동 해역 주변은 적의 공습도 예상된다. 주의하라! (월간원정/II형 전투원정)"
 	},
 	"142": {
 		"name_jp": "強行鼠輸送作戦",
-		"name": "Enforced Rat Transport Operation"
+		"name": "강행쥐수송작전"
+		"desc_jp": "精鋭駆逐艦を連ねて輸送ドラム缶を満載し、南方への強行鼠輸送作戦を遂行せよ！敵の待ち伏せも予想される。戦闘準備も怠るな！【月一回実施可能・交戦遠征】",
+		"desc": "정예구축함 여러 척을 이끌고 수송 드럼통을 가득 채워 남쪽으로의 강행쥐수송작전을 수행하라! 적의 매복도 예상된다. 전투준비도 게을리하지 마라! (월간원정/II형 전투원정)"
 	},
 	"149": {
 		"name_jp": "前衛支援任務",
-		"name": "General Vanguard Support Missions",
+		"name": "전위지원임무",
 		"desc_jp": "支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)",
-		"desc": "Deploy a support fleet to assist in defending against the enemy invasion force! (Sortie-Support Expedition))"
+		"desc": "지원함대를 출격시켜 주력함대의 진격을 엄호하라! (지원함대)"
 	},
 	"150": {
 		"name_jp": "艦隊決戦支援任務",
-		"name": "General Fleet Battle Support Missions",
+		"name": "함대결전지원임무",
 		"desc_jp": "主力艦隊支援を行う別動隊を出撃させ、艦隊決戦を援護せよ！(要:駆逐2隻)",
-		"desc": "Deploy a support fleet to assist our main forces battle out against an enemy boss! (Sortie-Support Expedition)"
+		"desc": "주력 함대 지원을 실시, 별동대를 출격시켜 함대 결전을 엄호하라! (지원함대)"
 	}
 }
