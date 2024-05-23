@@ -1,5 +1,5 @@
 {
-	"version": "21030143",
+	"version": "21030153",
 	"ship": {
 		"長門": "Nagato",
 		"陸奥": "Mutsu",
@@ -453,7 +453,22 @@
 		"深海擱座揚陸姫": "Abyssal Stranded Landing Princess",
 		"稲木": "Inagi",
 		"第二十二号海防艦": "Kaiboukan No.22",
-		"朝日": "Asahi"
+		"朝日": "Asahi",
+		"深海釧路沖棲雲姫": "Abyssal Kushiro Cloud Princess",
+		"伊503": "I-503",
+		"トーチカ小鬼": "Pillbox Imp",
+		"対空小鬼": "Anti-Air Guns Imp",
+		"標準型戦艦棲姫": "Standard Type Battleship Princess",
+		"トーチカ要塞棲姫": "Fortified Pillbox Princess",
+		"Schnellboot小鬼群": "Schnellboot Imp Pack",
+		"欧州妹姫": "European Little Sister Princess",
+		"伊36": "I-36",
+		"平安丸": "Heian Maru",
+		"米駆逐棲姫": "American Destroyer Princess",
+		"環礁空母泊地棲姫": "Atoll Aircraft Carrier Anchorage Princess",
+		"深海伊号水姫": "Abyssal I-go Water Princess",
+		"伊41": "I-41",
+		"新量産空母棲姫": "New Mass-Produced Aircraft Carrier Princess"
 	},
 	"class": {
 		"綾波型": "Ayanami Class",
@@ -572,7 +587,19 @@
 		"Illustrious級": "Illustrious Class",
 		"Conte di Cavour級": "Conte di Cavour Class",
 		"Gato級": "Gato Class",
-		"特2TL型": "Special 2TL Class"
+		"特2TL型": "Special 2TL Class",
+		"Ranger級": "Ranger Class",
+		"第百一号型": "No.101 Class",
+		"鵜来型": "Ukuru Class",
+		"New Orleans級": "New Orleans Class",
+		"Independence級": "Independence Class",
+		"特種船M丙型": "Special ship M Hei-type",
+		"Salmon級": "Salmon Class",
+		"改敷島型": "Kai Shikishima Class",
+		"Marcello級": "Marcello Class",
+		"Nevada級": "Nevada CLass",
+		"改氷川丸級": "Hikawa Maru",
+		"巡潜乙型改一": "Junsen Type B Kai Ichi"
 	},
 	"suffix": {
 		"改": "Kai",
