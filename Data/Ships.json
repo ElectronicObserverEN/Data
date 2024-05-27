@@ -6215,7 +6215,7 @@
 		"NameJP": "第百一号輸送艦改",
 		"ApiId": 727,
 		"ShipClassId": 1574,
-		"ShipClassApiId": 120,
+		"ShipClassApiId": 9999,
 		"IsFriendly": true
 	},
 	{
@@ -6602,7 +6602,7 @@
 		"NameJP": "第百一号輸送艦",
 		"ApiId": 945,
 		"ShipClassId": 1574,
-		"ShipClassApiId": 120,
+		"ShipClassApiId": 9999,
 		"IsFriendly": true
 	},
 	{
