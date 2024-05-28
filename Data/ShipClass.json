@@ -685,7 +685,7 @@
 	},
 	{
 		"Id": 1574,
-		"ApiId": 120,
+		"ApiId": 9999,
 		"NameEnglish": "No.101 Class",
 		"NameJapanese": "第百一号型"
 	},
@@ -766,5 +766,11 @@
 		"ApiId": 127,
 		"NameEnglish": "Junsen Type B Kai Ichi",
 		"NameJapanese": "巡潜乙型改一"
+	},
+	{
+		"Id": 1605,
+		"ApiId": 120,
+		"NameEnglish": "2nd Class Transporter",
+		"NameJapanese": "二等輸送艦"
 	}
 ]
