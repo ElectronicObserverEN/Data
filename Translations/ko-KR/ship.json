@@ -1,5 +1,5 @@
 {
-	"version": "21030153",
+	"version": "21030154",
 	"ship": {
 		"長門": "나가토",
 		"陸奥": "무츠",
@@ -599,7 +599,8 @@
 		"Marcello級": "Marcello Class",
 		"Nevada級": "Nevada CLass",
 		"改氷川丸級": "Hikawa Maru",
-		"巡潜乙型改一": "Junsen Type B Kai Ichi"
+		"巡潜乙型改一": "Junsen Type B Kai Ichi",
+		"二等輸送艦": "2nd Class Transporter"
 	},
 	"suffix": {
 		"改": "改",
