@@ -2364,7 +2364,8 @@
 		"id": 2222,
 		"api_id": 382,
 		"name_jp": "12cm単装高角砲E型",
-		"name_en": "12cm Single High-angle Gun Model E"
+		"name_en": "12cm Single High-angle Gun Model E",
+		"development": true
 	},
 	{
 		"id": 2223,
