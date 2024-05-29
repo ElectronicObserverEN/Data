@@ -6214,8 +6214,8 @@
 		"NameEN": "No.101 Landing Ship Kai",
 		"NameJP": "第百一号輸送艦改",
 		"ApiId": 727,
-		"ShipClassId": 1574,
-		"ShipClassApiId": 9999,
+		"ShipClassId": 1606,
+		"ShipClassApiId": 120,
 		"IsFriendly": true
 	},
 	{
@@ -6601,8 +6601,8 @@
 		"NameEN": "No.101 Landing Ship",
 		"NameJP": "第百一号輸送艦",
 		"ApiId": 945,
-		"ShipClassId": 1574,
-		"ShipClassApiId": 9999,
+		"ShipClassId": 1608,
+		"ShipClassApiId": 120,
 		"IsFriendly": true
 	},
 	{
@@ -13144,7 +13144,7 @@
 		"NameEN": "Heian Maru",
 		"NameJP": "平安丸",
 		"ApiId": 944,
-		"ShipClassId": 1586,
+		"ShipClassId": 1607,
 		"ShipClassApiId": 126,
 		"IsFriendly": true
 	},
@@ -13153,7 +13153,7 @@
 		"NameEN": "Heian Maru Kai",
 		"NameJP": "平安丸改",
 		"ApiId": 949,
-		"ShipClassId": 1586,
+		"ShipClassId": 1609,
 		"ShipClassApiId": 126,
 		"IsFriendly": true
 	},
@@ -13360,7 +13360,7 @@
 		"NameEN": "I-41",
 		"NameJP": "伊41",
 		"ApiId": 972,
-		"ShipClassId": 1596,
+		"ShipClassId": 1610,
 		"ShipClassApiId": 127,
 		"IsFriendly": true
 	},
@@ -13369,7 +13369,7 @@
 		"NameEN": "I-41 Kai",
 		"NameJP": "伊41改",
 		"ApiId": 977,
-		"ShipClassId": 1596,
+		"ShipClassId": 1611,
 		"ShipClassApiId": 127,
 		"IsFriendly": true
 	},
@@ -13488,6 +13488,15 @@
 		"ApiId": 975,
 		"ShipClassId": 1469,
 		"ShipClassApiId": 23,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1679,
+		"NameEN": "Inagi Kai Ni",
+		"NameJP": "稲木改二",
+		"ApiId": 979,
+		"ShipClassId": 1576,
+		"ShipClassApiId": 117,
 		"IsFriendly": true
 	}
 ]
