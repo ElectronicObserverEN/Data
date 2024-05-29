@@ -8965,7 +8965,7 @@
 		"desc_jp": "特別工廠：「水上偵察機」x11、「艦上戦闘機」x11、「水上爆撃機/多用途水上機」x2を廃棄、<br>「零式水上偵察機(★+3以上)」x2及び開発資材x36、ボーキサイト3,600を準備せよ！",
 		"desc_en": "Proceed to scrap 11x Seaplane Recons, 11x Fighters, 2x Seaplane Bombers and have 2x ★+3 Type 0 Recon Seaplane, 36 Development Materials and 3600 bauxite (All resources and Materials will be consumed upon completion)",
 		"added_update_id": 44,
-		"removed_update_id": 46,
+		"removed_update_id": null,
 		"season_id": 17,
 		"tracker": "[[1126],[[4,[6,11]],[4,[10,11]],[4,[11,2]]],[0,[]]]"
 	},
