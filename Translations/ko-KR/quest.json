@@ -1,5 +1,5 @@
 {
-	"version": "21030352",
+	"version": "21030353",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4352,6 +4352,6 @@
 		"name_jp": "鵜来型海防艦兵装の開発",
 		"name": "Development Of Armament For The Ukuru-class Kaiboukan",
 		"desc_jp": "鵜来型海防艦を旗艦、同第一装備スロットに「三式爆雷投射機」を装備。さらに同装備x1及び<br>開発資材x32を準備、「九三式水中聴音機」「九四式爆雷投射機」「九五式爆雷」各x4を廃棄せよ！",
-		"desc": "Have an Ukuru-class as secretary flagship equipped with a Type 3 Depth Charge Projector in the first slot and then proceed to scrap 4x Type 93 Passive Sonar, 4x Type 94 Depth Charge Projector, 4x Type 95 Depth Charge and have 1x Type 3 Depth Charge Projector (All resources and Materials will be consumed upon completion)"
+		"desc": "Have an Ukuru-class as secretary flagship equipped with a Type 3 Depth Charge Projector in the first slot and then proceed to scrap 4x Type 93 Passive Sonar, 4x Type 94 Depth Charge Projector, 4x Type 95 Depth Charge and have 1x Type 3 Depth Charge Projector and 32 Development Materials (All resources and Materials will be consumed upon completion)"
 	}
 }
