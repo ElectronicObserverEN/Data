@@ -4132,5 +4132,11 @@
 		"api_id": 529,
 		"name_jp": "12.7cm連装砲C型改三H",
 		"name_en": "12.7cm Twin Gun Model C Kai San H"
+	},
+	{
+		"id": 2517,
+		"api_id": 530,
+		"name_jp": "35.6cm連装砲改三丙",
+		"name_en": "35.6cm Twin Gun Mount Kai San C"
 	}
 ]
