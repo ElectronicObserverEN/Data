@@ -988,7 +988,7 @@
 		"improvement": [
 			{
 				"convert": {"id_after":40,"lvl_after":3},
-				"helpers": [{"ship_ids":[141],"days":[0,6]},{"ship_ids":[28,256,418],"days":[1,2]},{"ship_ids":[29,257,548],"days":[0,1,2]},{"ship_ids":[113,289,487],"days":[3]},{"ship_ids":[979,730,922],"days":[4,5,6]}],
+				"helpers": [{"ship_ids":[141],"days":[0,6]},{"ship_ids":[28,256,418],"days":[1,2]},{"ship_ids":[29,257,548],"days":[0,1,2]},{"ship_ids":[113,289,487],"days":[3]},{"ship_ids":[979,730,922],"days":[4,5,6,0]}],
 				"costs": {"fuel":0,"ammo":20,"steel":10,"baux":10,"p1":{"devmats":0,"devmats_sli":1,"screws":1,"screws_sli":1,"equips":[],"consumable":[]},"p2":{"devmats":1,"devmats_sli":2,"screws":1,"screws_sli":2,"equips":[{"id":39,"eq_count":1}],"consumable":[]},"conv":{"devmats":2,"devmats_sli":3,"screws":1,"screws_sli":2,"equips":[{"id":39,"eq_count":1}],"consumable":[]}}
 			}
 		],
@@ -4581,7 +4581,7 @@
 		"improvement": [
 			{
 				"convert": null,
-				"helpers": [{"ship_ids":[551,678],"days":[0,5,6]},{"ship_ids":[552,679],"days":[1,2,3]},{"ship_ids":[611,616],"days":[4,5,6]},{"ship_ids":[926,921],"days":[4,5,6]},{"ship_ids":[922,730,979],"days":[4,5,6]}],
+				"helpers": [{"ship_ids":[551,678],"days":[0,5,6]},{"ship_ids":[552,679],"days":[1,2,3]},{"ship_ids":[611,616],"days":[4,5,6]},{"ship_ids":[926,921],"days":[4,5,6]},{"ship_ids":[922,730,979],"days":[4,5,6,0]}],
 				"costs": {"fuel":10,"ammo":20,"steel":40,"baux":10,"p1":{"devmats":3,"devmats_sli":3,"screws":1,"screws_sli":2,"equips":[{"id":1,"eq_count":1}],"consumable":[]},"p2":{"devmats":3,"devmats_sli":4,"screws":2,"screws_sli":3,"equips":[{"id":382,"eq_count":1}],"consumable":[]}}
 			}
 		],
@@ -4640,7 +4640,7 @@
 		"improvement": [
 			{
 				"convert": null,
-				"helpers": [{"ship_ids":[111,112,462,467],"days":[5,6]},{"ship_ids":[555],"days":[0,4,5,6]},{"ship_ids":[116,117,560],"days":[4,5,6]}],
+				"helpers": [{"ship_ids":[111,112,462,467],"days":[5,6]},{"ship_ids":[555],"days":[0,4,5,6]},{"ship_ids":[116,117,560],"days":[4,5,6,0]}],
 				"costs": {"fuel":290,"ammo":290,"steel":0,"baux":330,"p1":{"devmats":5,"devmats_sli":6,"screws":3,"screws_sli":3,"equips":[{"id":23,"eq_count":2}],"consumable":[]},"p2":{"devmats":6,"devmats_sli":7,"screws":4,"screws_sli":6,"equips":[{"id":26,"eq_count":2}],"consumable":[]}}
 			}
 		],
