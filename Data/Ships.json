@@ -6214,8 +6214,8 @@
 		"NameEN": "No.101 Landing Ship Kai",
 		"NameJP": "第百一号輸送艦改",
 		"ApiId": 727,
-		"ShipClassId": 1574,
-		"ShipClassApiId": 9999,
+		"ShipClassId": 1605,
+		"ShipClassApiId": 120,
 		"IsFriendly": true
 	},
 	{
@@ -6601,8 +6601,8 @@
 		"NameEN": "No.101 Landing Ship",
 		"NameJP": "第百一号輸送艦",
 		"ApiId": 945,
-		"ShipClassId": 1574,
-		"ShipClassApiId": 9999,
+		"ShipClassId": 1605,
+		"ShipClassApiId": 120,
 		"IsFriendly": true
 	},
 	{
@@ -13488,6 +13488,15 @@
 		"ApiId": 975,
 		"ShipClassId": 1469,
 		"ShipClassApiId": 23,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1679,
+		"NameEN": "Inagi Kai Ni",
+		"NameJP": "稲木改二",
+		"ApiId": 979,
+		"ShipClassId": 1576,
+		"ShipClassApiId": 117,
 		"IsFriendly": true
 	}
 ]

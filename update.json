@@ -5,14 +5,14 @@
 	"url": "https://github.com/ElectronicObserverEN/ElectronicObserver/releases/download/5.3.5/ElectronicObserver5.3.5EN.zip",
 	"hash": "AE4A64BAF39D3430169A3A3F0A1FFDFD1767BBB08A75C1CC74DBD7B570F1F727",
 	"nodes": 20071517,
-	"QuestTrackers": 189,
+	"QuestTrackers": 193,
 	"Locks": 55,
 	"FitBonuses": 34,
-	"EquipmentUpgrades": 190,
+	"EquipmentUpgrades": 203,
 	"kancolle_mt": "2024/05/29 11:00:00",
-	"event_state": 3,
+	"event_state": 0,
 	"MaintInfoLink": "https://x.com/KanColle_STAFF/status/1793265555975320009",
 	"MaintStart": "2024/05/29 11:00:00",
 	"MaintEnd": "2024/05/29 20:00:00",
-	"MaintEventState": 3
+	"MaintEventState": 0
 }

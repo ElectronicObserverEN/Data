@@ -94,5 +94,11 @@
 		"name": "May 2024",
 		"added_update_id": 45,
 		"removed_update_id": null
+	},
+	{
+		"id": 19,
+		"name": "Rainy Season 2024",
+		"added_update_id": 46,
+		"removed_update_id": null
 	}
 ]
