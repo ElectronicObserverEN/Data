@@ -3,37 +3,37 @@
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
-		"name": "First Formation",
+		"name": "첫 편성!",
 		"desc_jp": "２隻以上の艦で構成される「艦隊」を編成せよ！",
-		"desc": "Have 2 ships in your main fleet."
+		"desc": "2척 이상의 함선으로 이루어진 함대를 편성하라!"
 	},
 	"102": {
 		"code": "A2",
 		"name_jp": "「駆逐隊」を編成せよ！",
-		"name": "Form a Destroyer Division",
+		"name": "구축대를 편성하라!",
 		"desc_jp": "駆逐艦４隻以上で構成される「駆逐隊」を編成せよ！",
-		"desc": "Have 4 DD in your main fleet."
+		"desc": "구축함 4척 이상으로 이루어진 구축대를 편성하라!"
 	},
 	"103": {
 		"code": "A3",
 		"name_jp": "「水雷戦隊」を編成せよ！",
-		"name": "Form a Torpedo Squadron",
+		"name": "수뢰전대를 편성하라!",
 		"desc_jp": "軽巡洋艦を旗艦とし、数隻の駆逐艦で構成される「水雷戦隊」を編成せよ！",
-		"desc": "Have a CL as a flagship and 3-5 DD in your main fleet."
+		"desc": "경순양함을 기함으로 하여, 수 척의 구축함으로 이루어진 수뢰전대를 편성하라!"
 	},
 	"104": {
 		"code": "A4",
 		"name_jp": "６隻編成の艦隊を編成せよ！",
-		"name": "Form a Six Ship Fleet",
+		"name": "6척 편성 함대를 편성하라!",
 		"desc_jp": "全6隻で構成される主力艦隊を編成せよ！",
-		"desc": "Have 6 ships in your main fleet."
+		"desc": "총 6척으로 이루어진 주력함대를 편성하라!"
 	},
 	"105": {
 		"code": "A5",
 		"name_jp": "軽巡２隻を擁する隊を編成せよ！",
-		"name": "Form a Squadron with two CL",
+		"name": "경순 2척을 거느린 함대를 편성하라!",
 		"desc_jp": "軽巡洋艦２隻を擁する高速艦隊を編成せよ！",
-		"desc": "Have 2 CL in your main fleet."
+		"desc": "경순양함 2척을 거느린 고속함대를 편성하라!"
 	},
 	"106": {
 		"code": "A7",
@@ -101,9 +101,9 @@
 	"115": {
 		"code": "A6",
 		"name_jp": "第２艦隊を編成せよ！",
-		"name": "Form a Second Fleet",
+		"name": "제2함대를 편성하라!",
 		"desc_jp": "二つ目の艦隊、第２艦隊の旗艦を指定して、第２艦隊を編成せよ！",
-		"desc": "Have a flagship in your second fleet."
+		"desc": "두번째 함대, 제2함대의 기함을 지정하여 제2함대를 편성하라!"
 	},
 	"116": {
 		"code": "A9",
