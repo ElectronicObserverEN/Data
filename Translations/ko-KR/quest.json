@@ -59,23 +59,23 @@
 	"109": {
 		"code": "A14",
 		"name_jp": "「川内」型軽巡姉妹の全３艦を編成せよ！",
-		"name": "Form a Sendai-class Fleet",
+		"name": "센다이급 경순 자매 전 3척을 편성하라!",
 		"desc_jp": "川内型軽巡洋艦「川内」「神通」「那珂」を同一艦隊に配属せよ！",
-		"desc": "Have Sendai (川内), Jintsuu (神通) and Naka (那珂) in your main fleet."
+		"desc": "센다이급 경순양함 센다이, 진츠, 나카를 동일함대에 편성하라!"
 	},
 	"110": {
 		"code": "A15",
 		"name_jp": "「妙高」型重巡姉妹の全４隻を編成せよ！",
-		"name": "Form a Myoukou-class Fleet",
+		"name": "묘코급 중순 자매 전 4척을 편성하라!",
 		"desc_jp": "妙高型重巡洋艦「妙高」「那智」「足柄」「羽黒」を同一艦隊に配属せよ！",
-		"desc": "Have Myoukou (妙高), Nachi (那智), Ashigara (足柄) and Haguro (羽黒) in your main fleet."
+		"desc": "묘코급 중순양함 묘코, 나치, 아시가라, 하구로를 동일함대에 편성하라!"
 	},
 	"111": {
 		"code": "A17",
 		"name_jp": "「扶桑」型戦艦姉妹の全２隻を編成せよ！",
-		"name": "Form a Fusou-class Fleet",
+		"name": "후소급 전함 자매 전 2척을 편성하라!",
 		"desc_jp": "扶桑型戦艦「扶桑」「山城」を同一艦隊に配属せよ！",
-		"desc": "Have Fusou (扶桑) and Yamashiro (山城) in your main fleet."
+		"desc": "후소급 전함 후소, 야마시로를 동일함대에 배치하라!"
 	},
 	"112": {
 		"code": "A18",
