@@ -45,16 +45,16 @@
 	"107": {
 		"code": "A12",
 		"name_jp": "「空母機動部隊」を編成せよ！",
-		"name": "Form a Carrier Task Force",
+		"name": "공모기동부대를 편성하라!",
 		"desc_jp": "空母1隻以上を旗艦とし、その護衛艦艇と共に、空母機動部隊を編成せよ！",
-		"desc": "Have a CV/CVL as a flagship and 3 DD in your main fleet."
+		"desc": "항모 1척을 기함으로 하여, 호위함정과 함께 공모기동부대를 편성하라!"
 	},
 	"108": {
 		"code": "A8",
 		"name_jp": "「天龍」型軽巡姉妹の全２艦を編成せよ！",
-		"name": "Form a Tenryuu-class Fleet",
+		"name": "텐류급 경순자매 전 2척을 편성하라!",
 		"desc_jp": "天龍型軽巡洋艦「天龍」「龍田」を同一艦隊に配属せよ！",
-		"desc": "Have Tenryuu (天龍) and Tatsuta (龍田) in your main fleet."
+		"desc": "텐류급 경순양함 텐류, 타츠타를 동일 함대에 배치하라!"
 	},
 	"109": {
 		"code": "A14",
