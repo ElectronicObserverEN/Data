@@ -129,37 +129,37 @@
 	"119": {
 		"code": "A20",
 		"name_jp": "「三川艦隊」を編成せよ！",
-		"name": "Form the Mikawa Fleet",
+		"name": "미카와 함대를 편성하라!",
 		"desc_jp": "「鳥海」「青葉」「加古」「古鷹」「天龍」を含む高速艦隊を編成せよ！",
-		"desc": "Have Choukai (鳥海), Aoba (青葉), Kako (加古), Furutaka (古鷹), Tenryuu (天龍) and a FAST speed ship in your main fleet."
+		"desc": "후루타카, 카코, 아오바, 초카이, 텐류를 포함한 고속함대를 편성하라!"
 	},
 	"120": {
 		"code": "A10",
 		"name_jp": "「第六駆逐隊」を編成せよ！",
-		"name": "Form the 6th Destroyer Division",
+		"name": "제6구축대를 편성하라!",
 		"desc_jp": "「暁」「響」「雷」「電」4隻による第六駆逐隊を編成せよ！",
-		"desc": "Have ONLY Akatsuki (暁), Hibiki (響), Inazuma (雷) and Ikazuchi (電) in your main fleet."
+		"desc": "아카츠키, 히비키, 이카즈치, 이나즈마 4척으로 이루어진 제6구축대를 편성하라!"
 	},
 	"121": {
 		"code": "A21",
 		"name_jp": "「第四戦隊」を編成せよ！",
-		"name": "Form the 4th Cruiser Division",
+		"name": "제4전대를 편성하라!",
 		"desc_jp": "「愛宕」「高雄」「鳥海」「摩耶」を基幹とした第四戦隊を編成せよ！",
-		"desc": "Have Atago (愛宕), Takao (高雄), Choukai (鳥海) and Maya (摩耶) in your main fleet."
+		"desc": "아타고, 타카오, 초카이, 마야를 기반으로 한 제4전대를 편성하라!"
 	},
 	"122": {
 		"code": "A22",
 		"name_jp": "「西村艦隊」を編成せよ！",
-		"name": "Form the Nishimura Fleet",
+		"name": "니시무라 함대를 편성하라!",
 		"desc_jp": "「扶桑」「山城」「最上」「時雨」を基幹とした西村艦隊を編成せよ！",
-		"desc": "Have Fusou (扶桑), Yamashiro (山城), Mogami (最上) and Shigure (時雨) in your main fleet."
+		"desc": "후소, 야마시로, 모가미, 시구레를 기반으로 한 니시무라 함대를 편성하라!"
 	},
 	"123": {
 		"code": "A23",
 		"name_jp": "「第五航空戦隊」を編成せよ！",
-		"name": "Form the 5th Carrier Division",
+		"name": "제5항공전대를 편성하라!",
 		"desc_jp": "「翔鶴」「瑞鶴」を基幹とし、駆逐艦2隻を加えた第五航空戦隊を編成せよ！",
-		"desc": "Have Shoukaku (翔鶴), Zuikaku (瑞鶴) and 2 DD in your main fleet."
+		"desc": "쇼카쿠, 즈이카쿠를 기반으로 구축함 2척을 더한 제5항공전대를 편성하라!"
 	},
 	"124": {
 		"code": "A24",
