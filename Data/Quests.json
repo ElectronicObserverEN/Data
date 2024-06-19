@@ -9056,7 +9056,7 @@
 		"desc_jp": "【梅雨限定任務】航空母艦2隻以上、さらに球磨型・大淀型のいずれか1隻を含む艦隊で西方海域<br>方面に進出！西方海域の全五作戦海域に展開し、同方面の敵戦力の撃滅を図れ！艦隊、出撃！",
 		"desc_en": "Organize a fleet with 2 CV(L) and one of Kuma, Tama, Kitakami, Ooi, Kiso and Ooyodo in your fleet and score an S rank at the boss nodes on 4-1, 4-2, 4-3, 4-4 and 4-5",
 		"added_update_id": 46,
-		"removed_update_id": null,
+		"removed_update_id": 47,
 		"season_id": 19,
 		"tracker": "[[955],[[0,[[4,1],6,1]],[0,[[4,2],6,1]],[0,[[4,3],6,1]],[0,[[4,4],6,1]],[0,[[4,5],6,1]]],[0,[[2,[[11,18,7],2,false,0]],[8,[[[99,false,0,0],[100,false,0,0],[24,false,0,0],[101,false,0,0],[25,false,0,0],[183,false,0,0]],1]]]]]"
 	},
@@ -9069,7 +9069,7 @@
 		"desc_jp": "【梅雨限定任務】駆逐艦を旗艦、海防艦2隻以上を含む海上護衛隊を編成。同艦隊を南西諸島沖、<br>製油所地帯沿岸、鎮守府近海に展開！さらに鎮守府近海航路の海上護衛作戦を反復実施せよ！",
 		"desc_en": "Organize a fleet with a DD as flagship and 2DE in your fleet and score an S rank at the boss nodes on 1-2, 1-3 and 1-5 once each and reach the anchor node N on 1-6 twice",
 		"added_update_id": 46,
-		"removed_update_id": null,
+		"removed_update_id": 47,
 		"season_id": 19,
 		"tracker": "[[954],[[0,[[1,2],6,1]],[0,[[1,3],6,1]],[0,[[1,5],6,1]],[7,[[1,6],2,[14,17],\"N\"]]],[0,[[2,[[2],1,true,0]],[2,[[1],2,false,0]]]]]"
 	},
@@ -9095,7 +9095,7 @@
 		"desc_jp": "【梅雨限定任務】巡洋艦を旗艦、他に水上機母艦、駆逐艦、海防艦各1隻以上を含む艦隊で、<br>南西諸島近海、バシー海峡、東部オリョール海を哨戒！南西諸島海域の防衛に努めよ！",
 		"desc_en": "Organize a fleet with a CA(V)/CL(T)/CT as flagship and have a DD, a DE and an AV in your fleet and score an A+ rank at the boss nodes on 2-1, 2-2, 2-3",
 		"added_update_id": 46,
-		"removed_update_id": null,
+		"removed_update_id": 47,
 		"season_id": 19,
 		"tracker": "[[953],[[0,[[2,1],5,1]],[0,[[2,2],5,1]],[0,[[2,3],5,1]]],[0,[[2,[[3,5,6,4,21],1,true,0]],[2,[[2],1,false,0]],[2,[[1],1,false,0]],[2,[[16],1,false,0]]]]]"
 	},
@@ -9108,7 +9108,7 @@
 		"desc_jp": "【梅雨限定任務】海防艦2隻以上または駆逐艦4隻以上を含む演習海上護衛隊を編成！同演習戦隊で<br>本日中に演習において【A判定】勝利を4回以上達成せよ！海上護衛隊各艦、雨中海上演習始めッ！",
 		"desc_en": "Organize a fleet with 2DE or 4DD in your fleet and score A+ rank 4 times in PvP",
 		"added_update_id": 46,
-		"removed_update_id": null,
+		"removed_update_id": 47,
 		"season_id": 19,
 		"tracker": "[[367],[[9,[5,4]]],[1,[[2,[[1],2,false,0]],[2,[[2],4,false,0]]]]]"
 	},

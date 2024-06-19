@@ -427,5 +427,16 @@
 		"live_update": false,
 		"maint_start_tweet": "https://x.com/KanColle_STAFF/status/1793265555975320009",
 		"maint_end_tweet": ""
+	},
+	{
+		"id": 47,
+		"start_date": "2024-06-27T00:00:00",
+		"start_time": "11:00:00",
+		"end_time": "20:00:00",
+		"name": "Rainy Season 2024 End update",
+		"description": "End of rainy season",
+		"live_update": false,
+		"maint_start_tweet": "https://x.com/KanColle_STAFF/status/1803325068908630458",
+		"maint_end_tweet": ""
 	}
 ]
