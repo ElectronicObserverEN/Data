@@ -4138,5 +4138,23 @@
 		"api_id": 530,
 		"name_jp": "35.6cm連装砲改三丙",
 		"name_en": "35.6cm Twin Gun Mount Kai San C"
+	},
+	{
+		"id": 2518,
+		"api_id": 531,
+		"name_jp": "艦隊通信アンテナ",
+		"name_en": "Fleet Communication Antenna"
+	},
+	{
+		"id": 2519,
+		"api_id": 532,
+		"name_jp": "通信装置&要員",
+		"name_en": "Communication Equipment & Personnel"
+	},
+	{
+		"id": 2520,
+		"api_id": 533,
+		"name_jp": "10cm連装高角砲改+高射装置改",
+		"name_en": "10cm Twin High-angle Mount Kai + Anti-Aircraft Fire Director Kai"
 	}
 ]
