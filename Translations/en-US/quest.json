@@ -1,5 +1,5 @@
 {
-	"version": "21030438",
+	"version": "21030439",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1774,7 +1774,7 @@
 	"372": {
 		"code": "Cy13",
 		"name_jp": "水上艦「艦隊防空演習」を実施せよ！",
-		"name": "水上艦「艦隊防空演習」を実施せよ！",
+		"name": "Carry out a surface ship \"Fleet Air Defense Exercise\"!",
 		"desc_jp": "【艦隊防空演習】「秋月型」駆逐艦を旗艦として他に駆逐艦2隻、航空戦艦2隻以上の艦隊を編成。<br>同演習艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！艦隊の防空、そして護衛は重要だ！",
 		"desc": "Organize a fleet with an Akizuki-class as flagship and have 2BBV and 2DD in your fleet and score A rank 4 times in PvP"
 	},
@@ -4112,16 +4112,23 @@
 	"1014": {
 		"code": "B201",
 		"name_jp": "哨戒部隊で近海及び南西諸島を警戒せよ！",
-		"name": "哨戒部隊で近海及び南西諸島を警戒せよ！",
+		"name": "Guard the nearby waters and Nansei Islands with patrol unit!",
 		"desc_jp": "海防艦3隻以上または海防艦及び駆逐艦計4隻以上を含む小規模な哨戒部隊で、鎮守府正面海域、<br>鎮守府海域南西諸島沖、鎮守府近海、さらに南西諸島近海を哨戒。敵を捜索、これを撃破せよ！",
 		"desc": "Organize a fleet with 3DE or 4DE/DD in your fleet and score an S rank at the boss nodes on 1-1, 1-2, 1-5 and 2-1"
 	},
 	"1015": {
 		"code": "B202",
 		"name_jp": "防空水上艦、出撃せよッ！",
-		"name": "防空水上艦、出撃せよッ！",
+		"name": "Air defense surface ships, sortie!",
 		"desc_jp": "防空艦「秋月型」「摩耶改/改二」「天龍改二」「龍田改二」「五十鈴改二」のうち3隻以上を含む艦隊で<br>製油所地帯沿岸、南西諸島防衛線、バシー海峡、東部オリョール海、南方海域前面の敵を撃滅せよ！",
 		"desc": "Organize a fleet with 3 of Akizuki-class, Tenryuu Kai Ni, Tatsuta Kai Ni, Maya Kai/Kai Ni and Isuzu Kai Ni in your fleet and score an S rank at the boss nodes on 1-3, 1-4, 2-2, 2-3 and 5-1"
+	},
+	"1016": {
+		"code": "B203",
+		"name_jp": "防空駆逐艦「初月改二」、推して参る！",
+		"name": "Air defense destroyer [Hatsuzuki Kai Ni], let's go!",
+		"desc_jp": "改秋月型精鋭駆逐艦「初月改二」を旗艦とした艦隊で、沖ノ島海域、北方AL海域、サーモン海域、<br>サーモン海域北方、昭南本土航路に展開、各海域の敵主力と交戦、我が艦隊でこれを撃滅せよ！",
+		"desc": "Organize a fleet with Hatsuzuki Kai Ni as flagship and score an S rank at the boss nodes on 2-4, 3-5, 5-4, 5-5 and 7-4"
 	},
 	"1101": {
 		"code": "F96",
@@ -4322,8 +4329,15 @@
 	"1138": {
 		"code": "Fy11",
 		"name_jp": "【高射装置量産】94式高射装置の追加配備",
-		"name": "【高射装置量産】94式高射装置の追加配備",
+		"name": "[Mass production of anti-aircraft equipment] Additional deployment of Type 94 AAFD",
 		"desc_jp": "旗艦に秋月型駆逐艦を配備し、「91式高射装置」x4を廃棄。ボーキサイト1,300、鋼材480、<br>高速建造材x4、開発資材x16を準備せよ！(任務達成後、準備した資源・資材は消費します)",
 		"desc": "Have an Akizuki-class as secretary flagship then proceed to scrap 4x Type 91 AAFD and have 1300 bauxite, 480 steel, 4 flamethrowers and 16 devmats (All resources and Materials will be consumed upon completion)"
+	},
+	"1139": {
+		"code": "F124",
+		"name_jp": "【艦隊通信能力の強化】通信要員の育成",
+		"name": "[Strengthening Fleet Communications Capabilities] Communications personnel training",
+		"desc_jp": "旗艦「大淀」の第一スロに「13号対空電探」を装備。開発資材x20準備。「21号対空電探」x2、<br>「13号対空電探」x2、「戦闘糧食」x3を廃棄せよ！(任務達成後、開発資材は消費します)",
+		"desc": "Have your secretary flagship Ooyodo equip a Type 13 Air RADAR in the first slot and then proceed to scrap 2x Type 21 Air RADAR, 2x Type 13 Air RADAR and 3x Combat Ration and have 20x Development Materials (All resources and Materials will be consumed upon completion)"
 	}
 }
