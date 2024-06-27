@@ -11,9 +11,9 @@
 	"FitBonuses": 35,
 	"EquipmentUpgrades": 204,
 	"kancolle_mt": "2024/06/27 11:00:00",
-	"event_state": 0,
-	"MaintInfoLink": "https://fxtwitter.com/KanColle_STAFF/status/1805567846443016536",
+	"event_state": 3,
+	"MaintInfoLink": "https://fxtwitter.com/KanColle_STAFF/status/1806298852234059838",
 	"MaintStart": "2024/06/27 11:00:00",
-	"MaintEnd": "2024/06/27 20:30:00",
-	"MaintEventState": 0
+	"MaintEnd": "2024/06/27 23:00:00",
+	"MaintEventState": 3
 }
