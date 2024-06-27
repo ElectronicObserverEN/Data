@@ -432,7 +432,7 @@
 		"id": 47,
 		"start_date": "2024-06-27T00:00:00",
 		"start_time": "11:00:00",
-		"end_time": "23:00:00",
+		"end_time": "1.01:00:00",
 		"name": "Rainy Season 2024 End update",
 		"description": "End of rainy season",
 		"live_update": false,
