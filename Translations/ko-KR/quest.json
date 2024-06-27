@@ -1,5 +1,5 @@
 {
-	"version": "21030440",
+	"version": "21030441",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1770,6 +1770,13 @@
 		"name": "It's Spring! Harusame, Let's Practice!",
 		"desc_jp": "「春雨」を旗艦として「村雨」「夕立」「五月雨」「白露」「時雨」のうち3隻以上を含む演習艦隊を編成。<br>同演習艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！優しい春の雨、濡れてまいりましょう？",
 		"desc": "Organize a fleet with Harusame as flagship and any 3 of Shiratsuyu, Shigure, Murasame, Yuudachi and Samidare in your fleet and score A rank 4 times in PvP"
+	},
+	"372": {
+		"code": "Cy13",
+		"name_jp": "水上艦「艦隊防空演習」を実施せよ！",
+		"name": "水上艦「艦隊防空演習」を実施せよ！",
+		"desc_jp": "【艦隊防空演習】「秋月型」駆逐艦を旗艦として他に駆逐艦2隻、航空戦艦2隻以上の艦隊を編成。<br>同演習艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！艦隊の防空、そして護衛は重要だ！",
+		"desc": "Organize a fleet with an Akizuki-class as flagship and have 2BBV and 2DD in your fleet and score A rank 4 times in PvP"
 	},
 	"401": {
 		"code": "D1",
@@ -4102,6 +4109,20 @@
 		"desc_jp": "旗艦に八戸の盾、改鵜来型海防艦「稲木改二」を配備した精強な防衛艦隊で、製油所地帯沿岸、<br>南西諸島防衛線、バシー海峡、東部オリョール海、昭南本土航路に展開！敵を撃滅、防衛せよ！",
 		"desc": "Organize a fleet with Inagi Kai Ni as flagship and score an S rank at the boss nodes on 1-3, 1-4, 2-2, 2-3 and 7-4"
 	},
+	"1014": {
+		"code": "B201",
+		"name_jp": "哨戒部隊で近海及び南西諸島を警戒せよ！",
+		"name": "哨戒部隊で近海及び南西諸島を警戒せよ！",
+		"desc_jp": "海防艦3隻以上または海防艦及び駆逐艦計4隻以上を含む小規模な哨戒部隊で、鎮守府正面海域、<br>鎮守府海域南西諸島沖、鎮守府近海、さらに南西諸島近海を哨戒。敵を捜索、これを撃破せよ！",
+		"desc": "Organize a fleet with 3DE or 4DE/DD in your fleet and score an S rank at the boss nodes on 1-1, 1-2, 1-5 and 2-1"
+	},
+	"1015": {
+		"code": "B202",
+		"name_jp": "防空水上艦、出撃せよッ！",
+		"name": "防空水上艦、出撃せよッ！",
+		"desc_jp": "防空艦「秋月型」「摩耶改/改二」「天龍改二」「龍田改二」「五十鈴改二」のうち3隻以上を含む艦隊で<br>製油所地帯沿岸、南西諸島防衛線、バシー海峡、東部オリョール海、南方海域前面の敵を撃滅せよ！",
+		"desc": "Organize a fleet with 3 of Akizuki-class, Tenryuu Kai Ni, Tatsuta Kai Ni, Maya Kai/Kai Ni and Isuzu Kai Ni in your fleet and score an S rank at the boss nodes on 1-3, 1-4, 2-2, 2-3 and 5-1"
+	},
 	"1101": {
 		"code": "F96",
 		"name_jp": "海軍工廠の再整備",
@@ -4297,5 +4318,12 @@
 		"name": "Development Of Armament For The Ukuru-class Kaiboukan",
 		"desc_jp": "鵜来型海防艦を旗艦、同第一装備スロットに「三式爆雷投射機」を装備。さらに同装備x1及び<br>開発資材x32を準備、「九三式水中聴音機」「九四式爆雷投射機」「九五式爆雷」各x4を廃棄せよ！",
 		"desc": "Have an Ukuru-class as secretary flagship equipped with a Type 3 Depth Charge Projector in the first slot and then proceed to scrap 4x Type 93 Passive Sonar, 4x Type 94 Depth Charge Projector, 4x Type 95 Depth Charge and have 1x Type 3 Depth Charge Projector and 32 Development Materials (All resources and Materials will be consumed upon completion)"
+	},
+	"1138": {
+		"code": "Fy11",
+		"name_jp": "【高射装置量産】94式高射装置の追加配備",
+		"name": "【高射装置量産】94式高射装置の追加配備",
+		"desc_jp": "旗艦に秋月型駆逐艦を配備し、「91式高射装置」x4を廃棄。ボーキサイト1,300、鋼材480、<br>高速建造材x4、開発資材x16を準備せよ！(任務達成後、準備した資源・資材は消費します)",
+		"desc": "Have an Akizuki-class as secretary flagship then proceed to scrap 4x Type 91 AAFD and have 1300 bauxite, 480 steel, 4 flamethrowers and 16 devmats (All resources and Materials will be consumed upon completion)"
 	}
 }
