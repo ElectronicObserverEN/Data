@@ -684,12 +684,6 @@
 		"NameJapanese": "Ranger級"
 	},
 	{
-		"Id": 1574,
-		"ApiId": 9999,
-		"NameEnglish": "No.101 Class",
-		"NameJapanese": "第百一号型"
-	},
-	{
 		"Id": 1575,
 		"ApiId": 113,
 		"NameEnglish": "Conte di Cavour Class",
@@ -775,12 +769,6 @@
 	},
 	{
 		"Id": 1612,
-		"ApiId": 120,
-		"NameEnglish": "No.101 Class",
-		"NameJapanese": "第百一号型"
-	},
-	{
-		"Id": 1614,
 		"ApiId": 120,
 		"NameEnglish": "No.101 Class",
 		"NameJapanese": "第百一号型"
