@@ -13144,7 +13144,7 @@
 		"NameEN": "Heian Maru",
 		"NameJP": "平安丸",
 		"ApiId": 944,
-		"ShipClassId": 1613,
+		"ShipClassId": 1586,
 		"ShipClassApiId": 126,
 		"IsFriendly": true
 	},
@@ -13153,7 +13153,7 @@
 		"NameEN": "Heian Maru Kai",
 		"NameJP": "平安丸改",
 		"ApiId": 949,
-		"ShipClassId": 1615,
+		"ShipClassId": 1586,
 		"ShipClassApiId": 126,
 		"IsFriendly": true
 	},
@@ -13360,7 +13360,7 @@
 		"NameEN": "I-41",
 		"NameJP": "伊41",
 		"ApiId": 972,
-		"ShipClassId": 1616,
+		"ShipClassId": 1596,
 		"ShipClassApiId": 127,
 		"IsFriendly": true
 	},
@@ -13369,7 +13369,7 @@
 		"NameEN": "I-41 Kai",
 		"NameJP": "伊41改",
 		"ApiId": 977,
-		"ShipClassId": 1617,
+		"ShipClassId": 1596,
 		"ShipClassApiId": 127,
 		"IsFriendly": true
 	},
