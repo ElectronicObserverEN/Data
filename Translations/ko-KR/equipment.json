@@ -1,5 +1,5 @@
 {
-	"version": "21030273",
+	"version": "21030274",
 	"equipment": {
 		"12cm単装砲": "12cm 단장포",
 		"12.7cm連装砲": "12.7cm 연장포",
@@ -670,7 +670,10 @@
 		"深海Hedgehog Mk.10": "심해 Hedgehog Mk.10",
 		"GFCS+深海5inch連装砲 Mk.32": "GFCS + 심해 5inch 연장포 Mk.32",
 		"深海対戦回転翼海鴎": "심해 대전회전익 우미카모메",
-		"35.6cm連装砲改三丙": "35.6cm 연장포 改3병"
+		"35.6cm連装砲改三丙": "35.6cm 연장포 改3병",
+		"艦隊通信アンテナ": "Fleet Communication Antenna",
+		"通信装置&要員": "Communication Equipment & Personnel",
+		"10cm連装高角砲改+高射装置改": "10cm Twin High-angle Mount Kai + Anti-Aircraft Fire Director Kai"
 	},
 	"equiptype": {
 		"小口径主砲": "소구경주포",

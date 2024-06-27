@@ -772,5 +772,41 @@
 		"ApiId": 120,
 		"NameEnglish": "2nd Class Transporter",
 		"NameJapanese": "二等輸送艦"
+	},
+	{
+		"Id": 1612,
+		"ApiId": 120,
+		"NameEnglish": "No.101 Class",
+		"NameJapanese": "第百一号型"
+	},
+	{
+		"Id": 1613,
+		"ApiId": 126,
+		"NameEnglish": "不明",
+		"NameJapanese": "不明"
+	},
+	{
+		"Id": 1614,
+		"ApiId": 120,
+		"NameEnglish": "No.101 Class",
+		"NameJapanese": "第百一号型"
+	},
+	{
+		"Id": 1615,
+		"ApiId": 126,
+		"NameEnglish": "不明",
+		"NameJapanese": "不明"
+	},
+	{
+		"Id": 1616,
+		"ApiId": 127,
+		"NameEnglish": "不明",
+		"NameJapanese": "不明"
+	},
+	{
+		"Id": 1617,
+		"ApiId": 127,
+		"NameEnglish": "不明",
+		"NameJapanese": "不明"
 	}
 ]
