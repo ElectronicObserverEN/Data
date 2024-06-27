@@ -8965,7 +8965,7 @@
 		"desc_jp": "特別工廠：「水上偵察機」x11、「艦上戦闘機」x11、「水上爆撃機/多用途水上機」x2を廃棄、<br>「零式水上偵察機(★+3以上)」x2及び開発資材x36、ボーキサイト3,600を準備せよ！",
 		"desc_en": "Proceed to scrap 11x Seaplane Recons, 11x Fighters, 2x Seaplane Bombers and have 2x ★+3 Type 0 Recon Seaplane, 36 Development Materials and 3600 bauxite (All resources and Materials will be consumed upon completion)",
 		"added_update_id": 44,
-		"removed_update_id": null,
+		"removed_update_id": 47,
 		"season_id": 17,
 		"tracker": "[[1126],[[4,[6,11]],[4,[10,11]],[4,[11,2]]],[0,[]]]"
 	},
@@ -8978,7 +8978,7 @@
 		"desc_jp": "【記念任務:拡張作戦】「吹雪」「神通」「由良」「Northampton」「Helena」のうち2隻以上、さらに<br>「秋月型」駆逐艦1隻を含む艦隊を編成、南方海域の全海域に展開、敵艦隊と交戦、これを撃滅せよ！",
 		"desc_en": "Organize a fleet with any 2 of Fubuki, Jintsuu, Yura, Northampton, Helena and have an Akizuki-class in your fleet and score an S rank at the boss nodes on 5-1, 5-2, 5-3, 5-4 and 5-5",
 		"added_update_id": 44,
-		"removed_update_id": null,
+		"removed_update_id": 47,
 		"season_id": 17,
 		"tracker": "[[1009],[[0,[[5,1],6,1]],[0,[[5,2],6,1]],[0,[[5,3],6,1]],[0,[[5,4],6,1]],[0,[[5,5],6,1]]],[0,[[8,[[[9,false,0,0],[55,false,0,0],[23,false,0,0],[615,false,0,0],[655,false,0,0]],2]],[7,[0,false,0,54]]]]]"
 	},
