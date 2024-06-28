@@ -6214,7 +6214,7 @@
 		"NameEN": "No.101 Landing Ship Kai",
 		"NameJP": "第百一号輸送艦改",
 		"ApiId": 727,
-		"ShipClassId": 1605,
+		"ShipClassId": 1612,
 		"ShipClassApiId": 120,
 		"IsFriendly": true
 	},
@@ -6601,7 +6601,7 @@
 		"NameEN": "No.101 Landing Ship",
 		"NameJP": "第百一号輸送艦",
 		"ApiId": 945,
-		"ShipClassId": 1605,
+		"ShipClassId": 1612,
 		"ShipClassApiId": 120,
 		"IsFriendly": true
 	},
@@ -13497,6 +13497,15 @@
 		"ApiId": 979,
 		"ShipClassId": 1576,
 		"ShipClassApiId": 117,
+		"IsFriendly": true
+	},
+	{
+		"Id": 1680,
+		"NameEN": "Hatsuzuki Kai Ni",
+		"NameJP": "初月改二",
+		"ApiId": 968,
+		"ShipClassId": 1515,
+		"ShipClassApiId": 54,
 		"IsFriendly": true
 	}
 ]

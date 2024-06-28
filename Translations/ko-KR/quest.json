@@ -1,5 +1,5 @@
 {
-	"version": "21030439",
+	"version": "21030442",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1757,13 +1757,6 @@
 		"desc_jp": "「時雨改三」練度向上任務：改装白露型駆逐艦「時雨改三」を旗艦として、僚艦駆逐艦3隻以上を含む<br>演習艦隊で、本日中に演習で【S判定】勝利を4回以上達成せよ！最精鋭「時雨改三」、演習開始ッ！",
 		"desc": "Organize a fleet with Shigure Kai San as flagship and 3 other DD in your fleet and score S rank 4 times in PvP"
 	},
-	"367": {
-		"code": "2405 C1",
-		"name_jp": "【梅雨限定任務】海上護衛隊、雨中演習！",
-		"name": "[Rainy Season Limited Quest] Maritime Escort Force, Exercises In The Rain!",
-		"desc_jp": "【梅雨限定任務】海防艦2隻以上または駆逐艦4隻以上を含む演習海上護衛隊を編成！同演習戦隊で<br>本日中に演習において【A判定】勝利を4回以上達成せよ！海上護衛隊各艦、雨中海上演習始めッ！",
-		"desc": "Organize a fleet with 2DE or 4DD in your fleet and score A+ rank 4 times in PvP"
-	},
 	"368": {
 		"code": "Cy11",
 		"name_jp": "「十六駆」演習！",
@@ -1777,6 +1770,13 @@
 		"name": "It's Spring! Harusame, Let's Practice!",
 		"desc_jp": "「春雨」を旗艦として「村雨」「夕立」「五月雨」「白露」「時雨」のうち3隻以上を含む演習艦隊を編成。<br>同演習艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！優しい春の雨、濡れてまいりましょう？",
 		"desc": "Organize a fleet with Harusame as flagship and any 3 of Shiratsuyu, Shigure, Murasame, Yuudachi and Samidare in your fleet and score A rank 4 times in PvP"
+	},
+	"372": {
+		"code": "Cy13",
+		"name_jp": "水上艦「艦隊防空演習」を実施せよ！",
+		"name": "水上艦「艦隊防空演習」を実施せよ！",
+		"desc_jp": "【艦隊防空演習】「秋月型」駆逐艦を旗艦として他に駆逐艦2隻、航空戦艦2隻以上の艦隊を編成。<br>同演習艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！艦隊の防空、そして護衛は重要だ！",
+		"desc": "Organize a fleet with an Akizuki-class as flagship and have 2BBV and 2DD in your fleet and score A rank 4 times in PvP"
 	},
 	"401": {
 		"code": "D1",
@@ -3878,27 +3878,6 @@
 		"desc_jp": "作戦準備(第二段階任務)：駆逐艦を3隻以上編成した艦隊で、製油所地帯沿岸、南西諸島防衛線、<br>南西諸島近海、南西諸島海域バシー海峡へ出撃、各作戦海域の敵を撃滅、制海権を確保せよ！",
 		"desc": "Organize Fleet 3 DD and 3 XX and score S rank on the boss nodes of 1-3, 1-4, 2-1, 2-2."
 	},
-	"953": {
-		"code": "2405 B3",
-		"name_jp": "【梅雨限定任務】雨の南西諸島防衛戦！",
-		"name": "[Rainy Season Limited Quest] Defend The Nansei Islands In The Rain!",
-		"desc_jp": "【梅雨限定任務】巡洋艦を旗艦、他に水上機母艦、駆逐艦、海防艦各1隻以上を含む艦隊で、<br>南西諸島近海、バシー海峡、東部オリョール海を哨戒！南西諸島海域の防衛に努めよ！",
-		"desc": "Organize a fleet with a CA(V)/CL(T)/CT as flagship and have a DD, a DE and an AV in your fleet and score an A+ rank at the boss nodes on 2-1, 2-2, 2-3"
-	},
-	"954": {
-		"code": "2405 B4",
-		"name_jp": "【梅雨拡張任務】梅雨の海上護衛強化！",
-		"name": "[Rainy Season Limited Quest] Strengthen The Escort Fleet For The Rainy Season!",
-		"desc_jp": "【梅雨限定任務】駆逐艦を旗艦、海防艦2隻以上を含む海上護衛隊を編成。同艦隊を南西諸島沖、<br>製油所地帯沿岸、鎮守府近海に展開！さらに鎮守府近海航路の海上護衛作戦を反復実施せよ！",
-		"desc": "Organize a fleet with a DD as flagship and 2DE in your fleet and score an S rank at the boss nodes on 1-2, 1-3 and 1-5 once each and reach the anchor node N on 1-6 twice"
-	},
-	"955": {
-		"code": "2405 B5",
-		"name_jp": "【梅雨限定月間任務】西方海域統合作戦",
-		"name": "[Rainy Season Limited Monthly Quest] Western Sea Area Joint Operations",
-		"desc_jp": "【梅雨限定任務】航空母艦2隻以上、さらに球磨型・大淀型のいずれか1隻を含む艦隊で西方海域<br>方面に進出！西方海域の全五作戦海域に展開し、同方面の敵戦力の撃滅を図れ！艦隊、出撃！",
-		"desc": "Organize a fleet with 2 CV(L) and one of Kuma, Tama, Kitakami, Ooi, Kiso and Ooyodo in your fleet and score an S rank at the boss nodes on 4-1, 4-2, 4-3, 4-4 and 4-5"
-	},
 	"957": {
 		"code": "B172",
 		"name_jp": "「山風改二」、抜錨せよ！",
@@ -4116,27 +4095,6 @@
 		"desc_jp": "ソロモン海特別任務：改装白露型駆逐艦「夕立改二」及び「春雨改二」を含む強力な艦隊で、カレー洋<br>リランカ島沖、そして南方サブ島沖海域、サーモン海域、サーモン海域北方に出撃！敵を撃滅せよ！",
 		"desc": "Organize a fleet with Harusame Kai Ni and Yuudachi Kai Ni in your fleet and score an S rank at the boss nodes on 4-5, 5-3, 5-4 and 5-5"
 	},
-	"1009": {
-		"code": "2404 B4",
-		"name_jp": "【記念任務:拡張作戦】艦隊、南方戦線へ！",
-		"name": "[Commemorative Quest: Expansion Operation] Fleet To The Southern Front",
-		"desc_jp": "【記念任務:拡張作戦】「吹雪」「神通」「由良」「Northampton」「Helena」のうち2隻以上、さらに<br>「秋月型」駆逐艦1隻を含む艦隊を編成、南方海域の全海域に展開、敵艦隊と交戦、これを撃滅せよ！",
-		"desc": "Organize a fleet with any 2 of Fubuki, Jintsuu, Yura, Northampton, Helena and have an Akizuki-class in your fleet and score an S rank at the boss nodes on 5-1, 5-2, 5-3, 5-4 and 5-5"
-	},
-	"1010": {
-		"code": "2405 B1",
-		"name_jp": "【期間限定任務】対潜掃討作戦",
-		"name": "[Limited Time Quest] Anti-submarine Sweep Operation",
-		"desc_jp": "【期間限定任務】駆逐艦または海防艦計3隻以上を含む対潜掃討部隊を編成、同艦隊によって<br>鎮守府近海の対潜哨戒を3回以上完遂、さらに鎮守府近海航路の海上護衛を成功させよ！",
-		"desc": "Organize a fleet with 3 DD/DE in your fleet and score an S rank at the boss node on 1-5 three times and reach the anchor node N on 1-6 once."
-	},
-	"1011": {
-		"code": "2405 B2",
-		"name_jp": "【期間限定任務】精強海防艦、緊急近海防衛！",
-		"name": "[Limited Time Quest] Powerful Coastal Defense Ship, Urgent Coastal Defense!",
-		"desc_jp": "【期間限定任務】海防艦を旗艦、他に海防艦2隻以上を含む近海防衛艦隊で、鎮守府正面海域、<br>南西諸島沖海域、製油所地帯沿岸、鎮守府近海、南西諸島近海に出動！各海域の防衛に努めよ！",
-		"desc": "Organize a fleet with a DE as flagship and 2 other DE in your fleet and score an A+ rank at the boss nodes on 1-1, 1-2, 1-3, 1-5 and 2-1"
-	},
 	"1012": {
 		"code": "By14",
 		"name_jp": "鵜来型海防艦、静かな海を防衛せよ！",
@@ -4150,6 +4108,27 @@
 		"name": "Shield Of Hachinohe \"Inagi Kai Ni\", Set Sail!",
 		"desc_jp": "旗艦に八戸の盾、改鵜来型海防艦「稲木改二」を配備した精強な防衛艦隊で、製油所地帯沿岸、<br>南西諸島防衛線、バシー海峡、東部オリョール海、昭南本土航路に展開！敵を撃滅、防衛せよ！",
 		"desc": "Organize a fleet with Inagi Kai Ni as flagship and score an S rank at the boss nodes on 1-3, 1-4, 2-2, 2-3 and 7-4"
+	},
+	"1014": {
+		"code": "B201",
+		"name_jp": "哨戒部隊で近海及び南西諸島を警戒せよ！",
+		"name": "哨戒部隊で近海及び南西諸島を警戒せよ！",
+		"desc_jp": "海防艦3隻以上または海防艦及び駆逐艦計4隻以上を含む小規模な哨戒部隊で、鎮守府正面海域、<br>鎮守府海域南西諸島沖、鎮守府近海、さらに南西諸島近海を哨戒。敵を捜索、これを撃破せよ！",
+		"desc": "Organize a fleet with 3DE or 4DE/DD in your fleet and score an S rank at the boss nodes on 1-1, 1-2, 1-5 and 2-1"
+	},
+	"1015": {
+		"code": "B202",
+		"name_jp": "防空水上艦、出撃せよッ！",
+		"name": "防空水上艦、出撃せよッ！",
+		"desc_jp": "防空艦「秋月型」「摩耶改/改二」「天龍改二」「龍田改二」「五十鈴改二」のうち3隻以上を含む艦隊で<br>製油所地帯沿岸、南西諸島防衛線、バシー海峡、東部オリョール海、南方海域前面の敵を撃滅せよ！",
+		"desc": "Organize a fleet with 3 of Akizuki-class, Tenryuu Kai Ni, Tatsuta Kai Ni, Maya Kai/Kai Ni and Isuzu Kai Ni in your fleet and score an S rank at the boss nodes on 1-3, 1-4, 2-2, 2-3 and 5-1"
+	},
+	"1016": {
+		"code": "B203",
+		"name_jp": "防空駆逐艦「初月改二」、推して参る！",
+		"name": "Air defense destroyer [Hatsuzuki Kai Ni], let's go!",
+		"desc_jp": "改秋月型精鋭駆逐艦「初月改二」を旗艦とした艦隊で、沖ノ島海域、北方AL海域、サーモン海域、<br>サーモン海域北方、昭南本土航路に展開、各海域の敵主力と交戦、我が艦隊でこれを撃滅せよ！",
+		"desc": "Organize a fleet with Hatsuzuki Kai Ni as flagship and score an S rank at the boss nodes on 2-4, 3-5, 5-4, 5-5 and 7-4"
 	},
 	"1101": {
 		"code": "F96",
@@ -4284,13 +4263,6 @@
 		"desc_jp": "旗艦「利根改二」または「由良改二」第一スロに最大改修「零式水上偵察機」。「九七式艦攻(九三一空)」<br>x2廃棄、ボーキ950、新型航空兵装資材x2、開発資材x35、熟練搭乗員x2を準備！",
 		"desc": "Have your secretary flagship Yura Kai Ni or Tone Kai Ni equip a max Type 0 Reconnaissance Seaplane in the first slot and then proceed to scrap 2x Type 97 Torpedo Bomber (931 Air Group) and have 950 bauxite, 2x New Model Aviation Material, 35x Development Material and 2x Skilled Crew Member (All resources and Materials will be consumed upon completion)"
 	},
-	"1126": {
-		"code": "2404 F2",
-		"name_jp": "【艦隊11周年記念任務:拡張任務】特別工廠",
-		"name": "[Fleet 11th Anniversary Quest] Special Arsenal",
-		"desc_jp": "特別工廠：「水上偵察機」x11、「艦上戦闘機」x11、「水上爆撃機/多用途水上機」x2を廃棄、<br>「零式水上偵察機(★+3以上)」x2及び開発資材x36、ボーキサイト3,600を準備せよ！",
-		"desc": "Proceed to scrap 11x Seaplane Recons, 11x Fighters, 2x Seaplane Bombers and have 2x ★+3 Type 0 Recon Seaplane, 36 Development Materials and 3600 bauxite (All resources and Materials will be consumed upon completion)"
-	},
 	"1127": {
 		"code": "F115",
 		"name_jp": "艦載用「煙幕発生装置」の改良",
@@ -4353,5 +4325,19 @@
 		"name": "Development Of Armament For The Ukuru-class Kaiboukan",
 		"desc_jp": "鵜来型海防艦を旗艦、同第一装備スロットに「三式爆雷投射機」を装備。さらに同装備x1及び<br>開発資材x32を準備、「九三式水中聴音機」「九四式爆雷投射機」「九五式爆雷」各x4を廃棄せよ！",
 		"desc": "Have an Ukuru-class as secretary flagship equipped with a Type 3 Depth Charge Projector in the first slot and then proceed to scrap 4x Type 93 Passive Sonar, 4x Type 94 Depth Charge Projector, 4x Type 95 Depth Charge and have 1x Type 3 Depth Charge Projector and 32 Development Materials (All resources and Materials will be consumed upon completion)"
+	},
+	"1138": {
+		"code": "Fy11",
+		"name_jp": "【高射装置量産】94式高射装置の追加配備",
+		"name": "【高射装置量産】94式高射装置の追加配備",
+		"desc_jp": "旗艦に秋月型駆逐艦を配備し、「91式高射装置」x4を廃棄。ボーキサイト1,300、鋼材480、<br>高速建造材x4、開発資材x16を準備せよ！(任務達成後、準備した資源・資材は消費します)",
+		"desc": "Have an Akizuki-class as secretary flagship then proceed to scrap 4x Type 91 AAFD and have 1300 bauxite, 480 steel, 4 flamethrowers and 16 devmats (All resources and Materials will be consumed upon completion)"
+	},
+	"1139": {
+		"code": "F124",
+		"name_jp": "【艦隊通信能力の強化】通信要員の育成",
+		"name": "[Strengthening Fleet Communications Capabilities] Communications personnel training",
+		"desc_jp": "旗艦「大淀」の第一スロに「13号対空電探」を装備。開発資材x20準備。「21号対空電探」x2、<br>「13号対空電探」x2、「戦闘糧食」x3を廃棄せよ！(任務達成後、開発資材は消費します)",
+		"desc": "Have your secretary flagship Ooyodo equip a Type 13 Air RADAR in the first slot and then proceed to scrap 2x Type 21 Air RADAR, 2x Type 13 Air RADAR and 3x Combat Ration and have 20x Development Materials (All resources and Materials will be consumed upon completion)"
 	}
 }
