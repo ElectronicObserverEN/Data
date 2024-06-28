@@ -1,5 +1,5 @@
 {
-	"version": "21030442",
+	"version": "21030443",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -164,51 +164,51 @@
 	"124": {
 		"code": "A24",
 		"name_jp": "新「三川艦隊」を編成せよ！",
-		"name": "Form the New Mikawa Fleet",
+		"name": "신 「미카와 함대」를 편성하라!",
 		"desc_jp": "「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」からなる三川艦隊を編成せよ！",
-		"desc": "Have Choukai (鳥海), Aoba (青葉), Kinugasa (衣笠), Kako (加古), Furutaka (古鷹) and Tenryuu (天龍) in your main fleet."
+		"desc": ""초카이", "아오바", "키누가사", "카코", "후루타카", "텐류"로 이루어진 미카와 함대를 편성하라!"
 	},
 	"125": {
 		"code": "A25",
 		"name_jp": "潜水艦隊を編成せよ！",
-		"name": "Form a Submarine Fleet",
+		"name": "잠수함대를 편성하라!",
 		"desc_jp": "伊号潜水艦2隻からなる潜水艦隊を編成せよ！",
-		"desc": "Have 2 SS/SSV in your main fleet."
+		"desc": "이호 잠수함 2척으로 이루어진 잠수함대를 편성하라!"
 	},
 	"126": {
 		"code": "A26",
 		"name_jp": "航空水上打撃艦隊を編成せよ！",
-		"name": "Form a Naval Aviation Strike Fleet",
+		"name": "항공수상타격함대를 편성하라!",
 		"desc_jp": "航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊を編成せよ！",
-		"desc": "Have ONLY 2 BBV and 2 CAV in your main fleet."
+		"desc": "항공전함 2척과 항공순양함 2척을 기반으로 한 부대를 편성하라!"
 	},
 	"127": {
 		"code": "A27",
 		"name_jp": "中規模潜水艦隊を編成せよ！",
-		"name": "Form a Medium-Sized Submarine Fleet",
+		"name": "중규모 잠수함대를 편성하라!",
 		"desc_jp": "伊号潜水艦3隻以上からなる潜水艦隊を編成せよ！",
-		"desc": "Have 3 SS/SSV in your fleet."
+		"desc": "이호 잠수함 3척 이상으로 이루어진 잠수함대를 편성하라!"
 	},
 	"128": {
 		"code": "A28",
 		"name_jp": "「第六戦隊」を編成せよ！",
-		"name": "Form the 6th Cruiser Division",
+		"name": "「제6전대」를 편성하라!",
 		"desc_jp": "「古鷹」「加古」「青葉」「衣笠」を基幹とした第六戦隊を編成せよ！",
-		"desc": "Have Furutaka (古鷹), Kako (加古), Aoba (青葉) and Kinugasa (衣笠) in your main fleet."
+		"desc": ""카코", "후루타카", "아오바", "키누가사"로 이루어진 제6전대를 편성하라!"
 	},
 	"129": {
 		"code": "A29",
 		"name_jp": "「第五艦隊」を編成せよ！",
-		"name": "Form the 5th Fleet",
+		"name": "「제5함대」를 편성하라!",
 		"desc_jp": "「那智」「足柄」「多摩」「木曾」を中核とした「第五艦隊」を編成せよ！",
-		"desc": "Have Nachi (那智), Ashigara (足柄), Tama (多摩) and Kiso (木曾) in your main fleet."
+		"desc": ""나치", "아시가라", "타마", "키소"를 중핵으로 한 제5전대를 편성하라!"
 	},
 	"130": {
 		"code": "A30",
 		"name_jp": "「第一水雷戦隊」を編成せよ！",
-		"name": "Form the 1st Torpedo Squadron",
+		"name": "「제1수뢰전대」를 편성하라!",
 		"desc_jp": "「阿武隈」「曙」「潮」「霞」「不知火」を中核とした「第一水雷戦隊」を編成せよ！",
-		"desc": "Have Abukuma (阿武隈), Akebono (曙), Ushio (潮), Kasumi (霞) and Shiranui (不知火) in your main fleet."
+		"desc": ""아부쿠마", "아케보노", "우시오", "카스미", "시라누이"를 중핵으로 한 제1수뢰전대를 편성하라!"
 	},
 	"131": {
 		"code": "A31",
