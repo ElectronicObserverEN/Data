@@ -1,5 +1,5 @@
 {
-	"version": "21030439",
+	"version": "21030440",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4114,7 +4114,7 @@
 		"name_jp": "哨戒部隊で近海及び南西諸島を警戒せよ！",
 		"name": "Guard the nearby waters and Nansei Islands with patrol unit!",
 		"desc_jp": "海防艦3隻以上または海防艦及び駆逐艦計4隻以上を含む小規模な哨戒部隊で、鎮守府正面海域、<br>鎮守府海域南西諸島沖、鎮守府近海、さらに南西諸島近海を哨戒。敵を捜索、これを撃破せよ！",
-		"desc": "Organize a fleet with 3DE or 4DE/DD in your fleet and score an S rank at the boss nodes on 1-1, 1-2, 1-5 and 2-1"
+		"desc": "Organize a fleet with 3DE or 4DE/DD in your fleet and score an A+ rank at the boss nodes on 1-1, 1-2, 1-5 and 2-1"
 	},
 	"1015": {
 		"code": "B202",
@@ -4126,7 +4126,7 @@
 	"1016": {
 		"code": "B203",
 		"name_jp": "防空駆逐艦「初月改二」、推して参る！",
-		"name": "Air defense destroyer [Hatsuzuki Kai Ni], let's go!",
+		"name": "Air Defense Destroyer \"Hatsuzuki Kai Ni\", Let's Go!",
 		"desc_jp": "改秋月型精鋭駆逐艦「初月改二」を旗艦とした艦隊で、沖ノ島海域、北方AL海域、サーモン海域、<br>サーモン海域北方、昭南本土航路に展開、各海域の敵主力と交戦、我が艦隊でこれを撃滅せよ！",
 		"desc": "Organize a fleet with Hatsuzuki Kai Ni as flagship and score an S rank at the boss nodes on 2-4, 3-5, 5-4, 5-5 and 7-4"
 	},
