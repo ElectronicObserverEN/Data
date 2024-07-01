@@ -438,5 +438,16 @@
 		"live_update": false,
 		"maint_start_tweet": "https://x.com/KanColle_STAFF/status/1803325068908630458",
 		"maint_end_tweet": "https://fxtwitter.com/KanColle_STAFF/status/1806324259989647611"
+	},
+	{
+		"id": 48,
+		"start_date": "2024-07-02T00:00:00",
+		"start_time": "13:00:00",
+		"end_time": "14:00:00",
+		"name": "Antenna upgrade data fix",
+		"description": "",
+		"live_update": false,
+		"maint_start_tweet": "https://fxtwitter.com/KanColle_STAFF/status/1807726614115205345",
+		"maint_end_tweet": ""
 	}
 ]
