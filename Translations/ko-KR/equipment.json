@@ -671,9 +671,9 @@
 		"GFCS+深海5inch連装砲 Mk.32": "GFCS + 심해 5inch 연장포 Mk.32",
 		"深海対戦回転翼海鴎": "심해 대전회전익 우미카모메",
 		"35.6cm連装砲改三丙": "35.6cm 연장포 改3병",
-		"艦隊通信アンテナ": "Fleet Communication Antenna",
-		"通信装置&要員": "Communication Equipment & Personnel",
-		"10cm連装高角砲改+高射装置改": "10cm Twin High-angle Mount Kai + Anti-Aircraft Fire Director Kai"
+		"艦隊通信アンテナ": "함대 통신 안테나",
+		"通信装置&要員": "통신장치 & 요원",
+		"10cm連装高角砲改+高射装置改": "10cm 연장고각포 改 + 고사장치 改"
 	},
 	"equiptype": {
 		"小口径主砲": "소구경주포",

@@ -164,72 +164,72 @@
 	"124": {
 		"code": "A24",
 		"name_jp": "新「三川艦隊」を編成せよ！",
-		"name": "Form the New Mikawa Fleet",
+		"name": "신 「미카와 함대」를 편성하라!",
 		"desc_jp": "「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」からなる三川艦隊を編成せよ！",
-		"desc": "Have Choukai (鳥海), Aoba (青葉), Kinugasa (衣笠), Kako (加古), Furutaka (古鷹) and Tenryuu (天龍) in your main fleet."
+		"desc": "초카이, 아오바, 키누가사, 카코, 후루타카, 텐류로 이루어진 미카와 함대를 편성하라!"
 	},
 	"125": {
 		"code": "A25",
 		"name_jp": "潜水艦隊を編成せよ！",
-		"name": "Form a Submarine Fleet",
+		"name": "잠수함대를 편성하라!",
 		"desc_jp": "伊号潜水艦2隻からなる潜水艦隊を編成せよ！",
-		"desc": "Have 2 SS/SSV in your main fleet."
+		"desc": "이호 잠수함 2척으로 이루어진 잠수함대를 편성하라!"
 	},
 	"126": {
 		"code": "A26",
 		"name_jp": "航空水上打撃艦隊を編成せよ！",
-		"name": "Form a Naval Aviation Strike Fleet",
+		"name": "항공수상타격함대를 편성하라!",
 		"desc_jp": "航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊を編成せよ！",
-		"desc": "Have ONLY 2 BBV and 2 CAV in your main fleet."
+		"desc": "항공전함 2척과 항공순양함 2척을 기반으로 한 부대를 편성하라!"
 	},
 	"127": {
 		"code": "A27",
 		"name_jp": "中規模潜水艦隊を編成せよ！",
-		"name": "Form a Medium-Sized Submarine Fleet",
+		"name": "중규모 잠수함대를 편성하라!",
 		"desc_jp": "伊号潜水艦3隻以上からなる潜水艦隊を編成せよ！",
-		"desc": "Have 3 SS/SSV in your fleet."
+		"desc": "이호 잠수함 3척 이상으로 이루어진 잠수함대를 편성하라!"
 	},
 	"128": {
 		"code": "A28",
 		"name_jp": "「第六戦隊」を編成せよ！",
-		"name": "Form the 6th Cruiser Division",
+		"name": "「제6전대」를 편성하라!",
 		"desc_jp": "「古鷹」「加古」「青葉」「衣笠」を基幹とした第六戦隊を編成せよ！",
-		"desc": "Have Furutaka (古鷹), Kako (加古), Aoba (青葉) and Kinugasa (衣笠) in your main fleet."
+		"desc": "카코, 후루타카, 아오바, 키누가사로 이루어진 제6전대를 편성하라!"
 	},
 	"129": {
 		"code": "A29",
 		"name_jp": "「第五艦隊」を編成せよ！",
-		"name": "Form the 5th Fleet",
+		"name": "「제5함대」를 편성하라!",
 		"desc_jp": "「那智」「足柄」「多摩」「木曾」を中核とした「第五艦隊」を編成せよ！",
-		"desc": "Have Nachi (那智), Ashigara (足柄), Tama (多摩) and Kiso (木曾) in your main fleet."
+		"desc": "나치, 아시가라, 타마, 키소를 중핵으로 한 제5전대를 편성하라!"
 	},
 	"130": {
 		"code": "A30",
 		"name_jp": "「第一水雷戦隊」を編成せよ！",
-		"name": "Form the 1st Torpedo Squadron",
+		"name": "「제1수뢰전대」를 편성하라!",
 		"desc_jp": "「阿武隈」「曙」「潮」「霞」「不知火」を中核とした「第一水雷戦隊」を編成せよ！",
-		"desc": "Have Abukuma (阿武隈), Akebono (曙), Ushio (潮), Kasumi (霞) and Shiranui (不知火) in your main fleet."
+		"desc": "아부쿠마, 아케보노, 우시오, 카스미, 시라누이를 중핵으로 한 제1수뢰전대를 편성하라!"
 	},
 	"131": {
 		"code": "A31",
 		"name_jp": "「第八駆逐隊」を編成せよ！",
-		"name": "Form the 8th Destroyer Division",
+		"name": "「제8구축대」를 편성하라!",
 		"desc_jp": "「朝潮」「満潮」「大潮」「荒潮」4隻による第八駆逐隊を編成せよ！",
-		"desc": "Have ONLY Asashio (朝潮), Michishio (満潮), Ooshio (大潮) and Arashio (荒潮) in your main fleet."
+		"desc": "아사시오, 미치시오, 오오시오, 아라시오 4척으로 이루어진 제8구축대를 편성하라!"
 	},
 	"132": {
 		"code": "A32",
 		"name_jp": "「第十八駆逐隊」を編成せよ！",
-		"name": "Form the 18th Destroyer Division",
+		"name": "「제18구축대」를 편성하라!",
 		"desc_jp": "「霞」「霰」「陽炎」「不知火」4隻による第十八駆逐隊を編成せよ！",
-		"desc": "Have ONLY Kasumi (霞), Arare (霰), Kagerou (陽炎) and Shiranui (不知火) in your main fleet."
+		"desc": "카스미, 아라레, 카게로, 시라누이 4척으로 이루어진 제18구축대를 편성하라!"
 	},
 	"133": {
 		"code": "A33",
 		"name_jp": "「第三十駆逐隊(第一次)」を編成せよ！",
-		"name": "Form the 30th Destroyer Division (Gen.1)",
+		"name": "「제30구축대(제1차)」를 편성하라!",
 		"desc_jp": "「睦月」「如月」「弥生」「望月」4隻による第三十駆逐隊(第一次)を編成せよ！",
-		"desc": "Have ONLY Mutsuki (睦月), Kisaragi (如月), Yayoi (弥生) and Mochizuki (望月) in your main fleet."
+		"desc": "무츠키, 키사라기, 야요이, 모치즈키 4척으로 이루어진 제30구축대를 편성하라!"
 	},
 	"134": {
 		"code": "WA01",
@@ -248,51 +248,51 @@
 	"136": {
 		"code": "A34",
 		"name_jp": "「第三十駆逐隊(第二次)」を編成せよ！",
-		"name": "Form the 30th Destroyer Division (Gen.2)",
+		"name": "「제30구축대(제2차)」를 편성하라!",
 		"desc_jp": "「睦月」「弥生」「卯月」「望月」4隻による第三十駆逐隊(第二次)を編成せよ！",
-		"desc": "Have ONLY Mutsuki (睦月), Yayoi (弥生), Uzuki (卯月) and Mochizuki (望月) in your main fleet."
+		"desc": "무츠키, 우즈키, 야요이, 모치즈키 4척으로 이루어진 제30구축대를 편성하라!"
 	},
 	"137": {
 		"code": "A35",
 		"name_jp": "「第五戦隊」を編成せよ！",
-		"name": "Form the 5th Cruiser Division",
+		"name": "「제5전대」를 편성하라!",
 		"desc_jp": "「妙高」「那智」「羽黒」を基幹とした第五戦隊を編成せよ！",
-		"desc": "Have Myoukou (妙高), Nachi (那智) and Haguro (羽黒) in your main fleet."
+		"desc": "묘코, 나치, 하구로 를 중심으로 하는 제5전대를 편성하라!"
 	},
 	"138": {
 		"code": "A36",
 		"name_jp": "新編「第二航空戦隊」を編成せよ！",
-		"name": "Form the New 2nd Carrier Division!",
+		"name": "새로운 「제2항공전대」를 편성하라!",
 		"desc_jp": "「飛龍改二」(※旗艦)及び「蒼龍」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！",
-		"desc": "Have Hiryuu Kai2 (飛龍改二) as the flagship, Souryuu (蒼龍) and 2 DD in your main fleet."
+		"desc": "히류 改2를 기함으로 소류를 기본으로 한 2항전(구축함 2척 필요)을 편성하라!"
 	},
 	"139": {
 		"code": "A37",
 		"name_jp": "潜水艦隊「第六艦隊」を編成せよ！",
-		"name": "Form the 6th Submarine Fleet",
+		"name": "잠수함대 「제6함대」를 편성하라!",
 		"desc_jp": "「潜水母艦」と複数の潜水艦(4隻以上)からなる潜水艦隊「第六艦隊」を編成せよ！",
-		"desc": "Have an AS as flagship and 4 (or more) SS/SSV in your main fleet."
+		"desc": "잠수모함과 복수의 잠수함(4척 이상)을 기본으로 한 잠수함대 「제6함대」를 편성하라!"
 	},
 	"140": {
 		"code": "A38",
 		"name_jp": "新型電探を配備せよ！",
-		"name": "Test the New RADAR",
+		"name": "신형 전탐을 배치하라!",
 		"desc_jp": "新型電探運用試験のため、第一艦隊の旗艦に「妙高改二」を配備せよ！",
-		"desc": "Have Myoukou Kai2 (妙高改二) as the flagship of your fleet."
+		"desc": "신형 전탐 운용 시험을 위해 제일 함대의 기함에 묘코 개2를 배치하라!"
 	},
 	"141": {
 		"code": "A39",
 		"name_jp": "再編成「第二航空戦隊」を強化せよ！",
-		"name": "Strengthen the Reorganized 2nd Carrier Division",
+		"name": "재편된 「제2항공전대」를 강화하라!",
 		"desc_jp": "「蒼龍改二」(※旗艦)及び「飛龍改二」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！",
-		"desc": "Have Souryuu Kai2 (蒼龍改二) as flagship, Hiryuu Kai2 (飛龍改二) and 2 DD in your main fleet."
+		"desc": "소류 改2(기함)와 히류 改2를 기본으로 한 2항전(구축함 2척 필요)를 편성하라!"
 	},
 	"142": {
 		"code": "A40",
 		"name_jp": "精鋭「第三戦隊」全艦集結せよ！",
-		"name": "Form the Elite 3rd Battleship Division",
+		"name": "정예 「제3전대」 전함 집결하라!",
 		"desc_jp": "第二次改装を完了した改装金剛型高速戦艦4隻を集結させよ！",
-		"desc": "Have all four Kongou-class Kai2 battleships in your main fleet."
+		"desc": "2차 개장을 완료한 개장 콩고급 고속전함 4척을 집결시켜라!"
 	},
 	"143": {
 		"code": "A41",
