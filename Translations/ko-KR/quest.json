@@ -444,72 +444,72 @@
 	"166": {
 		"code": "A61",
 		"name_jp": "「小沢艦隊」を編成せよ！",
-		"name": "Organise the Ozawa Fleet",
+		"name": "오자와 함대를 편성하라!",
 		"desc_jp": "「瑞鶴改」旗艦、空母「瑞鳳改」「千歳」「千代田」及び「伊勢改」「日向改」を配備せよ！",
-		"desc": "Have Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou Kai (瑞鳳改), Chitose (千歳) and Chiyoda (千代田), and aviation battleships Ise Kai (伊勢改) and Hyuuga Kai (伊勢改) in your main fleet."
+		"desc": "즈이카쿠 改 기함, 즈이호 改, 치토세 航, 치요다 航 및 이세 改, 휴가 改를 배치하라!"
 	},
 	"167": {
 		"code": "A62",
 		"name_jp": "新航空戦隊を編成せよ！",
-		"name": "Organise the New Carrier Fleet",
+		"name": "신항공전대를 편성하라!",
 		"desc_jp": "改二改装を終えた翔鶴型航空母艦2隻と同護衛艦による新航空戦隊を新編成せよ！",
-		"desc": "Have Shoukaku Kai2 (翔鶴改二) and Zuikaku Kai2 (瑞鶴改) along with 2 destroyers as their escort in your main fleet."
+		"desc": "改2 개장을 마친 쇼카쿠급 항공모함 2척과 호위함으로 구성된 신규 항공전대를 편성하라!"
 	},
 	"168": {
 		"code": "A63",
 		"name_jp": "「第十六戦隊(第二次)」を編成せよ！",
-		"name": "Organise the 16th Squadron (2nd Gen.)",
+		"name": "제16전대(제2차)를 편성하라!",
 		"desc_jp": "「名取」を旗艦として「五十鈴」「鬼怒」を擁する、第十六戦隊(第二次)を編成せよ！",
-		"desc": "Have Natori (名取) as the flagship, Isuzu (五十鈴) and Kinu (鬼怒) in your main fleet."
+		"desc": "나토리를 기함으로 이스즈, 키누를 포함한 제16전대(제2차)를 편성하라!"
 	},
 	"169": {
 		"code": "A64",
 		"name_jp": "「新編成航空戦隊」を編成せよ！",
-		"name": "Organize the New Carrier Division",
+		"name": "신규 항공전대를 편성하라!",
 		"desc_jp": "空母2隻+航空戦艦/航空巡洋艦2隻+駆逐艦2隻の新航空戦隊を編成せよ！",
-		"desc": "Have 2 fleet carriers, 2 aviation battleships or aviation cruisers and 2 destroyers in your main fleet."
+		"desc": "항모 2척+(항공전함 or 항공순양함)2척+구축함 2척으로 신규 항공전대를 편성하라!"
 	},
 	"170": {
 		"code": "A65",
 		"name_jp": "精強な「水上反撃部隊」を再編成せよ！",
-		"name": "Strengthen the Surface Counterattack Fleet",
+		"name": "강력한 정예 수상반격부대를 재편성하라!",
 		"desc_jp": "駆逐艦「霞」旗艦、「足柄」「大淀」「朝霜」「清霜」他の水上反撃部隊を再編成せよ！",
-		"desc": "Have Kasumi (霞) as the flagship, Ashigara (足柄), Ooyodo (大淀), Asashimo (朝霜) and Kiyoshimo (清霜) in your main fleet."
+		"desc": "카스미 기함으로 아시가라, 오오요도, 아사시모, 키요시모 등으로 수상반격부대를 재편성하라!"
 	},
 	"171": {
 		"code": "A66",
 		"name_jp": "「第三十一戦隊(第一次)」を編成せよ！",
-		"name": "Organise the 31st Squadron (1st Gen.)",
+		"name": "제31전대(제1차)를 편성하라!",
 		"desc_jp": "「五十鈴改二」旗艦、「皐月改二」「卯月改」を含む、対潜機動水上部隊を編成せよ！",
-		"desc": "Have Isuzu Kai2 (五十鈴改二) as the flagship, Satsuki Kai2 (皐月改二) and Uzuki Kai (卯月改) in your fleet."
+		"desc": "이스즈 改2를 기함으로, 사츠키 改2, 우즈키 改를 포함한 대잠기동수상부대를 편성하라!"
 	},
 	"172": {
 		"code": "A67",
 		"name_jp": "「第二七駆逐隊」を編成せよ！",
-		"name": "Organize the 27th Destroyer Division",
+		"name": "제27구축대를 편성하라!",
 		"desc_jp": "「白露改」旗艦、「時雨」「春雨」「五月雨」4隻による第二七駆逐隊を編成せよ！",
-		"desc": "Have ONLY Shiratsuyu Kai (as flagship), Shigure, Harusame and Samidare in your fleet."
+		"desc": "시라츠유 改를 기함으로, 시구레, 하루사메와 사미다레를 포함하는 총 4척으로 편성된 제27구축대를 편성하라!"
 	},
 	"173": {
 		"code": "A68",
 		"name_jp": "強行高速輸送部隊を編成せよ！",
-		"name": "Organize the High-speed Transport Fleet",
+		"name": "강행고속수송부대를 편성하라!",
 		"desc_jp": "「川内改二」旗艦、「江風改二」「時雨改二」他駆逐2隻による水雷戦隊を編成せよ！",
-		"desc": "Have Sendai Kai2 as flagship, Kawakaze Kai2, Shigure Kai2, and two other destroyers in your fleet."
+		"desc": "센다이 改2를 기함으로 카와카제 改2, 시구레 改2, 그 외 기타 구축함 2척으로 수뢰전대를 편성하라!"
 	},
 	"174": {
 		"code": "A69",
 		"name_jp": "新編「水雷戦隊」を含む艦隊を再編成せよ！",
-		"name": "Organise a New Torpedo Squadron",
+		"name": "신편 수뢰전대를 포함한 함대를 재편성하라!",
 		"desc_jp": "軽巡級を旗艦とした駆逐艦4隻からなる強力な水雷戦隊を含む艦隊を再編成せよ！",
-		"desc": "Have a CL as flagship and 4 DD in your fleet."
+		"desc": "경순급 기함(경순양함, 연습순양함, 중뇌장순양함)과 구축함 4척으로 구성된 강력한 수뢰전대를 포함한 함대를 재편성하라!"
 	},
 	"175": {
 		"code": "A70",
 		"name_jp": "新編「第八駆逐隊」を再編成せよ！",
-		"name": "Reorganise the New 8th Destroyer Division!",
+		"name": "신편 제8구축대를 재편성하라!",
 		"desc_jp": "「朝潮改二」を旗艦とした「満潮」「大潮」「荒潮」4隻による第八駆逐隊を再編成せよ！",
-		"desc": "Have ONLY Asashio Kai2/D as flagship, Michishio, Ooshio, and Arashio in your fleet."
+		"desc": "아사시오 改2를 기함으로 미치시오, 오오시오 아라시오로 구성된 제8구축대를 재편성하라!"
 	},
 	"176": {
 		"code": "A71",
