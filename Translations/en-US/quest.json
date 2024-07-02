@@ -1,5 +1,5 @@
 {
-	"version": "21030439",
+	"version": "21030441",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1636,14 +1636,14 @@
 		"name_jp": "演習ティータイム！",
 		"name": "Tea Time Exercises",
 		"desc_jp": "「Warspite」「金剛」「Ark Royal」「Nelson」及びJ級駆逐艦から4隻以上含む艦隊を編成！<br>同ティータイム艦隊で、本日中に【A判定】以上の勝利を4回以上達成せよ！Tea Timeは大切ネー！",
-		"desc": "Organize a fleet which 4 of the ships include British born ships such as Warspite , Kongou , Ark Royal , Nelson or J-class DDs and score 4 PVP A rank victories or higher in the same day."
+		"desc": "Organize a fleet which 4 of the ships include British born ships such as Warspite , Kongou , Ark Royal , Nelson or J-class DDs and score four PVP A rank victories or higher in the same day."
 	},
 	"346": {
 		"code": "Cy2",
 		"name_jp": "最精鋭！主力オブ主力、演習開始！",
 		"name": "The cream of the crop! Main Force of the Main Force, commence exercises!",
 		"desc_jp": "第十駆逐隊演習任務：改装甲型駆逐艦「夕雲改二」「巻雲改二」「風雲改二」「秋雲改二」の4隻を<br>含む艦隊を編成、同駆逐隊を含む精鋭艦隊で、本日中に【S判定】以上の勝利を4回以上達成せよ！",
-		"desc": "Organize a fleet which 4 of the ships include Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni, and Akigumo Kai Ni and score 4 PVP S- rank victories in the same day."
+		"desc": "Organize a fleet which 4 of the ships include Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni, and Akigumo Kai Ni and score four PVP S- rank victories in the same day."
 	},
 	"347": {
 		"code": "C51",
@@ -1657,14 +1657,14 @@
 		"name_jp": "「精鋭軽巡」演習！",
 		"name": "Elite Light Cruiser Exercise",
 		"desc_jp": "旗艦に軽巡級(雷巡を除く)、旗艦含む3隻以上の軽巡級と随伴駆逐艦2隻を配備した軽巡演習艦隊を<br>編成、同艦隊により本日中に演習で【A判定】以上の勝利を4回以上達成せよ！",
-		"desc": "Organize a fleet with a CL/CT as flagship, 2 CL/CT/CLT, 2 DD, 1 XX and score 4 A+ ranks in PVP on the same day."
+		"desc": "Organize a fleet with a CL/CT as flagship, 2 CL/CT/CLT, 2 DD, 1 XX and score four A+ ranks in PVP on the same day."
 	},
 	"350": {
 		"code": "Cy4",
 		"name_jp": "精鋭「第七駆逐隊」演習開始！",
 		"name": "Elite \"7th Destroyer Division\", Commence Exercises!",
 		"desc_jp": "七駆演習任務：第七駆逐隊「朧」「曙」「漣」「潮」の4隻を含む演習艦隊を編成、<br>本日中に【A判定】勝利3回以上達成せよ。精鋭第七駆逐隊、演習開始！",
-		"desc": "Organize a fleet consisting of Oboro, Akebono, Sazanami, Ushio, and 2 XX and score 3 A ranks in PVP."
+		"desc": "Organize a fleet consisting of Oboro, Akebono, Sazanami, Ushio, and 2 XX and score three A ranks in PVP."
 	},
 	"351": {
 		"code": "C56",
@@ -1685,35 +1685,35 @@
 		"name_jp": "「巡洋艦戦隊」演習！",
 		"name": "Cruiser Squadron, Commence Practice!",
 		"desc_jp": "「重巡洋艦」または「航空巡洋艦」、旗艦を含む重巡級4隻による巡洋艦戦隊を基幹とし、<br>随伴駆逐艦2隻による計6隻編成の艦隊で、本日中に5回以上演習で勝利せよ！",
-		"desc": "Organize a fleet consisting of 1 CA(V) as flagship, 3 CA(V) and 2 DD, then score 5 victories in PVP on the same day."
+		"desc": "Organize a fleet consisting of 1 CA(V) as flagship, 3 CA(V) and 2 DD, then score five victories in PVP on the same day."
 	},
 	"354": {
 		"code": "Cy6",
 		"name_jp": "「改装特務空母」任務部隊演習！",
 		"name": "\"Remodeled Utility Carrier\" Task Force Exercise",
 		"desc_jp": "旗艦に「改装特務空母」、僚艦に「Fletcher級駆逐艦」または「John C.Butler級護衛駆逐艦」<br>計2隻以上を含む任務部隊を編成。同艦隊で、本日中に【S判定】勝利を4回以上達成せよ！",
-		"desc": "Organize a fleet with Gambier Bay Mk.II as flagship and at least two members of the Fletcher-class or the John C. Butler-class in your fleet and score S rank 4 times in PvP"
+		"desc": "Organize a fleet with Gambier Bay Mk.II as flagship and at least two members of the Fletcher-class or the John C. Butler-class in your fleet and score S rank four times in PvP"
 	},
 	"355": {
 		"code": "Cy7",
 		"name_jp": "精鋭「第十五駆逐隊」第一小隊演習！",
 		"name": "Elite \"15th DesDiv\" 1st Platoon Exercise",
 		"desc_jp": "旗艦に「黒潮改二」または「親潮改二」、そのいずれかを二番艦とする演習艦隊で、<br>本日中に【S判定】勝利を4回以上達成せよ！",
-		"desc": "Organize a fleet with either Oyashio Kai Ni or Kuroshio Kai Ni as flagship while the other is in the 2nd ship slot and 4 XX and score 4 S ranks on the same day"
+		"desc": "Organize a fleet with either Oyashio Kai Ni or Kuroshio Kai Ni as flagship while the other is in the 2nd ship slot and 4 XX and score four S ranks on the same day"
 	},
 	"356": {
 		"code": "Cy8",
 		"name_jp": "精鋭「第十九駆逐隊」演習！",
 		"name": "Elite DesDiv 19 exercise!",
 		"desc_jp": "精鋭駆逐艦演習任務：精鋭第十九駆逐隊「磯波改二」「浦波改二」「綾波改二」「敷波改二」<br>4隻を含む演習艦隊を編成。同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！",
-		"desc": "Organize a fleet with Isonami Kai Ni, Uranami Kai Ni, Ayanami Kai Ni, Shikinami Kai Ni in your fleet and score S rank 3 times in PvP"
+		"desc": "Organize a fleet with Isonami Kai Ni, Uranami Kai Ni, Ayanami Kai Ni, Shikinami Kai Ni in your fleet and score S rank three times in PvP"
 	},
 	"357": {
 		"code": "Cy9",
 		"name_jp": "「大和型戦艦」第一戦隊演習、始め！",
 		"name": "[Yamato-class Battleship] 1st Squadron exercises, begin! ",
 		"desc_jp": "大和型戦艦演習任務：大和型戦艦「大和」及び「武蔵」両艦、随伴艦に軽巡1隻、駆逐艦2隻<br>以上を含む演習艦隊を編成。同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！",
-		"desc": "Organize a fleet with Yamato, Musashi, 1CL and 2DD in your fleet and score S rank 3 times in PvP"
+		"desc": "Organize a fleet with Yamato, Musashi, 1CL and 2DD in your fleet and score S rank three times in PvP"
 	},
 	"358": {
 		"code": "C68",
@@ -1734,7 +1734,7 @@
 		"name_jp": "特型初代「第十一駆逐隊」演習スペシャル！",
 		"name": "Special Type \"11th DesDiv Destroyer\", Exercises!",
 		"desc_jp": "駆逐艦演習任務：第十一駆逐隊「吹雪」「白雪」「初雪」「深雪」の4隻を含む演習艦隊を編成。<br>同艦隊で本日中に演習で【A判定】勝利以上を4回以上達成せよ！特I型演習スペシャル！",
-		"desc": "Organize a fleet with Fubuki, Shirayuki, Hatsuyuki and Miyuki in your fleet and score A rank 4 times in PvP"
+		"desc": "Organize a fleet with Fubuki, Shirayuki, Hatsuyuki and Miyuki in your fleet and score A rank four times in PvP"
 	},
 	"364": {
 		"code": "C73",
@@ -1769,14 +1769,14 @@
 		"name_jp": "春です！「春雨」、演習しますっ！",
 		"name": "It's Spring! Harusame, Let's Practice!",
 		"desc_jp": "「春雨」を旗艦として「村雨」「夕立」「五月雨」「白露」「時雨」のうち3隻以上を含む演習艦隊を編成。<br>同演習艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！優しい春の雨、濡れてまいりましょう？",
-		"desc": "Organize a fleet with Harusame as flagship and any 3 of Shiratsuyu, Shigure, Murasame, Yuudachi and Samidare in your fleet and score A rank 4 times in PvP"
+		"desc": "Organize a fleet with Harusame as flagship and any 3 of Shiratsuyu, Shigure, Murasame, Yuudachi and Samidare in your fleet and score A rank four times in PvP"
 	},
 	"372": {
 		"code": "Cy13",
 		"name_jp": "水上艦「艦隊防空演習」を実施せよ！",
 		"name": "Carry out a surface ship \"Fleet Air Defense Exercise\"!",
 		"desc_jp": "【艦隊防空演習】「秋月型」駆逐艦を旗艦として他に駆逐艦2隻、航空戦艦2隻以上の艦隊を編成。<br>同演習艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！艦隊の防空、そして護衛は重要だ！",
-		"desc": "Organize a fleet with an Akizuki-class as flagship and have 2BBV and 2DD in your fleet and score A rank 4 times in PvP"
+		"desc": "Organize a fleet with an Akizuki-class as flagship and have 2BBV and 2DD in your fleet and score A rank four times in PvP"
 	},
 	"401": {
 		"code": "D1",
@@ -4114,7 +4114,7 @@
 		"name_jp": "哨戒部隊で近海及び南西諸島を警戒せよ！",
 		"name": "Guard the nearby waters and Nansei Islands with patrol unit!",
 		"desc_jp": "海防艦3隻以上または海防艦及び駆逐艦計4隻以上を含む小規模な哨戒部隊で、鎮守府正面海域、<br>鎮守府海域南西諸島沖、鎮守府近海、さらに南西諸島近海を哨戒。敵を捜索、これを撃破せよ！",
-		"desc": "Organize a fleet with 3DE or 4DE/DD in your fleet and score an S rank at the boss nodes on 1-1, 1-2, 1-5 and 2-1"
+		"desc": "Organize a fleet with 3DE or 4DE/DD in your fleet and score an A+ rank at the boss nodes on 1-1, 1-2, 1-5 and 2-1"
 	},
 	"1015": {
 		"code": "B202",
@@ -4126,7 +4126,7 @@
 	"1016": {
 		"code": "B203",
 		"name_jp": "防空駆逐艦「初月改二」、推して参る！",
-		"name": "Air defense destroyer [Hatsuzuki Kai Ni], let's go!",
+		"name": "Air Defense Destroyer \"Hatsuzuki Kai Ni\", Let's Go!",
 		"desc_jp": "改秋月型精鋭駆逐艦「初月改二」を旗艦とした艦隊で、沖ノ島海域、北方AL海域、サーモン海域、<br>サーモン海域北方、昭南本土航路に展開、各海域の敵主力と交戦、我が艦隊でこれを撃滅せよ！",
 		"desc": "Organize a fleet with Hatsuzuki Kai Ni as flagship and score an S rank at the boss nodes on 2-4, 3-5, 5-4, 5-5 and 7-4"
 	},

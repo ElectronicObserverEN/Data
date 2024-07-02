@@ -1,5 +1,5 @@
 {
-	"version": "21030273",
+	"version": "21030274",
 	"equipment": {
 		"12cm単装砲": "12cm Single Gun",
 		"12.7cm連装砲": "12.7cm Twin Gun",
@@ -122,7 +122,7 @@
 		"14cm連装砲": "14cm Twin Gun",
 		"91式高射装置": "Type 91 AAFD",
 		"94式高射装置": "Type 94 AAFD",
-		"10cm連装高角砲+高射装置": "10cm Twin High-angle Gun+AAFD",
+		"10cm連装高角砲+高射装置": "10cm Twin High-angle Mount + Anti-Aircraft Fire Director",
 		"SKC34 20.3cm連装砲": "SKC34 20.3cm Twin Gun",
 		"FuMO25 レーダー": "FuMO25 RADAR",
 		"61cm三連装(酸素)魚雷": "61cm Triple (Oxygen) Torpedo",
