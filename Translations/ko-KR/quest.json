@@ -1,5 +1,5 @@
 {
-	"version": "21030445",
+	"version": "21030446",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -234,16 +234,16 @@
 	"134": {
 		"code": "WA01",
 		"name_jp": "式の準備！(その参)",
-		"name": "In Preparation of Love (Part 3)",
+		"name": "식의 준비! (3)",
 		"desc_jp": "第一艦隊旗艦に練度の高い(Lv.90以上～99以下)艦娘を配備して気持ちを整理せよ！",
-		"desc": "Organize your feelings and deploy your fleet with a high level flagship (Lv.90~99)!"
+		"desc": "제1함대의 기함으로 숙련도가 높은(Lv90~99) 칸무스를 배치하여 기분을 정리하자!"
 	},
 	"135": {
 		"code": "WA02",
 		"name_jp": "新たなる旅立ち！",
-		"name": "Journey Anew",
+		"name": "새로운 여행!",
 		"desc_jp": "第一艦隊旗艦に強い絆を結んだLv.100以上の艦娘を配備した6隻の艦隊を編成せよ！",
-		"desc": "Organize a fleet of 6 ships with your newly bonded ship of Lv.100 or more as flagship!"
+		"desc": "제1함대 기함으로 강한 인연을 맺은 Lv.100 이상의 칸무스를 배치한 6척의 함대를 편성하라! "
 	},
 	"136": {
 		"code": "A34",
@@ -362,7 +362,7 @@
 		"name_jp": "「三川艦隊」を新編、突入準備せよ！",
 		"name": "미카와 함대를 새로 편성, 진입 준비하라!",
 		"desc_jp": "第一艦隊において、「鳥海改ニ」を旗艦とする「三川艦隊」を編成せよ！",
-		"desc": "제1함대에 초카이 改2를 기함으로 후루타카, 카코, 아오바, 키누가사, 유바리, 텐류 중에서 5척을 포함해 총 6척에 의한 미카와 함대를 편성하라!"
+		"desc": "제1함대에 초카이 改2를 기함으로 후루타카, 카코, 아오바, 키누가사, 유바리, 텐류 중에서 <br>5척을 포함해 총 6척에 의한 미카와 함대를 편성하라!"
 	},
 	"153": {
 		"code": "A51",
@@ -404,7 +404,7 @@
 		"name_jp": "精鋭無比「第一戦隊」抜錨準備！",
 		"name": "정예무비 제1전대 발묘준비!",
 		"desc_jp": "主力戦艦編成任務：第一艦隊旗艦に「長門改二」、同二番艦に「陸奥改二」から構成される<br>第一戦隊を配備、精鋭無比の水上打撃艦隊を編成せよ！",
-		"desc": "주력전함 편성 임무 : 제1함대 기함에 나가토 改2, 2번함에 무츠 改2로 구성된 제1전대를 배치, 정예무비의 수상타격함대를 편성하라!"
+		"desc": "주력전함 편성 임무 : 제1함대 기함에 나가토 改2, 2번함에 무츠 改2로 구성된 <br>제1전대를 배치, 정예무비의 수상타격함대를 편성하라!"
 	},
 	"161": {
 		"code": "A56",
@@ -514,107 +514,107 @@
 	"176": {
 		"code": "A71",
 		"name_jp": "精鋭！八駆第一小隊！",
-		"name": "Elite! 8th Destroyer Division, 1st platoon!",
+		"name": "정예! 8구 제1소대!",
 		"desc_jp": "「朝潮改二丁」及び「大潮改二」を含む艦隊を編成せよ！",
-		"desc": "Have Asashio Kai2 D and Ooshio Kai2 in your fleet."
+		"desc": "아사시오 改2丁 및 오오시오 改2를 포함한 함대를 편성하라!"
 	},
 	"177": {
 		"code": "A72",
 		"name_jp": "「第十九駆逐隊」を編成せよ！",
-		"name": "Organize the 19th Destroyer Division!",
+		"name": "제19구축대를 편성하라!",
 		"desc_jp": "特型駆逐艦「磯波」「浦波」「綾波」「敷波」4隻による第十九駆逐隊を編成せよ！",
-		"desc": "Have ONLY Isonami, Uranami, Ayanami, Shikinami in your fleet."
+		"desc": "특형구축함 이소나미, 우라나미, 아야나미, 시키나미 4척으로 제19구축대를 편성하라!"
 	},
 	"178": {
 		"code": "A73",
 		"name_jp": "「第十六戦隊(第三次)」を編成せよ！",
-		"name": "Organize the 16th Squadron (3rd Gen.)!",
+		"name": "제16전대(제3차)를 편성하라!",
 		"desc_jp": "「鬼怒」「青葉」「北上」「大井」を擁する、第十六戦隊(第三次)を編成せよ！",
-		"desc": "Have Kinu, Aoba, Kitakami, and Ooi in your fleet."
+		"desc": "키누,아오바, 키타카미, 오오이를 포함한 제16전대(제3차)를 편성하라!"
 	},
 	"179": {
 		"code": "A74",
 		"name_jp": "精鋭「第十六戦隊」を再編成せよ！",
-		"name": "Organize the \"Elite 16th Squadron\"!",
+		"name": "정예 제16전대를 재편성하라!",
 		"desc_jp": "「鬼怒改二」を旗艦として、「北上改二」「大井改二」「球磨改」及び<br>「青葉改」「浦波改」「敷波改」から5隻、計6隻の精鋭「第十六戦隊」を再編成せよ！",
-		"desc": "Have Kinu Kai2 as flagship and 5 of the following: Kitakami Kai2, Ooi Kai2, Kuma Kai, Aoba Kai, Uranami Kai, or Shikinami Kai in your fleet."
+		"desc": "키누 改2 기함, 키타카미 改2, 오오이 改2, 쿠마 改를 비롯해 <br>아오바 改, 우라나미 改, 시키나미 改 중 5척으로 총 6척의 정예 제16전대를 편성하라!"
 	},
 	"180": {
 		"code": "A75",
 		"name_jp": "新編「第一戦隊」を編成せよ！",
-		"name": "Organize the New First Squadron!",
+		"name": "신편 제1전대를 편성하라!",
 		"desc_jp": "編成任務：第一艦隊に新改装された長門型戦艦一番艦「長門改二」及び同二番艦「陸奥改」からなる<br>新編第一戦隊を配備せよ！",
-		"desc": "Have Nagato Kai Ni as flagship and Mutsu Kai in your main fleet."
+		"desc": "편성임무: 제1함대에 새롭게 개장된 나가토형 제1번함 나가토 改2 및 2번함 무츠 改로 구성된 신편 제1전대를 배치하라!"
 	},
 	"181": {
 		"code": "A76",
 		"name_jp": "新編「第七戦隊」を編成せよ！",
-		"name": "Organize the new 7th Squadron!",
+		"name": "신편 제7전대를 편성하라!",
 		"desc_jp": "編成任務：第一艦隊旗艦に新改装された改鈴谷型「熊野改二」、同二番艦に「鈴谷改二」、<br>僚艦に「最上改」「三隈改」を配した新編第七戦隊を配備せよ！",
-		"desc": "Have Kumano Kai Ni as flagship, Suzuya Kai Ni as second ship, Mogami Kai and Mikuma Kai in your main fleet."
+		"desc": "편성임무: 제1함대 기함에 새롭게 개장된 改 스즈야형 쿠마노 改2, 2번함에 스즈야 改2, <br>그 외에 모가미 改, 미쿠마 改를 배치한 신편 제7전대를 배치하라!"
 	},
 	"182": {
 		"code": "A77",
 		"name_jp": "精鋭「第四航空戦隊」を再編成せよ！",
-		"name": "Reorganize the Elite 4th Carrier Division!",
+		"name": "정예 제4항공전대를 편성하라!",
 		"desc_jp": "編成任務：第一艦隊旗艦及び同二番艦に練度50以上の航空戦艦「伊勢」「日向」を配備、<br>随伴艦に軽巡洋艦1隻、駆逐艦2隻他を伴う精鋭「第四航空戦隊」を再編成せよ！",
-		"desc": "Have Ise and Hyuuga as flagship and second ship (both lv50+), 1CL, 2DD, and 1 additional ship in your main fleet."
+		"desc": "편성임무: 제1함대 기함 및 2번함에 숙련도(레벨) 50 이상의 항공전함 이세, 휴가를 배치, <br>수반함에 경순양함 1척, 구축함 2척 그 외를 따르는 정예 제4 항공전대를 재편성하라!"
 	},
 	"183": {
 		"code": "A78",
 		"name_jp": "新編「第四水雷戦隊」を編成せよ！",
-		"name": "Organize the new 4th Torpedo Squadron!",
+		"name": "신편 제4수뢰전대를 편성하라!",
 		"desc_jp": "編成任務：第一艦隊旗艦に「由良改二」を配備、随伴艦に二駆「村雨」「夕立」「春雨」「五月雨」<br>他1隻の駆逐艦を配備、新編「第四水雷戦隊」を編成せよ！",
-		"desc": "Have Yura Kai Ni as flagship, Murasame, Yuudachi, Harusame, Samidare, and 1 additional DD in your main fleet."
+		"desc": "편성임무: 제1함대 기함에 유라 改2를 배치, 수반함에 구축 무라사메, 유다치, 하루사메, 사미다레, <br>기타 1척의 구축함을 배치, 신편 제4수뢰전대를 편성하라!"
 	},
 	"184": {
 		"code": "A79",
 		"name_jp": "精鋭「第二二駆逐隊」を再編成せよ！",
-		"name": "Reorganize the Elite 22th Destroyer Squadron!",
+		"name": "정예 제22구축대를 재편성하라!",
 		"desc_jp": "編成任務：「文月改二」「皐月改二」「水無月改」「長月改」の精強駆逐艦4隻の編成による<br>精鋭第二二駆逐隊を再編成せよ！",
-		"desc": "Have Fumizuki Kai Ni, Satsuki Kai Ni, Minazuki Kai and Nagatsuki Kai in your fleet."
+		"desc": "편성임무: 후미즈키 改2, 사츠키 改2, 미나즈키 改, 나가츠키 改의 정예 구축함 4척의 편성에 의한 <br>정예 제22구축대를 재편성하라!"
 	},
 	"185": {
 		"code": "A80",
 		"name_jp": "精強「任務部隊」を編成せよ！",
-		"name": "Organize a Powerful Task Force!",
+		"name": "정예 임무부대를 편성하라!",
 		"desc_jp": "編成任務：第一艦隊旗艦に「Saratoga Mk.II」または同「Mod.2」を配備、随伴艦に<br>軽巡洋艦1隻、駆逐艦2隻以上を配した夜間作戦可能な機動部隊を新編せよ！",
-		"desc": "Have Saratoga Mk.II/Mod.2 as flagship with 1 CL and 2 DD in your main fleet."
+		"desc": "편성임무 : 제1함대에 기함에 새러토가 Mk.II 또는 Mod.2를 배치, 수반함으로 <br>경순양함 1척, 구축함 2척 이상을 배치한 야간 작전 가능한 기동 부대를 신편성하라!"
 	},
 	"186": {
 		"code": "A81",
 		"name_jp": "最精鋭「第八駆逐隊」を編成せよ！",
-		"name": "Organize the Supreme 8th Destroyer Division!",
+		"name": "최정예 제8구축대를 편성하라!",
 		"desc_jp": "精鋭駆逐隊編成任務：「朝潮改二」「大潮改二」「荒潮改二」「満潮改二」の<br>最精鋭朝潮型駆逐艦4隻による新編「第八駆逐隊」の編成を完了せよ！",
-		"desc": "Have ONLY Arashio Kai Ni, Asashio Kai Ni/D, Michishio Kai Ni, and Ooshio Kai Ni in your fleet."
+		"desc": "정예구축대 편성임무: 아사시오 改2, 오오시오 改2, 아라시오 改2, 미치시오 改2 의 <br>최정예 아사시오형 구축함 4척에 의한 신편 제 8구축대의 편성을 완료하라!"
 	},
 	"187": {
 		"code": "A82",
 		"name_jp": "「西村艦隊」第二戦隊随伴部隊、集結せよ！",
-		"name": "Form the Escorts of Nishimura 2nd Battleship Division!",
+		"name": "니시무라 함대 제2전대 수반부대, 집결하라!",
 		"desc_jp": "捷一号作戦準備任務：第一遊撃部隊第三部隊の中核となる第二戦隊の随伴艦を編成する。<br>各艦隊から艦艇を抽出、第三艦隊に「最上」「時雨」「満潮」「朝雲」「山雲」を配備せよ！",
-		"desc": "Have Mogami, Asagumo, Michishio, Shigure, and Yamagumo in 3rd Fleet."
+		"desc": "첩1호작전 준비임무: 제1유격부대 제3부대의 핵심이 되는 제2전대의 수반함을 편성한다. 각 함대에서 함정을 추출, 제3함대에 모가미, 시구레, 미치시오, 아사구모, 야마구모를 배치하라!"
 	},
 	"188": {
 		"code": "A83",
 		"name_jp": "精鋭「三一駆」第一小隊、抜錨準備！",
-		"name": "Elite 31st Destroyer Division, 1st Platoon, Prepare to Sortie!",
+		"name": "정예 31구축 제 1소대, 발묘 준비!",
 		"desc_jp": "編成任務：「長波改二」旗艦、僚艦に「高波改」または「沖波改」「朝霜改」を配した、<br>第三一駆逐隊第一小隊(2隻艦隊)を編成せよ！",
-		"desc": "Have Naganami Kai Ni as flagship and either Takanami Kai, Okinami Kai, or Asashimo Kai in your fleet."
+		"desc": "편성임무 : 나가나미 改2 기함, 요함에 타카나미 改, 오키나미 改 또는 아사시모 改를 배치한 제31구축대 제1소대(2척함대)를 편성하라!"
 	},
 	"189": {
 		"code": "A84",
 		"name_jp": "精鋭「四水戦」抜錨準備！",
-		"name": "Elite 4th Destroyer Squadron, Prepare to Set Sail!",
+		"name": "정예 4수전 발묘 준비!",
 		"desc_jp": "四水戦(4Sd)特別編成：「村雨改二」旗艦と精鋭四水戦「由良改二」「夕立改二」「春雨改」「五月雨改」<br>「秋月改」より3隻、さらに主力艦2隻を配備した、有力な特務艦隊を編成、南方海域出撃に備えよ！",
-		"desc": "Fill an entire six-ship fleet with Murasame Kai Ni as flagship, 3+ of Yura Kai Ni, Yuudachi Kai Ni, Harusame Kai, Samidare Kai or Akizuki Kai and your choice of other ships."
+		"desc": "4수전(4Sd) 특별 편성: 무라사메 改2 기함과 정예 4수전 유라 改2, 유다치 改2, 하루사메 改, 사미다레 改, <br>아키즈키 改  3척, 거기에 주력함 2척을 배치한 유력한 특무함대를 편성, 남방해역 출격에 대비하라!"
 	},
 	"190": {
 		"code": "A85",
 		"name_jp": "精鋭「第二一駆逐隊」、抜錨準備！",
-		"name": "Elite 21st Destroyer Division, Prepare to Set Sail!",
+		"name": "정예 제21구축대, 발묘 준비!",
 		"desc_jp": "精鋭駆逐隊編成任務：捷一号作戦を支援する。同決戦正面の基地航空への資材輸送任務のため、<br>「若葉改」「初春改二」「初霜改二」を含む3～4隻の精鋭「第二一駆逐隊」の編成を完了せよ！",
-		"desc": "Have Wakaba Kai, Hatsuharu Kai Ni and Hatsushimo Kai Ni, up to 1 other DD, and no other ships in your fleet."
+		"desc": "정예구축대 편성임무 : 첩1호작전을 지원한다. 이 결전 정면의 기지항공의 자재수송임무를 위해, <br>와카바 改, 하츠하루 改2, 하츠시모 改2를 포함한 3~4척의 정예 제21구축대의 편성을 완료하라!"
 	},
 	"191": {
 		"code": "A86",
@@ -626,51 +626,51 @@
 	"192": {
 		"code": "A87",
 		"name_jp": "精鋭「第十八駆逐隊」を編成せよ！",
-		"name": "Organize the Elite 18th Destroyer Division!",
+		"name": "개장 제17구축대, 재편 시작!",
 		"desc_jp": "精鋭駆逐隊編成任務：「霰改二」「霞改二/改二乙」「陽炎改」「不知火改」4隻による<br>精鋭「第十八駆逐隊」を編成せよ！",
-		"desc": "Have ONLY Arare Kai Ni, Kasumi Kai Ni/B, Kagerou Kai, and Shiranui Kai in your fleet."
+		"desc": "개장 구축대 편성임무 : 개장한 카게로형 구축함 우라카제 改, 타니카제 改, 그리고 대공전투의 격화에 대비하여, <br>대공병장을 중심으로 대폭 강화 개장한 이소카제 乙改, 하마카제 乙改에 의한 제17구축대를 재편성하라!"
 	},
 	"193": {
 		"code": "A88",
 		"name_jp": "最精鋭甲型駆逐艦、集結せよ！",
-		"name": "Supreme Type-A Destroyers, Assemble!",
+		"name": "최정예 갑형 구축함, 집결하라!",
 		"desc_jp": "甲型駆逐隊編成任務：「陽炎改二」「不知火改二」「黒潮改二」を集中配備、さらに練度70以上の<br>甲型駆逐艦【陽炎型/夕雲型駆逐艦】を3隻集中配備、精鋭艦隊型駆逐隊を編成せよ！",
-		"desc": "Have Kagerou Kai Ni, Shiranui Kai Ni, Kuroshio Kai Ni, and three level 70+ Kagerou/Yuugumo-class DD in your fleet."
+		"desc": "갑형 구축대 편성임무 : 카게로 改2, 시라누이 改2, 쿠로시오 改2를 집중 배치, 거기에 숙련도 70이상의 갑형 구축함 [카게로형/유구모형 구축함]을 3척 집중 배치, 정예함대형 구축대를 편성하라!"
 	},
 	"194": {
 		"code": "A89",
 		"name_jp": "精鋭「第十八戦隊」を再編成せよ！",
-		"name": "Form the Elite 18th Cruiser Division!",
+		"name": "정예 제18전대를 재편성하라!",
 		"desc_jp": "旧式小型軽巡部隊の改装再編成：改天龍型軽巡「天龍改二」及び「龍田改二」の2隻で<br>構成される精鋭「第十八戦隊」を再編成せよ！",
-		"desc": "Have ONLY Tenryuu Kai Ni and Tatsuta Kai Ni in your fleet."
+		"desc": "구식 소형 경순부대의 개장 재편성 : 改 텐류형 경순 텐류 改2 및 타츠타 改2 2척으로 구성된 정예 제18전대를 재편성하라!"
 	},
 	"195": {
 		"code": "A90",
 		"name_jp": "精強「第十七駆逐隊」を編成せよ！",
-		"name": "Form the Elite 17th Destroyer Division!",
+		"name": "정예의 강력한 제17구축대를 편성하라!",
 		"desc_jp": "改装甲型駆逐隊編成任務：対空兵装を軸に大幅強化改装した「磯風乙改」「浜風乙改」、そして<br>対潜兵装を改装強化した「浦風丁改」「谷風丁改」による、精強「第十七駆逐隊」4隻を編成せよ！",
-		"desc": "Have Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai and Tanikaze D Kai in your fleet."
+		"desc": "개장 갑형 구축대 편성 임무 : 대공 병장를 중심으로 대폭 강화 개장한 이소카제 乙改, 하마카제 乙改, <br>그리고 대잠 병장을 개장 강화한 우라카제 丁改, 타니카제 丁改로 정예의 강력한 제17구축대 4척을 편성하라!"
 	},
 	"196": {
 		"code": "A91",
 		"name_jp": "精鋭「第十駆逐隊」、抜錨準備！",
-		"name": "Elite 10th Destroyer Division, Prepare To Sortie!",
+		"name": "정예 제10구축대, 발묘 준비!",
 		"desc_jp": "甲型駆逐艦編成任務：夕雲型駆逐艦「夕雲改二」及び「巻雲改二」の2隻から成る<br>精鋭第十駆逐隊(2隻編成)を編成せよ！",
-		"desc": "Have Yuugumo Kai Ni and Makigumo Kai Ni in your fleet."
+		"desc": "갑형 구축함 편성임무 : 유구모형 구축함 유구모 改2 및 마키구모 改2의 2척으로 구성된 정예 제10구축대(2척 편성)를 편성하라!"
 	},
 	"197": {
 		"code": "A93",
 		"name_jp": "主力オブ主力、精強「十駆」出撃準備ヨシ！",
-		"name": "Main Force of the Main Force, Powerful \"DesDiv 10\", ready to sortie!",
+		"name": "주력 오브 주력 정강 10구 출격준비욧!",
 		"desc_jp": "第十駆逐隊編成任務：改装甲型駆逐艦「夕雲改二」「巻雲改二」「風雲改二」、そして「秋雲改二」の<br>4隻から成る完全編成の最精強「第十駆逐隊」(4隻編成)を編成せよ！",
-		"desc": "Assemble a fleet containing only Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni, and Akigumo Kai Ni"
+		"desc": "제10구축대 편성임무 : 개장 갑형구축함 유구모 改2, 마키구모 改2, 카자구모 改2, 그리고 아키구모 改2의 4척으로 이루어진 완전편성의 최정강 제10구축대(4척편성) 편성하라!"
 	},
 	"198": {
 		"code": "A94",
 		"name_jp": "精強！「第七駆逐隊」抜錨準備せよ！",
-		"name": "Powerful! \"DesDiv7\", Prepare To Weigh Anchor!",
+		"name": "정강! 제7구축대 발묘 준비하라!",
 		"desc_jp": "第七駆逐隊編成任務：全艦一次改装を終えた第七駆逐隊「朧改」「漣改」「曙改」「潮改」<br>(改二改装以降も可)による精強七駆(4隻編成)を編成せよ！",
-		"desc": "Assemble a fleet containing Oboro Kai, Akebono Kai, Sazanami Kai and Ushio Kai. Second remodel version of them is also allowed."
+		"desc": "제7구축대 편성임무: 전 함선 1차 개장을 끝낸 제7구축대 오보로 改, 사자나미 改, 아케보노 改, 우시오 改 (改2 이후도 가능)에 의한 정강 7구축대(4척 편성)을 편성하라!"
 	},
 	"201": {
 		"code": "Bd1",
