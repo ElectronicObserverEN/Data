@@ -649,28 +649,28 @@
 		"name_jp": "精強「第十七駆逐隊」を編成せよ！",
 		"name": "정예의 강력한 제17구축대를 편성하라!",
 		"desc_jp": "改装甲型駆逐隊編成任務：対空兵装を軸に大幅強化改装した「磯風乙改」「浜風乙改」、そして<br>対潜兵装を改装強化した「浦風丁改」「谷風丁改」による、精強「第十七駆逐隊」4隻を編成せよ！",
-		"desc": ""개장 갑형 구축대 편성 임무 : 대공 병장를 중심으로 대폭 강화 개장한 이소카제 乙改, 하마카제 乙改, <br>그리고 대잠 병장을 개장 강화한 우라카제 丁改, 타니카제 丁改로 정예의 강력한 제17구축대 4척을 편성하라!"
+		"desc": "개장 갑형 구축대 편성 임무 : 대공 병장를 중심으로 대폭 강화 개장한 이소카제 乙改, 하마카제 乙改, <br>그리고 대잠 병장을 개장 강화한 우라카제 丁改, 타니카제 丁改로 정예의 강력한 제17구축대 4척을 편성하라!"
 	},
 	"196": {
 		"code": "A91",
 		"name_jp": "精鋭「第十駆逐隊」、抜錨準備！",
-		"name": "Elite 10th Destroyer Division, Prepare To Sortie!",
+		"name": "정예 제10구축대, 발묘 준비!",
 		"desc_jp": "甲型駆逐艦編成任務：夕雲型駆逐艦「夕雲改二」及び「巻雲改二」の2隻から成る<br>精鋭第十駆逐隊(2隻編成)を編成せよ！",
-		"desc": "Have Yuugumo Kai Ni and Makigumo Kai Ni in your fleet."
+		"desc": "갑형 구축함 편성임무 : 유구모형 구축함 유구모 改2 및 마키구모 改2의 2척으로 구성된 정예 제10구축대(2척 편성)를 편성하라!"
 	},
 	"197": {
 		"code": "A93",
 		"name_jp": "主力オブ主力、精強「十駆」出撃準備ヨシ！",
-		"name": "Main Force of the Main Force, Powerful \"DesDiv 10\", ready to sortie!",
+		"name": "주력 오브 주력 정강 10구 출격준비욧!",
 		"desc_jp": "第十駆逐隊編成任務：改装甲型駆逐艦「夕雲改二」「巻雲改二」「風雲改二」、そして「秋雲改二」の<br>4隻から成る完全編成の最精強「第十駆逐隊」(4隻編成)を編成せよ！",
-		"desc": "Assemble a fleet containing only Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni, and Akigumo Kai Ni"
+		"desc": "제10구축대 편성임무 : 개장 갑형구축함 유구모 改2, 마키구모 改2, 카자구모 改2, 그리고 아키구모 改2의 4척으로 이루어진 완전편성의 최정강 제10구축대(4척편성) 편성하라!"
 	},
 	"198": {
 		"code": "A94",
 		"name_jp": "精強！「第七駆逐隊」抜錨準備せよ！",
-		"name": "Powerful! \"DesDiv7\", Prepare To Weigh Anchor!",
+		"name": "정강! 제7구축대 발묘 준비하라!",
 		"desc_jp": "第七駆逐隊編成任務：全艦一次改装を終えた第七駆逐隊「朧改」「漣改」「曙改」「潮改」<br>(改二改装以降も可)による精強七駆(4隻編成)を編成せよ！",
-		"desc": "Assemble a fleet containing Oboro Kai, Akebono Kai, Sazanami Kai and Ushio Kai. Second remodel version of them is also allowed."
+		"desc": "제7구축대 편성임무: 전 함선 1차 개장을 끝낸 제7구축대 오보로 改, 사자나미 改, 아케보노 改, 우시오 改 (改2 이후도 가능)에 의한 정강 7구축대(4척 편성)을 편성하라!"
 	},
 	"201": {
 		"code": "Bd1",
