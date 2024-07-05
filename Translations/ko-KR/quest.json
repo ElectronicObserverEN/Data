@@ -1,5 +1,5 @@
 {
-	"version": "21030446",
+	"version": "21030447",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -675,86 +675,86 @@
 	"201": {
 		"code": "Bd1",
 		"name_jp": "敵艦隊を撃破せよ！",
-		"name": "Defeat an Enemy Fleet",
+		"name": "적 함대를 격파하라!",
 		"desc_jp": "艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！",
-		"desc": "Sortie to any map and score a victory."
+		"desc": "함대를 출격시켜 적 함대를 포착하여 격멸하라!"
 	},
 	"202": {
 		"code": "B1",
 		"name_jp": "はじめての「出撃」！",
-		"name": "First Sortie",
+		"name": "첫 출격!",
 		"desc_jp": "艦隊を出撃させ、敵艦隊と交戦せよ！",
-		"desc": "Sortie your main fleet on a combat mission."
+		"desc": "함대를 출격시켜 적 함대와 교전하자!"
 	},
 	"203": {
 		"code": "B2",
 		"name_jp": "鎮守府正面海域を護れ！",
-		"name": "Protect the Sea Near the Naval Base",
+		"name": "진수부정면해역을 지켜라!",
 		"desc_jp": "鎮守府正面海域に艦隊を出撃させ、敵艦の跳梁を阻止せよ！",
-		"desc": "Sortie to World 1-1 and clear the stage."
+		"desc": "진수부정면해역에 함대를 출격시켜 적 함대의 공격을 저지하라!"
 	},
 	"204": {
 		"code": "B4",
 		"name_jp": "南西諸島沖に出撃せよ！",
-		"name": "Sortie to the Sea Around Nansei Islands",
+		"name": "남서제도 앞바다에 출격하라!",
 		"desc_jp": "南西諸島沖に艦隊を出撃させ、敵艦隊と交戦せよ！",
-		"desc": "Sortie to World 1-2 and clear the stage."
+		"desc": "남서제도 앞바다에 함대를 출격시켜 적 함대와 교전하라!"
 	},
 	"205": {
 		"code": "B5",
 		"name_jp": "接近する「敵前衛艦隊」を迎撃せよ！",
-		"name": "Intercept Approaching Enemy Vanguard Fleet",
+		"name": "접근하는 적 전위함대를 요격하라!",
 		"desc_jp": "南西諸島沖に接近する「敵前衛艦隊」を捕捉、これを撃滅せよ！",
-		"desc": "Sortie to World 1-2 AGAIN and clear the stage."
+		"desc": "남서제도 앞바다에 접근하는 적 전위함대를 포착하여 격멸하라!"
 	},
 	"206": {
 		"code": "B6",
 		"name_jp": "「水雷戦隊」で出撃せよ！",
-		"name": "Sortie a Torpedo Squadron",
+		"name": "수뢰전대로 출격하라!",
 		"desc_jp": "軽巡洋艦1隻を旗艦とし、複数の駆逐艦からなる水雷戦隊で出撃せよ！",
-		"desc": "Sortie a fleet with a CL as flagship and 3 DD as escorts."
+		"desc": "경순양함 1척을 기함으로 하고 다수의 구축함으로 이루어진 수뢰전대로 출격하라!"
 	},
 	"207": {
 		"code": "B7",
 		"name_jp": "「重巡洋艦」を出撃させよ！",
-		"name": "Sortie a Heavy Cruiser",
+		"name": "중순양함을 출격시켜라!",
 		"desc_jp": "重巡洋艦を旗艦とした艦隊を編成、これを出撃させよ！",
-		"desc": "Sortie a fleet with a CA as flagship."
+		"desc": "중순양함을 기함으로 한 함대를 편성, 출격시켜라!"
 	},
 	"208": {
 		"code": "B8",
 		"name_jp": "「戦艦」を出撃させよ！",
-		"name": "Sortie a Battleship",
+		"name": "전함을 출격시켜라!",
 		"desc_jp": "海上の覇者、戦艦を旗艦とした艦隊を編成、これを出撃させよ！",
-		"desc": "Sortie a fleet with a BB (slow or fast, BBV don't count) as flagship."
+		"desc": "해상의 패자, 전함을 기함으로 한 함대를 편성, 출격시켜라!"
 	},
 	"209": {
 		"code": "B9",
 		"name_jp": "「空母機動部隊」出撃せよ！",
-		"name": "Sortie a Carrier Task Force",
+		"name": "항모기동부대 출격하라!",
 		"desc_jp": "空母1隻とその護衛艦艇で構成した空母機動部隊を出撃させよ！",
-		"desc": "Sortie a fleet with CV/CVL as flagship and 5 DD/CL/AV."
+		"desc": "항모 1척과 그 호위함대로 편성된 항모기동부대를 출격시켜라!"
 	},
 	"210": {
 		"code": "Bd3",
 		"name_jp": "敵艦隊を10回邀撃せよ！",
-		"name": "Defeat 10 Enemy Fleets",
+		"name": "적 함대를 10회 요격하라!",
 		"desc_jp": "艦隊全力出撃！遊弋する敵艦隊を10回邀撃せよ！",
-		"desc": "Score 10 victories against any enemy fleets."
+		"desc": "함대 주력 출격! 배회 중인 적 함대를 10회 요격하라!"
 	},
 	"211": {
 		"code": "Bd4",
 		"name_jp": "敵空母を３隻撃沈せよ！",
-		"name": "Sink 3 Enemy Carriers",
+		"name": "적 항모를 3척 격침시켜라!",
 		"desc_jp": "艦隊の脅威となる敵空母群。これを捕捉撃滅し、3隻轟沈せよ！",
-		"desc": "Sink 3 enemy aircraft carriers (CV/CVL)."
+		"desc": "함대에 위협이 되는 적 항모 무리를 포착 격멸, 3척을 굉침시켜라!"
 	},
 	"212": {
 		"code": "Bd6",
 		"name_jp": "敵輸送船団を叩け！",
-		"name": "Strike the Enemy Transports",
+		"name": "적 수송선단을 타격하라!",
 		"desc_jp": "敵の輸送船5隻以上を撃沈し、敵の補給路を寸断せよ！",
-		"desc": "Sink 5 enemy transport ships."
+		"desc": "적 수송선 5척 이상을 굉침시켜 적 수송로를 단절시켜라!"
 	},
 	"213": {
 		"code": "Bw3",
@@ -780,9 +780,9 @@
 	"216": {
 		"code": "Bd2",
 		"name_jp": "敵艦隊主力を撃滅せよ！",
-		"name": "Sink an Enemy Flagship",
+		"name": "적 함대 주력을 격멸하라!",
 		"desc_jp": "艦隊を出撃させ、敵艦隊「主力」を捕捉！これを撃滅せよ！",
-		"desc": "Sink a flagship of any enemy fleet."
+		"desc": "함대를 출격시켜 적 함대 주력을 포착, 격멸하라!"
 	},
 	"217": {
 		"code": "B10",
@@ -794,9 +794,9 @@
 	"218": {
 		"code": "Bd5",
 		"name_jp": "敵補給艦を3隻撃沈せよ！",
-		"name": "Sink 3 Transport Ships",
+		"name": "적 보급함을 3척 격침하라!",
 		"desc_jp": "艦隊を出撃させ、敵補給艦を捕捉、これを撃滅せよ！",
-		"desc": "Sink 3 enemy transport ships."
+		"desc": "함대를 출격시켜 적 보급함을 포착, 이를 격침하라!"
 	},
 	"219": {
 		"code": "B11",
