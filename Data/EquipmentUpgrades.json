@@ -4269,7 +4269,7 @@
 			},
 			{
 				"convert": null,
-				"helpers": [],
+				"helpers": [{"ship_ids":[554],"days":[2,3,4]}],
 				"costs": {"fuel":240,"ammo":280,"steel":0,"baux":630,"p1":{"devmats":10,"devmats_sli":12,"screws":8,"screws_sli":8,"equips":[{"id":26,"eq_count":2}],"consumable":[]},"p2":{"devmats":15,"devmats_sli":30,"screws":9,"screws_sli":12,"equips":[{"id":55,"eq_count":2}],"consumable":[]}}
 			}
 		],
