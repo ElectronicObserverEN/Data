@@ -1,5 +1,5 @@
 {
-	"version": "21030447",
+	"version": "21030448",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -927,16 +927,16 @@
 	"239": {
 		"code": "B20",
 		"name_jp": "「第八駆逐隊」出撃せよ！",
-		"name": "Sortie the 8th Destroyer Division",
+		"name": "제8구축대 출격하라!",
 		"desc_jp": "編成した「第八駆逐隊」を含む艦隊で出撃し、オリョール海の敵を撃滅せよ！",
-		"desc": "Sortie a fleet with Asashio (朝潮), Michishio (満潮), Ooshio (大潮), Arashio (荒潮) and 2 additional ships. Score a victory against World 2-3 Boss."
+		"desc": "편성한 제8구축대를 포함한 함대로 출격하여 오룔 해의 적을 격멸하라!"
 	},
 	"240": {
 		"code": "B21",
 		"name_jp": "「第十八駆逐隊」出撃せよ！",
-		"name": "Sortie the 18th Destroyer Division",
+		"name": "제18구축대 출격하라!",
 		"desc_jp": "編成した「第十八駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！",
-		"desc": "Sortie a fleet with Kasumi (霞), Arare (霰), Kagerou (陽炎), Shiranui (不知火) and 2 additional ships. Score a victory against World 3-1 Boss."
+		"desc": "편성한 제18구축대를 포함한 함대로 출격하여 모레이 해의 적을 격멸하라!"
 	},
 	"241": {
 		"code": "Bw7",
