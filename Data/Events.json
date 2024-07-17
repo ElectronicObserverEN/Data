@@ -1,23 +1,30 @@
 [
-	{
-		"id": 2,
-		"api_id": 56,
-		"name": "Early Spring 2023",
-		"start_update_id": 11,
-		"end_update_id": 20
-	},
-	{
-		"id": 3,
-		"api_id": 57,
-		"name": "Summer 2023",
-		"start_update_id": 27,
-		"end_update_id": 32
-	},
-	{
-		"id": 4,
-		"api_id": 58,
-		"name": "Early Spring 2024",
-		"start_update_id": 40,
-		"end_update_id": 41
-	}
+  {
+    "id": 2,
+    "api_id": 56,
+    "name": "Early Spring 2023",
+    "start_update_id": 11,
+    "end_update_id": 20
+  },
+  {
+    "id": 3,
+    "api_id": 57,
+    "name": "Summer 2023",
+    "start_update_id": 27,
+    "end_update_id": 32
+  },
+  {
+    "id": 4,
+    "api_id": 58,
+    "name": "Early Spring 2024",
+    "start_update_id": 40,
+    "end_update_id": 41
+  },
+  {
+    "id": 5,
+    "api_id": 59,
+    "name": "Summer 2024",
+    "start_update_id": 49,
+    "end_update_id": null
+  }
 ]
