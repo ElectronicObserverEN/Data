@@ -1,7 +1,7 @@
 [
   {
     "id": 7,
-    "start_date": "2023-02-14T00:00:00",
+    "start_date": "2023-02-14T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "23:27:00",
     "name": "Valentine's Day 2023",
@@ -12,7 +12,7 @@
   },
   {
     "id": 9,
-    "start_date": "2023-01-20T00:00:00",
+    "start_date": "2023-01-20T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "20:00:00",
     "name": "Setsubun 2023",
@@ -23,7 +23,7 @@
   },
   {
     "id": 10,
-    "start_date": "2022-02-14T00:00:00",
+    "start_date": "2022-02-14T00:00:00+00:00",
     "start_time": "00:00:00",
     "end_time": "00:00:00",
     "name": "Valentine's Day 2022",
@@ -34,7 +34,7 @@
   },
   {
     "id": 11,
-    "start_date": "2023-02-28T00:00:00",
+    "start_date": "2023-02-28T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "1.03:00:00",
     "name": "Early Spring 2023 Event start",
@@ -45,7 +45,7 @@
   },
   {
     "id": 12,
-    "start_date": "2023-02-27T00:00:00",
+    "start_date": "2023-02-27T00:00:00+00:00",
     "start_time": "23:00:00",
     "end_time": "23:00:00",
     "name": "January 2023 Ranking Reward",
@@ -56,7 +56,7 @@
   },
   {
     "id": 13,
-    "start_date": "2023-03-03T00:00:00",
+    "start_date": "2023-03-03T00:00:00+00:00",
     "start_time": "22:30:00",
     "end_time": "22:30:00",
     "name": "Early Spring 2023 Event E3",
@@ -67,7 +67,7 @@
   },
   {
     "id": 14,
-    "start_date": "2023-03-17T00:00:00",
+    "start_date": "2023-03-17T00:00:00+00:00",
     "start_time": "00:00:00",
     "end_time": "1.04:00:00",
     "name": "Early Spring 2023 Event EOs",
@@ -78,7 +78,7 @@
   },
   {
     "id": 15,
-    "start_date": "2023-03-19T00:00:00",
+    "start_date": "2023-03-19T00:00:00+00:00",
     "start_time": "18:00:00",
     "end_time": null,
     "name": "Spring 2023 Event E6",
@@ -89,7 +89,7 @@
   },
   {
     "id": 16,
-    "start_date": "2023-03-31T00:00:00",
+    "start_date": "2023-03-31T00:00:00+00:00",
     "start_time": "19:30:00",
     "end_time": "19:30:00",
     "name": "Spring 2023 Event Friend Fleet Wave 1 & ranking rewards",
@@ -100,7 +100,7 @@
   },
   {
     "id": 17,
-    "start_date": "2023-04-14T00:00:00",
+    "start_date": "2023-04-14T00:00:00+00:00",
     "start_time": "00:00:00",
     "end_time": null,
     "name": "Spring 2023 Event Friend Fleet Wave 2",
@@ -111,7 +111,7 @@
   },
   {
     "id": 18,
-    "start_date": "2023-04-10T00:00:00",
+    "start_date": "2023-04-10T00:00:00+00:00",
     "start_time": "19:30:00",
     "end_time": null,
     "name": "End of Winter CGs, Start of Spring CGs",
@@ -122,7 +122,7 @@
   },
   {
     "id": 19,
-    "start_date": "2023-04-23T00:00:00",
+    "start_date": "2023-04-23T00:00:00+00:00",
     "start_time": "14:00:00",
     "end_time": "19:30:00",
     "name": "10th anniversary",
@@ -133,7 +133,7 @@
   },
   {
     "id": 20,
-    "start_date": "2023-05-01T00:00:00",
+    "start_date": "2023-05-01T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "20:00:00",
     "name": "Spring 2023 Event end",
@@ -144,7 +144,7 @@
   },
   {
     "id": 21,
-    "start_date": "2023-04-30T00:00:00",
+    "start_date": "2023-04-30T00:00:00+00:00",
     "start_time": "19:30:00",
     "end_time": "19:30:00",
     "name": "March 2023 Ranking Rewards",
@@ -155,7 +155,7 @@
   },
   {
     "id": 22,
-    "start_date": "2023-05-26T00:00:00",
+    "start_date": "2023-05-26T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "19:00:00",
     "name": "May 2023 API/DB maintenance",
@@ -166,7 +166,7 @@
   },
   {
     "id": 23,
-    "start_date": "2023-06-14T00:00:00",
+    "start_date": "2023-06-14T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "22:00:00",
     "name": "Shigure K3 Update",
@@ -177,7 +177,7 @@
   },
   {
     "id": 24,
-    "start_date": "2021-09-28T00:00:00",
+    "start_date": "2021-09-28T00:00:00+00:00",
     "start_time": "00:00:00",
     "end_time": "00:00:00",
     "name": "Summer 2021 Event End",
@@ -188,7 +188,7 @@
   },
   {
     "id": 25,
-    "start_date": "2023-07-07T00:00:00",
+    "start_date": "2023-07-07T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "22:00:00",
     "name": "Rainy Season End",
@@ -199,7 +199,7 @@
   },
   {
     "id": 26,
-    "start_date": "2023-06-30T00:00:00",
+    "start_date": "2023-06-30T00:00:00+00:00",
     "start_time": "19:30:00",
     "end_time": null,
     "name": "May 2023 Ranking Rewards",
@@ -210,7 +210,7 @@
   },
   {
     "id": 27,
-    "start_date": "2023-08-08T00:00:00",
+    "start_date": "2023-08-08T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "1.01:00:00",
     "name": "Summer 2023 Event Start",
@@ -221,7 +221,7 @@
   },
   {
     "id": 28,
-    "start_date": "2023-07-31T00:00:00",
+    "start_date": "2023-07-31T00:00:00+00:00",
     "start_time": "20:00:00",
     "end_time": null,
     "name": "June 2023 Ranking Rewards",
@@ -232,7 +232,7 @@
   },
   {
     "id": 29,
-    "start_date": "2023-08-25T00:00:00",
+    "start_date": "2023-08-25T00:00:00+00:00",
     "start_time": "1.22:00:00",
     "end_time": null,
     "name": "Summer 2023 Event EO release",
@@ -243,7 +243,7 @@
   },
   {
     "id": 30,
-    "start_date": "2023-08-27T00:00:00",
+    "start_date": "2023-08-27T00:00:00+00:00",
     "start_time": "00:00:00",
     "end_time": null,
     "name": "Summer 2023 Event E7 release",
@@ -254,7 +254,7 @@
   },
   {
     "id": 31,
-    "start_date": "2023-09-30T00:00:00",
+    "start_date": "2023-09-30T00:00:00+00:00",
     "start_time": "19:30:00",
     "end_time": null,
     "name": "August 2023 Ranking Rewards",
@@ -265,7 +265,7 @@
   },
   {
     "id": 32,
-    "start_date": "2023-10-11T00:00:00",
+    "start_date": "2023-10-11T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "20:30:00",
     "name": "Summer 2023 Event End",
@@ -276,7 +276,7 @@
   },
   {
     "id": 33,
-    "start_date": "2023-11-02T00:00:00",
+    "start_date": "2023-11-02T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "20:00:00",
     "name": "Saury Festival 2023 Start",
@@ -287,7 +287,7 @@
   },
   {
     "id": 34,
-    "start_date": "2023-11-28T00:00:00",
+    "start_date": "2023-11-28T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "20:00:00",
     "name": "Saury Festival 2023 End",
@@ -298,7 +298,7 @@
   },
   {
     "id": 35,
-    "start_date": "2023-12-15T00:00:00",
+    "start_date": "2023-12-15T00:00:00+00:00",
     "start_time": "13:00:00",
     "end_time": "16:30:00",
     "name": "December 2023 Android Update",
@@ -309,7 +309,7 @@
   },
   {
     "id": 36,
-    "start_date": "2023-12-26T00:00:00",
+    "start_date": "2023-12-26T00:00:00+00:00",
     "start_time": "13:30:00",
     "end_time": "20:30:00",
     "name": "December 2023 update",
@@ -320,7 +320,7 @@
   },
   {
     "id": 37,
-    "start_date": "2020-12-23T00:00:00",
+    "start_date": "2020-12-22T23:00:00+00:00",
     "start_time": "00:00:00",
     "end_time": "00:00:00",
     "name": "7th anniversary",
@@ -331,7 +331,7 @@
   },
   {
     "id": 38,
-    "start_date": "2024-01-01T00:00:00",
+    "start_date": "2024-01-01T00:00:00+00:00",
     "start_time": "00:00:00",
     "end_time": "00:00:00",
     "name": "New Year 2024",
@@ -342,7 +342,7 @@
   },
   {
     "id": 39,
-    "start_date": "2024-01-25T00:00:00",
+    "start_date": "2024-01-25T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "20:00:00",
     "name": "Mikuma K2 Update",
@@ -353,7 +353,7 @@
   },
   {
     "id": 40,
-    "start_date": "2024-02-29T00:00:00",
+    "start_date": "2024-02-29T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "1.07:00:00",
     "name": "Early Spring 2024 Event Start (MO)",
@@ -364,7 +364,7 @@
   },
   {
     "id": 41,
-    "start_date": "2024-04-10T00:00:00",
+    "start_date": "2024-04-10T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "19:15:00",
     "name": "Early Spring 2024 Event End",
@@ -375,7 +375,7 @@
   },
   {
     "id": 42,
-    "start_date": "2024-02-13T00:00:00",
+    "start_date": "2024-02-13T00:00:00+00:00",
     "start_time": "16:00:00",
     "end_time": "18:30:00",
     "name": "Valentine 2024",
@@ -386,7 +386,7 @@
   },
   {
     "id": 43,
-    "start_date": "2024-03-02T00:00:00",
+    "start_date": "2024-03-02T00:00:00+00:00",
     "start_time": null,
     "end_time": null,
     "name": "Early Spring 2024 EO",
@@ -397,7 +397,7 @@
   },
   {
     "id": 44,
-    "start_date": "2024-04-23T00:00:00",
+    "start_date": "2024-04-23T00:00:00+00:00",
     "start_time": "14:00:00",
     "end_time": "18:00:00",
     "name": "11th anniversary",
@@ -408,7 +408,7 @@
   },
   {
     "id": 45,
-    "start_date": "2024-05-01T00:00:00",
+    "start_date": "2024-05-01T00:00:00+00:00",
     "start_time": "19:30:00",
     "end_time": "19:30:00",
     "name": "May Furniture Update",
@@ -419,7 +419,7 @@
   },
   {
     "id": 46,
-    "start_date": "2024-05-29T00:00:00",
+    "start_date": "2024-05-29T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "20:00:00",
     "name": "Rainy Season 2024 Update",
@@ -430,7 +430,7 @@
   },
   {
     "id": 47,
-    "start_date": "2024-06-27T00:00:00",
+    "start_date": "2024-06-27T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "1.01:00:00",
     "name": "Rainy Season 2024 End update",
@@ -441,7 +441,7 @@
   },
   {
     "id": 48,
-    "start_date": "2024-07-02T00:00:00",
+    "start_date": "2024-07-02T00:00:00+00:00",
     "start_time": "13:00:00",
     "end_time": "14:00:00",
     "name": "Antenna upgrade data fix",
@@ -452,7 +452,7 @@
   },
   {
     "id": 49,
-    "start_date": "2024-07-26T00:00:00",
+    "start_date": "2024-07-26T00:00:00+00:00",
     "start_time": "11:00:00",
     "end_time": "20:00:00",
     "name": "Summer 2024 Event Start",
