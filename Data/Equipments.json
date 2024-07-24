@@ -1,4160 +1,4160 @@
 [
-	{
-		"id": 1843,
-		"api_id": 1,
-		"name_jp": "12cm単装砲",
-		"name_en": "12cm Single Gun",
-		"development": true
-	},
-	{
-		"id": 1844,
-		"api_id": 2,
-		"name_jp": "12.7cm連装砲",
-		"name_en": "12.7cm Twin Gun",
-		"development": true
-	},
-	{
-		"id": 1845,
-		"api_id": 3,
-		"name_jp": "10cm連装高角砲",
-		"name_en": "10cm Twin High-angle Gun",
-		"development": true
-	},
-	{
-		"id": 1846,
-		"api_id": 4,
-		"name_jp": "14cm単装砲",
-		"name_en": "14cm Single Gun",
-		"development": true
-	},
-	{
-		"id": 1847,
-		"api_id": 5,
-		"name_jp": "15.5cm三連装砲",
-		"name_en": "15.5cm Triple Gun",
-		"development": true
-	},
-	{
-		"id": 1848,
-		"api_id": 6,
-		"name_jp": "20.3cm連装砲",
-		"name_en": "20.3cm Twin Gun",
-		"development": true
-	},
-	{
-		"id": 1849,
-		"api_id": 7,
-		"name_jp": "35.6cm連装砲",
-		"name_en": "35.6cm Twin Gun",
-		"development": true
-	},
-	{
-		"id": 1850,
-		"api_id": 8,
-		"name_jp": "41cm連装砲",
-		"name_en": "41cm Twin Gun",
-		"development": true
-	},
-	{
-		"id": 1851,
-		"api_id": 9,
-		"name_jp": "46cm三連装砲",
-		"name_en": "46cm Triple Gun",
-		"development": true
-	},
-	{
-		"id": 1852,
-		"api_id": 10,
-		"name_jp": "12.7cm連装高角砲",
-		"name_en": "12.7cm Twin High-angle Gun",
-		"development": true
-	},
-	{
-		"id": 1853,
-		"api_id": 11,
-		"name_jp": "15.2cm単装砲",
-		"name_en": "15.2cm Single Gun",
-		"development": true
-	},
-	{
-		"id": 1854,
-		"api_id": 12,
-		"name_jp": "15.5cm三連装副砲",
-		"name_en": "15.5cm Triple Secondary Gun",
-		"development": true
-	},
-	{
-		"id": 1855,
-		"api_id": 13,
-		"name_jp": "61cm三連装魚雷",
-		"name_en": "61cm Triple Torpedo",
-		"development": true
-	},
-	{
-		"id": 1856,
-		"api_id": 14,
-		"name_jp": "61cm四連装魚雷",
-		"name_en": "61cm Quadruple Torpedo",
-		"development": true
-	},
-	{
-		"id": 1857,
-		"api_id": 15,
-		"name_jp": "61cm四連装(酸素)魚雷",
-		"name_en": "61cm Quadruple (Oxygen) Torpedo",
-		"development": true
-	},
-	{
-		"id": 1858,
-		"api_id": 16,
-		"name_jp": "九七式艦攻",
-		"name_en": "Type 97 Torpedo Bomber",
-		"development": true
-	},
-	{
-		"id": 1859,
-		"api_id": 17,
-		"name_jp": "天山",
-		"name_en": "Tenzan",
-		"development": true
-	},
-	{
-		"id": 1860,
-		"api_id": 18,
-		"name_jp": "流星",
-		"name_en": "Ryuusei",
-		"development": true
-	},
-	{
-		"id": 1861,
-		"api_id": 19,
-		"name_jp": "九六式艦戦",
-		"name_en": "Type 96 Fighter",
-		"development": true
-	},
-	{
-		"id": 1862,
-		"api_id": 20,
-		"name_jp": "零式艦戦21型",
-		"name_en": "Zero Fighter Model 21",
-		"development": true
-	},
-	{
-		"id": 1863,
-		"api_id": 21,
-		"name_jp": "零式艦戦52型",
-		"name_en": "Zero Fighter Model 52",
-		"development": true
-	},
-	{
-		"id": 1864,
-		"api_id": 22,
-		"name_jp": "試製烈風 後期型",
-		"name_en": "Prototype Reppuu Late Model",
-		"development": true
-	},
-	{
-		"id": 1865,
-		"api_id": 23,
-		"name_jp": "九九式艦爆",
-		"name_en": "Type 99 Dive Bomber",
-		"development": true
-	},
-	{
-		"id": 1866,
-		"api_id": 24,
-		"name_jp": "彗星",
-		"name_en": "Suisei",
-		"development": true
-	},
-	{
-		"id": 1867,
-		"api_id": 25,
-		"name_jp": "零式水上偵察機",
-		"name_en": "Type 0 Recon Seaplane",
-		"development": true
-	},
-	{
-		"id": 1868,
-		"api_id": 26,
-		"name_jp": "瑞雲",
-		"name_en": "Zuiun",
-		"development": true
-	},
-	{
-		"id": 1869,
-		"api_id": 27,
-		"name_jp": "13号対空電探",
-		"name_en": "Type 13 Air RADAR",
-		"development": true
-	},
-	{
-		"id": 1870,
-		"api_id": 28,
-		"name_jp": "22号対水上電探",
-		"name_en": "Type 22 Surface RADAR",
-		"development": true
-	},
-	{
-		"id": 1871,
-		"api_id": 29,
-		"name_jp": "33号対水上電探",
-		"name_en": "Type 33 Surface RADAR",
-		"development": true
-	},
-	{
-		"id": 1872,
-		"api_id": 30,
-		"name_jp": "21号対空電探",
-		"name_en": "Type 21 Air RADAR",
-		"development": true
-	},
-	{
-		"id": 1873,
-		"api_id": 31,
-		"name_jp": "32号対水上電探",
-		"name_en": "Type 32 Surface RADAR",
-		"development": true
-	},
-	{
-		"id": 1874,
-		"api_id": 32,
-		"name_jp": "42号対空電探",
-		"name_en": "Type 42 Air RADAR",
-		"development": true
-	},
-	{
-		"id": 1875,
-		"api_id": 33,
-		"name_jp": "改良型艦本式タービン",
-		"name_en": "Improved Kanhon Turbine",
-		"development": true
-	},
-	{
-		"id": 1876,
-		"api_id": 34,
-		"name_jp": "強化型艦本式缶",
-		"name_en": "Enhanced Kanhon Boiler",
-		"development": true
-	},
-	{
-		"id": 1877,
-		"api_id": 35,
-		"name_jp": "三式弾",
-		"name_en": "Type 3 Shell",
-		"development": true
-	},
-	{
-		"id": 1878,
-		"api_id": 36,
-		"name_jp": "九一式徹甲弾",
-		"name_en": "Type 91 Armor Piercing Shell",
-		"development": true
-	},
-	{
-		"id": 1879,
-		"api_id": 37,
-		"name_jp": "7.7mm機銃",
-		"name_en": "7.7mm Machine Gun",
-		"development": true
-	},
-	{
-		"id": 1880,
-		"api_id": 38,
-		"name_jp": "12.7mm単装機銃",
-		"name_en": "12.7mm Single Machine Gun",
-		"development": true
-	},
-	{
-		"id": 1881,
-		"api_id": 39,
-		"name_jp": "25mm連装機銃",
-		"name_en": "25mm Twin Autocannon",
-		"development": true
-	},
-	{
-		"id": 1882,
-		"api_id": 40,
-		"name_jp": "25mm三連装機銃",
-		"name_en": "25mm Triple Autocannon",
-		"development": true
-	},
-	{
-		"id": 1883,
-		"api_id": 41,
-		"name_jp": "甲標的 甲型",
-		"name_en": "Type A Kouhyouteki",
-		"development": true
-	},
-	{
-		"id": 1884,
-		"api_id": 42,
-		"name_jp": "応急修理要員",
-		"name_en": "Emergency Repair Personnel"
-	},
-	{
-		"id": 1885,
-		"api_id": 43,
-		"name_jp": "応急修理女神",
-		"name_en": "Emergency Repair Goddess"
-	},
-	{
-		"id": 1886,
-		"api_id": 44,
-		"name_jp": "九四式爆雷投射機",
-		"name_en": "Type 94 Depth Charge Projector",
-		"development": true
-	},
-	{
-		"id": 1887,
-		"api_id": 45,
-		"name_jp": "三式爆雷投射機",
-		"name_en": "Type 3 Depth Charge Projector",
-		"development": true
-	},
-	{
-		"id": 1888,
-		"api_id": 46,
-		"name_jp": "九三式水中聴音機",
-		"name_en": "Type 93 Passive SONAR",
-		"development": true
-	},
-	{
-		"id": 1889,
-		"api_id": 47,
-		"name_jp": "三式水中探信儀",
-		"name_en": "Type 3 Active SONAR",
-		"development": true
-	},
-	{
-		"id": 1890,
-		"api_id": 48,
-		"name_jp": "12cm単装高角砲",
-		"name_en": "12cm Single High-angle Gun",
-		"development": true
-	},
-	{
-		"id": 1891,
-		"api_id": 49,
-		"name_jp": "25mm単装機銃",
-		"name_en": "25mm Single Autocannon",
-		"development": true
-	},
-	{
-		"id": 1892,
-		"api_id": 50,
-		"name_jp": "20.3cm(3号)連装砲",
-		"name_en": "20.3cm (No.3) Twin Gun"
-	},
-	{
-		"id": 1893,
-		"api_id": 51,
-		"name_jp": "12cm30連装噴進砲",
-		"name_en": "12cm 30-tube Rocket Launcher",
-		"development": true
-	},
-	{
-		"id": 1894,
-		"api_id": 52,
-		"name_jp": "流星改",
-		"name_en": "Ryuusei Kai",
-		"development": true
-	},
-	{
-		"id": 1895,
-		"api_id": 53,
-		"name_jp": "烈風 一一型",
-		"name_en": "Reppuu Model 11"
-	},
-	{
-		"id": 1896,
-		"api_id": 54,
-		"name_jp": "彩雲",
-		"name_en": "Saiun",
-		"development": true
-	},
-	{
-		"id": 1897,
-		"api_id": 55,
-		"name_jp": "紫電改二",
-		"name_en": "Shiden Kai Ni",
-		"development": true
-	},
-	{
-		"id": 1898,
-		"api_id": 56,
-		"name_jp": "震電改",
-		"name_en": "Shinden Kai"
-	},
-	{
-		"id": 1899,
-		"api_id": 57,
-		"name_jp": "彗星一二型甲",
-		"name_en": "Suisei Model 12A",
-		"development": true
-	},
-	{
-		"id": 1900,
-		"api_id": 58,
-		"name_jp": "61cm五連装(酸素)魚雷",
-		"name_en": "61cm Quintuple (Oxygen) Torpedo"
-	},
-	{
-		"id": 1901,
-		"api_id": 59,
-		"name_jp": "零式水上観測機",
-		"name_en": "Type 0 Observation Seaplane",
-		"development": true
-	},
-	{
-		"id": 1902,
-		"api_id": 60,
-		"name_jp": "零式艦戦62型(爆戦)",
-		"name_en": "Zero Fighter-bomber Model 62",
-		"development": true
-	},
-	{
-		"id": 1903,
-		"api_id": 61,
-		"name_jp": "二式艦上偵察機",
-		"name_en": "Type 2 Recon Aircraft",
-		"development": true
-	},
-	{
-		"id": 1904,
-		"api_id": 62,
-		"name_jp": "試製晴嵐",
-		"name_en": "Prototype Seiran"
-	},
-	{
-		"id": 1905,
-		"api_id": 63,
-		"name_jp": "12.7cm連装砲B型改二",
-		"name_en": "12.7cm Twin Gun Model B Kai Ni"
-	},
-	{
-		"id": 1906,
-		"api_id": 64,
-		"name_jp": "Ju87C改",
-		"name_en": "Ju 87C Kai"
-	},
-	{
-		"id": 1907,
-		"api_id": 65,
-		"name_jp": "15.2cm連装砲",
-		"name_en": "15.2cm Twin Gun",
-		"development": true
-	},
-	{
-		"id": 1908,
-		"api_id": 66,
-		"name_jp": "8cm高角砲",
-		"name_en": "8cm High-angle Gun",
-		"development": true
-	},
-	{
-		"id": 1909,
-		"api_id": 67,
-		"name_jp": "53cm艦首(酸素)魚雷",
-		"name_en": "53cm Bow (Oxygen) Torpedo"
-	},
-	{
-		"id": 1910,
-		"api_id": 68,
-		"name_jp": "大発動艇",
-		"name_en": "Daihatsu LC",
-		"development": true
-	},
-	{
-		"id": 1911,
-		"api_id": 69,
-		"name_jp": "カ号観測機",
-		"name_en": "Ka Type Observation Autogyro",
-		"development": true
-	},
-	{
-		"id": 1912,
-		"api_id": 70,
-		"name_jp": "三式指揮連絡機(対潜)",
-		"name_en": "Type 3 Command Liaison Aircraft (ASW)",
-		"development": true
-	},
-	{
-		"id": 1913,
-		"api_id": 71,
-		"name_jp": "10cm連装高角砲(砲架)",
-		"name_en": "10cm Twin High-angle Gun (Carriage)",
-		"development": true
-	},
-	{
-		"id": 1914,
-		"api_id": 72,
-		"name_jp": "増設バルジ(中型艦)",
-		"name_en": "Anti-torpedo Bulge (M)",
-		"development": true
-	},
-	{
-		"id": 1915,
-		"api_id": 73,
-		"name_jp": "増設バルジ(大型艦)",
-		"name_en": "Anti-torpedo Bulge (L)",
-		"development": true
-	},
-	{
-		"id": 1916,
-		"api_id": 74,
-		"name_jp": "探照灯",
-		"name_en": "Searchlight",
-		"development": true
-	},
-	{
-		"id": 1917,
-		"api_id": 75,
-		"name_jp": "ドラム缶(輸送用)",
-		"name_en": "Drum (Transport)",
-		"development": true
-	},
-	{
-		"id": 1918,
-		"api_id": 76,
-		"name_jp": "38cm連装砲",
-		"name_en": "38cm Twin Gun"
-	},
-	{
-		"id": 1919,
-		"api_id": 77,
-		"name_jp": "15cm連装副砲",
-		"name_en": "15cm Twin Secondary Gun"
-	},
-	{
-		"id": 1920,
-		"api_id": 78,
-		"name_jp": "12.7cm単装砲",
-		"name_en": "12.7cm Single Gun",
-		"development": true
-	},
-	{
-		"id": 1921,
-		"api_id": 79,
-		"name_jp": "瑞雲(六三四空)",
-		"name_en": "Zuiun (634 Air Group)"
-	},
-	{
-		"id": 1922,
-		"api_id": 80,
-		"name_jp": "瑞雲12型",
-		"name_en": "Zuiun Model 12"
-	},
-	{
-		"id": 1923,
-		"api_id": 81,
-		"name_jp": "瑞雲12型(六三四空)",
-		"name_en": "Zuiun Model 12 (634 Air Group)"
-	},
-	{
-		"id": 1924,
-		"api_id": 82,
-		"name_jp": "九七式艦攻(九三一空)",
-		"name_en": "Type 97 Torpedo Bomber (931 Air Group)"
-	},
-	{
-		"id": 1925,
-		"api_id": 83,
-		"name_jp": "天山(九三一空)",
-		"name_en": "Tenzan (931 Air Group)"
-	},
-	{
-		"id": 1926,
-		"api_id": 84,
-		"name_jp": "2cm 四連装FlaK 38",
-		"name_en": "2cm Flakvierling 38"
-	},
-	{
-		"id": 1927,
-		"api_id": 85,
-		"name_jp": "3.7cm FlaK M42",
-		"name_en": "3.7cm FlaK M42"
-	},
-	{
-		"id": 1928,
-		"api_id": 86,
-		"name_jp": "艦艇修理施設",
-		"name_en": "Ship Repair Facility"
-	},
-	{
-		"id": 1929,
-		"api_id": 87,
-		"name_jp": "新型高温高圧缶",
-		"name_en": "New High Pressure-Temperature Steam Boiler"
-	},
-	{
-		"id": 1930,
-		"api_id": 88,
-		"name_jp": "22号対水上電探改四",
-		"name_en": "Type 22 Surface RADAR Kai Yon"
-	},
-	{
-		"id": 1931,
-		"api_id": 89,
-		"name_jp": "21号対空電探改",
-		"name_en": "Type 21 Air RADAR Kai"
-	},
-	{
-		"id": 1932,
-		"api_id": 90,
-		"name_jp": "20.3cm(2号)連装砲",
-		"name_en": "20.3cm (No.2) Twin Gun",
-		"development": true
-	},
-	{
-		"id": 1933,
-		"api_id": 91,
-		"name_jp": "12.7cm連装高角砲(後期型)",
-		"name_en": "12.7cm Twin High-angle (Late Model)"
-	},
-	{
-		"id": 1934,
-		"api_id": 92,
-		"name_jp": "毘式40mm連装機銃",
-		"name_en": "Bi Type 40mm Twin Autocannon"
-	},
-	{
-		"id": 1935,
-		"api_id": 93,
-		"name_jp": "九七式艦攻(友永隊)",
-		"name_en": "Type 97 Torpedo Bomber (Tomonaga Squadron)"
-	},
-	{
-		"id": 1936,
-		"api_id": 94,
-		"name_jp": "天山一二型(友永隊)",
-		"name_en": "Tenzan Model 12 (Tomonaga Squadron)"
-	},
-	{
-		"id": 1937,
-		"api_id": 95,
-		"name_jp": "潜水艦53cm艦首魚雷(8門)",
-		"name_en": "Submarine 53cm Bow Torpedo (8 tubes)"
-	},
-	{
-		"id": 1938,
-		"api_id": 96,
-		"name_jp": "零式艦戦21型(熟練)",
-		"name_en": "Zero Fighter Model 21 (Skilled)"
-	},
-	{
-		"id": 1939,
-		"api_id": 97,
-		"name_jp": "九九式艦爆(熟練)",
-		"name_en": "Type 99 Dive Bomber (Skilled)"
-	},
-	{
-		"id": 1940,
-		"api_id": 98,
-		"name_jp": "九七式艦攻(熟練)",
-		"name_en": "Type 97 Torpedo Bomber (Skilled)"
-	},
-	{
-		"id": 1941,
-		"api_id": 99,
-		"name_jp": "九九式艦爆(江草隊)",
-		"name_en": "Type 99 Dive Bomber (Egusa Squadron)"
-	},
-	{
-		"id": 1942,
-		"api_id": 100,
-		"name_jp": "彗星(江草隊)",
-		"name_en": "Suisei (Egusa Squadron)"
-	},
-	{
-		"id": 1943,
-		"api_id": 101,
-		"name_jp": "照明弾",
-		"name_en": "Star Shell"
-	},
-	{
-		"id": 1944,
-		"api_id": 102,
-		"name_jp": "九八式水上偵察機(夜偵)",
-		"name_en": "Type 98 Recon Seaplane (Night Recon)",
-		"development": true
-	},
-	{
-		"id": 1945,
-		"api_id": 103,
-		"name_jp": "試製35.6cm三連装砲",
-		"name_en": "Prototype 35.6cm Triple Gun"
-	},
-	{
-		"id": 1946,
-		"api_id": 104,
-		"name_jp": "35.6cm連装砲(ダズル迷彩)",
-		"name_en": "35.6cm Twin Gun (Dazzle Camouflage)"
-	},
-	{
-		"id": 1947,
-		"api_id": 105,
-		"name_jp": "試製41cm三連装砲",
-		"name_en": "Prototype 41cm Triple Gun"
-	},
-	{
-		"id": 1948,
-		"api_id": 106,
-		"name_jp": "13号対空電探改",
-		"name_en": "Type 13 Air RADAR Kai"
-	},
-	{
-		"id": 1949,
-		"api_id": 107,
-		"name_jp": "艦隊司令部施設",
-		"name_en": "Fleet Command Facility"
-	},
-	{
-		"id": 1950,
-		"api_id": 108,
-		"name_jp": "熟練艦載機整備員",
-		"name_en": "Skilled Carrier-based Aircraft Maintenance Personnel"
-	},
-	{
-		"id": 1951,
-		"api_id": 109,
-		"name_jp": "零戦52型丙(六〇一空)",
-		"name_en": "Zero Fighter Model 52C (601 Air Group)"
-	},
-	{
-		"id": 1952,
-		"api_id": 110,
-		"name_jp": "烈風(六〇一空)",
-		"name_en": "Reppuu (601 Air Group)"
-	},
-	{
-		"id": 1953,
-		"api_id": 111,
-		"name_jp": "彗星(六〇一空)",
-		"name_en": "Suisei (601 Air Group)"
-	},
-	{
-		"id": 1954,
-		"api_id": 112,
-		"name_jp": "天山(六〇一空)",
-		"name_en": "Tenzan (601 Air Group)"
-	},
-	{
-		"id": 1955,
-		"api_id": 113,
-		"name_jp": "流星(六〇一空)",
-		"name_en": "Ryuusei (601 Air Group)"
-	},
-	{
-		"id": 1956,
-		"api_id": 114,
-		"name_jp": "38cm連装砲改",
-		"name_en": "38cm Twin Gun Kai"
-	},
-	{
-		"id": 1957,
-		"api_id": 115,
-		"name_jp": "Ar196改",
-		"name_en": "Ar196 Kai"
-	},
-	{
-		"id": 1958,
-		"api_id": 116,
-		"name_jp": "一式徹甲弾",
-		"name_en": "Type 1 Armor Piercing Shell"
-	},
-	{
-		"id": 1959,
-		"api_id": 117,
-		"name_jp": "試製46cm連装砲",
-		"name_en": "Prototype 46cm Twin Gun"
-	},
-	{
-		"id": 1960,
-		"api_id": 118,
-		"name_jp": "紫雲",
-		"name_en": "Shiun"
-	},
-	{
-		"id": 1961,
-		"api_id": 119,
-		"name_jp": "14cm連装砲",
-		"name_en": "14cm Twin Gun"
-	},
-	{
-		"id": 1962,
-		"api_id": 120,
-		"name_jp": "91式高射装置",
-		"name_en": "Type 91 AAFD",
-		"development": true
-	},
-	{
-		"id": 1963,
-		"api_id": 121,
-		"name_jp": "94式高射装置",
-		"name_en": "Type 94 AAFD"
-	},
-	{
-		"id": 1964,
-		"api_id": 122,
-		"name_jp": "10cm連装高角砲+高射装置",
-		"name_en": "10cm Twin High-angle Mount + Anti-Aircraft Fire Director"
-	},
-	{
-		"id": 1965,
-		"api_id": 123,
-		"name_jp": "SKC34 20.3cm連装砲",
-		"name_en": "SKC34 20.3cm Twin Gun"
-	},
-	{
-		"id": 1966,
-		"api_id": 124,
-		"name_jp": "FuMO25 レーダー",
-		"name_en": "FuMO25 RADAR"
-	},
-	{
-		"id": 1967,
-		"api_id": 125,
-		"name_jp": "61cm三連装(酸素)魚雷",
-		"name_en": "61cm Triple (Oxygen) Torpedo"
-	},
-	{
-		"id": 1968,
-		"api_id": 126,
-		"name_jp": "WG42 (Wurfgerät 42)",
-		"name_en": "WG42 (Wurfgerät 42)"
-	},
-	{
-		"id": 1969,
-		"api_id": 127,
-		"name_jp": "試製FaT仕様九五式酸素魚雷改",
-		"name_en": "Prototype FaT Type 95 Oxygen Torpedo Kai"
-	},
-	{
-		"id": 1970,
-		"api_id": 128,
-		"name_jp": "試製51cm連装砲",
-		"name_en": "Prototype 51cm Twin Gun"
-	},
-	{
-		"id": 1971,
-		"api_id": 129,
-		"name_jp": "熟練見張員",
-		"name_en": "Skilled Lookouts"
-	},
-	{
-		"id": 1972,
-		"api_id": 130,
-		"name_jp": "12.7cm高角砲+高射装置",
-		"name_en": "12.7cm High-angle Gun+AAFD"
-	},
-	{
-		"id": 1973,
-		"api_id": 131,
-		"name_jp": "25mm三連装機銃 集中配備",
-		"name_en": "25mm Triple Autocannon (CD)"
-	},
-	{
-		"id": 1974,
-		"api_id": 132,
-		"name_jp": "零式水中聴音機",
-		"name_en": "Type 0 Passive SONAR"
-	},
-	{
-		"id": 1975,
-		"api_id": 133,
-		"name_jp": "381mm/50 三連装砲",
-		"name_en": "381mm / 50 Triple Gun"
-	},
-	{
-		"id": 1976,
-		"api_id": 134,
-		"name_jp": "OTO 152mm三連装速射砲",
-		"name_en": "OTO 152mm Triple Rapid-fire Gun"
-	},
-	{
-		"id": 1977,
-		"api_id": 135,
-		"name_jp": "90mm単装高角砲",
-		"name_en": "90mm Single High-angle Gun"
-	},
-	{
-		"id": 1978,
-		"api_id": 136,
-		"name_jp": "プリエーゼ式水中防御隔壁",
-		"name_en": "Pugliese Underwater Protection Bulkhead"
-	},
-	{
-		"id": 1979,
-		"api_id": 137,
-		"name_jp": "381mm/50 三連装砲改",
-		"name_en": "381mm/50 Triple Gun Kai"
-	},
-	{
-		"id": 1980,
-		"api_id": 138,
-		"name_jp": "二式大艇",
-		"name_en": "Type 2 Large Flying Boat"
-	},
-	{
-		"id": 1981,
-		"api_id": 139,
-		"name_jp": "15.2cm連装砲改",
-		"name_en": "15.2cm Twin Gun Kai"
-	},
-	{
-		"id": 1982,
-		"api_id": 140,
-		"name_jp": "96式150cm探照灯",
-		"name_en": "Type 96 150cm Searchlight"
-	},
-	{
-		"id": 1983,
-		"api_id": 141,
-		"name_jp": "32号対水上電探改",
-		"name_en": "Type 32 Surface RADAR Kai"
-	},
-	{
-		"id": 1984,
-		"api_id": 142,
-		"name_jp": "15m二重測距儀+21号電探改二",
-		"name_en": "15m Duplex Rangefinder+Type 21 Air RADAR Kai Ni"
-	},
-	{
-		"id": 1985,
-		"api_id": 143,
-		"name_jp": "九七式艦攻(村田隊)",
-		"name_en": "Type 97 Torpedo Bomber (Murata Squadron)"
-	},
-	{
-		"id": 1986,
-		"api_id": 144,
-		"name_jp": "天山一二型(村田隊)",
-		"name_en": "Tenzan Model 12 (Murata Squadron)"
-	},
-	{
-		"id": 1987,
-		"api_id": 145,
-		"name_jp": "戦闘糧食",
-		"name_en": "Combat Ration"
-	},
-	{
-		"id": 1988,
-		"api_id": 146,
-		"name_jp": "洋上補給",
-		"name_en": "Underway Replenishment"
-	},
-	{
-		"id": 1989,
-		"api_id": 147,
-		"name_jp": "120mm/50 連装砲",
-		"name_en": "120mm/50 Twin Gun Mount",
-		"development": true
-	},
-	{
-		"id": 1990,
-		"api_id": 148,
-		"name_jp": "試製南山",
-		"name_en": "Prototype Nanzan"
-	},
-	{
-		"id": 1991,
-		"api_id": 149,
-		"name_jp": "四式水中聴音機",
-		"name_en": "Type 4 Passive SONAR"
-	},
-	{
-		"id": 1992,
-		"api_id": 150,
-		"name_jp": "秋刀魚の缶詰",
-		"name_en": "Canned Saury"
-	},
-	{
-		"id": 1993,
-		"api_id": 151,
-		"name_jp": "試製景雲(艦偵型)",
-		"name_en": "Prototype Keiun"
-	},
-	{
-		"id": 1994,
-		"api_id": 152,
-		"name_jp": "零式艦戦52型(熟練)",
-		"name_en": "Zero Fighter Model 52 (Skilled)"
-	},
-	{
-		"id": 1995,
-		"api_id": 153,
-		"name_jp": "零戦52型丙(付岩井小隊)",
-		"name_en": "Zero Fighter Model 52C (w/ Iwai Flight)"
-	},
-	{
-		"id": 1996,
-		"api_id": 154,
-		"name_jp": "零戦62型(爆戦/岩井隊)",
-		"name_en": "Zero Fighter-bomber Model 62 (Iwai Squadron)"
-	},
-	{
-		"id": 1997,
-		"api_id": 155,
-		"name_jp": "零戦21型(付岩本小隊)",
-		"name_en": "Zero Fighter Model 21 (w/ Iwamoto Flight)"
-	},
-	{
-		"id": 1998,
-		"api_id": 156,
-		"name_jp": "零戦52型甲(付岩本小隊)",
-		"name_en": "Zero Fighter Model 52A (w/ Iwamoto Flight)"
-	},
-	{
-		"id": 1999,
-		"api_id": 157,
-		"name_jp": "零式艦戦53型(岩本隊)",
-		"name_en": "Zero Fighter Model 53 (Iwamoto Squadron)"
-	},
-	{
-		"id": 2000,
-		"api_id": 158,
-		"name_jp": "Bf109T改",
-		"name_en": "Bf 109T Kai"
-	},
-	{
-		"id": 2001,
-		"api_id": 159,
-		"name_jp": "Fw190T改",
-		"name_en": "Fw 190T Kai"
-	},
-	{
-		"id": 2002,
-		"api_id": 160,
-		"name_jp": "10.5cm連装砲",
-		"name_en": "10.5cm Twin Gun"
-	},
-	{
-		"id": 2003,
-		"api_id": 161,
-		"name_jp": "16inch三連装砲 Mk.7",
-		"name_en": "16inch Triple Gun Mk.7"
-	},
-	{
-		"id": 2004,
-		"api_id": 162,
-		"name_jp": "203mm/53 連装砲",
-		"name_en": "203mm/53 Twin Gun"
-	},
-	{
-		"id": 2005,
-		"api_id": 163,
-		"name_jp": "Ro.43水偵",
-		"name_en": "Ro.43 Recon Seaplane",
-		"development": true
-	},
-	{
-		"id": 2006,
-		"api_id": 164,
-		"name_jp": "Ro.44水上戦闘機",
-		"name_en": "Ro.44 Seaplane Fighter"
-	},
-	{
-		"id": 2007,
-		"api_id": 165,
-		"name_jp": "二式水戦改",
-		"name_en": "Type 2 Seaplane Fighter Kai"
-	},
-	{
-		"id": 2008,
-		"api_id": 166,
-		"name_jp": "大発動艇(八九式中戦車&陸戦隊)",
-		"name_en": "Daihatsu LC (Type 89 Tank+Landing Force)"
-	},
-	{
-		"id": 2009,
-		"api_id": 167,
-		"name_jp": "特二式内火艇",
-		"name_en": "Special Type 2 Amphibious Tank"
-	},
-	{
-		"id": 2010,
-		"api_id": 168,
-		"name_jp": "九六式陸攻",
-		"name_en": "Type 96 Attack Bomber",
-		"development": true
-	},
-	{
-		"id": 2011,
-		"api_id": 169,
-		"name_jp": "一式陸攻",
-		"name_en": "Type 1 Attack Bomber"
-	},
-	{
-		"id": 2012,
-		"api_id": 170,
-		"name_jp": "一式陸攻(野中隊)",
-		"name_en": "Type 1 Attack Bomber (Nonaka Squadron)"
-	},
-	{
-		"id": 2013,
-		"api_id": 171,
-		"name_jp": "OS2U",
-		"name_en": "OS2U"
-	},
-	{
-		"id": 2014,
-		"api_id": 172,
-		"name_jp": "5inch連装砲 Mk.28 mod.2",
-		"name_en": "5inch Twin Gun Mk.28 mod.2"
-	},
-	{
-		"id": 2015,
-		"api_id": 173,
-		"name_jp": "Bofors 40mm四連装機関砲",
-		"name_en": "Bofors 40mm Quadruple Autocannon"
-	},
-	{
-		"id": 2016,
-		"api_id": 174,
-		"name_jp": "53cm連装魚雷",
-		"name_en": "53cm Twin Torpedo"
-	},
-	{
-		"id": 2017,
-		"api_id": 175,
-		"name_jp": "雷電",
-		"name_en": "Raiden"
-	},
-	{
-		"id": 2018,
-		"api_id": 176,
-		"name_jp": "三式戦 飛燕",
-		"name_en": "Type 3 Fighter Hien"
-	},
-	{
-		"id": 2019,
-		"api_id": 177,
-		"name_jp": "三式戦 飛燕(飛行第244戦隊)",
-		"name_en": "Type 3 Fighter Hien (244th Air Combat Group)"
-	},
-	{
-		"id": 2020,
-		"api_id": 178,
-		"name_jp": "PBY-5A Catalina",
-		"name_en": "PBY-5A Catalina"
-	},
-	{
-		"id": 2021,
-		"api_id": 179,
-		"name_jp": "試製61cm六連装(酸素)魚雷",
-		"name_en": "Prototype 61cm Sextuple (Oxygen) Torpedo"
-	},
-	{
-		"id": 2022,
-		"api_id": 180,
-		"name_jp": "一式陸攻 二二型甲",
-		"name_en": "Type 1 Attack Bomber Model 22A"
-	},
-	{
-		"id": 2023,
-		"api_id": 181,
-		"name_jp": "零式艦戦32型",
-		"name_en": "Zero Fighter Model 32",
-		"development": true
-	},
-	{
-		"id": 2024,
-		"api_id": 182,
-		"name_jp": "零式艦戦32型(熟練)",
-		"name_en": "Zero Fighter Model 32 (Skilled)"
-	},
-	{
-		"id": 2025,
-		"api_id": 183,
-		"name_jp": "16inch三連装砲 Mk.7+GFCS",
-		"name_en": "16inch Triple Gun Mk.7+GFCS"
-	},
-	{
-		"id": 2026,
-		"api_id": 184,
-		"name_jp": "Re.2001 OR改",
-		"name_en": "Re.2001 OR Kai"
-	},
-	{
-		"id": 2027,
-		"api_id": 185,
-		"name_jp": "三式戦 飛燕一型丁",
-		"name_en": "Type 3 Fighter Hien Model 1D"
-	},
-	{
-		"id": 2028,
-		"api_id": 186,
-		"name_jp": "一式陸攻 三四型",
-		"name_en": "Type 1 Attack Bomber Model 34"
-	},
-	{
-		"id": 2029,
-		"api_id": 187,
-		"name_jp": "銀河",
-		"name_en": "Ginga"
-	},
-	{
-		"id": 2030,
-		"api_id": 188,
-		"name_jp": "Re.2001 G改",
-		"name_en": "Re.2001 G Kai"
-	},
-	{
-		"id": 2031,
-		"api_id": 189,
-		"name_jp": "Re.2005 改",
-		"name_en": "Re.2005 Kai"
-	},
-	{
-		"id": 2032,
-		"api_id": 190,
-		"name_jp": "38.1cm Mk.I連装砲",
-		"name_en": "38.1cm Mk.I Twin Gun"
-	},
-	{
-		"id": 2033,
-		"api_id": 191,
-		"name_jp": "QF 2ポンド8連装ポンポン砲",
-		"name_en": "QF 2-pounder Octuple Pom-pom Gun"
-	},
-	{
-		"id": 2034,
-		"api_id": 192,
-		"name_jp": "38.1cm Mk.I/N連装砲改",
-		"name_en": "38.1cm Mk.I/N Twin Gun Kai"
-	},
-	{
-		"id": 2035,
-		"api_id": 193,
-		"name_jp": "特大発動艇",
-		"name_en": "Toku Daihatsu LC"
-	},
-	{
-		"id": 2036,
-		"api_id": 194,
-		"name_jp": "Laté 298B",
-		"name_en": "Laté 298B",
-		"development": true
-	},
-	{
-		"id": 2037,
-		"api_id": 195,
-		"name_jp": "SBD",
-		"name_en": "SBD Dauntless",
-		"development": true
-	},
-	{
-		"id": 2038,
-		"api_id": 196,
-		"name_jp": "TBD",
-		"name_en": "TBD Devastator"
-	},
-	{
-		"id": 2039,
-		"api_id": 197,
-		"name_jp": "F4F-3",
-		"name_en": "F4F-3 Wildcat",
-		"development": true
-	},
-	{
-		"id": 2040,
-		"api_id": 198,
-		"name_jp": "F4F-4",
-		"name_en": "F4F-4 Wildcat"
-	},
-	{
-		"id": 2041,
-		"api_id": 199,
-		"name_jp": "噴式景雲改",
-		"name_en": "Jet Keiun Kai"
-	},
-	{
-		"id": 2042,
-		"api_id": 200,
-		"name_jp": "橘花改",
-		"name_en": "Kikka Kai"
-	},
-	{
-		"id": 2043,
-		"api_id": 201,
-		"name_jp": "紫電一一型",
-		"name_en": "Shiden Model 11",
-		"development": true
-	},
-	{
-		"id": 2044,
-		"api_id": 202,
-		"name_jp": "紫電二一型 紫電改",
-		"name_en": "Shiden Model 21 Shiden Kai"
-	},
-	{
-		"id": 2045,
-		"api_id": 203,
-		"name_jp": "艦本新設計 増設バルジ(中型艦)",
-		"name_en": "New Kanhon Anti-torpedo Bulge (M)"
-	},
-	{
-		"id": 2046,
-		"api_id": 204,
-		"name_jp": "艦本新設計 増設バルジ(大型艦)",
-		"name_en": "New Kanhon Anti-torpedo Bulge (L)"
-	},
-	{
-		"id": 2047,
-		"api_id": 205,
-		"name_jp": "F6F-3",
-		"name_en": "F6F-3 Hellcat"
-	},
-	{
-		"id": 2048,
-		"api_id": 206,
-		"name_jp": "F6F-5",
-		"name_en": "F6F-5 Hellcat"
-	},
-	{
-		"id": 2049,
-		"api_id": 207,
-		"name_jp": "瑞雲(六三一空)",
-		"name_en": "Zuiun (631 Air Group)",
-		"development": true
-	},
-	{
-		"id": 2050,
-		"api_id": 208,
-		"name_jp": "晴嵐(六三一空)",
-		"name_en": "Seiran (631 Air Group)"
-	},
-	{
-		"id": 2051,
-		"api_id": 209,
-		"name_jp": "彩雲(輸送用分解済)",
-		"name_en": "Saiun (Disassembled)"
-	},
-	{
-		"id": 2052,
-		"api_id": 210,
-		"name_jp": "潜水艦搭載電探&水防式望遠鏡",
-		"name_en": "Submarine Radar+Periscope",
-		"development": true
-	},
-	{
-		"id": 2053,
-		"api_id": 211,
-		"name_jp": "潜水艦搭載電探&逆探(E27)",
-		"name_en": "Submarine Radar+E27 Radar Detector"
-	},
-	{
-		"id": 2054,
-		"api_id": 212,
-		"name_jp": "彩雲(東カロリン空)",
-		"name_en": "Saiun (East Caroline Air Group)"
-	},
-	{
-		"id": 2055,
-		"api_id": 213,
-		"name_jp": "後期型艦首魚雷(6門)",
-		"name_en": "Late Model Bow Torpedo (6 tubes)",
-		"development": true
-	},
-	{
-		"id": 2056,
-		"api_id": 214,
-		"name_jp": "熟練聴音員+後期型艦首魚雷(6門)",
-		"name_en": "Skilled Sonar Personnel+Late Model Bow Torpedo (6 tubes)"
-	},
-	{
-		"id": 2057,
-		"api_id": 215,
-		"name_jp": "Ro.44水上戦闘機bis",
-		"name_en": "Ro.44 Seaplane Fighter bis"
-	},
-	{
-		"id": 2058,
-		"api_id": 216,
-		"name_jp": "二式水戦改(熟練)",
-		"name_en": "Type 2 Seaplane Fighter Kai (Skilled)"
-	},
-	{
-		"id": 2059,
-		"api_id": 217,
-		"name_jp": "強風改",
-		"name_en": "Kyoufuu Kai"
-	},
-	{
-		"id": 2060,
-		"api_id": 218,
-		"name_jp": "四式戦 疾風",
-		"name_en": "Type 4 Fighter Hayate"
-	},
-	{
-		"id": 2061,
-		"api_id": 219,
-		"name_jp": "零式艦戦63型(爆戦)",
-		"name_en": "Zero Fighter-bomber Model 63"
-	},
-	{
-		"id": 2062,
-		"api_id": 220,
-		"name_jp": "8cm高角砲改+増設機銃",
-		"name_en": "8cm High-angle Gun Kai+Machine Gun"
-	},
-	{
-		"id": 2063,
-		"api_id": 221,
-		"name_jp": "一式戦 隼II型",
-		"name_en": "Type 1 Fighter Hayabusa Model II",
-		"development": true
-	},
-	{
-		"id": 2064,
-		"api_id": 222,
-		"name_jp": "一式戦 隼III型甲",
-		"name_en": "Type 1 Fighter Hayabusa Model IIIA"
-	},
-	{
-		"id": 2065,
-		"api_id": 223,
-		"name_jp": "一式戦 隼III型甲(54戦隊)",
-		"name_en": "Type 1 Fighter Hayabusa Model IIIA (54th Squadron)"
-	},
-	{
-		"id": 2066,
-		"api_id": 224,
-		"name_jp": "爆装一式戦 隼III型改(65戦隊)",
-		"name_en": "Type 1 Fighter Hayabusa Model III Kai (65th Squadron)"
-	},
-	{
-		"id": 2067,
-		"api_id": 225,
-		"name_jp": "一式戦 隼II型(64戦隊)",
-		"name_en": "Type 1 Fighter Hayabusa Model II (64th Squadron)"
-	},
-	{
-		"id": 2068,
-		"api_id": 226,
-		"name_jp": "九五式爆雷",
-		"name_en": "Type 95 Depth Charge",
-		"development": true
-	},
-	{
-		"id": 2069,
-		"api_id": 227,
-		"name_jp": "二式爆雷",
-		"name_en": "Type 2 Depth Charge"
-	},
-	{
-		"id": 2070,
-		"api_id": 228,
-		"name_jp": "九六式艦戦改",
-		"name_en": "Type 96 Fighter Kai"
-	},
-	{
-		"id": 2071,
-		"api_id": 229,
-		"name_jp": "12.7cm単装高角砲(後期型)",
-		"name_en": "12.7 cm Single High-angle Gun (Late Model)"
-	},
-	{
-		"id": 2072,
-		"api_id": 230,
-		"name_jp": "特大発動艇+戦車第11連隊",
-		"name_en": "Toku Daihatsu LC+11th Tank Regiment"
-	},
-	{
-		"id": 2073,
-		"api_id": 231,
-		"name_jp": "30.5cm三連装砲",
-		"name_en": "30.5cm Triple Gun"
-	},
-	{
-		"id": 2074,
-		"api_id": 232,
-		"name_jp": "30.5cm三連装砲改",
-		"name_en": "30.5cm Triple Gun Kai"
-	},
-	{
-		"id": 2075,
-		"api_id": 233,
-		"name_jp": "F4U-1D",
-		"name_en": "F4U-1D Corsair"
-	},
-	{
-		"id": 2076,
-		"api_id": 234,
-		"name_jp": "15.5cm三連装副砲改",
-		"name_en": "15.5cm Triple Secondary Gun Kai"
-	},
-	{
-		"id": 2077,
-		"api_id": 235,
-		"name_jp": "15.5cm三連装砲改",
-		"name_en": "15.5cm Triple Gun Kai"
-	},
-	{
-		"id": 2078,
-		"api_id": 236,
-		"name_jp": "41cm三連装砲改",
-		"name_en": "41cm Triple Gun Kai"
-	},
-	{
-		"id": 2079,
-		"api_id": 237,
-		"name_jp": "瑞雲(六三四空/熟練)",
-		"name_en": "Zuiun (634 Air Group/Skilled)"
-	},
-	{
-		"id": 2080,
-		"api_id": 238,
-		"name_jp": "零式水上偵察機11型乙",
-		"name_en": "Type 0 Recon Seaplane Model 11B"
-	},
-	{
-		"id": 2081,
-		"api_id": 239,
-		"name_jp": "零式水上偵察機11型乙(熟練)",
-		"name_en": "Type 0 Recon Seaplane Model 11B (Skilled)"
-	},
-	{
-		"id": 2082,
-		"api_id": 240,
-		"name_jp": "22号対水上電探改四(後期調整型)",
-		"name_en": "Type 22 Surface Radar Kai Yon (Calibrated Late Model)"
-	},
-	{
-		"id": 2083,
-		"api_id": 241,
-		"name_jp": "戦闘糧食(特別なおにぎり)",
-		"name_en": "Combat Ration (Special Onigiri)"
-	},
-	{
-		"id": 2084,
-		"api_id": 242,
-		"name_jp": "Swordfish",
-		"name_en": "Swordfish",
-		"development": true
-	},
-	{
-		"id": 2085,
-		"api_id": 243,
-		"name_jp": "Swordfish Mk.II(熟練)",
-		"name_en": "Swordfish Mk.II (Skilled)"
-	},
-	{
-		"id": 2086,
-		"api_id": 244,
-		"name_jp": "Swordfish Mk.III(熟練)",
-		"name_en": "Swordfish Mk.III (Skilled)"
-	},
-	{
-		"id": 2087,
-		"api_id": 245,
-		"name_jp": "38cm四連装砲",
-		"name_en": "38cm Quadruple Gun"
-	},
-	{
-		"id": 2088,
-		"api_id": 246,
-		"name_jp": "38cm四連装砲改",
-		"name_en": "38cm Quadruple Gun Kai"
-	},
-	{
-		"id": 2089,
-		"api_id": 247,
-		"name_jp": "15.2cm三連装砲",
-		"name_en": "15.2cm Triple Gun"
-	},
-	{
-		"id": 2090,
-		"api_id": 248,
-		"name_jp": "Skua",
-		"name_en": "Skua"
-	},
-	{
-		"id": 2091,
-		"api_id": 249,
-		"name_jp": "Fulmar",
-		"name_en": "Fulmar",
-		"development": true
-	},
-	{
-		"id": 2092,
-		"api_id": 250,
-		"name_jp": "Spitfire Mk.I",
-		"name_en": "Spitfire Mk.I",
-		"development": true
-	},
-	{
-		"id": 2093,
-		"api_id": 251,
-		"name_jp": "Spitfire Mk.V",
-		"name_en": "Spitfire Mk.V"
-	},
-	{
-		"id": 2094,
-		"api_id": 252,
-		"name_jp": "Seafire Mk.III改",
-		"name_en": "Seafire Mk.III Kai"
-	},
-	{
-		"id": 2095,
-		"api_id": 253,
-		"name_jp": "Spitfire Mk.IX(熟練)",
-		"name_en": "Spitfire Mk.IX (Skilled)"
-	},
-	{
-		"id": 2096,
-		"api_id": 254,
-		"name_jp": "F6F-3N",
-		"name_en": "F6F-3N Hellcat"
-	},
-	{
-		"id": 2097,
-		"api_id": 255,
-		"name_jp": "F6F-5N",
-		"name_en": "F6F-5N Hellcat"
-	},
-	{
-		"id": 2098,
-		"api_id": 256,
-		"name_jp": "TBF",
-		"name_en": "TBF Avenger"
-	},
-	{
-		"id": 2099,
-		"api_id": 257,
-		"name_jp": "TBM-3D",
-		"name_en": "TBM-3D Avenger"
-	},
-	{
-		"id": 2100,
-		"api_id": 258,
-		"name_jp": "夜間作戦航空要員",
-		"name_en": "Night Operation Aviation Personnel"
-	},
-	{
-		"id": 2101,
-		"api_id": 259,
-		"name_jp": "夜間作戦航空要員+熟練甲板員",
-		"name_en": "Night Operation Aviation Personnel+Skilled Crew"
-	},
-	{
-		"id": 2102,
-		"api_id": 260,
-		"name_jp": "Type124 ASDIC",
-		"name_en": "Type 124 ASDIC"
-	},
-	{
-		"id": 2103,
-		"api_id": 261,
-		"name_jp": "Type144/147 ASDIC",
-		"name_en": "Type 144/147 ASDIC"
-	},
-	{
-		"id": 2104,
-		"api_id": 262,
-		"name_jp": "HF/DF + Type144/147 ASDIC",
-		"name_en": "HF/DF + Type 144/147 ASDIC"
-	},
-	{
-		"id": 2105,
-		"api_id": 263,
-		"name_jp": "紫電改(三四三空) 戦闘301",
-		"name_en": "Shiden Kai (343rd Air Group) 301st Fighter Squadron"
-	},
-	{
-		"id": 2106,
-		"api_id": 264,
-		"name_jp": "紫電改(三四三空) 戦闘701",
-		"name_en": "Shiden Kai (343rd Air Group) 701st Fighter Squadron"
-	},
-	{
-		"id": 2107,
-		"api_id": 266,
-		"name_jp": "12.7cm連装砲C型改二",
-		"name_en": "12.7cm Twin Gun Model C Kai Ni"
-	},
-	{
-		"id": 2108,
-		"api_id": 267,
-		"name_jp": "12.7cm連装砲D型改二",
-		"name_en": "12.7cm Twin Gun Model D Kai Ni"
-	},
-	{
-		"id": 2109,
-		"api_id": 268,
-		"name_jp": "北方迷彩(+北方装備)",
-		"name_en": "Arctic Camouflage (+ Arctic Equipment)"
-	},
-	{
-		"id": 2110,
-		"api_id": 269,
-		"name_jp": "試製東海",
-		"name_en": "Prototype Toukai"
-	},
-	{
-		"id": 2111,
-		"api_id": 270,
-		"name_jp": "東海(九〇一空)",
-		"name_en": "Toukai (901 Air Group)"
-	},
-	{
-		"id": 2112,
-		"api_id": 271,
-		"name_jp": "紫電改四",
-		"name_en": "Shiden Kai Yon"
-	},
-	{
-		"id": 2113,
-		"api_id": 272,
-		"name_jp": "遊撃部隊 艦隊司令部",
-		"name_en": "Striking Force FCF"
-	},
-	{
-		"id": 2114,
-		"api_id": 273,
-		"name_jp": "彩雲(偵四)",
-		"name_en": "Saiun (4th Recon)"
-	},
-	{
-		"id": 2115,
-		"api_id": 274,
-		"name_jp": "12cm30連装噴進砲改二",
-		"name_en": "12cm 30-tube Rocket Launcher Kai Ni"
-	},
-	{
-		"id": 2116,
-		"api_id": 275,
-		"name_jp": "10cm連装高角砲改+増設機銃",
-		"name_en": "10cm Twin High-angle Gun Kai + Additional Machine Guns"
-	},
-	{
-		"id": 2117,
-		"api_id": 276,
-		"name_jp": "46cm三連装砲改",
-		"name_en": "46cm Triple Gun Kai"
-	},
-	{
-		"id": 2118,
-		"api_id": 277,
-		"name_jp": "FM-2",
-		"name_en": "FM-2 Wildcat"
-	},
-	{
-		"id": 2119,
-		"api_id": 278,
-		"name_jp": "SK レーダー",
-		"name_en": "SK Radar"
-	},
-	{
-		"id": 2120,
-		"api_id": 279,
-		"name_jp": "SK+SG レーダー",
-		"name_en": "SK+SG Radar"
-	},
-	{
-		"id": 2121,
-		"api_id": 280,
-		"name_jp": "QF 4.7inch砲 Mk.XII改",
-		"name_en": "QF 4.7inch Gun Mk.XII Kai"
-	},
-	{
-		"id": 2122,
-		"api_id": 281,
-		"name_jp": "51cm連装砲",
-		"name_en": "51cm Twin Gun"
-	},
-	{
-		"id": 2123,
-		"api_id": 282,
-		"name_jp": "130mm B-13連装砲",
-		"name_en": "130mm B-13 Twin Gun"
-	},
-	{
-		"id": 2124,
-		"api_id": 283,
-		"name_jp": "533mm 三連装魚雷",
-		"name_en": "533mm Triple Torpedo"
-	},
-	{
-		"id": 2125,
-		"api_id": 284,
-		"name_jp": "5inch単装砲 Mk.30",
-		"name_en": "5inch Single Gun Mk.30"
-	},
-	{
-		"id": 2126,
-		"api_id": 285,
-		"name_jp": "61cm三連装(酸素)魚雷後期型",
-		"name_en": "61cm Triple (Oxygen) Torpedo Mount Late Model"
-	},
-	{
-		"id": 2127,
-		"api_id": 286,
-		"name_jp": "61cm四連装(酸素)魚雷後期型",
-		"name_en": "61cm Quadruple (Oxygen) Torpedo Mount Late Model"
-	},
-	{
-		"id": 2128,
-		"api_id": 287,
-		"name_jp": "三式爆雷投射機 集中配備",
-		"name_en": "Type 3 Depth Charge Projector (CD)"
-	},
-	{
-		"id": 2129,
-		"api_id": 288,
-		"name_jp": "試製15cm9連装対潜噴進砲",
-		"name_en": "Prototype 15cm 9-tube ASW Rocket Launcher"
-	},
-	{
-		"id": 2130,
-		"api_id": 289,
-		"name_jp": "35.6cm三連装砲改(ダズル迷彩仕様)",
-		"name_en": "35.6cm Triple Gun Kai (Dazzle Camouflage)"
-	},
-	{
-		"id": 2131,
-		"api_id": 290,
-		"name_jp": "41cm三連装砲改二",
-		"name_en": "41cm Triple Gun Kai Ni"
-	},
-	{
-		"id": 2132,
-		"api_id": 291,
-		"name_jp": "彗星二二型(六三四空)",
-		"name_en": "Suisei Model 22 (634 Air Group)"
-	},
-	{
-		"id": 2133,
-		"api_id": 292,
-		"name_jp": "彗星二二型(六三四空/熟練)",
-		"name_en": "Suisei Model 22 (634 Air Group/Skilled)"
-	},
-	{
-		"id": 2134,
-		"api_id": 293,
-		"name_jp": "12cm単装砲改二",
-		"name_en": "12cm Single Gun Kai Ni"
-	},
-	{
-		"id": 2135,
-		"api_id": 294,
-		"name_jp": "12.7cm連装砲A型改二",
-		"name_en": "12.7cm Twin Gun Model A Kai Ni"
-	},
-	{
-		"id": 2136,
-		"api_id": 295,
-		"name_jp": "12.7cm連装砲A型改三(戦時改修)+高射装置",
-		"name_en": "12.7cm Twin Gun Model A Kai San (Wartime Modification) + AAFD"
-	},
-	{
-		"id": 2137,
-		"api_id": 296,
-		"name_jp": "12.7cm連装砲B型改四(戦時改修)+高射装置",
-		"name_en": "12.7cm Twin Gun Model B Kai Yon (Wartime Modification) + AAFD"
-	},
-	{
-		"id": 2138,
-		"api_id": 297,
-		"name_jp": "12.7cm連装砲A型",
-		"name_en": "12.7cm Twin Gun Model A"
-	},
-	{
-		"id": 2139,
-		"api_id": 298,
-		"name_jp": "16inch Mk.I三連装砲",
-		"name_en": "16inch Mk.I Triple Gun",
-		"development": true
-	},
-	{
-		"id": 2140,
-		"api_id": 299,
-		"name_jp": "16inch Mk.I三連装砲+AFCT改",
-		"name_en": "16inch Mk.I Triple Gun + AFCT Kai"
-	},
-	{
-		"id": 2141,
-		"api_id": 300,
-		"name_jp": "16inch Mk.I三連装砲改+FCR type284",
-		"name_en": "16inch Mk.I Triple Gun Kai + FCR Type 284"
-	},
-	{
-		"id": 2142,
-		"api_id": 301,
-		"name_jp": "20連装7inch UP Rocket Launchers",
-		"name_en": "20-tube 7inch UP Rocket Launchers",
-		"development": true
-	},
-	{
-		"id": 2143,
-		"api_id": 302,
-		"name_jp": "九七式艦攻(九三一空/熟練)",
-		"name_en": "Type 97 Torpedo Bomber (931 Air Group/Skilled)"
-	},
-	{
-		"id": 2144,
-		"api_id": 303,
-		"name_jp": "Bofors 15.2cm連装砲 Model 1930",
-		"name_en": "Bofors 15.2cm Twin Gun Model 1930"
-	},
-	{
-		"id": 2145,
-		"api_id": 304,
-		"name_jp": "S9 Osprey",
-		"name_en": "S9 Osprey"
-	},
-	{
-		"id": 2146,
-		"api_id": 305,
-		"name_jp": "Ju87C改二(KMX搭載機)",
-		"name_en": "Ju 87C Kai Ni (KMX)"
-	},
-	{
-		"id": 2147,
-		"api_id": 306,
-		"name_jp": "Ju87C改二(KMX搭載機/熟練)",
-		"name_en": "Ju 87C Kai Ni (KMX/Skilled)"
-	},
-	{
-		"id": 2148,
-		"api_id": 307,
-		"name_jp": "GFCS Mk.37",
-		"name_en": "GFCS Mk.37"
-	},
-	{
-		"id": 2149,
-		"api_id": 308,
-		"name_jp": "5inch単装砲 Mk.30改+GFCS Mk.37",
-		"name_en": "5inch Single Gun Mk.30 Kai + GFCS Mk.37"
-	},
-	{
-		"id": 2150,
-		"api_id": 309,
-		"name_jp": "甲標的 丙型",
-		"name_en": "Type C Kouhyouteki"
-	},
-	{
-		"id": 2151,
-		"api_id": 310,
-		"name_jp": "14cm連装砲改",
-		"name_en": "14cm Twin Gun Kai"
-	},
-	{
-		"id": 2152,
-		"api_id": 311,
-		"name_jp": "二式陸上偵察機",
-		"name_en": "Type 2 Land-based Recon Aircraft"
-	},
-	{
-		"id": 2153,
-		"api_id": 312,
-		"name_jp": "二式陸上偵察機(熟練)",
-		"name_en": "Type 2 Land-based Recon Aircraft (Skilled)"
-	},
-	{
-		"id": 2154,
-		"api_id": 313,
-		"name_jp": "5inch単装砲 Mk.30改",
-		"name_en": "5inch Single Gun Mk.30 Kai"
-	},
-	{
-		"id": 2155,
-		"api_id": 314,
-		"name_jp": "533mm五連装魚雷(初期型)",
-		"name_en": "533mm Quintuple Torpedo (Initial Model)"
-	},
-	{
-		"id": 2156,
-		"api_id": 315,
-		"name_jp": "SG レーダー(初期型)",
-		"name_en": "SG Radar (Initial Model)"
-	},
-	{
-		"id": 2157,
-		"api_id": 316,
-		"name_jp": "Re.2001 CB改",
-		"name_en": "Re.2001 CB Kai"
-	},
-	{
-		"id": 2158,
-		"api_id": 317,
-		"name_jp": "三式弾改",
-		"name_en": "Type 3 Shell Kai"
-	},
-	{
-		"id": 2159,
-		"api_id": 318,
-		"name_jp": "41cm連装砲改二",
-		"name_en": "41cm Twin Gun Mount Kai Ni"
-	},
-	{
-		"id": 2160,
-		"api_id": 319,
-		"name_jp": "彗星一二型(六三四空/三号爆弾搭載機)",
-		"name_en": "Suisei Model 12 (634 Air Group w/ Type 3 Cluster Bombs)"
-	},
-	{
-		"id": 2161,
-		"api_id": 320,
-		"name_jp": "彗星一二型(三一号光電管爆弾搭載機)",
-		"name_en": "Suisei Model 12 (w/ Type 31 Photoelectric Fuze Bombs)"
-	},
-	{
-		"id": 2162,
-		"api_id": 322,
-		"name_jp": "瑞雲改二(六三四空)",
-		"name_en": "Zuiun Kai Ni (634 Air Group)"
-	},
-	{
-		"id": 2163,
-		"api_id": 323,
-		"name_jp": "瑞雲改二(六三四空/熟練)",
-		"name_en": "Zuiun Kai Ni (634 Air Group/Skilled)"
-	},
-	{
-		"id": 2164,
-		"api_id": 324,
-		"name_jp": "オ号観測機改",
-		"name_en": "O Type Observation Autogyro Kai"
-	},
-	{
-		"id": 2165,
-		"api_id": 325,
-		"name_jp": "オ号観測機改二",
-		"name_en": "O Type Observation Autogyro Kai Ni"
-	},
-	{
-		"id": 2166,
-		"api_id": 326,
-		"name_jp": "S-51J",
-		"name_en": "S-51J"
-	},
-	{
-		"id": 2167,
-		"api_id": 327,
-		"name_jp": "S-51J改",
-		"name_en": "S-51J Kai"
-	},
-	{
-		"id": 2168,
-		"api_id": 328,
-		"name_jp": "35.6cm連装砲改",
-		"name_en": "35.6cm Twin Gun Mount Kai"
-	},
-	{
-		"id": 2169,
-		"api_id": 329,
-		"name_jp": "35.6cm連装砲改二",
-		"name_en": "35.6cm Twin Gun Mount Kai Ni"
-	},
-	{
-		"id": 2170,
-		"api_id": 330,
-		"name_jp": "16inch Mk.I連装砲",
-		"name_en": "16inch Mk.I Twin Gun Mount"
-	},
-	{
-		"id": 2171,
-		"api_id": 331,
-		"name_jp": "16inch Mk.V連装砲",
-		"name_en": "16inch Mk.V Twin Gun Mount"
-	},
-	{
-		"id": 2172,
-		"api_id": 332,
-		"name_jp": "16inch Mk.VIII連装砲改",
-		"name_en": "16inch Mk.VIII Twin Gun Mount Kai"
-	},
-	{
-		"id": 2173,
-		"api_id": 333,
-		"name_jp": "烈風改",
-		"name_en": "Reppuu Kai"
-	},
-	{
-		"id": 2174,
-		"api_id": 334,
-		"name_jp": "烈風改(三五二空/熟練)",
-		"name_en": "Reppuu Kai (352 Air Group/Skilled)"
-	},
-	{
-		"id": 2175,
-		"api_id": 335,
-		"name_jp": "烈風改(試製艦載型)",
-		"name_en": "Reppuu Kai (Prototype Carrier-based Model)"
-	},
-	{
-		"id": 2176,
-		"api_id": 336,
-		"name_jp": "烈風改二",
-		"name_en": "Reppuu Kai Ni"
-	},
-	{
-		"id": 2177,
-		"api_id": 337,
-		"name_jp": "烈風改二(一航戦/熟練)",
-		"name_en": "Reppuu Kai Ni (CarDiv 1/Skilled)"
-	},
-	{
-		"id": 2178,
-		"api_id": 338,
-		"name_jp": "烈風改二戊型",
-		"name_en": "Reppuu Kai Ni Model E"
-	},
-	{
-		"id": 2179,
-		"api_id": 339,
-		"name_jp": "烈風改二戊型(一航戦/熟練)",
-		"name_en": "Reppuu Kai Ni Model E (CarDiv 1/Skilled)"
-	},
-	{
-		"id": 2180,
-		"api_id": 340,
-		"name_jp": "152mm/55 三連装速射砲",
-		"name_en": "152mm/55 Triple Rapid Fire Gun Mount"
-	},
-	{
-		"id": 2181,
-		"api_id": 341,
-		"name_jp": "152mm/55 三連装速射砲改",
-		"name_en": "152mm/55 Triple Rapid Fire Gun Mount Kai"
-	},
-	{
-		"id": 2182,
-		"api_id": 342,
-		"name_jp": "流星改(一航戦)",
-		"name_en": "Ryuusei Kai (CarDiv 1)"
-	},
-	{
-		"id": 2183,
-		"api_id": 343,
-		"name_jp": "流星改(一航戦/熟練)",
-		"name_en": "Ryuusei Kai (CarDiv 1/Skilled)"
-	},
-	{
-		"id": 2184,
-		"api_id": 344,
-		"name_jp": "九七式艦攻改 試製三号戊型(空六号電探改装備機)",
-		"name_en": "Prototype Type 97 Torpedo Bomber Kai No. 3 Model E (w/ Type 6 Airborne Radar Kai)"
-	},
-	{
-		"id": 2185,
-		"api_id": 345,
-		"name_jp": "九七式艦攻改(熟練) 試製三号戊型(空六号電探改装備機)",
-		"name_en": "Prototype Type 97 Torpedo Bomber Kai (Skilled) No. 3 Model E (w/ Type 6 Airborne Radar Kai)"
-	},
-	{
-		"id": 2186,
-		"api_id": 346,
-		"name_jp": "二式12cm迫撃砲改",
-		"name_en": "Type 2 12cm Mortar Kai"
-	},
-	{
-		"id": 2187,
-		"api_id": 347,
-		"name_jp": "二式12cm迫撃砲改 集中配備",
-		"name_en": "Type 2 12cm Mortar Kai (Concentrated Deployment)"
-	},
-	{
-		"id": 2188,
-		"api_id": 348,
-		"name_jp": "艦載型 四式20cm対地噴進砲",
-		"name_en": "Shipborne Model Type 4 20cm Anti-ground Rocket Launcher"
-	},
-	{
-		"id": 2189,
-		"api_id": 349,
-		"name_jp": "四式20cm対地噴進砲 集中配備",
-		"name_en": "Type 4 20cm Anti-ground Rocket Launcher (Concentrated Deployment)"
-	},
-	{
-		"id": 2190,
-		"api_id": 350,
-		"name_jp": "Me163B",
-		"name_en": "Me 163B"
-	},
-	{
-		"id": 2191,
-		"api_id": 351,
-		"name_jp": "試製 秋水",
-		"name_en": "Prototype Shuusui"
-	},
-	{
-		"id": 2192,
-		"api_id": 352,
-		"name_jp": "秋水",
-		"name_en": "Shuusui"
-	},
-	{
-		"id": 2193,
-		"api_id": 353,
-		"name_jp": "Fw190 A-5改(熟練)",
-		"name_en": "Fw 190 A-5 Kai (Skilled)"
-	},
-	{
-		"id": 2194,
-		"api_id": 354,
-		"name_jp": "Fw190 D-9",
-		"name_en": "Fw 190 D-9"
-	},
-	{
-		"id": 2195,
-		"api_id": 355,
-		"name_jp": "M4A1 DD",
-		"name_en": "M4A1 DD"
-	},
-	{
-		"id": 2196,
-		"api_id": 356,
-		"name_jp": "8inch三連装砲 Mk.9",
-		"name_en": "8inch Triple Gun Mount Mk.9"
-	},
-	{
-		"id": 2197,
-		"api_id": 357,
-		"name_jp": "8inch三連装砲 Mk.9 mod.2",
-		"name_en": "8inch Triple Gun Mount Mk.9 mod.2"
-	},
-	{
-		"id": 2198,
-		"api_id": 358,
-		"name_jp": "5inch 単装高角砲群",
-		"name_en": "5inch Single High-angle Gun Mount Battery"
-	},
-	{
-		"id": 2199,
-		"api_id": 359,
-		"name_jp": "6inch 連装速射砲 Mk.XXI",
-		"name_en": "6inch Twin Rapid Fire Gun Mount Mk.XXI"
-	},
-	{
-		"id": 2200,
-		"api_id": 360,
-		"name_jp": "Bofors 15cm連装速射砲 Mk.9 Model 1938",
-		"name_en": "Bofors 15cm Twin Rapid Fire Gun Mount Mk.9 Model 1938"
-	},
-	{
-		"id": 2201,
-		"api_id": 361,
-		"name_jp": "Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938",
-		"name_en": "Bofors 15cm Twin Rapid Fire Gun Mount Mk.9 Kai + Single Rapid Fire Gun Mount Mk.10 Kai Model 1938"
-	},
-	{
-		"id": 2202,
-		"api_id": 362,
-		"name_jp": "5inch連装両用砲(集中配備)",
-		"name_en": "5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)"
-	},
-	{
-		"id": 2203,
-		"api_id": 363,
-		"name_jp": "GFCS Mk.37+5inch連装両用砲(集中配備)",
-		"name_en": "GFCS Mk.37 + 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)"
-	},
-	{
-		"id": 2204,
-		"api_id": 364,
-		"name_jp": "甲標的 丁型改(蛟龍改)",
-		"name_en": "Type D Kouhyouteki Kai (Kouryuu Kai)"
-	},
-	{
-		"id": 2205,
-		"api_id": 365,
-		"name_jp": "一式徹甲弾改",
-		"name_en": "Type 1 Armor Piercing Shell Kai"
-	},
-	{
-		"id": 2206,
-		"api_id": 366,
-		"name_jp": "12.7cm連装砲D型改三",
-		"name_en": "12.7cm Twin Gun Model D Kai San"
-	},
-	{
-		"id": 2207,
-		"api_id": 367,
-		"name_jp": "Swordfish(水上機型)",
-		"name_en": "Swordfish (Seaplane Model)"
-	},
-	{
-		"id": 2208,
-		"api_id": 368,
-		"name_jp": "Swordfish Mk.III改(水上機型)",
-		"name_en": "Swordfish Mk.III Kai (Seaplane Model)"
-	},
-	{
-		"id": 2209,
-		"api_id": 369,
-		"name_jp": "Swordfish Mk.III改(水上機型/熟練)",
-		"name_en": "Swordfish Mk.III Kai (Seaplane Model/Skilled)"
-	},
-	{
-		"id": 2210,
-		"api_id": 370,
-		"name_jp": "Swordfish Mk.II改(水偵型)",
-		"name_en": "Swordfish Mk.II Kai (Reconnaissance Seaplane Model)"
-	},
-	{
-		"id": 2211,
-		"api_id": 371,
-		"name_jp": "Fairey Seafox改",
-		"name_en": "Fairey Seafox Kai"
-	},
-	{
-		"id": 2212,
-		"api_id": 372,
-		"name_jp": "天山一二型甲",
-		"name_en": "Tenzan Model 12A"
-	},
-	{
-		"id": 2213,
-		"api_id": 373,
-		"name_jp": "天山一二型甲改(空六号電探改装備機)",
-		"name_en": "Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai)"
-	},
-	{
-		"id": 2214,
-		"api_id": 374,
-		"name_jp": "天山一二型甲改(熟練/空六号電探改装備機)",
-		"name_en": "Tenzan Model 12A Kai (Skilled w/ Type 6 Airborne Radar Kai)"
-	},
-	{
-		"id": 2215,
-		"api_id": 375,
-		"name_jp": "XF5U",
-		"name_en": "XF5U"
-	},
-	{
-		"id": 2216,
-		"api_id": 376,
-		"name_jp": "533mm五連装魚雷(後期型)",
-		"name_en": "533mm Quintuple Torpedo Mount (Late Model)"
-	},
-	{
-		"id": 2217,
-		"api_id": 377,
-		"name_jp": "RUR-4A Weapon Alpha改",
-		"name_en": "RUR-4A Weapon Alpha Kai"
-	},
-	{
-		"id": 2218,
-		"api_id": 378,
-		"name_jp": "対潜短魚雷(試作初期型)",
-		"name_en": "Lightweight ASW Torpedo (Initial Test Model)"
-	},
-	{
-		"id": 2219,
-		"api_id": 379,
-		"name_jp": "12.7cm単装高角砲改二",
-		"name_en": "12.7cm Single High-angle Gun Kai Ni"
-	},
-	{
-		"id": 2220,
-		"api_id": 380,
-		"name_jp": "12.7cm連装高角砲改二",
-		"name_en": "12.7cm Twin High-angle Gun Kai Ni"
-	},
-	{
-		"id": 2221,
-		"api_id": 381,
-		"name_jp": "16inch三連装砲 Mk.6",
-		"name_en": "16inch Triple Gun Mk.6"
-	},
-	{
-		"id": 2222,
-		"api_id": 382,
-		"name_jp": "12cm単装高角砲E型",
-		"name_en": "12cm Single High-angle Gun Model E",
-		"development": true
-	},
-	{
-		"id": 2223,
-		"api_id": 383,
-		"name_jp": "後期型53cm艦首魚雷(8門)",
-		"name_en": "Late Model 53cm Bow Torpedo (8 tubes)"
-	},
-	{
-		"id": 2224,
-		"api_id": 384,
-		"name_jp": "後期型潜水艦搭載電探&逆探",
-		"name_en": "Late Model Submarine Radar & Passive Radiolocator"
-	},
-	{
-		"id": 2225,
-		"api_id": 385,
-		"name_jp": "16inch三連装砲 Mk.6 mod.2",
-		"name_en": "16inch Triple Gun Mk.6 mod.2"
-	},
-	{
-		"id": 2226,
-		"api_id": 386,
-		"name_jp": "6inch三連装速射砲 Mk.16",
-		"name_en": "6inch Triple Rapid Fire Gun Mount Mk.16"
-	},
-	{
-		"id": 2227,
-		"api_id": 387,
-		"name_jp": "6inch三連装速射砲 Mk.16 mod.2",
-		"name_en": "6inch Triple Rapid Fire Gun Mount Mk.16 mod.2"
-	},
-	{
-		"id": 2228,
-		"api_id": 388,
-		"name_jp": "銀河(江草隊)",
-		"name_en": "Ginga (Egusa Squadron)"
-	},
-	{
-		"id": 2229,
-		"api_id": 389,
-		"name_jp": "TBM-3W+3S",
-		"name_en": "TBM-3W+3S"
-	},
-	{
-		"id": 2230,
-		"api_id": 390,
-		"name_jp": "16inch三連装砲 Mk.6+GFCS",
-		"name_en": "16inch Triple Gun Mount Mk.6 + GFCS"
-	},
-	{
-		"id": 2231,
-		"api_id": 391,
-		"name_jp": "九九式艦爆二二型",
-		"name_en": "Type 99 Dive Bomber Model 22"
-	},
-	{
-		"id": 2232,
-		"api_id": 392,
-		"name_jp": "九九式艦爆二二型(熟練)",
-		"name_en": "Type 99 Dive Bomber Model 22 (Skilled)"
-	},
-	{
-		"id": 2233,
-		"api_id": 393,
-		"name_jp": "120mm/50 連装砲 mod.1936",
-		"name_en": "120mm/50 Twin Gun Mount mod.1936"
-	},
-	{
-		"id": 2234,
-		"api_id": 394,
-		"name_jp": "120mm/50 連装砲改 A.mod.1937",
-		"name_en": "120mm/50 Twin Gun Mount Kai A.mod.1937"
-	},
-	{
-		"id": 2235,
-		"api_id": 395,
-		"name_jp": "深山",
-		"name_en": "Shinzan"
-	},
-	{
-		"id": 2236,
-		"api_id": 396,
-		"name_jp": "深山改",
-		"name_en": "Shinzan Kai"
-	},
-	{
-		"id": 2237,
-		"api_id": 397,
-		"name_jp": "現地改装12.7cm連装高角砲",
-		"name_en": "Locally Modified 12.7cm Twin High-angle Gun Mount"
-	},
-	{
-		"id": 2238,
-		"api_id": 398,
-		"name_jp": "現地改装10cm連装高角砲",
-		"name_en": "Locally Modified 10cm Twin High-angle Gun Mount"
-	},
-	{
-		"id": 2239,
-		"api_id": 399,
-		"name_jp": "6inch Mk.XXIII三連装砲",
-		"name_en": "6inch Mk.XXIII Triple Gun Mount"
-	},
-	{
-		"id": 2240,
-		"api_id": 400,
-		"name_jp": "533mm 三連装魚雷(53-39型)",
-		"name_en": "533mm Triple Torpedo Mount (Model 53-39)"
-	},
-	{
-		"id": 2241,
-		"api_id": 401,
-		"name_jp": "Do 17 Z-2",
-		"name_en": "Do 17 Z-2"
-	},
-	{
-		"id": 2242,
-		"api_id": 402,
-		"name_jp": "寒冷地装備&甲板要員",
-		"name_en": "Arctic Gear & Deck Personnel"
-	},
-	{
-		"id": 2243,
-		"api_id": 403,
-		"name_jp": "四式重爆 飛龍",
-		"name_en": "Type 4 Heavy Bomber Hiryuu"
-	},
-	{
-		"id": 2244,
-		"api_id": 404,
-		"name_jp": "四式重爆 飛龍(熟練)",
-		"name_en": "Type 4 Heavy Bomber Hiryuu(Skilled)"
-	},
-	{
-		"id": 2245,
-		"api_id": 405,
-		"name_jp": "Do 217 E-5+Hs293初期型",
-		"name_en": "Do 217 E-5 + Hs293 Initial Model"
-	},
-	{
-		"id": 2246,
-		"api_id": 406,
-		"name_jp": "Do 217 K-2+Fritz-X",
-		"name_en": "Do 217 K-2 + Fritz-X"
-	},
-	{
-		"id": 2247,
-		"api_id": 407,
-		"name_jp": "15.2cm連装砲改二",
-		"name_en": "15.2cm Twin Gun Mount Kai Ni"
-	},
-	{
-		"id": 2248,
-		"api_id": 408,
-		"name_jp": "装甲艇(AB艇)",
-		"name_en": "Soukoutei (AB Class)"
-	},
-	{
-		"id": 2249,
-		"api_id": 409,
-		"name_jp": "武装大発",
-		"name_en": "Armed Daihatsu"
-	},
-	{
-		"id": 2250,
-		"api_id": 410,
-		"name_jp": "21号対空電探改二",
-		"name_en": "Type 21 Air Radar Kai Ni"
-	},
-	{
-		"id": 2251,
-		"api_id": 411,
-		"name_jp": "42号対空電探改二",
-		"name_en": "Type 42 Air Radar Kai Ni"
-	},
-	{
-		"id": 2252,
-		"api_id": 412,
-		"name_jp": "水雷戦隊 熟練見張員",
-		"name_en": "Torpedo Squadron Skilled Lookouts"
-	},
-	{
-		"id": 2253,
-		"api_id": 413,
-		"name_jp": "精鋭水雷戦隊 司令部",
-		"name_en": "Elite Torpedo Squadron Command Facility"
-	},
-	{
-		"id": 2254,
-		"api_id": 414,
-		"name_jp": "SOC Seagull",
-		"name_en": "SOC Seagull",
-		"development": true
-	},
-	{
-		"id": 2255,
-		"api_id": 415,
-		"name_jp": "SO3C Seamew改",
-		"name_en": "SO3C Seamew Kai"
-	},
-	{
-		"id": 2256,
-		"api_id": 416,
-		"name_jp": "零式艦戦21型(台南空)",
-		"name_en": "Type 0 Fighter Model 21 (Tainan Air Group)"
-	},
-	{
-		"id": 2257,
-		"api_id": 417,
-		"name_jp": "零式艦戦32型(台南空)",
-		"name_en": "Type 0 Fighter Model 32 (Tainan Air Group)"
-	},
-	{
-		"id": 2258,
-		"api_id": 418,
-		"name_jp": "零式艦戦22型(251空)",
-		"name_en": "Type 0 Fighter Model 22 (251 Air Group)"
-	},
-	{
-		"id": 2259,
-		"api_id": 419,
-		"name_jp": "SBD-5",
-		"name_en": "SBD-5"
-	},
-	{
-		"id": 2260,
-		"api_id": 420,
-		"name_jp": "SB2C-3",
-		"name_en": "SB2C-3"
-	},
-	{
-		"id": 2261,
-		"api_id": 421,
-		"name_jp": "SB2C-5",
-		"name_en": "SB2C-5"
-	},
-	{
-		"id": 2262,
-		"api_id": 422,
-		"name_jp": "FR-1 Fireball",
-		"name_en": "FR-1 Fireball"
-	},
-	{
-		"id": 2263,
-		"api_id": 423,
-		"name_jp": "Fulmar(戦闘偵察/熟練)",
-		"name_en": "Fulmar (Reconnaissance Fighter/Skilled)"
-	},
-	{
-		"id": 2264,
-		"api_id": 424,
-		"name_jp": "Barracuda Mk.II",
-		"name_en": "Barracuda Mk.II"
-	},
-	{
-		"id": 2265,
-		"api_id": 425,
-		"name_jp": "Barracuda Mk.III",
-		"name_en": "Barracuda Mk.III"
-	},
-	{
-		"id": 2266,
-		"api_id": 426,
-		"name_jp": "305mm/46 連装砲",
-		"name_en": "305mm/46 Twin Gun Mount"
-	},
-	{
-		"id": 2267,
-		"api_id": 427,
-		"name_jp": "305mm/46 三連装砲",
-		"name_en": "305mm/46 Triple Gun Mount"
-	},
-	{
-		"id": 2268,
-		"api_id": 428,
-		"name_jp": "320mm/44 連装砲",
-		"name_en": "320mm/44 Twin Gun Mount"
-	},
-	{
-		"id": 2269,
-		"api_id": 429,
-		"name_jp": "320mm/44 三連装砲",
-		"name_en": "320mm/44 Triple Gun Mount"
-	},
-	{
-		"id": 2270,
-		"api_id": 430,
-		"name_jp": "65mm/64 単装速射砲改",
-		"name_en": "65mm/64 Single Rapid Fire Gun Mount Kai"
-	},
-	{
-		"id": 2271,
-		"api_id": 431,
-		"name_jp": "SM.79",
-		"name_en": "SM.79"
-	},
-	{
-		"id": 2272,
-		"api_id": 432,
-		"name_jp": "SM.79 bis",
-		"name_en": "SM.79 bis"
-	},
-	{
-		"id": 2273,
-		"api_id": 433,
-		"name_jp": "SM.79 bis(熟練)",
-		"name_en": "SM.79 bis (Skilled)"
-	},
-	{
-		"id": 2274,
-		"api_id": 434,
-		"name_jp": "Corsair Mk.II",
-		"name_en": "Corsair Mk.II"
-	},
-	{
-		"id": 2275,
-		"api_id": 435,
-		"name_jp": "Corsair Mk.II(Ace)",
-		"name_en": "Corsair Mk.II (Ace)"
-	},
-	{
-		"id": 2276,
-		"api_id": 436,
-		"name_jp": "大発動艇(II号戦車/北アフリカ仕様)",
-		"name_en": "Daihatsu Landing Craft (Panzer II/North African Specification)"
-	},
-	{
-		"id": 2277,
-		"api_id": 437,
-		"name_jp": "試製 陣風",
-		"name_en": "Prototype Jinpuu"
-	},
-	{
-		"id": 2278,
-		"api_id": 438,
-		"name_jp": "三式水中探信儀改",
-		"name_en": "Type 3 Active Sonar Kai"
-	},
-	{
-		"id": 2279,
-		"api_id": 439,
-		"name_jp": "Hedgehog(初期型)",
-		"name_en": "Hedgehog (Initial Model)"
-	},
-	{
-		"id": 2280,
-		"api_id": 440,
-		"name_jp": "21inch艦首魚雷発射管6門(初期型)",
-		"name_en": "21inch 6-tube Bow Torpedo Launcher (Initial Model)",
-		"development": true
-	},
-	{
-		"id": 2281,
-		"api_id": 441,
-		"name_jp": "21inch艦首魚雷発射管6門(後期型)",
-		"name_en": "21inch 6-tube Bow Torpedo Launcher (Late Model)"
-	},
-	{
-		"id": 2282,
-		"api_id": 442,
-		"name_jp": "潜水艦後部魚雷発射管4門(初期型)",
-		"name_en": "Submarine 4-tube Stern Torpedo Launcher (Initial Model)",
-		"development": true
-	},
-	{
-		"id": 2283,
-		"api_id": 443,
-		"name_jp": "潜水艦後部魚雷発射管4門(後期型)",
-		"name_en": "Submarine 4-tube Stern Torpedo Launcher (Late Model)"
-	},
-	{
-		"id": 2284,
-		"api_id": 444,
-		"name_jp": "四式重爆 飛龍+イ号一型甲 誘導弾",
-		"name_en": "Type 4 Heavy Bomber Hiryuu + No.1 Model 1A Guided Missile"
-	},
-	{
-		"id": 2285,
-		"api_id": 445,
-		"name_jp": "二式複戦 屠龍",
-		"name_en": "Type 2 Two-seat Fighter Toryuu",
-		"development": true
-	},
-	{
-		"id": 2286,
-		"api_id": 446,
-		"name_jp": "二式複戦 屠龍 丙型",
-		"name_en": "Type 2 Two-seat Fighter Toryuu Model C"
-	},
-	{
-		"id": 2287,
-		"api_id": 447,
-		"name_jp": "零式艦戦64型(複座KMX搭載機)",
-		"name_en": "Type 0 Fighter Model 64 (Two-seat w/ KMX)"
-	},
-	{
-		"id": 2288,
-		"api_id": 449,
-		"name_jp": "特大発動艇+一式砲戦車",
-		"name_en": "Toku Daihatsu Landing Craft + Type 1 Gun Tank"
-	},
-	{
-		"id": 2289,
-		"api_id": 450,
-		"name_jp": "13号対空電探改(後期型)",
-		"name_en": "Type 13 Air Radar Kai (Late Model)"
-	},
-	{
-		"id": 2290,
-		"api_id": 451,
-		"name_jp": "三式指揮連絡機改",
-		"name_en": "Type 3 Command Liaison Aircraft Kai"
-	},
-	{
-		"id": 2291,
-		"api_id": 452,
-		"name_jp": "キ96",
-		"name_en": "Ki-96"
-	},
-	{
-		"id": 2292,
-		"api_id": 453,
-		"name_jp": "キ102乙",
-		"name_en": "Ki-102 B"
-	},
-	{
-		"id": 2293,
-		"api_id": 454,
-		"name_jp": "キ102乙改+イ号一型乙 誘導弾",
-		"name_en": "Ki-102 B Kai + No.1 Model 1B Guided Missile"
-	},
-	{
-		"id": 2294,
-		"api_id": 455,
-		"name_jp": "試製 長12.7cm連装砲A型改四",
-		"name_en": "Prototype Long-barrel 12.7cm Twin Gun Mount Model A Kai Yon"
-	},
-	{
-		"id": 2295,
-		"api_id": 456,
-		"name_jp": "SG レーダー(後期型)",
-		"name_en": "SG Radar (Late Model)"
-	},
-	{
-		"id": 2296,
-		"api_id": 457,
-		"name_jp": "後期型艦首魚雷(4門)",
-		"name_en": "Late Model Bow Torpedo Mount (4 tubes)",
-		"development": true
-	},
-	{
-		"id": 2297,
-		"api_id": 458,
-		"name_jp": "後期型電探&逆探+シュノーケル装備",
-		"name_en": "Late Model Radar & Passive Radiolocator + Snorkel Equipment"
-	},
-	{
-		"id": 2298,
-		"api_id": 459,
-		"name_jp": "B-25",
-		"name_en": "B-25"
-	},
-	{
-		"id": 2299,
-		"api_id": 460,
-		"name_jp": "15m二重測距儀改+21号電探改二+熟練射撃指揮所",
-		"name_en": "15m Duplex Rangefinder Kai + Type 21 Radar Kai Ni + Skilled FDC"
-	},
-	{
-		"id": 2300,
-		"api_id": 461,
-		"name_jp": "熟練聴音員+後期型艦首魚雷(4門)",
-		"name_en": "Skilled Sonar Personnel + Late Model Bow Torpedo Mount (4 tubes)"
-	},
-	{
-		"id": 2301,
-		"api_id": 463,
-		"name_jp": "15.5cm三連装副砲改二",
-		"name_en": "15.5cm Triple Secondary Gun Mount Kai Ni"
-	},
-	{
-		"id": 2302,
-		"api_id": 464,
-		"name_jp": "10cm連装高角砲群 集中配備",
-		"name_en": "10cm Twin High-angle Gun Mount Battery Concentrated Deployment"
-	},
-	{
-		"id": 2303,
-		"api_id": 465,
-		"name_jp": "試製51cm三連装砲",
-		"name_en": "Prototype 51cm Triple Gun Mount"
-	},
-	{
-		"id": 2304,
-		"api_id": 466,
-		"name_jp": "流星改(熟練)",
-		"name_en": "Ryuusei Kai (Skilled)"
-	},
-	{
-		"id": 2305,
-		"api_id": 467,
-		"name_jp": "5inch連装砲(副砲配置) 集中配備",
-		"name_en": "5inch Twin Gun Mount (Secondary Armament) Concentrated Deployment"
-	},
-	{
-		"id": 2306,
-		"api_id": 468,
-		"name_jp": "38cm四連装砲改 deux",
-		"name_en": "38cm Quadruple Gun Mount Kai Deux"
-	},
-	{
-		"id": 2307,
-		"api_id": 469,
-		"name_jp": "零式水上偵察機11型乙改(夜偵)",
-		"name_en": "Type 0 Reconnaissance Seaplane Model 11B Kai (Night Recon)"
-	},
-	{
-		"id": 2308,
-		"api_id": 470,
-		"name_jp": "12.7cm連装砲C型改三",
-		"name_en": "12.7cm Twin Gun Model C Kai San"
-	},
-	{
-		"id": 2309,
-		"api_id": 471,
-		"name_jp": "Loire 130M",
-		"name_en": "Loire 130M"
-	},
-	{
-		"id": 2310,
-		"api_id": 472,
-		"name_jp": "Mk.32 対潜魚雷(Mk.2落射機)",
-		"name_en": "Mk.32 ASW Torpedo (Mk.2 Thrower)"
-	},
-	{
-		"id": 2311,
-		"api_id": 473,
-		"name_jp": "F4U-2 Night Corsair",
-		"name_en": "F4U-2 Night Corsair"
-	},
-	{
-		"id": 2312,
-		"api_id": 474,
-		"name_jp": "F4U-4",
-		"name_en": "F4U-4"
-	},
-	{
-		"id": 2313,
-		"api_id": 475,
-		"name_jp": "AU-1",
-		"name_en": "AU-1"
-	},
-	{
-		"id": 2314,
-		"api_id": 476,
-		"name_jp": "F4U-7",
-		"name_en": "F4U-7"
-	},
-	{
-		"id": 2315,
-		"api_id": 477,
-		"name_jp": "熟練甲板要員",
-		"name_en": "Skilled Deck Personnel"
-	},
-	{
-		"id": 2316,
-		"api_id": 478,
-		"name_jp": "熟練甲板要員+航空整備員",
-		"name_en": "Skilled Deck Personnel + Aviation Maintenance Personnel"
-	},
-	{
-		"id": 2317,
-		"api_id": 479,
-		"name_jp": "Mosquito FB Mk.VI",
-		"name_en": "Mosquito FB Mk.VI"
-	},
-	{
-		"id": 2318,
-		"api_id": 480,
-		"name_jp": "Mosquito PR Mk.IV",
-		"name_en": "Mosquito PR Mk.IV"
-	},
-	{
-		"id": 2319,
-		"api_id": 481,
-		"name_jp": "Mosquito TR Mk.33",
-		"name_en": "Mosquito TR Mk.33"
-	},
-	{
-		"id": 2320,
-		"api_id": 482,
-		"name_jp": "特大発動艇+Ⅲ号戦車(北アフリカ仕様)",
-		"name_en": "Toku Daihatsu Landing Craft + Panzer III (North African Corps)"
-	},
-	{
-		"id": 2321,
-		"api_id": 483,
-		"name_jp": "三式弾改二",
-		"name_en": "Type 3 Shell Kai Ni"
-	},
-	{
-		"id": 2322,
-		"api_id": 484,
-		"name_jp": "四式重爆 飛龍(熟練)+イ号一型甲 誘導弾",
-		"name_en": "Type 4 Heavy Bomber Hiryuu (Skilled) + No.1 Model 1A Guided Missile"
-	},
-	{
-		"id": 2323,
-		"api_id": 485,
-		"name_jp": "強風改二",
-		"name_en": "Kyoufuu Kai Ni"
-	},
-	{
-		"id": 2324,
-		"api_id": 486,
-		"name_jp": "零式艦戦64型(制空戦闘機仕様)",
-		"name_en": "Type 0 Fighter Model 64 (Air Superiority Fighter Specification)"
-	},
-	{
-		"id": 2325,
-		"api_id": 487,
-		"name_jp": "零式艦戦64型(熟練爆戦)",
-		"name_en": "Type 0 Fighter Model 64 (Skilled Fighter-Bomber)"
-	},
-	{
-		"id": 2326,
-		"api_id": 488,
-		"name_jp": "二式爆雷改二",
-		"name_en": "Type 2 Depth Charge Kai Ni"
-	},
-	{
-		"id": 2327,
-		"api_id": 489,
-		"name_jp": "一式戦 隼II型改(20戦隊)",
-		"name_en": "Type 1 Fighter Hayabusa Model II Kai (20th Squadron)"
-	},
-	{
-		"id": 2328,
-		"api_id": 1501,
-		"name_jp": "5inch単装砲",
-		"name_en": "5inch Single Gun"
-	},
-	{
-		"id": 2329,
-		"api_id": 1502,
-		"name_jp": "5inch連装砲",
-		"name_en": "5inch Twin Gun"
-	},
-	{
-		"id": 2330,
-		"api_id": 1503,
-		"name_jp": "3inch単装高角砲",
-		"name_en": "3inch Single High-angle"
-	},
-	{
-		"id": 2331,
-		"api_id": 1504,
-		"name_jp": "5inch単装高射砲",
-		"name_en": "5inch Single AA Gun"
-	},
-	{
-		"id": 2332,
-		"api_id": 1505,
-		"name_jp": "8inch三連装砲",
-		"name_en": "8inch Triple Gun"
-	},
-	{
-		"id": 2333,
-		"api_id": 1506,
-		"name_jp": "6inch連装速射砲",
-		"name_en": "6inch Twin Rapid-fire Gun"
-	},
-	{
-		"id": 2334,
-		"api_id": 1507,
-		"name_jp": "14inch連装砲",
-		"name_en": "14inch Twin Gun"
-	},
-	{
-		"id": 2335,
-		"api_id": 1508,
-		"name_jp": "16inch連装砲",
-		"name_en": "16inch Twin Gun"
-	},
-	{
-		"id": 2336,
-		"api_id": 1509,
-		"name_jp": "16inch三連装砲",
-		"name_en": "16inch Triple Gun"
-	},
-	{
-		"id": 2337,
-		"api_id": 1510,
-		"name_jp": "5inch単装高射砲",
-		"name_en": "5inch Single AA Gun"
-	},
-	{
-		"id": 2338,
-		"api_id": 1511,
-		"name_jp": "6inch単装砲",
-		"name_en": "6inch Single Gun"
-	},
-	{
-		"id": 2339,
-		"api_id": 1512,
-		"name_jp": "12.5inch連装副砲",
-		"name_en": "12.5inch Twin Secondary Gun"
-	},
-	{
-		"id": 2340,
-		"api_id": 1513,
-		"name_jp": "21inch魚雷前期型",
-		"name_en": "21inch Torpedo Mk.I"
-	},
-	{
-		"id": 2341,
-		"api_id": 1514,
-		"name_jp": "21inch魚雷後期型",
-		"name_en": "21inch Torpedo Mk.II"
-	},
-	{
-		"id": 2342,
-		"api_id": 1515,
-		"name_jp": "高速深海魚雷",
-		"name_en": "High-speed Abyssal Torpedo"
-	},
-	{
-		"id": 2343,
-		"api_id": 1516,
-		"name_jp": "深海棲艦攻",
-		"name_en": "Abyssal Torpedo Bomber Mk.I"
-	},
-	{
-		"id": 2344,
-		"api_id": 1517,
-		"name_jp": "深海棲艦攻 Mark.II",
-		"name_en": "Abyssal Torpedo Bomber Mk.II"
-	},
-	{
-		"id": 2345,
-		"api_id": 1518,
-		"name_jp": "深海棲艦攻 Mark.III",
-		"name_en": "Abyssal Torpedo Bomber Mk.III"
-	},
-	{
-		"id": 2346,
-		"api_id": 1519,
-		"name_jp": "深海棲艦戦",
-		"name_en": "Abyssal Fighter Mk.I"
-	},
-	{
-		"id": 2347,
-		"api_id": 1520,
-		"name_jp": "深海棲艦戦 Mark.II",
-		"name_en": "Abyssal Fighter Mk.II"
-	},
-	{
-		"id": 2348,
-		"api_id": 1521,
-		"name_jp": "深海棲艦戦 Mark.III",
-		"name_en": "Abyssal Fighter Mk.III"
-	},
-	{
-		"id": 2349,
-		"api_id": 1522,
-		"name_jp": "飛び魚艦戦",
-		"name_en": "Flying-fish Abyssal Fighter"
-	},
-	{
-		"id": 2350,
-		"api_id": 1523,
-		"name_jp": "深海棲艦爆",
-		"name_en": "Abyssal Dive Bomber Mk.I"
-	},
-	{
-		"id": 2351,
-		"api_id": 1524,
-		"name_jp": "深海棲艦爆 Mark.II",
-		"name_en": "Abyssal Dive Bomber Mk.II"
-	},
-	{
-		"id": 2352,
-		"api_id": 1525,
-		"name_jp": "深海棲艦偵察機",
-		"name_en": "Abyssal Recon Plane"
-	},
-	{
-		"id": 2353,
-		"api_id": 1526,
-		"name_jp": "飛び魚偵察機",
-		"name_en": "Flying-fish Abyssal Recon Plane"
-	},
-	{
-		"id": 2354,
-		"api_id": 1527,
-		"name_jp": "対空レーダ― Mark.I",
-		"name_en": "Air RADAR Mk.I"
-	},
-	{
-		"id": 2355,
-		"api_id": 1528,
-		"name_jp": "水上レーダ― Mark.I",
-		"name_en": "Surface RADAR Mk.I"
-	},
-	{
-		"id": 2356,
-		"api_id": 1529,
-		"name_jp": "水上レーダ― Mark.II",
-		"name_en": "Surface RADAR Mk.II"
-	},
-	{
-		"id": 2357,
-		"api_id": 1530,
-		"name_jp": "対空レーダ― Mark.II",
-		"name_en": "Air RADAR Mk.II"
-	},
-	{
-		"id": 2358,
-		"api_id": 1531,
-		"name_jp": "深海水上レーダー",
-		"name_en": "Abyssal Surface RADAR"
-	},
-	{
-		"id": 2359,
-		"api_id": 1532,
-		"name_jp": "深海対空レーダ―",
-		"name_en": "Abyssal Air RADAR"
-	},
-	{
-		"id": 2360,
-		"api_id": 1533,
-		"name_jp": "改良型深海タービン",
-		"name_en": "Improved Abyssal Turbine"
-	},
-	{
-		"id": 2361,
-		"api_id": 1534,
-		"name_jp": "強化型深海缶",
-		"name_en": "Enhanced Abyssal Engine"
-	},
-	{
-		"id": 2362,
-		"api_id": 1535,
-		"name_jp": "対空散弾",
-		"name_en": "Abyssal Anti-air Dispersal Shell"
-	},
-	{
-		"id": 2363,
-		"api_id": 1536,
-		"name_jp": "劣化徹甲弾",
-		"name_en": "Deterioration Armor Piercing Shell"
-	},
-	{
-		"id": 2364,
-		"api_id": 1537,
-		"name_jp": "12.7mm機銃",
-		"name_en": "12.7mm Abyssal Autocannon"
-	},
-	{
-		"id": 2365,
-		"api_id": 1538,
-		"name_jp": "20mm機銃",
-		"name_en": "20mm Abyssal Autocannon"
-	},
-	{
-		"id": 2366,
-		"api_id": 1539,
-		"name_jp": "40mm二連装機関砲",
-		"name_en": "40mm Abyssal Twin Autocannon"
-	},
-	{
-		"id": 2367,
-		"api_id": 1540,
-		"name_jp": "40mm四連装機関砲",
-		"name_en": "40mm Abyssal Quadruple Autocannon"
-	},
-	{
-		"id": 2368,
-		"api_id": 1541,
-		"name_jp": "深海烏賊魚雷",
-		"name_en": "Abyssal Cuttlefish Torpedo"
-	},
-	{
-		"id": 2369,
-		"api_id": 1542,
-		"name_jp": "深海爆雷投射機",
-		"name_en": "Abyssal Depth Charge"
-	},
-	{
-		"id": 2370,
-		"api_id": 1543,
-		"name_jp": "深海ソナー",
-		"name_en": "Abyssal SONAR"
-	},
-	{
-		"id": 2371,
-		"api_id": 1544,
-		"name_jp": "深海爆雷投射機 Mk.II",
-		"name_en": "Abyssal Depth Charge Mk.II"
-	},
-	{
-		"id": 2372,
-		"api_id": 1545,
-		"name_jp": "深海ソナー Mk.II",
-		"name_en": "Abyssal SONAR Mk.II"
-	},
-	{
-		"id": 2373,
-		"api_id": 1546,
-		"name_jp": "飛び魚艦爆",
-		"name_en": "Flying-fish Abyssal Dive Bomber"
-	},
-	{
-		"id": 2374,
-		"api_id": 1547,
-		"name_jp": "深海猫艦戦",
-		"name_en": "Abyssal Cat Fighter"
-	},
-	{
-		"id": 2375,
-		"api_id": 1548,
-		"name_jp": "深海地獄艦爆",
-		"name_en": "Abyssal Hell Diver"
-	},
-	{
-		"id": 2376,
-		"api_id": 1549,
-		"name_jp": "深海復讐艦攻",
-		"name_en": "Abyssal Avenger Torpedo Bomber"
-	},
-	{
-		"id": 2377,
-		"api_id": 1550,
-		"name_jp": "5inch連装両用莢砲",
-		"name_en": "5inch Twin Dual Purpose Gun"
-	},
-	{
-		"id": 2378,
-		"api_id": 1551,
-		"name_jp": "20inch連装砲",
-		"name_en": "20inch Twin Gun"
-	},
-	{
-		"id": 2379,
-		"api_id": 1552,
-		"name_jp": "15inch要塞砲",
-		"name_en": "15inch Fortress Gun"
-	},
-	{
-		"id": 2380,
-		"api_id": 1553,
-		"name_jp": "4inch連装両用砲+CIC",
-		"name_en": "4inch Dual Purpose Gun+CIC"
-	},
-	{
-		"id": 2381,
-		"api_id": 1554,
-		"name_jp": "深海水上攻撃機",
-		"name_en": "Abyssal Attack Seaplane"
-	},
-	{
-		"id": 2382,
-		"api_id": 1555,
-		"name_jp": "深海水上攻撃機改",
-		"name_en": "Abyssal Attack Seaplane Kai"
-	},
-	{
-		"id": 2383,
-		"api_id": 1556,
-		"name_jp": "深海猫艦戦改",
-		"name_en": "Abyssal Cat Fighter Kai"
-	},
-	{
-		"id": 2384,
-		"api_id": 1557,
-		"name_jp": "深海地獄艦爆改",
-		"name_en": "Abyssal Hell Diver Kai"
-	},
-	{
-		"id": 2385,
-		"api_id": 1558,
-		"name_jp": "深海復讐艦攻改",
-		"name_en": "Abyssal Avenger Torpedo Bomber Kai"
-	},
-	{
-		"id": 2386,
-		"api_id": 1559,
-		"name_jp": "深海FCS+CIC",
-		"name_en": "Abyssal FCS+CIC"
-	},
-	{
-		"id": 2387,
-		"api_id": 1560,
-		"name_jp": "深海探照灯",
-		"name_en": "Abyssal Searchlight"
-	},
-	{
-		"id": 2388,
-		"api_id": 1561,
-		"name_jp": "深海解放陸爆",
-		"name_en": "Abyssal Liberation Land-based Dive Bomber"
-	},
-	{
-		"id": 2389,
-		"api_id": 1562,
-		"name_jp": "深海解放陸爆Ace",
-		"name_en": "Abyssal Liberation Land-based Dive Bomber Ace"
-	},
-	{
-		"id": 2390,
-		"api_id": 1563,
-		"name_jp": "8inch長射程連装砲",
-		"name_en": "8inch Long Range Twin Gun"
-	},
-	{
-		"id": 2391,
-		"api_id": 1564,
-		"name_jp": "深海水上偵察観測機",
-		"name_en": "Abyssal Recon Observation Seaplane"
-	},
-	{
-		"id": 2392,
-		"api_id": 1565,
-		"name_jp": "5inch沿岸設置砲",
-		"name_en": "5inch Coastal Gun"
-	},
-	{
-		"id": 2393,
-		"api_id": 1566,
-		"name_jp": "深海猫艦戦(爆装)",
-		"name_en": "Abyssal Cat Fighter (Bombing)"
-	},
-	{
-		"id": 2394,
-		"api_id": 1567,
-		"name_jp": "沿岸設置レーダー",
-		"name_en": "Coastal Radar"
-	},
-	{
-		"id": 2395,
-		"api_id": 1568,
-		"name_jp": "16inch三連装砲",
-		"name_en": "16inch Triple Gun"
-	},
-	{
-		"id": 2396,
-		"api_id": 1569,
-		"name_jp": "深海偵察飛行艇",
-		"name_en": "Abyssal Recon Flying Boat"
-	},
-	{
-		"id": 2397,
-		"api_id": 1570,
-		"name_jp": "高速深海魚雷 mod.2",
-		"name_en": "High-speed Abyssal Torpedo mod.2"
-	},
-	{
-		"id": 2398,
-		"api_id": 1571,
-		"name_jp": "深海水母小鬼機",
-		"name_en": "Abyssal Seaplane Tender Imp Aircraft"
-	},
-	{
-		"id": 2399,
-		"api_id": 1572,
-		"name_jp": "深海熊猫艦戦",
-		"name_en": "Abyssal Bearcat Fighter"
-	},
-	{
-		"id": 2400,
-		"api_id": 1573,
-		"name_jp": "深海潜水下駄履き",
-		"name_en": "Abyssal Submarine Floatplane"
-	},
-	{
-		"id": 2401,
-		"api_id": 1574,
-		"name_jp": "深海攻撃哨戒鷹",
-		"name_en": "Abyssal Patrolling Attack Hawk"
-	},
-	{
-		"id": 2402,
-		"api_id": 1575,
-		"name_jp": "深海攻撃哨戒鷹改",
-		"name_en": "Abyssal Patrolling Attack Hawk Kai"
-	},
-	{
-		"id": 2403,
-		"api_id": 1576,
-		"name_jp": "深海12inch三連装砲",
-		"name_en": "Abyssal 12inch Triple Gun"
-	},
-	{
-		"id": 2404,
-		"api_id": 1577,
-		"name_jp": "深海15inch四連装砲",
-		"name_en": "Abyssal 15inch Quadruple Gun"
-	},
-	{
-		"id": 2405,
-		"api_id": 1578,
-		"name_jp": "深海15inch連装砲後期型",
-		"name_en": "Abyssal 15inch Twin Gun Late Model"
-	},
-	{
-		"id": 2406,
-		"api_id": 1579,
-		"name_jp": "深海14inch海峡連装砲",
-		"name_en": "Abyssal 14inch Strait Twin Gun"
-	},
-	{
-		"id": 2407,
-		"api_id": 1580,
-		"name_jp": "深海待伏魚雷",
-		"name_en": "Abyssal Ambush Torpedo"
-	},
-	{
-		"id": 2408,
-		"api_id": 1581,
-		"name_jp": "深海待伏魚雷",
-		"name_en": "Abyssal Ambush Torpedo"
-	},
-	{
-		"id": 2409,
-		"api_id": 1582,
-		"name_jp": "夜深海艦爆",
-		"name_en": "Abyssal Night Dive Bomber"
-	},
-	{
-		"id": 2410,
-		"api_id": 1583,
-		"name_jp": "夜復讐深海艦攻",
-		"name_en": "Abyssal Night Revenge Torpedo Bomber"
-	},
-	{
-		"id": 2411,
-		"api_id": 1584,
-		"name_jp": "深海14inch連装砲改",
-		"name_en": "Abyssal 14inch Twin Gun Kai"
-	},
-	{
-		"id": 2412,
-		"api_id": 1585,
-		"name_jp": "深海16inch三連装砲改",
-		"name_en": "Abyssal 16inch Triple Gun Kai"
-	},
-	{
-		"id": 2413,
-		"api_id": 1586,
-		"name_jp": "深海攻撃哨戒鷹改二",
-		"name_en": "Abyssal Patrolling Attack Hawk Kai Ni"
-	},
-	{
-		"id": 2414,
-		"api_id": 1587,
-		"name_jp": "深海16inch三連装砲改二",
-		"name_en": "Abyssal 16inch Triple Gun Kai Ni"
-	},
-	{
-		"id": 2415,
-		"api_id": 1588,
-		"name_jp": "深海5inch連装砲C型",
-		"name_en": "Abyssal 5inch Twin Gun Model C"
-	},
-	{
-		"id": 2416,
-		"api_id": 1589,
-		"name_jp": "深海5.5inch連装砲改",
-		"name_en": "Abyssal 5.5inch Twin Gun Kai"
-	},
-	{
-		"id": 2417,
-		"api_id": 1590,
-		"name_jp": "深海標的",
-		"name_en": "Abyssal Target"
-	},
-	{
-		"id": 2418,
-		"api_id": 1591,
-		"name_jp": "深海5inch単装砲 Mk.30",
-		"name_en": "Abyssal 5inch Single Gun Mk.30"
-	},
-	{
-		"id": 2419,
-		"api_id": 1592,
-		"name_jp": "深海16inch Mk.VIII連装砲改",
-		"name_en": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai"
-	},
-	{
-		"id": 2420,
-		"api_id": 1593,
-		"name_jp": "高速深海魚雷 mod.3",
-		"name_en": "High-speed Abyssal Torpedo mod.3"
-	},
-	{
-		"id": 2421,
-		"api_id": 1594,
-		"name_jp": "深海空要塞(偵察型)",
-		"name_en": "Abyssal Sky Fortress (Reconnaissance Model)"
-	},
-	{
-		"id": 2422,
-		"api_id": 1595,
-		"name_jp": "深海空要塞Ace(偵察型)",
-		"name_en": "Abyssal Sky Fortress Ace (Reconnaissance Model)"
-	},
-	{
-		"id": 2423,
-		"api_id": 1596,
-		"name_jp": "深海6inch三連装新型速射砲",
-		"name_en": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount"
-	},
-	{
-		"id": 2424,
-		"api_id": 1597,
-		"name_jp": "深海空要塞(重爆型)",
-		"name_en": "Abyssal Sky Fortress (Heavy Bomber Model)"
-	},
-	{
-		"id": 2425,
-		"api_id": 1598,
-		"name_jp": "深海空要塞Ace(重爆型)",
-		"name_en": "Abyssal Sky Fortress Ace (Heavy Bomber Model)"
-	},
-	{
-		"id": 2426,
-		"api_id": 1599,
-		"name_jp": "深海4.7inch砲 Mk.XII",
-		"name_en": "Abyssal 4.7inch Gun Mk.XII"
-	},
-	{
-		"id": 2427,
-		"api_id": 1600,
-		"name_jp": "深海8inch連装速射砲",
-		"name_en": "Abyssal 8inch Twin Rapid Fire Gun Mount"
-	},
-	{
-		"id": 2428,
-		"api_id": 1601,
-		"name_jp": "深海8inch三連装砲 Mk.9",
-		"name_en": "Abyssal 8inch Triple Gun Mount Mk.9"
-	},
-	{
-		"id": 2429,
-		"api_id": 1602,
-		"name_jp": "深海5inch連装両用砲(集中配備)",
-		"name_en": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)"
-	},
-	{
-		"id": 2430,
-		"api_id": 1603,
-		"name_jp": "深海対空レーダーMark.III+FCS",
-		"name_en": "Abyssal Air Radar Mark.III + FCS"
-	},
-	{
-		"id": 2431,
-		"api_id": 1604,
-		"name_jp": "深海5inch連装砲A型",
-		"name_en": "Abyssal 5inch Twin Gun Model A"
-	},
-	{
-		"id": 2432,
-		"api_id": 1605,
-		"name_jp": "深海潜水艦搭載電子兵装",
-		"name_en": "Abyssal Submarine Electronic Armament"
-	},
-	{
-		"id": 2433,
-		"api_id": 1606,
-		"name_jp": "深海5inch単装高角砲改二",
-		"name_en": "Abyssal 5inch Single High-angle Gun Kai Ni"
-	},
-	{
-		"id": 2434,
-		"api_id": 1607,
-		"name_jp": "深海5inch連装高角砲改二",
-		"name_en": "Abyssal 5inch Twin High-angle Gun Kai Ni"
-	},
-	{
-		"id": 2435,
-		"api_id": 1608,
-		"name_jp": "深海夜間航空作戦装備",
-		"name_en": "Abyssal Night Operation Aviation Equipment"
-	},
-	{
-		"id": 2436,
-		"api_id": 1609,
-		"name_jp": "深海16inch三連装砲 Mk6",
-		"name_en": "Abyssal 16inch Triple Gun Mount Mk.6"
-	},
-	{
-		"id": 2437,
-		"api_id": 1610,
-		"name_jp": "深海カモメ水偵",
-		"name_en": "Abyssal Seagull Reconnaissance Seaplane"
-	},
-	{
-		"id": 2438,
-		"api_id": 1611,
-		"name_jp": "深海海猫水偵",
-		"name_en": "Abyssal Seamew Reconnaissance Seaplane"
-	},
-	{
-		"id": 2439,
-		"api_id": 1612,
-		"name_jp": "深海6inch三連装主砲 Mk.16",
-		"name_en": "Abyssal 6inch Triple Main Gun Mount Mk.16"
-	},
-	{
-		"id": 2440,
-		"api_id": 1613,
-		"name_jp": "地中海12inch/46 連装砲",
-		"name_en": "Mediterranean 12inch/46 Twin Gun Mount"
-	},
-	{
-		"id": 2441,
-		"api_id": 1614,
-		"name_jp": "地中海12inch/46 三連装砲",
-		"name_en": "Mediterranean 12inch/46 Triple Gun Mount"
-	},
-	{
-		"id": 2442,
-		"api_id": 1615,
-		"name_jp": "地中海12.6inch/44 連装砲",
-		"name_en": "Mediterranean 12.6inch/44 Twin Gun Mount"
-	},
-	{
-		"id": 2443,
-		"api_id": 1616,
-		"name_jp": "地中海12.6inch/44 三連装砲",
-		"name_en": "Mediterranean 12.6inch/44 Triple Gun Mount"
-	},
-	{
-		"id": 2444,
-		"api_id": 1617,
-		"name_jp": "夜猫深海艦戦II",
-		"name_en": "Abyssal Night Cat Fighter II"
-	},
-	{
-		"id": 2445,
-		"api_id": 1618,
-		"name_jp": "夜深海艦爆II",
-		"name_en": "Abyssal Night Dive Bomber II"
-	},
-	{
-		"id": 2446,
-		"api_id": 1619,
-		"name_jp": "夜復讐深海艦攻II",
-		"name_en": "Abyssal Night Revenge Torpedo Bomber II"
-	},
-	{
-		"id": 2447,
-		"api_id": 1620,
-		"name_jp": "深海戦爆複座鷹",
-		"name_en": "Abyssal Two-seat Fighter-bomber Hawk"
-	},
-	{
-		"id": 2448,
-		"api_id": 1621,
-		"name_jp": "深海戦爆複座鷹改",
-		"name_en": "Abyssal Two-seat Fighter-bomber Hawk Kai"
-	},
-	{
-		"id": 2449,
-		"api_id": 1622,
-		"name_jp": "深海四連装(酸素)魚雷後期型",
-		"name_en": "Abyssal Quadruple (Oxygen) Torpedo Mount Late Model"
-	},
-	{
-		"id": 2450,
-		"api_id": 1623,
-		"name_jp": "深海5inch連装砲D型",
-		"name_en": "Abyssal 5inch Twin Gun Mount Model D"
-	},
-	{
-		"id": 2451,
-		"api_id": 1624,
-		"name_jp": "深海五連装(酸素)魚雷後期型",
-		"name_en": "Abyssal Quintuple (Oxygen) Torpedo Mount Late Model"
-	},
-	{
-		"id": 2452,
-		"api_id": 1625,
-		"name_jp": "深海双発陸爆",
-		"name_en": "Abyssal Twin-engine Land-based Dive Bomber"
-	},
-	{
-		"id": 2453,
-		"api_id": 1626,
-		"name_jp": "深海双発陸爆Ace",
-		"name_en": "Abyssal Twin-engine Land-based Dive Bomber Ace"
-	},
-	{
-		"id": 2454,
-		"api_id": 1627,
-		"name_jp": "深海5inch連装砲C型",
-		"name_en": "Abyssal 5inch Twin Gun Model C"
-	},
-	{
-		"id": 2455,
-		"api_id": 1630,
-		"name_jp": "深海空超要塞",
-		"name_en": "Abyssal Sky Super Fortress"
-	},
-	{
-		"id": 2456,
-		"api_id": 1631,
-		"name_jp": "深海空超要塞改",
-		"name_en": "Abyssal Sky Super Fortress Kai"
-	},
-	{
-		"id": 2458,
-		"api_id": 490,
-		"name_jp": "試製 夜間瑞雲(攻撃装備)",
-		"name_en": "Prototype Night Zuiun (Attack Equipment)"
-	},
-	{
-		"id": 2459,
-		"api_id": 491,
-		"name_jp": "一式戦 隼III型改(熟練/20戦隊)",
-		"name_en": "Type 1 Fighter Hayabusa Model III Kai (Skilled/20th Squadron)"
-	},
-	{
-		"id": 2460,
-		"api_id": 265,
-		"name_jp": "紫電改(三四三空) 戦闘407",
-		"name_en": "Shiden Kai (343rd Air Group) 407th Fighter Squadron"
-	},
-	{
-		"id": 2461,
-		"api_id": 1632,
-		"name_jp": "深海航空整備蟲",
-		"name_en": "Abyssal Aviation Maintenance Bugs"
-	},
-	{
-		"id": 2462,
-		"api_id": 1633,
-		"name_jp": "深海航空整備蟲pro",
-		"name_en": "Abyssal Aviation Maintenance Bugs Pro"
-	},
-	{
-		"id": 2463,
-		"api_id": 492,
-		"name_jp": "零戦52型丙(八幡部隊)",
-		"name_en": "Zero Fighter Type 52 Hei (Yawata Unit)"
-	},
-	{
-		"id": 2464,
-		"api_id": 493,
-		"name_jp": "一式陸攻(八幡部隊)",
-		"name_en": "Type 1 Land-based Attack Aircraft (Yawata Unit)"
-	},
-	{
-		"id": 2465,
-		"api_id": 494,
-		"name_jp": "特大発動艇+チハ",
-		"name_en": "Toku Daihatsu + Chi-Ha"
-	},
-	{
-		"id": 2466,
-		"api_id": 495,
-		"name_jp": "特大発動艇+チハ改",
-		"name_en": "Toku Daihatsu + Chi-Ha Kai"
-	},
-	{
-		"id": 2467,
-		"api_id": 496,
-		"name_jp": "陸軍歩兵部隊",
-		"name_en": "Army Infantry Unit"
-	},
-	{
-		"id": 2468,
-		"api_id": 497,
-		"name_jp": "九七式中戦車(チハ)",
-		"name_en": "Type 97 Medium Tank (Chi-Ha)"
-	},
-	{
-		"id": 2469,
-		"api_id": 1581,
-		"name_jp": "夜猫深海艦戦",
-		"name_en": "Abyssal Night Cat Fighter"
-	},
-	{
-		"id": 2470,
-		"api_id": 498,
-		"name_jp": "九七式中戦車 新砲塔(チハ改)",
-		"name_en": "Type 97 Medium Tank New Turret (Chi-Ha Kai)"
-	},
-	{
-		"id": 2471,
-		"api_id": 499,
-		"name_jp": "陸軍歩兵部隊+チハ改",
-		"name_en": "Army Infantry Corps + Chi-Ha Kai"
-	},
-	{
-		"id": 2472,
-		"api_id": 1635,
-		"name_jp": "深海突破襲撃機",
-		"name_en": "Abyssal Breakthrough Assault Aircraft"
-	},
-	{
-		"id": 2473,
-		"api_id": 1636,
-		"name_jp": "深海突破襲撃機Ace",
-		"name_en": "Abyssal Breakthrough Assault Aircraft Ace"
-	},
-	{
-		"id": 2474,
-		"api_id": 1637,
-		"name_jp": "沿岸突撃半水中魚雷艇",
-		"name_en": "Coastal Ambush Semi-submersible Torpedo Boat"
-	},
-	{
-		"id": 2475,
-		"api_id": 1634,
-		"name_jp": "深海艤装水上汎用襲撃機",
-		"name_en": "Abyssal Rigging General Assault Seaplane"
-	},
-	{
-		"id": 2476,
-		"api_id": 1638,
-		"name_jp": "深海3inch単装高角砲+甲板機銃",
-		"name_en": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun"
-	},
-	{
-		"id": 2477,
-		"api_id": 500,
-		"name_jp": "発煙装置(煙幕)",
-		"name_en": "Smoke Generator (Smoke Screen)",
-		"development": true
-	},
-	{
-		"id": 2478,
-		"api_id": 501,
-		"name_jp": "発煙装置改(煙幕)",
-		"name_en": "Smoke Generator Kai (Smoke Screen)"
-	},
-	{
-		"id": 2479,
-		"api_id": 502,
-		"name_jp": "35.6cm連装砲改三(ダズル迷彩仕様)",
-		"name_en": "35.6cm Twin Gun Mount Kai San (Dazzle Camouflage Specification)"
-	},
-	{
-		"id": 2480,
-		"api_id": 503,
-		"name_jp": "35.6cm連装砲改四",
-		"name_en": "35.6cm Twin Gun Mount Kai Yon"
-	},
-	{
-		"id": 2481,
-		"api_id": 504,
-		"name_jp": "銀河(熟練)",
-		"name_en": "Ginga (Skilled)"
-	},
-	{
-		"id": 2482,
-		"api_id": 505,
-		"name_jp": "25mm対空機銃増備",
-		"name_en": "25mm Anti-aircraft Machine Gun Extra"
-	},
-	{
-		"id": 2483,
-		"api_id": 506,
-		"name_jp": "電探装備マスト(13号改+22号電探改四)",
-		"name_en": "Radar Mast (Type 13 Kai and Type 22 Kai 4 radars)"
-	},
-	{
-		"id": 2484,
-		"api_id": 507,
-		"name_jp": "14inch/45 連装砲",
-		"name_en": "14inch/45 Twin Gun Mount",
-		"development": true
-	},
-	{
-		"id": 2485,
-		"api_id": 508,
-		"name_jp": "14inch/45 三連装砲",
-		"name_en": "14inch/45 Triple Gun Mount"
-	},
-	{
-		"id": 2486,
-		"api_id": 509,
-		"name_jp": "12cm単装高角砲E型改",
-		"name_en": "12cm Single High-angle Gun Model E Kai"
-	},
-	{
-		"id": 2487,
-		"api_id": 510,
-		"name_jp": "Walrus",
-		"name_en": "Walrus"
-	},
-	{
-		"id": 2488,
-		"api_id": 511,
-		"name_jp": "21inch艦首魚雷発射管4門(初期型)",
-		"name_en": "21inch 4-tube Bow Torpedo Launcher (Initial Model)",
-		"development": true
-	},
-	{
-		"id": 2489,
-		"api_id": 512,
-		"name_jp": "21inch艦首魚雷発射管4門(後期型)",
-		"name_en": "21inch 4-tube Bow Torpedo Launcher (Late Model)"
-	},
-	{
-		"id": 2490,
-		"api_id": 1639,
-		"name_jp": "深海水中探信儀 & 深海調整電探",
-		"name_en": "Abyssal Active Sonar & Abyssal Calibrated Radar"
-	},
-	{
-		"id": 2491,
-		"api_id": 513,
-		"name_jp": "阻塞気球",
-		"name_en": "Barrage Balloon"
-	},
-	{
-		"id": 2492,
-		"api_id": 514,
-		"name_jp": "特大発動艇+Ⅲ号戦車J型",
-		"name_en": "Toku Daihatsu Landing Craft + Panzer III Type J"
-	},
-	{
-		"id": 2493,
-		"api_id": 515,
-		"name_jp": "Sea Otter",
-		"name_en": "Sea Otter"
-	},
-	{
-		"id": 2494,
-		"api_id": 516,
-		"name_jp": "Me 262 A-1a/R1",
-		"name_en": "Me 262 A-1a/R1"
-	},
-	{
-		"id": 2495,
-		"api_id": 1640,
-		"name_jp": "深海観測阻塞気球",
-		"name_en": "Abyssal Observation Barrage Balloon"
-	},
-	{
-		"id": 2496,
-		"api_id": 1641,
-		"name_jp": "深海標準14inch/45 連装砲",
-		"name_en": "Abyssal Standard 14inch/45 Twin Gun Mount"
-	},
-	{
-		"id": 2497,
-		"api_id": 1642,
-		"name_jp": "深海標準14inch/45 三連装砲",
-		"name_en": "Abyssal Standard 14inch/45 Triple Gun Mount"
-	},
-	{
-		"id": 2498,
-		"api_id": 1643,
-		"name_jp": "深海3.7cm FlaK",
-		"name_en": "Abyssal 3.7cm FlaK"
-	},
-	{
-		"id": 2499,
-		"api_id": 517,
-		"name_jp": "逆探(E27)+22号対水上電探改四(後期調整型)",
-		"name_en": "Passive Radiolocator (E27) + Type 22 Surface Radar Kai 4 (Calibrated Late Model)"
-	},
-	{
-		"id": 2500,
-		"api_id": 518,
-		"name_jp": "14cm連装砲改二",
-		"name_en": "14cm Twin Gun Kai Ni"
-	},
-	{
-		"id": 2501,
-		"api_id": 519,
-		"name_jp": "SJレーダー+潜水艦司令塔装備",
-		"name_en": "SJ Radar + Submarine Conning Tower Equipment"
-	},
-	{
-		"id": 2502,
-		"api_id": 520,
-		"name_jp": "試製20.3cm(4号)連装砲",
-		"name_en": "Prototype 20.3cm (no.4) Twin Gun Mount"
-	},
-	{
-		"id": 2503,
-		"api_id": 521,
-		"name_jp": "紫雲(熟練)",
-		"name_en": "Shiun (Skilled)"
-	},
-	{
-		"id": 2504,
-		"api_id": 524,
-		"name_jp": "12cm単装高角砲+25mm機銃増備",
-		"name_en": "12cm Single High-angle Gun + 25mm Machine Gun"
-	},
-	{
-		"id": 2505,
-		"api_id": 522,
-		"name_jp": "零式小型水上機",
-		"name_en": "Type 0 Small Reconnaissance Seaplane"
-	},
-	{
-		"id": 2506,
-		"api_id": 523,
-		"name_jp": "零式小型水上機(熟練)",
-		"name_en": "Type 0 Small Reconnaissance Seaplane (Skilled)"
-	},
-	{
-		"id": 2507,
-		"api_id": 525,
-		"name_jp": "特四式内火艇",
-		"name_en": "Special Type 4 Amphibious Tank"
-	},
-	{
-		"id": 2508,
-		"api_id": 526,
-		"name_jp": "特四式内火艇改",
-		"name_en": "Special Type 4 Amphibious Tank Kai"
-	},
-	{
-		"id": 2509,
-		"api_id": 527,
-		"name_jp": "Type281 レーダー",
-		"name_en": "Type281 Radar"
-	},
-	{
-		"id": 2510,
-		"api_id": 528,
-		"name_jp": "Type274 射撃管制レーダー",
-		"name_en": "Type274 Fire Control Radar"
-	},
-	{
-		"id": 2511,
-		"api_id": 1644,
-		"name_jp": "深海5inch単装砲 Mk.30+GFCS",
-		"name_en": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS"
-	},
-	{
-		"id": 2512,
-		"api_id": 1645,
-		"name_jp": "深海533mm 5連装魚雷+深海SG",
-		"name_en": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG"
-	},
-	{
-		"id": 2513,
-		"api_id": 1646,
-		"name_jp": "深海Hedgehog Mk.10",
-		"name_en": "Abyssal Hedgehog Mk.10"
-	},
-	{
-		"id": 2514,
-		"api_id": 1647,
-		"name_jp": "GFCS+深海5inch連装砲 Mk.32",
-		"name_en": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32"
-	},
-	{
-		"id": 2515,
-		"api_id": 1648,
-		"name_jp": "深海対戦回転翼海鴎",
-		"name_en": "Abyssal Combat Autogyro Seagull"
-	},
-	{
-		"id": 2516,
-		"api_id": 529,
-		"name_jp": "12.7cm連装砲C型改三H",
-		"name_en": "12.7cm Twin Gun Model C Kai San H"
-	},
-	{
-		"id": 2517,
-		"api_id": 530,
-		"name_jp": "35.6cm連装砲改三丙",
-		"name_en": "35.6cm Twin Gun Mount Kai San C"
-	},
-	{
-		"id": 2518,
-		"api_id": 531,
-		"name_jp": "艦隊通信アンテナ",
-		"name_en": "Fleet Communication Antenna"
-	},
-	{
-		"id": 2519,
-		"api_id": 532,
-		"name_jp": "通信装置&要員",
-		"name_en": "Communication Equipment & Personnel"
-	},
-	{
-		"id": 2520,
-		"api_id": 533,
-		"name_jp": "10cm連装高角砲改+高射装置改",
-		"name_en": "10cm Twin High-angle Mount Kai + Anti-Aircraft Fire Director Kai"
-	}
+  {
+    "id": 1843,
+    "api_id": 1,
+    "name_jp": "12cm単装砲",
+    "name_en": "12cm Single Gun",
+    "development": true
+  },
+  {
+    "id": 1844,
+    "api_id": 2,
+    "name_jp": "12.7cm連装砲",
+    "name_en": "12.7cm Twin Gun",
+    "development": true
+  },
+  {
+    "id": 1845,
+    "api_id": 3,
+    "name_jp": "10cm連装高角砲",
+    "name_en": "10cm Twin High-angle Gun",
+    "development": true
+  },
+  {
+    "id": 1846,
+    "api_id": 4,
+    "name_jp": "14cm単装砲",
+    "name_en": "14cm Single Gun",
+    "development": true
+  },
+  {
+    "id": 1847,
+    "api_id": 5,
+    "name_jp": "15.5cm三連装砲",
+    "name_en": "15.5cm Triple Gun",
+    "development": true
+  },
+  {
+    "id": 1848,
+    "api_id": 6,
+    "name_jp": "20.3cm連装砲",
+    "name_en": "20.3cm Twin Gun",
+    "development": true
+  },
+  {
+    "id": 1849,
+    "api_id": 7,
+    "name_jp": "35.6cm連装砲",
+    "name_en": "35.6cm Twin Gun",
+    "development": true
+  },
+  {
+    "id": 1850,
+    "api_id": 8,
+    "name_jp": "41cm連装砲",
+    "name_en": "41cm Twin Gun",
+    "development": true
+  },
+  {
+    "id": 1851,
+    "api_id": 9,
+    "name_jp": "46cm三連装砲",
+    "name_en": "46cm Triple Gun",
+    "development": true
+  },
+  {
+    "id": 1852,
+    "api_id": 10,
+    "name_jp": "12.7cm連装高角砲",
+    "name_en": "12.7cm Twin High-angle Gun",
+    "development": true
+  },
+  {
+    "id": 1853,
+    "api_id": 11,
+    "name_jp": "15.2cm単装砲",
+    "name_en": "15.2cm Single Gun",
+    "development": true
+  },
+  {
+    "id": 1854,
+    "api_id": 12,
+    "name_jp": "15.5cm三連装副砲",
+    "name_en": "15.5cm Triple Secondary Gun",
+    "development": true
+  },
+  {
+    "id": 1855,
+    "api_id": 13,
+    "name_jp": "61cm三連装魚雷",
+    "name_en": "61cm Triple Torpedo",
+    "development": true
+  },
+  {
+    "id": 1856,
+    "api_id": 14,
+    "name_jp": "61cm四連装魚雷",
+    "name_en": "61cm Quadruple Torpedo",
+    "development": true
+  },
+  {
+    "id": 1857,
+    "api_id": 15,
+    "name_jp": "61cm四連装(酸素)魚雷",
+    "name_en": "61cm Quadruple (Oxygen) Torpedo",
+    "development": true
+  },
+  {
+    "id": 1858,
+    "api_id": 16,
+    "name_jp": "九七式艦攻",
+    "name_en": "Type 97 Torpedo Bomber",
+    "development": true
+  },
+  {
+    "id": 1859,
+    "api_id": 17,
+    "name_jp": "天山",
+    "name_en": "Tenzan",
+    "development": true
+  },
+  {
+    "id": 1860,
+    "api_id": 18,
+    "name_jp": "流星",
+    "name_en": "Ryuusei",
+    "development": true
+  },
+  {
+    "id": 1861,
+    "api_id": 19,
+    "name_jp": "九六式艦戦",
+    "name_en": "Type 96 Fighter",
+    "development": true
+  },
+  {
+    "id": 1862,
+    "api_id": 20,
+    "name_jp": "零式艦戦21型",
+    "name_en": "Zero Fighter Model 21",
+    "development": true
+  },
+  {
+    "id": 1863,
+    "api_id": 21,
+    "name_jp": "零式艦戦52型",
+    "name_en": "Zero Fighter Model 52",
+    "development": true
+  },
+  {
+    "id": 1864,
+    "api_id": 22,
+    "name_jp": "試製烈風 後期型",
+    "name_en": "Prototype Reppuu Late Model",
+    "development": true
+  },
+  {
+    "id": 1865,
+    "api_id": 23,
+    "name_jp": "九九式艦爆",
+    "name_en": "Type 99 Dive Bomber",
+    "development": true
+  },
+  {
+    "id": 1866,
+    "api_id": 24,
+    "name_jp": "彗星",
+    "name_en": "Suisei",
+    "development": true
+  },
+  {
+    "id": 1867,
+    "api_id": 25,
+    "name_jp": "零式水上偵察機",
+    "name_en": "Type 0 Recon Seaplane",
+    "development": true
+  },
+  {
+    "id": 1868,
+    "api_id": 26,
+    "name_jp": "瑞雲",
+    "name_en": "Zuiun",
+    "development": true
+  },
+  {
+    "id": 1869,
+    "api_id": 27,
+    "name_jp": "13号対空電探",
+    "name_en": "Type 13 Air RADAR",
+    "development": true
+  },
+  {
+    "id": 1870,
+    "api_id": 28,
+    "name_jp": "22号対水上電探",
+    "name_en": "Type 22 Surface RADAR",
+    "development": true
+  },
+  {
+    "id": 1871,
+    "api_id": 29,
+    "name_jp": "33号対水上電探",
+    "name_en": "Type 33 Surface RADAR",
+    "development": true
+  },
+  {
+    "id": 1872,
+    "api_id": 30,
+    "name_jp": "21号対空電探",
+    "name_en": "Type 21 Air RADAR",
+    "development": true
+  },
+  {
+    "id": 1873,
+    "api_id": 31,
+    "name_jp": "32号対水上電探",
+    "name_en": "Type 32 Surface RADAR",
+    "development": true
+  },
+  {
+    "id": 1874,
+    "api_id": 32,
+    "name_jp": "42号対空電探",
+    "name_en": "Type 42 Air RADAR",
+    "development": true
+  },
+  {
+    "id": 1875,
+    "api_id": 33,
+    "name_jp": "改良型艦本式タービン",
+    "name_en": "Improved Kanhon Turbine",
+    "development": true
+  },
+  {
+    "id": 1876,
+    "api_id": 34,
+    "name_jp": "強化型艦本式缶",
+    "name_en": "Enhanced Kanhon Boiler",
+    "development": true
+  },
+  {
+    "id": 1877,
+    "api_id": 35,
+    "name_jp": "三式弾",
+    "name_en": "Type 3 Shell",
+    "development": true
+  },
+  {
+    "id": 1878,
+    "api_id": 36,
+    "name_jp": "九一式徹甲弾",
+    "name_en": "Type 91 Armor Piercing Shell",
+    "development": true
+  },
+  {
+    "id": 1879,
+    "api_id": 37,
+    "name_jp": "7.7mm機銃",
+    "name_en": "7.7mm Machine Gun",
+    "development": true
+  },
+  {
+    "id": 1880,
+    "api_id": 38,
+    "name_jp": "12.7mm単装機銃",
+    "name_en": "12.7mm Single Machine Gun",
+    "development": true
+  },
+  {
+    "id": 1881,
+    "api_id": 39,
+    "name_jp": "25mm連装機銃",
+    "name_en": "25mm Twin Autocannon",
+    "development": true
+  },
+  {
+    "id": 1882,
+    "api_id": 40,
+    "name_jp": "25mm三連装機銃",
+    "name_en": "25mm Triple Autocannon",
+    "development": true
+  },
+  {
+    "id": 1883,
+    "api_id": 41,
+    "name_jp": "甲標的 甲型",
+    "name_en": "Type A Kouhyouteki",
+    "development": true
+  },
+  {
+    "id": 1884,
+    "api_id": 42,
+    "name_jp": "応急修理要員",
+    "name_en": "Emergency Repair Personnel"
+  },
+  {
+    "id": 1885,
+    "api_id": 43,
+    "name_jp": "応急修理女神",
+    "name_en": "Emergency Repair Goddess"
+  },
+  {
+    "id": 1886,
+    "api_id": 44,
+    "name_jp": "九四式爆雷投射機",
+    "name_en": "Type 94 Depth Charge Projector",
+    "development": true
+  },
+  {
+    "id": 1887,
+    "api_id": 45,
+    "name_jp": "三式爆雷投射機",
+    "name_en": "Type 3 Depth Charge Projector",
+    "development": true
+  },
+  {
+    "id": 1888,
+    "api_id": 46,
+    "name_jp": "九三式水中聴音機",
+    "name_en": "Type 93 Passive SONAR",
+    "development": true
+  },
+  {
+    "id": 1889,
+    "api_id": 47,
+    "name_jp": "三式水中探信儀",
+    "name_en": "Type 3 Active SONAR",
+    "development": true
+  },
+  {
+    "id": 1890,
+    "api_id": 48,
+    "name_jp": "12cm単装高角砲",
+    "name_en": "12cm Single High-angle Gun",
+    "development": true
+  },
+  {
+    "id": 1891,
+    "api_id": 49,
+    "name_jp": "25mm単装機銃",
+    "name_en": "25mm Single Autocannon",
+    "development": true
+  },
+  {
+    "id": 1892,
+    "api_id": 50,
+    "name_jp": "20.3cm(3号)連装砲",
+    "name_en": "20.3cm (No.3) Twin Gun"
+  },
+  {
+    "id": 1893,
+    "api_id": 51,
+    "name_jp": "12cm30連装噴進砲",
+    "name_en": "12cm 30-tube Rocket Launcher",
+    "development": true
+  },
+  {
+    "id": 1894,
+    "api_id": 52,
+    "name_jp": "流星改",
+    "name_en": "Ryuusei Kai",
+    "development": true
+  },
+  {
+    "id": 1895,
+    "api_id": 53,
+    "name_jp": "烈風 一一型",
+    "name_en": "Reppuu Model 11"
+  },
+  {
+    "id": 1896,
+    "api_id": 54,
+    "name_jp": "彩雲",
+    "name_en": "Saiun",
+    "development": true
+  },
+  {
+    "id": 1897,
+    "api_id": 55,
+    "name_jp": "紫電改二",
+    "name_en": "Shiden Kai Ni",
+    "development": true
+  },
+  {
+    "id": 1898,
+    "api_id": 56,
+    "name_jp": "震電改",
+    "name_en": "Shinden Kai"
+  },
+  {
+    "id": 1899,
+    "api_id": 57,
+    "name_jp": "彗星一二型甲",
+    "name_en": "Suisei Model 12A",
+    "development": true
+  },
+  {
+    "id": 1900,
+    "api_id": 58,
+    "name_jp": "61cm五連装(酸素)魚雷",
+    "name_en": "61cm Quintuple (Oxygen) Torpedo"
+  },
+  {
+    "id": 1901,
+    "api_id": 59,
+    "name_jp": "零式水上観測機",
+    "name_en": "Type 0 Observation Seaplane",
+    "development": true
+  },
+  {
+    "id": 1902,
+    "api_id": 60,
+    "name_jp": "零式艦戦62型(爆戦)",
+    "name_en": "Zero Fighter-bomber Model 62",
+    "development": true
+  },
+  {
+    "id": 1903,
+    "api_id": 61,
+    "name_jp": "二式艦上偵察機",
+    "name_en": "Type 2 Recon Aircraft",
+    "development": true
+  },
+  {
+    "id": 1904,
+    "api_id": 62,
+    "name_jp": "試製晴嵐",
+    "name_en": "Prototype Seiran"
+  },
+  {
+    "id": 1905,
+    "api_id": 63,
+    "name_jp": "12.7cm連装砲B型改二",
+    "name_en": "12.7cm Twin Gun Model B Kai Ni"
+  },
+  {
+    "id": 1906,
+    "api_id": 64,
+    "name_jp": "Ju87C改",
+    "name_en": "Ju 87C Kai"
+  },
+  {
+    "id": 1907,
+    "api_id": 65,
+    "name_jp": "15.2cm連装砲",
+    "name_en": "15.2cm Twin Gun",
+    "development": true
+  },
+  {
+    "id": 1908,
+    "api_id": 66,
+    "name_jp": "8cm高角砲",
+    "name_en": "8cm High-angle Gun",
+    "development": true
+  },
+  {
+    "id": 1909,
+    "api_id": 67,
+    "name_jp": "53cm艦首(酸素)魚雷",
+    "name_en": "53cm Bow (Oxygen) Torpedo"
+  },
+  {
+    "id": 1910,
+    "api_id": 68,
+    "name_jp": "大発動艇",
+    "name_en": "Daihatsu LC",
+    "development": true
+  },
+  {
+    "id": 1911,
+    "api_id": 69,
+    "name_jp": "カ号観測機",
+    "name_en": "Ka Type Observation Autogyro",
+    "development": true
+  },
+  {
+    "id": 1912,
+    "api_id": 70,
+    "name_jp": "三式指揮連絡機(対潜)",
+    "name_en": "Type 3 Command Liaison Aircraft (ASW)",
+    "development": true
+  },
+  {
+    "id": 1913,
+    "api_id": 71,
+    "name_jp": "10cm連装高角砲(砲架)",
+    "name_en": "10cm Twin High-angle Gun (Carriage)",
+    "development": true
+  },
+  {
+    "id": 1914,
+    "api_id": 72,
+    "name_jp": "増設バルジ(中型艦)",
+    "name_en": "Anti-torpedo Bulge (M)",
+    "development": true
+  },
+  {
+    "id": 1915,
+    "api_id": 73,
+    "name_jp": "増設バルジ(大型艦)",
+    "name_en": "Anti-torpedo Bulge (L)",
+    "development": true
+  },
+  {
+    "id": 1916,
+    "api_id": 74,
+    "name_jp": "探照灯",
+    "name_en": "Searchlight",
+    "development": true
+  },
+  {
+    "id": 1917,
+    "api_id": 75,
+    "name_jp": "ドラム缶(輸送用)",
+    "name_en": "Drum (Transport)",
+    "development": true
+  },
+  {
+    "id": 1918,
+    "api_id": 76,
+    "name_jp": "38cm連装砲",
+    "name_en": "38cm Twin Gun"
+  },
+  {
+    "id": 1919,
+    "api_id": 77,
+    "name_jp": "15cm連装副砲",
+    "name_en": "15cm Twin Secondary Gun"
+  },
+  {
+    "id": 1920,
+    "api_id": 78,
+    "name_jp": "12.7cm単装砲",
+    "name_en": "12.7cm Single Gun",
+    "development": true
+  },
+  {
+    "id": 1921,
+    "api_id": 79,
+    "name_jp": "瑞雲(六三四空)",
+    "name_en": "Zuiun (634 Air Group)"
+  },
+  {
+    "id": 1922,
+    "api_id": 80,
+    "name_jp": "瑞雲12型",
+    "name_en": "Zuiun Model 12"
+  },
+  {
+    "id": 1923,
+    "api_id": 81,
+    "name_jp": "瑞雲12型(六三四空)",
+    "name_en": "Zuiun Model 12 (634 Air Group)"
+  },
+  {
+    "id": 1924,
+    "api_id": 82,
+    "name_jp": "九七式艦攻(九三一空)",
+    "name_en": "Type 97 Torpedo Bomber (931 Air Group)"
+  },
+  {
+    "id": 1925,
+    "api_id": 83,
+    "name_jp": "天山(九三一空)",
+    "name_en": "Tenzan (931 Air Group)"
+  },
+  {
+    "id": 1926,
+    "api_id": 84,
+    "name_jp": "2cm 四連装FlaK 38",
+    "name_en": "2cm Flakvierling 38"
+  },
+  {
+    "id": 1927,
+    "api_id": 85,
+    "name_jp": "3.7cm FlaK M42",
+    "name_en": "3.7cm FlaK M42"
+  },
+  {
+    "id": 1928,
+    "api_id": 86,
+    "name_jp": "艦艇修理施設",
+    "name_en": "Ship Repair Facility"
+  },
+  {
+    "id": 1929,
+    "api_id": 87,
+    "name_jp": "新型高温高圧缶",
+    "name_en": "New High Pressure-Temperature Steam Boiler"
+  },
+  {
+    "id": 1930,
+    "api_id": 88,
+    "name_jp": "22号対水上電探改四",
+    "name_en": "Type 22 Surface RADAR Kai Yon"
+  },
+  {
+    "id": 1931,
+    "api_id": 89,
+    "name_jp": "21号対空電探改",
+    "name_en": "Type 21 Air RADAR Kai"
+  },
+  {
+    "id": 1932,
+    "api_id": 90,
+    "name_jp": "20.3cm(2号)連装砲",
+    "name_en": "20.3cm (No.2) Twin Gun",
+    "development": true
+  },
+  {
+    "id": 1933,
+    "api_id": 91,
+    "name_jp": "12.7cm連装高角砲(後期型)",
+    "name_en": "12.7cm Twin High-angle (Late Model)"
+  },
+  {
+    "id": 1934,
+    "api_id": 92,
+    "name_jp": "毘式40mm連装機銃",
+    "name_en": "Bi Type 40mm Twin Autocannon"
+  },
+  {
+    "id": 1935,
+    "api_id": 93,
+    "name_jp": "九七式艦攻(友永隊)",
+    "name_en": "Type 97 Torpedo Bomber (Tomonaga Squadron)"
+  },
+  {
+    "id": 1936,
+    "api_id": 94,
+    "name_jp": "天山一二型(友永隊)",
+    "name_en": "Tenzan Model 12 (Tomonaga Squadron)"
+  },
+  {
+    "id": 1937,
+    "api_id": 95,
+    "name_jp": "潜水艦53cm艦首魚雷(8門)",
+    "name_en": "Submarine 53cm Bow Torpedo (8 tubes)"
+  },
+  {
+    "id": 1938,
+    "api_id": 96,
+    "name_jp": "零式艦戦21型(熟練)",
+    "name_en": "Zero Fighter Model 21 (Skilled)"
+  },
+  {
+    "id": 1939,
+    "api_id": 97,
+    "name_jp": "九九式艦爆(熟練)",
+    "name_en": "Type 99 Dive Bomber (Skilled)"
+  },
+  {
+    "id": 1940,
+    "api_id": 98,
+    "name_jp": "九七式艦攻(熟練)",
+    "name_en": "Type 97 Torpedo Bomber (Skilled)"
+  },
+  {
+    "id": 1941,
+    "api_id": 99,
+    "name_jp": "九九式艦爆(江草隊)",
+    "name_en": "Type 99 Dive Bomber (Egusa Squadron)"
+  },
+  {
+    "id": 1942,
+    "api_id": 100,
+    "name_jp": "彗星(江草隊)",
+    "name_en": "Suisei (Egusa Squadron)"
+  },
+  {
+    "id": 1943,
+    "api_id": 101,
+    "name_jp": "照明弾",
+    "name_en": "Star Shell"
+  },
+  {
+    "id": 1944,
+    "api_id": 102,
+    "name_jp": "九八式水上偵察機(夜偵)",
+    "name_en": "Type 98 Recon Seaplane (Night Recon)",
+    "development": true
+  },
+  {
+    "id": 1945,
+    "api_id": 103,
+    "name_jp": "試製35.6cm三連装砲",
+    "name_en": "Prototype 35.6cm Triple Gun"
+  },
+  {
+    "id": 1946,
+    "api_id": 104,
+    "name_jp": "35.6cm連装砲(ダズル迷彩)",
+    "name_en": "35.6cm Twin Gun (Dazzle Camouflage)"
+  },
+  {
+    "id": 1947,
+    "api_id": 105,
+    "name_jp": "試製41cm三連装砲",
+    "name_en": "Prototype 41cm Triple Gun"
+  },
+  {
+    "id": 1948,
+    "api_id": 106,
+    "name_jp": "13号対空電探改",
+    "name_en": "Type 13 Air RADAR Kai"
+  },
+  {
+    "id": 1949,
+    "api_id": 107,
+    "name_jp": "艦隊司令部施設",
+    "name_en": "Fleet Command Facility"
+  },
+  {
+    "id": 1950,
+    "api_id": 108,
+    "name_jp": "熟練艦載機整備員",
+    "name_en": "Skilled Carrier-based Aircraft Maintenance Personnel"
+  },
+  {
+    "id": 1951,
+    "api_id": 109,
+    "name_jp": "零戦52型丙(六〇一空)",
+    "name_en": "Zero Fighter Model 52C (601 Air Group)"
+  },
+  {
+    "id": 1952,
+    "api_id": 110,
+    "name_jp": "烈風(六〇一空)",
+    "name_en": "Reppuu (601 Air Group)"
+  },
+  {
+    "id": 1953,
+    "api_id": 111,
+    "name_jp": "彗星(六〇一空)",
+    "name_en": "Suisei (601 Air Group)"
+  },
+  {
+    "id": 1954,
+    "api_id": 112,
+    "name_jp": "天山(六〇一空)",
+    "name_en": "Tenzan (601 Air Group)"
+  },
+  {
+    "id": 1955,
+    "api_id": 113,
+    "name_jp": "流星(六〇一空)",
+    "name_en": "Ryuusei (601 Air Group)"
+  },
+  {
+    "id": 1956,
+    "api_id": 114,
+    "name_jp": "38cm連装砲改",
+    "name_en": "38cm Twin Gun Kai"
+  },
+  {
+    "id": 1957,
+    "api_id": 115,
+    "name_jp": "Ar196改",
+    "name_en": "Ar196 Kai"
+  },
+  {
+    "id": 1958,
+    "api_id": 116,
+    "name_jp": "一式徹甲弾",
+    "name_en": "Type 1 Armor Piercing Shell"
+  },
+  {
+    "id": 1959,
+    "api_id": 117,
+    "name_jp": "試製46cm連装砲",
+    "name_en": "Prototype 46cm Twin Gun"
+  },
+  {
+    "id": 1960,
+    "api_id": 118,
+    "name_jp": "紫雲",
+    "name_en": "Shiun"
+  },
+  {
+    "id": 1961,
+    "api_id": 119,
+    "name_jp": "14cm連装砲",
+    "name_en": "14cm Twin Gun"
+  },
+  {
+    "id": 1962,
+    "api_id": 120,
+    "name_jp": "91式高射装置",
+    "name_en": "Type 91 AAFD",
+    "development": true
+  },
+  {
+    "id": 1963,
+    "api_id": 121,
+    "name_jp": "94式高射装置",
+    "name_en": "Type 94 AAFD"
+  },
+  {
+    "id": 1964,
+    "api_id": 122,
+    "name_jp": "10cm連装高角砲+高射装置",
+    "name_en": "10cm Twin High-angle Mount + Anti-Aircraft Fire Director"
+  },
+  {
+    "id": 1965,
+    "api_id": 123,
+    "name_jp": "SKC34 20.3cm連装砲",
+    "name_en": "SKC34 20.3cm Twin Gun"
+  },
+  {
+    "id": 1966,
+    "api_id": 124,
+    "name_jp": "FuMO25 レーダー",
+    "name_en": "FuMO25 RADAR"
+  },
+  {
+    "id": 1967,
+    "api_id": 125,
+    "name_jp": "61cm三連装(酸素)魚雷",
+    "name_en": "61cm Triple (Oxygen) Torpedo"
+  },
+  {
+    "id": 1968,
+    "api_id": 126,
+    "name_jp": "WG42 (Wurfgerät 42)",
+    "name_en": "WG42 (Wurfgerät 42)"
+  },
+  {
+    "id": 1969,
+    "api_id": 127,
+    "name_jp": "試製FaT仕様九五式酸素魚雷改",
+    "name_en": "Prototype FaT Type 95 Oxygen Torpedo Kai"
+  },
+  {
+    "id": 1970,
+    "api_id": 128,
+    "name_jp": "試製51cm連装砲",
+    "name_en": "Prototype 51cm Twin Gun"
+  },
+  {
+    "id": 1971,
+    "api_id": 129,
+    "name_jp": "熟練見張員",
+    "name_en": "Skilled Lookouts"
+  },
+  {
+    "id": 1972,
+    "api_id": 130,
+    "name_jp": "12.7cm高角砲+高射装置",
+    "name_en": "12.7cm High-angle Gun+AAFD"
+  },
+  {
+    "id": 1973,
+    "api_id": 131,
+    "name_jp": "25mm三連装機銃 集中配備",
+    "name_en": "25mm Triple Autocannon (CD)"
+  },
+  {
+    "id": 1974,
+    "api_id": 132,
+    "name_jp": "零式水中聴音機",
+    "name_en": "Type 0 Passive SONAR"
+  },
+  {
+    "id": 1975,
+    "api_id": 133,
+    "name_jp": "381mm/50 三連装砲",
+    "name_en": "381mm / 50 Triple Gun"
+  },
+  {
+    "id": 1976,
+    "api_id": 134,
+    "name_jp": "OTO 152mm三連装速射砲",
+    "name_en": "OTO 152mm Triple Rapid-fire Gun"
+  },
+  {
+    "id": 1977,
+    "api_id": 135,
+    "name_jp": "90mm単装高角砲",
+    "name_en": "90mm Single High-angle Gun"
+  },
+  {
+    "id": 1978,
+    "api_id": 136,
+    "name_jp": "プリエーゼ式水中防御隔壁",
+    "name_en": "Pugliese Underwater Protection Bulkhead"
+  },
+  {
+    "id": 1979,
+    "api_id": 137,
+    "name_jp": "381mm/50 三連装砲改",
+    "name_en": "381mm/50 Triple Gun Kai"
+  },
+  {
+    "id": 1980,
+    "api_id": 138,
+    "name_jp": "二式大艇",
+    "name_en": "Type 2 Large Flying Boat"
+  },
+  {
+    "id": 1981,
+    "api_id": 139,
+    "name_jp": "15.2cm連装砲改",
+    "name_en": "15.2cm Twin Gun Kai"
+  },
+  {
+    "id": 1982,
+    "api_id": 140,
+    "name_jp": "96式150cm探照灯",
+    "name_en": "Type 96 150cm Searchlight"
+  },
+  {
+    "id": 1983,
+    "api_id": 141,
+    "name_jp": "32号対水上電探改",
+    "name_en": "Type 32 Surface RADAR Kai"
+  },
+  {
+    "id": 1984,
+    "api_id": 142,
+    "name_jp": "15m二重測距儀+21号電探改二",
+    "name_en": "15m Duplex Rangefinder+Type 21 Air RADAR Kai Ni"
+  },
+  {
+    "id": 1985,
+    "api_id": 143,
+    "name_jp": "九七式艦攻(村田隊)",
+    "name_en": "Type 97 Torpedo Bomber (Murata Squadron)"
+  },
+  {
+    "id": 1986,
+    "api_id": 144,
+    "name_jp": "天山一二型(村田隊)",
+    "name_en": "Tenzan Model 12 (Murata Squadron)"
+  },
+  {
+    "id": 1987,
+    "api_id": 145,
+    "name_jp": "戦闘糧食",
+    "name_en": "Combat Ration"
+  },
+  {
+    "id": 1988,
+    "api_id": 146,
+    "name_jp": "洋上補給",
+    "name_en": "Underway Replenishment"
+  },
+  {
+    "id": 1989,
+    "api_id": 147,
+    "name_jp": "120mm/50 連装砲",
+    "name_en": "120mm/50 Twin Gun Mount",
+    "development": true
+  },
+  {
+    "id": 1990,
+    "api_id": 148,
+    "name_jp": "試製南山",
+    "name_en": "Prototype Nanzan"
+  },
+  {
+    "id": 1991,
+    "api_id": 149,
+    "name_jp": "四式水中聴音機",
+    "name_en": "Type 4 Passive SONAR"
+  },
+  {
+    "id": 1992,
+    "api_id": 150,
+    "name_jp": "秋刀魚の缶詰",
+    "name_en": "Canned Saury"
+  },
+  {
+    "id": 1993,
+    "api_id": 151,
+    "name_jp": "試製景雲(艦偵型)",
+    "name_en": "Prototype Keiun"
+  },
+  {
+    "id": 1994,
+    "api_id": 152,
+    "name_jp": "零式艦戦52型(熟練)",
+    "name_en": "Zero Fighter Model 52 (Skilled)"
+  },
+  {
+    "id": 1995,
+    "api_id": 153,
+    "name_jp": "零戦52型丙(付岩井小隊)",
+    "name_en": "Zero Fighter Model 52C (w/ Iwai Flight)"
+  },
+  {
+    "id": 1996,
+    "api_id": 154,
+    "name_jp": "零戦62型(爆戦/岩井隊)",
+    "name_en": "Zero Fighter-bomber Model 62 (Iwai Squadron)"
+  },
+  {
+    "id": 1997,
+    "api_id": 155,
+    "name_jp": "零戦21型(付岩本小隊)",
+    "name_en": "Zero Fighter Model 21 (w/ Iwamoto Flight)"
+  },
+  {
+    "id": 1998,
+    "api_id": 156,
+    "name_jp": "零戦52型甲(付岩本小隊)",
+    "name_en": "Zero Fighter Model 52A (w/ Iwamoto Flight)"
+  },
+  {
+    "id": 1999,
+    "api_id": 157,
+    "name_jp": "零式艦戦53型(岩本隊)",
+    "name_en": "Zero Fighter Model 53 (Iwamoto Squadron)"
+  },
+  {
+    "id": 2000,
+    "api_id": 158,
+    "name_jp": "Bf109T改",
+    "name_en": "Bf 109T Kai"
+  },
+  {
+    "id": 2001,
+    "api_id": 159,
+    "name_jp": "Fw190T改",
+    "name_en": "Fw 190T Kai"
+  },
+  {
+    "id": 2002,
+    "api_id": 160,
+    "name_jp": "10.5cm連装砲",
+    "name_en": "10.5cm Twin Gun"
+  },
+  {
+    "id": 2003,
+    "api_id": 161,
+    "name_jp": "16inch三連装砲 Mk.7",
+    "name_en": "16inch Triple Gun Mk.7"
+  },
+  {
+    "id": 2004,
+    "api_id": 162,
+    "name_jp": "203mm/53 連装砲",
+    "name_en": "203mm/53 Twin Gun"
+  },
+  {
+    "id": 2005,
+    "api_id": 163,
+    "name_jp": "Ro.43水偵",
+    "name_en": "Ro.43 Recon Seaplane",
+    "development": true
+  },
+  {
+    "id": 2006,
+    "api_id": 164,
+    "name_jp": "Ro.44水上戦闘機",
+    "name_en": "Ro.44 Seaplane Fighter"
+  },
+  {
+    "id": 2007,
+    "api_id": 165,
+    "name_jp": "二式水戦改",
+    "name_en": "Type 2 Seaplane Fighter Kai"
+  },
+  {
+    "id": 2008,
+    "api_id": 166,
+    "name_jp": "大発動艇(八九式中戦車&陸戦隊)",
+    "name_en": "Daihatsu LC (Type 89 Tank+Landing Force)"
+  },
+  {
+    "id": 2009,
+    "api_id": 167,
+    "name_jp": "特二式内火艇",
+    "name_en": "Special Type 2 Amphibious Tank"
+  },
+  {
+    "id": 2010,
+    "api_id": 168,
+    "name_jp": "九六式陸攻",
+    "name_en": "Type 96 Attack Bomber",
+    "development": true
+  },
+  {
+    "id": 2011,
+    "api_id": 169,
+    "name_jp": "一式陸攻",
+    "name_en": "Type 1 Attack Bomber"
+  },
+  {
+    "id": 2012,
+    "api_id": 170,
+    "name_jp": "一式陸攻(野中隊)",
+    "name_en": "Type 1 Attack Bomber (Nonaka Squadron)"
+  },
+  {
+    "id": 2013,
+    "api_id": 171,
+    "name_jp": "OS2U",
+    "name_en": "OS2U"
+  },
+  {
+    "id": 2014,
+    "api_id": 172,
+    "name_jp": "5inch連装砲 Mk.28 mod.2",
+    "name_en": "5inch Twin Gun Mk.28 mod.2"
+  },
+  {
+    "id": 2015,
+    "api_id": 173,
+    "name_jp": "Bofors 40mm四連装機関砲",
+    "name_en": "Bofors 40mm Quadruple Autocannon"
+  },
+  {
+    "id": 2016,
+    "api_id": 174,
+    "name_jp": "53cm連装魚雷",
+    "name_en": "53cm Twin Torpedo"
+  },
+  {
+    "id": 2017,
+    "api_id": 175,
+    "name_jp": "雷電",
+    "name_en": "Raiden"
+  },
+  {
+    "id": 2018,
+    "api_id": 176,
+    "name_jp": "三式戦 飛燕",
+    "name_en": "Type 3 Fighter Hien"
+  },
+  {
+    "id": 2019,
+    "api_id": 177,
+    "name_jp": "三式戦 飛燕(飛行第244戦隊)",
+    "name_en": "Type 3 Fighter Hien (244th Air Combat Group)"
+  },
+  {
+    "id": 2020,
+    "api_id": 178,
+    "name_jp": "PBY-5A Catalina",
+    "name_en": "PBY-5A Catalina"
+  },
+  {
+    "id": 2021,
+    "api_id": 179,
+    "name_jp": "試製61cm六連装(酸素)魚雷",
+    "name_en": "Prototype 61cm Sextuple (Oxygen) Torpedo"
+  },
+  {
+    "id": 2022,
+    "api_id": 180,
+    "name_jp": "一式陸攻 二二型甲",
+    "name_en": "Type 1 Attack Bomber Model 22A"
+  },
+  {
+    "id": 2023,
+    "api_id": 181,
+    "name_jp": "零式艦戦32型",
+    "name_en": "Zero Fighter Model 32",
+    "development": true
+  },
+  {
+    "id": 2024,
+    "api_id": 182,
+    "name_jp": "零式艦戦32型(熟練)",
+    "name_en": "Zero Fighter Model 32 (Skilled)"
+  },
+  {
+    "id": 2025,
+    "api_id": 183,
+    "name_jp": "16inch三連装砲 Mk.7+GFCS",
+    "name_en": "16inch Triple Gun Mk.7+GFCS"
+  },
+  {
+    "id": 2026,
+    "api_id": 184,
+    "name_jp": "Re.2001 OR改",
+    "name_en": "Re.2001 OR Kai"
+  },
+  {
+    "id": 2027,
+    "api_id": 185,
+    "name_jp": "三式戦 飛燕一型丁",
+    "name_en": "Type 3 Fighter Hien Model 1D"
+  },
+  {
+    "id": 2028,
+    "api_id": 186,
+    "name_jp": "一式陸攻 三四型",
+    "name_en": "Type 1 Attack Bomber Model 34"
+  },
+  {
+    "id": 2029,
+    "api_id": 187,
+    "name_jp": "銀河",
+    "name_en": "Ginga"
+  },
+  {
+    "id": 2030,
+    "api_id": 188,
+    "name_jp": "Re.2001 G改",
+    "name_en": "Re.2001 G Kai"
+  },
+  {
+    "id": 2031,
+    "api_id": 189,
+    "name_jp": "Re.2005 改",
+    "name_en": "Re.2005 Kai"
+  },
+  {
+    "id": 2032,
+    "api_id": 190,
+    "name_jp": "38.1cm Mk.I連装砲",
+    "name_en": "38.1cm Mk.I Twin Gun"
+  },
+  {
+    "id": 2033,
+    "api_id": 191,
+    "name_jp": "QF 2ポンド8連装ポンポン砲",
+    "name_en": "QF 2-pounder Octuple Pom-pom Gun"
+  },
+  {
+    "id": 2034,
+    "api_id": 192,
+    "name_jp": "38.1cm Mk.I/N連装砲改",
+    "name_en": "38.1cm Mk.I/N Twin Gun Kai"
+  },
+  {
+    "id": 2035,
+    "api_id": 193,
+    "name_jp": "特大発動艇",
+    "name_en": "Toku Daihatsu LC"
+  },
+  {
+    "id": 2036,
+    "api_id": 194,
+    "name_jp": "Laté 298B",
+    "name_en": "Laté 298B",
+    "development": true
+  },
+  {
+    "id": 2037,
+    "api_id": 195,
+    "name_jp": "SBD",
+    "name_en": "SBD Dauntless",
+    "development": true
+  },
+  {
+    "id": 2038,
+    "api_id": 196,
+    "name_jp": "TBD",
+    "name_en": "TBD Devastator"
+  },
+  {
+    "id": 2039,
+    "api_id": 197,
+    "name_jp": "F4F-3",
+    "name_en": "F4F-3 Wildcat",
+    "development": true
+  },
+  {
+    "id": 2040,
+    "api_id": 198,
+    "name_jp": "F4F-4",
+    "name_en": "F4F-4 Wildcat"
+  },
+  {
+    "id": 2041,
+    "api_id": 199,
+    "name_jp": "噴式景雲改",
+    "name_en": "Jet Keiun Kai"
+  },
+  {
+    "id": 2042,
+    "api_id": 200,
+    "name_jp": "橘花改",
+    "name_en": "Kikka Kai"
+  },
+  {
+    "id": 2043,
+    "api_id": 201,
+    "name_jp": "紫電一一型",
+    "name_en": "Shiden Model 11",
+    "development": true
+  },
+  {
+    "id": 2044,
+    "api_id": 202,
+    "name_jp": "紫電二一型 紫電改",
+    "name_en": "Shiden Model 21 Shiden Kai"
+  },
+  {
+    "id": 2045,
+    "api_id": 203,
+    "name_jp": "艦本新設計 増設バルジ(中型艦)",
+    "name_en": "New Kanhon Anti-torpedo Bulge (M)"
+  },
+  {
+    "id": 2046,
+    "api_id": 204,
+    "name_jp": "艦本新設計 増設バルジ(大型艦)",
+    "name_en": "New Kanhon Anti-torpedo Bulge (L)"
+  },
+  {
+    "id": 2047,
+    "api_id": 205,
+    "name_jp": "F6F-3",
+    "name_en": "F6F-3 Hellcat"
+  },
+  {
+    "id": 2048,
+    "api_id": 206,
+    "name_jp": "F6F-5",
+    "name_en": "F6F-5 Hellcat"
+  },
+  {
+    "id": 2049,
+    "api_id": 207,
+    "name_jp": "瑞雲(六三一空)",
+    "name_en": "Zuiun (631 Air Group)",
+    "development": true
+  },
+  {
+    "id": 2050,
+    "api_id": 208,
+    "name_jp": "晴嵐(六三一空)",
+    "name_en": "Seiran (631 Air Group)"
+  },
+  {
+    "id": 2051,
+    "api_id": 209,
+    "name_jp": "彩雲(輸送用分解済)",
+    "name_en": "Saiun (Disassembled)"
+  },
+  {
+    "id": 2052,
+    "api_id": 210,
+    "name_jp": "潜水艦搭載電探&水防式望遠鏡",
+    "name_en": "Submarine Radar+Periscope",
+    "development": true
+  },
+  {
+    "id": 2053,
+    "api_id": 211,
+    "name_jp": "潜水艦搭載電探&逆探(E27)",
+    "name_en": "Submarine Radar+E27 Radar Detector"
+  },
+  {
+    "id": 2054,
+    "api_id": 212,
+    "name_jp": "彩雲(東カロリン空)",
+    "name_en": "Saiun (East Caroline Air Group)"
+  },
+  {
+    "id": 2055,
+    "api_id": 213,
+    "name_jp": "後期型艦首魚雷(6門)",
+    "name_en": "Late Model Bow Torpedo (6 tubes)",
+    "development": true
+  },
+  {
+    "id": 2056,
+    "api_id": 214,
+    "name_jp": "熟練聴音員+後期型艦首魚雷(6門)",
+    "name_en": "Skilled Sonar Personnel+Late Model Bow Torpedo (6 tubes)"
+  },
+  {
+    "id": 2057,
+    "api_id": 215,
+    "name_jp": "Ro.44水上戦闘機bis",
+    "name_en": "Ro.44 Seaplane Fighter bis"
+  },
+  {
+    "id": 2058,
+    "api_id": 216,
+    "name_jp": "二式水戦改(熟練)",
+    "name_en": "Type 2 Seaplane Fighter Kai (Skilled)"
+  },
+  {
+    "id": 2059,
+    "api_id": 217,
+    "name_jp": "強風改",
+    "name_en": "Kyoufuu Kai"
+  },
+  {
+    "id": 2060,
+    "api_id": 218,
+    "name_jp": "四式戦 疾風",
+    "name_en": "Type 4 Fighter Hayate"
+  },
+  {
+    "id": 2061,
+    "api_id": 219,
+    "name_jp": "零式艦戦63型(爆戦)",
+    "name_en": "Zero Fighter-bomber Model 63"
+  },
+  {
+    "id": 2062,
+    "api_id": 220,
+    "name_jp": "8cm高角砲改+増設機銃",
+    "name_en": "8cm High-angle Gun Kai+Machine Gun"
+  },
+  {
+    "id": 2063,
+    "api_id": 221,
+    "name_jp": "一式戦 隼II型",
+    "name_en": "Type 1 Fighter Hayabusa Model II",
+    "development": true
+  },
+  {
+    "id": 2064,
+    "api_id": 222,
+    "name_jp": "一式戦 隼III型甲",
+    "name_en": "Type 1 Fighter Hayabusa Model IIIA"
+  },
+  {
+    "id": 2065,
+    "api_id": 223,
+    "name_jp": "一式戦 隼III型甲(54戦隊)",
+    "name_en": "Type 1 Fighter Hayabusa Model IIIA (54th Squadron)"
+  },
+  {
+    "id": 2066,
+    "api_id": 224,
+    "name_jp": "爆装一式戦 隼III型改(65戦隊)",
+    "name_en": "Type 1 Fighter Hayabusa Model III Kai (65th Squadron)"
+  },
+  {
+    "id": 2067,
+    "api_id": 225,
+    "name_jp": "一式戦 隼II型(64戦隊)",
+    "name_en": "Type 1 Fighter Hayabusa Model II (64th Squadron)"
+  },
+  {
+    "id": 2068,
+    "api_id": 226,
+    "name_jp": "九五式爆雷",
+    "name_en": "Type 95 Depth Charge",
+    "development": true
+  },
+  {
+    "id": 2069,
+    "api_id": 227,
+    "name_jp": "二式爆雷",
+    "name_en": "Type 2 Depth Charge"
+  },
+  {
+    "id": 2070,
+    "api_id": 228,
+    "name_jp": "九六式艦戦改",
+    "name_en": "Type 96 Fighter Kai"
+  },
+  {
+    "id": 2071,
+    "api_id": 229,
+    "name_jp": "12.7cm単装高角砲(後期型)",
+    "name_en": "12.7 cm Single High-angle Gun (Late Model)"
+  },
+  {
+    "id": 2072,
+    "api_id": 230,
+    "name_jp": "特大発動艇+戦車第11連隊",
+    "name_en": "Toku Daihatsu LC+11th Tank Regiment"
+  },
+  {
+    "id": 2073,
+    "api_id": 231,
+    "name_jp": "30.5cm三連装砲",
+    "name_en": "30.5cm Triple Gun"
+  },
+  {
+    "id": 2074,
+    "api_id": 232,
+    "name_jp": "30.5cm三連装砲改",
+    "name_en": "30.5cm Triple Gun Kai"
+  },
+  {
+    "id": 2075,
+    "api_id": 233,
+    "name_jp": "F4U-1D",
+    "name_en": "F4U-1D Corsair"
+  },
+  {
+    "id": 2076,
+    "api_id": 234,
+    "name_jp": "15.5cm三連装副砲改",
+    "name_en": "15.5cm Triple Secondary Gun Kai"
+  },
+  {
+    "id": 2077,
+    "api_id": 235,
+    "name_jp": "15.5cm三連装砲改",
+    "name_en": "15.5cm Triple Gun Kai"
+  },
+  {
+    "id": 2078,
+    "api_id": 236,
+    "name_jp": "41cm三連装砲改",
+    "name_en": "41cm Triple Gun Kai"
+  },
+  {
+    "id": 2079,
+    "api_id": 237,
+    "name_jp": "瑞雲(六三四空/熟練)",
+    "name_en": "Zuiun (634 Air Group/Skilled)"
+  },
+  {
+    "id": 2080,
+    "api_id": 238,
+    "name_jp": "零式水上偵察機11型乙",
+    "name_en": "Type 0 Recon Seaplane Model 11B"
+  },
+  {
+    "id": 2081,
+    "api_id": 239,
+    "name_jp": "零式水上偵察機11型乙(熟練)",
+    "name_en": "Type 0 Recon Seaplane Model 11B (Skilled)"
+  },
+  {
+    "id": 2082,
+    "api_id": 240,
+    "name_jp": "22号対水上電探改四(後期調整型)",
+    "name_en": "Type 22 Surface Radar Kai Yon (Calibrated Late Model)"
+  },
+  {
+    "id": 2083,
+    "api_id": 241,
+    "name_jp": "戦闘糧食(特別なおにぎり)",
+    "name_en": "Combat Ration (Special Onigiri)"
+  },
+  {
+    "id": 2084,
+    "api_id": 242,
+    "name_jp": "Swordfish",
+    "name_en": "Swordfish",
+    "development": true
+  },
+  {
+    "id": 2085,
+    "api_id": 243,
+    "name_jp": "Swordfish Mk.II(熟練)",
+    "name_en": "Swordfish Mk.II (Skilled)"
+  },
+  {
+    "id": 2086,
+    "api_id": 244,
+    "name_jp": "Swordfish Mk.III(熟練)",
+    "name_en": "Swordfish Mk.III (Skilled)"
+  },
+  {
+    "id": 2087,
+    "api_id": 245,
+    "name_jp": "38cm四連装砲",
+    "name_en": "38cm Quadruple Gun"
+  },
+  {
+    "id": 2088,
+    "api_id": 246,
+    "name_jp": "38cm四連装砲改",
+    "name_en": "38cm Quadruple Gun Kai"
+  },
+  {
+    "id": 2089,
+    "api_id": 247,
+    "name_jp": "15.2cm三連装砲",
+    "name_en": "15.2cm Triple Gun"
+  },
+  {
+    "id": 2090,
+    "api_id": 248,
+    "name_jp": "Skua",
+    "name_en": "Skua"
+  },
+  {
+    "id": 2091,
+    "api_id": 249,
+    "name_jp": "Fulmar",
+    "name_en": "Fulmar",
+    "development": true
+  },
+  {
+    "id": 2092,
+    "api_id": 250,
+    "name_jp": "Spitfire Mk.I",
+    "name_en": "Spitfire Mk.I",
+    "development": true
+  },
+  {
+    "id": 2093,
+    "api_id": 251,
+    "name_jp": "Spitfire Mk.V",
+    "name_en": "Spitfire Mk.V"
+  },
+  {
+    "id": 2094,
+    "api_id": 252,
+    "name_jp": "Seafire Mk.III改",
+    "name_en": "Seafire Mk.III Kai"
+  },
+  {
+    "id": 2095,
+    "api_id": 253,
+    "name_jp": "Spitfire Mk.IX(熟練)",
+    "name_en": "Spitfire Mk.IX (Skilled)"
+  },
+  {
+    "id": 2096,
+    "api_id": 254,
+    "name_jp": "F6F-3N",
+    "name_en": "F6F-3N Hellcat"
+  },
+  {
+    "id": 2097,
+    "api_id": 255,
+    "name_jp": "F6F-5N",
+    "name_en": "F6F-5N Hellcat"
+  },
+  {
+    "id": 2098,
+    "api_id": 256,
+    "name_jp": "TBF",
+    "name_en": "TBF Avenger"
+  },
+  {
+    "id": 2099,
+    "api_id": 257,
+    "name_jp": "TBM-3D",
+    "name_en": "TBM-3D Avenger"
+  },
+  {
+    "id": 2100,
+    "api_id": 258,
+    "name_jp": "夜間作戦航空要員",
+    "name_en": "Night Operation Aviation Personnel"
+  },
+  {
+    "id": 2101,
+    "api_id": 259,
+    "name_jp": "夜間作戦航空要員+熟練甲板員",
+    "name_en": "Night Operation Aviation Personnel+Skilled Crew"
+  },
+  {
+    "id": 2102,
+    "api_id": 260,
+    "name_jp": "Type124 ASDIC",
+    "name_en": "Type 124 ASDIC"
+  },
+  {
+    "id": 2103,
+    "api_id": 261,
+    "name_jp": "Type144/147 ASDIC",
+    "name_en": "Type 144/147 ASDIC"
+  },
+  {
+    "id": 2104,
+    "api_id": 262,
+    "name_jp": "HF/DF + Type144/147 ASDIC",
+    "name_en": "HF/DF + Type 144/147 ASDIC"
+  },
+  {
+    "id": 2105,
+    "api_id": 263,
+    "name_jp": "紫電改(三四三空) 戦闘301",
+    "name_en": "Shiden Kai (343rd Air Group) 301st Fighter Squadron"
+  },
+  {
+    "id": 2106,
+    "api_id": 264,
+    "name_jp": "紫電改(三四三空) 戦闘701",
+    "name_en": "Shiden Kai (343rd Air Group) 701st Fighter Squadron"
+  },
+  {
+    "id": 2107,
+    "api_id": 266,
+    "name_jp": "12.7cm連装砲C型改二",
+    "name_en": "12.7cm Twin Gun Model C Kai Ni"
+  },
+  {
+    "id": 2108,
+    "api_id": 267,
+    "name_jp": "12.7cm連装砲D型改二",
+    "name_en": "12.7cm Twin Gun Model D Kai Ni"
+  },
+  {
+    "id": 2109,
+    "api_id": 268,
+    "name_jp": "北方迷彩(+北方装備)",
+    "name_en": "Arctic Camouflage (+ Arctic Equipment)"
+  },
+  {
+    "id": 2110,
+    "api_id": 269,
+    "name_jp": "試製東海",
+    "name_en": "Prototype Toukai"
+  },
+  {
+    "id": 2111,
+    "api_id": 270,
+    "name_jp": "東海(九〇一空)",
+    "name_en": "Toukai (901 Air Group)"
+  },
+  {
+    "id": 2112,
+    "api_id": 271,
+    "name_jp": "紫電改四",
+    "name_en": "Shiden Kai Yon"
+  },
+  {
+    "id": 2113,
+    "api_id": 272,
+    "name_jp": "遊撃部隊 艦隊司令部",
+    "name_en": "Striking Force FCF"
+  },
+  {
+    "id": 2114,
+    "api_id": 273,
+    "name_jp": "彩雲(偵四)",
+    "name_en": "Saiun (4th Recon)"
+  },
+  {
+    "id": 2115,
+    "api_id": 274,
+    "name_jp": "12cm30連装噴進砲改二",
+    "name_en": "12cm 30-tube Rocket Launcher Kai Ni"
+  },
+  {
+    "id": 2116,
+    "api_id": 275,
+    "name_jp": "10cm連装高角砲改+増設機銃",
+    "name_en": "10cm Twin High-angle Gun Kai + Additional Machine Guns"
+  },
+  {
+    "id": 2117,
+    "api_id": 276,
+    "name_jp": "46cm三連装砲改",
+    "name_en": "46cm Triple Gun Kai"
+  },
+  {
+    "id": 2118,
+    "api_id": 277,
+    "name_jp": "FM-2",
+    "name_en": "FM-2 Wildcat"
+  },
+  {
+    "id": 2119,
+    "api_id": 278,
+    "name_jp": "SK レーダー",
+    "name_en": "SK Radar"
+  },
+  {
+    "id": 2120,
+    "api_id": 279,
+    "name_jp": "SK+SG レーダー",
+    "name_en": "SK+SG Radar"
+  },
+  {
+    "id": 2121,
+    "api_id": 280,
+    "name_jp": "QF 4.7inch砲 Mk.XII改",
+    "name_en": "QF 4.7inch Gun Mk.XII Kai"
+  },
+  {
+    "id": 2122,
+    "api_id": 281,
+    "name_jp": "51cm連装砲",
+    "name_en": "51cm Twin Gun"
+  },
+  {
+    "id": 2123,
+    "api_id": 282,
+    "name_jp": "130mm B-13連装砲",
+    "name_en": "130mm B-13 Twin Gun"
+  },
+  {
+    "id": 2124,
+    "api_id": 283,
+    "name_jp": "533mm 三連装魚雷",
+    "name_en": "533mm Triple Torpedo"
+  },
+  {
+    "id": 2125,
+    "api_id": 284,
+    "name_jp": "5inch単装砲 Mk.30",
+    "name_en": "5inch Single Gun Mk.30"
+  },
+  {
+    "id": 2126,
+    "api_id": 285,
+    "name_jp": "61cm三連装(酸素)魚雷後期型",
+    "name_en": "61cm Triple (Oxygen) Torpedo Mount Late Model"
+  },
+  {
+    "id": 2127,
+    "api_id": 286,
+    "name_jp": "61cm四連装(酸素)魚雷後期型",
+    "name_en": "61cm Quadruple (Oxygen) Torpedo Mount Late Model"
+  },
+  {
+    "id": 2128,
+    "api_id": 287,
+    "name_jp": "三式爆雷投射機 集中配備",
+    "name_en": "Type 3 Depth Charge Projector (CD)"
+  },
+  {
+    "id": 2129,
+    "api_id": 288,
+    "name_jp": "試製15cm9連装対潜噴進砲",
+    "name_en": "Prototype 15cm 9-tube ASW Rocket Launcher"
+  },
+  {
+    "id": 2130,
+    "api_id": 289,
+    "name_jp": "35.6cm三連装砲改(ダズル迷彩仕様)",
+    "name_en": "35.6cm Triple Gun Kai (Dazzle Camouflage)"
+  },
+  {
+    "id": 2131,
+    "api_id": 290,
+    "name_jp": "41cm三連装砲改二",
+    "name_en": "41cm Triple Gun Kai Ni"
+  },
+  {
+    "id": 2132,
+    "api_id": 291,
+    "name_jp": "彗星二二型(六三四空)",
+    "name_en": "Suisei Model 22 (634 Air Group)"
+  },
+  {
+    "id": 2133,
+    "api_id": 292,
+    "name_jp": "彗星二二型(六三四空/熟練)",
+    "name_en": "Suisei Model 22 (634 Air Group/Skilled)"
+  },
+  {
+    "id": 2134,
+    "api_id": 293,
+    "name_jp": "12cm単装砲改二",
+    "name_en": "12cm Single Gun Kai Ni"
+  },
+  {
+    "id": 2135,
+    "api_id": 294,
+    "name_jp": "12.7cm連装砲A型改二",
+    "name_en": "12.7cm Twin Gun Model A Kai Ni"
+  },
+  {
+    "id": 2136,
+    "api_id": 295,
+    "name_jp": "12.7cm連装砲A型改三(戦時改修)+高射装置",
+    "name_en": "12.7cm Twin Gun Model A Kai San (Wartime Modification) + AAFD"
+  },
+  {
+    "id": 2137,
+    "api_id": 296,
+    "name_jp": "12.7cm連装砲B型改四(戦時改修)+高射装置",
+    "name_en": "12.7cm Twin Gun Model B Kai Yon (Wartime Modification) + AAFD"
+  },
+  {
+    "id": 2138,
+    "api_id": 297,
+    "name_jp": "12.7cm連装砲A型",
+    "name_en": "12.7cm Twin Gun Model A"
+  },
+  {
+    "id": 2139,
+    "api_id": 298,
+    "name_jp": "16inch Mk.I三連装砲",
+    "name_en": "16inch Mk.I Triple Gun",
+    "development": true
+  },
+  {
+    "id": 2140,
+    "api_id": 299,
+    "name_jp": "16inch Mk.I三連装砲+AFCT改",
+    "name_en": "16inch Mk.I Triple Gun + AFCT Kai"
+  },
+  {
+    "id": 2141,
+    "api_id": 300,
+    "name_jp": "16inch Mk.I三連装砲改+FCR type284",
+    "name_en": "16inch Mk.I Triple Gun Kai + FCR Type 284"
+  },
+  {
+    "id": 2142,
+    "api_id": 301,
+    "name_jp": "20連装7inch UP Rocket Launchers",
+    "name_en": "20-tube 7inch UP Rocket Launchers",
+    "development": true
+  },
+  {
+    "id": 2143,
+    "api_id": 302,
+    "name_jp": "九七式艦攻(九三一空/熟練)",
+    "name_en": "Type 97 Torpedo Bomber (931 Air Group/Skilled)"
+  },
+  {
+    "id": 2144,
+    "api_id": 303,
+    "name_jp": "Bofors 15.2cm連装砲 Model 1930",
+    "name_en": "Bofors 15.2cm Twin Gun Model 1930"
+  },
+  {
+    "id": 2145,
+    "api_id": 304,
+    "name_jp": "S9 Osprey",
+    "name_en": "S9 Osprey"
+  },
+  {
+    "id": 2146,
+    "api_id": 305,
+    "name_jp": "Ju87C改二(KMX搭載機)",
+    "name_en": "Ju 87C Kai Ni (KMX)"
+  },
+  {
+    "id": 2147,
+    "api_id": 306,
+    "name_jp": "Ju87C改二(KMX搭載機/熟練)",
+    "name_en": "Ju 87C Kai Ni (KMX/Skilled)"
+  },
+  {
+    "id": 2148,
+    "api_id": 307,
+    "name_jp": "GFCS Mk.37",
+    "name_en": "GFCS Mk.37"
+  },
+  {
+    "id": 2149,
+    "api_id": 308,
+    "name_jp": "5inch単装砲 Mk.30改+GFCS Mk.37",
+    "name_en": "5inch Single Gun Mk.30 Kai + GFCS Mk.37"
+  },
+  {
+    "id": 2150,
+    "api_id": 309,
+    "name_jp": "甲標的 丙型",
+    "name_en": "Type C Kouhyouteki"
+  },
+  {
+    "id": 2151,
+    "api_id": 310,
+    "name_jp": "14cm連装砲改",
+    "name_en": "14cm Twin Gun Kai"
+  },
+  {
+    "id": 2152,
+    "api_id": 311,
+    "name_jp": "二式陸上偵察機",
+    "name_en": "Type 2 Land-based Recon Aircraft"
+  },
+  {
+    "id": 2153,
+    "api_id": 312,
+    "name_jp": "二式陸上偵察機(熟練)",
+    "name_en": "Type 2 Land-based Recon Aircraft (Skilled)"
+  },
+  {
+    "id": 2154,
+    "api_id": 313,
+    "name_jp": "5inch単装砲 Mk.30改",
+    "name_en": "5inch Single Gun Mk.30 Kai"
+  },
+  {
+    "id": 2155,
+    "api_id": 314,
+    "name_jp": "533mm五連装魚雷(初期型)",
+    "name_en": "533mm Quintuple Torpedo (Initial Model)"
+  },
+  {
+    "id": 2156,
+    "api_id": 315,
+    "name_jp": "SG レーダー(初期型)",
+    "name_en": "SG Radar (Initial Model)"
+  },
+  {
+    "id": 2157,
+    "api_id": 316,
+    "name_jp": "Re.2001 CB改",
+    "name_en": "Re.2001 CB Kai"
+  },
+  {
+    "id": 2158,
+    "api_id": 317,
+    "name_jp": "三式弾改",
+    "name_en": "Type 3 Shell Kai"
+  },
+  {
+    "id": 2159,
+    "api_id": 318,
+    "name_jp": "41cm連装砲改二",
+    "name_en": "41cm Twin Gun Mount Kai Ni"
+  },
+  {
+    "id": 2160,
+    "api_id": 319,
+    "name_jp": "彗星一二型(六三四空/三号爆弾搭載機)",
+    "name_en": "Suisei Model 12 (634 Air Group w/ Type 3 Cluster Bombs)"
+  },
+  {
+    "id": 2161,
+    "api_id": 320,
+    "name_jp": "彗星一二型(三一号光電管爆弾搭載機)",
+    "name_en": "Suisei Model 12 (w/ Type 31 Photoelectric Fuze Bombs)"
+  },
+  {
+    "id": 2162,
+    "api_id": 322,
+    "name_jp": "瑞雲改二(六三四空)",
+    "name_en": "Zuiun Kai Ni (634 Air Group)"
+  },
+  {
+    "id": 2163,
+    "api_id": 323,
+    "name_jp": "瑞雲改二(六三四空/熟練)",
+    "name_en": "Zuiun Kai Ni (634 Air Group/Skilled)"
+  },
+  {
+    "id": 2164,
+    "api_id": 324,
+    "name_jp": "オ号観測機改",
+    "name_en": "O Type Observation Autogyro Kai"
+  },
+  {
+    "id": 2165,
+    "api_id": 325,
+    "name_jp": "オ号観測機改二",
+    "name_en": "O Type Observation Autogyro Kai Ni"
+  },
+  {
+    "id": 2166,
+    "api_id": 326,
+    "name_jp": "S-51J",
+    "name_en": "S-51J"
+  },
+  {
+    "id": 2167,
+    "api_id": 327,
+    "name_jp": "S-51J改",
+    "name_en": "S-51J Kai"
+  },
+  {
+    "id": 2168,
+    "api_id": 328,
+    "name_jp": "35.6cm連装砲改",
+    "name_en": "35.6cm Twin Gun Mount Kai"
+  },
+  {
+    "id": 2169,
+    "api_id": 329,
+    "name_jp": "35.6cm連装砲改二",
+    "name_en": "35.6cm Twin Gun Mount Kai Ni"
+  },
+  {
+    "id": 2170,
+    "api_id": 330,
+    "name_jp": "16inch Mk.I連装砲",
+    "name_en": "16inch Mk.I Twin Gun Mount"
+  },
+  {
+    "id": 2171,
+    "api_id": 331,
+    "name_jp": "16inch Mk.V連装砲",
+    "name_en": "16inch Mk.V Twin Gun Mount"
+  },
+  {
+    "id": 2172,
+    "api_id": 332,
+    "name_jp": "16inch Mk.VIII連装砲改",
+    "name_en": "16inch Mk.VIII Twin Gun Mount Kai"
+  },
+  {
+    "id": 2173,
+    "api_id": 333,
+    "name_jp": "烈風改",
+    "name_en": "Reppuu Kai"
+  },
+  {
+    "id": 2174,
+    "api_id": 334,
+    "name_jp": "烈風改(三五二空/熟練)",
+    "name_en": "Reppuu Kai (352 Air Group/Skilled)"
+  },
+  {
+    "id": 2175,
+    "api_id": 335,
+    "name_jp": "烈風改(試製艦載型)",
+    "name_en": "Reppuu Kai (Prototype Carrier-based Model)"
+  },
+  {
+    "id": 2176,
+    "api_id": 336,
+    "name_jp": "烈風改二",
+    "name_en": "Reppuu Kai Ni"
+  },
+  {
+    "id": 2177,
+    "api_id": 337,
+    "name_jp": "烈風改二(一航戦/熟練)",
+    "name_en": "Reppuu Kai Ni (CarDiv 1/Skilled)"
+  },
+  {
+    "id": 2178,
+    "api_id": 338,
+    "name_jp": "烈風改二戊型",
+    "name_en": "Reppuu Kai Ni Model E"
+  },
+  {
+    "id": 2179,
+    "api_id": 339,
+    "name_jp": "烈風改二戊型(一航戦/熟練)",
+    "name_en": "Reppuu Kai Ni Model E (CarDiv 1/Skilled)"
+  },
+  {
+    "id": 2180,
+    "api_id": 340,
+    "name_jp": "152mm/55 三連装速射砲",
+    "name_en": "152mm/55 Triple Rapid Fire Gun Mount"
+  },
+  {
+    "id": 2181,
+    "api_id": 341,
+    "name_jp": "152mm/55 三連装速射砲改",
+    "name_en": "152mm/55 Triple Rapid Fire Gun Mount Kai"
+  },
+  {
+    "id": 2182,
+    "api_id": 342,
+    "name_jp": "流星改(一航戦)",
+    "name_en": "Ryuusei Kai (CarDiv 1)"
+  },
+  {
+    "id": 2183,
+    "api_id": 343,
+    "name_jp": "流星改(一航戦/熟練)",
+    "name_en": "Ryuusei Kai (CarDiv 1/Skilled)"
+  },
+  {
+    "id": 2184,
+    "api_id": 344,
+    "name_jp": "九七式艦攻改 試製三号戊型(空六号電探改装備機)",
+    "name_en": "Prototype Type 97 Torpedo Bomber Kai No. 3 Model E (w/ Type 6 Airborne Radar Kai)"
+  },
+  {
+    "id": 2185,
+    "api_id": 345,
+    "name_jp": "九七式艦攻改(熟練) 試製三号戊型(空六号電探改装備機)",
+    "name_en": "Prototype Type 97 Torpedo Bomber Kai (Skilled) No. 3 Model E (w/ Type 6 Airborne Radar Kai)"
+  },
+  {
+    "id": 2186,
+    "api_id": 346,
+    "name_jp": "二式12cm迫撃砲改",
+    "name_en": "Type 2 12cm Mortar Kai"
+  },
+  {
+    "id": 2187,
+    "api_id": 347,
+    "name_jp": "二式12cm迫撃砲改 集中配備",
+    "name_en": "Type 2 12cm Mortar Kai (Concentrated Deployment)"
+  },
+  {
+    "id": 2188,
+    "api_id": 348,
+    "name_jp": "艦載型 四式20cm対地噴進砲",
+    "name_en": "Shipborne Model Type 4 20cm Anti-ground Rocket Launcher"
+  },
+  {
+    "id": 2189,
+    "api_id": 349,
+    "name_jp": "四式20cm対地噴進砲 集中配備",
+    "name_en": "Type 4 20cm Anti-ground Rocket Launcher (Concentrated Deployment)"
+  },
+  {
+    "id": 2190,
+    "api_id": 350,
+    "name_jp": "Me163B",
+    "name_en": "Me 163B"
+  },
+  {
+    "id": 2191,
+    "api_id": 351,
+    "name_jp": "試製 秋水",
+    "name_en": "Prototype Shuusui"
+  },
+  {
+    "id": 2192,
+    "api_id": 352,
+    "name_jp": "秋水",
+    "name_en": "Shuusui"
+  },
+  {
+    "id": 2193,
+    "api_id": 353,
+    "name_jp": "Fw190 A-5改(熟練)",
+    "name_en": "Fw 190 A-5 Kai (Skilled)"
+  },
+  {
+    "id": 2194,
+    "api_id": 354,
+    "name_jp": "Fw190 D-9",
+    "name_en": "Fw 190 D-9"
+  },
+  {
+    "id": 2195,
+    "api_id": 355,
+    "name_jp": "M4A1 DD",
+    "name_en": "M4A1 DD"
+  },
+  {
+    "id": 2196,
+    "api_id": 356,
+    "name_jp": "8inch三連装砲 Mk.9",
+    "name_en": "8inch Triple Gun Mount Mk.9"
+  },
+  {
+    "id": 2197,
+    "api_id": 357,
+    "name_jp": "8inch三連装砲 Mk.9 mod.2",
+    "name_en": "8inch Triple Gun Mount Mk.9 mod.2"
+  },
+  {
+    "id": 2198,
+    "api_id": 358,
+    "name_jp": "5inch 単装高角砲群",
+    "name_en": "5inch Single High-angle Gun Mount Battery"
+  },
+  {
+    "id": 2199,
+    "api_id": 359,
+    "name_jp": "6inch 連装速射砲 Mk.XXI",
+    "name_en": "6inch Twin Rapid Fire Gun Mount Mk.XXI"
+  },
+  {
+    "id": 2200,
+    "api_id": 360,
+    "name_jp": "Bofors 15cm連装速射砲 Mk.9 Model 1938",
+    "name_en": "Bofors 15cm Twin Rapid Fire Gun Mount Mk.9 Model 1938"
+  },
+  {
+    "id": 2201,
+    "api_id": 361,
+    "name_jp": "Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938",
+    "name_en": "Bofors 15cm Twin Rapid Fire Gun Mount Mk.9 Kai + Single Rapid Fire Gun Mount Mk.10 Kai Model 1938"
+  },
+  {
+    "id": 2202,
+    "api_id": 362,
+    "name_jp": "5inch連装両用砲(集中配備)",
+    "name_en": "5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)"
+  },
+  {
+    "id": 2203,
+    "api_id": 363,
+    "name_jp": "GFCS Mk.37+5inch連装両用砲(集中配備)",
+    "name_en": "GFCS Mk.37 + 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)"
+  },
+  {
+    "id": 2204,
+    "api_id": 364,
+    "name_jp": "甲標的 丁型改(蛟龍改)",
+    "name_en": "Type D Kouhyouteki Kai (Kouryuu Kai)"
+  },
+  {
+    "id": 2205,
+    "api_id": 365,
+    "name_jp": "一式徹甲弾改",
+    "name_en": "Type 1 Armor Piercing Shell Kai"
+  },
+  {
+    "id": 2206,
+    "api_id": 366,
+    "name_jp": "12.7cm連装砲D型改三",
+    "name_en": "12.7cm Twin Gun Model D Kai San"
+  },
+  {
+    "id": 2207,
+    "api_id": 367,
+    "name_jp": "Swordfish(水上機型)",
+    "name_en": "Swordfish (Seaplane Model)"
+  },
+  {
+    "id": 2208,
+    "api_id": 368,
+    "name_jp": "Swordfish Mk.III改(水上機型)",
+    "name_en": "Swordfish Mk.III Kai (Seaplane Model)"
+  },
+  {
+    "id": 2209,
+    "api_id": 369,
+    "name_jp": "Swordfish Mk.III改(水上機型/熟練)",
+    "name_en": "Swordfish Mk.III Kai (Seaplane Model/Skilled)"
+  },
+  {
+    "id": 2210,
+    "api_id": 370,
+    "name_jp": "Swordfish Mk.II改(水偵型)",
+    "name_en": "Swordfish Mk.II Kai (Reconnaissance Seaplane Model)"
+  },
+  {
+    "id": 2211,
+    "api_id": 371,
+    "name_jp": "Fairey Seafox改",
+    "name_en": "Fairey Seafox Kai"
+  },
+  {
+    "id": 2212,
+    "api_id": 372,
+    "name_jp": "天山一二型甲",
+    "name_en": "Tenzan Model 12A"
+  },
+  {
+    "id": 2213,
+    "api_id": 373,
+    "name_jp": "天山一二型甲改(空六号電探改装備機)",
+    "name_en": "Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai)"
+  },
+  {
+    "id": 2214,
+    "api_id": 374,
+    "name_jp": "天山一二型甲改(熟練/空六号電探改装備機)",
+    "name_en": "Tenzan Model 12A Kai (Skilled w/ Type 6 Airborne Radar Kai)"
+  },
+  {
+    "id": 2215,
+    "api_id": 375,
+    "name_jp": "XF5U",
+    "name_en": "XF5U"
+  },
+  {
+    "id": 2216,
+    "api_id": 376,
+    "name_jp": "533mm五連装魚雷(後期型)",
+    "name_en": "533mm Quintuple Torpedo Mount (Late Model)"
+  },
+  {
+    "id": 2217,
+    "api_id": 377,
+    "name_jp": "RUR-4A Weapon Alpha改",
+    "name_en": "RUR-4A Weapon Alpha Kai"
+  },
+  {
+    "id": 2218,
+    "api_id": 378,
+    "name_jp": "対潜短魚雷(試作初期型)",
+    "name_en": "Lightweight ASW Torpedo (Initial Test Model)"
+  },
+  {
+    "id": 2219,
+    "api_id": 379,
+    "name_jp": "12.7cm単装高角砲改二",
+    "name_en": "12.7cm Single High-angle Gun Kai Ni"
+  },
+  {
+    "id": 2220,
+    "api_id": 380,
+    "name_jp": "12.7cm連装高角砲改二",
+    "name_en": "12.7cm Twin High-angle Gun Kai Ni"
+  },
+  {
+    "id": 2221,
+    "api_id": 381,
+    "name_jp": "16inch三連装砲 Mk.6",
+    "name_en": "16inch Triple Gun Mk.6"
+  },
+  {
+    "id": 2222,
+    "api_id": 382,
+    "name_jp": "12cm単装高角砲E型",
+    "name_en": "12cm Single High-angle Gun Model E",
+    "development": true
+  },
+  {
+    "id": 2223,
+    "api_id": 383,
+    "name_jp": "後期型53cm艦首魚雷(8門)",
+    "name_en": "Late Model 53cm Bow Torpedo (8 tubes)"
+  },
+  {
+    "id": 2224,
+    "api_id": 384,
+    "name_jp": "後期型潜水艦搭載電探&逆探",
+    "name_en": "Late Model Submarine Radar & Passive Radiolocator"
+  },
+  {
+    "id": 2225,
+    "api_id": 385,
+    "name_jp": "16inch三連装砲 Mk.6 mod.2",
+    "name_en": "16inch Triple Gun Mk.6 mod.2"
+  },
+  {
+    "id": 2226,
+    "api_id": 386,
+    "name_jp": "6inch三連装速射砲 Mk.16",
+    "name_en": "6inch Triple Rapid Fire Gun Mount Mk.16"
+  },
+  {
+    "id": 2227,
+    "api_id": 387,
+    "name_jp": "6inch三連装速射砲 Mk.16 mod.2",
+    "name_en": "6inch Triple Rapid Fire Gun Mount Mk.16 mod.2"
+  },
+  {
+    "id": 2228,
+    "api_id": 388,
+    "name_jp": "銀河(江草隊)",
+    "name_en": "Ginga (Egusa Squadron)"
+  },
+  {
+    "id": 2229,
+    "api_id": 389,
+    "name_jp": "TBM-3W+3S",
+    "name_en": "TBM-3W+3S"
+  },
+  {
+    "id": 2230,
+    "api_id": 390,
+    "name_jp": "16inch三連装砲 Mk.6+GFCS",
+    "name_en": "16inch Triple Gun Mount Mk.6 + GFCS"
+  },
+  {
+    "id": 2231,
+    "api_id": 391,
+    "name_jp": "九九式艦爆二二型",
+    "name_en": "Type 99 Dive Bomber Model 22"
+  },
+  {
+    "id": 2232,
+    "api_id": 392,
+    "name_jp": "九九式艦爆二二型(熟練)",
+    "name_en": "Type 99 Dive Bomber Model 22 (Skilled)"
+  },
+  {
+    "id": 2233,
+    "api_id": 393,
+    "name_jp": "120mm/50 連装砲 mod.1936",
+    "name_en": "120mm/50 Twin Gun Mount mod.1936"
+  },
+  {
+    "id": 2234,
+    "api_id": 394,
+    "name_jp": "120mm/50 連装砲改 A.mod.1937",
+    "name_en": "120mm/50 Twin Gun Mount Kai A.mod.1937"
+  },
+  {
+    "id": 2235,
+    "api_id": 395,
+    "name_jp": "深山",
+    "name_en": "Shinzan"
+  },
+  {
+    "id": 2236,
+    "api_id": 396,
+    "name_jp": "深山改",
+    "name_en": "Shinzan Kai"
+  },
+  {
+    "id": 2237,
+    "api_id": 397,
+    "name_jp": "現地改装12.7cm連装高角砲",
+    "name_en": "Locally Modified 12.7cm Twin High-angle Gun Mount"
+  },
+  {
+    "id": 2238,
+    "api_id": 398,
+    "name_jp": "現地改装10cm連装高角砲",
+    "name_en": "Locally Modified 10cm Twin High-angle Gun Mount"
+  },
+  {
+    "id": 2239,
+    "api_id": 399,
+    "name_jp": "6inch Mk.XXIII三連装砲",
+    "name_en": "6inch Mk.XXIII Triple Gun Mount"
+  },
+  {
+    "id": 2240,
+    "api_id": 400,
+    "name_jp": "533mm 三連装魚雷(53-39型)",
+    "name_en": "533mm Triple Torpedo Mount (Model 53-39)"
+  },
+  {
+    "id": 2241,
+    "api_id": 401,
+    "name_jp": "Do 17 Z-2",
+    "name_en": "Do 17 Z-2"
+  },
+  {
+    "id": 2242,
+    "api_id": 402,
+    "name_jp": "寒冷地装備&甲板要員",
+    "name_en": "Arctic Gear & Deck Personnel"
+  },
+  {
+    "id": 2243,
+    "api_id": 403,
+    "name_jp": "四式重爆 飛龍",
+    "name_en": "Type 4 Heavy Bomber Hiryuu"
+  },
+  {
+    "id": 2244,
+    "api_id": 404,
+    "name_jp": "四式重爆 飛龍(熟練)",
+    "name_en": "Type 4 Heavy Bomber Hiryuu(Skilled)"
+  },
+  {
+    "id": 2245,
+    "api_id": 405,
+    "name_jp": "Do 217 E-5+Hs293初期型",
+    "name_en": "Do 217 E-5 + Hs293 Initial Model"
+  },
+  {
+    "id": 2246,
+    "api_id": 406,
+    "name_jp": "Do 217 K-2+Fritz-X",
+    "name_en": "Do 217 K-2 + Fritz-X"
+  },
+  {
+    "id": 2247,
+    "api_id": 407,
+    "name_jp": "15.2cm連装砲改二",
+    "name_en": "15.2cm Twin Gun Mount Kai Ni"
+  },
+  {
+    "id": 2248,
+    "api_id": 408,
+    "name_jp": "装甲艇(AB艇)",
+    "name_en": "Soukoutei (AB Class)"
+  },
+  {
+    "id": 2249,
+    "api_id": 409,
+    "name_jp": "武装大発",
+    "name_en": "Armed Daihatsu"
+  },
+  {
+    "id": 2250,
+    "api_id": 410,
+    "name_jp": "21号対空電探改二",
+    "name_en": "Type 21 Air Radar Kai Ni"
+  },
+  {
+    "id": 2251,
+    "api_id": 411,
+    "name_jp": "42号対空電探改二",
+    "name_en": "Type 42 Air Radar Kai Ni"
+  },
+  {
+    "id": 2252,
+    "api_id": 412,
+    "name_jp": "水雷戦隊 熟練見張員",
+    "name_en": "Torpedo Squadron Skilled Lookouts"
+  },
+  {
+    "id": 2253,
+    "api_id": 413,
+    "name_jp": "精鋭水雷戦隊 司令部",
+    "name_en": "Elite Torpedo Squadron Command Facility"
+  },
+  {
+    "id": 2254,
+    "api_id": 414,
+    "name_jp": "SOC Seagull",
+    "name_en": "SOC Seagull",
+    "development": true
+  },
+  {
+    "id": 2255,
+    "api_id": 415,
+    "name_jp": "SO3C Seamew改",
+    "name_en": "SO3C Seamew Kai"
+  },
+  {
+    "id": 2256,
+    "api_id": 416,
+    "name_jp": "零式艦戦21型(台南空)",
+    "name_en": "Type 0 Fighter Model 21 (Tainan Air Group)"
+  },
+  {
+    "id": 2257,
+    "api_id": 417,
+    "name_jp": "零式艦戦32型(台南空)",
+    "name_en": "Type 0 Fighter Model 32 (Tainan Air Group)"
+  },
+  {
+    "id": 2258,
+    "api_id": 418,
+    "name_jp": "零式艦戦22型(251空)",
+    "name_en": "Type 0 Fighter Model 22 (251 Air Group)"
+  },
+  {
+    "id": 2259,
+    "api_id": 419,
+    "name_jp": "SBD-5",
+    "name_en": "SBD-5"
+  },
+  {
+    "id": 2260,
+    "api_id": 420,
+    "name_jp": "SB2C-3",
+    "name_en": "SB2C-3"
+  },
+  {
+    "id": 2261,
+    "api_id": 421,
+    "name_jp": "SB2C-5",
+    "name_en": "SB2C-5"
+  },
+  {
+    "id": 2262,
+    "api_id": 422,
+    "name_jp": "FR-1 Fireball",
+    "name_en": "FR-1 Fireball"
+  },
+  {
+    "id": 2263,
+    "api_id": 423,
+    "name_jp": "Fulmar(戦闘偵察/熟練)",
+    "name_en": "Fulmar (Reconnaissance Fighter/Skilled)"
+  },
+  {
+    "id": 2264,
+    "api_id": 424,
+    "name_jp": "Barracuda Mk.II",
+    "name_en": "Barracuda Mk.II"
+  },
+  {
+    "id": 2265,
+    "api_id": 425,
+    "name_jp": "Barracuda Mk.III",
+    "name_en": "Barracuda Mk.III"
+  },
+  {
+    "id": 2266,
+    "api_id": 426,
+    "name_jp": "305mm/46 連装砲",
+    "name_en": "305mm/46 Twin Gun Mount"
+  },
+  {
+    "id": 2267,
+    "api_id": 427,
+    "name_jp": "305mm/46 三連装砲",
+    "name_en": "305mm/46 Triple Gun Mount"
+  },
+  {
+    "id": 2268,
+    "api_id": 428,
+    "name_jp": "320mm/44 連装砲",
+    "name_en": "320mm/44 Twin Gun Mount"
+  },
+  {
+    "id": 2269,
+    "api_id": 429,
+    "name_jp": "320mm/44 三連装砲",
+    "name_en": "320mm/44 Triple Gun Mount"
+  },
+  {
+    "id": 2270,
+    "api_id": 430,
+    "name_jp": "65mm/64 単装速射砲改",
+    "name_en": "65mm/64 Single Rapid Fire Gun Mount Kai"
+  },
+  {
+    "id": 2271,
+    "api_id": 431,
+    "name_jp": "SM.79",
+    "name_en": "SM.79"
+  },
+  {
+    "id": 2272,
+    "api_id": 432,
+    "name_jp": "SM.79 bis",
+    "name_en": "SM.79 bis"
+  },
+  {
+    "id": 2273,
+    "api_id": 433,
+    "name_jp": "SM.79 bis(熟練)",
+    "name_en": "SM.79 bis (Skilled)"
+  },
+  {
+    "id": 2274,
+    "api_id": 434,
+    "name_jp": "Corsair Mk.II",
+    "name_en": "Corsair Mk.II"
+  },
+  {
+    "id": 2275,
+    "api_id": 435,
+    "name_jp": "Corsair Mk.II(Ace)",
+    "name_en": "Corsair Mk.II (Ace)"
+  },
+  {
+    "id": 2276,
+    "api_id": 436,
+    "name_jp": "大発動艇(II号戦車/北アフリカ仕様)",
+    "name_en": "Daihatsu Landing Craft (Panzer II/North African Specification)"
+  },
+  {
+    "id": 2277,
+    "api_id": 437,
+    "name_jp": "試製 陣風",
+    "name_en": "Prototype Jinpuu"
+  },
+  {
+    "id": 2278,
+    "api_id": 438,
+    "name_jp": "三式水中探信儀改",
+    "name_en": "Type 3 Active Sonar Kai"
+  },
+  {
+    "id": 2279,
+    "api_id": 439,
+    "name_jp": "Hedgehog(初期型)",
+    "name_en": "Hedgehog (Initial Model)"
+  },
+  {
+    "id": 2280,
+    "api_id": 440,
+    "name_jp": "21inch艦首魚雷発射管6門(初期型)",
+    "name_en": "21inch 6-tube Bow Torpedo Launcher (Initial Model)",
+    "development": true
+  },
+  {
+    "id": 2281,
+    "api_id": 441,
+    "name_jp": "21inch艦首魚雷発射管6門(後期型)",
+    "name_en": "21inch 6-tube Bow Torpedo Launcher (Late Model)"
+  },
+  {
+    "id": 2282,
+    "api_id": 442,
+    "name_jp": "潜水艦後部魚雷発射管4門(初期型)",
+    "name_en": "Submarine 4-tube Stern Torpedo Launcher (Initial Model)",
+    "development": true
+  },
+  {
+    "id": 2283,
+    "api_id": 443,
+    "name_jp": "潜水艦後部魚雷発射管4門(後期型)",
+    "name_en": "Submarine 4-tube Stern Torpedo Launcher (Late Model)"
+  },
+  {
+    "id": 2284,
+    "api_id": 444,
+    "name_jp": "四式重爆 飛龍+イ号一型甲 誘導弾",
+    "name_en": "Type 4 Heavy Bomber Hiryuu + No.1 Model 1A Guided Missile"
+  },
+  {
+    "id": 2285,
+    "api_id": 445,
+    "name_jp": "二式複戦 屠龍",
+    "name_en": "Type 2 Two-seat Fighter Toryuu",
+    "development": true
+  },
+  {
+    "id": 2286,
+    "api_id": 446,
+    "name_jp": "二式複戦 屠龍 丙型",
+    "name_en": "Type 2 Two-seat Fighter Toryuu Model C"
+  },
+  {
+    "id": 2287,
+    "api_id": 447,
+    "name_jp": "零式艦戦64型(複座KMX搭載機)",
+    "name_en": "Type 0 Fighter Model 64 (Two-seat w/ KMX)"
+  },
+  {
+    "id": 2288,
+    "api_id": 449,
+    "name_jp": "特大発動艇+一式砲戦車",
+    "name_en": "Toku Daihatsu Landing Craft + Type 1 Gun Tank"
+  },
+  {
+    "id": 2289,
+    "api_id": 450,
+    "name_jp": "13号対空電探改(後期型)",
+    "name_en": "Type 13 Air Radar Kai (Late Model)"
+  },
+  {
+    "id": 2290,
+    "api_id": 451,
+    "name_jp": "三式指揮連絡機改",
+    "name_en": "Type 3 Command Liaison Aircraft Kai"
+  },
+  {
+    "id": 2291,
+    "api_id": 452,
+    "name_jp": "キ96",
+    "name_en": "Ki-96"
+  },
+  {
+    "id": 2292,
+    "api_id": 453,
+    "name_jp": "キ102乙",
+    "name_en": "Ki-102 B"
+  },
+  {
+    "id": 2293,
+    "api_id": 454,
+    "name_jp": "キ102乙改+イ号一型乙 誘導弾",
+    "name_en": "Ki-102 B Kai + No.1 Model 1B Guided Missile"
+  },
+  {
+    "id": 2294,
+    "api_id": 455,
+    "name_jp": "試製 長12.7cm連装砲A型改四",
+    "name_en": "Prototype Long-barrel 12.7cm Twin Gun Mount Model A Kai Yon"
+  },
+  {
+    "id": 2295,
+    "api_id": 456,
+    "name_jp": "SG レーダー(後期型)",
+    "name_en": "SG Radar (Late Model)"
+  },
+  {
+    "id": 2296,
+    "api_id": 457,
+    "name_jp": "後期型艦首魚雷(4門)",
+    "name_en": "Late Model Bow Torpedo Mount (4 tubes)",
+    "development": true
+  },
+  {
+    "id": 2297,
+    "api_id": 458,
+    "name_jp": "後期型電探&逆探+シュノーケル装備",
+    "name_en": "Late Model Radar & Passive Radiolocator + Snorkel Equipment"
+  },
+  {
+    "id": 2298,
+    "api_id": 459,
+    "name_jp": "B-25",
+    "name_en": "B-25"
+  },
+  {
+    "id": 2299,
+    "api_id": 460,
+    "name_jp": "15m二重測距儀改+21号電探改二+熟練射撃指揮所",
+    "name_en": "15m Duplex Rangefinder Kai + Type 21 Radar Kai Ni + Skilled FDC"
+  },
+  {
+    "id": 2300,
+    "api_id": 461,
+    "name_jp": "熟練聴音員+後期型艦首魚雷(4門)",
+    "name_en": "Skilled Sonar Personnel + Late Model Bow Torpedo Mount (4 tubes)"
+  },
+  {
+    "id": 2301,
+    "api_id": 463,
+    "name_jp": "15.5cm三連装副砲改二",
+    "name_en": "15.5cm Triple Secondary Gun Mount Kai Ni"
+  },
+  {
+    "id": 2302,
+    "api_id": 464,
+    "name_jp": "10cm連装高角砲群 集中配備",
+    "name_en": "10cm Twin High-angle Gun Mount Battery Concentrated Deployment"
+  },
+  {
+    "id": 2303,
+    "api_id": 465,
+    "name_jp": "試製51cm三連装砲",
+    "name_en": "Prototype 51cm Triple Gun Mount"
+  },
+  {
+    "id": 2304,
+    "api_id": 466,
+    "name_jp": "流星改(熟練)",
+    "name_en": "Ryuusei Kai (Skilled)"
+  },
+  {
+    "id": 2305,
+    "api_id": 467,
+    "name_jp": "5inch連装砲(副砲配置) 集中配備",
+    "name_en": "5inch Twin Gun Mount (Secondary Armament) Concentrated Deployment"
+  },
+  {
+    "id": 2306,
+    "api_id": 468,
+    "name_jp": "38cm四連装砲改 deux",
+    "name_en": "38cm Quadruple Gun Mount Kai Deux"
+  },
+  {
+    "id": 2307,
+    "api_id": 469,
+    "name_jp": "零式水上偵察機11型乙改(夜偵)",
+    "name_en": "Type 0 Reconnaissance Seaplane Model 11B Kai (Night Recon)"
+  },
+  {
+    "id": 2308,
+    "api_id": 470,
+    "name_jp": "12.7cm連装砲C型改三",
+    "name_en": "12.7cm Twin Gun Model C Kai San"
+  },
+  {
+    "id": 2309,
+    "api_id": 471,
+    "name_jp": "Loire 130M",
+    "name_en": "Loire 130M"
+  },
+  {
+    "id": 2310,
+    "api_id": 472,
+    "name_jp": "Mk.32 対潜魚雷(Mk.2落射機)",
+    "name_en": "Mk.32 ASW Torpedo (Mk.2 Thrower)"
+  },
+  {
+    "id": 2311,
+    "api_id": 473,
+    "name_jp": "F4U-2 Night Corsair",
+    "name_en": "F4U-2 Night Corsair"
+  },
+  {
+    "id": 2312,
+    "api_id": 474,
+    "name_jp": "F4U-4",
+    "name_en": "F4U-4"
+  },
+  {
+    "id": 2313,
+    "api_id": 475,
+    "name_jp": "AU-1",
+    "name_en": "AU-1"
+  },
+  {
+    "id": 2314,
+    "api_id": 476,
+    "name_jp": "F4U-7",
+    "name_en": "F4U-7"
+  },
+  {
+    "id": 2315,
+    "api_id": 477,
+    "name_jp": "熟練甲板要員",
+    "name_en": "Skilled Deck Personnel"
+  },
+  {
+    "id": 2316,
+    "api_id": 478,
+    "name_jp": "熟練甲板要員+航空整備員",
+    "name_en": "Skilled Deck Personnel + Aviation Maintenance Personnel"
+  },
+  {
+    "id": 2317,
+    "api_id": 479,
+    "name_jp": "Mosquito FB Mk.VI",
+    "name_en": "Mosquito FB Mk.VI"
+  },
+  {
+    "id": 2318,
+    "api_id": 480,
+    "name_jp": "Mosquito PR Mk.IV",
+    "name_en": "Mosquito PR Mk.IV"
+  },
+  {
+    "id": 2319,
+    "api_id": 481,
+    "name_jp": "Mosquito TR Mk.33",
+    "name_en": "Mosquito TR Mk.33"
+  },
+  {
+    "id": 2320,
+    "api_id": 482,
+    "name_jp": "特大発動艇+Ⅲ号戦車(北アフリカ仕様)",
+    "name_en": "Toku Daihatsu Landing Craft + Panzer III (North African Corps)"
+  },
+  {
+    "id": 2321,
+    "api_id": 483,
+    "name_jp": "三式弾改二",
+    "name_en": "Type 3 Shell Kai Ni"
+  },
+  {
+    "id": 2322,
+    "api_id": 484,
+    "name_jp": "四式重爆 飛龍(熟練)+イ号一型甲 誘導弾",
+    "name_en": "Type 4 Heavy Bomber Hiryuu (Skilled) + No.1 Model 1A Guided Missile"
+  },
+  {
+    "id": 2323,
+    "api_id": 485,
+    "name_jp": "強風改二",
+    "name_en": "Kyoufuu Kai Ni"
+  },
+  {
+    "id": 2324,
+    "api_id": 486,
+    "name_jp": "零式艦戦64型(制空戦闘機仕様)",
+    "name_en": "Type 0 Fighter Model 64 (Air Superiority Fighter Specification)"
+  },
+  {
+    "id": 2325,
+    "api_id": 487,
+    "name_jp": "零式艦戦64型(熟練爆戦)",
+    "name_en": "Type 0 Fighter Model 64 (Skilled Fighter-Bomber)"
+  },
+  {
+    "id": 2326,
+    "api_id": 488,
+    "name_jp": "二式爆雷改二",
+    "name_en": "Type 2 Depth Charge Kai Ni"
+  },
+  {
+    "id": 2327,
+    "api_id": 489,
+    "name_jp": "一式戦 隼II型改(20戦隊)",
+    "name_en": "Type 1 Fighter Hayabusa Model II Kai (20th Squadron)"
+  },
+  {
+    "id": 2328,
+    "api_id": 1501,
+    "name_jp": "5inch単装砲",
+    "name_en": "5inch Single Gun"
+  },
+  {
+    "id": 2329,
+    "api_id": 1502,
+    "name_jp": "5inch連装砲",
+    "name_en": "5inch Twin Gun"
+  },
+  {
+    "id": 2330,
+    "api_id": 1503,
+    "name_jp": "3inch単装高角砲",
+    "name_en": "3inch Single High-angle"
+  },
+  {
+    "id": 2331,
+    "api_id": 1504,
+    "name_jp": "5inch単装高射砲",
+    "name_en": "5inch Single AA Gun"
+  },
+  {
+    "id": 2332,
+    "api_id": 1505,
+    "name_jp": "8inch三連装砲",
+    "name_en": "8inch Triple Gun"
+  },
+  {
+    "id": 2333,
+    "api_id": 1506,
+    "name_jp": "6inch連装速射砲",
+    "name_en": "6inch Twin Rapid-fire Gun"
+  },
+  {
+    "id": 2334,
+    "api_id": 1507,
+    "name_jp": "14inch連装砲",
+    "name_en": "14inch Twin Gun"
+  },
+  {
+    "id": 2335,
+    "api_id": 1508,
+    "name_jp": "16inch連装砲",
+    "name_en": "16inch Twin Gun"
+  },
+  {
+    "id": 2336,
+    "api_id": 1509,
+    "name_jp": "16inch三連装砲",
+    "name_en": "16inch Triple Gun"
+  },
+  {
+    "id": 2337,
+    "api_id": 1510,
+    "name_jp": "5inch単装高射砲",
+    "name_en": "5inch Single AA Gun"
+  },
+  {
+    "id": 2338,
+    "api_id": 1511,
+    "name_jp": "6inch単装砲",
+    "name_en": "6inch Single Gun"
+  },
+  {
+    "id": 2339,
+    "api_id": 1512,
+    "name_jp": "12.5inch連装副砲",
+    "name_en": "12.5inch Twin Secondary Gun"
+  },
+  {
+    "id": 2340,
+    "api_id": 1513,
+    "name_jp": "21inch魚雷前期型",
+    "name_en": "21inch Torpedo Mk.I"
+  },
+  {
+    "id": 2341,
+    "api_id": 1514,
+    "name_jp": "21inch魚雷後期型",
+    "name_en": "21inch Torpedo Mk.II"
+  },
+  {
+    "id": 2342,
+    "api_id": 1515,
+    "name_jp": "高速深海魚雷",
+    "name_en": "High-speed Abyssal Torpedo"
+  },
+  {
+    "id": 2343,
+    "api_id": 1516,
+    "name_jp": "深海棲艦攻",
+    "name_en": "Abyssal Torpedo Bomber Mk.I"
+  },
+  {
+    "id": 2344,
+    "api_id": 1517,
+    "name_jp": "深海棲艦攻 Mark.II",
+    "name_en": "Abyssal Torpedo Bomber Mk.II"
+  },
+  {
+    "id": 2345,
+    "api_id": 1518,
+    "name_jp": "深海棲艦攻 Mark.III",
+    "name_en": "Abyssal Torpedo Bomber Mk.III"
+  },
+  {
+    "id": 2346,
+    "api_id": 1519,
+    "name_jp": "深海棲艦戦",
+    "name_en": "Abyssal Fighter Mk.I"
+  },
+  {
+    "id": 2347,
+    "api_id": 1520,
+    "name_jp": "深海棲艦戦 Mark.II",
+    "name_en": "Abyssal Fighter Mk.II"
+  },
+  {
+    "id": 2348,
+    "api_id": 1521,
+    "name_jp": "深海棲艦戦 Mark.III",
+    "name_en": "Abyssal Fighter Mk.III"
+  },
+  {
+    "id": 2349,
+    "api_id": 1522,
+    "name_jp": "飛び魚艦戦",
+    "name_en": "Flying-fish Abyssal Fighter"
+  },
+  {
+    "id": 2350,
+    "api_id": 1523,
+    "name_jp": "深海棲艦爆",
+    "name_en": "Abyssal Dive Bomber Mk.I"
+  },
+  {
+    "id": 2351,
+    "api_id": 1524,
+    "name_jp": "深海棲艦爆 Mark.II",
+    "name_en": "Abyssal Dive Bomber Mk.II"
+  },
+  {
+    "id": 2352,
+    "api_id": 1525,
+    "name_jp": "深海棲艦偵察機",
+    "name_en": "Abyssal Recon Plane"
+  },
+  {
+    "id": 2353,
+    "api_id": 1526,
+    "name_jp": "飛び魚偵察機",
+    "name_en": "Flying-fish Abyssal Recon Plane"
+  },
+  {
+    "id": 2354,
+    "api_id": 1527,
+    "name_jp": "対空レーダ― Mark.I",
+    "name_en": "Air RADAR Mk.I"
+  },
+  {
+    "id": 2355,
+    "api_id": 1528,
+    "name_jp": "水上レーダ― Mark.I",
+    "name_en": "Surface RADAR Mk.I"
+  },
+  {
+    "id": 2356,
+    "api_id": 1529,
+    "name_jp": "水上レーダ― Mark.II",
+    "name_en": "Surface RADAR Mk.II"
+  },
+  {
+    "id": 2357,
+    "api_id": 1530,
+    "name_jp": "対空レーダ― Mark.II",
+    "name_en": "Air RADAR Mk.II"
+  },
+  {
+    "id": 2358,
+    "api_id": 1531,
+    "name_jp": "深海水上レーダー",
+    "name_en": "Abyssal Surface RADAR"
+  },
+  {
+    "id": 2359,
+    "api_id": 1532,
+    "name_jp": "深海対空レーダ―",
+    "name_en": "Abyssal Air RADAR"
+  },
+  {
+    "id": 2360,
+    "api_id": 1533,
+    "name_jp": "改良型深海タービン",
+    "name_en": "Improved Abyssal Turbine"
+  },
+  {
+    "id": 2361,
+    "api_id": 1534,
+    "name_jp": "強化型深海缶",
+    "name_en": "Enhanced Abyssal Engine"
+  },
+  {
+    "id": 2362,
+    "api_id": 1535,
+    "name_jp": "対空散弾",
+    "name_en": "Abyssal Anti-air Dispersal Shell"
+  },
+  {
+    "id": 2363,
+    "api_id": 1536,
+    "name_jp": "劣化徹甲弾",
+    "name_en": "Deterioration Armor Piercing Shell"
+  },
+  {
+    "id": 2364,
+    "api_id": 1537,
+    "name_jp": "12.7mm機銃",
+    "name_en": "12.7mm Abyssal Autocannon"
+  },
+  {
+    "id": 2365,
+    "api_id": 1538,
+    "name_jp": "20mm機銃",
+    "name_en": "20mm Abyssal Autocannon"
+  },
+  {
+    "id": 2366,
+    "api_id": 1539,
+    "name_jp": "40mm二連装機関砲",
+    "name_en": "40mm Abyssal Twin Autocannon"
+  },
+  {
+    "id": 2367,
+    "api_id": 1540,
+    "name_jp": "40mm四連装機関砲",
+    "name_en": "40mm Abyssal Quadruple Autocannon"
+  },
+  {
+    "id": 2368,
+    "api_id": 1541,
+    "name_jp": "深海烏賊魚雷",
+    "name_en": "Abyssal Cuttlefish Torpedo"
+  },
+  {
+    "id": 2369,
+    "api_id": 1542,
+    "name_jp": "深海爆雷投射機",
+    "name_en": "Abyssal Depth Charge"
+  },
+  {
+    "id": 2370,
+    "api_id": 1543,
+    "name_jp": "深海ソナー",
+    "name_en": "Abyssal SONAR"
+  },
+  {
+    "id": 2371,
+    "api_id": 1544,
+    "name_jp": "深海爆雷投射機 Mk.II",
+    "name_en": "Abyssal Depth Charge Mk.II"
+  },
+  {
+    "id": 2372,
+    "api_id": 1545,
+    "name_jp": "深海ソナー Mk.II",
+    "name_en": "Abyssal SONAR Mk.II"
+  },
+  {
+    "id": 2373,
+    "api_id": 1546,
+    "name_jp": "飛び魚艦爆",
+    "name_en": "Flying-fish Abyssal Dive Bomber"
+  },
+  {
+    "id": 2374,
+    "api_id": 1547,
+    "name_jp": "深海猫艦戦",
+    "name_en": "Abyssal Cat Fighter"
+  },
+  {
+    "id": 2375,
+    "api_id": 1548,
+    "name_jp": "深海地獄艦爆",
+    "name_en": "Abyssal Hell Diver"
+  },
+  {
+    "id": 2376,
+    "api_id": 1549,
+    "name_jp": "深海復讐艦攻",
+    "name_en": "Abyssal Avenger Torpedo Bomber"
+  },
+  {
+    "id": 2377,
+    "api_id": 1550,
+    "name_jp": "5inch連装両用莢砲",
+    "name_en": "5inch Twin Dual Purpose Gun"
+  },
+  {
+    "id": 2378,
+    "api_id": 1551,
+    "name_jp": "20inch連装砲",
+    "name_en": "20inch Twin Gun"
+  },
+  {
+    "id": 2379,
+    "api_id": 1552,
+    "name_jp": "15inch要塞砲",
+    "name_en": "15inch Fortress Gun"
+  },
+  {
+    "id": 2380,
+    "api_id": 1553,
+    "name_jp": "4inch連装両用砲+CIC",
+    "name_en": "4inch Dual Purpose Gun+CIC"
+  },
+  {
+    "id": 2381,
+    "api_id": 1554,
+    "name_jp": "深海水上攻撃機",
+    "name_en": "Abyssal Attack Seaplane"
+  },
+  {
+    "id": 2382,
+    "api_id": 1555,
+    "name_jp": "深海水上攻撃機改",
+    "name_en": "Abyssal Attack Seaplane Kai"
+  },
+  {
+    "id": 2383,
+    "api_id": 1556,
+    "name_jp": "深海猫艦戦改",
+    "name_en": "Abyssal Cat Fighter Kai"
+  },
+  {
+    "id": 2384,
+    "api_id": 1557,
+    "name_jp": "深海地獄艦爆改",
+    "name_en": "Abyssal Hell Diver Kai"
+  },
+  {
+    "id": 2385,
+    "api_id": 1558,
+    "name_jp": "深海復讐艦攻改",
+    "name_en": "Abyssal Avenger Torpedo Bomber Kai"
+  },
+  {
+    "id": 2386,
+    "api_id": 1559,
+    "name_jp": "深海FCS+CIC",
+    "name_en": "Abyssal FCS+CIC"
+  },
+  {
+    "id": 2387,
+    "api_id": 1560,
+    "name_jp": "深海探照灯",
+    "name_en": "Abyssal Searchlight"
+  },
+  {
+    "id": 2388,
+    "api_id": 1561,
+    "name_jp": "深海解放陸爆",
+    "name_en": "Abyssal Liberation Land-based Dive Bomber"
+  },
+  {
+    "id": 2389,
+    "api_id": 1562,
+    "name_jp": "深海解放陸爆Ace",
+    "name_en": "Abyssal Liberation Land-based Dive Bomber Ace"
+  },
+  {
+    "id": 2390,
+    "api_id": 1563,
+    "name_jp": "8inch長射程連装砲",
+    "name_en": "8inch Long Range Twin Gun"
+  },
+  {
+    "id": 2391,
+    "api_id": 1564,
+    "name_jp": "深海水上偵察観測機",
+    "name_en": "Abyssal Recon Observation Seaplane"
+  },
+  {
+    "id": 2392,
+    "api_id": 1565,
+    "name_jp": "5inch沿岸設置砲",
+    "name_en": "5inch Coastal Gun"
+  },
+  {
+    "id": 2393,
+    "api_id": 1566,
+    "name_jp": "深海猫艦戦(爆装)",
+    "name_en": "Abyssal Cat Fighter (Bombing)"
+  },
+  {
+    "id": 2394,
+    "api_id": 1567,
+    "name_jp": "沿岸設置レーダー",
+    "name_en": "Coastal Radar"
+  },
+  {
+    "id": 2395,
+    "api_id": 1568,
+    "name_jp": "16inch三連装砲",
+    "name_en": "16inch Triple Gun"
+  },
+  {
+    "id": 2396,
+    "api_id": 1569,
+    "name_jp": "深海偵察飛行艇",
+    "name_en": "Abyssal Recon Flying Boat"
+  },
+  {
+    "id": 2397,
+    "api_id": 1570,
+    "name_jp": "高速深海魚雷 mod.2",
+    "name_en": "High-speed Abyssal Torpedo mod.2"
+  },
+  {
+    "id": 2398,
+    "api_id": 1571,
+    "name_jp": "深海水母小鬼機",
+    "name_en": "Abyssal Seaplane Tender Imp Aircraft"
+  },
+  {
+    "id": 2399,
+    "api_id": 1572,
+    "name_jp": "深海熊猫艦戦",
+    "name_en": "Abyssal Bearcat Fighter"
+  },
+  {
+    "id": 2400,
+    "api_id": 1573,
+    "name_jp": "深海潜水下駄履き",
+    "name_en": "Abyssal Submarine Floatplane"
+  },
+  {
+    "id": 2401,
+    "api_id": 1574,
+    "name_jp": "深海攻撃哨戒鷹",
+    "name_en": "Abyssal Patrolling Attack Hawk"
+  },
+  {
+    "id": 2402,
+    "api_id": 1575,
+    "name_jp": "深海攻撃哨戒鷹改",
+    "name_en": "Abyssal Patrolling Attack Hawk Kai"
+  },
+  {
+    "id": 2403,
+    "api_id": 1576,
+    "name_jp": "深海12inch三連装砲",
+    "name_en": "Abyssal 12inch Triple Gun"
+  },
+  {
+    "id": 2404,
+    "api_id": 1577,
+    "name_jp": "深海15inch四連装砲",
+    "name_en": "Abyssal 15inch Quadruple Gun"
+  },
+  {
+    "id": 2405,
+    "api_id": 1578,
+    "name_jp": "深海15inch連装砲後期型",
+    "name_en": "Abyssal 15inch Twin Gun Late Model"
+  },
+  {
+    "id": 2406,
+    "api_id": 1579,
+    "name_jp": "深海14inch海峡連装砲",
+    "name_en": "Abyssal 14inch Strait Twin Gun"
+  },
+  {
+    "id": 2407,
+    "api_id": 1580,
+    "name_jp": "深海待伏魚雷",
+    "name_en": "Abyssal Ambush Torpedo"
+  },
+  {
+    "id": 2408,
+    "api_id": 1581,
+    "name_jp": "深海待伏魚雷",
+    "name_en": "Abyssal Ambush Torpedo"
+  },
+  {
+    "id": 2409,
+    "api_id": 1582,
+    "name_jp": "夜深海艦爆",
+    "name_en": "Abyssal Night Dive Bomber"
+  },
+  {
+    "id": 2410,
+    "api_id": 1583,
+    "name_jp": "夜復讐深海艦攻",
+    "name_en": "Abyssal Night Revenge Torpedo Bomber"
+  },
+  {
+    "id": 2411,
+    "api_id": 1584,
+    "name_jp": "深海14inch連装砲改",
+    "name_en": "Abyssal 14inch Twin Gun Kai"
+  },
+  {
+    "id": 2412,
+    "api_id": 1585,
+    "name_jp": "深海16inch三連装砲改",
+    "name_en": "Abyssal 16inch Triple Gun Kai"
+  },
+  {
+    "id": 2413,
+    "api_id": 1586,
+    "name_jp": "深海攻撃哨戒鷹改二",
+    "name_en": "Abyssal Patrolling Attack Hawk Kai Ni"
+  },
+  {
+    "id": 2414,
+    "api_id": 1587,
+    "name_jp": "深海16inch三連装砲改二",
+    "name_en": "Abyssal 16inch Triple Gun Kai Ni"
+  },
+  {
+    "id": 2415,
+    "api_id": 1588,
+    "name_jp": "深海5inch連装砲C型",
+    "name_en": "Abyssal 5inch Twin Gun Model C"
+  },
+  {
+    "id": 2416,
+    "api_id": 1589,
+    "name_jp": "深海5.5inch連装砲改",
+    "name_en": "Abyssal 5.5inch Twin Gun Kai"
+  },
+  {
+    "id": 2417,
+    "api_id": 1590,
+    "name_jp": "深海標的",
+    "name_en": "Abyssal Target"
+  },
+  {
+    "id": 2418,
+    "api_id": 1591,
+    "name_jp": "深海5inch単装砲 Mk.30",
+    "name_en": "Abyssal 5inch Single Gun Mk.30"
+  },
+  {
+    "id": 2419,
+    "api_id": 1592,
+    "name_jp": "深海16inch Mk.VIII連装砲改",
+    "name_en": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai"
+  },
+  {
+    "id": 2420,
+    "api_id": 1593,
+    "name_jp": "高速深海魚雷 mod.3",
+    "name_en": "High-speed Abyssal Torpedo mod.3"
+  },
+  {
+    "id": 2421,
+    "api_id": 1594,
+    "name_jp": "深海空要塞(偵察型)",
+    "name_en": "Abyssal Sky Fortress (Reconnaissance Model)"
+  },
+  {
+    "id": 2422,
+    "api_id": 1595,
+    "name_jp": "深海空要塞Ace(偵察型)",
+    "name_en": "Abyssal Sky Fortress Ace (Reconnaissance Model)"
+  },
+  {
+    "id": 2423,
+    "api_id": 1596,
+    "name_jp": "深海6inch三連装新型速射砲",
+    "name_en": "Abyssal New Model 6inch Triple Rapid Fire Gun Mount"
+  },
+  {
+    "id": 2424,
+    "api_id": 1597,
+    "name_jp": "深海空要塞(重爆型)",
+    "name_en": "Abyssal Sky Fortress (Heavy Bomber Model)"
+  },
+  {
+    "id": 2425,
+    "api_id": 1598,
+    "name_jp": "深海空要塞Ace(重爆型)",
+    "name_en": "Abyssal Sky Fortress Ace (Heavy Bomber Model)"
+  },
+  {
+    "id": 2426,
+    "api_id": 1599,
+    "name_jp": "深海4.7inch砲 Mk.XII",
+    "name_en": "Abyssal 4.7inch Gun Mk.XII"
+  },
+  {
+    "id": 2427,
+    "api_id": 1600,
+    "name_jp": "深海8inch連装速射砲",
+    "name_en": "Abyssal 8inch Twin Rapid Fire Gun Mount"
+  },
+  {
+    "id": 2428,
+    "api_id": 1601,
+    "name_jp": "深海8inch三連装砲 Mk.9",
+    "name_en": "Abyssal 8inch Triple Gun Mount Mk.9"
+  },
+  {
+    "id": 2429,
+    "api_id": 1602,
+    "name_jp": "深海5inch連装両用砲(集中配備)",
+    "name_en": "Abyssal 5inch Twin Dual-purpose Gun Mount (Concentrated Deployment)"
+  },
+  {
+    "id": 2430,
+    "api_id": 1603,
+    "name_jp": "深海対空レーダーMark.III+FCS",
+    "name_en": "Abyssal Air Radar Mark.III + FCS"
+  },
+  {
+    "id": 2431,
+    "api_id": 1604,
+    "name_jp": "深海5inch連装砲A型",
+    "name_en": "Abyssal 5inch Twin Gun Model A"
+  },
+  {
+    "id": 2432,
+    "api_id": 1605,
+    "name_jp": "深海潜水艦搭載電子兵装",
+    "name_en": "Abyssal Submarine Electronic Armament"
+  },
+  {
+    "id": 2433,
+    "api_id": 1606,
+    "name_jp": "深海5inch単装高角砲改二",
+    "name_en": "Abyssal 5inch Single High-angle Gun Kai Ni"
+  },
+  {
+    "id": 2434,
+    "api_id": 1607,
+    "name_jp": "深海5inch連装高角砲改二",
+    "name_en": "Abyssal 5inch Twin High-angle Gun Kai Ni"
+  },
+  {
+    "id": 2435,
+    "api_id": 1608,
+    "name_jp": "深海夜間航空作戦装備",
+    "name_en": "Abyssal Night Operation Aviation Equipment"
+  },
+  {
+    "id": 2436,
+    "api_id": 1609,
+    "name_jp": "深海16inch三連装砲 Mk6",
+    "name_en": "Abyssal 16inch Triple Gun Mount Mk.6"
+  },
+  {
+    "id": 2437,
+    "api_id": 1610,
+    "name_jp": "深海カモメ水偵",
+    "name_en": "Abyssal Seagull Reconnaissance Seaplane"
+  },
+  {
+    "id": 2438,
+    "api_id": 1611,
+    "name_jp": "深海海猫水偵",
+    "name_en": "Abyssal Seamew Reconnaissance Seaplane"
+  },
+  {
+    "id": 2439,
+    "api_id": 1612,
+    "name_jp": "深海6inch三連装主砲 Mk.16",
+    "name_en": "Abyssal 6inch Triple Main Gun Mount Mk.16"
+  },
+  {
+    "id": 2440,
+    "api_id": 1613,
+    "name_jp": "地中海12inch/46 連装砲",
+    "name_en": "Mediterranean 12inch/46 Twin Gun Mount"
+  },
+  {
+    "id": 2441,
+    "api_id": 1614,
+    "name_jp": "地中海12inch/46 三連装砲",
+    "name_en": "Mediterranean 12inch/46 Triple Gun Mount"
+  },
+  {
+    "id": 2442,
+    "api_id": 1615,
+    "name_jp": "地中海12.6inch/44 連装砲",
+    "name_en": "Mediterranean 12.6inch/44 Twin Gun Mount"
+  },
+  {
+    "id": 2443,
+    "api_id": 1616,
+    "name_jp": "地中海12.6inch/44 三連装砲",
+    "name_en": "Mediterranean 12.6inch/44 Triple Gun Mount"
+  },
+  {
+    "id": 2444,
+    "api_id": 1617,
+    "name_jp": "夜猫深海艦戦II",
+    "name_en": "Abyssal Night Cat Fighter II"
+  },
+  {
+    "id": 2445,
+    "api_id": 1618,
+    "name_jp": "夜深海艦爆II",
+    "name_en": "Abyssal Night Dive Bomber II"
+  },
+  {
+    "id": 2446,
+    "api_id": 1619,
+    "name_jp": "夜復讐深海艦攻II",
+    "name_en": "Abyssal Night Revenge Torpedo Bomber II"
+  },
+  {
+    "id": 2447,
+    "api_id": 1620,
+    "name_jp": "深海戦爆複座鷹",
+    "name_en": "Abyssal Two-seat Fighter-bomber Hawk"
+  },
+  {
+    "id": 2448,
+    "api_id": 1621,
+    "name_jp": "深海戦爆複座鷹改",
+    "name_en": "Abyssal Two-seat Fighter-bomber Hawk Kai"
+  },
+  {
+    "id": 2449,
+    "api_id": 1622,
+    "name_jp": "深海四連装(酸素)魚雷後期型",
+    "name_en": "Abyssal Quadruple (Oxygen) Torpedo Mount Late Model"
+  },
+  {
+    "id": 2450,
+    "api_id": 1623,
+    "name_jp": "深海5inch連装砲D型",
+    "name_en": "Abyssal 5inch Twin Gun Mount Model D"
+  },
+  {
+    "id": 2451,
+    "api_id": 1624,
+    "name_jp": "深海五連装(酸素)魚雷後期型",
+    "name_en": "Abyssal Quintuple (Oxygen) Torpedo Mount Late Model"
+  },
+  {
+    "id": 2452,
+    "api_id": 1625,
+    "name_jp": "深海双発陸爆",
+    "name_en": "Abyssal Twin-engine Land-based Dive Bomber"
+  },
+  {
+    "id": 2453,
+    "api_id": 1626,
+    "name_jp": "深海双発陸爆Ace",
+    "name_en": "Abyssal Twin-engine Land-based Dive Bomber Ace"
+  },
+  {
+    "id": 2454,
+    "api_id": 1627,
+    "name_jp": "深海5inch連装砲C型",
+    "name_en": "Abyssal 5inch Twin Gun Model C"
+  },
+  {
+    "id": 2455,
+    "api_id": 1630,
+    "name_jp": "深海空超要塞",
+    "name_en": "Abyssal Sky Super Fortress"
+  },
+  {
+    "id": 2456,
+    "api_id": 1631,
+    "name_jp": "深海空超要塞改",
+    "name_en": "Abyssal Sky Super Fortress Kai"
+  },
+  {
+    "id": 2458,
+    "api_id": 490,
+    "name_jp": "試製 夜間瑞雲(攻撃装備)",
+    "name_en": "Prototype Night Zuiun (Attack Equipment)"
+  },
+  {
+    "id": 2459,
+    "api_id": 491,
+    "name_jp": "一式戦 隼III型改(熟練/20戦隊)",
+    "name_en": "Type 1 Fighter Hayabusa Model III Kai (Skilled/20th Squadron)"
+  },
+  {
+    "id": 2460,
+    "api_id": 265,
+    "name_jp": "紫電改(三四三空) 戦闘407",
+    "name_en": "Shiden Kai (343rd Air Group) 407th Fighter Squadron"
+  },
+  {
+    "id": 2461,
+    "api_id": 1632,
+    "name_jp": "深海航空整備蟲",
+    "name_en": "Abyssal Aviation Maintenance Bugs"
+  },
+  {
+    "id": 2462,
+    "api_id": 1633,
+    "name_jp": "深海航空整備蟲pro",
+    "name_en": "Abyssal Aviation Maintenance Bugs Pro"
+  },
+  {
+    "id": 2463,
+    "api_id": 492,
+    "name_jp": "零戦52型丙(八幡部隊)",
+    "name_en": "Zero Fighter Type 52 Hei (Yawata Unit)"
+  },
+  {
+    "id": 2464,
+    "api_id": 493,
+    "name_jp": "一式陸攻(八幡部隊)",
+    "name_en": "Type 1 Land-based Attack Aircraft (Yawata Unit)"
+  },
+  {
+    "id": 2465,
+    "api_id": 494,
+    "name_jp": "特大発動艇+チハ",
+    "name_en": "Toku Daihatsu + Chi-Ha"
+  },
+  {
+    "id": 2466,
+    "api_id": 495,
+    "name_jp": "特大発動艇+チハ改",
+    "name_en": "Toku Daihatsu + Chi-Ha Kai"
+  },
+  {
+    "id": 2467,
+    "api_id": 496,
+    "name_jp": "陸軍歩兵部隊",
+    "name_en": "Army Infantry Unit"
+  },
+  {
+    "id": 2468,
+    "api_id": 497,
+    "name_jp": "九七式中戦車(チハ)",
+    "name_en": "Type 97 Medium Tank (Chi-Ha)"
+  },
+  {
+    "id": 2469,
+    "api_id": 1581,
+    "name_jp": "夜猫深海艦戦",
+    "name_en": "Abyssal Night Cat Fighter"
+  },
+  {
+    "id": 2470,
+    "api_id": 498,
+    "name_jp": "九七式中戦車 新砲塔(チハ改)",
+    "name_en": "Type 97 Medium Tank New Turret (Chi-Ha Kai)"
+  },
+  {
+    "id": 2471,
+    "api_id": 499,
+    "name_jp": "陸軍歩兵部隊+チハ改",
+    "name_en": "Army Infantry Corps + Chi-Ha Kai"
+  },
+  {
+    "id": 2472,
+    "api_id": 1635,
+    "name_jp": "深海突破襲撃機",
+    "name_en": "Abyssal Breakthrough Assault Aircraft"
+  },
+  {
+    "id": 2473,
+    "api_id": 1636,
+    "name_jp": "深海突破襲撃機Ace",
+    "name_en": "Abyssal Breakthrough Assault Aircraft Ace"
+  },
+  {
+    "id": 2474,
+    "api_id": 1637,
+    "name_jp": "沿岸突撃半水中魚雷艇",
+    "name_en": "Coastal Ambush Semi-submersible Torpedo Boat"
+  },
+  {
+    "id": 2475,
+    "api_id": 1634,
+    "name_jp": "深海艤装水上汎用襲撃機",
+    "name_en": "Abyssal Rigging General Assault Seaplane"
+  },
+  {
+    "id": 2476,
+    "api_id": 1638,
+    "name_jp": "深海3inch単装高角砲+甲板機銃",
+    "name_en": "Abyssal 3inch Single High-angle Gun Mount + Deck Machine Gun"
+  },
+  {
+    "id": 2477,
+    "api_id": 500,
+    "name_jp": "発煙装置(煙幕)",
+    "name_en": "Smoke Generator (Smoke Screen)",
+    "development": true
+  },
+  {
+    "id": 2478,
+    "api_id": 501,
+    "name_jp": "発煙装置改(煙幕)",
+    "name_en": "Smoke Generator Kai (Smoke Screen)"
+  },
+  {
+    "id": 2479,
+    "api_id": 502,
+    "name_jp": "35.6cm連装砲改三(ダズル迷彩仕様)",
+    "name_en": "35.6cm Twin Gun Mount Kai San (Dazzle Camouflage Specification)"
+  },
+  {
+    "id": 2480,
+    "api_id": 503,
+    "name_jp": "35.6cm連装砲改四",
+    "name_en": "35.6cm Twin Gun Mount Kai Yon"
+  },
+  {
+    "id": 2481,
+    "api_id": 504,
+    "name_jp": "銀河(熟練)",
+    "name_en": "Ginga (Skilled)"
+  },
+  {
+    "id": 2482,
+    "api_id": 505,
+    "name_jp": "25mm対空機銃増備",
+    "name_en": "25mm Anti-aircraft Machine Gun Extra"
+  },
+  {
+    "id": 2483,
+    "api_id": 506,
+    "name_jp": "電探装備マスト(13号改+22号電探改四)",
+    "name_en": "Radar Mast (Type 13 Kai and Type 22 Kai 4 radars)"
+  },
+  {
+    "id": 2484,
+    "api_id": 507,
+    "name_jp": "14inch/45 連装砲",
+    "name_en": "14inch/45 Twin Gun Mount",
+    "development": true
+  },
+  {
+    "id": 2485,
+    "api_id": 508,
+    "name_jp": "14inch/45 三連装砲",
+    "name_en": "14inch/45 Triple Gun Mount"
+  },
+  {
+    "id": 2486,
+    "api_id": 509,
+    "name_jp": "12cm単装高角砲E型改",
+    "name_en": "12cm Single High-angle Gun Model E Kai"
+  },
+  {
+    "id": 2487,
+    "api_id": 510,
+    "name_jp": "Walrus",
+    "name_en": "Walrus"
+  },
+  {
+    "id": 2488,
+    "api_id": 511,
+    "name_jp": "21inch艦首魚雷発射管4門(初期型)",
+    "name_en": "21inch 4-tube Bow Torpedo Launcher (Initial Model)",
+    "development": true
+  },
+  {
+    "id": 2489,
+    "api_id": 512,
+    "name_jp": "21inch艦首魚雷発射管4門(後期型)",
+    "name_en": "21inch 4-tube Bow Torpedo Launcher (Late Model)"
+  },
+  {
+    "id": 2490,
+    "api_id": 1639,
+    "name_jp": "深海水中探信儀 & 深海調整電探",
+    "name_en": "Abyssal Active Sonar & Abyssal Calibrated Radar"
+  },
+  {
+    "id": 2491,
+    "api_id": 513,
+    "name_jp": "阻塞気球",
+    "name_en": "Barrage Balloon"
+  },
+  {
+    "id": 2492,
+    "api_id": 514,
+    "name_jp": "特大発動艇+Ⅲ号戦車J型",
+    "name_en": "Toku Daihatsu Landing Craft + Panzer III Type J"
+  },
+  {
+    "id": 2493,
+    "api_id": 515,
+    "name_jp": "Sea Otter",
+    "name_en": "Sea Otter"
+  },
+  {
+    "id": 2494,
+    "api_id": 516,
+    "name_jp": "Me 262 A-1a/R1",
+    "name_en": "Me 262 A-1a/R1"
+  },
+  {
+    "id": 2495,
+    "api_id": 1640,
+    "name_jp": "深海観測阻塞気球",
+    "name_en": "Abyssal Observation Barrage Balloon"
+  },
+  {
+    "id": 2496,
+    "api_id": 1641,
+    "name_jp": "深海標準14inch/45 連装砲",
+    "name_en": "Abyssal Standard 14inch/45 Twin Gun Mount"
+  },
+  {
+    "id": 2497,
+    "api_id": 1642,
+    "name_jp": "深海標準14inch/45 三連装砲",
+    "name_en": "Abyssal Standard 14inch/45 Triple Gun Mount"
+  },
+  {
+    "id": 2498,
+    "api_id": 1643,
+    "name_jp": "深海3.7cm FlaK",
+    "name_en": "Abyssal 3.7cm FlaK"
+  },
+  {
+    "id": 2499,
+    "api_id": 517,
+    "name_jp": "逆探(E27)+22号対水上電探改四(後期調整型)",
+    "name_en": "Passive Radiolocator (E27) + Type 22 Surface Radar Kai 4 (Calibrated Late Model)"
+  },
+  {
+    "id": 2500,
+    "api_id": 518,
+    "name_jp": "14cm連装砲改二",
+    "name_en": "14cm Twin Gun Kai Ni"
+  },
+  {
+    "id": 2501,
+    "api_id": 519,
+    "name_jp": "SJレーダー+潜水艦司令塔装備",
+    "name_en": "SJ Radar + Submarine Conning Tower Equipment"
+  },
+  {
+    "id": 2502,
+    "api_id": 520,
+    "name_jp": "試製20.3cm(4号)連装砲",
+    "name_en": "Prototype 20.3cm (no.4) Twin Gun Mount"
+  },
+  {
+    "id": 2503,
+    "api_id": 521,
+    "name_jp": "紫雲(熟練)",
+    "name_en": "Shiun (Skilled)"
+  },
+  {
+    "id": 2504,
+    "api_id": 524,
+    "name_jp": "12cm単装高角砲+25mm機銃増備",
+    "name_en": "12cm Single High-angle Gun + 25mm Machine Gun"
+  },
+  {
+    "id": 2505,
+    "api_id": 522,
+    "name_jp": "零式小型水上機",
+    "name_en": "Type 0 Small Reconnaissance Seaplane"
+  },
+  {
+    "id": 2506,
+    "api_id": 523,
+    "name_jp": "零式小型水上機(熟練)",
+    "name_en": "Type 0 Small Reconnaissance Seaplane (Skilled)"
+  },
+  {
+    "id": 2507,
+    "api_id": 525,
+    "name_jp": "特四式内火艇",
+    "name_en": "Special Type 4 Amphibious Tank"
+  },
+  {
+    "id": 2508,
+    "api_id": 526,
+    "name_jp": "特四式内火艇改",
+    "name_en": "Special Type 4 Amphibious Tank Kai"
+  },
+  {
+    "id": 2509,
+    "api_id": 527,
+    "name_jp": "Type281 レーダー",
+    "name_en": "Type281 Radar"
+  },
+  {
+    "id": 2510,
+    "api_id": 528,
+    "name_jp": "Type274 射撃管制レーダー",
+    "name_en": "Type274 Fire Control Radar"
+  },
+  {
+    "id": 2511,
+    "api_id": 1644,
+    "name_jp": "深海5inch単装砲 Mk.30+GFCS",
+    "name_en": "Abyssal 5inch Single Gun Mount Mk.30 + GFCS"
+  },
+  {
+    "id": 2512,
+    "api_id": 1645,
+    "name_jp": "深海533mm 5連装魚雷+深海SG",
+    "name_en": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG"
+  },
+  {
+    "id": 2513,
+    "api_id": 1646,
+    "name_jp": "深海Hedgehog Mk.10",
+    "name_en": "Abyssal Hedgehog Mk.10"
+  },
+  {
+    "id": 2514,
+    "api_id": 1647,
+    "name_jp": "GFCS+深海5inch連装砲 Mk.32",
+    "name_en": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32"
+  },
+  {
+    "id": 2515,
+    "api_id": 1648,
+    "name_jp": "深海対戦回転翼海鴎",
+    "name_en": "Abyssal Combat Autogyro Seagull"
+  },
+  {
+    "id": 2516,
+    "api_id": 529,
+    "name_jp": "12.7cm連装砲C型改三H",
+    "name_en": "12.7cm Twin Gun Model C Kai San H"
+  },
+  {
+    "id": 2517,
+    "api_id": 530,
+    "name_jp": "35.6cm連装砲改三丙",
+    "name_en": "35.6cm Twin Gun Mount Kai San C"
+  },
+  {
+    "id": 2518,
+    "api_id": 531,
+    "name_jp": "艦隊通信アンテナ",
+    "name_en": "Fleet Communication Antenna"
+  },
+  {
+    "id": 2519,
+    "api_id": 532,
+    "name_jp": "通信装置&要員",
+    "name_en": "Communication Equipment & Personnel"
+  },
+  {
+    "id": 2520,
+    "api_id": 533,
+    "name_jp": "10cm連装高角砲改+高射装置改",
+    "name_en": "10cm Twin High-angle Mount Kai + Anti-Aircraft Fire Director Kai"
+  }
 ]
