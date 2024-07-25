@@ -1,61 +1,106 @@
-{
-	"Locks": [
-		{"Id":1,"A":175,"R":29,"G":53,"B":209,"Name":"第一艦隊"},
-		{"Id":2,"A":215,"R":56,"G":182,"B":116,"Name":"第二艦隊"},
-		{"Id":3,"A":195,"R":240,"G":203,"B":243,"Name":"第五艦隊"},
-		{"Id":4,"A":170,"R":44,"G":197,"B":245,"Name":"機動部隊"},
-		{"Id":5,"A":200,"R":252,"G":205,"B":33,"Name":"第六艦隊"},
-		{"Id":6,"A":190,"R":131,"G":250,"B":63,"Name":"第三艦隊先遣隊"},
-		{"Id":7,"A":215,"R":202,"G":202,"B":202,"Name":"前衛艦隊"},
-		{"Id":8,"A":195,"R":0,"G":255,"B":11,"Name":"第三艦隊"},
-		{"Id":9,"A":251,"R":221,"G":193,"B":161,"Name":"ウェーキ島輸送部隊"},
-		{"Id":10,"A":255,"R":220,"G":131,"B":0,"Name":"新編竜巻部隊"},
-		{"Id":11,"A":235,"R":191,"G":150,"B":44,"Name":"Z決戦艦隊"}
-	],
-	"Phases": [
-		{"LockGroups":[1],"Name":"E1 G"},
-		{"LockGroups":[1],"Name":"E1 C"},
-		{"LockGroups":[1],"Name":"E1 H"},
-		{"LockGroups":[2],"Name":"E1-1"},
-		{"LockGroups":[2],"Name":"E1 M"},
-		{"LockGroups":[1],"Name":"E1 T"},
-		{"LockGroups":[1],"Name":"E1 R1"},
-		{"LockGroups":[3,1],"Name":"E1-2"},
-		{"LockGroups":[2],"Name":"E2 C"},
-		{"LockGroups":[2],"Name":"E2 D2"},
-		{"LockGroups":[2],"Name":"E2 I"},
-		{"LockGroups":[2],"Name":"E2 J"},
-		{"LockGroups":[4],"Name":"E2-1"},
-		{"LockGroups":[5],"Name":"E2-2"},
-		{"LockGroups":[2],"Name":"E2 F"},
-		{"LockGroups":[2],"Name":"E2 D3"},
-		{"LockGroups":[4],"Name":"E2 R"},
-		{"LockGroups":[5],"Name":"E2 T"},
-		{"LockGroups":[5],"Name":"E2 U"},
-		{"LockGroups":[5],"Name":"E2 W"},
-		{"LockGroups":[6],"Name":"E3 N"},
-		{"LockGroups":[6],"Name":"E3 P"},
-		{"LockGroups":[4],"Name":"E3 O"},
-		{"LockGroups":[4],"Name":"E3-1"},
-		{"LockGroups":[6,7],"Name":"E3-2"},
-		{"LockGroups":[5],"Name":"E3-3"},
-		{"LockGroups":[6,7],"Name":"E3 N"},
-		{"LockGroups":[6,7],"Name":"E3 U"},
-		{"LockGroups":[4],"Name":"E3 C"},
-		{"LockGroups":[4],"Name":"E3 F"},
-		{"LockGroups":[4],"Name":"E3 O2"},
-		{"LockGroups":[4],"Name":"E3 O3"},
-		{"LockGroups":[5],"Name":"E3 Y1"},
-		{"LockGroups":[8],"Name":"E4 A3"},
-		{"LockGroups":[8],"Name":"E4 C"},
-		{"LockGroups":[8],"Name":"E4 D"},
-		{"LockGroups":[8],"Name":"E4 D2"},
-		{"LockGroups":[8],"Name":"E4 C1"},
-		{"LockGroups":[8],"Name":"E4 D1"},
-		{"LockGroups":[8],"Name":"E4 C2"},
-		{"LockGroups":[8],"Name":"E4-1"},
-		{"LockGroups":[9],"Name":"E4-2"},
-		{"LockGroups":[10],"Name":"E4-3"},
-		{"LockGroups":[11],"Name":"E4-4"}
-	]
+﻿{
+  "Locks": [
+    {
+      "Id": 1,
+      "A": 175,
+      "R": 29,
+      "G": 53,
+      "B": 209,
+      "Name": "第一艦隊"
+    },
+    {
+      "Id": 2,
+      "A": 215,
+      "R": 56,
+      "G": 182,
+      "B": 116,
+      "Name": "第二艦隊"
+    },
+    {
+      "Id": 3,
+      "A": 195,
+      "R": 240,
+      "G": 203,
+      "B": 243,
+      "Name": "第五艦隊"
+    },
+    {
+      "Id": 4,
+      "A": 170,
+      "R": 44,
+      "G": 197,
+      "B": 245,
+      "Name": "機動部隊"
+    },
+    {
+      "Id": 5,
+      "A": 200,
+      "R": 252,
+      "G": 205,
+      "B": 33,
+      "Name": "第六艦隊"
+    },
+    {
+      "Id": 6,
+      "A": 190,
+      "R": 131,
+      "G": 250,
+      "B": 63,
+      "Name": "第三艦隊先遣隊"
+    },
+    {
+      "Id": 7,
+      "A": 215,
+      "R": 202,
+      "G": 202,
+      "B": 202,
+      "Name": "前衛艦隊"
+    },
+    {
+      "Id": 8,
+      "A": 195,
+      "R": 0,
+      "G": 255,
+      "B": 11,
+      "Name": "第三艦隊"
+    },
+    {
+      "Id": 9,
+      "A": 251,
+      "R": 221,
+      "G": 193,
+      "B": 161,
+      "Name": "ウェーキ島輸送部隊"
+    },
+    {
+      "Id": 10,
+      "A": 255,
+      "R": 220,
+      "G": 131,
+      "B": 0,
+      "Name": "新編竜巻部隊"
+    },
+    {
+      "Id": 11,
+      "A": 235,
+      "R": 191,
+      "G": 150,
+      "B": 44,
+      "Name": "Z決戦艦隊"
+    }
+  ],
+  "Phases": [
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 G"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 C"
+    }
+  ]
 }
