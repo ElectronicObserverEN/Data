@@ -454,7 +454,7 @@
     "id": 49,
     "start_date": "2024-07-26T00:00:00+00:00",
     "start_time": "11:00:00",
-    "end_time": "23:00:00",
+    "end_time": "22:00:00",
     "name": "Summer 2024 Event Start",
     "description": "- Summer event will start",
     "live_update": false,
