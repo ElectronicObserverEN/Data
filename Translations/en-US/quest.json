@@ -1,5 +1,5 @@
 {
-	"version": "21030441",
+	"version": "21030442",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -1777,6 +1777,13 @@
 		"name": "Carry out a surface ship \"Fleet Air Defense Exercise\"!",
 		"desc_jp": "【艦隊防空演習】「秋月型」駆逐艦を旗艦として他に駆逐艦2隻、航空戦艦2隻以上の艦隊を編成。<br>同演習艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！艦隊の防空、そして護衛は重要だ！",
 		"desc": "Organize a fleet with an Akizuki-class as flagship and have 2BBV and 2DD in your fleet and score A rank four times in PvP"
+	},
+	"373": {
+		"code": "Cy14",
+		"name_jp": "「フランス艦隊」演習！",
+		"name": "[French Fleet] Do Exercises!",
+		"desc_jp": "【フランス艦隊演習】フランス生まれの艦艇を旗艦に配備。同旗艦を含むフランス艦艇3隻以上を<br>配備した演習艦隊を編成。同艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！Merci♪",
+		"desc": "Organize a fleet with three French ships with one as flagship in your fleet and score A+ rank four times in PvP"
 	},
 	"401": {
 		"code": "D1",
