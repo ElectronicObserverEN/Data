@@ -453,12 +453,12 @@
   {
     "id": 49,
     "start_date": "2024-07-26T00:00:00+00:00",
-    "start_time": "1.03:00:00",
-    "end_time": "1.03:00:00",
+    "start_time": "1.02:30:00",
+    "end_time": "1.02:30:00",
     "name": "Summer 2024 Event Start",
     "description": "- Summer event will start",
     "live_update": false,
     "maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1816403846941552977",
-    "maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1816403846941552977"
+    "maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1816835147544822100"
   }
 ]
