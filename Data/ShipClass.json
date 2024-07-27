@@ -734,7 +734,7 @@
   {
     "Id": 1583,
     "ApiId": 125,
-    "NameEnglish": "Nevada CLass",
+    "NameEnglish": "Nevada Class",
     "NameJapanese": "Nevada級"
   },
   {
@@ -772,5 +772,17 @@
     "ApiId": 120,
     "NameEnglish": "No.101 Class",
     "NameJapanese": "第百一号型"
+  },
+  {
+    "Id": 1613,
+    "ApiId": 129,
+    "NameEnglish": "Mogador Class",
+    "NameJapanese": "Mogador級"
+  },
+  {
+    "Id": 1614,
+    "ApiId": 128,
+    "NameEnglish": "La Galissonnière Class",
+    "NameJapanese": "La Galissonnière級"
   }
 ]

@@ -13507,5 +13507,59 @@
     "ShipClassId": 1515,
     "ShipClassApiId": 54,
     "IsFriendly": true
+  },
+  {
+    "Id": 1681,
+    "NameEN": "Mogador",
+    "NameJP": "Mogador",
+    "ApiId": 962,
+    "ShipClassId": 1613,
+    "ShipClassApiId": 129,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1682,
+    "NameEN": "Mogador Kai",
+    "NameJP": "Mogador改",
+    "ApiId": 967,
+    "ShipClassId": 1613,
+    "ShipClassApiId": 129,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1683,
+    "NameEN": "Gloire",
+    "NameJP": "Gloire",
+    "ApiId": 965,
+    "ShipClassId": 1614,
+    "ShipClassApiId": 128,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1684,
+    "NameEN": "Gloire Kai",
+    "NameJP": "Gloire改",
+    "ApiId": 970,
+    "ShipClassId": 1614,
+    "ShipClassApiId": 128,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1685,
+    "NameEN": "Valiant Kai",
+    "NameJP": "Valiant改",
+    "ApiId": 733,
+    "ShipClassId": 1525,
+    "ShipClassApiId": 67,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1686,
+    "NameEN": "Valiant",
+    "NameJP": "Valiant",
+    "ApiId": 927,
+    "ShipClassId": 1525,
+    "ShipClassApiId": 67,
+    "IsFriendly": true
   }
 ]
