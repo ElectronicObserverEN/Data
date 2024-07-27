@@ -33,5 +33,114 @@
       "Name": "Force M"
     }
   ],
-  "Phases": []
+  "Phases": [
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 C2"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 F"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 H"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 B"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 L"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1-1"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E2-1"
+    },
+    {
+      "LockGroups": [
+        2
+      ],
+      "Name": "E2 M"
+    },
+    {
+      "LockGroups": [
+        2
+      ],
+      "Name": "E2 R"
+    },
+    {
+      "LockGroups": [
+        2
+      ],
+      "Name": "E2 Q"
+    },
+    {
+      "LockGroups": [
+        2
+      ],
+      "Name": "E2-2"
+    },
+    {
+      "LockGroups": [
+        2
+      ],
+      "Name": "E2-3"
+    },
+    {
+      "LockGroups": [
+        3
+      ],
+      "Name": "E3 B2"
+    },
+    {
+      "LockGroups": [
+        3
+      ],
+      "Name": "E3 C2"
+    },
+    {
+      "LockGroups": [
+        3
+      ],
+      "Name": "E3-1"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E3-2"
+    },
+    {
+      "LockGroups": [
+        4
+      ],
+      "Name": "E3-3"
+    },
+    {
+      "LockGroups": [
+        4
+      ],
+      "Name": "E3-4"
+    }
+  ]
 }
