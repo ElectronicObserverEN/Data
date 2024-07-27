@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030275",
+  "version": "21030276",
   "equipment": {
     "12cm単装砲": "12cm Single Gun",
     "12.7cm連装砲": "12.7cm Twin Gun",
@@ -673,7 +673,12 @@
     "深海533mm 5連装魚雷+深海SG": "Abyssal 533mm Quintuple Torpedo Mount + Abyssal SG",
     "深海Hedgehog Mk.10": "Abyssal Hedgehog Mk.10",
     "GFCS+深海5inch連装砲 Mk.32": "GFCS + Abyssal 5inch Twin Gun Mount Mk.32",
-    "深海対戦回転翼海鴎": "Abyssal Combat Autogyro Seagull"
+    "深海対戦回転翼海鴎": "Abyssal Combat Autogyro Seagull",
+    "13.8cm連装砲": "13.8cm Twin Gun",
+    "13.8cm連装砲改": "13.8cm Twin Gun Kai",
+    "15.2cm三連装主砲": "15.2cm Triple Main Gun",
+    "15.2cm三連装主砲改": "15.2cm Triple Main Gun Kai",
+    "Loire 130M改(熟練)": "Loire 130M Kai (Skilled)"
   },
   "equiptype": {
     "小口径主砲": "Small-caliber Gun",

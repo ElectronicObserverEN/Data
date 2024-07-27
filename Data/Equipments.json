@@ -4156,5 +4156,35 @@
     "api_id": 533,
     "name_jp": "10cm連装高角砲改+高射装置改",
     "name_en": "10cm Twin High-angle Mount Kai + Anti-Aircraft Fire Director Kai"
+  },
+  {
+    "id": 2521,
+    "api_id": 534,
+    "name_jp": "13.8cm連装砲",
+    "name_en": "13.8cm Twin Gun"
+  },
+  {
+    "id": 2522,
+    "api_id": 535,
+    "name_jp": "13.8cm連装砲改",
+    "name_en": "13.8cm Twin Gun Kai"
+  },
+  {
+    "id": 2523,
+    "api_id": 536,
+    "name_jp": "15.2cm三連装主砲",
+    "name_en": "15.2cm Triple Main Gun"
+  },
+  {
+    "id": 2524,
+    "api_id": 537,
+    "name_jp": "15.2cm三連装主砲改",
+    "name_en": "15.2cm Triple Main Gun Kai"
+  },
+  {
+    "id": 2525,
+    "api_id": 538,
+    "name_jp": "Loire 130M改(熟練)",
+    "name_en": "Loire 130M Kai (Skilled)"
   }
 ]
