@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030157",
+  "version": "21030158",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -468,7 +468,9 @@
     "環礁空母泊地棲姫": "Atoll Aircraft Carrier Anchorage Princess",
     "深海伊号水姫": "Abyssal I-go Water Princess",
     "伊41": "I-41",
-    "新量産空母棲姫": "New Mass-Produced Aircraft Carrier Princess"
+    "新量産空母棲姫": "New Mass-Produced Aircraft Carrier Princess",
+    "飛行場夏姫": "Airfield Summer Princess",
+    "軽巡仏棲姫": "French Light Cruiser Princess"
   },
   "class": {
     "綾波型": "Ayanami Class",
@@ -643,7 +645,8 @@
     "(哨戒機配備)": "Patrol Aircraft Deployment",
     "戦": "Sen",
     "丸": "Maru",
-    "IV": "IV"
+    "IV": "IV",
+    "休日mode": "Holiday Mode"
   },
   "stype": {
     "海防艦": "DE",
