@@ -1,5 +1,5 @@
 {
-	"version": "20071540",
+	"version": "20071541",
 	"map": {
 		"南西諸島近海": "Adjacent Seas of Southwest Islands",
 		"バシー海峡": "Bashi Strait",
@@ -103,7 +103,6 @@
 		"南沙諸島沖/カムラン湾沖": "Off Spratly Islands / Off Cam Ranh Bay",
 		"八戸港沖/三陸沖": "Off Hachinohe Port / Off Sanriku",
 		"津軽海峡/北海道釧路沖": "Tsugaru Strait / Off Kushiro, Hokkaido",
-		"": " (57-7)",
 		"大西洋/イギリス海峡沖": "Atlantic Ocean/Off the English Channel",
 		"ポートランド島沖/ライム湾": "Off Portland/Lyme Bay",
 		"ノルマンディー沖": "Off Normandy",
@@ -117,9 +116,12 @@
 		"日本列島沖/呉Q基地": "Off the coast of the Japanese archipelago/Kure Q base",
 		"九州南方沖/マリアナ諸島方面": "Off the southern coast of Kyushu/Mariana Islands",
 		"マリアナ諸島/ウルシー環礁沖": "Off the coast of Mariana Islands/Ulithi Atoll",
-		"#E4": "#E4",
 		"2024冬イベ": "Spring 2024 Event",
-		"サイパン沖/マーシャル諸島沖正面": "Off the coast of Saipan / Off the coast of the Marshall Islands"
+		"サイパン沖/マーシャル諸島沖正面": "Off the coast of Saipan / Off the coast of the Marshall Islands",
+		"ケルト海/イギリス海峡": "Celtic Sea / English Channel",
+		"ジブラルタル/アルボラン海": "Gibraltar / Alboran Sea",
+		"北大西洋/フリータウン/ダカール": "North Atlantic / Freetown / Dakar",
+		"Operation Menace": "Operation Menace"
 	},
 	"fleet": {
 		"渦潮": "Whirlpool",
