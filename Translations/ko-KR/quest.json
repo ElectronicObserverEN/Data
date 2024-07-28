@@ -1,5 +1,5 @@
 {
-	"version": "21030450",
+	"version": "21030451",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -850,9 +850,9 @@
 	"226": {
 		"code": "Bd7",
 		"name_jp": "南西諸島海域の制海権を握れ！",
-		"name": "Gain Control of the Nansei Islands",
+		"name": "남서제도해역의 제해권을 장악하라!",
 		"desc_jp": "艦隊を南西諸島海域に全力出撃させ、多数の敵艦隊「主力」群を捕捉、撃滅せよ！",
-		"desc": "Defeat 5 bosses in World 2."
+		"desc": "함대를 남서제도해역에 전력 출격시켜 다수의 적함대 주력군을 포착하여 격파하라!"
 	},
 	"227": {
 		"code": "B16",
@@ -864,23 +864,23 @@
 	"228": {
 		"code": "Bw5",
 		"name_jp": "海上護衛戦",
-		"name": "Naval Escort Operation",
+		"name": "해상호위전",
 		"desc_jp": "有力な対潜能力を持つ海上護衛隊によって、可能な限り多くの敵潜水艦を撃滅せよ！",
-		"desc": "Sink 15 enemy submarines."
+		"desc": "유력한 대잠능력을 가진 해상호위대로 가능한 많은 수의 잠수함을 격멸하라!"
 	},
 	"229": {
 		"code": "Bw6",
 		"name_jp": "敵東方艦隊を撃滅せよ！",
-		"name": "Eliminate the Enemy's Eastern Fleet",
+		"name": "적 동방함대를 격멸하라!",
 		"desc_jp": "西方海域に出撃し、敵東方艦隊の主力を捕捉、これを撃滅せよ！",
-		"desc": "Defeat 12 bosses in World 4."
+		"desc": "서방해역에 출격하여, 적 동방함대의 주력을 포착, 격멸하라!"
 	},
 	"230": {
 		"code": "Bd8",
 		"name_jp": "敵潜水艦を制圧せよ！",
-		"name": "Suppress the Enemy Submarines",
+		"name": "적 잠수함을 제압하라!",
 		"desc_jp": "対潜能力の充実した艦隊で出撃、敵潜水艦狩りを実施せよ！",
-		"desc": "Sink 6 enemy submarines."
+		"desc": "대잠능력을 충실히 갖춘 함대로 출격해 적 잠수함 사냥을 실시하라!"
 	},
 	"231": {
 		"code": "B17",
@@ -906,23 +906,23 @@
 	"235": {
 		"code": "B135",
 		"name_jp": "近海哨戒を実施せよ！",
-		"name": "Patrol the Coastal Waters!",
+		"name": "근해 초계를 실시하라!",
 		"desc_jp": "哨戒任務：軽巡級1隻以上、駆逐艦または海防艦計3隻以上による艦隊で、鎮守府海域の南西諸島沖及び<br>製油所地帯沿岸、南西諸島海域の南西諸島近海及びバシー海峡の哨戒を実施、敵を捕捉撃滅せよ！",
-		"desc": "Sortie a fleet with 1 Light Cruiser, 3 Destroyers/Coastal Defense Ships, and up to 2 additional ships to Worlds 1-2, 1-3, 2-1, and 2-2. Obtain an S-rank at each boss node."
+		"desc": "초계 임무 : 경순급 1척 이상, 구축함 또는 해방함 총 3척 이상의 함대로 진수부해역의 남서제도 앞바다 및 제유소 지대 연안, 남서제도 해역의 남서제도 근해 및 바시 해협의 초계를 실시, 적을 포착 격멸하라!"
 	},
 	"236": {
 		"code": "B136",
 		"name_jp": "精鋭「二四駆逐隊」出撃せよ！",
-		"name": "Peerless \"DesDiv 24\", Sortie!",
+		"name": "정예 24구축대 출격하라!",
 		"desc_jp": "二四駆出撃任務：「海風改二」を旗艦とし、「山風」「江風」「涼風」のうち2隻以上を含む艦隊を編成、<br>東部オリョール海、沖ノ島海域、南方海域前面、サブ島沖海域に突入！敵艦隊を捕捉、撃滅せよ！",
-		"desc": "Sortie a fleet with Umikaze Kai Ni as flagship, 2 of Yamakaze, Kawakaze, and Suzukaze, and up to 3 additional ships to Worlds 2-3, 2-4, 5-1, and 5-3. Obtain an S-rank at each boss node."
+		"desc": 24구축대 출격 임무 : 우미카제 改2를 기함으로 야마카제, 카와카제, 스즈카제 중 2척 이상을 포함하는 함대를 편성, 동부 오룔해, 오키노시마 해역, 남방 해역 전면, 사부섬 앞바다 해역에 돌입! 적의 함대를 포착, 격멸하라!"
 	},
 	"237": {
 		"code": "B138",
 		"name_jp": "「羽黒」「神風」、出撃せよ！",
-		"name": "Haguro & Kamikaze, Sortie!",
+		"name": 하구로, 카미카제 출격하라!",
 		"desc_jp": "第五戦隊任務：「羽黒」「神風」を基幹として、他に重巡級1隻駆逐艦2隻、または駆逐艦4隻の<br>艦隊で南西諸島近海、バシー海峡、東部オリョール海に出撃、敵艦隊と交戦、これを撃滅せよ！",
-		"desc": "Sortie a fleet with Haguro, Kamikaze, and either 1 CA and 2 DD (for a total of 5 ships) or 4 DD to World 2-1, 2-2, and 2-3. Obtain a S-rank at each boss node."
+		"desc": "제5전대 임무 : 하구로와 카미카제를 기간으로, 그 외 중순급 1척 구축함 2척, 또는 구축함 4척의 함대로 남서제도 근해, 바시 해협, 동부 오룔해에 출격, 적 함대와 교전, 이를 격멸하라!"
 	},
 	"239": {
 		"code": "B20",
@@ -941,44 +941,44 @@
 	"241": {
 		"code": "Bw7",
 		"name_jp": "敵北方艦隊主力を撃滅せよ！",
-		"name": "Eliminate the Main Forces of the Enemy's Northern Fleet",
+		"name": "적 북방함대 주력을 격멸하라!",
 		"desc_jp": "北方海域の深部に出撃し、敵北方艦隊の主力艦隊を捕捉、これを撃滅せよ！",
-		"desc": "Defeat 5 bosses in Worlds 3-3, 3-4 or 3-5."
+		"desc": "북방해역의 심부에 출격하여 적 북방함대의 주력을 포착, 격멸하라!"
 	},
 	"242": {
 		"code": "Bw8",
 		"name_jp": "敵東方中枢艦隊を撃破せよ！",
-		"name": "Crush the Core of the Eastern Fleet",
+		"name": "적 동방중추함대를 격멸하라!",
 		"desc_jp": "西方海域カスガダマ島沖に出撃し、敵東方中枢艦隊を捕捉、これを撃破せよ！",
-		"desc": "Defeat World 4-4 boss."
+		"desc": "서방해역 카스가다마 섬 앞바다에 출격하여 적 동방중추함대를 포착, 격파하라!"
 	},
 	"243": {
 		"code": "Bw9",
 		"name_jp": "南方海域珊瑚諸島沖の制空権を握れ！",
-		"name": "Seize Air Superiority in the South",
+		"name": "남방해역 산호제도 앞바다의 제공권을 쥐어라!",
 		"desc_jp": "南方海域珊瑚諸島沖に出撃し、敵機動部隊本体を捕捉撃滅、これに完全勝利せよ！",
-		"desc": "Score two S rank victories at the boss node of World 5-2."
+		"desc": "남방해역 산호제도 앞바다에 출격하여 적 기동부대 전체를 격멸, 완전승리하라!"
 	},
 	"244": {
 		"code": "B22",
 		"name_jp": "「第三十駆逐隊(第一次)」出撃せよ！",
-		"name": "Sortie the 30th Destroyer Division (Gen.1)",
+		"name": "제30구축대(제1차) 출격하라!",
 		"desc_jp": "「第三十駆逐隊(第一次)」を含む艦隊で出撃し、キス島沖の主力艦隊と交戦せよ！",
-		"desc": "Sortie a fleet that consists of Mutsuki (睦月), Kisaragi (如月), Yayoi (弥生), Mochizuki (望月) and up to 2 additional DD to World 3-2 and encounter the boss. C rank or above is required."
+		"desc": "제30구축대(제1차)를 포함한 함대로 출격하여 키스 섬 앞바다의 주력함대와 교전하라!"
 	},
 	"245": {
 		"code": "WB01",
 		"name_jp": "式の準備！(最終)",
-		"name": "In Preparation of Love! (Final)",
+		"name": "식의 준비! (최종)",
 		"desc_jp": "練度の高い(Lv.90～99)第一艦隊旗艦で出撃し、オリョール海の暁に勝利を刻め！",
-		"desc": "Sortie a fleet with a high level (Lv.90~99) flagship to 2-3 obtain an S rank victory against the boss."
+		"desc": "숙련도가 높은(Lv.90~99) 칸무스를 제1함대 기함으로 출격하여, 오룔 해(2-3)의 수평선에 승리를 새겨라!"
 	},
 	"246": {
 		"code": "WB02",
 		"name_jp": "二人でする初めての任務！",
-		"name": "Your First Mission Together!",
+		"name": "둘이서 하는 첫 임무!",
 		"desc_jp": "強い絆を結んだ艦娘を旗艦とした第一艦隊でリランカ島へ出撃、敵中枢を撃滅せよ！",
-		"desc": "Sortie a fleet to 4-3 with a bonded ship of Lv.100 or more as flagship and score an S rank victory against the boss."
+		"desc": "강한 연을 맺은 칸무스를 기함으로 한 제1함대로 리랑카 섬(4-3)에 출격하여, 적 중추를 격멸하라!"
 	},
 	"247": {
 		"code": "B23",
