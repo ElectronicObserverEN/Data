@@ -138,6 +138,28 @@
     },
     {
       "LockGroups": [
+        3,
+        4
+      ],
+      "Name": "E3 S"
+    },
+    {
+      "LockGroups": [
+        3,
+        4
+      ],
+      "Name": "E3 V1"
+    },
+    {
+      "LockGroups": [
+        3,
+        4
+      ],
+      "Name": "E3 V3"
+    },
+    {
+      "LockGroups": [
+        3,
         4
       ],
       "Name": "E3-4"
