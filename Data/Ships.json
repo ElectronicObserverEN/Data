@@ -13561,5 +13561,131 @@
     "ShipClassId": 1525,
     "ShipClassApiId": 67,
     "IsFriendly": true
+  },
+  {
+    "Id": 1687,
+    "NameEN": "Airfield Summer Princess",
+    "NameJP": "飛行場夏姫",
+    "ApiId": 2234,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1688,
+    "NameEN": "Airfield Summer Princess",
+    "NameJP": "飛行場夏姫",
+    "ApiId": 2235,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1689,
+    "NameEN": "Airfield Summer Princess",
+    "NameJP": "飛行場夏姫",
+    "ApiId": 2236,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1690,
+    "NameEN": "French Light Cruiser Princess",
+    "NameJP": "軽巡仏棲姫",
+    "ApiId": 2237,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1691,
+    "NameEN": "French Light Cruiser Princess",
+    "NameJP": "軽巡仏棲姫",
+    "ApiId": 2238,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1692,
+    "NameEN": "French Light Cruiser Princess",
+    "NameJP": "軽巡仏棲姫",
+    "ApiId": 2239,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1693,
+    "NameEN": "French Light Cruiser Princess - Damaged",
+    "NameJP": "軽巡仏棲姫-壊",
+    "ApiId": 2240,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1694,
+    "NameEN": "French Light Cruiser Princess - Damaged",
+    "NameJP": "軽巡仏棲姫-壊",
+    "ApiId": 2241,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1695,
+    "NameEN": "French Light Cruiser Princess - Damaged",
+    "NameJP": "軽巡仏棲姫-壊",
+    "ApiId": 2242,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1696,
+    "NameEN": "Harbour Princess Holiday Mode",
+    "NameJP": "港湾棲姫 休日mode",
+    "ApiId": 2243,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1697,
+    "NameEN": "Harbour Princess Holiday Mode",
+    "NameJP": "港湾棲姫 休日mode",
+    "ApiId": 2244,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1698,
+    "NameEN": "Harbour Princess Holiday Mode - Damaged",
+    "NameJP": "港湾棲姫 休日mode-壊",
+    "ApiId": 2245,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1699,
+    "NameEN": "Harbour Princess Holiday Mode - Damaged",
+    "NameJP": "港湾棲姫 休日mode-壊",
+    "ApiId": 2246,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1700,
+    "NameEN": "Richelieu Deux",
+    "NameJP": "Richelieu Deux",
+    "ApiId": 969,
+    "ShipClassId": 1532,
+    "ShipClassApiId": 79,
+    "IsFriendly": true
   }
 ]
