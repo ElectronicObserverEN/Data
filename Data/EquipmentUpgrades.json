@@ -1228,7 +1228,10 @@
     "eq_id": 13,
     "improvement": [
       {
-        "convert": null,
+        "convert": {
+          "id_after": 125,
+          "lvl_after": 0
+        },
         "helpers": [
           {
             "ship_ids": [
@@ -1360,7 +1363,12 @@
         }
       }
     ],
-    "convert_to": [],
+    "convert_to": [
+      {
+        "id_after": 125,
+        "lvl_after": 0
+      }
+    ],
     "upgrade_for": [
       125,
       174,
