@@ -27332,11 +27332,29 @@
             "consumable": []
           },
           "p2": {
-            "devmats": 0,
-            "devmats_sli": 0,
-            "screws": 0,
-            "screws_sli": 0,
-            "equips": [],
+            "devmats": 5,
+            "devmats_sli": 8,
+            "screws": 3,
+            "screws_sli": 4,
+            "equips": [
+              {
+                "id": 5,
+                "eq_count": 2
+              }
+            ],
+            "consumable": []
+          },
+          "conv": {
+            "devmats": 18,
+            "devmats_sli": 26,
+            "screws": 7,
+            "screws_sli": 10,
+            "equips": [
+              {
+                "id": 536,
+                "eq_count": 1
+              }
+            ],
             "consumable": []
           }
         }
