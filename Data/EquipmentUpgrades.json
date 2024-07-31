@@ -21464,7 +21464,18 @@
       },
       {
         "convert": null,
-        "helpers": [],
+        "helpers": [
+          {
+            "ship_ids": [
+              554
+            ],
+            "days": [
+              2,
+              3,
+              4
+            ]
+          }
+        ],
         "costs": {
           "fuel": 240,
           "ammo": 280,
