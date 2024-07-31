@@ -27302,7 +27302,10 @@
     "eq_id": 536,
     "improvement": [
       {
-        "convert": null,
+        "convert": {
+          "id_after": 537,
+          "lvl_after": 0
+        },
         "helpers": [
           {
             "ship_ids": [
@@ -27355,12 +27358,26 @@
                 "eq_count": 1
               }
             ],
-            "consumable": []
+            "consumable": [
+              {
+                "id": 75,
+                "eq_count": 2
+              },
+              {
+                "id": 94,
+                "eq_count": 2
+              }
+            ]
           }
         }
       }
     ],
-    "convert_to": [],
+    "convert_to": [
+      {
+        "id_after": 537,
+        "lvl_after": 0
+      }
+    ],
     "upgrade_for": []
   }
 ]
