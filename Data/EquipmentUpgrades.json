@@ -20374,7 +20374,8 @@
       147,
       294,
       393,
-      455
+      455,
+      534
     ]
   },
   {
@@ -27252,7 +27253,10 @@
     "eq_id": 534,
     "improvement": [
       {
-        "convert": null,
+        "convert": {
+          "id_after": 535,
+          "lvl_after": 0
+        },
         "helpers": [
           {
             "ship_ids": [
@@ -27262,7 +27266,8 @@
             "days": [
               1,
               2,
-              3
+              3,
+              4
             ]
           }
         ],
@@ -27285,17 +27290,49 @@
             "consumable": []
           },
           "p2": {
-            "devmats": 0,
-            "devmats_sli": 0,
-            "screws": 0,
-            "screws_sli": 0,
-            "equips": [],
+            "devmats": 6,
+            "devmats_sli": 8,
+            "screws": 3,
+            "screws_sli": 4,
+            "equips": [
+              {
+                "id": 297,
+                "eq_count": 3
+              }
+            ],
             "consumable": []
+          },
+          "conv": {
+            "devmats": 10,
+            "devmats_sli": 18,
+            "screws": 6,
+            "screws_sli": 8,
+            "equips": [
+              {
+                "id": 534,
+                "eq_count": 2
+              }
+            ],
+            "consumable": [
+              {
+                "id": 75,
+                "eq_count": 1
+              },
+              {
+                "id": 94,
+                "eq_count": 1
+              }
+            ]
           }
         }
       }
     ],
-    "convert_to": [],
+    "convert_to": [
+      {
+        "id_after": 535,
+        "lvl_after": 0
+      }
+    ],
     "upgrade_for": []
   },
   {
