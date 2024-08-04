@@ -25765,7 +25765,8 @@
             ],
             "days": [
               5,
-              6
+              6,
+              0
             ]
           }
         ],
@@ -25803,7 +25804,10 @@
         }
       },
       {
-        "convert": null,
+        "convert": {
+          "id_after": 529,
+          "lvl_after": 0
+        },
         "helpers": [
           {
             "ship_ids": [
@@ -25894,7 +25898,12 @@
         }
       }
     ],
-    "convert_to": [],
+    "convert_to": [
+      {
+        "id_after": 529,
+        "lvl_after": 0
+      }
+    ],
     "upgrade_for": []
   },
   {
