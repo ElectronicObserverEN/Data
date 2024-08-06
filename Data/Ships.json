@@ -13671,15 +13671,6 @@
     "IsFriendly": false
   },
   {
-    "Id": 1699,
-    "NameEN": "Harbour Princess Holiday Mode - Damaged",
-    "NameJP": "港湾棲姫 休日mode-壊",
-    "ApiId": 2246,
-    "ShipClassId": null,
-    "ShipClassApiId": null,
-    "IsFriendly": false
-  },
-  {
     "Id": 1700,
     "NameEN": "Richelieu Deux",
     "NameJP": "Richelieu Deux",
@@ -13687,5 +13678,14 @@
     "ShipClassId": 1532,
     "ShipClassApiId": 79,
     "IsFriendly": true
+  },
+  {
+    "Id": 1701,
+    "NameEN": "Harbour Princess Holiday Mode - Damaged",
+    "NameJP": "港湾棲姫 休日mode-壊",
+    "ApiId": 2246,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
   }
 ]
