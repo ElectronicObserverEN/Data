@@ -1,4 +1,4 @@
-﻿{
+{
   "bld_date": "2024/06/15 15:00:00",
   "ver": "5.3.6",
   "note": "Check github for release notes: https://github.com/ElectronicObserverEN/ElectronicObserver/releases",
@@ -8,7 +8,7 @@
   "nodes": 20071518,
   "QuestTrackers": 203,
   "Locks": 60,
-  "FitBonuses": 36,
+  "FitBonuses": 37,
   "EquipmentUpgrades": 242,
   "kancolle_mt": "2024/07/27 02:30:00",
   "event_state": 0,
