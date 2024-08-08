@@ -1,5 +1,5 @@
 {
-	"version": "21030443",
+	"version": "21030444",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -4353,5 +4353,19 @@
 		"name": "[New Foreign Ship Equipment] Development Of The New Quadruple Main Gun",
 		"desc_jp": "旗艦「Richelieu Deux」第一及び第二スロに「38cm四連装砲改」を装備。開発資材x20及び<br>海外艦最新技術x1を準備。「41cm連装砲」x4を廃棄せよ！(任務達成後資材・装備は消費)",
 		"desc": "Have your secretary flagship Richelieu Deux equip a 38cm Quadruple Gun Kai in the first slot and then proceed to scrap 4x 41cm Twin Gun and have 1x Latest Overseas Warship Technology and 20x Development Materials (All resources and Materials will be consumed upon completion)"
+	},
+	"1141": {
+		"code": "F126",
+		"name_jp": "最新改修型三座水上偵察機の開発",
+		"name": "Development Of The Latest Modified Three-seater Reconnaissance Seaplane",
+		"desc_jp": "旗艦「大和改二/重」または「由良改二」「矢矧改二/乙」第一スロに最大改修「零式水上偵察機11型<br>乙」。「零式水上偵察機」x15廃棄、新型航空兵装資材x2、開発資材x60、夜間熟練搭乗員x1準備！",
+		"desc": "Have your secretary flagship Yamato Kai Ni (Kai Ni Juu) or Yura Kai Ni or Yahagi Kai Ni equip a ★max Type 0 Recon Seaplane Model 11B in the first slot and then proceed to scrap 15x Type 0 Recon Seaplane and have 2x New Model Aerial Armament Materials, 60x Development Material and 1x Night Skilled Crew Member (All resources and Materials will be consumed upon completion)"
+	},
+	"1142": {
+		"code": "F127",
+		"name_jp": "最精鋭「天山」装備艦攻隊の配備",
+		"name": "Deploying The Elite \"Tenzan\" Equipped Attacker Squadron",
+		"desc_jp": "旗艦「翔鶴改二/甲」第一スロに「天山一二型(村田隊)」配備。「天山」x4を廃棄。「天山一二型甲改<br>(空六号電探改装備機)」x1、新型航空兵装資材x2、開発資材x48、夜間熟練搭乗員x1準備！",
+		"desc": "Have your secretary flagship Shoukaku Kai Ni/A equip a Tenzan Model 12 (Murata Squadron) in the first slot and then proceed to scrap 4x Tenzan and have 1x Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai), 2x New Model Aerial Armament Material, 1x Night Skilled Crew Member and 48x Development Materials (All resources and Materials will be consumed upon completion)"
 	}
 }

@@ -9202,5 +9202,57 @@
 		"removed_update_id": null,
 		"season_id": null,
 		"tracker": "[[1016],[[0,[[2,4],6,1]],[0,[[3,5],6,1]],[0,[[5,4],6,1]],[0,[[5,5],6,1]],[0,[[7,4],6,1]]],[0,[[7,[968,true,1,0]]]]]"
+	},
+	{
+		"id": 719,
+		"api_id": 373,
+		"code": "Cy14",
+		"name_jp": "「フランス艦隊」演習！",
+		"name_en": "[French Fleet] Do Exercises!",
+		"desc_jp": "【フランス艦隊演習】フランス生まれの艦艇を旗艦に配備。同旗艦を含むフランス艦艇3隻以上を<br>配備した演習艦隊を編成。同艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！Merci♪",
+		"desc_en": "Organize a fleet with three French ships with one as flagship in your fleet and score A+ rank four times in PvP",
+		"added_update_id": null,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[[373],[[9,[5,4]]],[0,[[6,[[6],3,true,0]]]]]]"
+	},
+	{
+		"id": 720,
+		"api_id": 1140,
+		"code": "F125",
+		"name_jp": "【新鋭海外艦装備】新型四連装主砲の開発",
+		"name_en": "[New Foreign Ship Equipment] Development Of The New Quadruple Main Gun",
+		"desc_jp": "旗艦「Richelieu Deux」第一及び第二スロに「38cm四連装砲改」を装備。開発資材x20及び<br>海外艦最新技術x1を準備。「41cm連装砲」x4を廃棄せよ！(任務達成後資材・装備は消費)",
+		"desc_en": "Have your secretary flagship Richelieu Deux equip a 38cm Quadruple Gun Kai in the first slot and then proceed to scrap 4x 41cm Twin Gun and have 1x Latest Overseas Warship Technology and 20x Development Materials (All resources and Materials will be consumed upon completion)",
+		"added_update_id": null,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[1140],[[3,[8,4]]],[0,[[7,[969,true,1,0]]]]]"
+	},
+	{
+		"id": 721,
+		"api_id": 1141,
+		"code": "F126",
+		"name_jp": "最新改修型三座水上偵察機の開発",
+		"name_en": "Development Of The Latest Modified Three-seater Reconnaissance Seaplane",
+		"desc_jp": "旗艦「大和改二/重」または「由良改二」「矢矧改二/乙」第一スロに最大改修「零式水上偵察機11型<br>乙」。「零式水上偵察機」x15廃棄、新型航空兵装資材x2、開発資材x60、夜間熟練搭乗員x1準備！",
+		"desc_en": "Have your secretary flagship Yamato Kai Ni (Kai Ni Juu) or Yura Kai Ni or Yahagi Kai Ni equip a ★max Type 0 Recon Seaplane Model 11B in the first slot and then proceed to scrap 15x Type 0 Recon Seaplane and have 2x New Model Aerial Armament Materials, 60x Development Material and 1x Night Skilled Crew Member (All resources and Materials will be consumed upon completion)",
+		"added_update_id": null,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[1141],[[3,[25,15]]],[1,[[7,[911,true,1,0]],[7,[663,true,1,0]],[7,[488,true,1,0]]]]]"
+	},
+	{
+		"id": 722,
+		"api_id": 1142,
+		"code": "F127",
+		"name_jp": "最精鋭「天山」装備艦攻隊の配備",
+		"name_en": "Deploying The Elite \"Tenzan\" Equipped Attacker Squadron",
+		"desc_jp": "旗艦「翔鶴改二/甲」第一スロに「天山一二型(村田隊)」配備。「天山」x4を廃棄。「天山一二型甲改<br>(空六号電探改装備機)」x1、新型航空兵装資材x2、開発資材x48、夜間熟練搭乗員x1準備！",
+		"desc_en": "Have your secretary flagship Shoukaku Kai Ni/A equip a Tenzan Model 12 (Murata Squadron) in the first slot and then proceed to scrap 4x Tenzan and have 1x Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai), 2x New Model Aerial Armament Material, 1x Night Skilled Crew Member and 48x Development Materials (All resources and Materials will be consumed upon completion)",
+		"added_update_id": null,
+		"removed_update_id": null,
+		"season_id": null,
+		"tracker": "[[1142],[[3,[17,4]]],[0,[[7,[461,true,1,0]]]]]"
 	}
 ]
