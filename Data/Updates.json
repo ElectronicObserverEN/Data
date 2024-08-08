@@ -460,5 +460,16 @@
     "live_update": false,
     "maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1816403846941552977",
     "maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1816835147544822100"
+  },
+  {
+    "id": 51,
+    "start_date": "2024-08-07T17:03:15.231252",
+    "start_time": "00:00:00",
+    "end_time": null,
+    "name": "Summer 2024 Event EO release",
+    "description": "",
+    "live_update": true,
+    "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1818990556774887763",
+    "maint_end_tweet": ""
   }
 ]
