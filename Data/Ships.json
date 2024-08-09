@@ -13687,5 +13687,50 @@
     "ShipClassId": null,
     "ShipClassApiId": null,
     "IsFriendly": false
+  },
+  {
+    "Id": 1702,
+    "NameEN": "Phoenix Kai",
+    "NameJP": "Phoenix改",
+    "ApiId": 734,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1703,
+    "NameEN": "Lexington Kai",
+    "NameJP": "Lexington改",
+    "ApiId": 735,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1704,
+    "NameEN": "Phoenix",
+    "NameJP": "Phoenix",
+    "ApiId": 952,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1705,
+    "NameEN": "General Belgrano",
+    "NameJP": "General Belgrano",
+    "ApiId": 957,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1706,
+    "NameEN": "Lexington",
+    "NameJP": "Lexington",
+    "ApiId": 966,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
   }
 ]

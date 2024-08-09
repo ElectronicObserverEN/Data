@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030161",
+  "version": "21030162",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -470,7 +470,8 @@
     "伊41": "I-41",
     "新量産空母棲姫": "New Mass-Produced Aircraft Carrier Princess",
     "飛行場夏姫": "Airfield Summer Princess",
-    "軽巡仏棲姫": "French Light Cruiser Princess"
+    "軽巡仏棲姫": "French Light Cruiser Princess",
+    "太平洋飛行場姫": "Pacific Airfield Princess"
   },
   "class": {
     "綾波型": "Ayanami Class",
@@ -646,7 +647,8 @@
     "戦": "Sen",
     "丸": "Maru",
     "IV": "IV",
-    "休日mode": "Holiday Mode"
+    "休日mode": "Holiday Mode",
+    "V": "V"
   },
   "stype": {
     "海防艦": "DE",
