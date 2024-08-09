@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030168",
+  "version": "21030169",
   "ship": {
     "長門": "나가토",
     "陸奥": "무츠",
@@ -472,7 +472,8 @@
     "飛行場夏姫": "Airfield Summer Princess",
     "軽巡仏棲姫": "French Light Cruiser Princess",
     "太平洋飛行場姫": "Pacific Airfield Princess",
-    "集積地棲姫V Vacation Mode": "Supply Depot Princess V Vacation Mode"
+    "集積地棲姫V Vacation Mode": "Supply Depot Princess V Vacation Mode",
+    "集積地棲姫V バカンスmode": "Supply Depot Princess V Vacation Mode"
   },
   "class": {
     "綾波型": "아야나미형",
