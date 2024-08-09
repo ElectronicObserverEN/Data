@@ -4186,5 +4186,53 @@
     "api_id": 538,
     "name_jp": "Loire 130M改(熟練)",
     "name_en": "Loire 130M Kai (Skilled)"
+  },
+  {
+    "id": 2526,
+    "api_id": 545,
+    "name_jp": "天山一二型甲改二(村田隊/電探装備)",
+    "name_en": "Tenzan Model 12A Kai Ni (Murata Squadron w/ Radar)"
+  },
+  {
+    "id": 2527,
+    "api_id": 1649,
+    "name_jp": "15.2cm深海三連装砲",
+    "name_en": "Abyssal 15.2cm Triple Gun Mount"
+  },
+  {
+    "id": 2529,
+    "api_id": 539,
+    "name_jp": "SOC Seagull 後期型(熟練)",
+    "name_en": "SOC Seagull Late Model (Skilled)"
+  },
+  {
+    "id": 2530,
+    "api_id": 540,
+    "name_jp": "零式水上偵察機11型甲改二",
+    "name_en": "Type 0 Reconnaissance Seaplane Model 11A Kai Ni"
+  },
+  {
+    "id": 2531,
+    "api_id": 541,
+    "name_jp": "SBD(Yellow Wings)",
+    "name_en": "SBD (Yellow Wings)"
+  },
+  {
+    "id": 2532,
+    "api_id": 542,
+    "name_jp": "TBD(Yellow Wings)",
+    "name_en": "TBD (Yellow Wings)"
+  },
+  {
+    "id": 2533,
+    "api_id": 543,
+    "name_jp": "SBD VS-2(偵察飛行隊)",
+    "name_en": "SBD VS-2 (Reconnaissance Squadron)"
+  },
+  {
+    "id": 2534,
+    "api_id": 544,
+    "name_jp": "SBD VB-2(爆撃飛行隊)",
+    "name_en": "SBD VB-2 (Bomber Squadron)"
   }
 ]

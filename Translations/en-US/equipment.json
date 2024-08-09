@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030276",
+  "version": "21030277",
   "equipment": {
     "12cm単装砲": "12cm Single Gun",
     "12.7cm連装砲": "12.7cm Twin Gun",
@@ -678,7 +678,15 @@
     "13.8cm連装砲改": "13.8cm Twin Gun Kai",
     "15.2cm三連装主砲": "15.2cm Triple Main Gun",
     "15.2cm三連装主砲改": "15.2cm Triple Main Gun Kai",
-    "Loire 130M改(熟練)": "Loire 130M Kai (Skilled)"
+    "Loire 130M改(熟練)": "Loire 130M Kai (Skilled)",
+    "SOC Seagull 後期型(熟練)": "SOC Seagull Late Model (Skilled)",
+    "零式水上偵察機11型甲改二": "Type 0 Reconnaissance Seaplane Model 11A Kai Ni",
+    "SBD(Yellow Wings)": "SBD (Yellow Wings)",
+    "TBD(Yellow Wings)": "TBD (Yellow Wings)",
+    "SBD VS-2(偵察飛行隊)": "SBD VS-2 (Reconnaissance Squadron)",
+    "SBD VB-2(爆撃飛行隊)": "SBD VB-2 (Bomber Squadron)",
+    "天山一二型甲改二(村田隊/電探装備)": "Tenzan Model 12A Kai Ni (Murata Squadron w/ Radar)",
+    "15.2cm深海三連装砲": "Abyssal 15.2cm Triple Gun Mount"
   },
   "equiptype": {
     "小口径主砲": "Small-caliber Gun",
