@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030163",
+  "version": "21030164",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -648,8 +648,7 @@
     "戦": "Sen",
     "丸": "Maru",
     "IV": "IV",
-    "休日mode": "Holiday Mode",
-    "V": "V"
+    "休日mode": "Holiday Mode"
   },
   "stype": {
     "海防艦": "DE",
