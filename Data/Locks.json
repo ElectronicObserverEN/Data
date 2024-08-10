@@ -268,6 +268,24 @@
         7
       ],
       "Name": "E5-1"
+    },
+    {
+      "LockGroups": [
+        8
+      ],
+      "Name": "E5-2"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E5-3"
+    },
+    {
+      "LockGroups": [
+        8
+      ],
+      "Name": "E5-4"
     }
   ]
 }
