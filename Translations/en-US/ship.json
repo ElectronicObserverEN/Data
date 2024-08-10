@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030165",
+  "version": "21030166",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -472,7 +472,8 @@
     "飛行場夏姫": "Airfield Summer Princess",
     "軽巡仏棲姫": "French Light Cruiser Princess",
     "太平洋飛行場姫": "Pacific Airfield Princess",
-    "集積地棲姫V バカンスmode": "Supply Depot Princess V Vacation Mode"
+    "集積地棲姫V バカンスmode": "Supply Depot Princess V Vacation Mode",
+    "深海珊瑚海水鬼": "Abyssal Coral Sea Water Demon"
   },
   "class": {
     "綾波型": "Ayanami Class",
