@@ -13732,5 +13732,140 @@
     "ShipClassId": null,
     "ShipClassApiId": null,
     "IsFriendly": true
+  },
+  {
+    "Id": 1722,
+    "NameEN": "Pacific Airfield Princess",
+    "NameJP": "太平洋飛行場姫",
+    "ApiId": 2247,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1723,
+    "NameEN": "Pacific Airfield Princess",
+    "NameJP": "太平洋飛行場姫",
+    "ApiId": 2248,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1724,
+    "NameEN": "Pacific Airfield Princess",
+    "NameJP": "太平洋飛行場姫",
+    "ApiId": 2249,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1725,
+    "NameEN": "Supply Depot Princess V Vacation Mode",
+    "NameJP": "集積地棲姫V バカンスmode",
+    "ApiId": 2250,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1726,
+    "NameEN": "Supply Depot Princess V Vacation Mode - Damaged",
+    "NameJP": "集積地棲姫V バカンスmode-壊",
+    "ApiId": 2251,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1727,
+    "NameEN": "Supply Depot Princess V Vacation Mode",
+    "NameJP": "集積地棲姫V バカンスmode",
+    "ApiId": 2252,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1728,
+    "NameEN": "Supply Depot Princess V Vacation Mode - Damaged",
+    "NameJP": "集積地棲姫V バカンスmode-壊",
+    "ApiId": 2253,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1729,
+    "NameEN": "Supply Depot Princess V Vacation Mode",
+    "NameJP": "集積地棲姫V バカンスmode",
+    "ApiId": 2254,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1730,
+    "NameEN": "Supply Depot Princess V Vacation Mode - Damaged",
+    "NameJP": "集積地棲姫V バカンスmode-壊",
+    "ApiId": 2255,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1731,
+    "NameEN": "Abyssal Coral Sea Water Demon",
+    "NameJP": "深海珊瑚海水鬼",
+    "ApiId": 2256,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1732,
+    "NameEN": "Abyssal Coral Sea Water Demon",
+    "NameJP": "深海珊瑚海水鬼",
+    "ApiId": 2257,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1733,
+    "NameEN": "Abyssal Coral Sea Water Demon",
+    "NameJP": "深海珊瑚海水鬼",
+    "ApiId": 2258,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1734,
+    "NameEN": "Abyssal Coral Sea Water Demon - Damaged",
+    "NameJP": "深海珊瑚海水鬼-壊",
+    "ApiId": 2259,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1735,
+    "NameEN": "Abyssal Coral Sea Water Demon - Damaged",
+    "NameJP": "深海珊瑚海水鬼-壊",
+    "ApiId": 2260,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1736,
+    "NameEN": "Abyssal Coral Sea Water Demon - Damaged",
+    "NameJP": "深海珊瑚海水鬼-壊",
+    "ApiId": 2261,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
   }
 ]
