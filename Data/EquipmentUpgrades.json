@@ -24327,11 +24327,85 @@
             ]
           }
         }
+      },
+      {
+        "convert": {
+          "id_after": 539,
+          "lvl_after": 0
+        },
+        "helpers": [
+          {
+            "ship_ids": [
+              952
+            ],
+            "days": [
+              0
+            ]
+          }
+        ],
+        "costs": {
+          "fuel": 80,
+          "ammo": 30,
+          "steel": 0,
+          "baux": 340,
+          "p1": {
+            "devmats": 5,
+            "devmats_sli": 6,
+            "screws": 2,
+            "screws_sli": 3,
+            "equips": [
+              {
+                "id": 25,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
+          },
+          "p2": {
+            "devmats": 7,
+            "devmats_sli": 9,
+            "screws": 4,
+            "screws_sli": 6,
+            "equips": [
+              {
+                "id": 414,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
+          },
+          "conv": {
+            "devmats": 9,
+            "devmats_sli": 16,
+            "screws": 7,
+            "screws_sli": 12,
+            "equips": [
+              {
+                "id": 414,
+                "eq_count": 3
+              }
+            ],
+            "consumable": [
+              {
+                "id": 77,
+                "eq_count": 1
+              },
+              {
+                "id": 70,
+                "eq_count": 2
+              }
+            ]
+          }
+        }
       }
     ],
     "convert_to": [
       {
         "id_after": 415,
+        "lvl_after": 0
+      },
+      {
+        "id_after": 539,
         "lvl_after": 0
       }
     ],
