@@ -4234,5 +4234,23 @@
     "api_id": 544,
     "name_jp": "SBD VB-2(爆撃飛行隊)",
     "name_en": "SBD VB-2 (Bomber Squadron)"
+  },
+  {
+    "id": 2535,
+    "api_id": 1650,
+    "name_jp": "深海野牛艦戦 Mk.II",
+    "name_en": "Abyssal Buffalo Fighter Mk.II"
+  },
+  {
+    "id": 2536,
+    "api_id": 1651,
+    "name_jp": "深海不屈艦爆 Mk.II",
+    "name_en": "Abyssal Dauntless Dive Bomber Mk.II"
+  },
+  {
+    "id": 2537,
+    "api_id": 1652,
+    "name_jp": "深海打撃艦攻 Mk.II",
+    "name_en": "Abyssal Devastation Torpedo Bomber Mk.II"
   }
 ]

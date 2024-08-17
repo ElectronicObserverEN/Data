@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030278",
+  "version": "21030279",
   "equipment": {
     "12cm単装砲": "12cm 단장포",
     "12.7cm連装砲": "12.7cm 연장포",
@@ -686,7 +686,10 @@
     "SBD VS-2(偵察飛行隊)": "SBD VS-2 (Reconnaissance Squadron)",
     "SBD VB-2(爆撃飛行隊)": "SBD VB-2 (Bomber Squadron)",
     "天山一二型甲改二(村田隊/電探装備)": "Tenzan Model 12A Kai Ni (Murata Squadron w/ Radar)",
-    "15.2cm深海三連装砲": "Abyssal 15.2cm Triple Gun Mount"
+    "15.2cm深海三連装砲": "Abyssal 15.2cm Triple Gun Mount",
+    "深海野牛艦戦 Mk.II": "Abyssal Buffalo Fighter Mk.II",
+    "深海不屈艦爆 Mk.II": "Abyssal Dauntless Dive Bomber Mk.II",
+    "深海打撃艦攻 Mk.II": "Abyssal Devastation Torpedo Bomber Mk.II"
   },
   "equiptype": {
     "小口径主砲": "소구경주포",
