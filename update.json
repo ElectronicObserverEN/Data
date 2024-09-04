@@ -3,7 +3,7 @@
   "ver": "5.3.7",
   "note": "Check github for release notes: https://github.com/ElectronicObserverEN/ElectronicObserver/releases",
   "url": "https://github.com/ElectronicObserverEN/ElectronicObserver/releases/download/5.3.7/ElectronicObserver5.3.7EN.zip",
-  "ApiServer": "https://eoapi.jebzou.ovh:8443/",
+  "ApiServer": "",
   "hash": "DC14D48C7F8B10D6910BB5F9FF406CC15C7DECD3C70358A6D1F7DCE4C92CA4CC",
   "nodes": 20071518,
   "QuestTrackers": 204,
