@@ -1,5 +1,5 @@
 {
-	"version": "21030454",
+	"version": "21030455",
 	"101": {
 		"code": "A1",
 		"name_jp": "はじめての「編成」！",
@@ -807,17 +807,17 @@
 	},
 	"220": {
 		"code": "Bw2",
-		"name_jp": "い号作戦",
+		"name_jp": "이호작전",
 		"name": "Operation I-Go",
-		"desc_jp": "有力な母艦航空隊で1週間の全力出撃を行い、可能な限り多くの敵空母を撃滅せよ！",
+		"desc_jp": "유력한 모함항공대로 1주간 전력으로 출격하여, 가능한 한 많은 적 항모를 격멸하라!",
 		"desc": "Sink 20 enemy aircraft carriers (CV/CVL)."
 	},
 	"221": {
 		"code": "Bw4",
 		"name_jp": "ろ号作戦",
-		"name": "Operation Ro-Go",
+		"name": "로호작전",
 		"desc_jp": "1週間の全力出撃を行い、敵輸送船団を捕捉・撃滅、敵の補給路を寸断せよ！",
-		"desc": "Sink 50 enemy transport ships."
+		"desc": "1주간 전력으로 출격, 적 수송선단을 포착하여 격멸, 적 수송로를 차단하라!"
 	},
 	"222": {
 		"code": "B12",
@@ -1088,16 +1088,16 @@
 	"262": {
 		"code": "B33",
 		"name_jp": "「西村艦隊」南方海域へ進出せよ！",
-		"name": "Sortie the Nishimura Fleet to the Southern Waters",
+		"name": "니시무라 함대 남방해역에 진출하라!",
 		"desc_jp": "「西村艦隊」を南方海域に進出させ、敵主力艦隊へ突入、これを撃滅せよ！",
-		"desc": "Sortie Fusou, Yamashiro, Mogami, Shigure, and Michishio, and another ship and score an S rank victory at World 5-1 boss."
+		"desc": "니시무라 함대로 남방함대에 진출하여 적 주력함대에 돌입, 이를 격멸하라!"
 	},
 	"263": {
 		"code": "B34",
 		"name_jp": "「第六戦隊」南西海域へ出撃せよ！",
-		"name": "Sortie the 6th Squadron to the Southwestern Waters",
+		"name": "제6전대 남서해역에 출격하라!",
 		"desc_jp": "「古鷹」「加古」「青葉」「衣笠」を基幹とした「第六戦隊」で、沖ノ島沖の敵艦隊を撃滅せよ！",
-		"desc": "Sortie Furutaka (古鷹), Kako (加古), Aoba (青葉), Kinugasa (衣笠) and up to 2 additional ships to World 2-5 and score an S rank victory at the boss node."
+		"desc": "후루타카, 카고, 아오바, 키누가사를 기간으로 한 제6전대로 오키노시마 의 적함대를 격멸하라!"
 	},
 	"264": {
 		"code": "Bm6",
@@ -1109,7 +1109,7 @@
 	"265": {
 		"code": "Bm5",
 		"name_jp": "海上護衛強化月間",
-		"name": "해상호위강화월",
+		"name": "해상호위강화월간",
 		"desc_jp": "鎮守府正面海域の対潜哨戒を強化し、敵潜水艦を制圧、安全な海上輸送体制を確立せよ！",
 		"desc": "진수부 전면 해역의 대잠초계를 강화하고, 적의 잠수함을 제압, 안전한 해상 수송 체제를 확립하라!"
 	},
@@ -1123,79 +1123,79 @@
 	"267": {
 		"code": "B35",
 		"name_jp": "「第十一駆逐隊」出撃せよ！",
-		"name": "Sortie the 11th Destroyer Division",
+		"name": "제11구축대 출격하라!*",
 		"desc_jp": "「第十一駆逐隊」を含む艦隊で出撃し、オリョール海の敵を撃破せよ！",
-		"desc": "Sortie Fubuki (吹雪), Shirayuki (白雪), Hatsuyuki (初雪), Murakumo (叢雲) and up to 2 additional ships to World 2-3 and score a victory at the boss node."
+		"desc": "제11구축대를 포함한 함대로 출격해 오룔해의 적을 격파하라!"
 	},
 	"268": {
 		"code": "B36",
 		"name_jp": "「第十一駆逐隊」対潜哨戒！",
-		"name": "11th Destroyer Division's Anti-Submarine Patrol",
+		"name": "제11구축대 대잠초계!",
 		"desc_jp": "「第十一駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！",
-		"desc": "Sortie Fubuki (吹雪), Shirayuki(白雪), Hatsuyuki (初雪) and Murakumo (叢雲) to World 1-5 and get a score of at least C at the boss node."
+		"desc": "제11구축대를 포함한 함대를 진수부 정면에 전개, 대잠초계를 실시하라!"
 	},
 	"269": {
 		"code": "B37",
 		"name_jp": "「第二一駆逐隊」出撃せよ！",
-		"name": "Sortie the 21st Destroyer Division",
-		"desc_jp": "「第二一駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！",
+		"name": "제21구축대 출격하라!",
+		"desc_jp": "제21구축대를 포함한 함대로 출격해 북방해역 모레이해의 적을 격멸하라!",
 		"desc": "Sortie Hatsuharu (初春), Nenohi (子日), Wakaba (若葉) and Hatsushimo (初霜) and up to 2 additional ships to World 3-1 and score an S rank victory at the boss node."
 	},
 	"270": {
 		"code": "B39",
 		"name_jp": "「第二二駆逐隊」出撃せよ！",
-		"name": "Sortie the 22nd Destroyer Division",
+		"name": "제22구축대 출격하라!",
 		"desc_jp": "「第二二駆逐隊」を含む艦隊で南西諸島防衛線に出撃、敵主力艦隊を撃滅せよ！",
-		"desc": "Sortie Satsuki (皐月), Fumizuki (文月), Nagatsuki (長月), 1 more DD and up to 2 additional ships to World 1-4 and score an S rank victory at the boss node."
+		"desc": "제22구축대를 포함한 함대로 남서제도방위선에 출격, 적 주력함대를 격멸해라!"
 	},
 	"271": {
 		"code": "B38",
 		"name_jp": "「那智戦隊」抜錨せよ！",
-		"name": "Nachi Squadron, Set Sail!",
+		"name": "나치전대 발묘하라!",
 		"desc_jp": "旗艦「那智」及び「初霜」「霞」「潮」「曙」他1隻の艦隊でバシー島沖の敵を撃滅せよ！",
-		"desc": "Sortie a fleet with Nachi (那智) as flagship, Hatsushimo (初霜), Kasumi (霞), Ushio (潮), Akebono (曙) and 1 additional ship to World 2-2 and score an S rank victory at the boss node."
+		"desc": "기함 나치 및 하츠시모, 카스미, 우시오, 아케보노 외 1척의 함대로 바시섬 앞바다의 적을 섬멸하라!"
 	},
 	"272": {
 		"code": "B40",
 		"name_jp": "「改装防空重巡」出撃せよ！",
-		"name": "Sortie the Remodelled Anti-Aircraft Heavy Cruiser",
+		"name": "개장방공중순 출격하라!",
 		"desc_jp": "摩耶改または摩耶改二及び軽巡1駆逐2隻を含む艦隊でオリョール海の敵艦隊を撃滅せよ！",
-		"desc": "Sortie a fleet with Maya (摩耶) Kai or Kai2, 1 CL, 2 DD and up to 2 additional ships to World 2-3 and score an S rank victory at the boss node."
+		"desc": "마야 개 또는 마야 改2 및 경순 1척, 구축 2척, 기타 2척을 포함한 함대로 오룔해 적 함대를 격멸해라!"
 	},
 	"273": {
 		"code": "B41",
 		"name_jp": "新編「三川艦隊」ソロモン方面へ！",
-		"name": "Sortie the Mikawa Fleet to Solomon Islands",
+		"name": "신편 미카와 함대 솔로몬 방면으로!",
 		"desc_jp": "第一艦隊に編成した「三川艦隊」を南方海域に進出させ、同方面の敵艦隊を撃滅せよ！",
-		"desc": "Sortie the main fleet with Choukai Kai2 (鳥海改ニ) as the flagship and any 5 of Aoba (青葉), Kinugasa (衣笠), Kako (加古), Furutaka (古鷹), Tenryuu (天龍), Yuubari (夕張) to World 5-1 and score an S rank victory at the boss node."
+		"desc": "제1함대에 편성한 미카와 함대를 남방해역에 진출시켜 이 방면의 적 함대를 격멸해라!"
 	},
 	"274": {
 		"code": "B42",
 		"name_jp": "「第六駆逐隊」対潜哨戒なのです！",
-		"name": "6th Destroyer Division's Anti-Submarine Patrol",
+		6"name": "제6구축대 대잠초계인 거에요!",
 		"desc_jp": "「第六駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！",
-		"desc": "Sortie Akatsuki, Hibiki, Inazuma, and Ikazuchi to World 1-5. At least C rank is required at the boss node."
+		"desc": "제6구축대를 포함한 함대로 진수부 정면으로 전개, 대잠초계를 실시한다!",
 	},
 	"275": {
 		"code": "B43",
 		"name_jp": "抜錨！「第十八戦隊」",
-		"name": "18th Cruiser Division, Set Sail!",
+		"name": "발묘! 제18전대",
 		"desc_jp": "「天龍」「龍田」を基幹戦力とした「第十八戦隊」で出撃し、オリョール海の敵主力を撃滅せよ！",
-		"desc": "Sortie Tenryuu, Tatsuta, and 2 or more other ships and score an S rank victory at World 2-3 boss."
+		"desc": "텐류, 타츠타를 기간전력으로 한 제18전대를 출격해 오룔해 적 주력을 격멸하라!"
 	},
 	"276": {
 		"code": "B44",
 		"name_jp": "海上突入部隊、進発せよ！",
-		"name": "Sortie the Maritime Assault Fleet",
+		"name": "해상 돌입 부대, 출발하라!",
 		"desc_jp": "「比叡」「霧島」「長良」「暁」「雷」「電」の艦隊で、南方海域進出作戦を実施、敵を撃滅せよ！",
-		"desc": "Sortie Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, and Inazuma and score an S rank victory at World 5-1 boss."
+		"desc": "히에이, 키리시마, 나가라, 아카츠키, 이카즈치, 이나즈마로 남방 해역 진출 작전을 실시, 적을 격멸하라!"
 	},
 	"277": {
 		"code": "B45",
 		"name_jp": "「第六駆逐隊」対潜哨戒を徹底なのです！",
-		"name": "6th Destroyer Division's Thorough Anti-Submarine Patrol na no desu",
+		"name": "제6 구축대 대잠 초계가 철저하나노데!",
 		"desc_jp": "「第六駆逐隊」を含む艦隊で鎮守府正面で対潜哨戒を実施、敵潜水艦部隊を痛打せよ！",
-		"desc": "Sortie Akatsuki Kai2 as the flagship, Hibiki, Ikazuchi, and Inazuma and score an A rank victory at World 1-5 boss."
+		"desc": "제6 구축대를 포함한 함대에서 진수부 정면에서 대잠 초계를 실시, 적 잠수함부대를 격파하라!"
 	},
 	"278": {
 		"code": "B46",
