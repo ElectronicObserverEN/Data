@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030171",
+  "version": "21030172",
   "ship": {
     "長門": "나가토",
     "陸奥": "무츠",
@@ -460,7 +460,7 @@
     "対空小鬼": "대공소귀",
     "標準型戦艦棲姫": "표준형전함서희",
     "トーチカ要塞棲姫": "토치카요새서희",
-    "Schnellboot小鬼群": "Schnellboot 소귀군",
+    "Schnellboot小鬼群": "슈넬부트 소귀군",
     "欧州妹姫": "구주매희",
     "伊36": "이36",
     "平安丸": "헤이안마루",
@@ -469,11 +469,11 @@
     "深海伊号水姫": "심해이호수희",
     "伊41": "이41",
     "新量産空母棲姫": "신양산공모서희",
-    "飛行場夏姫": "Airfield Summer Princess",
-    "軽巡仏棲姫": "French Light Cruiser Princess",
-    "太平洋飛行場姫": "Pacific Airfield Princess",
-    "集積地棲姫V バカンスmode": "Supply Depot Princess V Vacation Mode",
-    "深海珊瑚海水鬼": "Abyssal Coral Sea Water Demon"
+    "飛行場夏姫": "비행장하희",
+    "軽巡仏棲姫": "경순불서희",
+    "太平洋飛行場姫": "태평양비행장희",
+    "集積地棲姫V バカンスmode": "집적지서희V 바캉스 Mode",
+    "深海珊瑚海水鬼": "심해산호해수귀"
   },
   "class": {
     "綾波型": "아야나미형",
@@ -601,13 +601,13 @@
     "特種船M丙型": "특종선 M병형",
     "Salmon級": "샐먼급",
     "改敷島型": "改 시키시마형",
-    "Marcello級": "마르첼로로급",
+    "Marcello級": "마르첼로급",
     "Nevada級": "네바다급",
     "改氷川丸級": "改 히카와마루급",
     "巡潜乙型改一": "순잠 을형 改1",
     "二等輸送艦": "이등수송함",
-    "La Galissonnière級": "La Galissonnière Class",
-    "Mogador級": "Mogador Class"
+    "La Galissonnière級": "라 갈리소니에르급",
+    "Mogador級": "모가도르급급"
   },
   "suffix": {
     "改": "改",
@@ -649,7 +649,7 @@
     "戦": "전",
     "丸": "마루",
     "IV": "IV",
-    "休日mode": "Holiday Mode"
+    "休日mode": "휴일 Mode"
   },
   "stype": {
     "海防艦": "해방함",
