@@ -13867,5 +13867,14 @@
     "ShipClassId": null,
     "ShipClassApiId": null,
     "IsFriendly": false
+  },
+  {
+    "Id": 1737,
+    "NameEN": "Kirishima Kai Ni C",
+    "NameJP": "霧島改二丙",
+    "ApiId": 694,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
   }
 ]
