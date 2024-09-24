@@ -9306,5 +9306,31 @@
     "removed_update_id": null,
     "season_id": null,
     "tracker": "[[376],[[9,[6,5]]],[0,[[7,[150,false,1,0]],[7,[152,false,1,0]],[2,[[2],2,false,0]],[2,[[3],1,false,0]]]]]"
+  },
+  {
+    "id": 727,
+    "api_id": 1019,
+    "code": "B205",
+    "name_jp": "激闘！「第三戦隊」精鋭第二小隊！",
+    "name_en": "Fierce Battle! \"BatDiv3\" Elite Second Platoon!",
+    "desc_jp": "「比叡改二丙」「霧島改二丙」を基幹とし、随伴に夕雲型2隻以上または白露型2隻以上を含む艦隊で<br>サーモン海域北方、KW環礁沖海域、カレー洋リランカ島沖に展開！反復出撃により敵を撃滅せよ！",
+    "desc_en": "Organize a fleet with Kirishima K2C, Hiei K2C, 2 Yuugumo-class or 2 Shiratsuyu-class in your fleet and score an S rank at the boss nodes on 4-5, 5-5 and 6-5 twice each",
+    "added_update_id": 52,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1019],[[0,[[4,5],6,2]],[0,[[5,5],6,2]],[0,[[6,5],6,2]]],[0,[[7,[592,false,1,0]],[7,[694,false,1,0]],[0,[1,[[8,[[[0,false,0,38]],2]],[8,[[[0,false,0,23]],2]]]]]]]]"
+  },
+  {
+    "id": 728,
+    "api_id": 1020,
+    "code": "2409 B1",
+    "name_jp": "【期間限定任務】「第三戦隊」緊急展開！",
+    "name_en": "[Time-limited] [BatDiv3] Emergency Deployment!",
+    "desc_jp": "第三戦隊「金剛」「比叡」「榛名」「霧島」の2隻以上を含む高速戦艦部隊で、南西諸島防衛線、<br>南西諸島近海、バシー海峡、カレー洋海域に出撃！同海域の敵を捕捉、これを蹴散らせッ！",
+    "desc_en": "Organize a fleet with 2 Kongou-class in your fleet and score an S rank at the boss nodes on 1-4, 2-1, 2-2 and 4-2",
+    "added_update_id": 52,
+    "removed_update_id": null,
+    "season_id": 20,
+    "tracker": "[[1020],[[0,[[1,4],6,1]],[0,[[2,1],6,1]],[0,[[2,2],6,1]],[0,[[4,2],6,1]]],[0,[[8,[[[0,false,0,6]],2]]]]]"
   }
 ]
