@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030454",
+  "version": "21030455",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4158,6 +4158,13 @@
     "desc_jp": "改秋月型精鋭駆逐艦「初月改二」を旗艦とした艦隊で、沖ノ島海域、北方AL海域、サーモン海域、<br>サーモン海域北方、昭南本土航路に展開、各海域の敵主力と交戦、我が艦隊でこれを撃滅せよ！",
     "desc": "Organize a fleet with Hatsuzuki Kai Ni as flagship and score an S rank at the boss nodes on 2-4, 3-5, 5-4, 5-5 and 7-4"
   },
+  "1017": {
+    "code": "B204",
+    "name_jp": "「第二駆逐隊(後期編成)」、出撃せよ！",
+    "name": "\"DesDiv2 (Late Formation)\", Sortie!",
+    "desc_jp": "夕雲型駆逐艦「早霜」「秋霜」「朝霜」「清霜」のうち1隻が旗艦、他2隻以上を含む艦隊で鎮守府海域<br>南西諸島沖、鎮守府近海、さらに東部オリョール海に反復出撃！敵艦隊を捕捉、これを撃滅せよ！",
+    "desc": "Organize a fleet with 3 of Hayashimo, Akishimo, Asashimo or Kiyoshimo in your fleet with one as flagship and score an S rank at the boss nodes on 1-2, 1-5 and 2-3 twice each"
+  },
   "1018": {
     "code": "B205",
     "name_jp": "「第三戦隊」第二小隊、鉄底海峡へ！",
@@ -4409,5 +4416,12 @@
     "name": "Deploying The Elite \"Tenzan\" Equipped Attacker Squadron",
     "desc_jp": "旗艦「翔鶴改二/甲」第一スロに「天山一二型(村田隊)」配備。「天山」x4を廃棄。「天山一二型甲改<br>(空六号電探改装備機)」x1、新型航空兵装資材x2、開発資材x48、夜間熟練搭乗員x1準備！",
     "desc": "Have your secretary flagship Shoukaku Kai Ni/A equip a Tenzan Model 12 (Murata Squadron) in the first slot and then proceed to scrap 4x Tenzan and have 1x Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai), 2x New Model Aerial Armament Material, 1x Night Skilled Crew Member and 48x Development Materials (All resources and Materials will be consumed upon completion)"
+  },
+  "1143": {
+    "code": "F128",
+    "name_jp": "「霧島改二丙」改装工廠任務",
+    "name": "\"Kirishima Kai Ni C\" Arsenal Remodel Quest",
+    "desc_jp": "旗艦「霧島改二丙」第一スロに「35.6cm連装砲改二」(★+8以上)装備。「35.6cm連装砲」x8を<br>廃棄。「35.6cm連装砲改」x1、新型砲熕兵装資材x2、鋼材7,800、新型兵装資材x2準備！",
+    "desc": "Have your secretary flagship Kirishima Kai Ni C equip a ★+8 35.6cm Twin Gun Mount Kai Ni in the first slot and then proceed to scrap 8x 35.6cm Twin Gun Mount and have 1x 35.6cm Twin Gun Mount Kai, 2x New Model Gun Mount Improvement Material, 2x New Model Armament Material and 7800x steel (All resources and Materials will be consumed upon completion)"
   }
 }

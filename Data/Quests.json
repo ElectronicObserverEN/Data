@@ -9332,5 +9332,31 @@
     "removed_update_id": null,
     "season_id": 20,
     "tracker": "[[1020],[[0,[[1,4],6,1]],[0,[[2,1],6,1]],[0,[[2,2],6,1]],[0,[[4,2],6,1]]],[0,[[8,[[[0,false,0,6]],2]]]]]"
+  },
+  {
+    "id": 729,
+    "api_id": 1017,
+    "code": "B204",
+    "name_jp": "「第二駆逐隊(後期編成)」、出撃せよ！",
+    "name_en": "\"DesDiv2 (Late Formation)\", Sortie!",
+    "desc_jp": "夕雲型駆逐艦「早霜」「秋霜」「朝霜」「清霜」のうち1隻が旗艦、他2隻以上を含む艦隊で鎮守府海域<br>南西諸島沖、鎮守府近海、さらに東部オリョール海に反復出撃！敵艦隊を捕捉、これを撃滅せよ！",
+    "desc_en": "Organize a fleet with 3 of Hayashimo, Akishimo, Asashimo or Kiyoshimo in your fleet with one as flagship and score an S rank at the boss nodes on 1-2, 1-5 and 2-3 twice each",
+    "added_update_id": 52,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1017],[[0,[[1,2],6,2]],[0,[[1,5],6,2]],[0,[[2,3],6,2]]],[0,[[8,[[[409,false,0,0],[625,false,0,0],[425,false,0,0],[410,false,0,0]],3]],[0,[1,[[5,[409,1,0]],[5,[625,1,0]],[5,[425,1,0]],[5,[410,1,0]]]]]]]]"
+  },
+  {
+    "id": 730,
+    "api_id": 1143,
+    "code": "F128",
+    "name_jp": "「霧島改二丙」改装工廠任務",
+    "name_en": "\"Kirishima Kai Ni C\" Arsenal Remodel Quest",
+    "desc_jp": "旗艦「霧島改二丙」第一スロに「35.6cm連装砲改二」(★+8以上)装備。「35.6cm連装砲」x8を<br>廃棄。「35.6cm連装砲改」x1、新型砲熕兵装資材x2、鋼材7,800、新型兵装資材x2準備！",
+    "desc_en": "Have your secretary flagship Kirishima Kai Ni C equip a ★+8 35.6cm Twin Gun Mount Kai Ni in the first slot and then proceed to scrap 8x 35.6cm Twin Gun Mount and have 1x 35.6cm Twin Gun Mount Kai, 2x New Model Gun Mount Improvement Material, 2x New Model Armament Material and 7800x steel (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 52,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": ""
   }
 ]
