@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030461",
+  "version": "21030462",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4150,6 +4150,13 @@
     "name": "Air defense destroyer [Hatsuzuki Kai Ni], let's go!",
     "desc_jp": "改秋月型精鋭駆逐艦「初月改二」を旗艦とした艦隊で、沖ノ島海域、北方AL海域、サーモン海域、<br>サーモン海域北方、昭南本土航路に展開、各海域の敵主力と交戦、我が艦隊でこれを撃滅せよ！",
     "desc": "Organize a fleet with Hatsuzuki Kai Ni as flagship and score an S rank at the boss nodes on 2-4, 3-5, 5-4, 5-5 and 7-4"
+  },
+  "1018": {
+    "code": "B205",
+    "name_jp": "「第三戦隊」第二小隊、鉄底海峡へ！",
+    "name": "[BatDiv3] Second Platoon, Heading to Iron Bottom Sound!",
+    "desc_jp": "第三戦隊第二小隊「比叡」「霧島」を基幹とし、随伴に駆逐艦2隻以上を含む艦隊で、南方海域前面、<br>サブ島沖海域、サーモン海域、サーモン海域北方へ展開！敵主力を捜索、これを痛撃せよ！",
+    "desc": "Organize a fleet with Hiei, Kirishima and 2DD in your fleet and score an A rank at the boss nodes on 5-1, 5-3, 5-4 and 5-5."
   },
   "1101": {
     "code": "F96",

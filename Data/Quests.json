@@ -9280,5 +9280,18 @@
     "removed_update_id": null,
     "season_id": null,
     "tracker": "[[375],[[9,[6,4]]],[0,[[2,[[2],2,false,0]],[2,[[3],1,false,0]],[7,[86,false,0,0]],[7,[85,false,0,0]]]]]"
+  },
+  {
+    "id": 725,
+    "api_id": 1018,
+    "code": "B205",
+    "name_jp": "「第三戦隊」第二小隊、鉄底海峡へ！",
+    "name_en": "[BatDiv3] Second Platoon, Heading to Iron Bottom Sound!",
+    "desc_jp": "第三戦隊第二小隊「比叡」「霧島」を基幹とし、随伴に駆逐艦2隻以上を含む艦隊で、南方海域前面、<br>サブ島沖海域、サーモン海域、サーモン海域北方へ展開！敵主力を捜索、これを痛撃せよ！",
+    "desc_en": "Organize a fleet with Hiei, Kirishima and 2DD in your fleet and score an A rank at the boss nodes on 5-1, 5-3, 5-4 and 5-5.",
+    "added_update_id": 52,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1018],[[0,[[5,1],5,1]],[0,[[5,3],5,1]],[0,[[5,4],5,1]],[0,[[5,5],5,1]]],[0,[[2,[[2],2,false,0]],[7,[86,false,0,0]],[7,[85,false,0,0]]]]]"
   }
 ]
