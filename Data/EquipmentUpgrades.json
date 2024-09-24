@@ -767,6 +767,7 @@
       298,
       299,
       318,
+      328,
       330,
       331,
       332,
@@ -21892,7 +21893,10 @@
     "eq_id": 328,
     "improvement": [
       {
-        "convert": null,
+        "convert": {
+          "id_after": 329,
+          "lvl_after": 0
+        },
         "helpers": [
           {
             "ship_ids": [
@@ -21912,6 +21916,17 @@
               4,
               5,
               6
+            ]
+          },
+          {
+            "ship_ids": [
+              85,
+              212,
+              152
+            ],
+            "days": [
+              2,
+              3
             ]
           }
         ],
@@ -21945,11 +21960,38 @@
               }
             ],
             "consumable": []
+          },
+          "conv": {
+            "devmats": 30,
+            "devmats_sli": 36,
+            "screws": 8,
+            "screws_sli": 10,
+            "equips": [
+              {
+                "id": 8,
+                "eq_count": 4
+              }
+            ],
+            "consumable": [
+              {
+                "id": 75,
+                "eq_count": 2
+              },
+              {
+                "id": 94,
+                "eq_count": 1
+              }
+            ]
           }
         }
       }
     ],
-    "convert_to": [],
+    "convert_to": [
+      {
+        "id_after": 329,
+        "lvl_after": 0
+      }
+    ],
     "upgrade_for": []
   },
   {
