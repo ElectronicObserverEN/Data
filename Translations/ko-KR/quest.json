@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030457",
+  "version": "21030458",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1784,6 +1784,20 @@
     "name": "[French Fleet] Do Exercises!",
     "desc_jp": "【フランス艦隊演習】フランス生まれの艦艇を旗艦に配備。同旗艦を含むフランス艦艇3隻以上を<br>配備した演習艦隊を編成。同艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！Merci♪",
     "desc": "Organize a fleet with three French ships with one as flagship in your fleet and score A+ rank four times in PvP"
+  },
+  "374": {
+    "code": "2409 C1",
+    "name_jp": "【期間限定任務】「三十二駆」特別演習！",
+    "name": "[Time-limited] DesDiv32 Exercises",
+    "desc_jp": "【期間限定演習】第三十二駆逐隊、夕雲型駆逐艦「玉波」「涼波」「藤波」「早波」「浜波」のうち<br>3隻以上を含む演習艦隊で、本日中に演習【S判定】勝利3回以上を達成せよ！演習、始めっ！",
+    "desc": "Organize a fleet with any 3 of Tamanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet and score S rank 3 times in PvP"
+  },
+  "375": {
+    "code": "Cy15",
+    "name_jp": "「第三戦隊」第二小隊、演習開始！",
+    "name": "[BatDiv3] Second Platoon, Begin Exercises!",
+    "desc_jp": "【第三戦隊演習】第三戦隊第二小隊「比叡」「霧島」を基幹とし、随伴に軽巡1隻、駆逐艦2隻以上を含む<br>演習艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！第三戦隊第二小隊、演習、始めっ！",
+    "desc": "Organize a fleet with Hiei, Kirishima, 1CL, 2DD in your fleet and score S rank 4 times in PvP"
   },
   "401": {
     "code": "D1",

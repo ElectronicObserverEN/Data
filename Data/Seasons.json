@@ -100,5 +100,11 @@
     "name": "Rainy Season 2024",
     "added_update_id": 46,
     "removed_update_id": 47
+  },
+  {
+    "id": 20,
+    "name": "Fall Festival 2024",
+    "added_update_id": 52,
+    "removed_update_id": null
   }
 ]
