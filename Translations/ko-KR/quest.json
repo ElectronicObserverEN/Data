@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030456",
+  "version": "21030457",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1193,23 +1193,23 @@
   "277": {
     "code": "B45",
     "name_jp": "「第六駆逐隊」対潜哨戒を徹底なのです！",
-    "name": "제6 구축대 대잠 초계가 철저하나노데!",
+    "name": "제6구축대 대잠 초계가 철저하나노데!",
     "desc_jp": "「第六駆逐隊」を含む艦隊で鎮守府正面で対潜哨戒を実施、敵潜水艦部隊を痛打せよ！",
-    "desc": "제6 구축대를 포함한 함대에서 진수부 정면에서 대잠 초계를 실시, 적 잠수함부대를 격파하라!"
+    "desc": "제6구축대를 포함한 함대에서 진수부 정면에서 대잠 초계를 실시, 적 잠수함부대를 격파하라!"
   },
   "278": {
     "code": "B46",
     "name_jp": "「第一水雷戦隊」ケ号作戦、突入せよ！",
-    "name": "Sortie the 1st Torpedo Squadron on Operation Ke",
+    "name": "제1수뢰전대 케호작전, 돌입하라!",
     "desc_jp": "北方突入準備を完了した「一水戦」で北方キス島に突入！包囲網を破り、友軍を救出せよ！",
-    "desc": "Sortie Abukuma (阿武隈) as the flagship, Hibiki, Hatsushimo (初霜), Wakaba (若葉), Samidare (五月雨) and Shimakaze (島風) to World 3-2 and score a victory at the boss node."
+    "desc": "북방돌입 준비를 완료했다. 1수전으로 북방 키스섬에 돌입! 포위망을 뚫고 아군을 구출하라!"
   },
   "279": {
     "code": "B47",
     "name_jp": "「第一水雷戦隊」北方ケ号作戦、再突入！",
-    "name": "Sortie the 1st Torpedo Squadron on Operation Ke Again",
+    "name": "제1수뢰전대 북방 케호작전, 재돌입!",
     "desc_jp": "北方再突入準備の新編「一水戦」で北方キス島に再突入を敢行、同撤収作戦を完遂せよ！",
-    "desc": "Sortie Abukuma Kai2 (阿武隈改二) as the flagship, Hibiki, Yuugumo (夕雲), Naganami (長波), Akigumo (秋雲) and Shimakaze (島風) to World 3-2 and score an S rank victory at the boss node."
+    "desc": "북방 재돌입 준비를 마치고 재편성된 1수전으로 북방 키스섬에 재돌입! 철수작전을 완수하라!"
   },
   "280": {
     "code": "Bm8",
@@ -1221,135 +1221,135 @@
   "281": {
     "code": "B129",
     "name_jp": "精鋭無比「第一戦隊」まかり通る！",
-    "name": "Unrivaled 1st Squadron, Coming Through!",
+    "name": "정예무비 제1전대 지나간다!",
     "desc_jp": "第一艦隊第一戦隊、改装主力戦艦「長門改二」及び「陸奥改二」を中核とした水上打撃艦隊を編成、<br>バシー海峡、北方AL海域戦闘哨戒、カレー洋リランカ島沖及び南方海域前面の敵を捕捉撃滅せよ！",
-    "desc": "Sortie a fleet with Mutsu Kai Ni and Nagato Kai Ni as flagship and second ship and up to 4 additional ships to World 2-2, 3-5, 4-5 and 5-1. Obtain a S-rank at each boss node."
+    "desc": "제1함대 제1전대, 개장 주력 전함 나가토 改2 및 무츠 改2를 핵심으로 한 수상 타격 함대를 편성, 바시 해협, 북방 AL해역 전투 초계, 카레양 리랑카 섬 앞바다 및 남방 해역 전면의 적을 포착 격멸하라!"
   },
   "282": {
     "code": "B130",
     "name_jp": "精鋭無比「第一戦隊」まかり通る！【拡張作戦】",
-    "name": "Unrivaled \"First Squadron\" coming through! (Extra Operation)",
+    "name": "정예무비 제1전대 지나간다! [확장작전]",
     "desc_jp": "第一艦隊第一戦隊、改装主力戦艦「長門改二」及び「陸奥改二」を中核とした精鋭水上打撃艦隊を展開、<br>南西諸島海域沖ノ島沖、南方海域サーモン海域北方、中部海域ピーコック島沖の敵戦力を撃滅せよ！",
-    "desc": "Assemble a fleet containing Nagato Kai Ni and Mutsu Kai Ni with either as Secretary and Second ship, and up to 4 XX, then S rank the boss nodes of 2-5, 5-5, and 6-4."
+    "desc": "제1함대 제1전대, 개장 주력 전함 나가토 改2 및 무츠 改2를 핵심으로 한 정예 수상 타격 함대를 전개, 남서제도해역 오키노시마 앞바다, 남방해역 사몬 해역 북방, 중부 해역 피콕섬 앞바다의 적 전력을 격멸하라!"
   },
   "283": {
     "code": "B137",
     "name_jp": "精強！「第一航空戦隊」出撃せよ！",
-    "name": "Powerful 1st Carrier Division, Sortie!",
+    "name": "정예! 제1항공전대 출격하라!",
     "desc_jp": "第一艦隊旗艦「赤城改二(改二戊)」同二番艦「加賀」の第一航空戦隊を中核とした艦隊で、カレー洋<br>リランカ島沖、珊瑚諸島沖に展開！さらにKW環礁沖海域に反復出撃！鎧袖一触！敵を粉砕せよ！",
-    "desc": "Sortie a fleet with Akagi Kai Ni/Kai Ni E as flagship, Kaga as second ship, and up to 4 additional ships to World 4-5, 5-2, and 6-5. Obtain a S-rank at the boss node of 4-5 and 5-2 once. Obtain a S-rank at the boss node of 6-5 twice."
+    "desc": "제1함대 기함 아카기改2(改2戊) 동 2번함 카가의 제1항공전대를 핵심으로 한 함대로, 카레양 리랑카섬 앞바다, 산호제도 앞바다에 전개! 거기에 KW환초 앞바다 해역에 반복 출격! 개수일촉! 적을 분쇄하라!"
   },
   "284": {
     "code": "Bq11",
     "name_jp": "南西諸島方面「海上警備行動」発令！",
-    "name": "\"Surface Security Actions\" around the Nansei Archipelago Annoucement",
+    "name": "남서제도방면 해상경비행동 발령!",
     "desc_jp": "海上警備任務：軽空母または軽巡級1隻、駆逐艦または海防艦を計3隻以上配備した海上護衛艦隊で、<br>南1号作戦、南西諸島哨戒、柳作戦、オリョール哨戒を実施、各作戦海域に出没する敵を撃滅せよ！",
-    "desc": "Sortie a fleet with 1 CVL/CL, 3 or more DD/DE and up to 2 additional ships to Worlds 1-4, 2-1, 2-2, and 2-3 and score an S-rank at each boss node. Reward 80 ranking points."
+    "desc": "해상 경비 임무 : 경항모 또는 경순급 1척, 구축함 또는 해방함을 총 3척 이상 배치한 해상호위함대로, 남 1호 작전, 남서제도초계, 버드나무 작전, 오룔 초계를 실시, 각 작전 해역에 출몰하는 적을 격멸하라!"
   },
   "285": {
     "code": "B49",
     "name_jp": "「空母機動部隊」北方海域に進出せよ！",
-    "name": "Sortie an Aircraft Carrier Task Force to the Aleutian Islands",
+    "name": "항모기동부대, 북방해역으로 진출하라!",
     "desc_jp": "航空母艦を旗艦とした空母機動部隊を北方AL海域方面に展開、敵戦力を撃滅せよ！",
-    "desc": "Sortie a fleet with a CV flagship to World 3-5 and score an S rank victory at the boss node."
+    "desc": "항공모함을 기함으로 한 항모기동부대를 북방AL해역 방면으로 전개해 적 전력을 격멸하라!"
   },
   "286": {
     "code": "B48",
     "name_jp": "鎮守府正面の対潜哨戒を強化せよ！",
-    "name": "Strengthen the Anti-Submarine Patrol in Front of the Naval Base",
+    "name": "진수부 정면의 대잠초계를 강화하라!",
     "desc_jp": "鎮守府正面の対潜哨戒を強化し、海上資源輸送路の安全を確立せよ！",
-    "desc": "Sortie to World 1-5 and score 4 victories at the boss node."
+    "desc": "진수부 정면에 대한 대잠초계를 강화해, 해상자원수송로의 안전을 확보하라!"
   },
   "287": {
     "code": "B50",
     "name_jp": "「第五航空戦隊」珊瑚諸島沖に出撃せよ！",
-    "name": "Sortie the 5th Carrier Division to the South",
+    "name": "제5항공전대 산호제도 앞바다에 출격하라!",
     "desc_jp": "再編成した「第五航空戦隊」を珊瑚諸島沖に展開、敵機動部隊を捕捉撃滅せよ！",
-    "desc": "Sortie Shoukaku (翔鶴), Zuikaku (瑞鶴), Oboro (朧), Akigumo (秋雲) and up to 2 additional ships to World 5-2 and score an S rank victory at the boss node."
+    "desc": "재편성한 제5항공전대를 산호제도 앞바에 전개해 적 기동부대를 포착, 격파하라!"
   },
   "288": {
     "code": "B51",
     "name_jp": "新編「第二一戦隊」北方へ出撃せよ！",
-    "name": "Sortie the New 21st Cruiser Division",
+    "name": "신편 제21전대 북방으로 출격하라!",
     "desc_jp": "新編「第二一戦隊」を基幹とする艦隊で北方海域モーレイ海に出撃、敵を撃滅せよ！",
-    "desc": "Sortie Nachi Kai2 (那智改二), Ashigara Kai2 (足柄改二), Tama (多摩), Kiso (木曾) and up to 2 additional ships to World 3-1 and score an S rank victory at the boss node."
+    "desc": "신편 제21전대를 중핵으로 하는 함대를 북방해역 모레이해에 출격시켜 적을 격멸하라!"
   },
   "289": {
     "code": "B52",
     "name_jp": "「第十六戦隊(第一次)」出撃せよ！",
-    "name": "Sortie the 16th Squadron (1st Gen.)",
+    "name": "제16전대(제1차) 출격하라!",
     "desc_jp": "「第十六戦隊(第一次)」をバシー島沖に展開、敵艦隊を撃滅せよ！",
-    "desc": "Sortie Ashigara (足柄) as the flagship, Kuma (球磨), Nagara (長良) and up to 3 additional ships to World 2-2 and score an S rank victory at the boss node."
+    "desc": "제16전대(제1차)를 바시섬 앞바다로 전개해 적 함대를 격멸하라!"
   },
   "290": {
     "code": "B128",
     "name_jp": "「比叡」の出撃",
-    "name": "Hiei's Sortie",
+    "name": "히에이의 출격",
     "desc_jp": "「比叡」南方海域出撃任務：高速戦艦「比叡」を旗艦とする有力な艦隊で、南方海域<br>サブ島沖海域及びサーモン海域に出撃。同作戦海域の敵艦隊と交戦、これを撃滅せよ！",
-    "desc": "Organize a fleet with Hiei as flagship and score an S rank at the boss nodes on 5-3 and 5-4"
+    "desc": "히에이 남방해역 출격임무: 고속전함 히에이를 기함으로 하는 강한 함대로, 남방 해역 사부 섬 앞바다 해역 및 사몬 해역에 출격. 동 작전 해역의 적함대와 교전, 이를 격멸하라!"
   },
   "291": {
     "code": "B134",
     "name_jp": "艦隊司令部の強化 【実施段階】",
-    "name": "Fleet Headquarters Improvements [Implementation Phase]",
+    "name": "함대 사령부의 강화 [실시 단계]",
     "desc_jp": "艦隊司令部強化：「大淀」を旗艦、随伴艦に「明石」または水上機母艦を含む艦隊を編成、同艦隊で<br>東部オリョール海、アルフォンシーノ方面、西方ジャム島沖に反復出撃、敵艦隊を捕捉撃滅せよ！",
-    "desc": "Sortie a fleet with Ooyodo as flagship, either Akashi or a Seaplane Tender, and up to 4 additional ships to World 2-3, 3-3, and 4-1. Obtain a S-rank at each boss node twice."
+    "desc": "함대사령부 강화 : 오요도를 기함, 수반함에 아카시 또는 수상기모함을 포함하는 함대를 편성, 동 함대로 동부 오룔해, 알폰시노 방면, 서방 잼 섬 앞바다에 반복 출격, 적 함대를 포착 격멸하라!"
   },
   "292": {
     "code": "B133",
     "name_jp": "重改装高速戦艦「金剛改二丙」、南方突入！",
-    "name": "Heavily Refurbished Fast Battleship Kongou Kai Ni C, Head to the South!",
+    "name": "중개장 고속전함 콩고 改2丙 남방 돌입!",
     "desc_jp": "南方海域出撃任務：「金剛改二丙」を旗艦、随伴艦に金剛型1隻、駆逐艦2隻以上を含む艦隊で、<br>南方海域前面、サブ島沖海域、サーモン海域、同海域北方に反復突入、各海域の敵を撃滅せよ！",
-    "desc": "Organize a fleet with Kongou Kai Ni C as flagship, 1 other Kongou-class ship and 2 DD in your fleet and score an S rank at the boss nodes on 5-1, 5-3, 5-4 and 5-5 twice each"
+    "desc": "남방해역 출격임무 : 콩고 改2丙을 기함, 수반함에 콩고급 1척, 구축함 2척 이상을 포함한 함대로, 남방해역 전면, 사부 섬 앞바다 해역, 사몬 해역, 동 해역 북방에 반복 돌입, 각 해역의 적을 격멸하라!"
   },
   "293": {
     "code": "B53",
     "name_jp": "「第三航空戦隊」南西諸島防衛線に出撃！",
-    "name": "Sortie the 3rd Carrier Division to Protect the Nansei Islands",
+    "name": "제3항공전대, 남서제도방위선으로 출격!",
     "desc_jp": "編成した「第三航空戦隊」を南西諸島防衛線に展開、敵侵攻艦隊を捕捉撃滅せよ！",
-    "desc": "Sortie Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou (瑞鳳), Chitose (千歳) and Chiyoda (千代田), and up to 2 additional ships to World 1-4 and score an S rank victory at the boss node."
+    "desc": "편성한 제3항공전대를 남서제도방위선에 전개, 적 침공부대를 포착, 격멸하라!"
   },
   "294": {
     "code": "B54",
     "name_jp": "「小沢艦隊」出撃せよ！",
-    "name": "Sortie the Ozawa Fleet",
+    "name": "오자와 함대 출격하라!",
     "desc_jp": "「小沢艦隊」を沖ノ島海域前面に展開し、侵攻する敵機動部隊を捕捉、これを撃滅せよ！",
-    "desc": "Sortie Zuikaku Kai as the flagship, Zuihou Kai, Chitose, Chiyoda, Ise Kai, and Hyuuga Kai to World 2-4 and score an S rank victory at the boss node."
+    "desc": "오자와 함대를 오키노시마 해역 전면에 전개해 침공하는 적 기동부대를 포착, 이를 격멸하라!"
   },
   "295": {
     "code": "B55",
     "name_jp": "「第十六戦隊(第二次)」出撃せよ！",
-    "name": "Sortie the 16th Squadron (2nd Gen.)",
+    "name": "제16전대(제2차) 출격하라!",
     "desc_jp": "「第十六戦隊(第二次)」をオリョール海に展開、敵主力艦隊を捕捉、これを撃滅せよ！",
-    "desc": "Sortie Natori (名取) as the flagship, Isuzu (五十鈴), Kinu (鬼怒) and up to 3 additional ships to World 2-3 and score an S rank victory at the boss node."
+    "desc": "제16전대(제2차)를 오룔해에 전개, 적 주력을 포착, 격멸하라!"
   },
   "296": {
     "code": "B56",
     "name_jp": "新編成航空戦隊、北方へ進出せよ！",
-    "name": "Sortie the New Carrier Division to the North",
+    "name": "신편성 항공전대, 북방으로 진출하라!",
     "desc_jp": "「新編成航空戦隊」をアルフォンシーノ方面へ進出、敵泊地の機動部隊を撃滅せよ！",
-    "desc": "Sortie 2 fleet carriers, 2 aviation battleships or aviation cruisers and 2 destroyers and score an S rank victory at the World 3-3 boss."
+    "desc": "신편성 항공전대를 알폰시노방면에 진출시켜 적 정박지의 기동부대를 격멸하라!"
   },
   "297": {
     "code": "B57",
     "name_jp": "「礼号作戦」実施せよ！",
-    "name": "Operation Rei-go",
+    "name": "예호작전을 실시하라!",
     "desc_jp": "精強な「水上反撃部隊」で、南西諸島沖ノ島沖に突入！同海域の敵戦力を撃滅せよ！",
-    "desc": "Sortie Kasumi as the flagship, Ashigara, Ooyodo, Asashimo, and Kiyoshimo, and up to 3 additional ships and score an S rank victory at the World 2-5 boss."
+    "desc": "정강한 수상반격부대로 남서제도 오키노시마 앞바다에 돌입, 적 전력을 격멸하라!"
   },
   "298": {
     "code": "B124",
     "name_jp": "「第七駆逐隊」、南西諸島を駆ける！",
-    "name": "7th Destroyer Division, sail to the Nansei Islands Region!",
+    "name": "제7구축대, 남서제도를 달리다!",
     "desc_jp": "「曙」「潮」「漣」「朧」から成る「第七駆逐隊」2隻以上を含む有力な艦隊を編成、南西諸島近海、<br>バシー海峡、東部オリョール海、沖ノ島海域の敵戦力を撃滅、南西諸島海域の制海権を確保せよ！",
-    "desc": "Sortie any two of Akebono, Ushio, Sazanami and Oboro and up to 4 additional ships to [W2-1], [W2-2], [W2-3] and [W2-4]. S-Rank the boss nodes."
+    "desc": "아케보노, 우시오, 사자나미, 오보로로 구성된 제7구축대 2척 이상을 포함한 유력한 함대를 편성, 남서제도 근해, 바시 해협, 동부 오룔해, 오키노시마 해역의 적 전력을 격멸, 남서제도 해역의 제해권을 확보하라!"
   },
   "299": {
     "code": "B125",
     "name_jp": "近海の警戒監視と哨戒活動を強化せよ！",
-    "name": "Reinforce Surveillance and Patrols of the Coastal Sea!",
+    "name": "근해의 경계감시와 초계활동을 강화하라!",
     "desc_jp": "軽巡旗艦、駆逐艦または海防艦2隻を含む艦隊を編成、南西諸島沖、製油所地帯沿岸、<br>南西諸島防衛線、南西諸島近海、バシー海峡を哨戒、敵艦隊を捕捉撃滅、近海の制海権を確立せよ！",
-    "desc": "Organize a fleet with a CL as flagship and 2DD/DE in your fleet and score an S rank at the boss nodes on 1-2, 1-3, 1-4, 2-1 and 2-2"
+    "desc": "경순 기함, 구축함 또는 해방함 2척을 포함한 함대를 편성, 남서제도 앞바다, 제유소지대 연안, 남서제도 방위선, 남서제도 근해, 바시 해협을 초계, 적 함대를 포착 격멸, 근해의 제해권을 확립하라!"
   },
   "301": {
     "code": "C1",
