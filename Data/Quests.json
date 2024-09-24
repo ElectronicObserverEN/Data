@@ -9293,5 +9293,18 @@
     "removed_update_id": null,
     "season_id": null,
     "tracker": "[[1018],[[0,[[5,1],5,1]],[0,[[5,3],5,1]],[0,[[5,4],5,1]],[0,[[5,5],5,1]]],[0,[[2,[[2],2,false,0]],[7,[86,false,0,0]],[7,[85,false,0,0]]]]]"
+  },
+  {
+    "id": 726,
+    "api_id": 376,
+    "code": "C77",
+    "name_jp": "「第三戦隊」精鋭第二小隊、特別演習！",
+    "name_en": "\"BatDiv3\" Elite Second Platoon, Special Exercise!",
+    "desc_jp": "【第三戦隊演習】第三戦隊精鋭第二小隊「比叡改二/丙」「霧島改二/丙」を基幹とし、随伴に軽巡1隻、<br>駆逐艦2隻以上を含む演習艦隊で、本日中に演習【S判定】勝利5回以上を達成せよ！",
+    "desc_en": "Organize a fleet with Hiei K2/K2C, Kirishima K2/K2C, 1 CL and 2DD in your fleet and score S rank 5 times in PvP",
+    "added_update_id": 52,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[376],[[9,[6,5]]],[0,[[7,[150,false,1,0]],[7,[152,false,1,0]],[2,[[2],2,false,0]],[2,[[3],1,false,0]]]]]"
   }
 ]

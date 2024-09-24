@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030464",
+  "version": "21030465",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1798,6 +1798,13 @@
     "name": "[BatDiv3] Second Platoon, Begin Exercises!",
     "desc_jp": "【第三戦隊演習】第三戦隊第二小隊「比叡」「霧島」を基幹とし、随伴に軽巡1隻、駆逐艦2隻以上を含む<br>演習艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！第三戦隊第二小隊、演習、始めっ！",
     "desc": "Organize a fleet with Hiei, Kirishima, 1CL, 2DD in your fleet and score S rank 4 times in PvP"
+  },
+  "376": {
+    "code": "C77",
+    "name_jp": "「第三戦隊」精鋭第二小隊、特別演習！",
+    "name": "\"BatDiv3\" Elite Second Platoon, Special Exercise!",
+    "desc_jp": "【第三戦隊演習】第三戦隊精鋭第二小隊「比叡改二/丙」「霧島改二/丙」を基幹とし、随伴に軽巡1隻、<br>駆逐艦2隻以上を含む演習艦隊で、本日中に演習【S判定】勝利5回以上を達成せよ！",
+    "desc": "Organize a fleet with Hiei K2/K2C, Kirishima K2/K2C, 1 CL and 2DD in your fleet and score S rank 5 times in PvP"
   },
   "401": {
     "code": "D1",
