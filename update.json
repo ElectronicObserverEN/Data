@@ -6,7 +6,7 @@
   "ApiServer": "https://eoapi.jebzou.ovh:8443/",
   "hash": "DC14D48C7F8B10D6910BB5F9FF406CC15C7DECD3C70358A6D1F7DCE4C92CA4CC",
   "nodes": 20071518,
-  "QuestTrackers": 213,
+  "QuestTrackers": 214,
   "Locks": 66,
   "FitBonuses": 39,
   "EquipmentUpgrades": 292,
