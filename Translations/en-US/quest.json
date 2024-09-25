@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030455",
+  "version": "21030456",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1788,14 +1788,14 @@
   "374": {
     "code": "2409 C1",
     "name_jp": "【期間限定任務】「三十二駆」特別演習！",
-    "name": "[Time-limited] DesDiv32 Exercises",
+    "name": "[Time-limited] \"DesDiv32\" Special Exercises!",
     "desc_jp": "【期間限定演習】第三十二駆逐隊、夕雲型駆逐艦「玉波」「涼波」「藤波」「早波」「浜波」のうち<br>3隻以上を含む演習艦隊で、本日中に演習【S判定】勝利3回以上を達成せよ！演習、始めっ！",
     "desc": "Organize a fleet with any 3 of Tamanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet and score S rank 3 times in PvP"
   },
   "375": {
     "code": "Cy15",
     "name_jp": "「第三戦隊」第二小隊、演習開始！",
-    "name": "[BatDiv3] Second Platoon, Begin Exercises!",
+    "name": "\"BatDiv3\" Second Platoon, Begin Exercises!",
     "desc_jp": "【第三戦隊演習】第三戦隊第二小隊「比叡」「霧島」を基幹とし、随伴に軽巡1隻、駆逐艦2隻以上を含む<br>演習艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！第三戦隊第二小隊、演習、始めっ！",
     "desc": "Organize a fleet with Hiei, Kirishima, 1CL, 2DD in your fleet and score S rank 4 times in PvP"
   },
@@ -4166,9 +4166,9 @@
     "desc": "Organize a fleet with 3 of Hayashimo, Akishimo, Asashimo or Kiyoshimo in your fleet with one as flagship and score an S rank at the boss nodes on 1-2, 1-5 and 2-3 twice each"
   },
   "1018": {
-    "code": "B205",
+    "code": "By15",
     "name_jp": "「第三戦隊」第二小隊、鉄底海峡へ！",
-    "name": "[BatDiv3] Second Platoon, Heading to Iron Bottom Sound!",
+    "name": "\"BatDiv3\" Second Platoon, Heading To Iron Bottom Sound!",
     "desc_jp": "第三戦隊第二小隊「比叡」「霧島」を基幹とし、随伴に駆逐艦2隻以上を含む艦隊で、南方海域前面、<br>サブ島沖海域、サーモン海域、サーモン海域北方へ展開！敵主力を捜索、これを痛撃せよ！",
     "desc": "Organize a fleet with Hiei, Kirishima and 2DD in your fleet and score an A rank at the boss nodes on 5-1, 5-3, 5-4 and 5-5."
   },
@@ -4182,7 +4182,7 @@
   "1020": {
     "code": "2409 B1",
     "name_jp": "【期間限定任務】「第三戦隊」緊急展開！",
-    "name": "[Time-limited] [BatDiv3] Emergency Deployment!",
+    "name": "[Time-limited] \"BatDiv3\" Emergency Deployment!",
     "desc_jp": "第三戦隊「金剛」「比叡」「榛名」「霧島」の2隻以上を含む高速戦艦部隊で、南西諸島防衛線、<br>南西諸島近海、バシー海峡、カレー洋海域に出撃！同海域の敵を捕捉、これを蹴散らせッ！",
     "desc": "Organize a fleet with 2 Kongou-class in your fleet and score an S rank at the boss nodes on 1-4, 2-1, 2-2 and 4-2"
   },
@@ -4422,6 +4422,6 @@
     "name_jp": "「霧島改二丙」改装工廠任務",
     "name": "\"Kirishima Kai Ni C\" Arsenal Remodel Quest",
     "desc_jp": "旗艦「霧島改二丙」第一スロに「35.6cm連装砲改二」(★+8以上)装備。「35.6cm連装砲」x8を<br>廃棄。「35.6cm連装砲改」x1、新型砲熕兵装資材x2、鋼材7,800、新型兵装資材x2準備！",
-    "desc": "Have your secretary flagship Kirishima Kai Ni C equip a ★+8 35.6cm Twin Gun Mount Kai Ni in the first slot and then proceed to scrap 8x 35.6cm Twin Gun Mount and have 1x 35.6cm Twin Gun Mount Kai, 2x New Model Gun Mount Improvement Material, 2x New Model Armament Material and 7800x steel (All resources and Materials will be consumed upon completion)"
+    "desc": "Have your secretary flagship Kirishima Kai Ni C equip a ★+8 35.6cm Twin Gun Mount Kai Ni in the first slot and then proceed to scrap 8x 35.6cm Twin Gun and have 1x 35.6cm Twin Gun Mount Kai, 2x New Model Gun Mount Improvement Material, 2x New Model Armament Material and 7800x steel (All resources and Materials will be consumed upon completion)"
   }
 }

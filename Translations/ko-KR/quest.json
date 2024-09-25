@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030467",
+  "version": "21030468",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4166,9 +4166,9 @@
     "desc": "Organize a fleet with 3 of Hayashimo, Akishimo, Asashimo or Kiyoshimo in your fleet with one as flagship and score an S rank at the boss nodes on 1-2, 1-5 and 2-3 twice each"
   },
   "1018": {
-    "code": "B205",
+    "code": "By15",
     "name_jp": "「第三戦隊」第二小隊、鉄底海峡へ！",
-    "name": "[BatDiv3] Second Platoon, Heading to Iron Bottom Sound!",
+    "name": "\"BatDiv3\" Second Platoon, Heading To Iron Bottom Sound!",
     "desc_jp": "第三戦隊第二小隊「比叡」「霧島」を基幹とし、随伴に駆逐艦2隻以上を含む艦隊で、南方海域前面、<br>サブ島沖海域、サーモン海域、サーモン海域北方へ展開！敵主力を捜索、これを痛撃せよ！",
     "desc": "Organize a fleet with Hiei, Kirishima and 2DD in your fleet and score an A rank at the boss nodes on 5-1, 5-3, 5-4 and 5-5."
   },
