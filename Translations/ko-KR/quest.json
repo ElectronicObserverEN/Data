@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030469",
+  "version": "21030470",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4385,43 +4385,43 @@
   "1138": {
     "code": "Fy11",
     "name_jp": "【高射装置量産】94式高射装置の追加配備",
-    "name": "【高射装置量産】94式高射装置の追加配備",
+    "name": "【고사장치양산】 94식 고사장치의 추가 배비",
     "desc_jp": "旗艦に秋月型駆逐艦を配備し、「91式高射装置」x4を廃棄。ボーキサイト1,300、鋼材480、<br>高速建造材x4、開発資材x16を準備せよ！(任務達成後、準備した資源・資材は消費します)",
-    "desc": "Have an Akizuki-class as secretary flagship then proceed to scrap 4x Type 91 AAFD and have 1300 bauxite, 480 steel, 4 flamethrowers and 16 devmats (All resources and Materials will be consumed upon completion)"
+    "desc": "기함에 아키즈키급 구축함을 배치해, 「91식 고사장치」×4를 폐기. 보크사이트 1,300, 강재 480,<br>고속건조재×4, 개발자재×16을 준비하라! (임무 달성 후, 준비한 자원 · 자재는 소비합니다)"
   },
   "1139": {
     "code": "F124",
     "name_jp": "【艦隊通信能力の強化】通信要員の育成",
-    "name": "[Strengthening Fleet Communications Capabilities] Communications personnel training",
+    "name": "【함대 통신능력의 강화】 통신요원의 육성",
     "desc_jp": "旗艦「大淀」の第一スロに「13号対空電探」を装備。開発資材x20準備。「21号対空電探」x2、<br>「13号対空電探」x2、「戦闘糧食」x3を廃棄せよ！(任務達成後、開発資材は消費します)",
-    "desc": "Have your secretary flagship Ooyodo equip a Type 13 Air RADAR in the first slot and then proceed to scrap 2x Type 21 Air RADAR, 2x Type 13 Air RADAR and 3x Combat Ration and have 20x Development Materials (All resources and Materials will be consumed upon completion)"
+    "desc": "기함 「오요도」의 제1슬롯에 「13호 대공전탐」을 장비. 개발자재×20 준비. 「21호 대공전탐」×2, <br>「13호 대공전탐」×2, 「전투식량」×3을 폐기하라! (임무 달성 후, 개발자재는 소비합니다)"
   },
   "1140": {
     "code": "F125",
     "name_jp": "【新鋭海外艦装備】新型四連装主砲の開発",
-    "name": "[New Foreign Ship Equipment] Development Of The New Quadruple Main Gun",
+    "name": "【신예 해외함 장비】 신형 4연장 주포의 개발",
     "desc_jp": "旗艦「Richelieu Deux」第一及び第二スロに「38cm四連装砲改」を装備。開発資材x20及び<br>海外艦最新技術x1を準備。「41cm連装砲」x4を廃棄せよ！(任務達成後資材・装備は消費)",
-    "desc": "Have your secretary flagship Richelieu Deux equip a 38cm Quadruple Gun Kai in the first slot and then proceed to scrap 4x 41cm Twin Gun and have 1x Latest Overseas Warship Technology and 20x Development Materials (All resources and Materials will be consumed upon completion)"
+    "desc": "기함 「Richelieu Deux」 제1 및 제2슬롯에 「38cm 4연장포 개」를 장비. 개발자재×20 및<br>해외함최신기술×1을 준비.「41cm 연장포」×4를 폐기하라! (임무 달성 후 자재 · 장비는 소비)"
   },
   "1141": {
     "code": "F126",
     "name_jp": "最新改修型三座水上偵察機の開発",
-    "name": "Development Of The Latest Modified Three-seater Reconnaissance Seaplane",
+    "name": "최신 개수형 삼좌 수상정찰기의 개발",
     "desc_jp": "旗艦「大和改二/重」または「由良改二」「矢矧改二/乙」第一スロに最大改修「零式水上偵察機11型<br>乙」。「零式水上偵察機」x15廃棄、新型航空兵装資材x2、開発資材x60、夜間熟練搭乗員x1準備！",
-    "desc": "Have your secretary flagship Yamato Kai Ni (Kai Ni Juu) or Yura Kai Ni or Yahagi Kai Ni equip a ★max Type 0 Recon Seaplane Model 11B in the first slot and then proceed to scrap 15x Type 0 Recon Seaplane and have 2x New Model Aerial Armament Materials, 60x Development Material and 1x Night Skilled Crew Member (All resources and Materials will be consumed upon completion)"
+    "desc": " 기함 「야마토 改2/重」 또는 「유라 改2」 「야하기 改2/乙」 제1슬롯에 최대개수 「영식 수상정찰기 11형<br>乙」. 「영식 수상정찰기」×15 폐기. 신형항공병장자재×2, 개발자재×60, 야간 숙련탑승원×1 준비!"
   },
   "1142": {
     "code": "F127",
     "name_jp": "最精鋭「天山」装備艦攻隊の配備",
-    "name": "Deploying The Elite \"Tenzan\" Equipped Attacker Squadron",
+    "name": "최정예 \"텐잔\" 장비 함상공격기 부대의 배비",
     "desc_jp": "旗艦「翔鶴改二/甲」第一スロに「天山一二型(村田隊)」配備。「天山」x4を廃棄。「天山一二型甲改<br>(空六号電探改装備機)」x1、新型航空兵装資材x2、開発資材x48、夜間熟練搭乗員x1準備！",
-    "desc": "Have your secretary flagship Shoukaku Kai Ni/A equip a Tenzan Model 12 (Murata Squadron) in the first slot and then proceed to scrap 4x Tenzan and have 1x Tenzan Model 12A Kai (w/ Type 6 Airborne Radar Kai), 2x New Model Aerial Armament Material, 1x Night Skilled Crew Member and 48x Development Materials (All resources and Materials will be consumed upon completion)"
+    "desc": "기함 「쇼카쿠 改2/甲」 제1슬롯에 「텐잔 12형 (무라타대)」 배비. 「텐잔」×4를 폐기. 「텐잔 12형 甲 改<br>(공6호 전탐 改 장비기)」×1, 신형항공병장자재×2, 개발자재×48, 야간 숙련탑승원×1 준비!"
   },
   "1143": {
     "code": "F128",
-    "name_jp": "「霧島改二丙」改装工廠任務",
-    "name": "\"Kirishima Kai Ni C\" Arsenal Remodel Quest",
+    "name_jp": "「霧島二丙」改装工廠任務",
+    "name": "\"키리시마 改2丙\" 개장 공창임무",
     "desc_jp": "旗艦「霧島改二丙」第一スロに「35.6cm連装砲改二」(★+8以上)装備。「35.6cm連装砲」x8を<br>廃棄。「35.6cm連装砲改」x1、新型砲熕兵装資材x2、鋼材7,800、新型兵装資材x2準備！",
-    "desc": "Have your secretary flagship Kirishima Kai Ni C equip a ★+8 35.6cm Twin Gun Mount Kai Ni in the first slot and then proceed to scrap 8x 35.6cm Twin Gun Mount and have 1x 35.6cm Twin Gun Mount Kai, 2x New Model Gun Mount Improvement Material, 2x New Model Armament Material and 7800x steel (All resources and Materials will be consumed upon completion)"
+    "desc": " 「키리시마 改2丙」 제1슬롯에 「35.6cm 연장포 改2」 (★+8 이상) 장비. 「35.6cm 연장포」×8을<br>폐기. 「35.6cm 연장포 改」×1, 신형포공병장자재×2, 강재7,800, 신형병장자재×2 준비!"
   }
 }
