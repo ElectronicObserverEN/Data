@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030468",
+  "version": "21030469",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1354,170 +1354,170 @@
   "301": {
     "code": "C1",
     "name_jp": "はじめての「演習」！",
-    "name": "Your First Exercise",
+    "name": "첫 연습!",
     "desc_jp": "他の提督(プレイヤー)の艦隊と「演習」を行おう！",
-    "desc": "Challenge another fleet in exercises."
+    "desc": "다른 제독(플레이어)의 함대와 연습을 벌이자!"
   },
   "302": {
     "code": "Cw1",
     "name_jp": "大規模演習",
-    "name": "Large-scale Exercises",
+    "name": "대규모연습",
     "desc_jp": "今週中に「演習」で他の提督の艦隊に対して20回「勝利」しよう！",
-    "desc": "Get 20 victories in exercises within the same week."
+    "desc": "이번 주 안에 연습으로 타 제독의 함대에게 20회 승리하자!"
   },
   "303": {
     "code": "Cd1",
     "name_jp": "「演習」で練度向上！",
-    "name": "Do Exercises",
+    "name": "연습으로 숙련도 향상!",
     "desc_jp": "本日中に他の司令官の艦隊に対して3回「演習」を挑もう！",
-    "desc": "Challenge 3 other fleets in exercises within the same day."
+    "desc": "오늘 중 타 사령관의 함대를 상대로 3회 연습 도전하자!"
   },
   "304": {
     "code": "Cd2",
     "name_jp": "「演習」で他提督を圧倒せよ！",
-    "name": "Defeat Other Admirals",
+    "name": "연습으로 타 제독을 압도하라!",
     "desc_jp": "本日中に他の司令官の艦隊との「演習」で5回以上「勝利」をおさめよう！",
-    "desc": "Get 5 victories in exercises within the same day."
+    "desc": "오늘 중 타 사령관의 함대를 상대로 5회 이상 승리를 거두자!"
   },
   "306": {
     "code": "WC01",
     "name_jp": "式の準備！(その弐)",
-    "name": "In Preparation of Love (Part 2)",
+    "name": "식의 준비! (2)",
     "desc_jp": "本日中に「演習」で2回以上「勝利」をおさめ、式への気持ちを整理しよう！",
-    "desc": "Show your love by getting 2 victories in exercises."
+    "desc": "오늘 중으로 연습에 2회 이상 승리해, 식에 대한 기분을 정리하자!"
   },
   "307": {
     "code": "C5",
     "name_jp": "艦隊の練度向上に努めよ！",
-    "name": "Improve the Efficiency of the Fleet",
+    "name": "함대의 숙련도 향상에 힘써라!",
     "desc_jp": "作戦前に艦隊の練度向上を図る！本日中に「演習」で3回以上「勝利」をおさめよう！",
-    "desc": "Get 3 victories in exercises within the same day."
+    "desc": "작전에 앞서 함대의 숙련도 향상을 도모하라! 오늘 안에 연습에서 3회 이상 승리를 거두!"
   },
   "308": {
     "code": "C6",
     "name_jp": "演習を強化、艦隊の練度向上に努めよ！",
-    "name": "Improve the Efficiency of the Fleet Again",
+    "name": "연습을 강화, 함대의 숙련도를 향상시키자!",
     "desc_jp": "艦隊のさらなる練度向上を図る！本日中に「演習」で4回以上「勝利」をおさめよう！",
-    "desc": "Get 4 victories in exercises within the same day."
+    "desc": "함대의 추가 숙련도 향상을 위해 오늘 내에 연습에서 4회 이상 승리를 거두자!"
   },
   "309": {
     "code": "C7",
     "name_jp": "北方再突入に備え、練度向上に努めよ！",
-    "name": "Prepare for the Second Iteration of Operation Ke",
-    "desc_jp": "艦隊再突入に備え、艦隊練度向上を図る！本日中に「演習」で4回以上「勝利」せよ！",
+    "name": "북방재돌입을 대비하여 숙련도 향상에 힘쓰자!e",
+    "desc_jp": "함대재돌입에 대비해, 함대 숙련도 향상을 도모! 오늘 내에 연습에서 4회이상 승리하라!",
     "desc": "Get 4 victories in exercises within the same day."
   },
   "311": {
     "code": "Cm1",
     "name_jp": "精鋭艦隊演習",
-    "name": "Elite Fleet Exercises",
+    "name": "정예 함대 연습",
     "desc_jp": "同日中に「演習」で7回以上「勝利」をおさめ、我が精鋭艦隊の練度を示そう！",
-    "desc": "Get 7 victories in exercises within the same day."
+    "desc": "하루 중에 연습에서 7회 이상 승리해 정예부대의 훈련도를 과시하자!"
   },
   "312": {
     "code": "C9",
     "name_jp": "上陸部隊演習",
-    "name": "Landing Force Exercises",
+    "name": "상륙부대 연습",
     "desc_jp": "島嶼攻略部隊の練度向上のため、本日中に演習で4回以上「勝利」せよ！",
-    "desc": "Get 4 victories in exercises within the same day."
+    "desc": "도서공략부대의 숙련도 향상을 위해 오늘 중으로 연습에서 4회 이상 승리하라!"
   },
   "313": {
     "code": "Cs1",
     "name_jp": "秋季大演習",
-    "name": "Autumn Large-scale Exercises",
+    "name": "추계대연습",
     "desc_jp": "秋の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！",
-    "desc": "Get 8 victories in exercises within the same day."
+    "desc": "가을 중 하룻동안 연습에서 8회 이상 승리해 함대의 훈련도 향상에 임하라!"
   },
   "314": {
     "code": "Cs2",
     "name_jp": "冬季大演習",
-    "name": "Winter Large-scale Exercises",
+    "name": "동계대연습",
     "desc_jp": "冬季大演習：冬の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！",
-    "desc": "Get 8 victories in exercises within the same day."
+    "desc": "겨울 중 하룻동안 연습에서 8회 이상 승리해 함대의 추가적인 훈련도 향상에 임하라!"
   },
   "315": {
     "code": "Cs3",
     "name_jp": "春季大演習",
-    "name": "Spring Large-scale Exercises",
+    "name": "춘계대연습",
     "desc_jp": "春季大演習：春の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！",
-    "desc": "Get 8 victories in exercises within the same day."
+    "desc": "춘계대연습: 봄 중 하룻동안 연습에서 8회 이상 승리해 함대의 추가적인 훈련도 향상에 임하라!"
   },
   "316": {
     "code": "C13",
     "name_jp": "輸送部隊の練度向上に努めよ！",
-    "name": "Raise the Transport Unit's Experience!",
+    "name": "수송부대의 숙련도 향상에 노력하라!",
     "desc_jp": "演習任務：輸送部隊の練度向上を図る！本日中に演習で4回以上「勝利」せよ！",
-    "desc": "Get 4 victories in exercises within the same day."
+    "desc": "훈련임무: 수송부대의 숙련도 향상을 도모하라! 오늘 중에 훈련에서 4회 이상 승리하라!"
   },
   "317": {
     "code": "C15",
     "name_jp": "甲型駆逐艦の戦力整備計画",
-    "name": "Project To Improve The Combat Strength Of the Type-A Destroyers",
+    "name": "갑형 구축함의 전력 정비 계획",
     "desc_jp": "甲型駆逐艦整備任務：甲型駆逐艦【夕雲型/陽炎型】を2隻以上配備した第一艦隊で演習で3回「勝利」、<br>その後、同艦隊を南西諸島海域に投入。各出撃で得られた戦訓を艦隊型駆逐艦戦力整備に活用せよ！",
-    "desc": "Get 3 victories in exercises and then obtain an A-rank victory at [W2-2], [W2-3], [W2-4], and [W2-5] boss using the main fleet including 2 Kagerou-Class or Yuugumo-Class Destroyers."
+    "desc": "갑형 구축함 정비임무: 갑형 구축함[유구모형/카게로형]을 2척 이상 배치한 제 1함대로 훈련에서 3회 승리, 그 후, 이 함대를 남서제도해역에 투입. 각 출격에서 얻은 전훈을 함대형 구축함 전력 정비에 활용하라!"
   },
   "318": {
     "code": "Cm2",
     "name_jp": "給糧艦「伊良湖」の支援",
-    "name": "Support from Supply Ship \"Irako\"",
+    "name": "급량함 이라코의 지원",
     "desc_jp": "伊良湖支援任務：軽巡を2隻以上配備した第一艦隊で本日中に演習で3回「勝利」、その後、<br>第一艦隊旗艦に戦闘糧食を二つ装備せよ！\u3000※任務達成後、同戦闘糧食は消費します",
-    "desc": "Assemble a fleet containing at least 2 CL in your First Fleet, then score 3 B+ ranks in exercises within the same day.  Afterwards, equip the Fleet 1 flagship with 2 Combat Rations."
+    "desc": "이라코 지원임무: 경순을 2척 이상 배치한 제1함대로 오늘 중 훈련에서 3회 승리, 그 뒤 제1함대 기함에 전투식량을 2개 장비하라! ※임무 달성 후, 이 전투식량은 소비합니다."
   },
   "319": {
     "code": "C17",
     "name_jp": "精鋭「第二一駆」、猛特訓！",
-    "name": "Elite 21st Destroyer Division, Train Intensively!",
+    "name": "정예 제21구, 맹훈련!",
     "desc_jp": "駆逐隊演習任務：精鋭「第二一駆逐隊」3隻を含む艦隊を編成。作戦に先立ち、猛特訓を開始する！<br>同艦隊で、本日中に演習で4回勝利せよ！",
-    "desc": "Secure 4 victories in Exercises within the same day using Hatsuharu Kai Ni, Wakaba Kai, Hatsushimo Kai Ni and up to 3 other ships."
+    "desc": "구축대 훈련 임무 : 정예 제21구축대 3척을 포함한 함대를 편성. 작전에 앞서 맹훈련을 시작하라! 이 함대로 오늘 중에 훈련에서 4번 승리하라!"
   },
   "320": {
     "code": "C18",
     "name_jp": "駆逐隊、特訓始め！",
-    "name": "Destroyer Division, Commence Intensive Training!",
+    "name": "구축대, 훈련 시작!",
     "desc_jp": "駆逐隊演習任務：駆逐艦4隻で編成される駆逐隊。この駆逐隊を含む艦隊を編成。<br>特訓を開始する！同艦隊で本日中に演習にて4回以上勝利せよ！",
-    "desc": "Secure 4 victories in Exercises within the same day using 4 DD and up to 2 additional ships."
+    "desc": "구축대 훈련 임무 : 구축함 4척으로 편성된 구축대. 이 구축대를 포함한 함대를 편성. 특훈을 개시하자! 이 함대로 오늘 중에 훈련에서 4번 이상 승리하라!"
   },
   "321": {
     "code": "5A04",
     "name_jp": "五周年任務【肆：演習】",
-    "name": "Fifth Anniversary Mission IV: Exercises",
+    "name": "5주년 임무 [사：연습]",
     "desc_jp": "五周年任務：駆逐艦または海防艦2隻以上を含む五隻の特別編成の艦隊を編成！<br>この五周年特別艦隊で、本日中に演習で4回以上勝利せよ！",
-    "desc": "Secure 4 victories in Exercises within the same day using 2 DD/DE and 3 additional ships."
+    "desc": "5주년 임무：구축함 뙈는 해방함 2척 이상을 포함한 5척의 특별 함대를 편성! 이 5주년 특별 함대로, 오늘 중 연습에서 4회 이상 승리해라!"
   },
   "322": {
     "code": "C20",
     "name_jp": "海防艦、演習始め！",
-    "name": "Kaiboukan, Commence Exercises!",
+    "name": "해방함, 연습 시작!",
     "desc_jp": "海防艦演習任務：海防艦を旗艦に配備し、随伴艦に駆逐艦2隻以上を配した演習艦隊を編成。<br>本演習艦隊で、本日中に演習で2回以上勝利せよ！",
-    "desc": "Secure 2 victories in Exercises within the same day using a DE flagship, 2 DD, and up to 3 additional ships."
+    "desc": "해방함 연습임무 : 해방함을 기함으로 배치하고, 수반함에 구축함 2척 이상을 배치한 연습 함대를 편성. 본 연습함대로, 오늘 중에 연습에서 2번 이상 승리하라!"
   },
   "323": {
     "code": "C21",
     "name_jp": "最精鋭甲型駆逐艦、特訓始め！",
-    "name": "Supreme Type-A Destroyers, Commence Intensive Training!",
+    "name": "최정예 갑형 구축함, 특훈 시작!",
     "desc_jp": "甲型駆逐隊演習任務：練度70以上の甲型駆逐艦【陽炎型/夕雲型】駆逐艦4隻で編成される駆逐隊。<br>この精鋭駆逐隊を含む艦隊を編成。演習を開始する！同艦隊で本日中に演習にて4回以上勝利せよ！",
-    "desc": "Secure 4 victories in Exercises within the same day using 4 Lv70+ Kagerou/Yuugumo-class DD and up to 2 additional ships."
+    "desc": "갑형 구축대 연습 임무 : 숙련도 70이상의 갑형 구축함 [카게로형/유구모형] 구축함 4척으로 편성되는 구축대. 이 정예 구축대를 포함한 함대를 편성. 연습을 개시한다! 동함대로 오늘 중에 훈련에서 4번 이상 승리하라!"
   },
   "324": {
     "code": "C22",
     "name_jp": "戦闘航空母艦一番艦、演習始め！",
-    "name": "Battle Carrier Lead Ship, Commence Exercises!",
+    "name": "전투항공모함 1번함, 연습 시작!",
     "desc_jp": "改装航空戦艦(戦闘航空母艦)演習任務：旗艦「伊勢改二」、随伴艦に駆逐艦2隻以上を配した航空戦隊<br>を編成。新改装艦の慣熟も兼ねた同航空戦隊の演習で、本日中に3回以上勝利せよ！",
-    "desc": "Secure 3 victories in Exercises within the same day using Ise Kai Ni as flagship, 2 DD and up to 3 additional ships."
+    "desc": "개장항공전함(전투항공모함) 연습 임무 : 기함 이세 改2, 수반함에 구축함 2척 이상을 배치한 항공 전대를 편성. 신 개장함에도 익숙해질 겸 동 항공전대의 연습에서, 오늘 중에 3회 이상 승리하라!"
   },
   "325": {
     "code": "C23",
     "name_jp": "改夕雲型、演習始め！",
-    "name": "Remodelled Yuugumo-class, Begin Training!",
+    "name": "改 유구모형, 연습 시작!",
     "desc_jp": "改夕雲型演習任務：改夕雲型駆逐艦「夕雲改二」「長波改二」の精鋭駆逐艦2隻を含む艦隊を編成。<br>改夕雲型駆逐隊の慣熟演習を開始する！同艦隊で本日中に演習にて4回以上勝利せよ！",
-    "desc": "Use a fleet with Yuugumo Kai Ni, Naganami Kai Ni, and up to 4 additonal ships to obtain a B-rank (or higher) in Exercises 4 times within the same day."
+    "desc": "改유구모형 연습 임무 : 改유구모형 구축함 유구모 改2, 나가나미 改2의 정예 구축함 2척을 포함한 함대를 편성. 改유구모형 구축대와 익숙해지기 위한 연습을 시작하자! 동 함대로 오늘 중에 훈련에서 4번 이상 승리하라!"
   },
   "326": {
     "code": "Cs4",
     "name_jp": "夏季大演習",
-    "name": "Mass Exercises for Summer",
+    "name": "하계대연습",
     "desc_jp": "夏季大演習：夏季期間の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！<br>暑さに負けるな！\u3000艦隊、抜錨！",
-    "desc": "Secure 8 victories in Exercises within the same day."
+    "desc": "하계대연습: 하계 기간의 하루중에 연습에서 8회 이상 승리를 거둬 함대의 숙련도 향상에 힘써라! 더위에 지지 마라! 함대, 발묘!"
   },
   "327": {
     "code": "C25",
