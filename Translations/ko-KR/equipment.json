@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030279",
+  "version": "21030280",
   "equipment": {
     "12cm単装砲": "12cm 단장포",
     "12.7cm連装砲": "12.7cm 연장포",
@@ -689,7 +689,8 @@
     "15.2cm深海三連装砲": "Abyssal 15.2cm Triple Gun Mount",
     "深海野牛艦戦 Mk.II": "Abyssal Buffalo Fighter Mk.II",
     "深海不屈艦爆 Mk.II": "Abyssal Dauntless Dive Bomber Mk.II",
-    "深海打撃艦攻 Mk.II": "Abyssal Devastation Torpedo Bomber Mk.II"
+    "深海打撃艦攻 Mk.II": "Abyssal Devastation Torpedo Bomber Mk.II",
+    "試製 震電(局地戦闘機)": "Prototype Shinden (Land-based Fighter)"
   },
   "equiptype": {
     "小口径主砲": "소구경주포",
