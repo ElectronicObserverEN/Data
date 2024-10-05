@@ -3325,7 +3325,9 @@
       }
     ],
     "convert_to": [],
-    "upgrade_for": []
+    "upgrade_for": [
+      240
+    ]
   },
   {
     "eq_id": 30,
@@ -17304,11 +17306,16 @@
             "consumable": []
           },
           "p2": {
-            "devmats": 0,
-            "devmats_sli": 0,
-            "screws": 0,
-            "screws_sli": 0,
-            "equips": [],
+            "devmats": 12,
+            "devmats_sli": 15,
+            "screws": 6,
+            "screws_sli": 9,
+            "equips": [
+              {
+                "id": 29,
+                "eq_count": 1
+              }
+            ],
             "consumable": []
           }
         }
