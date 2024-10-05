@@ -28191,10 +28191,10 @@
           }
         ],
         "costs": {
-          "fuel": 240,
-          "ammo": 230,
+          "fuel": 200,
+          "ammo": 270,
           "steel": 0,
-          "baux": 360,
+          "baux": 350,
           "p1": {
             "devmats": 4,
             "devmats_sli": 5,
