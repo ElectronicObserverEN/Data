@@ -14673,7 +14673,8 @@
       419,
       420,
       544,
-      543
+      543,
+      541
     ]
   },
   {
@@ -28064,7 +28065,10 @@
     "eq_id": 541,
     "improvement": [
       {
-        "convert": null,
+        "convert": {
+          "id_after": 544,
+          "lvl_after": 0
+        },
         "helpers": [
           {
             "ship_ids": [
@@ -28112,11 +28116,29 @@
               }
             ],
             "consumable": []
+          },
+          "conv": {
+            "devmats": 5,
+            "devmats_sli": 7,
+            "screws": 4,
+            "screws_sli": 5,
+            "equips": [
+              {
+                "id": 195,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
           }
         }
       }
     ],
-    "convert_to": [],
+    "convert_to": [
+      {
+        "id_after": 544,
+        "lvl_after": 0
+      }
+    ],
     "upgrade_for": []
   },
   {
