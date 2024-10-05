@@ -20039,8 +20039,8 @@
           "conv": {
             "devmats": 9,
             "devmats_sli": 17,
-            "screws": 8,
-            "screws_sli": 9,
+            "screws": 6,
+            "screws_sli": 8,
             "equips": [
               {
                 "id": 294,
