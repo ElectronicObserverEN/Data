@@ -1,10 +1,10 @@
-{
-  "bld_date": "2024/08/17 14:00:00",
-  "ver": "5.3.7",
+﻿{
+  "bld_date": "2024/10/05 12:00:00",
+  "ver": "5.3.8",
   "note": "Check github for release notes: https://github.com/ElectronicObserverEN/ElectronicObserver/releases",
-  "url": "https://github.com/ElectronicObserverEN/ElectronicObserver/releases/download/5.3.7/ElectronicObserver5.3.7EN.zip",
+  "url": "https://github.com/ElectronicObserverEN/ElectronicObserver/releases/download/5.3.8/ElectronicObserver5.3.8EN.zip",
   "ApiServer": "https://eoapi.jebzou.ovh:8443/",
-  "hash": "DC14D48C7F8B10D6910BB5F9FF406CC15C7DECD3C70358A6D1F7DCE4C92CA4CC",
+  "hash": "0521491584506A34F9BC006152964F29949B9E41F948EE74ACE61BFEBAAA4B68",
   "nodes": 20071518,
   "QuestTrackers": 215,
   "Locks": 66,
