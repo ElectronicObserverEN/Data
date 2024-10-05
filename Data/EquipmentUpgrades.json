@@ -19949,7 +19949,7 @@
           "fuel": 10,
           "ammo": 40,
           "steel": 70,
-          "baux": 0,
+          "baux": 10,
           "p1": {
             "devmats": 2,
             "devmats_sli": 3,
@@ -19974,14 +19974,6 @@
                 "eq_count": 2
               }
             ],
-            "consumable": []
-          },
-          "conv": {
-            "devmats": 0,
-            "devmats_sli": 0,
-            "screws": 0,
-            "screws_sli": 0,
-            "equips": [],
             "consumable": []
           }
         }
