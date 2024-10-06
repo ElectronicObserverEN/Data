@@ -24934,8 +24934,8 @@
           "steel": 0,
           "baux": 350,
           "p1": {
-            "devmats": 3,
-            "devmats_sli": 4,
+            "devmats": 4,
+            "devmats_sli": 5,
             "screws": 3,
             "screws_sli": 3,
             "equips": [
