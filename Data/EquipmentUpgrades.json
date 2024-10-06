@@ -15211,7 +15211,7 @@
           "fuel": 180,
           "ammo": 0,
           "steel": 980,
-          "baux": 0,
+          "baux": 80,
           "p1": {
             "devmats": 20,
             "devmats_sli": 30,
