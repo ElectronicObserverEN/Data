@@ -25696,7 +25696,7 @@
         "costs": {
           "fuel": 150,
           "ammo": 220,
-          "steel": 0,
+          "steel": 20,
           "baux": 390,
           "p1": {
             "devmats": 5,
