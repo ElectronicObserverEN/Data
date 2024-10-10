@@ -7506,7 +7506,7 @@
           },
           "conv": {
             "devmats": 12,
-            "devmats_sli": 19,
+            "devmats_sli": 18,
             "screws": 7,
             "screws_sli": 10,
             "equips": [
