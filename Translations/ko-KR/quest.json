@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030471",
+  "version": "21030472",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1522,44 +1522,44 @@
   "327": {
     "code": "C25",
     "name_jp": "朝潮型集合！特訓始め！",
-    "name": "Asashio-class, Assemble! Commence Intensive Training!",
+    "name": "아사시오형 집합! 특훈 시작!",
     "desc_jp": "朝潮型演習任務：朝潮型駆逐艦4隻による駆逐隊を含む艦隊を編成。<br>同艦隊で本日中に演習にて4回以上勝利せよ！朝潮型駆逐艦、前へ！",
-    "desc": "Secure 4 victories in Exercises within the same day using at least four of Asashio-class and up to 2 additional ships."
+    "desc": "아사시오형 연습 임무: 아사시오형 구축함 4척의 구축대를 포함한 함대를 편성. 이 함대로 오늘 중에 훈련에서 4번 이상 승리하라! 아사시오형 구축함, 앞으로!"
   },
   "328": {
     "code": "C27",
     "name_jp": "精強「十七駆」、猛特訓！",
-    "name": "Elite 17th Destroyer Division, Begin the Intense Training!",
+    "name": "정강 17구축대, 맹특훈!",
     "desc_jp": "駆逐隊演習任務：精強「第十七駆逐隊」4隻を含む艦隊を編成。新改装精強駆逐隊による<br>猛特訓を開始する！同艦隊で、本日中に演習で4回以上勝利せよ！",
-    "desc": "Use a fleet with Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai, Tanikaze D Kai, and up to 2 additional ships to obtain a B-rank (or higher) in Exercises 4 times within the same day."
+    "desc": "구축대 연습 임무 : 정예 제17구축대 4척을 포함한 함대를 편성. 신개장 정강 구축대의 맹특훈을 시작하자! 이 함대로 오늘 중에 훈련에서 4번 이상 승리하라!"
   },
   "330": {
     "code": "Cq1",
     "name_jp": "空母機動部隊、演習始め！",
-    "name": "Carrier Task Force, Commence Exercises!",
+    "name": "항모 기동 부대, 연습 시작!",
     "desc_jp": "空母機動部隊演習任務：航空母艦旗艦他1隻計2隻以上及び駆逐艦2隻を含む空母機動部隊を編成。<br>機動部隊各艦の練度向上を図る！同艦隊で、本日中に演習で4回以上勝利せよ！",
-    "desc": "Use a fleet with a CVL/CV/CVB as flagship, 1 other CVL/CV/CVB, 2 DD, and up to 2 additional ships to obtain a B-rank (or higher) in Exercises 4 times within the same day."
+    "desc": "항모 기동 부대 연습 임무 : 항공모함 기함 외 1척 총 2척 이상 및 구축함 2척을 포함한 항모 기동 부대를 편성. 기동 부대 각 함의 숙련도 향상을 도모한다! 동 함대로 오늘 중의 연습에서 4회 이상 승리하라!"
   },
   "331": {
     "code": "C31",
     "name_jp": "艦載機演習",
-    "name": "Aircraft Exercise",
+    "name": "함재기 연습",
     "desc_jp": "艦載機演習任務：正規空母旗艦他1隻計2隻以上及び駆逐艦2隻を含む空母機動部隊を編成。<br>艦載機の練度向上と装備充実を図る！同機動部隊で、本日中に演習を【A判定】以上3回勝利せよ！",
-    "desc": "Use a fleet with a CV/CVB, 1 other CV/CVB, 2 DD, and up to 2 additional ships to obtain an A-rank (or higher) in Exercises 3 times within the same day."
+    "desc": "함재기 연습 임무: 정규항모 기함 외 1척 총 2척 이상 및 구축함 2척을 포함한 항모 기동 부대를 편성. 함재기의 숙련도 향상과 장비 충실을 도모한다! 동 기동 부대로 오늘 중에 훈련에서 A판정 이상으 3번 승리하라!"
   },
   "332": {
     "code": "C32",
     "name_jp": "六周年記念演習",
-    "name": "6th Anniversary Exercise",
+    "name": "6주년 기념 연습",
     "desc_jp": "六周年記念演習：軽巡クラス1隻と駆逐艦または海防艦計3隻以上を含む6隻編成の特務艦隊を編成。<br>同艦隊による演習で本日中に【S判定】以上4回勝利せよ！",
-    "desc": "Use a fleet with 1 Light Cruiser, 3 Destroyers/Coastal Defense Ships, and any 2 other ships to obtain an S-rank in Exercises 4 times within the same day."
+    "desc": "6주년 기념 연습 : 경순 클래스 1척과 구축함 또는 해방함 합계 3척 이상을 포함한 6척 편성의 특무함대를 편성. 동 함대의 연습에서 오늘 중에 S판정 이상으 4회 승리하라!"
   },
   "333": {
     "code": "C33",
     "name_jp": "航空戦隊演習(その壱)",
-    "name": "Aviation Squadron Exercises (Part 1)",
+    "name": "항공전대 연습 (그 첫번째)",
     "desc_jp": "航空戦隊演習任務：航空母艦3隻以上及び駆逐艦2隻以上を含む航空戦隊を編成。艦隊戦演習により、<br>戦技及び練度向上を図る。同航空戦隊で、本日中に演習を【S判定】勝利3回以上達成せよ！",
-    "desc": "Use a fleet with 3 Light Aircraft Carriers/Standard Aircraft Carriers/Armored Aircraft Carriers, 2 Destroyers, and up to 1 additional ship. Obtain an S-rank in Exercises 3 times within the same day."
+    "desc": "항공전대 연습 임무 : 항공모함 3척 이상 및 구축함 2척 이상을 포함한 항공전대를 편성. 함대전 연습으로 전기 및 숙련도 향상을 도모한다. 동 항공전대로, 오늘 중에 연습에서 S승리를 3회 이상 달성하라!"
   },
   "334": {
     "code": "C34",
