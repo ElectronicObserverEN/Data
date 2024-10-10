@@ -8915,15 +8915,6 @@
         "helpers": [
           {
             "ship_ids": [
-              151
-            ],
-            "days": [
-              4,
-              5
-            ]
-          },
-          {
-            "ship_ids": [
               411
             ],
             "days": [
@@ -8974,14 +8965,6 @@
                 "eq_count": 3
               }
             ],
-            "consumable": []
-          },
-          "conv": {
-            "devmats": 0,
-            "devmats_sli": 0,
-            "screws": 0,
-            "screws_sli": 0,
-            "equips": [],
             "consumable": []
           }
         }
@@ -9063,11 +9046,86 @@
             ]
           }
         }
+      },
+      {
+        "convert": {
+          "id_after": 289,
+          "lvl_after": 0
+        },
+        "helpers": [
+          {
+            "ship_ids": [
+              151
+            ],
+            "days": [
+              4,
+              5
+            ]
+          }
+        ],
+        "costs": {
+          "fuel": 30,
+          "ammo": 330,
+          "steel": 390,
+          "baux": 30,
+          "p1": {
+            "devmats": 4,
+            "devmats_sli": 6,
+            "screws": 3,
+            "screws_sli": 4,
+            "equips": [
+              {
+                "id": 7,
+                "eq_count": 2
+              }
+            ],
+            "consumable": []
+          },
+          "p2": {
+            "devmats": 6,
+            "devmats_sli": 9,
+            "screws": 4,
+            "screws_sli": 7,
+            "equips": [
+              {
+                "id": 7,
+                "eq_count": 3
+              }
+            ],
+            "consumable": []
+          },
+          "conv": {
+            "devmats": 7,
+            "devmats_sli": 10,
+            "screws": 6,
+            "screws_sli": 9,
+            "equips": [
+              {
+                "id": 7,
+                "eq_count": 3
+              }
+            ],
+            "consumable": [
+              {
+                "id": 75,
+                "eq_count": 1
+              },
+              {
+                "id": 94,
+                "eq_count": 1
+              }
+            ]
+          }
+        }
       }
     ],
     "convert_to": [
       {
         "id_after": 328,
+        "lvl_after": 0
+      },
+      {
+        "id_after": 289,
         "lvl_after": 0
       }
     ],
