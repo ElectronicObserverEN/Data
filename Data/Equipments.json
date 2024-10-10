@@ -4252,5 +4252,11 @@
     "api_id": 1652,
     "name_jp": "深海打撃艦攻 Mk.II",
     "name_en": "Abyssal Devastation Torpedo Bomber Mk.II"
+  },
+  {
+    "id": 2538,
+    "api_id": 546,
+    "name_jp": "試製 震電(局地戦闘機)",
+    "name_en": "Prototype Shinden (Land-based Fighter)"
   }
 ]
