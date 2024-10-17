@@ -487,11 +487,11 @@
     "id": 53,
     "start_date": "2024-10-18T00:00:00",
     "start_time": "11:00:00",
-    "end_time": "20:00:00",
+    "end_time": "21:00:00",
     "name": "Pumpkin festival 2024 Maintenance",
     "description": "",
     "live_update": false,
     "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1846519104506929503",
-    "maint_end_tweet": ""
+    "maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1846718609781121398"
   }
 ]
