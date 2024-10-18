@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030477",
+  "version": "21030478",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4059,6 +4059,13 @@
     "name": "Operation Rei-go, Go West!",
     "desc_jp": "【南瓜礼号作戦】「霞」「足柄」「大淀」「朝霜」「清霜」のうち3隻以上を含む艦隊を編成、西方海域へ<br>展開！ジャム島沖、カレー洋海域、リランカ島に遊弋する敵艦隊を捕捉撃滅せよ！艦隊、西へ！",
     "desc": "Organize a fleet with 3 of Kasumi, Ashigara, Ooyodo, Asashimo and Kiyoshimo in your fleet and score an S rank at the boss nodes on 4-1, 4-2 and 4-3"
+  },
+  "986": {
+    "code": "2410 B3",
+    "name_jp": "【期間限定任務】南瓜祭り艦隊、南西諸島へ！",
+    "name": "Pumpkin Festival Fleet, Head to the Nansei Islands!",
+    "desc_jp": "「Maestrale」「Grecale」「Libeccio」「Scirocco」「Roma」「迅鯨」「朧」「巻波」のうち3隻以上<br>を含む艦隊で、バシー海峡、東部オリョール海、沖ノ島海域の敵戦力を殲滅せよ！\u3000Happy Halloween！",
+    "desc": "Organize a fleet with 3 of Maestrale, Grecale, Libeccio, Scirocco, Roma, Jingei, Oboro and Makinami in your fleet and score an S rank at the boss nodes on 2-2, 2-3 and 2-4"
   },
   "989": {
     "code": "B188",
