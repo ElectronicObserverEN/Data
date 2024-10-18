@@ -13876,5 +13876,14 @@
     "ShipClassId": null,
     "ShipClassApiId": null,
     "IsFriendly": true
+  },
+  {
+    "Id": 1738,
+    "NameEN": "Hayashimo Kai Ni",
+    "NameJP": "早霜改二",
+    "ApiId": 956,
+    "ShipClassId": 1498,
+    "ShipClassApiId": 38,
+    "IsFriendly": true
   }
 ]
