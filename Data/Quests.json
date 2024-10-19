@@ -9362,15 +9362,15 @@
   {
     "id": 731,
     "api_id": 377,
-    "code": "377",
+    "code": "Cy16",
     "name_jp": "「第二駆逐隊(後期編成)」、練度向上！",
-    "name_en": "「第二駆逐隊(後期編成)」、練度向上！",
+    "name_en": "[DesDiv2 (Late Formation)] Improved Exercises!",
     "desc_jp": "【後期二駆演習】「早霜」「秋霜」「清霜」の1隻を旗艦、僚艦に「早霜」「秋霜」「清霜」「朝霜」2隻を<br>含む後期編成の夕雲型第二駆逐隊を含む艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！",
-    "desc_en": "【後期二駆演習】「早霜」「秋霜」「清霜」の1隻を旗艦、僚艦に「早霜」「秋霜」「清霜」「朝霜」2隻を<br>含む後期編成の夕雲型第二駆逐隊を含む艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！",
-    "added_update_id": null,
+    "desc_en": "Organize a fleet with one of Hayashimo, Akishimo or Kiyoshimo as flagship with two of Asashimo, Hayashimo, Akishimo and Kiyoshimo in your fleet and score S rank 4 times in PvP",
+    "added_update_id": 53,
     "removed_update_id": null,
     "season_id": null,
-    "tracker": ""
+    "tracker": "[[377],[[9,[6,1]]],[0,[[8,[[[409,false,0,0],[625,false,0,0],[410,false,0,0],[425,false,0,0]],3]],[0,[0,[[5,[409,1,0]],[5,[625,1,0]],[5,[410,1,0]]]]]]]]"
   },
   {
     "id": 732,

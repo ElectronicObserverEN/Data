@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030478",
+  "version": "21030479",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1814,11 +1814,11 @@
     "desc": "Organize a fleet with Hiei K2/K2C, Kirishima K2/K2C, 1 CL and 2DD in your fleet and score S rank 5 times in PvP"
   },
   "377": {
-    "code": "377",
+    "code": "Cy16",
     "name_jp": "「第二駆逐隊(後期編成)」、練度向上！",
-    "name": "「第二駆逐隊(後期編成)」、練度向上！",
+    "name": "[DesDiv2 (Late Formation)] Improved Exercises!",
     "desc_jp": "【後期二駆演習】「早霜」「秋霜」「清霜」の1隻を旗艦、僚艦に「早霜」「秋霜」「清霜」「朝霜」2隻を<br>含む後期編成の夕雲型第二駆逐隊を含む艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！",
-    "desc": "【後期二駆演習】「早霜」「秋霜」「清霜」の1隻を旗艦、僚艦に「早霜」「秋霜」「清霜」「朝霜」2隻を<br>含む後期編成の夕雲型第二駆逐隊を含む艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！"
+    "desc": "Organize a fleet with one of Hayashimo, Akishimo or Kiyoshimo as flagship with two of Asashimo, Hayashimo, Akishimo and Kiyoshimo in your fleet and score S rank 4 times in PvP"
   },
   "401": {
     "code": "D1",
