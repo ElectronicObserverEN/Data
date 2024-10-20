@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030469",
+  "version": "21030470",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4122,6 +4122,13 @@
     "name": "Main Force of Main Force [Kiyoshimo Kai Ni], Sortie!",
     "desc_jp": "改夕雲型駆逐艦「清霜改二/丁」、さらに随伴艦に「霞」「朝霜」「大淀」「足柄」から2隻を配備。同艦隊<br>で、バシー海峡、東部オリョール海、沖ノ島海域、昭南本土航路に出撃！各海域の敵戦力を撃滅せよ！",
     "desc": "Organize a fleet with Kiyoshimo Kai Ni (D) and two of Kasumi, Ashigara, Ooyodo or Asashimo in your fleet and score an S rank at the boss nodes on 2-2, 2-3, 2-4 and 7-4"
+  },
+  "1002": {
+    "code": "2410 B4",
+    "name_jp": "【期間限定任務】南瓜祭り2024、拡張作戦！",
+    "name": "[Limited Time Quest] Pumpkin Festival 2024, Expansion Strategy!",
+    "desc_jp": "「鵜来」「稲木」「朧」「夕立」「朝潮」「野分」「巻波」「浜波」「早波」「阿武隈」「瑞鳳」のうち3隻<br>以上を含む艦隊で鎮守府近海、沖ノ島海域、ジャワ島沖、サーモン海北方の敵主力と交戦、これを撃滅せよ！",
+    "desc": "Organize a fleet with any 3 of Zuihou, Abukuma, Oboro, Yuudachi, Asashio, Nowaki, Makinami, Hamanami, Hayanami, Ukuru and Inagi in your fleet and score an S rank at the boss nodes on 1-5, 2-4, 7-5 (Part 3) and 5-5"
   },
   "1003": {
     "code": "B195",
