@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030470",
+  "version": "21030471",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1727,7 +1727,7 @@
     "name_jp": "Halloween艦隊 特別強襲演習！",
     "name": "Halloween Fleet Special Assault Exercise!",
     "desc_jp": "「朧」「野分」「朝潮」「夕立」「浜波」「早波」「鵜来」「稲木」「伊47」「伊201」「Johnston」<br>「熊野丸」「瑞鳳改二/乙」4隻以上を含むHalloween艦隊で、本日中に演習で【A判定】以上を5回達成せよ！",
-    "desc": "Organize a fleet with 4 of Oboro, Nowaki, Asashio, Yuudachi, Hamanami, Hayanami, Ukuru, Inagi, I-47, I-201, Johnston and Zuihou Kai Ni/Kai Ni B in your fleet and score A+ rank 5 times in PvP"
+    "desc": "Organize a fleet with 4 of Oboro, Nowaki, Asashio, Yuudachi, Hamanami, Hayanami, Ukuru, Inagi, I-47, I-201, Johnston, Kumano Maru and Zuihou Kai Ni/Kai Ni B in your fleet and score A+ rank 5 times in PvP"
   },
   "360": {
     "code": "C70",

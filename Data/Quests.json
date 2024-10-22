@@ -9392,11 +9392,11 @@
     "name_jp": "Halloween艦隊 特別強襲演習！",
     "name_en": "Halloween Fleet Special Assault Exercise!",
     "desc_jp": "「朧」「野分」「朝潮」「夕立」「浜波」「早波」「鵜来」「稲木」「伊47」「伊201」「Johnston」<br>「熊野丸」「瑞鳳改二/乙」4隻以上を含むHalloween艦隊で、本日中に演習で【A判定】以上を5回達成せよ！",
-    "desc_en": "Organize a fleet with 4 of Oboro, Nowaki, Asashio, Yuudachi, Hamanami, Hayanami, Ukuru, Inagi, I-47, I-201, Johnston and Zuihou Kai Ni/Kai Ni B in your fleet and score A+ rank 5 times in PvP",
+    "desc_en": "Organize a fleet with 4 of Oboro, Nowaki, Asashio, Yuudachi, Hamanami, Hayanami, Ukuru, Inagi, I-47, I-201, Johnston, Kumano Maru and Zuihou Kai Ni/Kai Ni B in your fleet and score A+ rank 5 times in PvP",
     "added_update_id": 53,
     "removed_update_id": null,
     "season_id": 21,
-    "tracker": "[[359],[[9,[5,5]]],[0,[[8,[[[93,false,0,0],[415,false,0,0],[95,false,0,0],[45,false,0,0],[528,false,0,0],[484,false,0,0],[921,false,0,0],[922,false,0,0],[636,false,0,0],[881,false,0,0],[562,false,0,0],[555,false,1,0]],4]]]]]"
+    "tracker": "[[359],[[9,[5,5]]],[0,[[8,[[[93,false,0,0],[415,false,0,0],[95,false,0,0],[45,false,0,0],[528,false,0,0],[484,false,0,0],[921,false,0,0],[922,false,0,0],[636,false,0,0],[881,false,0,0],[562,false,0,0],[555,false,1,0],[943,false,0,0]],4]]]]]"
   },
   {
     "id": 734,
