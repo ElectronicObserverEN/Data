@@ -648,6 +648,7 @@
       328,
       329,
       426,
+      427,
       502,
       507,
       508
@@ -25539,11 +25540,16 @@
             "consumable": []
           },
           "p2": {
-            "devmats": 0,
-            "devmats_sli": 0,
-            "screws": 0,
-            "screws_sli": 0,
-            "equips": [],
+            "devmats": 6,
+            "devmats_sli": 9,
+            "screws": 3,
+            "screws_sli": 4,
+            "equips": [
+              {
+                "id": 7,
+                "eq_count": 0
+              }
+            ],
             "consumable": []
           }
         }
