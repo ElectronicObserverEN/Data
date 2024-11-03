@@ -493,5 +493,16 @@
     "live_update": false,
     "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1846519104506929503",
     "maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1846718609781121398"
+  },
+  {
+    "id": 54,
+    "start_date": "2024-11-08T00:00:00",
+    "start_time": "11:00:00",
+    "end_time": "20:00:00",
+    "name": " Sanma Festival 2024",
+    "description": "Start of saury festival",
+    "live_update": false,
+    "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1853066949854654916",
+    "maint_end_tweet": ""
   }
 ]
