@@ -4258,5 +4258,11 @@
     "api_id": 546,
     "name_jp": "試製 震電(局地戦闘機)",
     "name_en": "Prototype Shinden (Land-based Fighter)"
+  },
+  {
+    "id": 2539,
+    "api_id": 549,
+    "name_jp": "三式指揮連絡機改二",
+    "name_en": "Type 3 Command Liaison Aircraft Kai Ni"
   }
 ]

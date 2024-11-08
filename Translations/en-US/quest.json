@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030472",
+  "version": "21030473",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3374,6 +3374,13 @@
     "desc_jp": "出撃任務：「Saratoga Mk.II」を旗艦とした第一艦隊を KW環礁沖海域に展開、敵機動部隊を迎撃！<br>「空母機動部隊迎撃戦」を見事成功させよ！\u3000夜戦作戦空母、抜錨！\u3000前線に出撃せよ！",
     "desc": "Sortie Saratoga Mk.II as flagship to [W6-5]. S-rank the boss nodes."
   },
+  "866": {
+    "code": "866",
+    "name_jp": "秋刀魚漁：鎮守府秋刀魚祭り開幕だね。頑張ろう！",
+    "name": "[Saury Fishing] Naval Base Saury Festival is about to begin. Let's do our best!",
+    "desc_jp": "【秋刀魚漁】さぁ、今年も鎮守府秋刀魚祭りが始まったよ。鎮守府海域や北方海域の秋刀魚漁漁場に展開！<br>ボクらも秋刀魚漁に協力し、新鮮な旬の「秋刀魚」を4尾獲得しよう！探照灯を忘れずに！衝突禁止ッ！",
+    "desc": "Have 4 saury in inventory"
+  },
   "869": {
     "code": "B107",
     "name_jp": "補給線の安全を確保せよ！",
@@ -3526,7 +3533,7 @@
     "name_jp": "主力オブ主力、抜錨開始！",
     "name": "Mainstay of Mainstay, Initiate Sortie!",
     "desc_jp": "甲型駆逐艦編成任務：夕雲型駆逐艦「夕雲改二」及び「巻雲改二」の2隻から成る精鋭第十駆逐隊を含む<br>有力な艦隊を南方海域に投入、サブ島沖海域、サーモン海域、サーモン海域北方の敵を捕捉撃滅せよ！",
-    "desc": "Sortie a fleet with Yuugumo Kai Ni, Makigumo Kai Ni, and 4 additional ships to Worlds 5-3, 5-4, and 5-5.<br>Obtain an S-rank at each boss node."
+    "desc": "Sortie a fleet with Yuugumo Kai Ni, Makigumo Kai Ni, and 4 additional ships to Worlds 5-3, 5-4, and 5-5. Obtain an S-rank at each boss node."
   },
   "893": {
     "code": "Bq8",
@@ -3927,6 +3934,13 @@
     "desc_jp": "「山風改二/丁」「江風改二」「海風改二」のうち2隻以上を含む艦隊で、南西諸島海域バシー海峡、<br>タウイタウイ泊地沖深部、南方海域前面、中部北海域ピーコック島沖へ出撃、敵戦力を撃滅せよ！",
     "desc": "Have 2 ships which must have Yamakaze Kai Ni/D along with Umikaze Kai Ni and/or Kawakaze Kai Ni and 4 XX and score an S rank on 2-2, 7-2 (Part 2), 5-1, and 6-4"
   },
+  "959": {
+    "code": "959",
+    "name_jp": "【鎮守府秋刀魚祭り】本格作戦準備！",
+    "name": "[Naval Base Saury Festival] Preparations for full-scale operation!",
+    "desc_jp": "軽巡(含む練習巡洋艦)・工作艦・特務艦・潜水母艦を旗艦とした艦隊で、南西諸島沖、製油所地帯沿岸、<br>南西諸島防衛線、鎮守府近海を反復哨戒！鎮守府海域の安全を確保、秋刀魚漁本格支援に備えよ！",
+    "desc": "Organize a fleet with a CL/CT/AR/AS or Souya as flagship and score an S rank at the boss nodes on 1-2, 1-3, 1-4 and 1-5 twice each"
+  },
   "961": {
     "code": "B174",
     "name_jp": "奮戦！精鋭「第十五駆逐隊」第一小隊",
@@ -4262,6 +4276,13 @@
     "name": "Deployment of equipment to support landing operations",
     "desc_jp": "旗艦「神州丸」の第一装備スロットに最大改修「大発動艇(八九式中戦車＆陸戦隊)」を搭載。<br>「7.7mm機銃」「大発動艇」各x2廃棄。高速建造材x8、開発資材x10、鋼材800を準備せよ！",
     "desc": "Have your secretary flagship Shinshuu Maru equip a maxed modified Daihatsu Landing Craft (Type 89 Medium Tank & Landing Force) in the first slot and then proceed to scrap 2 7.7mm Machine Gun, 2 Daihatsu and have 8 Instant Construction Materials, 10 Development Mateirals, and 800 steel (All resources and Materials will be consumed upon completion)"
+  },
+  "1110": {
+    "code": "1110",
+    "name_jp": "秋刀魚祭り【拡張任務】新型陸軍対潜哨戒機配備！",
+    "name": "Saury Festival [Extra Quest] Deployment of new Army anti-submarine patrol aircraft!",
+    "desc_jp": "旗艦に「山汐丸」「熊野丸」または「あきつ丸改」を配備。「三式指揮連絡機改」(★+7以上)を第1スロに<br>配備。「九九式艦爆」x4廃棄。水揚げ「秋刀魚」8尾、新型航空兵装資材x2、開発資材x18を準備せよ！",
+    "desc": "旗艦に「山汐丸」「熊野丸」または「あきつ丸改」を配備。「三式指揮連絡機改」(★+7以上)を第1スロに<br>配備。「九九式艦爆」x4廃棄。水揚げ「秋刀魚」8尾、新型航空兵装資材x2、開発資材x18を準備せよ！"
   },
   "1111": {
     "code": "F105",
