@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030473",
+  "version": "21030474",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1764,6 +1764,13 @@
     "desc_jp": "駆逐隊演習：第十六駆逐隊「天津風」「雪風」「時津風」「初風」のうち2隻以上を含む演習艦隊を編成。<br>同演習艦隊で本日中に演習【S判定】勝利3回以上を達成せよ！\u3000いい風きてる？十六駆、演習開始！",
     "desc": "Organize a fleet with at least two members of Yukikaze, Tokitsukaze, Hatsukaze and Amatsukaze in your fleet and score S rank three times in PvP"
   },
+  "369": {
+    "code": "369",
+    "name_jp": "【鎮守府秋刀魚祭り】秋刀魚塩焼き演習！",
+    "name": "[Naval Base Saury Festival] Salt-grilled saury exercise!",
+    "desc_jp": "第七駆逐隊各艦、「白雪」「夕雲」「沖波」「岸波」「朝霜」「磯風」「祥鳳」「満潮」「時雨改二/改三」<br>「Mogador」「Ranger」のうち4隻以上を含む艦隊で、本日中に演習【A判定】以上を4回達成せよ！",
+    "desc": "Organize a fleet with 4 of Shouhou, Ranger, Shirayuki, Shigure Kai Ni/Kai San, Michishio, Isokaze, Yuugumo, Okinami, Kishinami, Asashimo, Mogador in your fleet and score A rank 4 times in PvP"
+  },
   "371": {
     "code": "Cy12",
     "name_jp": "春です！「春雨」、演習しますっ！",
@@ -3380,6 +3387,13 @@
     "name": "[Saury Fishing] Naval Base Saury Festival is about to begin. Let's do our best!",
     "desc_jp": "【秋刀魚漁】さぁ、今年も鎮守府秋刀魚祭りが始まったよ。鎮守府海域や北方海域の秋刀魚漁漁場に展開！<br>ボクらも秋刀魚漁に協力し、新鮮な旬の「秋刀魚」を4尾獲得しよう！探照灯を忘れずに！衝突禁止ッ！",
     "desc": "Have 4 saury in inventory"
+  },
+  "867": {
+    "code": "867",
+    "name_jp": "秋刀魚漁：くまりんこ秋刀魚漁！準備はよろしくて？",
+    "name": "[Saury Fishing] Kumarinko saury fishing! Are you ready?",
+    "desc_jp": "【秋刀魚漁】あら、熊野さん、なかなか筋がいいですわ！でも、この三隈も秋刀魚漁支援、負けませんわ！<br>新鮮な「秋刀魚」を16尾獲得いたしましょう！私達なら……できますわ！くまりんこ秋刀魚漁、開幕です！",
+    "desc": "Have 16 saury in your inventory"
   },
   "869": {
     "code": "B107",
