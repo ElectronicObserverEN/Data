@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030477",
+  "version": "21030478",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3395,6 +3395,13 @@
     "desc_jp": "【秋刀魚漁】あら、熊野さん、なかなか筋がいいですわ！でも、この三隈も秋刀魚漁支援、負けませんわ！<br>新鮮な「秋刀魚」を16尾獲得いたしましょう！私達なら……できますわ！くまりんこ秋刀魚漁、開幕です！",
     "desc": "Have 16 saury in the inventory"
   },
+  "868": {
+    "code": "2411 B3",
+    "name_jp": "秋刀魚漁：最上型秋刀魚祭り、いいじゃんいいじゃん！",
+    "name": "Saury fishing: Mogami-class Saury Festival is great!",
+    "desc_jp": "【秋刀魚漁】あざーっす！提督、鈴谷達の鎮守府秋刀魚祭りもこれからがクライマックスだよ！ちょっちだけ<br>大変だけど「秋刀魚」を48尾、よゆーで集めちゃおっか！さ、熊野、どんどん獲って！塩焼き最高ぉっ！",
+    "desc": "Have 48 saury in the inventory"
+  },
   "869": {
     "code": "B107",
     "name_jp": "補給線の安全を確保せよ！",
@@ -3954,6 +3961,13 @@
     "name": "[Naval Base Saury Festival] Preparations for full-scale operations!",
     "desc_jp": "軽巡(含む練習巡洋艦)・工作艦・特務艦・潜水母艦を旗艦とした艦隊で、南西諸島沖、製油所地帯沿岸、<br>南西諸島防衛線、鎮守府近海を反復哨戒！鎮守府海域の安全を確保、秋刀魚漁本格支援に備えよ！",
     "desc": "Organize a fleet with a CL/CT/AR/AS or Souya as flagship and score an S rank at the boss nodes on 1-2, 1-3, 1-4 and 1-5 twice each"
+  },
+  "960": {
+    "code": "2411 B5",
+    "name_jp": "【秋刀魚祭り拡張作戦】北方漁場防衛強化！",
+    "name": "[Saury Festival Extra Operation] Strengthening defense of northern fishing grounds!",
+    "desc_jp": "特務艦・工作艦・練習巡洋艦・陸軍空母を旗艦とした特務艦隊で、北方海域モーレイ海、アルフォンシーノ<br>方面、北方海域全域、北方AL海域へ反復！北方方面での秋刀魚漁支援と同海域の安全確保を図れ！",
+    "desc": "Organize a fleet with AR/CT or one of Souya, Akitsu Maru, Shinshuu Maru, Kumano Maru, Yamashio Maru as flagship and score an S rank at the boss nodes on 3-1, 3-3, 3-4 and 3-5 twice each"
   },
   "961": {
     "code": "B174",
