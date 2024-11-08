@@ -9522,11 +9522,11 @@
     "name_jp": "【鎮守府秋刀魚祭り】秋刀魚塩焼き演習！",
     "name_en": "[Naval Base Saury Festival] Salt-grilled saury exercise!",
     "desc_jp": "第七駆逐隊各艦、「白雪」「夕雲」「沖波」「岸波」「朝霜」「磯風」「祥鳳」「満潮」「時雨改二/改三」<br>「Mogador」「Ranger」のうち4隻以上を含む艦隊で、本日中に演習【A判定】以上を4回達成せよ！",
-    "desc_en": "Organize a fleet with 4 of Shouhou, Ranger, Shirayuki, Shigure Kai Ni/Kai San, Michishio, Isokaze, Yuugumo, Okinami, Kishinami, Asashimo, Mogador in your fleet and score A rank 4 times in PvP",
+    "desc_en": "Organize a fleet with 4 of Oboro, Akebono, Sazanami, Ushio, Shouhou, Ranger, Shirayuki, Shigure Kai Ni/Kai San, Michishio, Isokaze, Yuugumo, Okinami, Kishinami, Asashimo, Mogador in your fleet and score A rank 4 times in PvP",
     "added_update_id": 54,
     "removed_update_id": null,
     "season_id": 22,
-    "tracker": "[[369],[[9,[5,4]]],[0,[[8,[[[931,false,0,0],[74,false,0,0],[10,false,0,0],[145,false,1,0],[97,false,0,0],[167,false,0,0],[133,false,0,0],[452,false,0,0],[527,false,0,0],[425,false,0,0],[962,false,0,0]],4]]]]]"
+    "tracker": "[[369],[[9,[5,4]]],[0,[[8,[[[931,false,0,0],[74,false,0,0],[10,false,0,0],[145,false,1,0],[97,false,0,0],[167,false,0,0],[133,false,0,0],[452,false,0,0],[527,false,0,0],[425,false,0,0],[962,false,0,0],[93,false,0,0],[15,false,0,0],[94,false,0,0],[16,false,0,0]],4]]]]]"
   },
   {
     "id": 744,
