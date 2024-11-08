@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030471",
+  "version": "21030472",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1721,13 +1721,6 @@
     "name": "「Taffy Ⅲ」 This is a drill!",
     "desc_jp": "「Samuel B.Roberts」「Johnston」「Gambier Bay」の三隻を含む任務部隊「Taffy Ⅲ」を編成、<br>本日中に演習で【S判定】勝利を4回以上達成せよ！This is a drill. I repeat, this is a drill.",
     "desc": "Organize a fleet with Samuel B.Roberts, Johnston and Gambier Bay in your fleet and score S rank 4 times in PvP"
-  },
-  "359": {
-    "code": "2410 C1",
-    "name_jp": "Halloween艦隊 特別強襲演習！",
-    "name": "Halloween Fleet Special Assault Exercise!",
-    "desc_jp": "「朧」「野分」「朝潮」「夕立」「浜波」「早波」「鵜来」「稲木」「伊47」「伊201」「Johnston」<br>「熊野丸」「瑞鳳改二/乙」4隻以上を含むHalloween艦隊で、本日中に演習で【A判定】以上を5回達成せよ！",
-    "desc": "Organize a fleet with 4 of Oboro, Nowaki, Asashio, Yuudachi, Hamanami, Hayanami, Ukuru, Inagi, I-47, I-201, Johnston, Kumano Maru and Zuihou Kai Ni/Kai Ni B in your fleet and score A+ rank 5 times in PvP"
   },
   "360": {
     "code": "C70",
@@ -4046,34 +4039,6 @@
     "desc_jp": "「Gambier Bay」「Johnston」「Samuel B.Roberts」基幹の“Taffy Ⅲ”を編成、東部オリョール海、<br>沖ノ島沖、カレー洋リランカ島沖、サーモン海域北方に展開、同海域の敵を捕捉、これを撃滅せよ！",
     "desc": "Organize a fleet with Gambier Bay, Johnston, Samuel B. Roberts in your fleet and score an S rank at the boss nodes on 2-3, 2-5, 4-5, and 5-5"
   },
-  "984": {
-    "code": "2410 B1",
-    "name_jp": "【期間限定任務】12年目の秋、南瓜祭り始め！",
-    "name": "[Limited Time Quest] In the Fall of the 12th Year, the Pumpkin Festival Begins!",
-    "desc_jp": "「朧」「鵜来」「稲木」「夕立」「朝潮」「清霜」「瑞鳳改二/乙」を旗艦及び僚艦に伴う艦隊で、製油所<br>地帯沿岸、南西諸島防衛線、鎮守府近海に出撃！敵艦隊を捜索、これを殲滅せよ！\u3000Trick or Treat！",
-    "desc": "Organize a fleet with two of Oboro, Ukuru, Inagi, Yuudachi, Asashio, Kiyoshimo and Zuihou Kai Ni/Kai Ni B in your fleet with one as flagship and score an S rank at the boss nodes on 1-3, 1-4 and 1-5"
-  },
-  "985": {
-    "code": "2410 B2",
-    "name_jp": "【期間限定任務】礼号作戦部隊、西へ！",
-    "name": "[Limited Time Quest] Operation Reigo, Head West!",
-    "desc_jp": "【南瓜礼号作戦】「霞」「足柄」「大淀」「朝霜」「清霜」のうち3隻以上を含む艦隊を編成、西方海域へ<br>展開！ジャム島沖、カレー洋海域、リランカ島に遊弋する敵艦隊を捕捉撃滅せよ！艦隊、西へ！",
-    "desc": "Organize a fleet with 3 of Kasumi, Ashigara, Ooyodo, Asashimo and Kiyoshimo in your fleet and score an S rank at the boss nodes on 4-1, 4-2 and 4-3"
-  },
-  "986": {
-    "code": "2410 B3",
-    "name_jp": "【期間限定任務】南瓜祭り艦隊、南西諸島へ！",
-    "name": "[Limited Time Quest] Pumpkin Festival Fleet, Heads to the Nansei Islands!",
-    "desc_jp": "「Maestrale」「Grecale」「Libeccio」「Scirocco」「Roma」「迅鯨」「朧」「巻波」のうち3隻以上<br>を含む艦隊で、バシー海峡、東部オリョール海、沖ノ島海域の敵戦力を殲滅せよ！\u3000Happy Halloween！",
-    "desc": "Organize a fleet with 3 of Maestrale, Grecale, Libeccio, Scirocco, Roma, Jingei, Oboro and Makinami in your fleet and score an S rank at the boss nodes on 2-2, 2-3 and 2-4"
-  },
-  "987": {
-    "code": "2410 Bw1",
-    "name_jp": "【限定週間任務】秋の南瓜祭り、おかわりっ！",
-    "name": "[Limited Weekly Quest] Autumn Pumpkin Festival, More Please!",
-    "desc_jp": "「迅鯨」「伊201」「伊47」3隻、丁型海防艦3隻、または「阿武隈」「Brooklyn」「Johnston」3隻を含む<br>艦隊で、鎮守府近海、南西諸島近海、モーレイ海、中部海域哨戒線に展開、各海域を哨戒せよ！",
-    "desc": "Organize a fleet with any combinaison of Jingei, I-47 and I-201 or Kaiboukan No.4, Kaiboukan No.22 and Kaiboukan No.30 or Abukuma, Brooklyn and Johnston in your fleet and score an A rank at the boss nodes on 1-5, 2-1, 3-1, and 6-1"
-  },
   "989": {
     "code": "B188",
     "name_jp": "機動部隊旗艦「鳳翔改二」、前線に出撃せよ！",
@@ -4122,13 +4087,6 @@
     "name": "Main Force of Main Force [Kiyoshimo Kai Ni], Sortie!",
     "desc_jp": "改夕雲型駆逐艦「清霜改二/丁」、さらに随伴艦に「霞」「朝霜」「大淀」「足柄」から2隻を配備。同艦隊<br>で、バシー海峡、東部オリョール海、沖ノ島海域、昭南本土航路に出撃！各海域の敵戦力を撃滅せよ！",
     "desc": "Organize a fleet with Kiyoshimo Kai Ni (D) and two of Kasumi, Ashigara, Ooyodo or Asashimo in your fleet and score an S rank at the boss nodes on 2-2, 2-3, 2-4 and 7-4"
-  },
-  "1002": {
-    "code": "2410 B4",
-    "name_jp": "【期間限定任務】南瓜祭り2024、拡張作戦！",
-    "name": "[Limited Time Quest] Pumpkin Festival 2024, Expansion Strategy!",
-    "desc_jp": "「鵜来」「稲木」「朧」「夕立」「朝潮」「野分」「巻波」「浜波」「早波」「阿武隈」「瑞鳳」のうち3隻<br>以上を含む艦隊で鎮守府近海、沖ノ島海域、ジャワ島沖、サーモン海北方の敵主力と交戦、これを撃滅せよ！",
-    "desc": "Organize a fleet with any 3 of Zuihou, Abukuma, Oboro, Yuudachi, Asashio, Nowaki, Makinami, Hamanami, Hayanami, Ukuru and Inagi in your fleet and score an S rank at the boss nodes on 1-5, 2-4, 7-5 (Part 3) and 5-5"
   },
   "1003": {
     "code": "B195",
@@ -4360,13 +4318,6 @@
     "name": "[Arsenal Quest] Deployment of Hedgehog",
     "desc_jp": "旗艦「Samuel B.Roberts Mk.II」の第一スロに「5inch単装砲 Mk.30」(※改修してなくとも可)を装備。<br>開発資材x15、新型兵装資材x2、新型噴進装備開発資材x2、弾薬960を準備せよ！",
     "desc": "Have your secretary flagship Samuel B.Roberts Mk.II equip 5inch Single Gun Mount Mk.30 without any improvment in the first slot and have 15x Development Material, 2x Armament Material, 2x Rocket Material, 960 ammo (All resources and Materials will be consumed upon completion)"
-  },
-  "1119": {
-    "code": "2410 Fw1",
-    "name_jp": "【期間限定】Halloweenの南瓜、食べりゅ?",
-    "name": "[Limited Time] Do You Want to Eat, Halloween Pumpkins?",
-    "desc_jp": "「小口径主砲」「中口径主砲」「水上偵察機」各x6を廃棄、「20.3cm連装砲」x5、「九九式艦爆」<br>x5、家具コイン1031を準備せよ！(任務達成後、準備した装備・家具コインは消費します)",
-    "desc": "Proceed to scrap Small-Caliber Gun x6, Medium-Caliber Gun x6, Recon Seaplane x6 and have 20.3cm Twin Gun Mount x5, Type 99 Dive Bomber x5 and 1031 Furniture Coins (All resources and Materials will be consumed upon completion)"
   },
   "1120": {
     "code": "Fy9",
