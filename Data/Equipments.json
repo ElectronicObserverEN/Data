@@ -4215,13 +4215,15 @@
     "id": 2531,
     "api_id": 541,
     "name_jp": "SBD(Yellow Wings)",
-    "name_en": "SBD (Yellow Wings)"
+    "name_en": "SBD (Yellow Wings)",
+    "development": true
   },
   {
     "id": 2532,
     "api_id": 542,
     "name_jp": "TBD(Yellow Wings)",
-    "name_en": "TBD (Yellow Wings)"
+    "name_en": "TBD (Yellow Wings)",
+    "development": true
   },
   {
     "id": 2533,
