@@ -9507,13 +9507,13 @@
     "api_id": 1110,
     "code": "2411 F1",
     "name_jp": "秋刀魚祭り【拡張任務】新型陸軍対潜哨戒機配備！",
-    "name_en": "Saury Festival [Extra Quest] Deployment of new Army anti-submarine patrol aircraft!",
+    "name_en": "Saury Festival [Extra Quest] New Army Anti-Submarine Patrol Aircraft Deployed!",
     "desc_jp": "旗艦に「山汐丸」「熊野丸」または「あきつ丸改」を配備。「三式指揮連絡機改」(★+7以上)を第1スロに<br>配備。「九九式艦爆」x4廃棄。水揚げ「秋刀魚」8尾、新型航空兵装資材x2、開発資材x18を準備せよ！",
     "desc_en": "Have your secretary flagship Yamashio Maru or Kumano Maru or Akitsu Maru equip a ★+7 Type 3 Command Liaison Aircraft Kai in the first slot and then proceed to scrap 4x Type 99 Dive Bomber and have 8 Saury, 2 New Model Aerial Armament Material and 18 Development Materials (All resources and Materials will be consumed upon completion)",
     "added_update_id": 54,
     "removed_update_id": null,
     "season_id": 22,
-    "tracker": ""
+    "tracker": "[[1110],[[3,[23,4]]],[1,[[7,[900,true,0,0]],[7,[943,true,0,0]],[7,[161,true,0,0]]]]]"
   },
   {
     "id": 743,
@@ -9566,5 +9566,18 @@
     "removed_update_id": null,
     "season_id": 22,
     "tracker": "[[960],[[0,[[3,1],5,2]],[0,[[3,3],5,2]],[0,[[3,4],5,2]],[0,[[3,5],5,2]]],[1,[[2,[[19,21],1,true,0]],[5,[699,1,0]],[5,[161,1,0]],[5,[621,1,0]],[5,[943,1,0]],[5,[900,1,0]]]]]"
+  },
+  {
+    "id": 747,
+    "api_id": 1144,
+    "code": "2411 F2",
+    "name_jp": "秋刀魚祭り【拡張任務二〇二四】フィナーレ！",
+    "name_en": "Saury Festival [Extra Quest 2024] Finale!",
+    "desc_jp": "最上型旗艦第1スロに「20.3cm(3号)連装砲」(★+7以上)。「試製烈風 後期型」x2廃棄。「秋刀魚」<br>18尾、「雷電」(★+7以上)、新型航空兵装資材x3、開発資材x40、新型航空機設計図を準備せよ！",
+    "desc_en": "Have a Mogami-class as secretary flagship and equip her with a ★+7 20.3cm (No.3) Twin Gun in the first slot and then proceed to scrap 2x Prototype Reppuu Late Model and have a ★+7 Raiden, 18x Saury, 3x New Model Aerial Armament Material, 1x New Technology Aircraft Blueprint and 40x Development Materials (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 54,
+    "removed_update_id": null,
+    "season_id": 22,
+    "tracker": "[[1144],[[3,[22,2]]],[0,[[7,[0,true,0,9]]]]]"
   }
 ]

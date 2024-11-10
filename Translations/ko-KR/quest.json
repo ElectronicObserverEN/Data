@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030495",
+  "version": "21030496",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4486,5 +4486,12 @@
     "name": "\"키리시마 改2丙\" 개장 공창임무",
     "desc_jp": "旗艦「霧島改二丙」第一スロに「35.6cm連装砲改二」(★+8以上)装備。「35.6cm連装砲」x8を<br>廃棄。「35.6cm連装砲改」x1、新型砲熕兵装資材x2、鋼材7,800、新型兵装資材x2準備！",
     "desc": " 「키리시마 改2丙」 제1슬롯에 「35.6cm 연장포 改2」 (★+8 이상) 장비. 「35.6cm 연장포」×8을<br>폐기. 「35.6cm 연장포 改」×1, 신형포공병장자재×2, 강재7,800, 신형병장자재×2 준비!"
+  },
+  "1144": {
+    "code": "2411 F2",
+    "name_jp": "秋刀魚祭り【拡張任務二〇二四】フィナーレ！",
+    "name": "Saury Festival [Extra Quest 2024] Finale!",
+    "desc_jp": "最上型旗艦第1スロに「20.3cm(3号)連装砲」(★+7以上)。「試製烈風 後期型」x2廃棄。「秋刀魚」<br>18尾、「雷電」(★+7以上)、新型航空兵装資材x3、開発資材x40、新型航空機設計図を準備せよ！",
+    "desc": "Have a Mogami-class as secretary flagship and equip her with a ★+7 20.3cm (No.3) Twin Gun in the first slot and then proceed to scrap 2x Prototype Reppuu Late Model and have a ★+7 Raiden, 18x Saury, 3x New Model Aerial Armament Material, 1x New Technology Aircraft Blueprint and 40x Development Materials (All resources and Materials will be consumed upon completion)"
   }
 }
