@@ -4109,7 +4109,12 @@
             "devmats_sli": 2,
             "screws": 1,
             "screws_sli": 2,
-            "equips": [],
+            "equips": [
+              {
+                "id": 37,
+                "eq_count": 1
+              }
+            ],
             "consumable": []
           }
         }
