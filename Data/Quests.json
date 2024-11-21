@@ -9579,5 +9579,18 @@
     "removed_update_id": null,
     "season_id": 22,
     "tracker": "[[1144],[[3,[22,2]]],[0,[[7,[0,true,0,9]]]]]"
+  },
+  {
+    "id": 748,
+    "api_id": 930,
+    "code": "B157",
+    "name_jp": "主力オブ主力、縦横無尽ッ！",
+    "name_en": "Main Force Of The Main Force, Go Wild!",
+    "desc_jp": "改装甲型駆逐艦4隻の精強第十駆逐隊を含む艦隊で、南西諸島防衛線、バシー海峡、キス島沖、<br>ジャム島沖、マラッカ海峡ペナン島沖深部に展開！各海域の敵艦隊主力を捕捉、これを撃滅せよ！",
+    "desc_en": "Organize a fleet with Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni and Akigumo Kai Ni in your fleet and score an S rank at the boss nodes on 1-4, 2-2, 3-2, 7-3 (Part 2) and 4-1",
+    "added_update_id": null,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[930],[[0,[[1,4],6,1]],[0,[[2,2],6,1]],[0,[[3,2],6,1]],[0,[[4,1],6,1]],[2,[[7,3],6,1,[18,23,24,25],\"-2\"]]],[0,[[7,[542,false,0,0]],[7,[563,false,0,0]],[7,[564,false,0,0]],[7,[648,false,0,0]]]]]"
   }
 ]
