@@ -9609,27 +9609,27 @@
   {
     "id": 750,
     "api_id": 1022,
-    "code": "1022",
+    "code": "2412 B2",
     "name_jp": "【期間限定任務】「三十二駆」月次戦闘哨戒！",
-    "name_en": "【期間限定任務】「三十二駆」月次戦闘哨戒！",
+    "name_en": "[Time-limited] [DesDiv32] Monthly Patrol Combat",
     "desc_jp": "【期間限定哨戒】第三十二駆逐隊、夕雲型駆逐艦「玉波」「涼波」「藤波」「早波」「浜波」のうち<br>3隻以上を含む艦隊で、東部オリョール海、ジャム島沖、南方海域前面、ブルネイ沖の哨戒を実施せよ！",
-    "desc_en": "【期間限定哨戒】第三十二駆逐隊、夕雲型駆逐艦「玉波」「涼波」「藤波」「早波」「浜波」のうち<br>3隻以上を含む艦隊で、東部オリョール海、ジャム島沖、南方海域前面、ブルネイ沖の哨戒を実施せよ！",
-    "added_update_id": null,
+    "desc_en": "Organize a fleet with 3 of Tamanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet and score an S rank at the boss nodes on 2-3, 4-1, 5-1 and 7-1",
+    "added_update_id": 55,
     "removed_update_id": null,
     "season_id": null,
-    "tracker": ""
+    "tracker": "[[1022],[[0,[[2,3],6,1]],[0,[[4,1],6,1]],[0,[[5,1],6,1]],[0,[[7,1],6,1]]],[0,[[8,[[[674,false,0,0],[675,false,0,0],[485,false,0,0],[528,false,0,0],[484,false,0,0]],3]]]]]"
   },
   {
     "id": 751,
     "api_id": 1145,
-    "code": "1145",
+    "code": "2412 F1",
     "name_jp": "【工廠任務】伊号潜水艦装備の拡充",
-    "name_en": "【工廠任務】伊号潜水艦装備の拡充",
+    "name_en": "[Arsenal Quest] I-go submarine equipment expansion",
     "desc_jp": "旗艦潜水艦第1スロに「零式水上偵察機」(★+4以上)。「零式水上偵察機」x8廃棄。魚雷装備x15<br>を廃棄。「九三式水中聴音機」x4、新型航空兵装資材x1、開発資材x60、新型兵装資材x1を準備せよ！",
-    "desc_en": "旗艦潜水艦第1スロに「零式水上偵察機」(★+4以上)。「零式水上偵察機」x8廃棄。魚雷装備x15<br>を廃棄。「九三式水中聴音機」x4、新型航空兵装資材x1、開発資材x60、新型兵装資材x1を準備せよ！",
-    "added_update_id": null,
+    "desc_en": "Have a submarine as secretary flagship equip a ★+4 Type 0 Recon Seaplane in the first slot and then proceed to scrap 8x Type 0 Recon Seaplane and 15x Torpedoes and have 4x Type 93 Passive SONAR, 1x Aviation Material, 60x Development Material and 1x Armament Material (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 55,
     "removed_update_id": null,
     "season_id": null,
-    "tracker": ""
+    "tracker": "[[1145],[[3,[25,8]],[4,[5,15]]],[0,[[2,[[13,14],1,true,0]]]]]"
   }
 ]
