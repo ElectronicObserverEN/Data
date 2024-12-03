@@ -25732,7 +25732,28 @@
           "id_after": 432,
           "lvl_after": 0
         },
-        "helpers": [],
+        "helpers": [
+          {
+            "ship_ids": [
+              361
+            ],
+            "days": [
+              2,
+              3
+            ]
+          },
+          {
+            "ship_ids": [
+              448,
+              358,
+              496
+            ],
+            "days": [
+              2,
+              3
+            ]
+          }
+        ],
         "costs": {
           "fuel": 290,
           "ammo": 380,
@@ -25793,7 +25814,26 @@
     "improvement": [
       {
         "convert": null,
-        "helpers": [],
+        "helpers": [
+          {
+            "ship_ids": [
+              361
+            ],
+            "days": [
+              2,
+              3
+            ]
+          },
+          {
+            "ship_ids": [
+              496
+            ],
+            "days": [
+              2,
+              3
+            ]
+          }
+        ],
         "costs": {
           "fuel": 300,
           "ammo": 400,
