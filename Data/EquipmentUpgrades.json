@@ -28135,7 +28135,28 @@
           "id_after": 523,
           "lvl_after": 2
         },
-        "helpers": [],
+        "helpers": [
+          {
+            "ship_ids": [
+              971,
+              976
+            ],
+            "days": [
+              2,
+              3
+            ]
+          },
+          {
+            "ship_ids": [
+              972,
+              977
+            ],
+            "days": [
+              2,
+              3
+            ]
+          }
+        ],
         "costs": {
           "fuel": 60,
           "ammo": 10,
@@ -28207,7 +28228,17 @@
     "improvement": [
       {
         "convert": null,
-        "helpers": [],
+        "helpers": [
+          {
+            "ship_ids": [
+              977
+            ],
+            "days": [
+              2,
+              3
+            ]
+          }
+        ],
         "costs": {
           "fuel": 80,
           "ammo": 20,
