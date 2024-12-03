@@ -9609,7 +9609,7 @@
   {
     "id": 750,
     "api_id": 1022,
-    "code": "2412 B2",
+    "code": "2412 Bm1",
     "name_jp": "【期間限定任務】「三十二駆」月次戦闘哨戒！",
     "name_en": "[Time-limited] [DesDiv32] Monthly Patrol Combat",
     "desc_jp": "【期間限定哨戒】第三十二駆逐隊、夕雲型駆逐艦「玉波」「涼波」「藤波」「早波」「浜波」のうち<br>3隻以上を含む艦隊で、東部オリョール海、ジャム島沖、南方海域前面、ブルネイ沖の哨戒を実施せよ！",
@@ -9631,5 +9631,31 @@
     "removed_update_id": null,
     "season_id": null,
     "tracker": "[[1145],[[3,[25,8]],[4,[5,15]]],[0,[[2,[[13,14],1,true,0]]]]]"
+  },
+  {
+    "id": 752,
+    "api_id": 964,
+    "code": "2412 B3",
+    "name_jp": "【Xmas限定】Xmas軽巡戦隊、獅子奮迅！",
+    "name_en": "[Xmas only] Xmas Light Cruiser Squadron, fight with courage!",
+    "desc_jp": "旗艦及び同僚艦に「球磨」「那珂」「矢矧改二/乙」「酒匂」「鹿島」「Sheffield」「Atlanta」<br>「大淀」「Gotland」を含む艦隊で、南西諸島防衛線、東部オリョール海、沖ノ島海域を反復撃滅せよ！",
+    "desc_en": "Organize a fleet with one of Kuma, Naka, Yahagi K2/K2B, Sakawa, Kashima, Sheffield, Atlanta, Ooyodo and Gotland as flagship and another of them as 2nd ship and score an S rank at the boss nodes on 1-4, 2-3 and 2-4 twice each",
+    "added_update_id": 55,
+    "removed_update_id": null,
+    "season_id": 23,
+    "tracker": "[[964],[[0,[[1,4],6,2]],[0,[[2,3],6,2]],[0,[[2,4],6,2]]],[0,[[0,[1,[[5,[99,1,0]],[5,[56,1,0]],[5,[663,1,1]],[5,[140,1,0]],[5,[465,1,0]],[5,[514,1,0]],[5,[597,1,0]],[5,[183,1,0]],[5,[574,1,0]]]]],[0,[1,[[5,[99,2,0]],[5,[56,2,0]],[5,[663,2,1]],[5,[140,2,0]],[5,[465,2,0]],[5,[514,2,0]],[5,[597,2,0]],[5,[183,2,0]],[5,[574,2,0]]]]]]]]"
+  },
+  {
+    "id": 753,
+    "api_id": 963,
+    "code": "2412 B2",
+    "name_jp": "【Xmas限定】聖夜の特務艦隊、作戦開始！",
+    "name_en": "[Xmas Only] Holy Night Special Fleet, operation start!",
+    "desc_jp": "旗艦及び同僚艦に「宗谷」「明石」「朝日」「神威」「速吸」「大鯨」「迅鯨」「長鯨」「平安丸」<br>「熊野丸」「山汐丸」「C.Teste」「瑞穂」を含む艦隊で、Xmasの南西諸島沖、バシー海峡を徹底哨戒せよ！",
+    "desc_en": "Organize a fleet with one of Souya, Akashi, Asahi, Kamoi, Hayasui, Taigei, Jingei, Chougei, Heian Maru, Kumano Maru, Yamashio Maru, Commandant Teste and Mizuho as flagship and another of them as 2nd ship and score an S rank at the boss nodes on 1-2 and 2-2 three times each",
+    "added_update_id": 55,
+    "removed_update_id": null,
+    "season_id": 23,
+    "tracker": "[[963],[[0,[[1,2],6,3]],[0,[[2,2],6,3]]],[0,[[0,[1,[[5,[699,1,0]],[5,[182,1,0]],[5,[953,1,0]],[5,[162,1,0]],[5,[460,1,0]],[5,[184,1,0]],[5,[634,1,0]],[5,[635,1,0]],[5,[944,1,0]],[5,[943,1,0]],[5,[900,1,0]],[5,[491,1,0]],[5,[451,1,0]]]]],[0,[1,[[5,[699,1,0]],[5,[182,2,0]],[5,[953,2,0]],[5,[162,2,0]],[5,[460,2,0]],[5,[184,2,0]],[5,[634,2,0]],[5,[635,2,0]],[5,[944,2,0]],[5,[943,2,0]],[5,[900,2,0]],[5,[491,2,0]],[5,[451,2,0]]]]]]]]"
   }
 ]
