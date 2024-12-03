@@ -25562,7 +25562,7 @@
       {
         "convert": {
           "id_after": 428,
-          "lvl_after": 0
+          "lvl_after": 2
         },
         "helpers": [
           {
@@ -25634,7 +25634,7 @@
     "convert_to": [
       {
         "id_after": 428,
-        "lvl_after": 0
+        "lvl_after": 2
       }
     ],
     "upgrade_for": []
