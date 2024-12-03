@@ -13885,5 +13885,14 @@
     "ShipClassId": 1498,
     "ShipClassApiId": 38,
     "IsFriendly": true
+  },
+  {
+    "Id": 1739,
+    "NameEN": "Fujinami Kai Ni",
+    "NameJP": "藤波改二",
+    "ApiId": 981,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
   }
 ]
