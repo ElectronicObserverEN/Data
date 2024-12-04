@@ -15273,16 +15273,7 @@
     "improvement": [
       {
         "convert": null,
-        "helpers": [
-          {
-            "ship_ids": [
-              496
-            ],
-            "days": [
-              4
-            ]
-          }
-        ],
+        "helpers": [],
         "costs": {
           "fuel": 170,
           "ammo": 0,
@@ -18840,7 +18831,8 @@
             ],
             "days": [
               2,
-              3
+              3,
+              4
             ]
           }
         ],
