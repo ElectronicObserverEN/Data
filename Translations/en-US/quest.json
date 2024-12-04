@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030490",
+  "version": "21030491",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3954,6 +3954,13 @@
     "name": "[Xmas Limited] Xmas Light Cruiser Squadron, Fighting with Courage!",
     "desc_jp": "旗艦及び同僚艦に「球磨」「那珂」「矢矧改二/乙」「酒匂」「鹿島」「Sheffield」「Atlanta」<br>「大淀」「Gotland」を含む艦隊で、南西諸島防衛線、東部オリョール海、沖ノ島海域を反復撃滅せよ！",
     "desc": "Organize a fleet with one of Kuma, Naka, Yahagi K2/K2B, Sakawa, Kashima, Sheffield, Atlanta, Ooyodo and Gotland as flagship and another of them as 2nd ship and score an S rank at the boss nodes on 1-4, 2-3 and 2-4 twice each"
+  },
+  "965": {
+    "code": "2412 B4",
+    "name_jp": "【拡張作戦】Xmas最終決戦、艦隊出撃せよ！",
+    "name": "[Expanded Operation] Xmas Final Battle, Deploy the fleet!",
+    "desc_jp": "「Warspite」「Nevada」「Ranger」「Langley」「Johnston」「鈴谷」「熊野」「衣笠」3隻以上を含む<br>艦隊でカレー洋海域、カレー洋リランカ島沖、サブ島沖海域、中部北海域ピーコック島沖を制圧せよ！",
+    "desc": "Organize a fleet with 3 of Warspite, Nevada, Ranger, Langley, Johnston, Suzuya, Kumano and Kinugasa in your fleet and score an S rank at the boss nodes on 4-2, 4-5, 5-3 and 6-4"
   },
   "966": {
     "code": "B175",
