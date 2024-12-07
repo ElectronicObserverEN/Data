@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030494",
+  "version": "21030495",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4233,7 +4233,7 @@
     "name_jp": "【期間限定任務】「三十二駆」月次戦闘哨戒！",
     "name": "[Limited Time Quest] \"DesDiv32\" Monthly Combat Patrol!",
     "desc_jp": "【期間限定哨戒】第三十二駆逐隊、夕雲型駆逐艦「玉波」「涼波」「藤波」「早波」「浜波」のうち<br>3隻以上を含む艦隊で、東部オリョール海、ジャム島沖、南方海域前面、ブルネイ沖の哨戒を実施せよ！",
-    "desc": "Organize a fleet with 3 of Tamanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet and score an S rank at the boss nodes on 2-3, 4-1, 5-1 and 7-1"
+    "desc": "Organize a fleet with 3 of Tamanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet and score an A rank at the boss nodes on 2-3, 4-1, 5-1 and 7-1"
   },
   "1023": {
     "code": "B207",
@@ -4485,6 +4485,6 @@
     "name_jp": "【工廠任務】伊号潜水艦装備の拡充",
     "name": "[Factory Quest] I-go Submarine Equipment Expansion",
     "desc_jp": "旗艦潜水艦第1スロに「零式水上偵察機」(★+4以上)。「零式水上偵察機」x8廃棄。魚雷装備x15<br>を廃棄。「九三式水中聴音機」x4、新型航空兵装資材x1、開発資材x60、新型兵装資材x1を準備せよ！",
-    "desc": "Have a SSV as secretary flagship equip a ★+4 Type 0 Recon Seaplane in the first slot and then proceed to scrap 8x Type 0 Recon Seaplane and 15x Torpedoes and have 4x Type 93 Passive SONAR, 1x Aviation Material, 60x Development Material and 1x Armament Material (All resources and Materials will be consumed upon completion)"
+    "desc": "Have a SSV as secretary flagship equip a ★+4 Type 0 Recon Seaplane in the first slot and then proceed to scrap 8x Type 0 Recon Seaplane and 15x Torpedoes and have 4x Type 93 Passive SONAR, 2x New Model Aerial Armament Materials, 1x New Model Armament Material and 60x Development Materials (All resources and Materials will be consumed upon completion)"
   }
 }
