@@ -526,5 +526,16 @@
     "live_update": false,
     "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1864209847966945410",
     "maint_end_tweet": ""
+  },
+  {
+    "id": 57,
+    "start_date": "2024-12-09T00:00:00",
+    "start_time": "11:00:00",
+    "end_time": "19:00:00",
+    "name": "Server upgrade 3rd wave",
+    "description": "[Truk Anchorage], [Lingga Anchorage], [Rabaul Base], [Shortland Anchorage], and [Buin Base] ",
+    "live_update": false,
+    "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1865373256678871251",
+    "maint_end_tweet": ""
   }
 ]
