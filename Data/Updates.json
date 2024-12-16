@@ -559,5 +559,27 @@
     "live_update": false,
     "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1866861094251401591",
     "maint_end_tweet": ""
+  },
+  {
+    "id": 60,
+    "start_date": "2024-12-26T00:00:00",
+    "start_time": "11:00:00",
+    "end_time": "20:00:00",
+    "name": "December 2024 Update",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1868500945098916325",
+    "maint_end_tweet": ""
+  },
+  {
+    "id": 61,
+    "start_date": "2025-01-01T00:00:00",
+    "start_time": "00:00:00",
+    "end_time": null,
+    "name": "New Year 2025 Update",
+    "description": "",
+    "live_update": true,
+    "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1868500945098916325",
+    "maint_end_tweet": ""
   }
 ]
