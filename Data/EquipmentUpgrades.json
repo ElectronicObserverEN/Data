@@ -21494,7 +21494,10 @@
     "eq_id": 314,
     "improvement": [
       {
-        "convert": null,
+        "convert": {
+          "id_after": 376,
+          "lvl_after": 0
+        },
         "helpers": [
           {
             "ship_ids": [
@@ -21551,11 +21554,38 @@
               }
             ],
             "consumable": []
+          },
+          "conv": {
+            "devmats": 15,
+            "devmats_sli": 20,
+            "screws": 9,
+            "screws_sli": 15,
+            "equips": [
+              {
+                "id": 314,
+                "eq_count": 1
+              }
+            ],
+            "consumable": [
+              {
+                "id": 94,
+                "eq_count": 3
+              },
+              {
+                "id": 57,
+                "eq_count": 2
+              }
+            ]
           }
         }
       }
     ],
-    "convert_to": [],
+    "convert_to": [
+      {
+        "id_after": 376,
+        "lvl_after": 0
+      }
+    ],
     "upgrade_for": []
   },
   {
