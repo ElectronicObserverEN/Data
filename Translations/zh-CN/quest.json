@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030503",
+  "version": "21030504",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4053,6 +4053,13 @@
     "desc_jp": "「鳳翔改二/戦」を旗艦とする艦隊で、南西諸島海域沖ノ島沖、北方AL海域、カレー洋リランカ島沖、<br>南方海域珊瑚諸島沖、中部北海域ピーコック島沖、昭南本土航路に展開！敵戦力を撃滅せよ！",
     "desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and score an S rank at the boss nodes on 2-5, 3-5, 4-5, 5-2, 6-4 and 7-4"
   },
+  "990": {
+    "code": "2412 B6",
+    "name_jp": "【年末年始】大掃除後の見廻り！警戒を厳に！",
+    "name": "",
+    "desc_jp": "「曙」「対馬」「秋雲」「風雲」「Salmon」のうち1隻を旗艦に、もう1隻を随伴艦とする艦隊で、南西諸島<br>防衛線、バシー海峡、東部オリョール海、キス島沖、ジャム島沖に展開！各海域の特別哨戒を実施せよ！",
+    "desc": ""
+  },
   "993": {
     "code": "B193",
     "name_jp": "改装駆逐艦「天津風改二」、抜錨せよ！",
@@ -4361,6 +4368,13 @@
     "desc_jp": "【年末年始鎮守府大掃除】「小口径主砲」「中口径主砲」「水上偵察機」x各10を廃棄。<br>「九六式艦戦」x8、「戦闘糧食」x4、鋼材2,024を準備、提督の皆さん、よいお年を！",
     "desc": "Proceed to scrap 10x Small caliber guns, 10x Medium caliber guns, 10x Seaplane recons and have 8x Type 96 Fighter, 4x Combat Ration, 2024 bauxite (All resources and Materials will be consumed upon completion)"
   },
+  "1122": {
+    "code": "2412 F4",
+    "name_jp": "【年末年始】空技廠増加試作機祭り",
+    "name": "",
+    "desc_jp": "【年末年始試製任務】旗艦の第一スロに「九九式艦爆」(★+2以上)を搭載。「九九式艦爆」x9、<br>「彗星」x4を廃棄、開発資材x24、新型航空兵装資材x2、弾薬2,024を準備せよ！",
+    "desc": ""
+  },
   "1123": {
     "code": "Fy10",
     "name_jp": "改良三座水上偵察機の増備",
@@ -4479,5 +4493,12 @@
     "name": "[Factory Quest] I-go Submarine Equipment Expansion",
     "desc_jp": "旗艦潜水艦第1スロに「零式水上偵察機」(★+4以上)。「零式水上偵察機」x8廃棄。魚雷装備x15<br>を廃棄。「九三式水中聴音機」x4、新型航空兵装資材x1、開発資材x60、新型兵装資材x1を準備せよ！",
     "desc": "Have a SSV as secretary flagship equip a ★+4 Type 0 Recon Seaplane in the first slot and then proceed to scrap 8x Type 0 Recon Seaplane and 15x Torpedoes and have 4x Type 93 Passive SONAR, 2x New Model Aerial Armament Materials, 1x New Model Armament Material and 60x Development Materials (All resources and Materials will be consumed upon completion)"
+  },
+  "1146": {
+    "code": "2412 F2",
+    "name_jp": "【年末年始】拡張大掃除&特別資源輸出-I",
+    "name": "",
+    "desc_jp": "【拡張大掃除&特別資源輸出】「艦上戦闘機」「艦上爆撃機」「艦上攻撃機」x各8を廃棄。<br>「発煙装置(煙幕)」x4、「家具箱(小)」x20、弾薬2,024を準備！特別資源輸出を実施せよ！",
+    "desc": ""
   }
 }
