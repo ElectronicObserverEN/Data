@@ -1,4 +1,4 @@
-{
+﻿{
   "bld_date": "2024/12/07 13:00:00",
   "ver": "5.3.9",
   "note": "Check github for release notes: https://github.com/ElectronicObserverEN/ElectronicObserver/releases",
@@ -6,7 +6,7 @@
   "ApiServer": "https://eoapi.jebzou.ovh:8443/",
   "hash": "BA4BC6C9BAB65ABBA4C40D5D8E304CA98E4499503F6EC44AB7A4F575279DCF44",
   "nodes": 20071518,
-  "QuestTrackers": 254,
+  "QuestTrackers": 255,
   "Locks": 66,
   "FitBonuses": 42,
   "EquipmentUpgrades": 375,
