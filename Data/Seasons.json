@@ -124,5 +124,11 @@
     "name": "Christmas 2024",
     "added_update_id": 55,
     "removed_update_id": 60
+  },
+  {
+    "id": 24,
+    "name": "New Year Holidays",
+    "added_update_id": 60,
+    "removed_update_id": null
   }
 ]
