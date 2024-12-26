@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030497",
+  "version": "21030498",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3933,34 +3933,6 @@
     "name": "Fight hard! Elite \"DesDiv15\" 1st Platoon",
     "desc_jp": "第十五駆逐隊任務：「親潮改二」及び「黒潮改二」を配備した艦隊で、南西諸島海域沖ノ島海域、<br>南方海域サーモン海域、南西海域タウイタウイ泊地沖深部へ反復出撃。敵艦隊を捕捉撃滅せよ！",
     "desc": "Organize a fleet with Oyashio Kai Ni and Kuroshio Kai Ni in the fleet and score an S rank in the boss nodes of 2-4, 5-4 and 7-2 (Part 2), twice each."
-  },
-  "962": {
-    "code": "2412 B1",
-    "name_jp": "【Xmas限定】Merry Xmas 駆逐隊、抜錨！",
-    "name": "[Xmas Limited] Merry Xmas Destroyer Squadron, Set Sail!",
-    "desc_jp": "駆逐艦「親潮」「朝雲」「山雲」「霰」「朧」「漣」「潮」「曙」「夕雲」「早波」「浜波」「巻波」「岸波」<br>「早霜」「谷風」「初風」のうち4隻以上を含む艦隊で鎮守府正面海域、製油所地帯沿岸をXmas徹底警備！",
-    "desc": "Organize a fleet with 4 of Oyashio, Asagumo, Yamagumo, Arare, Oboro, Sazanami, Ushio, Akebono, Yuugumo, Hayanami, Hamanami, Makinami, Kishinami, Hayashimo, Tanikaze and Hatsukaze in your fleet and score an S rank at the boss nodes on 1-1 and 1-3 three times each"
-  },
-  "963": {
-    "code": "2412 B2",
-    "name_jp": "【Xmas限定】聖夜の特務艦隊、作戦開始！",
-    "name": "[Xmas Limited] Holy Night Special Fleet, Operation Begins!",
-    "desc_jp": "旗艦及び同僚艦に「宗谷」「明石」「朝日」「神威」「速吸」「大鯨」「迅鯨」「長鯨」「平安丸」<br>「熊野丸」「山汐丸」「C.Teste」「瑞穂」を含む艦隊で、Xmasの南西諸島沖、バシー海峡を徹底哨戒せよ！",
-    "desc": "Organize a fleet with one of Souya, Akashi, Asahi, Kamoi, Hayasui, Taigei, Jingei, Chougei, Heian Maru, Kumano Maru, Yamashio Maru, Commandant Teste and Mizuho as flagship and another of them as 2nd ship and score an S rank at the boss nodes on 1-2 and 2-2 three times each"
-  },
-  "964": {
-    "code": "2412 B3",
-    "name_jp": "【Xmas限定】Xmas軽巡戦隊、獅子奮迅！",
-    "name": "[Xmas Limited] Xmas Light Cruiser Squadron, Fighting with Courage!",
-    "desc_jp": "旗艦及び同僚艦に「球磨」「那珂」「矢矧改二/乙」「酒匂」「鹿島」「Sheffield」「Atlanta」<br>「大淀」「Gotland」を含む艦隊で、南西諸島防衛線、東部オリョール海、沖ノ島海域を反復撃滅せよ！",
-    "desc": "Organize a fleet with one of Kuma, Naka, Yahagi K2/K2B, Sakawa, Kashima, Sheffield, Atlanta, Ooyodo and Gotland as flagship and another of them as 2nd ship and score an S rank at the boss nodes on 1-4, 2-3 and 2-4 twice each"
-  },
-  "965": {
-    "code": "2412 B4",
-    "name_jp": "【拡張作戦】Xmas最終決戦、艦隊出撃せよ！",
-    "name": "[Expanded Operation] Xmas Final Battle, Deploy the fleet!",
-    "desc_jp": "「Warspite」「Nevada」「Ranger」「Langley」「Johnston」「鈴谷」「熊野」「衣笠」3隻以上を含む<br>艦隊でカレー洋海域、カレー洋リランカ島沖、サブ島沖海域、中部北海域ピーコック島沖を制圧せよ！",
-    "desc": "Organize a fleet with 3 of Warspite, Nevada, Ranger, Langley, Johnston, Suzuya, Kumano and Kinugasa in your fleet and score an S rank at the boss nodes on 4-2, 4-5, 5-3 and 6-4"
   },
   "966": {
     "code": "B175",
