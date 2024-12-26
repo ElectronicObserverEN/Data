@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030519",
+  "version": "21030520",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4056,9 +4056,9 @@
   "990": {
     "code": "2412 B6",
     "name_jp": "【年末年始】大掃除後の見廻り！警戒を厳に！",
-    "name": "",
+    "name": "[New Year's Holiday] Patrol After the Spring Cleaning! Stay Vigilant!",
     "desc_jp": "「曙」「対馬」「秋雲」「風雲」「Salmon」のうち1隻を旗艦に、もう1隻を随伴艦とする艦隊で、南西諸島<br>防衛線、バシー海峡、東部オリョール海、キス島沖、ジャム島沖に展開！各海域の特別哨戒を実施せよ！",
-    "desc": ""
+    "desc": "Organize a fleet with 2 of Akebono, Tsushima, Akigumo, Kazagumo and Salmon as flagship and 2nd ship and score an S rank at the boss nodes on 1-4, 2-2, 2-3, 3-2 and 4-1"
   },
   "993": {
     "code": "B193",
@@ -4371,9 +4371,9 @@
   "1122": {
     "code": "2412 F4",
     "name_jp": "【年末年始】空技廠増加試作機祭り",
-    "name": "",
+    "name": "[New Year's Holiday] Aviation Arsenal Additional Prototype Aircraft Festival",
     "desc_jp": "【年末年始試製任務】旗艦の第一スロに「九九式艦爆」(★+2以上)を搭載。「九九式艦爆」x9、<br>「彗星」x4を廃棄、開発資材x24、新型航空兵装資材x2、弾薬2,024を準備せよ！",
-    "desc": ""
+    "desc": "Have your secretary flagship equip a ★+2 Type 99 Dive Bomber in the first slot and then proceed to scrap 9x Type 99 Dive Bomber and 4x Suisei and have 2x New Model Aerial Armament Material, 40x Development Materials and 2024 ammo (All resources and Materials will be consumed upon completion)"
   },
   "1123": {
     "code": "Fy10",
@@ -4497,8 +4497,8 @@
   "1146": {
     "code": "2412 F2",
     "name_jp": "【年末年始】拡張大掃除&特別資源輸出-I",
-    "name": "",
+    "name": "[New Year's Holiday] Extended Cleanup & Special Resource Export-I",
     "desc_jp": "【拡張大掃除&特別資源輸出】「艦上戦闘機」「艦上爆撃機」「艦上攻撃機」x各8を廃棄。<br>「発煙装置(煙幕)」x4、「家具箱(小)」x20、弾薬2,024を準備！特別資源輸出を実施せよ！",
-    "desc": ""
+    "desc": "Proceed to scrap 8x Fighters, 8x Torpedo Bombers, 8x Dive Bombers and have 4x Smoke Generator (Smoke Screen), 20x Furniture Box (Small) and 2024 ammo. (All resources and Materials will be consumed upon completion)"
   }
 }
