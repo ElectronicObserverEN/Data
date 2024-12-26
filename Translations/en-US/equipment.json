@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030281",
+  "version": "21030282",
   "equiptype": {
     "小口径主砲": "Small-caliber Gun",
     "中口径主砲": "Medium-caliber Gun",
@@ -753,6 +753,9 @@
     "深海不屈艦爆 Mk.II": "Abyssal Dauntless Dive Bomber Mk.II",
     "深海打撃艦攻 Mk.II": "Abyssal Devastation Torpedo Bomber Mk.II",
     "試製 震電(局地戦闘機)": "Prototype Shinden (Land-based Fighter)",
-    "三式指揮連絡機改二": "Type 3 Command Liaison Aircraft Kai Ni"
+    "三式指揮連絡機改二": "Type 3 Command Liaison Aircraft Kai Ni",
+    "試製 明星(増加試作機)": "Prototype Myoujou (Additional Prototype Aircraft)",
+    "明星改": "Myoujou Kai",
+    "九九式練爆二二型改(夜間装備実験機)": "Type 99 Training Bomber Model 22 Kai (Night Equipment Test Aircraft)"
   }
 }

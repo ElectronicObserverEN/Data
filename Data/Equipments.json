@@ -4266,5 +4266,23 @@
     "api_id": 549,
     "name_jp": "三式指揮連絡機改二",
     "name_en": "Type 3 Command Liaison Aircraft Kai Ni"
+  },
+  {
+    "id": 2540,
+    "api_id": 550,
+    "name_jp": "試製 明星(増加試作機)",
+    "name_en": "Prototype Myoujou (Additional Prototype Aircraft)"
+  },
+  {
+    "id": 2541,
+    "api_id": 551,
+    "name_jp": "明星改",
+    "name_en": "Myoujou Kai"
+  },
+  {
+    "id": 2542,
+    "api_id": 552,
+    "name_jp": "九九式練爆二二型改(夜間装備実験機)",
+    "name_en": "Type 99 Training Bomber Model 22 Kai (Night Equipment Test Aircraft)"
   }
 ]
