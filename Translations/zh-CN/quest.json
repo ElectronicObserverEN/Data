@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030500",
+  "version": "21030501",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1732,7 +1732,7 @@
   "361": {
     "code": "2412 C1",
     "name_jp": "【年末年始】海上護衛部隊 特別演習！",
-    "name": "",
+    "name": "[New Year Holidays] Special exercise for maritime escort forces!",
     "desc_jp": "【年末年始特別演習】第一艦隊旗艦第1及び第2スロに「応急修理要員」を装備。軽空母級1隻+駆逐艦<br>4隻以上または海防艦2隻以上を含む海上護衛演習を実施、本日中に【S判定】勝利を4回以上達成せよ！",
     "desc": ""
   },
@@ -4224,7 +4224,7 @@
   "1024": {
     "code": "2412 B5",
     "name_jp": "【年末年始】航空機による海上監視哨戒",
-    "name": "",
+    "name": "[New Year's Holiday] Aircraft Maritime Surveillance and Patrol",
     "desc_jp": "航空母艦または航空戦艦を旗艦とした5隻以下の艦隊で、鎮守府海域南西諸島沖、製油所地帯沿岸、<br>南西諸島防衛線、北方海域モーレイ海の哨戒を実施！各海域の年末年始航空哨戒を実施せよ！",
     "desc": ""
   },
@@ -4357,7 +4357,7 @@
   "1121": {
     "code": "2412 F1",
     "name_jp": "【年末年始】鎮守府大掃除！良いお年を！",
-    "name": "",
+    "name": "[New Year Holidays] Naval base clean-up! Happy New Year!",
     "desc_jp": "【年末年始鎮守府大掃除】「小口径主砲」「中口径主砲」「水上偵察機」x各10を廃棄。<br>「九六式艦戦」x8、「戦闘糧食」x4、鋼材2,024を準備、提督の皆さん、よいお年を！",
     "desc": ""
   },
