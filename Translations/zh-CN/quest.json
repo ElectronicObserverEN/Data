@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030505",
+  "version": "21030506",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4500,5 +4500,12 @@
     "name": "[New Year's Holiday] Extended Cleanup & Special Resource Export-I",
     "desc_jp": "【拡張大掃除&特別資源輸出】「艦上戦闘機」「艦上爆撃機」「艦上攻撃機」x各8を廃棄。<br>「発煙装置(煙幕)」x4、「家具箱(小)」x20、弾薬2,024を準備！特別資源輸出を実施せよ！",
     "desc": "Proceed to scrap 8x Fighters, 8x Torpedo Bombers, 8x Dive Bombers and have 4x Smoke Generator (Smoke Screen), 20x Furniture Box (Small) and 2024 ammo. (All resources and Materials will be consumed upon completion)"
+  },
+  "1147": {
+    "code": "2412 F3",
+    "name_jp": "【年末年始】拡張大掃除&特別資源輸出-II",
+    "name": "[New Year's Holiday] Extended Cleanup & Special Resource Export-II",
+    "desc_jp": "【拡張大掃除&特別資源輸出】「中口径主砲」「魚雷」「爆雷兵装」x各10を廃棄。<br>「22号対水上電探」x4、「探照灯」x4、鋼材2,800を準備！特別資源輸出を拡大せよ！",
+    "desc": "Proceed to scrap 10x Medium Caliber Main Guns, 10x Torpedoes, 10x Depth Charges and have 4x Type 22 Surface Radar, 4x Searchlight, and 2800 steel (All resources and Materials will be consumed upon completion)"
   }
 }

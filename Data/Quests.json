@@ -9761,5 +9761,18 @@
     "removed_update_id": null,
     "season_id": 24,
     "tracker": "[[990],[[0,[[1,4],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]],[0,[[3,2],6,1]],[0,[[4,1],6,1]]],[0,[[0,[1,[[5,[15,1,0]],[5,[132,1,0]],[5,[453,1,0]],[5,[540,1,0]],[5,[891,1,0]]]]],[0,[1,[[5,[15,2,0]],[5,[132,2,0]],[5,[453,2,0]],[5,[540,2,0]],[5,[891,2,0]]]]]]]]"
+  },
+  {
+    "id": 762,
+    "api_id": 1147,
+    "code": "2412 F3",
+    "name_jp": "【年末年始】拡張大掃除&特別資源輸出-II",
+    "name_en": "[New Year's Holiday] Extended Cleanup & Special Resource Export-II",
+    "desc_jp": "【拡張大掃除&特別資源輸出】「中口径主砲」「魚雷」「爆雷兵装」x各10を廃棄。<br>「22号対水上電探」x4、「探照灯」x4、鋼材2,800を準備！特別資源輸出を拡大せよ！",
+    "desc_en": "Proceed to scrap 10x Medium Caliber Main Guns, 10x Torpedoes, 10x Depth Charges and have 4x Type 22 Surface Radar, 4x Searchlight, and 2800 steel (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 60,
+    "removed_update_id": null,
+    "season_id": 24,
+    "tracker": "[[1147],[[4,[2,10]],[4,[5,10]],[4,[15,10]]],[0,[]]]"
   }
 ]
