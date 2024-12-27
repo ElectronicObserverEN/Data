@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030506",
+  "version": "21030507",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4233,7 +4233,7 @@
     "name_jp": "【年末年始】航空機による海上監視哨戒",
     "name": "[New Year's Holiday] Aircraft Maritime Surveillance and Patrol",
     "desc_jp": "航空母艦または航空戦艦を旗艦とした5隻以下の艦隊で、鎮守府海域南西諸島沖、製油所地帯沿岸、<br>南西諸島防衛線、北方海域モーレイ海の哨戒を実施！各海域の年末年始航空哨戒を実施せよ！",
-    "desc": "Organize a fleet with a CV(B) or BBV as flagship, with a maximum of 5 ships in total and score an A rank at the boss nodes on 1-2, 1-3, 1-4 and 3-1"
+    "desc": "Organize a fleet with a CV(L/B) or BBV as flagship, with a maximum of 5 ships in total and score an A rank at the boss nodes on 1-2, 1-3, 1-4 and 3-1"
   },
   "1101": {
     "code": "F96",
