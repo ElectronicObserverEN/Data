@@ -9756,11 +9756,11 @@
     "name_jp": "【年末年始】大掃除後の見廻り！警戒を厳に！",
     "name_en": "[New Year's Holiday] Patrol After the Spring Cleaning! Stay Vigilant!",
     "desc_jp": "「曙」「対馬」「秋雲」「風雲」「Salmon」のうち1隻を旗艦に、もう1隻を随伴艦とする艦隊で、南西諸島<br>防衛線、バシー海峡、東部オリョール海、キス島沖、ジャム島沖に展開！各海域の特別哨戒を実施せよ！",
-    "desc_en": "Organize a fleet with 2 of Akebono, Tsushima, Akigumo, Kazagumo and Salmon as flagship and 2nd ship and score an S rank at the boss nodes on 1-4, 2-2, 2-3, 3-2 and 4-1",
+    "desc_en": "Organize a fleet with 2 of Akebono, Tsushima, Akigumo, Kazagumo and Salmon with one as flagship and score an S rank at the boss nodes on 1-4, 2-2, 2-3, 3-2 and 4-1",
     "added_update_id": 60,
     "removed_update_id": null,
     "season_id": 24,
-    "tracker": "[[990],[[0,[[1,4],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]],[0,[[3,2],6,1]],[0,[[4,1],6,1]]],[0,[[0,[1,[[5,[15,1,0]],[5,[132,1,0]],[5,[453,1,0]],[5,[540,1,0]],[5,[891,1,0]]]]],[0,[1,[[5,[15,2,0]],[5,[132,2,0]],[5,[453,2,0]],[5,[540,2,0]],[5,[891,2,0]]]]]]]]"
+    "tracker": "[[990],[[0,[[1,4],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]],[0,[[3,2],6,1]],[0,[[4,1],6,1]]],[0,[[0,[1,[[5,[15,1,0]],[5,[132,1,0]],[5,[453,1,0]],[5,[540,1,0]],[5,[891,1,0]]]]],[8,[[[15,false,0,0],[132,false,0,0],[453,false,0,0],[540,false,0,0],[891,false,0,0]],2]]]]]"
   },
   {
     "id": 762,

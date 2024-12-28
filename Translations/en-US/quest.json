@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030508",
+  "version": "21030509",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4058,7 +4058,7 @@
     "name_jp": "【年末年始】大掃除後の見廻り！警戒を厳に！",
     "name": "[New Year's Holiday] Patrol After the Spring Cleaning! Stay Vigilant!",
     "desc_jp": "「曙」「対馬」「秋雲」「風雲」「Salmon」のうち1隻を旗艦に、もう1隻を随伴艦とする艦隊で、南西諸島<br>防衛線、バシー海峡、東部オリョール海、キス島沖、ジャム島沖に展開！各海域の特別哨戒を実施せよ！",
-    "desc": "Organize a fleet with 2 of Akebono, Tsushima, Akigumo, Kazagumo and Salmon as flagship and 2nd ship and score an S rank at the boss nodes on 1-4, 2-2, 2-3, 3-2 and 4-1"
+    "desc": "Organize a fleet with 2 of Akebono, Tsushima, Akigumo, Kazagumo and Salmon with one as flagship and score an S rank at the boss nodes on 1-4, 2-2, 2-3, 3-2 and 4-1"
   },
   "993": {
     "code": "B193",
