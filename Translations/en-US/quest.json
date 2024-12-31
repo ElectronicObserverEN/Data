@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030513",
+  "version": "21030514",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1818,7 +1818,7 @@
     "name_jp": "新春限定！第六艦隊特別演習",
     "name": "New Year time-limited! 6th Fleet special exercises!",
     "desc_jp": "【第六艦隊新春特別演習】潜水母艦旗艦、潜水艦を必ず含む潜水母艦及び潜水艦計3隻以上の<br>新春第六艦隊で、本日中に演習【A判定】勝利4回以上を達成せよ！第六艦隊新春演習、始めっ！",
-    "desc": "Organize a fleet with an AS as flagship and three submarines in your fleet and score A rank 4 times in PvP"
+    "desc": "Organize a fleet with an AS as flagship, one SS/SSV and another AS/SS/SSV in your fleet and score A rank 4 times in PvP"
   },
   "401": {
     "code": "D1",

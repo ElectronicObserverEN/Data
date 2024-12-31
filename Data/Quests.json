@@ -9821,11 +9821,11 @@
     "name_jp": "新春限定！第六艦隊特別演習",
     "name_en": "New Year time-limited! 6th Fleet special exercises!",
     "desc_jp": "【第六艦隊新春特別演習】潜水母艦旗艦、潜水艦を必ず含む潜水母艦及び潜水艦計3隻以上の<br>新春第六艦隊で、本日中に演習【A判定】勝利4回以上を達成せよ！第六艦隊新春演習、始めっ！",
-    "desc_en": "Organize a fleet with an AS as flagship and three submarines in your fleet and score A rank 4 times in PvP",
+    "desc_en": "Organize a fleet with an AS as flagship, one SS/SSV and another AS/SS/SSV in your fleet and score A rank 4 times in PvP",
     "added_update_id": 61,
     "removed_update_id": null,
     "season_id": 25,
-    "tracker": "[[378],[[9,[5,4]]],[0,[[2,[[20],1,true,0]],[2,[[13,14],3,false,0]]]]]"
+    "tracker": "[[378],[[9,[5,4]]],[0,[[2,[[20],1,true,0]],[2,[[13,14],1,false,0]],[2,[[20,13,14],3,false,0]]]]]"
   },
   {
     "id": 768,
