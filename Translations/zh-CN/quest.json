@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030512",
+  "version": "21030513",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3015,7 +3015,7 @@
     "name_jp": "新春【拡張作戦】精鋭日米空母、新年協同作戦！",
     "name": "New Year's [Extra Operation] Elite Japanese and American aircraft carrier joint New Year operation!",
     "desc_jp": "「Intrepid」「Hornet」「Ranger」「赤城」「加賀」「翔鶴」「瑞鶴」の2隻以上を含む艦隊で、沖ノ島沖、<br>珊瑚諸島沖、サーモン海域北方、タウイタウイ泊地沖深部、カレー洋リランカ島沖の敵を粉砕せよ！",
-    "desc": "Organize a fleet with any two of Intrepid, Hornet, Ranger, Akagi, Kaga, Zuikaku and Shoukaku in your fleet and score an S rank at the boss nodes on 2-5, 5-2, 5-5, 4-5, and 7-3 (Part 2)"
+    "desc": "Organize a fleet with any two of Intrepid, Hornet, Ranger, Akagi, Kaga, Zuikaku and Shoukaku in your fleet and score an S rank at the boss nodes on 2-5, 5-2, 5-5, 4-5, and 7-2 (Part 2)"
   },
   "805": {
     "code": "B58",
