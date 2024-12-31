@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030510",
+  "version": "21030511",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1813,6 +1813,13 @@
     "desc_jp": "【後期二駆演習】「早霜」「秋霜」「清霜」の1隻を旗艦、僚艦に「早霜」「秋霜」「清霜」「朝霜」2隻を<br>含む後期編成の夕雲型第二駆逐隊を含む艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！",
     "desc": "Organize a fleet with one of Hayashimo, Akishimo or Kiyoshimo as flagship with two of Asashimo, Hayashimo, Akishimo and Kiyoshimo in your fleet and score S rank 4 times in PvP"
   },
+  "378": {
+    "code": "2501 Cw1",
+    "name_jp": "新春限定！第六艦隊特別演習",
+    "name": "New Year time-limited! 6th Fleet special exercises!",
+    "desc_jp": "【第六艦隊新春特別演習】潜水母艦旗艦、潜水艦を必ず含む潜水母艦及び潜水艦計3隻以上の<br>新春第六艦隊で、本日中に演習【A判定】勝利4回以上を達成せよ！第六艦隊新春演習、始めっ！",
+    "desc": "Organize a fleet with an AS as flagship and three submarines in your fleet and score A rank 4 times in PvP"
+  },
   "401": {
     "code": "D1",
     "name_jp": "はじめての「遠征」！",
@@ -3002,6 +3009,13 @@
     "name": "Happy New Year 2025! Elite heavy cruiser squadron, heading north! To the west!",
     "desc_jp": "精鋭重巡洋艦(除く航巡)2隻以上を含む艦隊で、北方海域モーレイ海及びアルフォンシーノ方面、<br>西方海域ジャム島沖及びカレー洋海域に展開、各海域の敵艦隊を一掃せよ！艦隊、北へ！西へ！",
     "desc": "Organize a fleet with two CA in your fleet and score an S rank at the boss nodes on 3-1, 3-3, 4-1 and 4-2"
+  },
+  "804": {
+    "code": "2501 B4",
+    "name_jp": "新春【拡張作戦】精鋭日米空母、新年協同作戦！",
+    "name": "New Year's [Extra Operation] Elite Japanese and American aircraft carrier joint New Year operation!",
+    "desc_jp": "「Intrepid」「Hornet」「Ranger」「赤城」「加賀」「翔鶴」「瑞鶴」の2隻以上を含む艦隊で、沖ノ島沖、<br>珊瑚諸島沖、サーモン海域北方、タウイタウイ泊地沖深部、カレー洋リランカ島沖の敵を粉砕せよ！",
+    "desc": "Organize a fleet with any two of Intrepid, Hornet, Ranger, Akagi, Kaga, Zuikaku and Shoukaku in your fleet and score an S rank at the boss nodes on 2-5, 5-2, 5-5, 4-5, and 7-3 (Part 2)"
   },
   "805": {
     "code": "B58",
