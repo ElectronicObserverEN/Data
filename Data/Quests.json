@@ -9622,7 +9622,7 @@
   {
     "id": 751,
     "api_id": 1145,
-    "code": "2412 F1",
+    "code": "F129",
     "name_jp": "【工廠任務】伊号潜水艦装備の拡充",
     "name_en": "[Factory Quest] I-go Submarine Equipment Expansion",
     "desc_jp": "旗艦潜水艦第1スロに「零式水上偵察機」(★+4以上)。「零式水上偵察機」x8廃棄。魚雷装備x15<br>を廃棄。「九三式水中聴音機」x4、新型航空兵装資材x1、開発資材x60、新型兵装資材x1を準備せよ！",
@@ -9678,7 +9678,7 @@
     "name_jp": "三十二駆「藤波改二」、鳥海を護衛せよ！",
     "name_en": "DesDiv32 \"Fujinami Kai Ni\", Escort Choukai!",
     "desc_jp": "「藤波改二」旗艦、艦隊に「鳥海」及び第三十二駆逐隊1隻を含む部隊で、沖ノ島海域、沖ノ島沖、<br>タウイタウイ泊地沖(深部)、サーモン海域北方に出撃！「鳥海」を護衛しつつ、遊弋する敵を痛打せよ！",
-    "desc_en": "Organize a fleet with Fujinami Kai Ni as flagship, Choukai and any of Tamanami, Suzunami, Hayanami and Hamanami in your fleet and score an S rank at the boss nodes on 2-2, 2-4, 7-2 (part 2), and 5-5",
+    "desc_en": "Organize a fleet with Fujinami Kai Ni as flagship, Choukai and any of Tamanami, Suzunami, Hayanami and Hamanami in your fleet and score an S rank at the boss nodes on 2-4, 2-5, 7-2 (part 2) and 5-5",
     "added_update_id": 55,
     "removed_update_id": null,
     "season_id": null,
