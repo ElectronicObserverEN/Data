@@ -581,5 +581,16 @@
     "live_update": true,
     "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1868500945098916325",
     "maint_end_tweet": ""
+  },
+  {
+    "id": 62,
+    "start_date": "2025-01-28T00:00:00",
+    "start_time": "11:00:00",
+    "end_time": "20:00:00",
+    "name": "Setsubun 2025",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://twitter.com/kancolle_staff/status/1881709217553482161",
+    "maint_end_tweet": ""
   }
 ]
