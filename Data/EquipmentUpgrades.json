@@ -314,7 +314,8 @@
       294,
       295,
       464,
-      533
+      533,
+      553
     ]
   },
   {
@@ -10514,7 +10515,8 @@
       294,
       296,
       464,
-      533
+      533,
+      553
     ]
   },
   {
@@ -29562,6 +29564,107 @@
       }
     ],
     "convert_to": [],
+    "upgrade_for": []
+  },
+  {
+    "eq_id": 553,
+    "improvement": [
+      {
+        "convert": {
+          "id_after": 533,
+          "lvl_after": 0
+        },
+        "helpers": [
+          {
+            "ship_ids": [
+              986
+            ],
+            "days": [
+              2,
+              3
+            ]
+          },
+          {
+            "ship_ids": [
+              532,
+              537
+            ],
+            "days": [
+              3
+            ]
+          },
+          {
+            "ship_ids": [
+              968
+            ],
+            "days": [
+              2,
+              3
+            ]
+          }
+        ],
+        "costs": {
+          "fuel": 0,
+          "ammo": 30,
+          "steel": 100,
+          "baux": 70,
+          "p1": {
+            "devmats": 5,
+            "devmats_sli": 6,
+            "screws": 2,
+            "screws_sli": 3,
+            "equips": [
+              {
+                "id": 3,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
+          },
+          "p2": {
+            "devmats": 6,
+            "devmats_sli": 9,
+            "screws": 3,
+            "screws_sli": 6,
+            "equips": [
+              {
+                "id": 3,
+                "eq_count": 2
+              }
+            ],
+            "consumable": []
+          },
+          "conv": {
+            "devmats": 14,
+            "devmats_sli": 20,
+            "screws": 14,
+            "screws_sli": 18,
+            "equips": [
+              {
+                "id": 121,
+                "eq_count": 3
+              }
+            ],
+            "consumable": [
+              {
+                "id": 75,
+                "eq_count": 1
+              },
+              {
+                "id": 94,
+                "eq_count": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "convert_to": [
+      {
+        "id_after": 533,
+        "lvl_after": 0
+      }
+    ],
     "upgrade_for": []
   }
 ]
