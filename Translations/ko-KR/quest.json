@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030532",
+  "version": "21030533",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1729,13 +1729,6 @@
     "desc_jp": "改装を完了した航空母艦「鳳翔改二」または同戦力投射母艦「鳳翔改二戦」を旗艦、そして<br>駆逐艦3隻以上を含む演習艦隊を編成！本日中に【S判定】勝利を5回以上達成せよ！",
     "desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and 3 DD in your fleet and score S rank 5 times in PvP"
   },
-  "361": {
-    "code": "2412 C1",
-    "name_jp": "【年末年始】海上護衛部隊 特別演習！",
-    "name": "[New Year Holidays] Special exercise for maritime escort forces!",
-    "desc_jp": "【年末年始特別演習】第一艦隊旗艦第1及び第2スロに「応急修理要員」を装備。軽空母級1隻+駆逐艦<br>4隻以上または海防艦2隻以上を含む海上護衛演習を実施、本日中に【S判定】勝利を4回以上達成せよ！",
-    "desc": "Organize a fleet with a flagship equipped with Emergency Repair Personnel on first and second slot and have 1CVL, 4DD/2DE in your fleet and score S rank 4 times in PvP"
-  },
   "362": {
     "code": "Cy10",
     "name_jp": "特型初代「第十一駆逐隊」演習スペシャル！",
@@ -1812,13 +1805,6 @@
     "name": "[DesDiv2 (Late Formation)] Improved Exercises!",
     "desc_jp": "【後期二駆演習】「早霜」「秋霜」「清霜」の1隻を旗艦、僚艦に「早霜」「秋霜」「清霜」「朝霜」2隻を<br>含む後期編成の夕雲型第二駆逐隊を含む艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！",
     "desc": "Organize a fleet with one of Hayashimo, Akishimo or Kiyoshimo as flagship with two of Asashimo, Hayashimo, Akishimo and Kiyoshimo in your fleet and score S rank 4 times in PvP"
-  },
-  "378": {
-    "code": "2501 Cw1",
-    "name_jp": "新春限定！第六艦隊特別演習",
-    "name": "New Year time-limited! 6th Fleet special exercises!",
-    "desc_jp": "【第六艦隊新春特別演習】潜水母艦旗艦、潜水艦を必ず含む潜水母艦及び潜水艦計3隻以上の<br>新春第六艦隊で、本日中に演習【A判定】勝利4回以上を達成せよ！第六艦隊新春演習、始めっ！",
-    "desc": "Organize a fleet with an AS as flagship, one SS/SSV and another AS/SS/SSV in your fleet and score A rank 4 times in PvP"
   },
   "401": {
     "code": "D1",
@@ -2989,34 +2975,6 @@
     "desc_jp": "最上型近代化改修：鋼材1,200及び弾薬1,200を準備、「最上型」を近代化改修！<br>[重巡級]x4隻同時使用で2回成功させよ！※任務達成後、準備資源は消費します。",
     "desc": "Have 1,200 Steel, 1,200 Ammo and modernize a Mogami-class Heavy/Aviation Cruiser with 4 CAs at once twice."
   },
-  "801": {
-    "code": "2501 B1",
-    "name_jp": "恭賀新年！二〇二五年、艦隊抜錨せよ！",
-    "name": "Happy New Year! In 2025, the fleet sets sail!",
-    "desc_jp": "旗艦に軽巡級、随伴艦に駆逐艦2隻以上を含む艦隊で抜錨！鎮守府正面海域、南西諸島沖、<br>製油所地帯沿岸、南西諸島防衛線を哨戒、二〇二五年正月の鎮守府海域の安全を確保せよ！",
-    "desc": "Organize a fleet with a CL as flagship and two DD in your fleet and score an S rank at the boss nodes on 1-1, 1-2, 1-3 and 1-4"
-  },
-  "802": {
-    "code": "2501 B2",
-    "name_jp": "賀正！令和七年、空母機動部隊、出撃始め！",
-    "name": "Happy New Year! In Reiwa 7th, the carrier task force sets out!",
-    "desc_jp": "旗艦に航空母艦、随伴艦に駆逐艦1隻以上を配備した空母機動部隊で、南西諸島近海、バシー海峡、<br>東部オリョール海、さらに鎮守府近海に展開！各海域の敵艦隊を捜索、これを捕捉撃滅せよ！",
-    "desc": "Organize a fleet with a CV(L) as flagship and one DD in your fleet and score an S rank at the boss nodes on 1-5, 2-1, 2-2 and 2-3"
-  },
-  "803": {
-    "code": "2501 B3",
-    "name_jp": "迎春2025年！精鋭重巡戦隊、北へ！西へ！",
-    "name": "Happy New Year 2025! Elite heavy cruiser squadron, heading north! To the west!",
-    "desc_jp": "精鋭重巡洋艦(除く航巡)2隻以上を含む艦隊で、北方海域モーレイ海及びアルフォンシーノ方面、<br>西方海域ジャム島沖及びカレー洋海域に展開、各海域の敵艦隊を一掃せよ！艦隊、北へ！西へ！",
-    "desc": "Organize a fleet with two CA in your fleet and score an S rank at the boss nodes on 3-1, 3-3, 4-1 and 4-2"
-  },
-  "804": {
-    "code": "2501 B4",
-    "name_jp": "新春【拡張作戦】精鋭日米空母、新年協同作戦！",
-    "name": "New Year's [Extra Operation] Elite Japanese and American aircraft carrier joint New Year operation!",
-    "desc_jp": "「Intrepid」「Hornet」「Ranger」「赤城」「加賀」「翔鶴」「瑞鶴」の2隻以上を含む艦隊で、沖ノ島沖、<br>珊瑚諸島沖、サーモン海域北方、タウイタウイ泊地沖深部、カレー洋リランカ島沖の敵を粉砕せよ！",
-    "desc": "Organize a fleet with any two of Intrepid, Hornet, Ranger, Akagi, Kaga, Zuikaku and Shoukaku in your fleet and score an S rank at the boss nodes on 2-5, 5-2, 5-5, 4-5, and 7-2 (Part 2)"
-  },
   "805": {
     "code": "B58",
     "name_jp": "旗艦「霞」北方海域を哨戒せよ！",
@@ -4088,13 +4046,6 @@
     "desc_jp": "「鳳翔改二/戦」を旗艦とする艦隊で、南西諸島海域沖ノ島沖、北方AL海域、カレー洋リランカ島沖、<br>南方海域珊瑚諸島沖、中部北海域ピーコック島沖、昭南本土航路に展開！敵戦力を撃滅せよ！",
     "desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and score an S rank at the boss nodes on 2-5, 3-5, 4-5, 5-2, 6-4 and 7-4"
   },
-  "990": {
-    "code": "2412 B6",
-    "name_jp": "【年末年始】大掃除後の見廻り！警戒を厳に！",
-    "name": "[New Year's Holiday] Patrol After the Spring Cleaning! Stay Vigilant!",
-    "desc_jp": "「曙」「対馬」「秋雲」「風雲」「Salmon」のうち1隻を旗艦に、もう1隻を随伴艦とする艦隊で、南西諸島<br>防衛線、バシー海峡、東部オリョール海、キス島沖、ジャム島沖に展開！各海域の特別哨戒を実施せよ！",
-    "desc": "Organize a fleet with 2 of Akebono, Tsushima, Akigumo, Kazagumo and Salmon as flagship and 2nd ship and score an S rank at the boss nodes on 1-4, 2-2, 2-3, 3-2 and 4-1"
-  },
   "993": {
     "code": "B193",
     "name_jp": "改装駆逐艦「天津風改二」、抜錨せよ！",
@@ -4263,13 +4214,6 @@
     "desc_jp": "「藤波改二」旗艦、艦隊に「鳥海」及び第三十二駆逐隊1隻を含む部隊で、沖ノ島海域、沖ノ島沖、<br>タウイタウイ泊地沖(深部)、サーモン海域北方に出撃！「鳥海」を護衛しつつ、遊弋する敵を痛打せよ！",
     "desc": "Organize a fleet with Fujinami Kai Ni as flagship, Choukai and any of Tamanami, Suzunami, Hayanami and Hamanami in your fleet and score an S rank at the boss nodes on 2-2, 2-4, 7-2 (part 2), and 5-5"
   },
-  "1024": {
-    "code": "2412 B5",
-    "name_jp": "【年末年始】航空機による海上監視哨戒",
-    "name": "[New Year's Holiday] Aircraft Maritime Surveillance and Patrol",
-    "desc_jp": "航空母艦または航空戦艦を旗艦とした5隻以下の艦隊で、鎮守府海域南西諸島沖、製油所地帯沿岸、<br>南西諸島防衛線、北方海域モーレイ海の哨戒を実施！各海域の年末年始航空哨戒を実施せよ！",
-    "desc": "Organize a fleet with a CV(L/B) or BBV as flagship, with a maximum of 5 ships in total and score an A rank at the boss nodes on 1-2, 1-3, 1-4 and 3-1"
-  },
   "1101": {
     "code": "F96",
     "name_jp": "海軍工廠の再整備",
@@ -4396,20 +4340,6 @@
     "desc_jp": "「艦上戦闘機」「艦上爆撃機」「艦上攻撃機」各x4を廃棄、「零式艦戦21型」x3、「零式艦戦52型」x3<br>ボーキサイト1,800を準備せよ！(任務達成後、準備した装備・ボーキサイトは消費します)",
     "desc": "「함상전투기」 「함상폭격기」 「함상공격기」 각×4를 폐기, 「영식함전 21형」×3, 「영식함전 52형」×3 보크사이트 1,800을 준비하라!(임무 달성 후, 준비한 장비 · 보크사이트는 소비합니다)"
   },
-  "1121": {
-    "code": "2412 F1",
-    "name_jp": "【年末年始】鎮守府大掃除！良いお年を！",
-    "name": "[New Year Holidays] Naval base clean-up! Happy New Year!",
-    "desc_jp": "【年末年始鎮守府大掃除】「小口径主砲」「中口径主砲」「水上偵察機」x各10を廃棄。<br>「九六式艦戦」x8、「戦闘糧食」x4、鋼材2,024を準備、提督の皆さん、よいお年を！",
-    "desc": "Proceed to scrap 10x Small caliber guns, 10x Medium caliber guns, 10x Seaplane recons and have 8x Type 96 Fighter, 4x Combat Ration, 2024 bauxite (All resources and Materials will be consumed upon completion)"
-  },
-  "1122": {
-    "code": "2412 F4",
-    "name_jp": "【年末年始】空技廠増加試作機祭り",
-    "name": "[New Year's Holiday] Aviation Arsenal Additional Prototype Aircraft Festival",
-    "desc_jp": "【年末年始試製任務】旗艦の第一スロに「九九式艦爆」(★+2以上)を搭載。「九九式艦爆」x9、<br>「彗星」x4を廃棄、開発資材x24、新型航空兵装資材x2、弾薬2,024を準備せよ！",
-    "desc": "Have your secretary flagship equip a ★+2 Type 99 Dive Bomber in the first slot and then proceed to scrap 9x Type 99 Dive Bomber and 4x Suisei and have 2x New Model Aerial Armament Material, 40x Development Materials and 2024 ammo (All resources and Materials will be consumed upon completion)"
-  },
   "1123": {
     "code": "Fy10",
     "name_jp": "改良三座水上偵察機の増備",
@@ -4528,19 +4458,5 @@
     "name": "[Arsenal Quest] I-go submarine equipment expansion",
     "desc_jp": "旗艦潜水艦第1スロに「零式水上偵察機」(★+4以上)。「零式水上偵察機」x8廃棄。魚雷装備x15<br>を廃棄。「九三式水中聴音機」x4、新型航空兵装資材x1、開発資材x60、新型兵装資材x1を準備せよ！",
     "desc": "Have a submarine as secretary flagship equip a ★+4 Type 0 Recon Seaplane in the first slot and then proceed to scrap 8x Type 0 Recon Seaplane and 15x Torpedoes and have 4x Type 93 Passive SONAR, 1x Aviation Material, 60x Development Material and 1x Armament Material (All resources and Materials will be consumed upon completion)"
-  },
-  "1146": {
-    "code": "2412 F2",
-    "name_jp": "【年末年始】拡張大掃除&特別資源輸出-I",
-    "name": "[New Year's Holiday] Extended Cleanup & Special Resource Export-I",
-    "desc_jp": "【拡張大掃除&特別資源輸出】「艦上戦闘機」「艦上爆撃機」「艦上攻撃機」x各8を廃棄。<br>「発煙装置(煙幕)」x4、「家具箱(小)」x20、弾薬2,024を準備！特別資源輸出を実施せよ！",
-    "desc": "Proceed to scrap 8x Fighters, 8x Torpedo Bombers, 8x Dive Bombers and have 4x Smoke Generator (Smoke Screen), 20x Furniture Box (Small) and 2024 ammo. (All resources and Materials will be consumed upon completion)"
-  },
-  "1147": {
-    "code": "2412 F3",
-    "name_jp": "【年末年始】拡張大掃除&特別資源輸出-II",
-    "name": "[New Year's Holiday] Extended Cleanup & Special Resource Export-II",
-    "desc_jp": "【拡張大掃除&特別資源輸出】「中口径主砲」「魚雷」「爆雷兵装」x各10を廃棄。<br>「22号対水上電探」x4、「探照灯」x4、鋼材2,800を準備！特別資源輸出を拡大せよ！",
-    "desc": "Proceed to scrap 10x Medium Caliber Main Guns, 10x Torpedoes, 10x Depth Charges and have 4x Type 22 Surface Radar, 4x Searchlight, and 2800 steel (All resources and Materials will be consumed upon completion)"
   }
 }
