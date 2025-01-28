@@ -4284,5 +4284,11 @@
     "api_id": 552,
     "name_jp": "九九式練爆二二型改(夜間装備実験機)",
     "name_en": "Type 99 Training Bomber Model 22 Kai (Night Equipment Test Aircraft)"
+  },
+  {
+    "id": 2543,
+    "api_id": 553,
+    "name_jp": "10cm連装高角砲改",
+    "name_en": "10cm Twin High-Angle Gun Kai"
   }
 ]

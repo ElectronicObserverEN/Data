@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030284",
+  "version": "21030285",
   "equiptype": {
     "小口径主砲": "소구경주포",
     "中口径主砲": "중구경주포",
@@ -756,6 +756,7 @@
     "三式指揮連絡機改二": "Type 3 Command Liaison Aircraft Kai Ni",
     "試製 明星(増加試作機)": "Prototype Myoujou (Additional Prototype Aircraft)",
     "明星改": "Myoujou Kai",
-    "九九式練爆二二型改(夜間装備実験機)": "Type 99 Training Bomber Model 22 Kai (Night Equipment Test Aircraft)"
+    "九九式練爆二二型改(夜間装備実験機)": "Type 99 Training Bomber Model 22 Kai (Night Equipment Test Aircraft)",
+    "10cm連装高角砲改": "10cm Twin High-Angle Gun Kai"
   }
 }
