@@ -9873,11 +9873,11 @@
     "name_jp": "【節分任務:豆】節分作戦二〇二五",
     "name_en": "[Setsubun: Mame] Setsubun Operation 2025",
     "desc_jp": "節分任務：旗艦及び二番艦に「鳳翔」「朝日」「明石」「迅鯨」「長鯨」または第七駆逐隊を配備、<br>鎮守府正面海域、鎮守府海域南西諸島沖、製油所地帯沿岸に展開！節分反復哨戒を実施せよ！",
-    "desc_en": "Organize a fleet with two of Houshou, Asahi, Akashi, Jingei, Chougei, Oboro, Akebono, Sazanami and Ushio in your fleet and score an S rank at the boss nodes on 1-1, 1-2 and 1-3 twice each",
+    "desc_en": "Organize a fleet with two of Houshou, Asahi, Akashi, Jingei, Chougei, Oboro, Akebono, Sazanami and Ushio as first and second ship and score an S rank at the boss nodes on 1-1, 1-2 and 1-3 twice each",
     "added_update_id": 62,
     "removed_update_id": null,
     "season_id": 26,
-    "tracker": "[[840],[[0,[[1,1],6,2]],[0,[[1,2],6,2]],[0,[[1,3],6,2]]],[0,[[8,[[[89,false,0,0],[953,false,0,0],[182,false,0,0],[634,false,0,0],[635,false,0,0],[93,false,0,0],[15,false,0,0],[94,false,0,0],[16,false,0,0]],2]]]]]"
+    "tracker": "[[840],[[0,[[1,1],6,2]],[0,[[1,2],6,2]],[0,[[1,3],6,2]]],[0,[[0,[1,[[5,[89,1,0]],[5,[953,1,0]],[5,[182,1,0]],[5,[634,1,0]],[5,[635,1,0]],[5,[93,1,0]],[5,[15,1,0]],[5,[94,1,0]],[5,[16,1,0]]]]],[0,[1,[[5,[89,2,0]],[5,[953,2,0]],[5,[182,2,0]],[5,[634,2,0]],[5,[635,2,0]],[5,[93,2,0]],[5,[15,2,0]],[5,[94,2,0]],[5,[16,2,0]]]]]]]]"
   },
   {
     "id": 772,
