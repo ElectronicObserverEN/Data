@@ -136,5 +136,11 @@
     "name": "New Year 2025",
     "added_update_id": 61,
     "removed_update_id": 62
+  },
+  {
+    "id": 26,
+    "name": "Setsubun 2025",
+    "added_update_id": 62,
+    "removed_update_id": null
   }
 ]

@@ -9839,5 +9839,57 @@
     "removed_update_id": 62,
     "season_id": 25,
     "tracker": "[[804],[[0,[[2,5],6,1]],[0,[[4,5],6,1]],[0,[[5,2],6,1]],[0,[[5,5],6,1]],[2,[[7,2],6,1,[15],\"-2\"]]],[0,[[8,[[[549,false,0,0],[931,false,0,0],[603,false,0,0],[83,false,0,0],[84,false,0,0],[110,false,0,0],[111,false,0,0]],2]]]]]"
+  },
+  {
+    "id": 769,
+    "api_id": 329,
+    "code": "2501 Cd1",
+    "name_jp": "【節分任務:枡】節分演習！二〇二五",
+    "name_en": "[Setsubun: Masu] Setsubun Exercises! 2025",
+    "desc_jp": "節分任務：旗艦に潜水母艦または軽空母級、他に潜水艦2隻以上、または海防艦2隻以上、または<br>駆逐艦4隻以上が配備された節分演習艦隊を編成。同艦隊で、本日中に演習で3回以上勝利せよ！",
+    "desc_en": "Organize a fleet with an AS or CVL as flagship and either 2DE, 2SS(V) or 4DD in your fleet and score B rank 3 times in PvP",
+    "added_update_id": 62,
+    "removed_update_id": null,
+    "season_id": 26,
+    "tracker": "[[329],[[9,[4,3]]],[0,[[2,[[20,7],1,true,0]],[0,[1,[[2,[[13,14],2,false,0]],[2,[[1],2,false,0]],[2,[[2],4,false,0]]]]]]]]"
+  },
+  {
+    "id": 770,
+    "api_id": 379,
+    "code": "2501 Cw2",
+    "name_jp": "【期間限定任務】「精鋭十一駆」特別演習！",
+    "name_en": "[Time-limited] 「Elite DesDiv11」 Special Exercises!",
+    "desc_jp": "【期間限定演習】第十一駆逐隊「吹雪改二」「白雪改二」「深雪改二」「初雪改」のうち2隻以上を含む<br>精鋭演習艦隊を編成。同艦隊で本日中に演習で【S判定】勝利を4回以上達成せよ！",
+    "desc_en": "Organize a fleet with two of Fubuki Kai Ni, Shirayuki Kai Ni, Miyuki Kai Ni and Hatsuyuki Kai in your fleet and score S rank 4 times in PvP",
+    "added_update_id": 62,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[379],[[9,[6,4]]],[0,[[8,[[[426,false,1,0],[986,false,1,0],[203,false,1,0],[959,false,1,0]],2]]]]]"
+  },
+  {
+    "id": 771,
+    "api_id": 840,
+    "code": "2501 Bw1",
+    "name_jp": "【節分任務:豆】節分作戦二〇二五",
+    "name_en": "[Setsubun: Mame] Setsubun Operation 2025",
+    "desc_jp": "節分任務：旗艦及び二番艦に「鳳翔」「朝日」「明石」「迅鯨」「長鯨」または第七駆逐隊を配備、<br>鎮守府正面海域、鎮守府海域南西諸島沖、製油所地帯沿岸に展開！節分反復哨戒を実施せよ！",
+    "desc_en": "Organize a fleet with two of Houshou, Asahi, Akashi, Jingei, Chougei, Oboro, Akebono, Sazanami and Ushio in your fleet and score an S rank at the boss nodes on 1-1, 1-2 and 1-3 twice each",
+    "added_update_id": 62,
+    "removed_update_id": null,
+    "season_id": 26,
+    "tracker": "[[840],[[0,[[1,1],6,2]],[0,[[1,2],6,2]],[0,[[1,3],6,2]]],[0,[[8,[[[89,false,0,0],[953,false,0,0],[182,false,0,0],[634,false,0,0],[635,false,0,0],[93,false,0,0],[15,false,0,0],[94,false,0,0],[16,false,0,0]],2]]]]]"
+  },
+  {
+    "id": 772,
+    "api_id": 1025,
+    "code": "B208",
+    "name_jp": "精鋭十一駆「白雪改二」、抜錨します！",
+    "name_en": "Elite DesDiv11 「Shirayuki Kai Ni」, Set Sail!",
+    "desc_jp": "「白雪改二」旗艦、他に吹雪型1隻以上を含む精鋭艦隊で、東部オリョール海、沖ノ島沖、<br>リランカ島、サブ島沖海域に進出！改吹雪型駆逐艦の実力を発揮し、敵艦隊を一掃せよ！",
+    "desc_en": "Organize a fleet with Shirayuki Kai Ni as the flagship and another Fubuki-class in your fleet and score an S rank at the boss nodes on 2-3, 2-5, 4-3 and 5-3",
+    "added_update_id": 62,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1025],[],[0,[[7,[986,false,1,0]],[8,[[[0,false,0,12]],2]]]]]"
   }
 ]
