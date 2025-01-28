@@ -236,6 +236,61 @@
             "consumable": []
           }
         }
+      },
+      {
+        "convert": null,
+        "helpers": [
+          {
+            "ship_ids": [
+              986
+            ],
+            "days": [
+              2,
+              3
+            ]
+          },
+          {
+            "ship_ids": [
+              532,
+              537
+            ],
+            "days": [
+              3
+            ]
+          }
+        ],
+        "costs": {
+          "fuel": 0,
+          "ammo": 0,
+          "steel": 80,
+          "baux": 70,
+          "p1": {
+            "devmats": 4,
+            "devmats_sli": 5,
+            "screws": 2,
+            "screws_sli": 3,
+            "equips": [
+              {
+                "id": 3,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
+          },
+          "p2": {
+            "devmats": 5,
+            "devmats_sli": 6,
+            "screws": 4,
+            "screws_sli": 5,
+            "equips": [
+              {
+                "id": 3,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
+          }
+        }
       }
     ],
     "convert_to": [
