@@ -9891,5 +9891,18 @@
     "removed_update_id": null,
     "season_id": null,
     "tracker": "[[1025],[[0,[[2,3],6,1]],[0,[[2,5],6,1]],[0,[[4,3],6,1]],[0,[[5,3],6,1]]],[0,[[7,[986,false,1,0]],[8,[[[0,false,0,12]],2]]]]]"
+  },
+  {
+    "id": 773,
+    "api_id": 1148,
+    "code": "F130",
+    "name_jp": "【対空兵装の拡充】94式高射装置の増加配備",
+    "name_en": "[Improvement of AA Armaments] Increased Production of Type 94 AAFD",
+    "desc_jp": "旗艦「白雪改二」または「吹雪改二」第一及び第二装備スロットに「91式高射装置」を装備。<br>開発資材x16及び改修資材x4を準備。「91式高射装置」x3、「13号対空電探」x3を廃棄せよ！",
+    "desc_en": "Have your secretary flagship Fubuki Kai Ni or Shirayuki Kai Ni equip a Type 91 AAFD in the first and second slot and then proceed to scrap 3x Type 91 AAFD, 3x Type 13 Air RADAR and have 16x Development Materials and 4x Screws (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 62,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1148],[[3,[27,3]],[3,[120,3]]],[1,[[7,[426,true,1,0]],[7,[986,true,1,0]]]]]"
   }
 ]

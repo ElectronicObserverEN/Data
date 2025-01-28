@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030521",
+  "version": "21030522",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4486,5 +4486,12 @@
     "name": "[Factory Quest] I-go Submarine Equipment Expansion",
     "desc_jp": "旗艦潜水艦第1スロに「零式水上偵察機」(★+4以上)。「零式水上偵察機」x8廃棄。魚雷装備x15<br>を廃棄。「九三式水中聴音機」x4、新型航空兵装資材x1、開発資材x60、新型兵装資材x1を準備せよ！",
     "desc": "Have a SSV as secretary flagship equip a ★+4 Type 0 Recon Seaplane in the first slot and then proceed to scrap 8x Type 0 Recon Seaplane and 15x Torpedoes and have 4x Type 93 Passive SONAR, 2x New Model Aerial Armament Materials, 1x New Model Armament Material and 60x Development Materials (All resources and Materials will be consumed upon completion)"
+  },
+  "1148": {
+    "code": "F130",
+    "name_jp": "【対空兵装の拡充】94式高射装置の増加配備",
+    "name": "[Improvement of AA Armaments] Increased Production of Type 94 AAFD",
+    "desc_jp": "旗艦「白雪改二」または「吹雪改二」第一及び第二装備スロットに「91式高射装置」を装備。<br>開発資材x16及び改修資材x4を準備。「91式高射装置」x3、「13号対空電探」x3を廃棄せよ！",
+    "desc": "Have your secretary flagship Fubuki Kai Ni or Shirayuki Kai Ni equip a Type 91 AAFD in the first and second slot and then proceed to scrap 3x Type 91 AAFD, 3x Type 13 Air RADAR and have 16x Development Materials and 4x Screws (All resources and Materials will be consumed upon completion)"
   }
 }
