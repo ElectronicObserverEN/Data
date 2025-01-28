@@ -13894,5 +13894,14 @@
     "ShipClassId": null,
     "ShipClassApiId": null,
     "IsFriendly": true
+  },
+  {
+    "Id": 1740,
+    "NameEN": "Shirayuki Kai Ni",
+    "NameJP": "白雪改二",
+    "ApiId": 986,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
   }
 ]
