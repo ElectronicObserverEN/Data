@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030523",
+  "version": "21030524",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3226,6 +3226,13 @@
     "name": "[Setsubun: Mame] Setsubun Operation 2025",
     "desc_jp": "節分任務：旗艦及び二番艦に「鳳翔」「朝日」「明石」「迅鯨」「長鯨」または第七駆逐隊を配備、<br>鎮守府正面海域、鎮守府海域南西諸島沖、製油所地帯沿岸に展開！節分反復哨戒を実施せよ！",
     "desc": "Organize a fleet with two of Houshou, Asahi, Akashi, Jingei, Chougei, Oboro, Akebono, Sazanami and Ushio as first and second ship and score an S rank at the boss nodes on 1-1, 1-2 and 1-3 twice each"
+  },
+  "841": {
+    "code": "2501 Bw2",
+    "name_jp": "【節分任務:鬼】南西方面節分作戦二〇二五",
+    "name": "[Setsubun: Oni] Southwestern Setsubun Operation 2025",
+    "desc_jp": "節分任務：旗艦及び二番艦に「Gloire」「Ranger」「Johnston」「神鷹」「大淀」「夕張」「早霜」<br>「朝霜」「風雲」を配備、南西諸島防衛線、南西諸島近海、バシー海峡を反復哨戒せよ！",
+    "desc": "Organize a fleet with two of Gloire, Ranger, Johnston, Shinyou, Ooyodo, Yuubari, Hayashimo, Asashimo and Kazagumo as first and second ship and score an S rank at the boss nodes on 1-4, 2-1 and 2-2 twice each"
   },
   "842": {
     "code": "B89",
