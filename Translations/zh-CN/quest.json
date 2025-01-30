@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030527",
+  "version": "21030528",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3501,11 +3501,11 @@
     "desc": "Sortie Arare Kai Ni, Kasumi Kai Ni/B, Kagerou Kai, and Shiranui Kai to [W3-2] and S-rank the boss node twice(?)."
   },
   "882": {
-    "code": "",
+    "code": "2501 B5",
     "name_jp": "【節分任務:最終拡張作戦】節分二〇二五 平安祈願！",
-    "name": "",
+    "name": "[Setsubun Quest: Final Extra Operation] Setsubun 2025 - Pray for Peace!",
     "desc_jp": "【節分最終拡張作戦】「阿賀野」「酒匂」「瑞穂」「深雪」「浦波」「天霧」「狭霧」「峯雲」のうち4隻<br>以上を含む艦隊で鎮守府近海、北方キス島沖、グアノ環礁沖海域に展開！敵艦隊を反復撃滅せよ！",
-    "desc": ""
+    "desc": "Organize a fleet with two of Agano, Sakawa, Mizuho, Miyuki, Uranami, Amagiri, Sagiri and Minegumo in your fleet and score an S rank at the boss nodes on 1-5, 3-2, and 6-3 twice each"
   },
   "884": {
     "code": "B117",
