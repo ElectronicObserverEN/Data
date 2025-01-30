@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030526",
+  "version": "21030527",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3499,6 +3499,13 @@
     "name": "18th Destroyer Division, to Kis Island in the Northern Sea!",
     "desc_jp": "精鋭「第十八駆逐隊」を投入し、北方海域キス島撤退作戦を実施する！<br>同作戦に反復出動し、キス島撤退作戦を完全成功させよ！",
     "desc": "Sortie Arare Kai Ni, Kasumi Kai Ni/B, Kagerou Kai, and Shiranui Kai to [W3-2] and S-rank the boss node twice(?)."
+  },
+  "882": {
+    "code": "",
+    "name_jp": "【節分任務:最終拡張作戦】節分二〇二五 平安祈願！",
+    "name": "",
+    "desc_jp": "【節分最終拡張作戦】「阿賀野」「酒匂」「瑞穂」「深雪」「浦波」「天霧」「狭霧」「峯雲」のうち4隻<br>以上を含む艦隊で鎮守府近海、北方キス島沖、グアノ環礁沖海域に展開！敵艦隊を反復撃滅せよ！",
+    "desc": ""
   },
   "884": {
     "code": "B117",
