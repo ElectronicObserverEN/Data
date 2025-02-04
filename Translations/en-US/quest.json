@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030529",
+  "version": "21030530",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1538,7 +1538,7 @@
     "name_jp": "【節分任務:枡】節分演習！二〇二五",
     "name": "[Setsubun Quest: Masu] Setsubun Exercise! 2025",
     "desc_jp": "節分任務：旗艦に潜水母艦または軽空母級、他に潜水艦2隻以上、または海防艦2隻以上、または<br>駆逐艦4隻以上が配備された節分演習艦隊を編成。同艦隊で、本日中に演習で3回以上勝利せよ！",
-    "desc": "Organize a fleet with an AS or CVL as flagship and either 2DE, 2SS(V) or 4DD in your fleet and score B rank 3 times in PvP"
+    "desc": "Organize a fleet with an AS or a CVL or one of Akitsu Maru, Yamashio Maru, Kumano Maru as flagship and either 2DE, 2SS(V) or 4DD in your fleet and score B rank 3 times in PvP"
   },
   "330": {
     "code": "Cq1",
