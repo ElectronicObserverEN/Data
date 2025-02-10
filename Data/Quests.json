@@ -9862,7 +9862,7 @@
     "desc_jp": "【期間限定演習】第十一駆逐隊「吹雪改二」「白雪改二」「深雪改二」「初雪改」のうち2隻以上を含む<br>精鋭演習艦隊を編成。同艦隊で本日中に演習で【S判定】勝利を4回以上達成せよ！",
     "desc_en": "Organize a fleet with two of Fubuki Kai Ni, Shirayuki Kai Ni, Miyuki Kai Ni and Hatsuyuki Kai in your fleet and score S rank 4 times in PvP",
     "added_update_id": 62,
-    "removed_update_id": null,
+    "removed_update_id": 63,
     "season_id": null,
     "tracker": "[[379],[[9,[6,4]]],[0,[[8,[[[426,false,1,0],[986,false,1,0],[203,false,1,0],[959,false,1,0]],2]]]]]"
   },
