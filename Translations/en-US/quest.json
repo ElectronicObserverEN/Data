@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030532",
+  "version": "21030533",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -902,6 +902,13 @@
     "name": "Sortie the 6th Cruiser Division",
     "desc_jp": "編成した「第六戦隊」をもって出撃し、オリョール海の敵を撃滅「完全勝利」せよ！",
     "desc": "Sortie a fleet with Furutaka (古鷹), Kako (加古), Kinugasa (衣笠), Aoba (青葉) and 2 additional ships. Score an S rank victory against World 2-3 Boss."
+  },
+  "234": {
+    "code": "2502 B1",
+    "name_jp": "バレンタイン2025限定任務【壱号作戦】",
+    "name": "Valentine 2025 Limited Quest [Operation No.1]",
+    "desc_jp": "「大井」「球磨」「鹿島」「神威」「神風」「浜風」「高波」「涼波」「藤波」「早波」「浜波」の3隻<br>以上を含む艦隊で製油所地帯沿岸、南西諸島防衛線、南西諸島近海、バシー海峡を哨戒せよ！",
+    "desc": "Organize a fleet with three of Ooi, Kuma, Kashima, Kamoi, Kamikaze, Hamakaze, Takanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet and score an A+ rank at the boss nodes on 1-3, 1-4, 2-1 and 2-2"
   },
   "235": {
     "code": "B135",
