@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030548",
+  "version": "21030549",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -931,6 +931,13 @@
     "desc_jp": "第五戦隊任務：「羽黒」「神風」を基幹として、他に重巡級1隻駆逐艦2隻、または駆逐艦4隻の<br>艦隊で南西諸島近海、バシー海峡、東部オリョール海に出撃、敵艦隊と交戦、これを撃滅せよ！",
     "desc": "제5전대 임무 : 하구로와 카미카제를 기간으로, 그 외 중순급 1척 구축함 2척, 또는 구축함 4척의 함대로 남서제도 근해, 바시 해협, 동부 오룔해에 출격, 적 함대와 교전, 이를 격멸하라!"
   },
+  "238": {
+    "code": "2502 B2",
+    "name_jp": "バレンタイン2025限定任務【弐号作戦】",
+    "name": "Valentine 2025 Limited Quest [Operation No.2]",
+    "desc_jp": "「大淀」「古鷹」「迅鯨」「伊201」「伊203」「C.Cappellini」「Washington」「South Dakota」<br>「衣笠改二」の3隻以上を含む艦隊で東部オリョール海、沖ノ島海域、北方モーレイ海、カレー洋海域を哨戒！",
+    "desc": "Organize a fleet with three of Ooyodo, Furutaka, Jingei, I-201, I-203, C.Cappellini, Washington, South Dakota and Kinugasa Kai Ni in your fleet and score an A+ rank at the boss nodes on 2-3, 2-4, 3-1 and 4-2"
+  },
   "239": {
     "code": "B20",
     "name_jp": "「第八駆逐隊」出撃せよ！",
@@ -1672,6 +1679,13 @@
     "name": "Elite Light Cruiser Exercise",
     "desc_jp": "旗艦に軽巡級(雷巡を除く)、旗艦含む3隻以上の軽巡級と随伴駆逐艦2隻を配備した軽巡演習艦隊を<br>編成、同艦隊により本日中に演習で【A判定】以上の勝利を4回以上達成せよ！",
     "desc": "Organize a fleet with a CL/CT as flagship, 2 CL/CT/CLT, 2 DD, 1 XX and score 4 A+ ranks in PVP on the same day."
+  },
+  "349": {
+    "code": "2502 C1",
+    "name_jp": "バレンタイン2025限定任務【特別演習】",
+    "name": "Valentine 2025 Limited Quest [Special Exercise]",
+    "desc_jp": "限定特別演習：「Mogador」「Gotland」「Perth」「Commandant Teste」「神威」「瑞穂」「叢雲」<br>「曙」「朧」のうち3隻以上を含む特別演習艦隊で、演習で本日中に【S判定】勝利4回以上達成せよ！",
+    "desc": "Organize a fleet with three of Mogador, Gotland, Perth, Commandant Teste, Kamoi, Mizuho, Murakumo, Akebono and Oboro in your fleet and score S rank four times in PvP"
   },
   "350": {
     "code": "Cy4",
