@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030534",
+  "version": "21030535",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1657,7 +1657,7 @@
     "name_jp": "演習ティータイム！",
     "name": "Tea Time Exercises",
     "desc_jp": "「Warspite」「金剛」「Ark Royal」「Nelson」及びJ級駆逐艦から4隻以上含む艦隊を編成！<br>同ティータイム艦隊で、本日中に【A判定】以上の勝利を4回以上達成せよ！Tea Timeは大切ネー！",
-    "desc": "Organize a fleet which 4 of the ships include British born ships such as Warspite , Kongou , Ark Royal , Nelson or J-class DDs and score four PVP A rank victories or higher in the same day."
+    "desc": "Organize a fleet with 4 of Warspite, Kongou, Ark Royal, Nelson, Jervis, Janus and Javelin in your fleet and score A+ rank 4 times in PvP"
   },
   "346": {
     "code": "Cy2",
