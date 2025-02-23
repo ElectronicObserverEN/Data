@@ -603,5 +603,27 @@
     "live_update": false,
     "maint_start_tweet": "https://fxtwitter.com/KanColle_STAFF/status/1888963938718740708",
     "maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1889859348144464182"
+  },
+  {
+    "id": 64,
+    "start_date": "2025-03-07T00:00:00",
+    "start_time": "11:00:00",
+    "end_time": "20:00:00",
+    "name": "Winter? 2025 Event",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://fxtwitter.com/kancolle_staff/status/1893575338812403925",
+    "maint_end_tweet": ""
+  },
+  {
+    "id": 65,
+    "start_date": "2025-02-28T00:00:00",
+    "start_time": "11:00:00",
+    "end_time": "18:00:00",
+    "name": "Setsubun End",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://x.com/i/status/1893576877379592539",
+    "maint_end_tweet": ""
   }
 ]

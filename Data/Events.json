@@ -26,5 +26,12 @@
     "name": "Summer 2024",
     "start_update_id": 49,
     "end_update_id": 52
+  },
+  {
+    "id": 8,
+    "api_id": 60,
+    "name": "Winter 2025",
+    "start_update_id": 64,
+    "end_update_id": null
   }
 ]
