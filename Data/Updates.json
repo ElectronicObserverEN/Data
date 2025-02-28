@@ -619,11 +619,11 @@
     "id": 65,
     "start_date": "2025-02-28T00:00:00",
     "start_time": "11:00:00",
-    "end_time": "18:00:00",
+    "end_time": "19:30:00",
     "name": "Setsubun End",
     "description": "",
     "live_update": false,
     "maint_start_tweet": "https://x.com/i/status/1893576877379592539",
-    "maint_end_tweet": ""
+    "maint_end_tweet": "https://fxtwitter.com/KanColle_STAFF/status/1895400679558271345"
   }
 ]
