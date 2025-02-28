@@ -148,5 +148,11 @@
     "name": "Valentine 2025",
     "added_update_id": 63,
     "removed_update_id": null
+  },
+  {
+    "id": 28,
+    "name": "Pre-Winter 2025 Event",
+    "added_update_id": 65,
+    "removed_update_id": null
   }
 ]

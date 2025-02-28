@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030551",
+  "version": "21030552",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4241,6 +4241,13 @@
     "name": "Elite DesDiv11 「Shirayuki Kai Ni」, Set Sail!",
     "desc_jp": "「白雪改二」旗艦、他に吹雪型1隻以上を含む精鋭艦隊で、東部オリョール海、沖ノ島沖、<br>リランカ島、サブ島沖海域に進出！改吹雪型駆逐艦の実力を発揮し、敵艦隊を一掃せよ！",
     "desc": "Organize a fleet with Shirayuki Kai Ni as the flagship and another Fubuki-class in your fleet and score an S rank at the boss nodes on 2-3, 2-5, 4-3 and 5-3"
+  },
+  "1026": {
+    "code": "2502 B3",
+    "name_jp": "「第一水雷戦隊」合戦用意！抜錨せよ！",
+    "name": "[1st Torpedo Squadron] Prepare for battle! Set sail!",
+    "desc_jp": "【限定任務】「阿武隈」「霞」「不知火」「薄雲」「曙」「潮」「初霜」「初春」「若葉」の4隻以上を含む<br>艦隊で鎮守府海域南西諸島沖、製油所地帯沿岸、南西諸島防衛線に反復出撃、鎧袖一触、敵を粉砕せよ！",
+    "desc": "Organize a fleet with four of Abukuma, Kasumi, Shiranui, Usugumo, Akebono, Ushio, Hatsushimo, Hatsuharu and Wakaba in your fleet and score an S rank at the boss nodes on 1-2, 1-3 and 1-4 twice each"
   },
   "1101": {
     "code": "F96",
