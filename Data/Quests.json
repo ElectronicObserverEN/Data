@@ -10008,5 +10008,18 @@
     "removed_update_id": null,
     "season_id": 28,
     "tracker": "[[1026],[[0,[[1,2],6,2]],[0,[[1,3],6,2]],[0,[[1,4],6,2]]],[0,[[8,[[[114,false,0,0],[49,false,0,0],[18,false,0,0],[631,false,0,0],[15,false,0,0],[16,false,0,0],[38,false,0,0],[41,false,0,0],[40,false,0,0]],4]]]]]"
+  },
+  {
+    "id": 782,
+    "api_id": 1027,
+    "code": "2502 B4",
+    "name_jp": "「第五艦隊」緊急出動用意ッ！",
+    "name_en": "[5th Fleet] Prepare for emergency deployment!",
+    "desc_jp": "【限定任務】「足柄」「那智」「多摩」「木曾」及び先の「第一水雷戦隊」計5隻以上を含む第五艦隊で、<br>南西諸島近海、バシー海峡、北方海域モーレイ海、北方海域キス島沖に展開！敵戦力を捕捉撃滅せよ！",
+    "desc_en": "Organize a fleet with five of Ashigara, Nachi, Tama, Kiso, Abukuma, Kasumi, Shiranui, Usugumo, Akebono, Ushio, Hatsushimo, Hatsuharu and Wakaba in your fleet and score an S rank at the boss nodes on 2-1, 2-2, 3-1 and 3-2",
+    "added_update_id": 65,
+    "removed_update_id": null,
+    "season_id": 28,
+    "tracker": "[[1027],[[0,[[2,1],6,1]],[0,[[2,2],6,1]],[0,[[3,1],6,1]],[0,[[3,2],6,1]]],[0,[[8,[[[63,false,0,0],[64,false,0,0],[100,false,0,0],[101,false,0,0],[114,false,0,0],[49,false,0,0],[18,false,0,0],[631,false,0,0],[15,false,0,0],[16,false,0,0],[38,false,0,0],[40,false,0,0],[41,false,0,0]],5]]]]]"
   }
 ]
