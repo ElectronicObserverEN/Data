@@ -1,4 +1,4 @@
-﻿{
+{
   "bld_date": "2024/12/28 13:00:00",
   "ver": "5.3.10",
   "note": "Check github for release notes: https://github.com/ElectronicObserverEN/ElectronicObserver/releases",
@@ -6,14 +6,14 @@
   "ApiServer": "https://eoapi.jebzou.ovh:8443/",
   "hash": "381F4E25553321D4881FE1D8024FA405E8325E424327ECE5DF39E9DF44382859",
   "nodes": 20071518,
-  "QuestTrackers": 286,
+  "QuestTrackers": 289,
   "Locks": 66,
-  "FitBonuses": 43,
+  "FitBonuses": 44,
   "EquipmentUpgrades": 421,
-  "kancolle_mt": "2025/02/28 11:00:00",
+  "kancolle_mt": "2025/03/07 11:00:00",
   "event_state": 3,
-  "MaintInfoLink": "https://x.com/i/status/1893576877379592539",
-  "MaintStart": "2025/02/28 11:00:00",
-  "MaintEnd": "2025/02/28 18:00:00",
-  "MaintEventState": 3
+  "MaintInfoLink": "https://fxtwitter.com/kancolle_staff/status/1893575338812403925",
+  "MaintStart": "2025/03/07 11:00:00",
+  "MaintEnd": "2025/03/07 20:00:00",
+  "MaintEventState": 1
 }
