@@ -74,13 +74,13 @@
 	},
 	"13": {
 		"name_jp": "鼠輸送作戦",
-		"name": "Rat Transportation Strategy",
+		"name": "Rat Transportation Operations",
 		"desc_jp": "快速の駆逐艦を集中運用して、激戦の諸島へ物資を輸送しよう！",
 		"desc": "Send out a fleet of Destroyers at night in an operation to transport supplies closer to the front lines!"
 	},
 	"14": {
 		"name_jp": "包囲陸戦隊撤収作戦",
-		"name": "Siege-Corps Withdrawal Strategies",
+		"name": "Siege-Corps Withdrawal Operations",
 		"desc_jp": "機動力のある小艦艇部隊を結集し、包囲下の部隊を収容しよう！",
 		"desc": "Our troops are under siege! Send in a squadron of our smallest, fastest vessels to get them out of there!"
 	},
@@ -92,7 +92,7 @@
 	},
 	"16": {
 		"name_jp": "艦隊決戦援護作戦",
-		"name": "Fleet Battle Support Strategy",
+		"name": "Fleet Battle Support Operations",
 		"desc_jp": "有力な艦隊を編成し、敵の背後側面を奇襲、主力の艦隊決戦を援護しよう！",
 		"desc": "Organise a powerful fleet and perform a sneak attack behind enemy forces to assist the Main Fleet!"
 	},
@@ -104,7 +104,7 @@
 	},
 	"18": {
 		"name_jp": "航空機輸送作戦",
-		"name": "Aircraft Transport Strategy",
+		"name": "Aircraft Transport Operations",
 		"desc_jp": "有力な「航空母艦」多数を配備した艦隊を編成、前線に航空機を輸送せよ！",
 		"desc": "Deploy a fleet consisting of numerous Aircraft Carriers to transport planes to the front lines!"
 	},
@@ -122,7 +122,7 @@
 	},
 	"21": {
 		"name_jp": "北方鼠輸送作戦",
-		"name": "Northern Rat Transportation Strategy",
+		"name": "Northern Rat Transportation Operations",
 		"desc_jp": "水雷戦隊にドラム缶(輸送用)を積載し、北方方面の友軍への糧食補給を図れ！",
 		"desc": "Send out a Torpedo Squadron at night in an operation to transport supplies to allied ground forces in the North! Use Drum Canisters to carry rations and other supplies!"
 	},
@@ -146,7 +146,7 @@
 	},
 	"25": {
 		"name_jp": "通商破壊作戦",
-		"name": "Trade-Route Destruction Strategy",
+		"name": "Trade-Route Destruction Operations",
 		"desc_jp": "快速かつ打撃力のある重巡を中心とした艦隊によって、敵後方補給線を遮断せよ!",
 		"desc": "Send out a fleet containing the strength of a fast and powerful Heavy Cruiser to intercept the enemy rear supply lines! (This mission will not yield any bonus rewards)"
 	},
@@ -158,7 +158,7 @@
 	},
 	"27": {
 		"name_jp": "潜水艦通商破壊作戦",
-		"name": "Submarine Commerce Destruction Strategy",
+		"name": "Submarine Commerce Raid Operations",
 		"desc_jp": "潜水艦2隻以上を伴う艦隊で敵後方へ進出、通商破壊作戦を実施せよ！",
 		"desc": "Deploy a fleet of two submarines to seek and destroy trade ships entering the enemy's home-port via the rear!"
 	},
