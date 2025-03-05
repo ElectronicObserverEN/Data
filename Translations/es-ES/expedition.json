@@ -133,233 +133,233 @@
 		"desc": "¡Realiza algunos ejercicios por el Distrito Naval para mejorar las habilidades de nuestra flota! (Esta misión no reportará recompensas extra)"
 	},
 	"23": {
-    	"name_jp": "航空戦艦運用演習",
+		"name_jp": "航空戦艦運用演習", 
     	"name": "Ejercicios de Acorazados-Portaviones",
-    	"desc_jp": "練度の高い「航空戦艦」複数を基幹とした艦隊による総合演習を実施せよ！",
+		"desc_jp": "練度の高い「航空戦艦」複数を基幹とした艦隊による総合演習を実施せよ！",
     	"desc": "Incorpora dos Acorazados-Portaviones en nuestro programa de ejercicios generales para mejorar el entrenamiento de nuestra flota. (Esta misión no otorgará recompensas adicionales)"
 	},
 	"24": {
-    	"name_jp": "北方航路海上護衛",
+		"name_jp": "北方航路海上護衛",
     	"name": "Protege la Ruta Marítima del Norte",
-    	"desc_jp": "練度の高い軽巡が率いる精鋭の護衛艦隊で、北方航路の海上護衛を実施せよ！",
+		"desc_jp": "練度の高い軽巡が率いる精鋭の護衛艦隊で、北方航路の海上護衛を実施せよ！",
     	"desc": "Con un Crucero Ligero como buque insignia, despliega una Flota de Escolta de Élite en una misión de escolta marítima a lo largo de la Ruta del Mar del Norte."
 	},
 	"25": {
-    	"name_jp": "通商破壊作戦",
+		"name_jp": "通商破壊作戦",
     	"name": "Operación de Destrucción de Rutas Comerciales",
-    	"desc_jp": "快速かつ打撃力のある重巡を中心とした艦隊によって、敵後方補給線を遮断せよ!",
+		"desc_jp": "快速かつ打撃力のある重巡を中心とした艦隊によって、敵後方補給線を遮断せよ!",
    	 	"desc": "Envía una flota con un Crucero Pesado rápido y poderoso para interceptar las líneas de suministro enemigas en la retaguardia. (Esta misión no otorgará recompensas adicionales)"
 	},
 	"26": {
-	    "name_jp": "敵母港空襲作戦",
+		"name_jp": "敵母港空襲作戦",
   	 	"name": "Campaña de Bombardeo en el Puerto Base Enemigo",
-   	 	"desc_jp": "敵潜水艦の哨戒線を長躯突破し、空母を伴った有力な機動部隊で敵母港を叩け！",
+		"desc_jp": "敵潜水艦の哨戒線を長躯突破し、空母を伴った有力な機動部隊で敵母港を叩け！",
    	 	"desc": "El enemigo es actualmente la fuerza dominante y ha reforzado sus patrullas submarinas. Envía un Portaaviones para darles una lección."
 	},
 	"27": {
-    	"name_jp": "潜水艦通商破壊作戦",
+		"name_jp": "潜水艦通商破壊作戦",
     	"name": "Operación de Destrucción Mercantil con Submarinos",
-    	"desc_jp": "潜水艦2隻以上を伴う艦隊で敵後方へ進出、通商破壊作戦を実施せよ！",
+		"desc_jp": "潜水艦2隻以上を伴う艦隊で敵後方へ進出、通商破壊作戦を実施せよ！",
     	"desc": "Despliega una flota con al menos dos submarinos para buscar y destruir barcos comerciales que ingresen al puerto base enemigo desde la retaguardia."
 	},
 	"28": {
-    	"name_jp": "西方海域封鎖作戦",
+		"name_jp": "西方海域封鎖作戦",
     	"name": "Operación Bloqueo del Mar Occidental",
-    	"desc_jp": "潜水艦3隻以上で構成される艦隊で、西方海域の敵水上艦の活動を封鎖せよ!",
+		"desc_jp": "潜水艦3隻以上で構成される艦隊で、西方海域の敵水上艦の活動を封鎖せよ!",
     	"desc": "Despliega una flota de tres submarinos para bloquear los barcos enemigos que regresan al área de operaciones del Mar Occidental."
 	},
 	"29": {
-    	"name_jp": "潜水艦派遣演習",
+		"name_jp": "潜水艦派遣演習",
     	"name": "Ejercicios de Despliegue de Submarinos",
-    	"desc_jp": "潜水艦3隻以上で構成される艦隊を編成、長距離派遣の演習を実施せよ！",
+		"desc_jp": "潜水艦3隻以上で構成される艦隊を編成、長距離派遣の演習を実施せよ！",
     	"desc": "Despliega una flota de tres submarinos para realizar ejercicios de formación y de operación a larga distancia."
 	},
 	"30": {
-    	"name_jp": "潜水艦派遣作戦",
+		"name_jp": "潜水艦派遣作戦",
     	"name": "Operaciones de Despliegue de Submarinos",
-    	"desc_jp": "潜水艦4隻以上で構成される艦隊を編成し、遠方の友軍勢力との連絡を試みよ！",
+		"desc_jp": "潜水艦4隻以上で構成される艦隊を編成し、遠方の友軍勢力との連絡を試みよ！",
     	"desc": "Despliega una flota de cuatro submarinos para combatir junto a fuerzas aliadas en zonas remotas."
 	},
 	"31": {
-    	"name_jp": "海外艦との接触",
+		"name_jp": "海外艦との接触",
     	"name": "Contacto con Buques Extranjeros",
-    	"desc_jp": "潜水艦4隻以上で構成される艦隊を編成・派遣し、海外艦との邂逅を試みよ！",
+		"desc_jp": "潜水艦4隻以上で構成される艦隊を編成・派遣し、海外艦との邂逅を試みよ！",
     	"desc": "Despliega una flota de cuatro submarinos para reunirse con un buque extranjero en un encuentro amistoso."
 	},
 	"32": {
-    	"name_jp": "遠洋練習航海",
+		"name_jp": "遠洋練習航海",
     	"name": "Entrenamiento de Navegación en Alta Mar",
-    	"desc_jp": "練習巡洋艦を旗艦とした練習艦隊で遠洋練習航海を実施、基礎練度向上に努めよ！",
+		"desc_jp": "練習巡洋艦を旗艦とした練習艦隊で遠洋練習航海を実施、基礎練度向上に努めよ！",
     	"desc": "Lleva al buque de entrenamiento Katori en un viaje especial para mejorar las habilidades y capacidades de tu flota."
 	},
 	"33": {
-    	"name_jp": "前衛支援任務",
+		"name_jp": "前衛支援任務",
     	"name": "Misiones de Apoyo a la Vanguardia (1)",
-    	"desc_jp": "南方海域へ支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)",
+		"desc_jp": "南方海域へ支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)",
     	"desc": "Envía una flota de apoyo al Océano Sur para defenderse de una flota de invasión enemiga. (Expedición de Apoyo de Salida)"
 	},
 	"34": {
-    	"name_jp": "艦隊決戦支援任務",
+		"name_jp": "艦隊決戦支援任務",
     	"name": "Misiones de Apoyo a la Vanguardia (2)",
-    	"desc_jp": "南方海域へ決戦支援を行う別動隊を出撃させ、主力艦隊の艦隊決戦を援護せよ！(要:駆逐2隻)",
+		"desc_jp": "南方海域へ決戦支援を行う別動隊を出撃させ、主力艦隊の艦隊決戦を援護せよ！(要:駆逐2隻)",
     	"desc": "El enemigo ha desplegado fuerzas muy poderosas. Envía otra flota al Océano Sur para ayudar contra la invasión. (Expedición de Apoyo de Salida)"
 	},
 	"35": {
-    	"name_jp": "MO作戦",
+		"name_jp": "MO作戦",
     	"name": "Operación MO",
-    	"desc_jp": "空母2隻を基幹とするMO機動部隊を出撃させ、南方海域の制海権を確保せよ！",
+		"desc_jp": "空母2隻を基幹とするMO機動部隊を出撃させ、南方海域の制海権を確保せよ！",
     	"desc": "Envía una Fuerza de Tarea MO con un Portaaviones Blindado para asegurar el control del Océano Sur de una vez por todas."
 	},
 	"36": {
-    	"name_jp": "水上機基地建設",
-    	"name": "Construcción de una Base de Hidroaviones",
-    	"desc_jp": "水上機母艦2隻を含む艦隊を編成し、南方海域に哨戒用の水上機基地を建設せよ！",
+		"name_jp": "水上機基地建設",
+    	"name": "Construcción de la Base de Hidroaviones",
+		"desc_jp": "水上機母艦2隻を含む艦隊を編成し、南方海域に哨戒用の水上機基地を建設せよ！",
     	"desc": "Necesitamos una base en el Océano Sur para facilitar las patrullas. Envía un Portahidroaviones con tu flota para ayudar a organizar y construir el proyecto."
 	},
 	"37": {
-    	"name_jp": "東京急行",
+		"name_jp": "東京急行",
     	"name": "Expreso de Tokio (1)",
-    	"desc_jp": "水雷戦隊にドラム缶(輸送用)を満載し、南方方面友軍への鼠輸送作戦を遂行せよ！",
+		"desc_jp": "水雷戦隊にドラム缶(輸送用)を満載し、南方方面友軍への鼠輸送作戦を遂行せよ！",
     	"desc": "Envía un Escuadrón de Torpederos en una misión nocturna para transportar suministros a aliados en el sur. Usa Bidones de Transporte para llevar víveres y otros suministros."
 	},
 	"38": {
-    	"name_jp": "東京急行(弐)",
+		"name_jp": "東京急行(弐)",
     	"name": "Expreso de Tokio (2)",
-    	"desc_jp": "水雷戦隊にドラム缶(輸送用)を可能な限り満載し、南方鼠輸送作戦を続行せよ！",
+		"desc_jp": "水雷戦隊にドラム缶(輸送用)を可能な限り満載し、南方鼠輸送作戦を続行せよ！",
     	"desc": "Envía un Escuadrón de Torpederos con la mayor cantidad de suministros posible. Continúa la operación de transporte con bidones de carga al máximo."
 	},
 	"39": {
-	    "name_jp": "遠洋潜水艦作戦",
+		"name_jp": "遠洋潜水艦作戦",
     	"name": "Operación Submarinos en Alta Mar",
-    	"desc_jp": "潜水母艦と多数の潜水艦による遠洋潜水艦作戦を実施、敵戦力の漸減に努めよ！",
+		"desc_jp": "潜水母艦と多数の潜水艦による遠洋潜水艦作戦を実施、敵戦力の漸減に努めよ！",
     	"desc": "Nuestra inteligencia indica que las fuerzas submarinas enemigas están disminuyendo. Lanza una batalla en aguas profundas contra ellos con una flota de Submarinos y un Buque Nodriza de Submarinos."
 	},
 	"40": {
-    	"name_jp": "水上機前線輸送",
+		"name_jp": "水上機前線輸送",
     	"name": "Entrega de Hidroaviones en en Frente",
-    	"desc_jp": "複数の水上機母艦を有する軽巡を旗艦とした艦隊で、水上機の前線輸送を実施せよ！",
+		"desc_jp": "複数の水上機母艦を有する軽巡を旗艦とした艦隊で、水上機の前線輸送を実施せよ！",
     	"desc": "Forma una flota con un Crucero Ligero como buque insignia y varios Buques Nodriza de Hidroaviones. Desplégalos en una misión de transporte a la línea del frente."
 	},
 	"41": {
 		"name_jp": "ブルネイ泊地沖哨戒",
-		"name": "Brunei Anchorage Patrol"
+		"name": "Patrulla Puerto de Borneo"
 	},
 	"42": {
 		"name_jp": "ミ船団護衛(一号船団)",
-		"name": "Mi Convoy Escort (Fleet No.1)"
+		"name": "Escolta Convoy Mi (Fleet No.1)"
 	},
 	"43": {
 		"name_jp": "ミ船団護衛(二号船団)",
-		"name": "Mi Convoy Escort (Fleet No.2)"
+		"name": "Escolta Convoy Mi (Fleet No.2)"
 	},
 	"44": {
 		"name_jp": "航空装備輸送任務",
-		"name": "Aircraft Equipment Transport Mission"
+		"name": "Misión de Transporte de Equipamiento de Aviación"
 	},
 	"45": {
 		"name_jp": "ボーキサイト船団護衛",
-		"name": "Bauxite Convoy Escort"
+		"name": "Escolta Convoy de Bauxita"
 	},
 	"46": {
 		"name_jp": "南西海域戦闘哨戒",
-		"name": "Southwestern Sea Combat Patrols "
+		"name": "Patrullas de Combate en el Mar del Suroeste"
 	},
 	"100": {
 		"name_jp": "兵站強化任務",
-		"name": "Logistic Reinforcement",
+		"name": "Refuerzo Logístico",
 		"desc_jp": "港湾施設強化と兵站備蓄施設拡充<br>に協力し、補給体制を強化せよ！",
 		"desc": "港湾施設強化と兵站備蓄施設拡充<br>に協力し、補給体制を強化せよ！"
 	},
 	"101": {
 		"name_jp": "海峡警備行動",
-		"name": "Strait Security Operation",
+		"name": "Operación de Seguridad en el Estrecho",
 		"desc_jp": "海防艦や駆逐艦による、沿岸警備<br>部隊で、海峡警備を実施しよう！",
 		"desc": "海防艦や駆逐艦による、沿岸警備<br>部隊で、海峡警備を実施しよう！"
 	},
 	"102": {
 		"name_jp": "長時間対潜警戒",
-		"name": "Extended Anti-Submarine Alert",
+		"name": "Alerta Antisubmarina a Largo Plazo",
 		"desc_jp": "高練度の対潜部隊を展開、敵潜を<br>制圧し、航路の安全を確保せよ！",
 		"desc": "高練度の対潜部隊を展開、敵潜を<br>制圧し、航路の安全を確保せよ！"
 	},
 	"103": {
 		"name_jp": "南西方面連絡線哨戒",
-		"name": "SouthWestern Connection Line Patrol"
+		"name": "Patrulla de la línea de Conexión Sudoccidental"
 	},
 	"104": {
 		"name_jp": "小笠原沖哨戒線",
-		"name": "Ogasawara Coastal Patrol Line"
+		"name": "Patrulla de la línea Costera de Ogasawara"
 	},
 	"105": {
 		"name_jp": "小笠原沖戦闘哨戒",
-		"name": "Ogasawara Coastal Combat Patrol"
+		"name": "Patrulla de Combate Costera en Ogasawara"
 	},
 	"110": {
 		"name_jp": "南西方面航空偵察作戦",
-		"name": "South Western Air Reconnaissance Operation"
+		"name": " Operación de Reconocimiento Aéreo de las Aguas Sudoccidentales"
 	},
 	"111": {
 		"name_jp": "敵泊地強襲反撃作戦",
-		"name": "Enemy Harbor Assault Counter Attack Operation"
+		"name": "Operación de Contraataque al Puerto Enemigo"
 	},
 	"112": {
 		"name_jp": "南西諸島離島哨戒作戦",
-		"name": "Nansei Island Remote Island Patrolling Operation"
+		"name": "Operación de Patrulla en la Isla Remota en Nansei"
 	},
 	"113": {
 		"name_jp": "南西諸島離島防衛作戦",
-		"name": "Nansei Island Remote Island Defense Operation"
+		"name": "Operación de Defensa en la Isla Remota en Nansei"
 	},
 	"114": {
 		"name_jp": "南西諸島捜索撃滅戦",
-		"name": "Nansei Island Search and Destroy Mission"
+		"name": "Misión de Buscar y Destruir en la Isla Nansei"
 	},
 	"115": {
 		"name_jp": "精鋭水雷戦隊夜襲",
-		"name": "Elite Destroyer Squadron Night Raid"
+		"name": " Incursión Nocturna del Esquadron de Destructores de Élite"
 	},
 	"125": {
 		"name_jp": "前衛支援任務",
-		"name": "General Vanguard Support Missions",
+		"name": "Misión de apoyo a la Vanguardia",
 		"desc_jp": "支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)",
-		"desc": "Deploy a support fleet in an avant-garde support mission! (Sortie-Support Expedition)"
+		"desc": "¡Envia la flota de apoyo y cubre el avance de la flota principal! (Requiere 2 Destructores)"
 	},
 	"126": {
 		"name_jp": "艦隊決戦支援任務",
-		"name": "General Fleet Battle Support Missions",
+		"name": "Misión de apoyo a la Batalla Decisiva",
 		"desc_jp": "主力艦隊支援を行う別動隊を出撃させ、艦隊決戦を援護せよ！(要:駆逐2隻)",
-		"desc": "Deploy a support fleet to assist our main forces battle out against the enemy! (Sortie-Support Expedition)"
+		"desc": "¡Envia la flota de apoyo para assistir a la flota principal en la batalla decisiva! (Requiere 2 Destructores)"
 	},
 	"131": {
 		"name_jp": "西方海域偵察作戦",
-		"name": "Western Sea Reconnaissance Operation"
+		"name": "Operación de Reconocimiento en el mar Occidental"
 	},
 	"132": {
 		"name_jp": "西方潜水艦作戦",
-		"name": "Western Submarine Operation"
+		"name": "Operación Submarina Occidental"
 	},
 	"133": {
 		"name_jp": "欧州方面友軍との接触",
-		"name": "Contact with Friendly European Forces "
+		"name": "Contacto con las Fuerzas Aliadas Europeas"
 	},
 	"141": {
 		"name_jp": "ラバウル方面艦隊進出",
-		"name": "Rabaul District Fleet Advance"
+		"name": "Expansión de la Flota en el Districo Naval Rabaul"
 	},
 	"142": {
 		"name_jp": "強行鼠輸送作戦",
-		"name": "Enforced Rat Transport Operation"
+		"name": "Operación de Transporte de Ratas Forzosa"
 	},
 	"149": {
 		"name_jp": "前衛支援任務",
 		"name": "Misión de apoyo a la Vanguardia",
 		"desc_jp": "支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)",
-		"desc": "¡Lanza la flota de apoyo y cubre el avance de la flota principal! (Requiere 2 Destructores)"
+		"desc": "¡Envia la flota de apoyo y cubre el avance de la flota principal! (Requiere 2 Destructores)"
 	},
 	"150": {
 		"name_jp": "艦隊決戦支援任務",
 		"name": "Misión de apoyo a la Batalla Decisiva",
 		"desc_jp": "主力艦隊支援を行う別動隊を出撃させ、艦隊決戦を援護せよ！(要:駆逐2隻)",
-		"desc": "¡Lanza la flota de apoyo para assistir a la flota principal en la batalla decisiva! (Requiere 2 Destructores)"
+		"desc": "¡Envia la flota de apoyo para assistir a la flota principal en la batalla decisiva! (Requiere 2 Destructores)"
 	}
 }
