@@ -619,11 +619,11 @@
     "id": 67,
     "start_date": "2025-03-07T00:00:00",
     "start_time": "11:00:00",
-    "end_time": "23:00:00",
+    "end_time": "1.01:15:00",
     "name": "Winter? 2025 Event",
     "description": "",
     "live_update": false,
     "maint_start_tweet": "https://fxtwitter.com/kancolle_staff/status/1893575338812403925",
-    "maint_end_tweet": "https://twitter.com/kancolle_staff/status/1897496867078070576"
+    "maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1898011677297439175"
   }
 ]
