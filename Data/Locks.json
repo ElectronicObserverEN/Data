@@ -33,5 +33,170 @@
       "Name": "連合艦隊"
     }
   ],
-  "Phases": []
+  "Phases": [
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 C2"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 E"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 C"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 H"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 C2"
+    },
+    {
+      "LockGroups": [
+        1,
+        2
+      ],
+      "Name": "E1 G"
+    },
+    {
+      "LockGroups": [
+        1,
+        2
+      ],
+      "Name": "E1-1"
+    },
+    {
+      "LockGroups": [
+        2
+      ],
+      "Name": "E2 F1"
+    },
+    {
+      "LockGroups": [
+        2
+      ],
+      "Name": "E2 F2"
+    },
+    {
+      "LockGroups": [
+        2
+      ],
+      "Name": "E2 C"
+    },
+    {
+      "LockGroups": [
+        2
+      ],
+      "Name": "E2 K"
+    },
+    {
+      "LockGroups": [
+        2
+      ],
+      "Name": "E2 F"
+    },
+    {
+      "LockGroups": [
+        3
+      ],
+      "Name": "E2-1"
+    },
+    {
+      "LockGroups": [
+        3
+      ],
+      "Name": "E2-2"
+    },
+    {
+      "LockGroups": [
+        3
+      ],
+      "Name": "E3 E2"
+    },
+    {
+      "LockGroups": [
+        3
+      ],
+      "Name": "E3 D3"
+    },
+    {
+      "LockGroups": [
+        3
+      ],
+      "Name": "E3 B4"
+    },
+    {
+      "LockGroups": [
+        3
+      ],
+      "Name": "E3-1"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E3 H3"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E3 I3"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E3 I1"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E3 K2"
+    },
+    {
+      "LockGroups": [
+        4
+      ],
+      "Name": "E3 M1"
+    },
+    {
+      "LockGroups": [
+        4
+      ],
+      "Name": "E3 M2"
+    },
+    {
+      "LockGroups": [
+        4
+      ],
+      "Name": "E3-2"
+    },
+    {
+      "LockGroups": [
+        4
+      ],
+      "Name": "E3 U"
+    },
+    {
+      "LockGroups": [
+        4
+      ],
+      "Name": "E3-3"
+    }
+  ]
 }
