@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030172",
+  "version": "21030173",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -473,7 +473,10 @@
     "軽巡仏棲姫": "Princesa Crucero Ligero Francés",
     "太平洋飛行場姫": "Princesa Aeródromo del Pacífico",
     "集積地棲姫V バカンスmode": "Princesa del Depósito de Suministros V Modo Vacaciones",
-    "深海珊瑚海水鬼": "Demonio Acuático del Mar del Coral Abisal"
+    "深海珊瑚海水鬼": "Demonio Acuático del Mar del Coral Abisal",
+    "Киров": "Kirov",
+    "榧": "Kaya",
+    "大泊": "Ootomari"
   },
   "class": {
     "綾波型": "Clase Ayanami",
