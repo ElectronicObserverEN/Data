@@ -4296,5 +4296,17 @@
     "api_id": 554,
     "name_jp": "九七式艦攻改(北東海軍航空隊)",
     "name_en": "Type 97 Torpedo Bomber (Northeastern Air Group)"
+  },
+  {
+    "id": 2545,
+    "api_id": 555,
+    "name_jp": "18cm/57 三連装主砲",
+    "name_en": "18cm/57 Triple Main Gun Mount"
+  },
+  {
+    "id": 2546,
+    "api_id": 556,
+    "name_jp": "10cm/56 単装高角砲(集中配備)",
+    "name_en": "10cm/56 Single High-angle Gun (Concentrated Deployment)"
   }
 ]
