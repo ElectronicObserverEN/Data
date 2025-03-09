@@ -13903,5 +13903,311 @@
     "ShipClassId": null,
     "ShipClassApiId": null,
     "IsFriendly": true
+  },
+  {
+    "Id": 1741,
+    "NameEN": "Kaya Kai",
+    "NameJP": "榧改",
+    "ApiId": 736,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1742,
+    "NameEN": "Wahoo",
+    "NameJP": "Wahoo",
+    "ApiId": 984,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1743,
+    "NameEN": "Wahoo Kai",
+    "NameJP": "Wahoo改",
+    "ApiId": 989,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1744,
+    "NameEN": "Kaya",
+    "NameJP": "榧",
+    "ApiId": 994,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1745,
+    "NameEN": "Ootomari",
+    "NameJP": "大泊",
+    "ApiId": 995,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1746,
+    "NameEN": "Ootomari Kai",
+    "NameJP": "大泊改",
+    "ApiId": 1000,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1747,
+    "NameEN": "Kirov",
+    "NameJP": "Киров",
+    "ApiId": 1001,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1748,
+    "NameEN": "Kirov Kai",
+    "NameJP": "Киров改",
+    "ApiId": 1006,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1749,
+    "NameEN": "DD Ra-Class (Initial Model)",
+    "NameJP": "駆逐ラ級(初期型)",
+    "ApiId": 2262,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1750,
+    "NameEN": "DD Ra-Class",
+    "NameJP": "駆逐ラ級",
+    "ApiId": 2263,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1751,
+    "NameEN": "DD Ra-Class",
+    "NameJP": "駆逐ラ級",
+    "ApiId": 2264,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1752,
+    "NameEN": "DD Ra-Class (Initial Model) - Damaged",
+    "NameJP": "駆逐ラ級(初期型)-壊",
+    "ApiId": 2265,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1753,
+    "NameEN": "DD Ra-Class - Damaged",
+    "NameJP": "駆逐ラ級-壊",
+    "ApiId": 2266,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1754,
+    "NameEN": "DD Ra-Class - Damaged",
+    "NameJP": "駆逐ラ級-壊",
+    "ApiId": 2267,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1755,
+    "NameEN": "AP Wa-Class II (Landing)",
+    "NameJP": "輸送ワ級II(揚陸中)",
+    "ApiId": 2268,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1756,
+    "NameEN": "AP Wa-Class II (Landing)",
+    "NameJP": "輸送ワ級II(揚陸中)",
+    "ApiId": 2269,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1757,
+    "NameEN": "DD Ra-Class (Initial Model)",
+    "NameJP": "駆逐ラ級(初期型)",
+    "ApiId": 2270,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1758,
+    "NameEN": "DD Ra-Class",
+    "NameJP": "駆逐ラ級",
+    "ApiId": 2271,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1759,
+    "NameEN": "DD Ra-Class",
+    "NameJP": "駆逐ラ級",
+    "ApiId": 2272,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1760,
+    "NameEN": "DD Ra-Class (Initial Model) - Damaged",
+    "NameJP": "駆逐ラ級(初期型)-壊",
+    "ApiId": 2273,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1761,
+    "NameEN": "DD Ra-Class - Damaged",
+    "NameJP": "駆逐ラ級-壊",
+    "ApiId": 2274,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1762,
+    "NameEN": "DD Ra-Class - Damaged",
+    "NameJP": "駆逐ラ級-壊",
+    "ApiId": 2275,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1763,
+    "NameEN": "Submarine Seerfish Water Demon",
+    "NameJP": "潜水鰆水鬼",
+    "ApiId": 2276,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1764,
+    "NameEN": "Submarine Seerfish Water Demon",
+    "NameJP": "潜水鰆水鬼",
+    "ApiId": 2277,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1765,
+    "NameEN": "Submarine Seerfish Water Demon",
+    "NameJP": "潜水鰆水鬼",
+    "ApiId": 2278,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1766,
+    "NameEN": "Submarine Seerfish Water Demon - Damaged",
+    "NameJP": "潜水鰆水鬼-壊",
+    "ApiId": 2279,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1767,
+    "NameEN": "Submarine Seerfish Water Demon - Damaged",
+    "NameJP": "潜水鰆水鬼-壊",
+    "ApiId": 2280,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1768,
+    "NameEN": "Submarine Seerfish Water Demon - Damaged",
+    "NameJP": "潜水鰆水鬼-壊",
+    "ApiId": 2281,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1769,
+    "NameEN": "Non-Treaty Cruiser Water Princess",
+    "NameJP": "条約外巡洋艦水姫",
+    "ApiId": 2282,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1770,
+    "NameEN": "Non-Treaty Cruiser Water Princess",
+    "NameJP": "条約外巡洋艦水姫",
+    "ApiId": 2283,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1771,
+    "NameEN": "Non-Treaty Cruiser Water Princess",
+    "NameJP": "条約外巡洋艦水姫",
+    "ApiId": 2284,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1772,
+    "NameEN": "Non-Treaty Cruiser Water Princess - Damaged",
+    "NameJP": "条約外巡洋艦水姫-壊",
+    "ApiId": 2285,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1773,
+    "NameEN": "Non-Treaty Cruiser Water Princess - Damaged",
+    "NameJP": "条約外巡洋艦水姫-壊",
+    "ApiId": 2286,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1774,
+    "NameEN": "Non-Treaty Cruiser Water Princess - Damaged",
+    "NameJP": "条約外巡洋艦水姫-壊",
+    "ApiId": 2287,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
   }
 ]
