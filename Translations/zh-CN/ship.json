@@ -656,8 +656,8 @@
     "丸": "Maru",
     "IV": "IV",
     "休日mode": "Holiday Mode",
-    "揚陸中": "Landing",
-    "初期型": "Initial Model"
+    "(揚陸中)": "Landing",
+    "(初期型)": "Initial Model"
   },
   "stype": {
     "海防艦": "DE",
