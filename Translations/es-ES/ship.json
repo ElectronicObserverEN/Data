@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030174",
+  "version": "21030175",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -476,7 +476,10 @@
     "深海珊瑚海水鬼": "Demonio Acuático del Mar del Coral Abisal",
     "Киров": "Kirov",
     "榧": "Kaya",
-    "大泊": "Ootomari"
+    "大泊": "Ootomari",
+    "駆逐ラ級": "",
+    "潜水鰆水鬼": "",
+    "条約外巡洋艦水姫": ""
   },
   "class": {
     "綾波型": "Clase Ayanami",
@@ -652,7 +655,9 @@
     "戦": "Sen",
     "丸": "Maru",
     "IV": "IV",
-    "休日mode": "Modo Vacacional"
+    "休日mode": "Modo Vacacional",
+    "揚陸中": "",
+    "初期型": ""
   },
   "stype": {
     "海防艦": "DE",

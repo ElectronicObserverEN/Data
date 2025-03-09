@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030175",
+  "version": "21030176",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -476,7 +476,10 @@
     "深海珊瑚海水鬼": "Abyssal Coral Sea Water Demon",
     "Киров": "Kirov",
     "榧": "Kaya",
-    "大泊": "Ootomari"
+    "大泊": "Ootomari",
+    "駆逐ラ級": "DD Ra-Class",
+    "潜水鰆水鬼": "Submarine Seerfish Water Demon",
+    "条約外巡洋艦水姫": "Non-Treaty Cruiser Water Princess"
   },
   "class": {
     "綾波型": "Ayanami Class",
@@ -652,7 +655,9 @@
     "戦": "Sen",
     "丸": "Maru",
     "IV": "IV",
-    "休日mode": "Holiday Mode"
+    "休日mode": "Holiday Mode",
+    "揚陸中": "Landing",
+    "初期型": "Initial Model"
   },
   "stype": {
     "海防艦": "DE",
