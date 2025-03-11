@@ -197,6 +197,36 @@
         4
       ],
       "Name": "E3-3"
+    },
+    {
+      "LockGroups": [
+        3
+      ],
+      "Name": "E3 G"
+    },
+    {
+      "LockGroups": [
+        3
+      ],
+      "Name": "E3 B4"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E3 K2"
+    },
+    {
+      "LockGroups": [
+        4
+      ],
+      "Name": "E3 R"
+    },
+    {
+      "LockGroups": [
+        4
+      ],
+      "Name": "E3 U"
     }
   ]
 }
