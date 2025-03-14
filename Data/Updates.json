@@ -625,5 +625,16 @@
     "live_update": false,
     "maint_start_tweet": "https://fxtwitter.com/kancolle_staff/status/1893575338812403925",
     "maint_end_tweet": "https://x.com/KanColle_STAFF/status/1898049441808122003"
+  },
+  {
+    "id": 68,
+    "start_date": "2025-03-14T00:00:00",
+    "start_time": "00:00:00",
+    "end_time": null,
+    "name": "White day 2025",
+    "description": "",
+    "live_update": true,
+    "maint_start_tweet": "",
+    "maint_end_tweet": ""
   }
 ]
