@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030180",
+  "version": "21030181",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -479,7 +479,8 @@
     "大泊": "Ootomari",
     "駆逐ラ級": "DD Classe-Ra",
     "潜水鰆水鬼": "Demonio Acuático Submarino",
-    "条約外巡洋艦水姫": "Fuera del Tratado Princesa Demonio Acuático Cruzero"
+    "条約外巡洋艦水姫": "Fuera del Tratado Princesa Demonio Acuático Cruzero",
+    "重巡新棲姫": "重巡新棲姫"
   },
   "class": {
     "綾波型": "Clase Ayanami",
@@ -642,20 +643,20 @@
     "護": "Go",
     "重": "Juu",
     "elite": "élite",
-    "flagship": "buque insignia",
-    "後期型": "Último modelo",
-    "-壊": "- Dañado",
+    "flagship": "Buque Insignia",
+    "後期型": "Modelo Tardío",
+    "-壊": "Dañado",
     "バカンスmode": "Modo Vacacional",
     "夏mode": "Modo Veraniego",
-    "夏季上陸mode": "Modo Veraniego Desenbarcado",
+    "夏季上陸mode": "Modo Veraniego Desenbarcado ",
     "(量産型)": "(Modelo Producido en Masa)",
     "II": "II",
     "III": "III",
-    "(哨戒機配備)": "Despliegue de Aviones de Patrulla",
+    "(哨戒機配備)": "Despliegue de aviones de patrulla",
     "戦": "Sen",
     "丸": "Maru",
     "IV": "IV",
-    "休日mode": "Modo Vacacional",
+    "休日mode": "Modo Festivo",
     "(揚陸中)": "(Landing)",
     "(初期型)": "(Initial Model)"
   },
