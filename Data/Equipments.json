@@ -4320,5 +4320,17 @@
     "api_id": 1654,
     "name_jp": "深海18cm三連装砲+深海SG",
     "name_en": "Abyssal 18cm Triple Gun Mount + Abyssal SG"
+  },
+  {
+    "id": 2549,
+    "api_id": 557,
+    "name_jp": "零式艦戦62型改(夜間爆戦)",
+    "name_en": "Type 0 Fighter Model 62 Kai (Night Fighter-bomber)"
+  },
+  {
+    "id": 2550,
+    "api_id": 558,
+    "name_jp": "零式艦戦62型改(熟練/夜間爆戦)",
+    "name_en": "Type 0 Fighter Model 62 Kai (Skilled/Night Fighter-bomber)"
   }
 ]
