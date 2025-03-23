@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030182",
+  "version": "21030183",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -480,7 +480,9 @@
     "駆逐ラ級": "DD Ra-Class",
     "潜水鰆水鬼": "Submarine Seerfish Water Demon",
     "条約外巡洋艦水姫": "Non-Treaty Cruiser Water Princess",
-    "重巡新棲姫": "重巡新棲姫"
+    "重巡新棲姫": "重巡新棲姫",
+    "杉": "Sugi",
+    "しまね丸": "Shimane Maru"
   },
   "class": {
     "綾波型": "Ayanami Class",
