@@ -353,6 +353,96 @@
         6
       ],
       "Name": "E5-3"
+    },
+    {
+      "LockGroups": [
+        6
+      ],
+      "Name": "E6 F"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E6 M"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E6 L"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E6 I"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E6-1"
+    },
+    {
+      "LockGroups": [
+        6,
+        9,
+        10
+      ],
+      "Name": "E6-2"
+    },
+    {
+      "LockGroups": [
+        6
+      ],
+      "Name": "E6 F"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E6 I"
+    },
+    {
+      "LockGroups": [
+        6,
+        9,
+        10
+      ],
+      "Name": "E6 O"
+    },
+    {
+      "LockGroups": [
+        6,
+        9,
+        10
+      ],
+      "Name": "E6 J1"
+    },
+    {
+      "LockGroups": [
+        6,
+        9,
+        10
+      ],
+      "Name": "E6 P"
+    },
+    {
+      "LockGroups": [
+        6,
+        9,
+        10
+      ],
+      "Name": "E6 Q"
+    },
+    {
+      "LockGroups": [
+        6,
+        9,
+        10
+      ],
+      "Name": "E6-3"
     }
   ]
 }
