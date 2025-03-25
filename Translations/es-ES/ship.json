@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030182",
+  "version": "21030183",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -480,9 +480,10 @@
     "駆逐ラ級": "DD Classe-Ra",
     "潜水鰆水鬼": "Demonio Acuático Submarino",
     "条約外巡洋艦水姫": "Fuera del Tratado Princesa Demonio Acuático Cruzero",
-    "重巡新棲姫": "重巡新棲姫",
+    "重巡新棲姫": "New Heavy Cruiser Princess",
     "杉": "Sugi",
-    "しまね丸": "Shimane Maru"
+    "しまね丸": "Shimane Maru",
+    "飛行場棲姫": "Occupied Airfield Princess"
   },
   "class": {
     "綾波型": "Clase Ayanami",
