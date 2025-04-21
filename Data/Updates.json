@@ -636,5 +636,16 @@
     "live_update": true,
     "maint_start_tweet": "",
     "maint_end_tweet": ""
+  },
+  {
+    "id": 69,
+    "start_date": "2025-04-23T00:00:00",
+    "start_time": "14:00:00",
+    "end_time": "17:30:00",
+    "name": "12th Anniversary",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1914182532863766935",
+    "maint_end_tweet": ""
   }
 ]
