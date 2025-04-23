@@ -10046,6 +10046,6 @@
     "added_update_id": 69,
     "removed_update_id": null,
     "season_id": 30,
-    "tracker": "[[971],[],[0,[[2,[[5,16],2,true,0]],[2,[[2],1,false,0]],[2,[[3],1,false,0]]]]]"
+    "tracker": "[[971],[],[0,[[2,[[5,16],2,false,0]],[2,[[5,6],1,true,0]],[2,[[2],1,false,0]],[2,[[3],1,false,0]]]]]"
   }
 ]
