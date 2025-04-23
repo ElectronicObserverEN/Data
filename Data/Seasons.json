@@ -160,5 +160,11 @@
     "name": "White day 2025",
     "added_update_id": 68,
     "removed_update_id": 69
+  },
+  {
+    "id": 30,
+    "name": "12th anniv",
+    "added_update_id": 69,
+    "removed_update_id": null
   }
 ]
