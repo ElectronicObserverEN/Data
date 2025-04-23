@@ -147,7 +147,7 @@
     "id": 27,
     "name": "Valentine 2025",
     "added_update_id": 63,
-    "removed_update_id": null
+    "removed_update_id": 69
   },
   {
     "id": 28,
@@ -159,6 +159,6 @@
     "id": 29,
     "name": "White day 2025",
     "added_update_id": 68,
-    "removed_update_id": null
+    "removed_update_id": 69
   }
 ]
