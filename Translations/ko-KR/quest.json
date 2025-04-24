@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030565",
+  "version": "21030566",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4165,6 +4165,13 @@
     "desc_jp": "ソロモン海特別任務：改装白露型駆逐艦「夕立改二」及び「春雨改二」を含む強力な艦隊で、カレー洋<br>リランカ島沖、そして南方サブ島沖海域、サーモン海域、サーモン海域北方に出撃！敵を撃滅せよ！",
     "desc": "Organize a fleet with Harusame Kai Ni and Yuudachi Kai Ni in your fleet and score an S rank at the boss nodes on 4-5, 5-3, 5-4 and 5-5"
   },
+  "1009": {
+    "code": "2504 B4",
+    "name_jp": "【艦隊12周年記念任務:拡張作戦】艦隊、西へ！",
+    "name": "12th Anniversary Extra]  Fleet, Head West!",
+    "desc_jp": "【記念拡張作戦】「吹雪」「曙」「朧」「翔鶴」「大和」「Mogador」「Gotland」「衣笠改二」<br>「Fletcher改 Mod.2/Mk.II」の2隻以上、さらに特I型1隻を含む精鋭艦隊で西方海域の敵を一掃せよ！",
+    "desc": "Organize a fleet with two of Fubuki, Akebono, Oboro, Shoukaku, Yamato, Mogador, Gotland, Kinugasa Kai Ni, Fletcher Kai Mod.2/Mk.II and one other Fubuki-class in your fleet and score an S rank at the boss nodes on 4-1, 4-2, 4-3, 4-4 and 4-5"
+  },
   "1012": {
     "code": "By14",
     "name_jp": "鵜来型海防艦、静かな海を防衛せよ！",
@@ -4402,6 +4409,13 @@
     "name": "개량 삼좌 수상정찰기의 증비",
     "desc_jp": "旗艦「利根改二」または「由良改二」第一スロに最大改修「零式水上偵察機」。「九七式艦攻(九三一空)」<br>x2廃棄、ボーキ950、新型航空兵装資材x2、開発資材x35、熟練搭乗員x2を準備！",
     "desc": "기함 「토네 개2」 또는 「유라 개2」 제1슬롯에 최대개수 「영식 수상정찰기」. 「97식함공 (931공)」×2 폐기, 보크사이트 950, 신형항공병장자재×2, 개발자재×35, 숙련탑승원×2를 준비!"
+  },
+  "1126": {
+    "code": "2504 F1",
+    "name_jp": "【艦隊12周年記念任務:拡張任務】特別工廠",
+    "name": "[12th Anniversary Extra] Special Arsenal",
+    "desc_jp": "「中口径主砲」x12、「水上偵察機」x12、「電探」x6を各廃棄。そして、「20.3cm(2号)連装砲」x4、<br>ボーキサイト880、鋼材2,500を準備せよ！(任務達成後、準備装備及び資材等は消費します)",
+    "desc": "Proceed to scrap 12x Medium Caliber Main Guns, 12x Seaplane Recons and 6x Radars and have 4x 20.3cm (No.2) Twin Gun Mount, 2500 steel and 880 bauxite (All resources and Materials will be consumed upon completion)"
   },
   "1127": {
     "code": "F115",
