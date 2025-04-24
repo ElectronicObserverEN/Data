@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030547",
+  "version": "21030548",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -2127,6 +2127,13 @@
     "name": "[12th Anniversary] Maritime Escort Expedition",
     "desc_jp": "12周年海上護衛：「海上護衛任務」「兵站強化任務」「長時間対潜警戒」「対潜警戒任務」<br>さらに「資源輸送任務」を実施、これら各遠征を無事完遂せよ！",
     "desc": "Complete expeditions 05, A1, A3, 04 and 12"
+  },
+  "449": {
+    "code": "2504 Dw1",
+    "name_jp": "【艦隊12周年記念任務】資源輸出入強化",
+    "name": "[12th Anniversary] Strengthening Resource Import and Export",
+    "desc_jp": "資源輸出任務：輸出用の鋼材2,800及び弾薬3,000を用意。そ<br>の上で「远征5」及び「远征9」「远征11」を各2回以上成功させよ！",
+    "desc": "Complete expeditions 05, 09 and 11 twice each and prepare 2800 steel and 3000 ammo (All resources will be consumed upon completion)"
   },
   "501": {
     "code": "E1",
@@ -4472,6 +4479,13 @@
     "name": "Improvement of the Type 22 Surface Radar!",
     "desc_jp": "旗艦「時雨改二/改三」または「満潮改二」第一装備スロに「22号対水上電探改四(★max)」を<br>装備。開発資材x22、新型兵装資材x2、「22号対水上電探」x4、改修資材x6を準備せよ！",
     "desc": "Have your secretary flagship Michishio Kai Ni or Shigure Kai Ni or Kai San equip a Type 22 Surface Radar Kai 4 ★max in the first slot and have 22x DevMat, 2x New Model Armament Materials, 4x Type 22 Surface Radar, 6x Screw (All resources and Materials will be consumed upon completion)"
+  },
+  "1136": {
+    "code": "2504 F2",
+    "name_jp": "【艦隊12周年記念任務:拡張任務】特別空技廠",
+    "name": "[12th Anniversary Extra] Special Air Technical Arsenal",
+    "desc_jp": "旗艦「飛龍改二」「鳳翔改二/戦」、同第一スロ「紫電改二」★+8以上のみを配備。開発資材x48、新<br>型航空兵装資材x3、熟練搭乗員x1を準備、「紫電一一型」x8「二式複戦 屠龍 丙型」x1を廃棄！",
+    "desc": "Have your secretary flagship Hiryuu Kai Ni or Houshou Kai Ni/Sen equip a ★+8 Shiden Kai Ni in the first slot and then proceed to scrap 8x Shiden Model 11 and 1x Type 2 Fighter Toryuu Model C and have 8x Development Material, 3x Aviation Material and 1x Skilled Crew Member (All resources and Materials will be consumed upon completion)"
   },
   "1137": {
     "code": "F123",

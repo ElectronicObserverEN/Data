@@ -10125,5 +10125,31 @@
     "removed_update_id": null,
     "season_id": 30,
     "tracker": "[[1009],[[0,[[4,1],6,1]],[0,[[4,2],6,1]],[0,[[4,3],6,1]],[0,[[4,4],6,1]],[0,[[4,5],6,1]]],[0,[[8,[[[9,false,0,0],[15,false,0,0],[93,false,0,0],[110,false,0,0],[131,false,0,0],[962,false,0,0],[574,false,0,0],[142,false,1,0],[628,false,1,0]],2]],[8,[[[10,false,0,0],[32,false,0,0],[11,false,0,0],[33,false,0,0],[631,false,0,0],[964,false,0,0],[12,false,0,0],[486,false,0,0]],1]]]]]"
+  },
+  {
+    "id": 791,
+    "api_id": 449,
+    "code": "2504 Dw1",
+    "name_jp": "【艦隊12周年記念任務】資源輸出入強化",
+    "name_en": "[12th Anniversary] Strengthening Resource Import and Export",
+    "desc_jp": "資源輸出任務：輸出用の鋼材2,800及び弾薬3,000を用意。そ<br>の上で「远征5」及び「远征9」「远征11」を各2回以上成功させよ！",
+    "desc_en": "Complete expeditions 05, 09 and 11 twice each and prepare 2800 steel and 3000 ammo (All resources will be consumed upon completion)",
+    "added_update_id": 69,
+    "removed_update_id": null,
+    "season_id": 30,
+    "tracker": "[[449],[[1,[[5],2]],[1,[[9],2]],[1,[[11],2]]],[0,[]]]"
+  },
+  {
+    "id": 792,
+    "api_id": 1136,
+    "code": "2504 F2",
+    "name_jp": "【艦隊12周年記念任務:拡張任務】特別空技廠",
+    "name_en": "[12th Anniversary Extra] Special Air Technical Arsenal",
+    "desc_jp": "旗艦「飛龍改二」「鳳翔改二/戦」、同第一スロ「紫電改二」★+8以上のみを配備。開発資材x48、新<br>型航空兵装資材x3、熟練搭乗員x1を準備、「紫電一一型」x8「二式複戦 屠龍 丙型」x1を廃棄！",
+    "desc_en": "Have your secretary flagship Hiryuu Kai Ni or Houshou Kai Ni/Sen equip a ★+8 Shiden Kai Ni in the first slot and then proceed to scrap 8x Shiden Model 11 and 1x Type 2 Fighter Toryuu Model C and have 8x Development Material, 3x Aviation Material and 1x Skilled Crew Member (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 69,
+    "removed_update_id": null,
+    "season_id": 30,
+    "tracker": ""
   }
 ]
