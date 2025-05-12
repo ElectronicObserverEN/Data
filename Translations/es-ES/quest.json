@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030549",
+  "version": "21030550",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1791,6 +1791,13 @@
     "name": "[French Fleet] Do Exercises!",
     "desc_jp": "【フランス艦隊演習】フランス生まれの艦艇を旗艦に配備。同旗艦を含むフランス艦艇3隻以上を<br>配備した演習艦隊を編成。同艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！Merci♪",
     "desc": "Organize a fleet with three French ships with one as flagship in your fleet and score A+ rank four times in PvP"
+  },
+  "374": {
+    "code": "2505 C1",
+    "name_jp": "【期間限定任務】「三十二駆」特別演習！",
+    "name": "[Limited Time Quest] \"DesDiv32\" Special Exercises!",
+    "desc_jp": "【期間限定演習】第三十二駆逐隊、夕雲型駆逐艦「玉波」「涼波」「藤波」「早波」「浜波」のうち<br>3隻以上を含む演習艦隊で、本日中に演習【S判定】勝利3回以上を達成せよ！演習、始めっ！",
+    "desc": "Organize a fleet with 3 of Tamanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet and score S rank 3 times in PvP"
   },
   "375": {
     "code": "Cy15",
@@ -4283,6 +4290,20 @@
     "name": "",
     "desc_jp": "【限定任務】「足柄」「那智」「多摩」「木曾」及び先の「第一水雷戦隊」計5隻以上を含む第五艦隊で、<br>南西諸島近海、バシー海峡、北方海域モーレイ海、北方海域キス島沖に展開！敵戦力を捕捉撃滅せよ！",
     "desc": ""
+  },
+  "1029": {
+    "code": "B209",
+    "name_jp": "三十二駆「浜波改二」抜錨！敵中を突破せよ！",
+    "name": "DesDiv32 \"Hamanami Kai Ni\" Set Sail! Break Through the Enemy Line!",
+    "desc_jp": "「浜波改二」旗艦、僚艦に第三十二駆逐隊及び「朝霜」のうち2隻を含む部隊で、鎮守府近海航路、<br>バシー海峡、東部オリョール海、沖ノ島海域に出撃！敵艦隊を撃破、敵中を駆け抜け、生還せよ！",
+    "desc": "Organize a fleet with Hamanami Kai Ni as flagship and any 2 of Tamanami, Suzunami, Fujinami, Hayanami and Asashimo in your fleet and score an S rank at the boss nodes on 2-2, 2-3 and reach the anchor node N on 1-6."
+  },
+  "1030": {
+    "code": "2505 Bw1",
+    "name_jp": "【期間限定任務】Fletcher級、哨戒任務！",
+    "name": "[Limited Time Quest] Fletcher-class, Patrol Mission",
+    "desc_jp": "【期間限定任務】Fletcher級駆逐艦2隻以上及びNorthampton級かNew Orleans級1隻以上を含む<br>艦隊で、製油所地帯沿岸、南西諸島防衛線、沖ノ島海域を反復哨戒！各海域の制海権を確保せよ！",
+    "desc": "Organize a fleet with 2 Fletcher-class and any ship from the Northampton-class or the New Orleans-class in your fleet and score an S rank at the boss nodes on 1-3, 1-4 and 2-4 twice each"
   },
   "1101": {
     "code": "F96",
