@@ -14578,5 +14578,14 @@
     "ShipClassId": 1548,
     "ShipClassApiId": 91,
     "IsFriendly": true
+  },
+  {
+    "Id": 1816,
+    "NameEN": "Hamanami Kai Ni",
+    "NameJP": "浜波改二",
+    "ApiId": 983,
+    "ShipClassId": 1498,
+    "ShipClassApiId": 38,
+    "IsFriendly": true
   }
 ]
