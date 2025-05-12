@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030551",
+  "version": "21030552",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4570,5 +4570,12 @@
     "name": "[Improvement of Anti-Aircraft Armament] Increased Deployment of Type 94 Anti-Aircraft Fire Director",
     "desc_jp": "旗艦「白雪改二」または「吹雪改二」第一及び第二装備スロットに「91式高射装置」を装備。<br>開発資材x16及び改修資材x4を準備。「91式高射装置」x3、「13号対空電探」x3を廃棄せよ！",
     "desc": "Have your secretary flagship Fubuki Kai Ni or Shirayuki Kai Ni equip two Type 91 AAFD in the first and second slot and then proceed to scrap 3x Type 91 AAFD, 3x Type 13 Air RADAR and have 16x Development Materials and 4x Improvement Materials (All resources and Materials will be consumed upon completion)"
+  },
+  "1149": {
+    "code": "2505 Fw1",
+    "name_jp": "【期間限定任務】作戦後の不要装備等用途廃止",
+    "name": "[Limited Time Quest] Elimination of Unnecessary Equipment After the Event",
+    "desc_jp": "【期間限定任務】「高速建造材」x48を準備した上で、「中口径主砲」x8及び「魚雷」x8、<br>「大口径主砲」x4を廃棄せよ。不要装備を用途廃止し、消費資源及び資材の確保を図れ！",
+    "desc": "Proceed to scrap 4x Large Caliber Main Guns, 8x Medium Caliber Main Guns and 8x Torpedoes and have 48x Instant Construction Material (All resources and Materials will be consumed upon completion)"
   }
 }
