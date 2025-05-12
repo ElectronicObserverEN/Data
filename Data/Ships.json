@@ -14560,5 +14560,23 @@
     "ShipClassId": null,
     "ShipClassApiId": null,
     "IsFriendly": false
+  },
+  {
+    "Id": 1814,
+    "NameEN": "Richard P.Leary Kai",
+    "NameJP": "Richard P.Leary Kai",
+    "ApiId": 737,
+    "ShipClassId": 1548,
+    "ShipClassApiId": 91,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1815,
+    "NameEN": "Richard P.Leary",
+    "NameJP": "Richard P.Leary",
+    "ApiId": 942,
+    "ShipClassId": 1548,
+    "ShipClassApiId": 91,
+    "IsFriendly": true
   }
 ]
