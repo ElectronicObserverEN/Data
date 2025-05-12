@@ -652,11 +652,11 @@
     "id": 70,
     "start_date": "2025-05-12T00:00:00",
     "start_time": "11:00:00",
-    "end_time": "20:00:00",
+    "end_time": "20:30:00",
     "name": "Spring 2025 event end",
     "description": "",
     "live_update": false,
     "maint_start_tweet": "https://fxtwitter.com/KanColle_STAFF/status/1916073009724723621",
-    "maint_end_tweet": "https://twitter.com/KanColle_STAFF/status/1921750068798861382"
+    "maint_end_tweet": "https://fxtwitter.com/KanColle_STAFF/status/1921871839086944649"
   }
 ]
