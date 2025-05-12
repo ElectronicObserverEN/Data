@@ -14209,5 +14209,356 @@
     "ShipClassId": null,
     "ShipClassApiId": null,
     "IsFriendly": false
+  },
+  {
+    "Id": 1775,
+    "NameEN": "Richard P.Leary Kai",
+    "NameJP": "Richard P.Leary改",
+    "ApiId": 737,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1776,
+    "NameEN": "Richard P.Leary",
+    "NameJP": "Richard P.Leary",
+    "ApiId": 942,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1777,
+    "NameEN": "Hamanami Kai Ni",
+    "NameJP": "浜波改二",
+    "ApiId": 983,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1778,
+    "NameEN": "Hatsuyuki Kai Ni",
+    "NameJP": "初雪改二",
+    "ApiId": 987,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1779,
+    "NameEN": "Sugi",
+    "NameJP": "杉",
+    "ApiId": 992,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1780,
+    "NameEN": "Sugi Kai",
+    "NameJP": "杉改",
+    "ApiId": 997,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1781,
+    "NameEN": "Shimane Maru",
+    "NameJP": "しまね丸",
+    "ApiId": 1003,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1782,
+    "NameEN": "Minneapolis",
+    "NameJP": "Minneapolis",
+    "ApiId": 1005,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1783,
+    "NameEN": "Shimane Maru Kai",
+    "NameJP": "しまね丸改",
+    "ApiId": 1008,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1784,
+    "NameEN": "Minneapolis Kai",
+    "NameJP": "Minneapolis改",
+    "ApiId": 1010,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1785,
+    "NameEN": "DD Ra-Classγ (Initial Model)",
+    "NameJP": "駆逐ラ級γ(初期型)",
+    "ApiId": 2288,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1786,
+    "NameEN": "DD Ra-Classγ",
+    "NameJP": "駆逐ラ級γ",
+    "ApiId": 2289,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1787,
+    "NameEN": "DD Ra-Classγ",
+    "NameJP": "駆逐ラ級γ",
+    "ApiId": 2290,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1788,
+    "NameEN": "DD Ra-Classδ (Initial Model)",
+    "NameJP": "駆逐ラ級δ(初期型)",
+    "ApiId": 2291,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1789,
+    "NameEN": "DD Ra-Classδ",
+    "NameJP": "駆逐ラ級δ",
+    "ApiId": 2292,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1790,
+    "NameEN": "DD Ra-Classδ",
+    "NameJP": "駆逐ラ級δ",
+    "ApiId": 2293,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1791,
+    "NameEN": "DD Ra-Classζ",
+    "NameJP": "駆逐ラ級ζ",
+    "ApiId": 2294,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1792,
+    "NameEN": "DD Ra-Classζ",
+    "NameJP": "駆逐ラ級ζ",
+    "ApiId": 2295,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1793,
+    "NameEN": "DD Ra-Classζ",
+    "NameJP": "駆逐ラ級ζ",
+    "ApiId": 2296,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1794,
+    "NameEN": "DD Ra-Classζ - Damaged",
+    "NameJP": "駆逐ラ級ζ-壊",
+    "ApiId": 2297,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1795,
+    "NameEN": "DD Ra-Classζ - Damaged",
+    "NameJP": "駆逐ラ級ζ-壊",
+    "ApiId": 2298,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1796,
+    "NameEN": "DD Ra-Classζ - Damaged",
+    "NameJP": "駆逐ラ級ζ-壊",
+    "ApiId": 2299,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1797,
+    "NameEN": "New Light Cruiser Princess",
+    "NameJP": "軽巡新棲姫",
+    "ApiId": 2300,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1798,
+    "NameEN": "Supply Depot Princess Kai",
+    "NameJP": "集積地棲姫改",
+    "ApiId": 2301,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1799,
+    "NameEN": "Supply Depot Princess Kai",
+    "NameJP": "集積地棲姫改",
+    "ApiId": 2302,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1800,
+    "NameEN": "Supply Depot Princess Kai",
+    "NameJP": "集積地棲姫改",
+    "ApiId": 2303,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1801,
+    "NameEN": "Supply Depot Princess Kai - Damaged",
+    "NameJP": "集積地棲姫改-壊",
+    "ApiId": 2304,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1802,
+    "NameEN": "Supply Depot Princess Kai - Damaged",
+    "NameJP": "集積地棲姫改-壊",
+    "ApiId": 2305,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1803,
+    "NameEN": "Supply Depot Princess Kai - Damaged",
+    "NameJP": "集積地棲姫改-壊",
+    "ApiId": 2306,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1804,
+    "NameEN": "Occupied Airfield Princess",
+    "NameJP": "飛行場棲姫",
+    "ApiId": 2307,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1805,
+    "NameEN": "Occupied Airfield Princess",
+    "NameJP": "飛行場棲姫",
+    "ApiId": 2308,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1806,
+    "NameEN": "Occupied Airfield Princess",
+    "NameJP": "飛行場棲姫",
+    "ApiId": 2309,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1807,
+    "NameEN": "CVL Nu-Class",
+    "NameJP": "軽母ヌ級",
+    "ApiId": 2310,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1808,
+    "NameEN": "New Heavy Cruiser Princess",
+    "NameJP": "重巡新棲姫",
+    "ApiId": 2311,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1809,
+    "NameEN": "New Heavy Cruiser Princess",
+    "NameJP": "重巡新棲姫",
+    "ApiId": 2312,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1810,
+    "NameEN": "New Heavy Cruiser Princess",
+    "NameJP": "重巡新棲姫",
+    "ApiId": 2313,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1811,
+    "NameEN": "New Heavy Cruiser Princess - Damaged",
+    "NameJP": "重巡新棲姫-壊",
+    "ApiId": 2314,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1812,
+    "NameEN": "New Heavy Cruiser Princess - Damaged",
+    "NameJP": "重巡新棲姫-壊",
+    "ApiId": 2315,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1813,
+    "NameEN": "New Heavy Cruiser Princess - Damaged",
+    "NameJP": "重巡新棲姫-壊",
+    "ApiId": 2316,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
   }
 ]

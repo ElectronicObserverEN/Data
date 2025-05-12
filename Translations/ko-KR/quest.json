@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030569",
+  "version": "21030570",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4296,7 +4296,7 @@
     "name_jp": "三十二駆「浜波改二」抜錨！敵中を突破せよ！",
     "name": "DesDiv32 \"Hamanami Kai Ni\" Set Sail! Break Through the Enemy Line!",
     "desc_jp": "「浜波改二」旗艦、僚艦に第三十二駆逐隊及び「朝霜」のうち2隻を含む部隊で、鎮守府近海航路、<br>バシー海峡、東部オリョール海、沖ノ島海域に出撃！敵艦隊を撃破、敵中を駆け抜け、生還せよ！",
-    "desc": "Organize a fleet with Hamanami Kai Ni as flagship and any 2 of Tamanami, Suzunami, Fujinami, Hayanami and Asashimo in your fleet and score an S rank at the boss nodes on 2-2, 2-3 and reach the anchor node N on 1-6."
+    "desc": "Organize a fleet with Hamanami Kai Ni as flagship and any 2 of Tamanami, Suzunami, Fujinami, Hayanami and Asashimo in your fleet and score an S rank at the boss nodes on 2-2, 2-3, 2-4 and reach the anchor node N on 1-6."
   },
   "1030": {
     "code": "2505 Bw1",
