@@ -522,6 +522,7 @@
       134,
       234,
       235,
+      341,
       386,
       536
     ]
@@ -22893,6 +22894,70 @@
             "screws": 0,
             "screws_sli": 0,
             "equips": [],
+            "consumable": []
+          }
+        }
+      }
+    ],
+    "convert_to": [],
+    "upgrade_for": [
+      341
+    ]
+  },
+  {
+    "eq_id": 341,
+    "improvement": [
+      {
+        "convert": null,
+        "helpers": [
+          {
+            "ship_ids": [
+              693
+            ],
+            "days": [
+              1,
+              2
+            ]
+          },
+          {
+            "ship_ids": [
+              691
+            ],
+            "days": [
+              1,
+              2
+            ]
+          }
+        ],
+        "costs": {
+          "fuel": 20,
+          "ammo": 110,
+          "steel": 150,
+          "baux": 40,
+          "p1": {
+            "devmats": 5,
+            "devmats_sli": 6,
+            "screws": 3,
+            "screws_sli": 4,
+            "equips": [
+              {
+                "id": 5,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
+          },
+          "p2": {
+            "devmats": 6,
+            "devmats_sli": 8,
+            "screws": 4,
+            "screws_sli": 5,
+            "equips": [
+              {
+                "id": 340,
+                "eq_count": 1
+              }
+            ],
             "consumable": []
           }
         }
