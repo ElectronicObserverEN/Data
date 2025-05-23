@@ -658,5 +658,16 @@
     "live_update": false,
     "maint_start_tweet": "https://fxtwitter.com/KanColle_STAFF/status/1916073009724723621",
     "maint_end_tweet": "https://fxtwitter.com/KanColle_STAFF/status/1921871839086944649"
+  },
+  {
+    "id": 71,
+    "start_date": "2025-05-30T00:00:00",
+    "start_time": "11:00:00",
+    "end_time": "20:00:00",
+    "name": "Rainy season 2025",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://fxtwitter.com/KanColle_STAFF/status/1925920737430249871 ",
+    "maint_end_tweet": ""
   }
 ]
