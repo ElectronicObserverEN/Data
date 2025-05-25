@@ -10005,7 +10005,7 @@
     "desc_jp": "【限定任務】「阿武隈」「霞」「不知火」「薄雲」「曙」「潮」「初霜」「初春」「若葉」の4隻以上を含む<br>艦隊で鎮守府海域南西諸島沖、製油所地帯沿岸、南西諸島防衛線に反復出撃、鎧袖一触、敵を粉砕せよ！",
     "desc_en": "Organize a fleet with four of Abukuma, Kasumi, Shiranui, Usugumo, Akebono, Ushio, Hatsushimo, Hatsuharu and Wakaba in your fleet and score an S rank at the boss nodes on 1-2, 1-3 and 1-4 twice each",
     "added_update_id": 65,
-    "removed_update_id": null,
+    "removed_update_id": 71,
     "season_id": 28,
     "tracker": "[[1026],[[0,[[1,2],6,2]],[0,[[1,3],6,2]],[0,[[1,4],6,2]]],[0,[[8,[[[114,false,0,0],[49,false,0,0],[18,false,0,0],[631,false,0,0],[15,false,0,0],[16,false,0,0],[38,false,0,0],[41,false,0,0],[40,false,0,0]],4]]]]]"
   },
@@ -10018,7 +10018,7 @@
     "desc_jp": "【限定任務】「足柄」「那智」「多摩」「木曾」及び先の「第一水雷戦隊」計5隻以上を含む第五艦隊で、<br>南西諸島近海、バシー海峡、北方海域モーレイ海、北方海域キス島沖に展開！敵戦力を捕捉撃滅せよ！",
     "desc_en": "Organize a fleet with five of Ashigara, Nachi, Tama, Kiso, Abukuma, Kasumi, Shiranui, Usugumo, Akebono, Ushio, Hatsushimo, Hatsuharu and Wakaba in your fleet and score an S rank at the boss nodes on 2-1, 2-2, 3-1 and 3-2",
     "added_update_id": 65,
-    "removed_update_id": null,
+    "removed_update_id": 71,
     "season_id": 28,
     "tracker": "[[1027],[[0,[[2,1],6,1]],[0,[[2,2],6,1]],[0,[[3,1],6,1]],[0,[[3,2],6,1]]],[0,[[8,[[[63,false,0,0],[64,false,0,0],[100,false,0,0],[101,false,0,0],[114,false,0,0],[49,false,0,0],[18,false,0,0],[631,false,0,0],[15,false,0,0],[16,false,0,0],[38,false,0,0],[40,false,0,0],[41,false,0,0]],5]]]]]"
   },
@@ -10044,7 +10044,7 @@
     "desc_jp": "旗艦及び同随伴艦に重巡または水上機母艦を各1隻、他軽巡1隻、駆逐1隻以上を含む12周年記念艦隊で、<br>鎮守府正面海域、南西諸島沖、製油所地帯沿岸、南西諸島防衛線、鎮守府近海に哨戒！警戒を厳とせよ！",
     "desc_en": "Organize a fleet with two CA/AV with one being the flagship, a CL and a DD in your fleet and score an A rank at the boss nodes on 1-1, 1-2, 1-3, 1-4 and 1-5",
     "added_update_id": 69,
-    "removed_update_id": null,
+    "removed_update_id": 71,
     "season_id": 30,
     "tracker": "[[971],[[0,[[1,1],5,1]],[0,[[1,2],5,1]],[0,[[1,3],5,1]],[0,[[1,4],5,1]],[0,[[1,5],5,1]]],[0,[[2,[[5,16],2,false,0]],[2,[[5,16],1,true,0]],[2,[[2],1,false,0]],[2,[[3],1,false,0]]]]]"
   },
@@ -10057,7 +10057,7 @@
     "desc_jp": "12周年演習：旗艦及び二番艦を「平安丸」「Mogador」「Gotland」「大泊」「朧」「曙」または<br>「衣笠改二」で編成した12周年記念艦隊で、本日中に演習で【A判定】勝利以上を5回以上達成せよ！",
     "desc_en": "Organize a fleet with 2 of Heian Maru, Mogador, Gotland, Ootomari, Oboro, Akebono, Kinugasa Kai Ni as flagship and second ship and score A rank 5 times in PvP",
     "added_update_id": 69,
-    "removed_update_id": null,
+    "removed_update_id": 71,
     "season_id": 30,
     "tracker": "[[363],[[9,[5,5]]],[0,[[0,[1,[[5,[944,1,0]],[5,[962,1,0]],[5,[574,1,0]],[5,[995,1,0]],[5,[93,1,0]],[5,[15,1,0]],[5,[142,1,0]]]]],[0,[1,[[5,[944,2,0]],[5,[962,2,0]],[5,[574,2,0]],[5,[995,2,0]],[5,[93,2,0]],[5,[15,2,0]],[5,[142,2,1]]]]]]]]"
   },
@@ -10070,7 +10070,7 @@
     "desc_jp": "12周年海上護衛：「海上護衛任務」「兵站強化任務」「長時間対潜警戒」「対潜警戒任務」<br>さらに「資源輸送任務」を実施、これら各遠征を無事完遂せよ！",
     "desc_en": "Complete expeditions 05, A1, A3, 04 and 12",
     "added_update_id": 69,
-    "removed_update_id": null,
+    "removed_update_id": 71,
     "season_id": 30,
     "tracker": "[[448],[[1,[[4],1]],[1,[[5],1]],[1,[[100],1]],[1,[[102],1]],[1,[[12],1]]],[0,[]]]"
   },
@@ -10083,7 +10083,7 @@
     "desc_jp": "第二航空戦隊「飛龍」「蒼龍」を旗艦及び同二番艦とする精鋭艦隊で、バシー海峡、東部オリョール海、<br>沖ノ島海域、珊瑚諸島沖、サーモン海域に展開！各海域の敵主力艦隊を捕捉、これを撃滅せよ！",
     "desc_en": "Organize a fleet with Hiryuu and Souryuu as flagship and second ship and score an S rank at the boss nodes on 2-2, 2-3, 2-4, 5-2 and 5-4.",
     "added_update_id": 69,
-    "removed_update_id": null,
+    "removed_update_id": 71,
     "season_id": 30,
     "tracker": "[[972],[[0,[[2,2],6,1]],[0,[[2,3],6,1]],[0,[[2,4],6,1]],[0,[[5,2],6,1]],[0,[[5,4],6,1]]],[0,[[0,[1,[[5,[91,1,0]],[5,[91,2,0]]]]],[0,[1,[[5,[90,1,0]],[5,[90,2,0]]]]]]]]"
   },
@@ -10096,7 +10096,7 @@
     "desc_jp": "海上重要兵站補給線の維持確保を実施する！鎮守府海域製油所地帯沿岸、鎮守府近海、<br>鎮守府近海航路、昭南本土航路、タウイタウイ泊地沖深部に展開！海上輸送路の安全を確保せよ！",
     "desc_en": "Score an S rank at the boss nodes on 1-3, 1-5, 7-2 (Part 2), 7-4 and reach the anchor node N on 1-6.",
     "added_update_id": 69,
-    "removed_update_id": null,
+    "removed_update_id": 71,
     "season_id": 30,
     "tracker": "[[979],[[0,[[1,3],6,1]],[0,[[1,5],6,1]],[2,[[7,2],6,1,[15],\"-2\"]],[0,[[7,4],6,1]],[7,[[1,6],1,[14,17],\"N\"]]],[0,[]]]"
   },
@@ -10109,7 +10109,7 @@
     "desc_jp": "「中口径主砲」x12、「水上偵察機」x12、「電探」x6を各廃棄。そして、「20.3cm(2号)連装砲」x4、<br>ボーキサイト880、鋼材2,500を準備せよ！(任務達成後、準備装備及び資材等は消費します)",
     "desc_en": "Proceed to scrap 12x Medium Caliber Main Guns, 12x Seaplane Recons and 6x Radars and have 4x 20.3cm (No.2) Twin Gun Mount, 2500 steel and 880 bauxite (All resources and Materials will be consumed upon completion)",
     "added_update_id": 69,
-    "removed_update_id": null,
+    "removed_update_id": 71,
     "season_id": 30,
     "tracker": "[[1126],[[4,[2,12]],[4,[10,12]],[5,[8,6]]],[0,[]]]"
   },
@@ -10122,7 +10122,7 @@
     "desc_jp": "【記念拡張作戦】「吹雪」「曙」「朧」「翔鶴」「大和」「Mogador」「Gotland」「衣笠改二」<br>「Fletcher改 Mod.2/Mk.II」の2隻以上、さらに特I型1隻を含む精鋭艦隊で西方海域の敵を一掃せよ！",
     "desc_en": "Organize a fleet with two of Fubuki, Akebono, Oboro, Shoukaku, Yamato, Mogador, Gotland, Kinugasa Kai Ni, Fletcher Kai Mod.2/Mk.II and one other Fubuki-class in your fleet and score an S rank at the boss nodes on 4-1, 4-2, 4-3, 4-4 and 4-5",
     "added_update_id": 69,
-    "removed_update_id": null,
+    "removed_update_id": 71,
     "season_id": 30,
     "tracker": "[[1009],[[0,[[4,1],6,1]],[0,[[4,2],6,1]],[0,[[4,3],6,1]],[0,[[4,4],6,1]],[0,[[4,5],6,1]]],[0,[[8,[[[9,false,0,0],[15,false,0,0],[93,false,0,0],[110,false,0,0],[131,false,0,0],[962,false,0,0],[574,false,0,0],[142,false,1,0],[628,false,1,0]],2]],[8,[[[10,false,0,0],[32,false,0,0],[11,false,0,0],[33,false,0,0],[631,false,0,0],[964,false,0,0],[12,false,0,0],[486,false,0,0]],1]]]]]"
   },
@@ -10135,7 +10135,7 @@
     "desc_jp": "資源輸出任務：輸出用の鋼材2,800及び弾薬3,000を用意。そ<br>の上で「远征5」及び「远征9」「远征11」を各2回以上成功させよ！",
     "desc_en": "Complete expeditions 05, 09 and 11 twice each and prepare 2800 steel and 3000 ammo (All resources will be consumed upon completion)",
     "added_update_id": 69,
-    "removed_update_id": null,
+    "removed_update_id": 71,
     "season_id": 30,
     "tracker": "[[449],[[1,[[5],2]],[1,[[9],2]],[1,[[11],2]]],[0,[]]]"
   },
@@ -10148,7 +10148,7 @@
     "desc_jp": "旗艦「飛龍改二」「鳳翔改二/戦」、同第一スロ「紫電改二」★+8以上のみを配備。開発資材x48、新<br>型航空兵装資材x3、熟練搭乗員x1を準備、「紫電一一型」x8「二式複戦 屠龍 丙型」x1を廃棄！",
     "desc_en": "Have your secretary flagship Hiryuu Kai Ni or Houshou Kai Ni/Sen equip a ★+8 Shiden Kai Ni in the first slot and then proceed to scrap 8x Shiden Model 11 and 1x Type 2 Fighter Toryuu Model C and have 8x Development Material, 3x Aviation Material and 1x Skilled Crew Member (All resources and Materials will be consumed upon completion)",
     "added_update_id": 69,
-    "removed_update_id": null,
+    "removed_update_id": 71,
     "season_id": 30,
     "tracker": "[[1136],[[3,[201,8]],[3,[446,1]]],[0,[]]]"
   },
@@ -10187,7 +10187,7 @@
     "desc_jp": "【期間限定任務】Fletcher級駆逐艦2隻以上及びNorthampton級かNew Orleans級1隻以上を含む<br>艦隊で、製油所地帯沿岸、南西諸島防衛線、沖ノ島海域を反復哨戒！各海域の制海権を確保せよ！",
     "desc_en": "Organize a fleet with 2 Fletcher-class and any ship from the Northampton-class or the New Orleans-class in your fleet and score an S rank at the boss nodes on 1-3, 1-4 and 2-4 twice each",
     "added_update_id": 70,
-    "removed_update_id": null,
+    "removed_update_id": 71,
     "season_id": null,
     "tracker": "[[1030],[[0,[[1,3],6,2]],[0,[[1,4],6,2]],[0,[[2,4],6,2]]],[0,[[8,[[[0,false,0,91]],2]],[8,[[[0,false,0,95],[0,false,0,121]],1]]]]]"
   },
@@ -10200,7 +10200,7 @@
     "desc_jp": "【期間限定任務】「高速建造材」x48を準備した上で、「中口径主砲」x8及び「魚雷」x8、<br>「大口径主砲」x4を廃棄せよ。不要装備を用途廃止し、消費資源及び資材の確保を図れ！",
     "desc_en": "Proceed to scrap 4x Large Caliber Main Guns, 8x Medium Caliber Main Guns and 8x Torpedoes and have 48x Instant Construction Material (All resources and Materials will be consumed upon completion)",
     "added_update_id": 70,
-    "removed_update_id": null,
+    "removed_update_id": 71,
     "season_id": null,
     "tracker": "[[1149],[[4,[2,8]],[4,[3,4]],[4,[5,8]]],[0,[]]]"
   }
