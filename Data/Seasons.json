@@ -166,5 +166,17 @@
     "name": "12th anniv",
     "added_update_id": 69,
     "removed_update_id": 71
+  },
+  {
+    "id": 31,
+    "name": "Rainy Season 2025",
+    "added_update_id": 71,
+    "removed_update_id": null
+  },
+  {
+    "id": 32,
+    "name": "Early summer 2025",
+    "added_update_id": 71,
+    "removed_update_id": null
   }
 ]

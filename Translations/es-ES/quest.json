@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030553",
+  "version": "21030554",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1756,6 +1756,13 @@
     "name": "The Most Elite! Improved Shigure Exercises, Commence!",
     "desc_jp": "「時雨改三」練度向上任務：改装白露型駆逐艦「時雨改三」を旗艦として、僚艦駆逐艦3隻以上を含む<br>演習艦隊で、本日中に演習で【S判定】勝利を4回以上達成せよ！最精鋭「時雨改三」、演習開始ッ！",
     "desc": "Organize a fleet with Shigure Kai San as flagship and 3 other DD in your fleet and score S rank 4 times in PvP"
+  },
+  "367": {
+    "code": "2505 Cd1",
+    "name_jp": "【梅雨限定任務】海上護衛隊、雨中演習！",
+    "name": "[Rainy Season Limited Quest] Maritime Escort Force, Exercises in the Rain!",
+    "desc_jp": "【梅雨限定任務】海防艦2隻以上または駆逐艦4隻以上を含む演習海上護衛隊を編成！同演習戦隊で<br>本日中に演習において【A判定】勝利を4回以上達成せよ！海上護衛隊各艦、雨中海上演習始めッ！",
+    "desc": "Organize a fleet with 2DE or 4DD in your fleet and score A rank 4 times in PvP"
   },
   "368": {
     "code": "Cy11",
@@ -3920,6 +3927,13 @@
     "desc_jp": "作戦準備(第二段階任務)：駆逐艦を3隻以上編成した艦隊で、製油所地帯沿岸、南西諸島防衛線、<br>南西諸島近海、南西諸島海域バシー海峡へ出撃、各作戦海域の敵を撃滅、制海権を確保せよ！",
     "desc": "Organize Fleet 3 DD and 3 XX and score S rank on the boss nodes of 1-3, 1-4, 2-1, 2-2."
   },
+  "953": {
+    "code": "2505 Bw2",
+    "name_jp": "【梅雨限定任務】雨の南西諸島防衛戦！",
+    "name": "[Rainy Season Limited Quest] Defend the Nansei Islands in the Rain!",
+    "desc_jp": "【梅雨限定任務】巡洋艦を旗艦、他に水上機母艦、駆逐艦、海防艦各1隻以上を含む艦隊で、<br>南西諸島近海、バシー海峡、東部オリョール海を哨戒！南西諸島海域の防衛に努めよ！",
+    "desc": "Organize a fleet with 1 CA(V)/CL(T)/CT as flagship, 1 DD, 1 DE and 1 AV in your fleet and score an A rank at the boss nodes on 2-1, 2-2 and 2-3"
+  },
   "957": {
     "code": "B172",
     "name_jp": "「山風改二」、抜錨せよ！",
@@ -4234,6 +4248,13 @@
     "name": "DesDiv32 \"Hamanami Kai Ni\" Set Sail! Break Through the Enemy Line!",
     "desc_jp": "「浜波改二」旗艦、僚艦に第三十二駆逐隊及び「朝霜」のうち2隻を含む部隊で、鎮守府近海航路、<br>バシー海峡、東部オリョール海、沖ノ島海域に出撃！敵艦隊を撃破、敵中を駆け抜け、生還せよ！",
     "desc": "Organize a fleet with Hamanami Kai Ni as flagship and any 2 of Tamanami, Suzunami, Fujinami, Hayanami and Asashimo in your fleet and score an S rank at the boss nodes on 2-2, 2-3, 2-4 and reach the anchor node N on 1-6."
+  },
+  "1031": {
+    "code": "2505 B5",
+    "name_jp": "【初夏限定任務】北方海域、積極戦闘哨戒作戦",
+    "name": "[Early Summer Limited Quest] Northern Waters, Active Combat Patrol Operations",
+    "desc_jp": "New Orleans級、「Heywood L.E.」「Gambier Bay」「大淀」「大井」「高波」「藤波」「浜波」「早波」<br>「冬月」の旗艦含む3隻以上の艦隊で、モーレイ海、キス島沖、北方AL海域に反復展開！敵を撃滅せよ！",
+    "desc": "Organize a fleet with 3 of the New Orleans-class, Heywood L. Edwards, Gambier Bay, Ooyodo, Ooi, Takanami, Fujinami, Hamanami, Hayanami and Fuyutsuki in your fleet and score an S rank at the boss nodes on 3-1, 3-2 and 3-5 twice each"
   },
   "1101": {
     "code": "F96",
