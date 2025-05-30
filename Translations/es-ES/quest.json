@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030557",
+  "version": "21030558",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4268,7 +4268,7 @@
     "name_jp": "【初夏限定任務】北方海域、積極戦闘哨戒作戦",
     "name": "[Early Summer Limited Quest] Northern Waters, Active Combat Patrol Operations",
     "desc_jp": "New Orleans級、「Heywood L.E.」「Gambier Bay」「大淀」「大井」「高波」「藤波」「浜波」「早波」<br>「冬月」の旗艦含む3隻以上の艦隊で、モーレイ海、キス島沖、北方AL海域に反復展開！敵を撃滅せよ！",
-    "desc": "Organize a fleet with 3 of the New Orleans-class, Heywood L. Edwards, Gambier Bay, Ooyodo, Ooi, Takanami, Fujinami, Hamanami, Hayanami and Fuyutsuki in your fleet and score an S rank at the boss nodes on 3-1, 3-2 and 3-5 twice each"
+    "desc": "Organize a fleet with 3 of the New Orleans-class, Heywood L. Edwards, Gambier Bay, Ooyodo, Ooi, Takanami, Fujinami, Hamanami, Hayanami and Fuyutsuki with one as flagship and score an S rank at the boss nodes on 3-1, 3-2 and 3-5 twice each"
   },
   "1101": {
     "code": "F96",
