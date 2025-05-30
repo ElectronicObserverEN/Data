@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030290",
+  "version": "21030291",
   "equiptype": {
     "小口径主砲": "Small-caliber Gun",
     "中口径主砲": "Medium-caliber Gun",
@@ -764,6 +764,8 @@
     "深海5inch連装砲 Mk.30+GFCS": "Abyssal 5inch Twin Gun Mount Mk.30 + GFCS",
     "深海18cm三連装砲+深海SG": "Abyssal 18cm Triple Gun Mount + Abyssal SG",
     "零式艦戦62型改(夜間爆戦)": "Type 0 Fighter Model 62 Kai (Night Fighter-bomber)",
-    "零式艦戦62型改(熟練/夜間爆戦)": "Type 0 Fighter Model 62 Kai (Skilled/Night Fighter-bomber)"
+    "零式艦戦62型改(熟練/夜間爆戦)": "Type 0 Fighter Model 62 Kai (Skilled/Night Fighter-bomber)",
+    "Ju87 D-4(Fliegerass)": "Ju87 D-4(Fliegerass)",
+    "Bf109 T-3(G)": "Bf109 T-3(G)"
   }
 }

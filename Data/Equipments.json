@@ -4332,5 +4332,17 @@
     "api_id": 558,
     "name_jp": "零式艦戦62型改(熟練/夜間爆戦)",
     "name_en": "Type 0 Fighter Model 62 Kai (Skilled/Night Fighter-bomber)"
+  },
+  {
+    "id": 2551,
+    "api_id": 559,
+    "name_jp": "Ju87 D-4(Fliegerass)",
+    "name_en": "Ju87 D-4(Fliegerass)"
+  },
+  {
+    "id": 2552,
+    "api_id": 560,
+    "name_jp": "Bf109 T-3(G)",
+    "name_en": "Bf109 T-3(G)"
   }
 ]
