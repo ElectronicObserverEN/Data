@@ -10268,5 +10268,18 @@
     "removed_update_id": null,
     "season_id": 31,
     "tracker": "[[955],[[0,[[4,1],6,1]],[0,[[4,2],6,1]],[0,[[4,3],6,1]],[0,[[4,4],6,1]],[0,[[4,5],6,1]]],[0,[[2,[[11,7,18],1,false,0]],[0,[1,[[2,[[5,6],2,false,0]],[8,[[[0,false,0,54]],2]]]]]]]]"
+  },
+  {
+    "id": 802,
+    "api_id": 1150,
+    "code": "1150",
+    "name_jp": "【初夏限定任務】海軍工廠の再編",
+    "name_en": "[Early Summer Limited Quest] Naval Arsenal Reorganization Operation Begins!",
+    "desc_jp": "【工廠任務】「中口径主砲」x26、「大口径主砲」x20、「副砲」x10を廃棄。家具箱(小)x30及び<br>「九九式艦爆」x12、「九七式艦攻」x12を準備せよ！(任務達成後、準備装備等は消費します)",
+    "desc_en": "Proceed to scrap 26x Medium Caliber Main Guns, 20x Large Caliber Main Guns and 10x Secondary Guns and have 12x Type 99 Dive Bomber, 12x Type 97 Torpedo Bomber and 30x Furniture Box (Small) (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 71,
+    "removed_update_id": null,
+    "season_id": 32,
+    "tracker": "[[1150],[[4,[2,26]],[4,[3,20]],[4,[4,10]]],[0,[]]]"
   }
 ]

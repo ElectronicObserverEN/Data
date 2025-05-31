@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030578",
+  "version": "21030579",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4521,5 +4521,12 @@
     "name": "[Improvement of AA Armaments] Increased Production of Type 94 AAFD",
     "desc_jp": "旗艦「白雪改二」または「吹雪改二」第一及び第二装備スロットに「91式高射装置」を装備。<br>開発資材x16及び改修資材x4を準備。「91式高射装置」x3、「13号対空電探」x3を廃棄せよ！",
     "desc": "Have your secretary flagship Fubuki Kai Ni or Shirayuki Kai Ni equip a Type 91 AAFD in the first and second slot and then proceed to scrap 3x Type 91 AAFD, 3x Type 13 Air RADAR and have 16x Development Materials and 4x Screws (All resources and Materials will be consumed upon completion)"
+  },
+  "1150": {
+    "code": "1150",
+    "name_jp": "【初夏限定任務】海軍工廠の再編",
+    "name": "[Early Summer Limited Quest] Naval Arsenal Reorganization Operation Begins!",
+    "desc_jp": "【工廠任務】「中口径主砲」x26、「大口径主砲」x20、「副砲」x10を廃棄。家具箱(小)x30及び<br>「九九式艦爆」x12、「九七式艦攻」x12を準備せよ！(任務達成後、準備装備等は消費します)",
+    "desc": "Proceed to scrap 26x Medium Caliber Main Guns, 20x Large Caliber Main Guns and 10x Secondary Guns and have 12x Type 99 Dive Bomber, 12x Type 97 Torpedo Bomber and 30x Furniture Box (Small) (All resources and Materials will be consumed upon completion)"
   }
 }
