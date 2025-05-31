@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030560",
+  "version": "21030561",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4269,6 +4269,13 @@
     "name": "[Early Summer Limited Quest] Northern Waters, Active Combat Patrol Operations",
     "desc_jp": "New Orleans級、「Heywood L.E.」「Gambier Bay」「大淀」「大井」「高波」「藤波」「浜波」「早波」<br>「冬月」の旗艦含む3隻以上の艦隊で、モーレイ海、キス島沖、北方AL海域に反復展開！敵を撃滅せよ！",
     "desc": "Organize a fleet with 3 of the New Orleans-class, Heywood L. Edwards, Gambier Bay, Ooyodo, Ooi, Takanami, Fujinami, Hamanami, Hayanami and Fuyutsuki with one as flagship and score an S rank at the boss nodes on 3-1, 3-2 and 3-5 twice each"
+  },
+  "1032": {
+    "code": "2505 B6",
+    "name_jp": "【初夏限定任務】精鋭機動部隊の積極作戦運用",
+    "name": "[Early Summer Limited Quest] Active Operation of Elite Mobile Forces",
+    "desc_jp": "Lv.90以上の航空母艦2隻及び駆逐艦2隻を含む精鋭機動部隊を編成。同艦隊により、南西諸島防衛線、<br>沖ノ島沖、北方AL海域、珊瑚諸島沖に反復出撃！精鋭機動部隊により敵主力を捕捉、これを撃滅せよ！",
+    "desc": "Organize a fleet with 2 Lv90+ CV(B/L) and 2 Lv90+ DD in your fleet and score an S rank at the boss nodes on 1-4, 2-5, 3-5 and 5-2 twice each"
   },
   "1101": {
     "code": "F96",
