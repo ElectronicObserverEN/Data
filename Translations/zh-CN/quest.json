@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030562",
+  "version": "21030563",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3946,7 +3946,7 @@
     "name_jp": "【梅雨限定月間任務】西方海域統合作戦2025",
     "name": "[Monthly Rainy Season Limited Quest] Western Sea Area Joint Operation 2025",
     "desc_jp": "【梅雨限定任務】航空母艦1隻以上、さらに重巡級2隻以上または秋月型2隻以上を含む機動部隊で西方<br>海域方面に進出！西方海域の全五作戦海域に展開し、同方面の敵戦力の撃滅を図れ！ 艦隊、出撃！",
-    "desc": "Organize a fleet with a CV(L/B) as flagship and either 2CA or 2 Akizuki-class in your fleet and score an S rank at the boss nodes on 4-1, 4-2, 4-3, 4-4 and 4-5"
+    "desc": "Organize a fleet with a CV(L/B) and either 2CA(V) or 2 Akizuki-class in your fleet and score an S rank at the boss nodes on 4-1, 4-2, 4-3, 4-4 and 4-5"
   },
   "957": {
     "code": "B172",
