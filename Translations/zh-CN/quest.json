@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030566",
+  "version": "21030567",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1793,11 +1793,11 @@
     "desc": "Organize a fleet with three French ships with one as flagship in your fleet and score A+ rank four times in PvP"
   },
   "374": {
-    "code": "2505 C1",
+    "code": "2409 C1",
     "name_jp": "【期間限定任務】「三十二駆」特別演習！",
-    "name": "[Limited Time Quest] \"DesDiv32\" Special Exercises!",
+    "name": "",
     "desc_jp": "【期間限定演習】第三十二駆逐隊、夕雲型駆逐艦「玉波」「涼波」「藤波」「早波」「浜波」のうち<br>3隻以上を含む演習艦隊で、本日中に演習【S判定】勝利3回以上を達成せよ！演習、始めっ！",
-    "desc": "Organize a fleet with 3 of Tamanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet and score S rank 3 times in PvP"
+    "desc": ""
   },
   "375": {
     "code": "Cy15",
