@@ -15509,7 +15509,8 @@
       }
     ],
     "upgrade_for": [
-      195
+      195,
+      233
     ]
   },
   {
@@ -17291,7 +17292,10 @@
     "eq_id": 233,
     "improvement": [
       {
-        "convert": null,
+        "convert": {
+          "id_after": 473,
+          "lvl_after": 0
+        },
         "helpers": [
           {
             "ship_ids": [
@@ -17335,11 +17339,52 @@
               }
             ],
             "consumable": []
-          }
+          },
+          "conv": {
+            "devmats": 16,
+            "devmats_sli": 24,
+            "screws": 8,
+            "screws_sli": 16,
+            "equips": [
+              {
+                "id": 198,
+                "eq_count": 1
+              }
+            ],
+            "consumable": [
+              {
+                "id": 77,
+                "eq_count": 2
+              },
+              {
+                "id": 100,
+                "eq_count": 1
+              }
+            ]
+          },
+          "extra": [
+            {
+              "levels": [
+                9,
+                10
+              ],
+              "consumable": [
+                {
+                  "id": 100,
+                  "eq_count": 1
+                }
+              ]
+            }
+          ]
         }
       }
     ],
-    "convert_to": [],
+    "convert_to": [
+      {
+        "id_after": 473,
+        "lvl_after": 0
+      }
+    ],
     "upgrade_for": []
   },
   {
