@@ -22182,17 +22182,6 @@
           },
           {
             "ship_ids": [
-              918
-            ],
-            "days": [
-              1,
-              2,
-              3,
-              4
-            ]
-          },
-          {
-            "ship_ids": [
               737
             ],
             "days": [
@@ -22264,6 +22253,54 @@
                 "eq_count": 3
               }
             ]
+          }
+        }
+      },
+      {
+        "convert": null,
+        "helpers": [
+          {
+            "ship_ids": [
+              918
+            ],
+            "days": [
+              1,
+              2,
+              3,
+              4
+            ]
+          }
+        ],
+        "costs": {
+          "fuel": 10,
+          "ammo": 0,
+          "steel": 110,
+          "baux": 220,
+          "p1": {
+            "devmats": 17,
+            "devmats_sli": 23,
+            "screws": 6,
+            "screws_sli": 6,
+            "equips": [
+              {
+                "id": 88,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
+          },
+          "p2": {
+            "devmats": 24,
+            "devmats_sli": 33,
+            "screws": 7,
+            "screws_sli": 8,
+            "equips": [
+              {
+                "id": 315,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
           }
         }
       }
