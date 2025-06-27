@@ -10315,10 +10315,10 @@
     "name_jp": "陸軍戦闘機及び海外戦闘機の増備",
     "name_en": "Increase in Army fighters and foreign fighters",
     "desc_jp": "【工廠任務】「水上偵察機」x14、「中口径主砲」x12、「艦上爆撃機」x10を廃棄。開発資材x36、<br>「零式艦戦21型」x8、「零式艦戦32型」x4を準備せよ！(任務達成後、準備装備等は消費します)",
-    "desc_en": "Proceed to scrap 14x Reconnaissance aircraft, 12x Medium caliber main guns, 10 Carrier bombers and have 36x Development Material, 8x Type 0 Fighter Model 21, 4x Type 0 Fighter Model 32 (All resources and Materials will be consumed upon completion)",
+    "desc_en": "Proceed to scrap 14x Reconnaissance aircraft, 12x Medium caliber main guns, 10 Carrier dive bombers and have 36x Development Material, 8x Type 0 Fighter Model 21, 4x Type 0 Fighter Model 32 (All resources and Materials will be consumed upon completion)",
     "added_update_id": 72,
     "removed_update_id": null,
     "season_id": null,
-    "tracker": ""
+    "tracker": "[[1151],[[4,[2,12]],[4,[7,10]],[4,[10,14]]],[0,[]]]"
   }
 ]
