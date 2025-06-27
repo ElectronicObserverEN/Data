@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030573",
+  "version": "21030574",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4259,7 +4259,7 @@
   "1033": {
     "code": "B209",
     "name_jp": "二等輸送艦の積極運用",
-    "name": "Active use of second-class transports",
+    "name": "Active Operation of Second-class Transport Ships",
     "desc_jp": "二等輸送艦を旗艦に配備、護衛に軽巡級1隻及び駆逐艦2隻以上を含む艦隊で、鎮守府正面海域<br>及び南西諸島沖、製油所地帯沿岸、南西諸島防衛線に出撃！輸送艦を守り、敵艦隊を殲滅せよ！",
     "desc": "Organize a fleet with No.101 Landing Ship as flagship, 1 CL and 2 DD in fleet in your fleet and score an S rank at the boss nodes on 1-1, 1-2, 1-3 and 1-4"
   },
@@ -4539,8 +4539,8 @@
   "1151": {
     "code": "F131",
     "name_jp": "陸軍戦闘機及び海外戦闘機の増備",
-    "name": "Increase in Army fighters and foreign fighters",
+    "name": "Increase in Army Fighters and Foreign Fighters",
     "desc_jp": "【工廠任務】「水上偵察機」x14、「中口径主砲」x12、「艦上爆撃機」x10を廃棄。開発資材x36、<br>「零式艦戦21型」x8、「零式艦戦32型」x4を準備せよ！(任務達成後、準備装備等は消費します)",
-    "desc": "Proceed to scrap 14x Reconnaissance aircraft, 12x Medium caliber main guns, 10 Carrier dive bombers and have 36x Development Material, 8x Type 0 Fighter Model 21, 4x Type 0 Fighter Model 32 (All resources and Materials will be consumed upon completion)"
+    "desc": "Proceed to scrap 14x Seaplane Recons, 12x Medium Caliber Main Guns, 10 Dive Bombers and have 36x Development Material, 8x Type 0 Fighter Model 21, 4x Type 0 Fighter Model 32 (All resources and Materials will be consumed upon completion)"
   }
 }
