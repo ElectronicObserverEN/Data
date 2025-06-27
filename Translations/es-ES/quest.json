@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030564",
+  "version": "21030565",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3926,27 +3926,6 @@
     "name": "'Operation Preparation' Second Stage Mission (Surface/Anti-Air Maintenance)",
     "desc_jp": "作戦準備(第二段階任務)：駆逐艦を3隻以上編成した艦隊で、製油所地帯沿岸、南西諸島防衛線、<br>南西諸島近海、南西諸島海域バシー海峡へ出撃、各作戦海域の敵を撃滅、制海権を確保せよ！",
     "desc": "Organize Fleet 3 DD and 3 XX and score S rank on the boss nodes of 1-3, 1-4, 2-1, 2-2."
-  },
-  "953": {
-    "code": "2505 Bw2",
-    "name_jp": "【梅雨限定任務】雨の南西諸島防衛戦！",
-    "name": "[Rainy Season Limited Quest] Defend the Nansei Islands in the Rain!",
-    "desc_jp": "【梅雨限定任務】巡洋艦を旗艦、他に水上機母艦、駆逐艦、海防艦各1隻以上を含む艦隊で、<br>南西諸島近海、バシー海峡、東部オリョール海を哨戒！南西諸島海域の防衛に努めよ！",
-    "desc": "Organize a fleet with 1 CA(V)/CL(T)/CT as flagship, 1 DD, 1 DE and 1 AV in your fleet and score an A rank at the boss nodes on 2-1, 2-2 and 2-3"
-  },
-  "954": {
-    "code": "2505 Bw3",
-    "name_jp": "【梅雨拡張任務】梅雨の海上護衛強化2025",
-    "name": "[Rainy Season Limited Quest] Maritime Escorts Strengthening in the Rainy Season 2025",
-    "desc_jp": "【梅雨限定任務】駆逐艦を旗艦、海防艦2隻以上を含む海上護衛隊で、南西諸島沖、製油所地帯沿岸、<br>鎮守府近海、南西諸島防衛線に展開！さらに鎮守府近海航路の海上護衛作戦を反復実施せよ！",
-    "desc": "Organize a fleet with 1 DD as flagship and 2 DE in your fleet and score an S rank at the boss nodes on 1-2, 1-3, 1-4 and 1-5 once each, and reach the anchor node N on 1-6 twice."
-  },
-  "955": {
-    "code": "2505 Bm1",
-    "name_jp": "【梅雨限定月間任務】西方海域統合作戦2025",
-    "name": "[Monthly Rainy Season Limited Quest] Western Sea Area Joint Operation 2025",
-    "desc_jp": "【梅雨限定任務】航空母艦1隻以上、さらに重巡級2隻以上または秋月型2隻以上を含む機動部隊で西方<br>海域方面に進出！西方海域の全五作戦海域に展開し、同方面の敵戦力の撃滅を図れ！ 艦隊、出撃！",
-    "desc": "Organize a fleet with a CV(L/B) and either 2CA(V) or 2 Akizuki-class in your fleet and score an S rank at the boss nodes on 4-1, 4-2, 4-3, 4-4 and 4-5"
   },
   "957": {
     "code": "B172",
