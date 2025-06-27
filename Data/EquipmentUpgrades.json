@@ -21940,7 +21940,32 @@
               }
             ],
             "consumable": []
-          }
+          },
+          "extra": [
+            {
+              "levels": [
+                8,
+                9
+              ],
+              "consumable": [
+                {
+                  "id": 94,
+                  "eq_count": 1
+                }
+              ]
+            },
+            {
+              "levels": [
+                10
+              ],
+              "consumable": [
+                {
+                  "id": 91,
+                  "eq_count": 3
+                }
+              ]
+            }
+          ]
         }
       }
     ],
