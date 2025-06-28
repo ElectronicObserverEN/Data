@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030570",
+  "version": "21030571",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4257,7 +4257,7 @@
     "desc": "Organize a fleet with 2 Lv90+ CV(B/L) and 2 Lv90+ DD in your fleet and score an S rank at the boss nodes on 1-4, 2-5, 3-5 and 5-2 twice each"
   },
   "1033": {
-    "code": "B209",
+    "code": "B210",
     "name_jp": "二等輸送艦の積極運用",
     "name": "Active Operation of Second-class Transport Ships",
     "desc_jp": "二等輸送艦を旗艦に配備、護衛に軽巡級1隻及び駆逐艦2隻以上を含む艦隊で、鎮守府正面海域<br>及び南西諸島沖、製油所地帯沿岸、南西諸島防衛線に出撃！輸送艦を守り、敵艦隊を殲滅せよ！",
