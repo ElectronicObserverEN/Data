@@ -18876,7 +18876,8 @@
             ],
             "days": [
               5,
-              6
+              6,
+              0
             ]
           }
         ],
@@ -18910,7 +18911,42 @@
               }
             ],
             "consumable": []
-          }
+          },
+          "extra": [
+            {
+              "levels": [
+                8
+              ],
+              "consumable": [
+                {
+                  "id": 77,
+                  "eq_count": 1
+                }
+              ]
+            },
+            {
+              "levels": [
+                9
+              ],
+              "consumable": [
+                {
+                  "id": 100,
+                  "eq_count": 1
+                }
+              ]
+            },
+            {
+              "levels": [
+                10
+              ],
+              "consumable": [
+                {
+                  "id": 70,
+                  "eq_count": 1
+                }
+              ]
+            }
+          ]
         }
       }
     ],
