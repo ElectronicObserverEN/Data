@@ -680,5 +680,16 @@
     "live_update": false,
     "maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1935688461807464757",
     "maint_end_tweet": ""
+  },
+  {
+    "id": 73,
+    "start_date": "2025-07-26T00:00:00",
+    "start_time": "11:00:00",
+    "end_time": "19:00:00",
+    "name": "July 2025 server maintenance",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1946589584890151291",
+    "maint_end_tweet": ""
   }
 ]
