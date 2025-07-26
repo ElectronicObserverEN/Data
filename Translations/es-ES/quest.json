@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030576",
+  "version": "21030577",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1816,7 +1816,7 @@
   "380": {
     "code": "2507 Cw1",
     "name_jp": "【期間限定任務】揚陸船団護衛演習",
-    "name": "【期間限定任務】揚陸船団護衛演習",
+    "name": "[Time-limited] Landing Convoy Escort Exercise",
     "desc_jp": "【期間限定演習】揚陸船団護衛演習を実施する！揚陸艦1隻以上及び護衛の海防艦2隻以上の艦隊、<br>または海防艦3隻以上を含む艦隊で、本日中に演習【A判定】勝利3回以上を達成せよ！演習、始めっ！",
     "desc": "Organize a fleet with either an LHA and 2 DE or 3 DE in your fleet and score A rank three times in PvP"
   },
@@ -4259,7 +4259,7 @@
   "1036": {
     "code": "B211",
     "name_jp": "輸送船団護衛部隊、出撃せよ！",
-    "name": "輸送船団護衛部隊、出撃せよ！",
+    "name": "Convoy Escort Force, Deploy!",
     "desc_jp": "揚陸艦及び補給艦計2隻以上、海防艦2隻以上の艦隊で、南西諸島沖、製油所地帯沿岸、鎮守府近海、<br>南西諸島防衛線に反復出撃！護衛部隊により敵艦隊を退けて、輸送船団護衛を完遂せよ！",
     "desc": "Organize a fleet with 2 LHA/AO and 2DE in your fleet and score an S rank at the boss nodes on 1-2, 1-3, 1-4 and 1-5"
   },
@@ -4525,14 +4525,14 @@
   "1152": {
     "code": "F132",
     "name_jp": "【対潜戦力強化】海防艦対潜兵装の強化",
-    "name": "【対潜戦力強化】海防艦対潜兵装の強化",
+    "name": "[Strengthening Anti-Submarine Forces] Strengthening Kaiboukan Anti-Submarine Weapons",
     "desc_jp": "旗艦海防艦の第一装備スロットに「三式爆雷投射機」(★+3以上)を装備。同第二及び第三スロット<br>にもそれぞれ同装備(★不問)を装備。開発資材x32を準備。「九四式爆雷投射機」x4を廃棄せよ！",
     "desc": "Have a DE as secretary flagship and equip her with a ★+3 Type 3 Depth Charge Projector in the first slot and two more (any level) in second and third slots and then proceed to scrap 4x Type 94 Depth Charge Projectors and have 32x Development Materials (All resources and Materials will be consumed upon completion)"
   },
   "1153": {
     "code": "F133",
     "name_jp": "【続：対潜戦力強化】対潜兵装のさらなる拡充",
-    "name": "【続：対潜戦力強化】対潜兵装のさらなる拡充",
+    "name": "[Continued Strengthening of Anti-Submarine Forces] Further Expansion of Anti-Submarine Weapons",
     "desc_jp": "旗艦「日振型」または「鵜来型」の第一スロットに「三式爆雷投射機」(★+4以上)を装備。同第二<br>及び第三スロにも同装備(★不問)を。開発資材x64を準備。「九四式爆雷投射機」x4を廃棄せよ！",
     "desc": "Have an Hiburi-class or Ukuru-class as secretary flagship equip a ★+4 Type 3 Depth Charge Projector in the first slot and two more (any level) in second and third slots and then proceed to scrap 4x Type 94 Depth Charge Projectors and have 64x Development Materials (All resources and Materials will be consumed upon completion)"
   }
