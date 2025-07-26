@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030575",
+  "version": "21030576",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1756,13 +1756,6 @@
     "name": "The Most Elite! Improved Shigure Exercises, Commence!",
     "desc_jp": "「時雨改三」練度向上任務：改装白露型駆逐艦「時雨改三」を旗艦として、僚艦駆逐艦3隻以上を含む<br>演習艦隊で、本日中に演習で【S判定】勝利を4回以上達成せよ！最精鋭「時雨改三」、演習開始ッ！",
     "desc": "Organize a fleet with Shigure Kai San as flagship and 3 other DD in your fleet and score S rank 4 times in PvP"
-  },
-  "367": {
-    "code": "2505 Cd1",
-    "name_jp": "【梅雨限定任務】海上護衛隊、雨中演習！",
-    "name": "[Rainy Season Limited Quest] Maritime Escort Force, Exercises in the Rain!",
-    "desc_jp": "【梅雨限定任務】海防艦2隻以上または駆逐艦4隻以上を含む演習海上護衛隊を編成！同演習戦隊で<br>本日中に演習において【A判定】勝利を4回以上達成せよ！海上護衛隊各艦、雨中海上演習始めッ！",
-    "desc": "Organize a fleet with 2DE or 4DD in your fleet and score A rank 4 times in PvP"
   },
   "368": {
     "code": "Cy11",
@@ -4200,13 +4193,6 @@
     "desc_jp": "「比叡改二丙」「霧島改二丙」を基幹とし、随伴に夕雲型2隻以上または白露型2隻以上を含む艦隊で<br>サーモン海域北方、KW環礁沖海域、カレー洋リランカ島沖に展開！反復出撃により敵を撃滅せよ！",
     "desc": "Organize a fleet with Kirishima K2C, Hiei K2C, 2 Yuugumo-class or 2 Shiratsuyu-class in your fleet and score an S rank at the boss nodes on 4-5, 5-5 and 6-5 twice each"
   },
-  "1020": {
-    "code": "2409 B1",
-    "name_jp": "【期間限定任務】「第三戦隊」緊急展開！",
-    "name": "[Time-limited] \"BatDiv3\" Emergency Deployment!",
-    "desc_jp": "第三戦隊「金剛」「比叡」「榛名」「霧島」の2隻以上を含む高速戦艦部隊で、南西諸島防衛線、<br>南西諸島近海、バシー海峡、カレー洋海域に出撃！同海域の敵を捕捉、これを蹴散らせッ！",
-    "desc": "Organize a fleet with 2 Kongou-class in your fleet and score an S rank at the boss nodes on 1-4, 2-1, 2-2 and 4-2"
-  },
   "1021": {
     "code": "B206",
     "name_jp": "「早霜改二」見ているだけでは…ありません！",
@@ -4241,20 +4227,6 @@
     "name": "DesDiv32 \"Hamanami Kai Ni\" Set Sail! Break Through the Enemy Line!",
     "desc_jp": "「浜波改二」旗艦、僚艦に第三十二駆逐隊及び「朝霜」のうち2隻を含む部隊で、鎮守府近海航路、<br>バシー海峡、東部オリョール海、沖ノ島海域に出撃！敵艦隊を撃破、敵中を駆け抜け、生還せよ！",
     "desc": "Organize a fleet with Hamanami Kai Ni as flagship and any 2 of Tamanami, Suzunami, Fujinami, Hayanami and Asashimo in your fleet and score an S rank at the boss nodes on 2-2, 2-3, 2-4 and reach the anchor node N on 1-6."
-  },
-  "1031": {
-    "code": "2505 B5",
-    "name_jp": "【初夏限定任務】北方海域、積極戦闘哨戒作戦",
-    "name": "[Early Summer Limited Quest] Northern Waters, Active Combat Patrol Operations",
-    "desc_jp": "New Orleans級、「Heywood L.E.」「Gambier Bay」「大淀」「大井」「高波」「藤波」「浜波」「早波」<br>「冬月」の旗艦含む3隻以上の艦隊で、モーレイ海、キス島沖、北方AL海域に反復展開！敵を撃滅せよ！",
-    "desc": "Organize a fleet with 3 of the New Orleans-class, Heywood L. Edwards, Gambier Bay, Ooyodo, Ooi, Takanami, Fujinami, Hamanami, Hayanami and Fuyutsuki with one as flagship and score an S rank at the boss nodes on 3-1, 3-2 and 3-5 twice each"
-  },
-  "1032": {
-    "code": "2505 B6",
-    "name_jp": "【初夏限定任務】精鋭機動部隊の積極作戦運用",
-    "name": "[Early Summer Limited Quest] Active Operation of Elite Mobile Forces",
-    "desc_jp": "Lv.90以上の航空母艦2隻及び駆逐艦2隻を含む精鋭機動部隊を編成。同艦隊により、南西諸島防衛線、<br>沖ノ島沖、北方AL海域、珊瑚諸島沖に反復出撃！精鋭機動部隊により敵主力を捕捉、これを撃滅せよ！",
-    "desc": "Organize a fleet with 2 Lv90+ CV(B/L) and 2 Lv90+ DD in your fleet and score an S rank at the boss nodes on 1-4, 2-5, 3-5 and 5-2 twice each"
   },
   "1033": {
     "code": "B210",
@@ -4528,13 +4500,6 @@
     "name": "[Improvement of Anti-Aircraft Armament] Increased Deployment of Type 94 Anti-Aircraft Fire Director",
     "desc_jp": "旗艦「白雪改二」または「吹雪改二」第一及び第二装備スロットに「91式高射装置」を装備。<br>開発資材x16及び改修資材x4を準備。「91式高射装置」x3、「13号対空電探」x3を廃棄せよ！",
     "desc": "Have your secretary flagship Fubuki Kai Ni or Shirayuki Kai Ni equip two Type 91 AAFD in the first and second slot and then proceed to scrap 3x Type 91 AAFD, 3x Type 13 Air RADAR and have 16x Development Materials and 4x Improvement Materials (All resources and Materials will be consumed upon completion)"
-  },
-  "1150": {
-    "code": "2505 F3",
-    "name_jp": "【初夏限定任務】海軍工廠の再編",
-    "name": "[Early Summer Limited Quest] Naval Arsenal Reorganization Operation Begins!",
-    "desc_jp": "【工廠任務】「中口径主砲」x26、「大口径主砲」x20、「副砲」x10を廃棄。家具箱(小)x30及び<br>「九九式艦爆」x12、「九七式艦攻」x12を準備せよ！(任務達成後、準備装備等は消費します)",
-    "desc": "Proceed to scrap 26x Medium Caliber Main Guns, 20x Large Caliber Main Guns and 10x Secondary Guns and have 12x Type 99 Dive Bomber, 12x Type 97 Torpedo Bomber and 30x Furniture Box (Small) (All resources and Materials will be consumed upon completion)"
   },
   "1151": {
     "code": "F131",
