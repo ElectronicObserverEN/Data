@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030576",
+  "version": "21030577",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1812,6 +1812,13 @@
     "name": "\"DesDiv2 (Late Formation)\", Improved Training!",
     "desc_jp": "【後期二駆演習】「早霜」「秋霜」「清霜」の1隻を旗艦、僚艦に「早霜」「秋霜」「清霜」「朝霜」2隻を<br>含む後期編成の夕雲型第二駆逐隊を含む艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！",
     "desc": "Organize a fleet with one of Hayashimo, Akishimo or Kiyoshimo as flagship with two of Asashimo, Hayashimo, Akishimo and Kiyoshimo in your fleet and score S rank 4 times in PvP"
+  },
+  "380": {
+    "code": "2507 Cw1",
+    "name_jp": "【期間限定任務】揚陸船団護衛演習",
+    "name": "【期間限定任務】揚陸船団護衛演習",
+    "desc_jp": "【期間限定演習】揚陸船団護衛演習を実施する！揚陸艦1隻以上及び護衛の海防艦2隻以上の艦隊、<br>または海防艦3隻以上を含む艦隊で、本日中に演習【A判定】勝利3回以上を達成せよ！演習、始めっ！",
+    "desc": "Organize a fleet with either an LHA and 2 DE or 3 DE in your fleet and score A rank three times in PvP"
   },
   "401": {
     "code": "D1",
@@ -4507,5 +4514,12 @@
     "name": "Increase in Army Fighters and Foreign Fighters",
     "desc_jp": "【工廠任務】「水上偵察機」x14、「中口径主砲」x12、「艦上爆撃機」x10を廃棄。開発資材x36、<br>「零式艦戦21型」x8、「零式艦戦32型」x4を準備せよ！(任務達成後、準備装備等は消費します)",
     "desc": "Proceed to scrap 14x Seaplane Recons, 12x Medium Caliber Main Guns, 10 Dive Bombers and have 36x Development Material, 8x Type 0 Fighter Model 21, 4x Type 0 Fighter Model 32 (All resources and Materials will be consumed upon completion)"
+  },
+  "1152": {
+    "code": "F132",
+    "name_jp": "【対潜戦力強化】海防艦対潜兵装の強化",
+    "name": "【対潜戦力強化】海防艦対潜兵装の強化",
+    "desc_jp": "旗艦海防艦の第一装備スロットに「三式爆雷投射機」(★+3以上)を装備。同第二及び第三スロット<br>にもそれぞれ同装備(★不問)を装備。開発資材x32を準備。「九四式爆雷投射機」x4を廃棄せよ！",
+    "desc": "Have a DE as secretary flagship and equip her with a ★+3 Type 3 Depth Charge Projector in the first slot and two more (any level) in second and third slots and then proceed to scrap 4x Type 94 Depth Charge Projectors and have 32x Development Materials (All resources and Materials will be consumed upon completion)"
   }
 }
