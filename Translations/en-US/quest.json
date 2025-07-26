@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030581",
+  "version": "21030582",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4535,5 +4535,12 @@
     "name": "[Continued Strengthening of Anti-Submarine Forces] Further Expansion of Anti-Submarine Weapons",
     "desc_jp": "旗艦「日振型」または「鵜来型」の第一スロットに「三式爆雷投射機」(★+4以上)を装備。同第二<br>及び第三スロにも同装備(★不問)を。開発資材x64を準備。「九四式爆雷投射機」x4を廃棄せよ！",
     "desc": "Have an Hiburi-class or Ukuru-class as secretary flagship equip a ★+4 Type 3 Depth Charge Projector in the first slot and two more (any level) in second and third slots and then proceed to scrap 4x Type 94 Depth Charge Projectors and have 64x Development Materials (All resources and Materials will be consumed upon completion)"
+  },
+  "1154": {
+    "code": "F134",
+    "name_jp": "【新型対潜兵装開発】対潜噴進爆雷砲の開発",
+    "name": "[New Anti-Submarine Weapon Development] Development of Anti-Submarine Rocket Launchers",
+    "desc_jp": "旗艦Lv.96以上の駆逐艦第一スロットに「三式爆雷投射機 集中配備」(★max)装備。同第二スロに<br>「12cm単装砲」(★+6以上)を装備。新型噴進装備開発資材x3準備。「三式水中探信儀」x6廃棄！",
+    "desc": "Have a Level 96+ DD as secretary flagship equip a ★max Type 3 Depth Charge Projector (Concentrated Deployment) in the first slot and a ★+6 12cm Single Gun Mount in second slot then proceed to scrap 6x Type 3 Active Sonar and have 3x New Model Rocket Development Material (All resources and Materials will be consumed upon completion)"
   }
 }
