@@ -691,5 +691,16 @@
     "live_update": false,
     "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1946589584890151291",
     "maint_end_tweet": ""
+  },
+  {
+    "id": 74,
+    "start_date": "2025-08-27T00:00:00",
+    "start_time": "11:00:00",
+    "end_time": "19:00:00",
+    "name": "August 2025 Server Maintenance",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/1959948267195891726",
+    "maint_end_tweet": ""
   }
 ]
