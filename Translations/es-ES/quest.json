@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030580",
+  "version": "21030581",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1819,6 +1819,13 @@
     "name": "[Time-limited] Landing Convoy Escort Exercise",
     "desc_jp": "【期間限定演習】揚陸船団護衛演習を実施する！揚陸艦1隻以上及び護衛の海防艦2隻以上の艦隊、<br>または海防艦3隻以上を含む艦隊で、本日中に演習【A判定】勝利3回以上を達成せよ！演習、始めっ！",
     "desc": "Organize a fleet with either an LHA and 2 DE or 3 DE in your fleet and score A rank three times in PvP"
+  },
+  "381": {
+    "code": "2507 Cw1",
+    "name_jp": "【期間限定任務】秋月型演習任務",
+    "name": "[Limited Time Quest] Akizuki-class Exercise Quest",
+    "desc_jp": "【期間限定演習】秋月型または「秋雲」「秋霜」「秋津洲」の計3隻以上を含む演習艦隊を編成。<br>同艦隊で本日中に演習【A判定】勝利3回以上を達成せよ！秋月型駆逐艦他、演習、始めっ！",
+    "desc": "Organize a fleet with 3 of Akigumo, Akishimo, Akitsushima or Akizuki-class in your fleet and score A rank 3 times in PvP"
   },
   "401": {
     "code": "D1",
@@ -4549,5 +4556,12 @@
     "name": "[New Anti-Submarine Weapon Development] Development of Anti-Submarine Rocket Launchers",
     "desc_jp": "旗艦Lv.96以上の駆逐艦第一スロットに「三式爆雷投射機 集中配備」(★max)装備。同第二スロに<br>「12cm単装砲」(★+6以上)を装備。新型噴進装備開発資材x3準備。「三式水中探信儀」x6廃棄！",
     "desc": "Have a Level 96+ DD as secretary flagship equip a ★max Type 3 Depth Charge Projector (Concentrated Deployment) in the first slot and a ★+6 12cm Single Gun Mount in second slot then proceed to scrap 6x Type 3 Active Sonar and have 3x New Model Rocket Development Material (All resources and Materials will be consumed upon completion)"
+  },
+  "1155": {
+    "code": "F135",
+    "name_jp": "秋月型防空駆逐艦用兵装の拡充",
+    "name": "Expansion of Akizuki-class Air Defense Destroyer Armament",
+    "desc_jp": "旗艦の秋月型駆逐艦(Lv.70以上)の第一及び第二スロットに「10cm連装高角砲」を装備、同第三<br>に「94式高射装置」を装備。「12.7cm連装高角砲」x8を廃棄。新型砲熕兵装資材x2準備せよ！",
+    "desc": "Have a Lv 70+ Akizuki-class as secretary flagship equip a a 10cm Twin High-angle Gun Mount in both her 1st ans 2nd slots and a Type 94 Anti-Aircraft Fire Director in 3rd slot and then proceed to scrap 8x 12.7cm Twin High-angle Gun Mount and have 2x New Model Gun Mount Improvement Materials (All resources and Materials will be consumed upon completion)"
   }
 }
