@@ -10304,7 +10304,7 @@
     "desc_jp": "「朝日」を旗艦に配備、護衛に駆逐艦3隻以上または海防艦1隻以上を含む艦隊で、南西諸島沖、<br>製油所地帯沿岸、南西諸島防衛線、南西諸島近海に展開！夏の日の「朝日」護衛を貫徹せよ！",
     "desc_en": "Organize a fleet with Asahi as flagship and either 3 DD or 1 DE in your fleet and score an S rank at the boss nodes on 1-2, 1-3, 1-4, 2-1",
     "added_update_id": 72,
-    "removed_update_id": null,
+    "removed_update_id": 75,
     "season_id": 33,
     "tracker": "[[1034],[[0,[[1,2],6,1]],[0,[[1,3],6,1]],[0,[[1,4],6,1]],[0,[[2,1],6,1]]],[0,[[7,[953,true,0,0]],[0,[1,[[2,[[2],3,false,0,0]],[2,[[1],1,false,0,0]]]]]]]]"
   },
@@ -10330,7 +10330,7 @@
     "desc_jp": "「能代」「Atlanta」「Richard P.Leary」を旗艦に配備。駆逐艦が計3隻以上配備された精鋭艦隊で、<br>夏の南方海域前面、サブ島沖海域、サーモン海域に遊弋する敵艦隊に突入、これを撃滅せよ！",
     "desc_en": "Organize a fleet with Noshiro or Atlanta or Richard P. Leary as flagship with a total of 3 DD in your fleet and score an S rank at the boss nodes on 5-1, 5-3 and 5-4",
     "added_update_id": 72,
-    "removed_update_id": null,
+    "removed_update_id": 75,
     "season_id": 33,
     "tracker": "[[1035],[[0,[[5,1],6,1]],[0,[[5,3],6,1]],[0,[[5,4],6,1]]],[0,[[0,[1,[[5,[138,1,0]],[5,[597,1,0]],[5,[942,1,0]]]]],[2,[[2],3,false,0,0]]]]]"
   },
