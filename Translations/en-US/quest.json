@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030589",
+  "version": "21030590",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1727,7 +1727,7 @@
     "name_jp": "Halloween艦隊 実りの秋、強襲演習！",
     "name": "Halloween Fleet: Autumn's Harvest, Assault Exercise!",
     "desc_jp": "「Jervis」「阿武隈」「朧」「夕立」「村雨」「野分」「朝潮」「伊201」「早波」「浜波」「鵜来」「稲木」<br>「Johnston」「Minneapolis」4隻以上を含む強襲艦隊で、本日中に演習で【A判定】以上を5回達成せよ！",
-    "desc": "Organize a fleet with four of Jervis, Abukuma, Oboro, Yuudachi, Murasame, Nowaki, Asashio, I-201, Hayanami, Hamanami, Ukuru, Inagi, Johnston and Minneapolis in your fleet and score A rank four times in PvP"
+    "desc": "Organize a fleet with four of Jervis, Abukuma, Oboro, Yuudachi, Murasame, Nowaki, Asashio, I-201, Hayanami, Hamanami, Ukuru, Inagi, Johnston and Minneapolis in your fleet and score A rank five times in PvP"
   },
   "360": {
     "code": "C70",
