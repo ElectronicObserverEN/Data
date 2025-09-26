@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030586",
+  "version": "21030587",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4080,6 +4080,13 @@
     "name": "[Time-limited] Special Assault Fleet, Weigh Anchor!",
     "desc_jp": "「迅鯨」「長鯨」「朝日」「伊201」「伊47」「村雨」「巻波」または丁型海防艦の3隻以上を含む特務<br>強襲艦隊で鎮守府近海、バシー海峡、東部オリョール海の敵艦隊を強襲！これを殲滅せよ！ Trick or Treat！",
     "desc": "Organize a fleet with three of Jingei, Chougei, Asahi, I-201, I-47, Murasame, Makinami, Kaiboukan No.4, Kaiboukan No.22 and Kaiboukan No.30 in your fleet and score an S rank at the boss nodes on 1-5, 2-2, 2-3"
+  },
+  "986": {
+    "code": "2509 B3",
+    "name_jp": "【期間限定任務】米特務強襲艦隊+α、出撃！",
+    "name": "[Limited Time Quest] US Special Assault Fleet +α, Sortie!",
+    "desc_jp": "「Gambier Bay」「Minneapolis」「Tuscaloosa」「Brooklyn」「Johnston」「Luigi Torelli」のうち<br>3隻以上を含む特務艦隊でモーレイ海の敵艦隊を撃滅、沖ノ島海域及び中部海域哨戒線を哨戒せよ！",
+    "desc": "Organize a fleet with three of Gambier Bay, Minneapolis, Tuscaloosa, Brooklyn, Johnston and Luigi Torelli in your fleet and score an S rank at the boss node on 3-1 and an A rank on the boss nodes on 2-4 and 6-1"
   },
   "989": {
     "code": "B188",
