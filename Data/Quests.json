@@ -10450,5 +10450,44 @@
     "removed_update_id": null,
     "season_id": 34,
     "tracker": "[[984],[[0,[[1,3],6,2]],[0,[[1,4],6,2]],[0,[[2,1],6,2]]],[0,[[8,[[[93,false,0,0],[45,false,0,0],[44,false,0,0],[95,false,0,0],[671,false,0,0],[528,false,0,0],[484,false,0,0],[410,false,0,0],[634,false,0,0],[635,false,0,0],[921,false,0,0],[922,false,0,0]],2]],[0,[1,[[5,[93,1,0]],[5,[45,1,0]],[5,[44,1,0]],[5,[95,1,0]],[5,[671,1,0]],[5,[528,1,0]],[5,[484,1,0]],[5,[410,1,0]],[5,[634,1,0]],[5,[635,1,0]],[5,[921,1,0]],[5,[922,1,0]]]]]]]]"
+  },
+  {
+    "id": 819,
+    "api_id": 985,
+    "code": "2509 B2",
+    "name_jp": "【期間限定任務】特務強襲艦隊、抜錨せよ！",
+    "name_en": "[Time-limited] Special Assault Fleet, Weigh Anchor!",
+    "desc_jp": "「迅鯨」「長鯨」「朝日」「伊201」「伊47」「村雨」「巻波」または丁型海防艦の3隻以上を含む特務<br>強襲艦隊で鎮守府近海、バシー海峡、東部オリョール海の敵艦隊を強襲！これを殲滅せよ！ Trick or Treat！",
+    "desc_en": "Organize a fleet with three of Jingei, Chougei, Asahi, I-201, I-47, Murasame, Makinami, Kaiboukan No.4, Kaiboukan No.22 and Kaiboukan No.30 in your fleet and score an S rank at the boss nodes on 1-5, 2-2, 2-3",
+    "added_update_id": 75,
+    "removed_update_id": null,
+    "season_id": 34,
+    "tracker": "[[985],[[0,[[1,5],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]]],[0,[[8,[[[634,false,0,0],[635,false,0,0],[953,false,0,0],[881,false,0,0],[636,false,0,0],[44,false,0,0],[671,false,0,0],[637,false,0,0],[898,false,0,0],[638,false,0,0]],3]]]]]"
+  },
+  {
+    "id": 820,
+    "api_id": 359,
+    "code": "2509 C3",
+    "name_jp": "Halloween艦隊 実りの秋、強襲演習！",
+    "name_en": "Halloween Fleet: Autumn's Harvest, Assault Exercise!",
+    "desc_jp": "「Jervis」「阿武隈」「朧」「夕立」「村雨」「野分」「朝潮」「伊201」「早波」「浜波」「鵜来」「稲木」<br>「Johnston」「Minneapolis」4隻以上を含む強襲艦隊で、本日中に演習で【A判定】以上を5回達成せよ！",
+    "desc_en": "Organize a fleet with four of Jervis, Abukuma, Oboro, Yuudachi, Murasame, Nowaki, Asashio, I-201, Hayanami, Hamanami, Ukuru, Inagi, Johnston and Minneapolis in your fleet and score A rank four times in PvP",
+    "added_update_id": 75,
+    "removed_update_id": null,
+    "season_id": 34,
+    "tracker": "[[359],[[9,[5,5]]],[0,[[8,[[[519,false,0,0],[114,false,0,0],[93,false,0,0],[45,false,0,0],[44,false,0,0],[415,false,0,0],[95,false,0,0],[881,false,0,0],[528,false,0,0],[484,false,0,0],[921,false,0,0],[922,false,0,0],[562,false,0,0],[1005,false,0,0]],4]]]]]"
+  },
+  {
+    "id": 821,
+    "api_id": 1119,
+    "code": "2509 Fw1",
+    "name_jp": "【期間限定】Halloweenの南瓜、食べりゅ?",
+    "name_en": "[Time-limited] Halloween Pumpkin, Wanna Eat It?",
+    "desc_jp": "「小口径主砲」「中口径主砲」「水上偵察機」各x8を廃棄、「20.3cm連装砲」x8、「九九式艦爆」<br>x8、家具コイン1031を準備せよ！(任務達成後、準備した装備・家具コインは消費します)",
+    "desc_en": "Proceed to scrap 8x Small Caliber Guns, 8x Medium Caliber Main Guns, 8x Seaplane Recons and have 8x 20.3cm Twin Gun Mount, 8x Type 99 Dive Bomber and 1031x furniture coins (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 75,
+    "removed_update_id": null,
+    "season_id": 34,
+    "tracker": "[[1119],[[4,[1,8]],[4,[2,8]],[4,[10,8]]],[0,[]]]"
   }
 ]
