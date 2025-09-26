@@ -10437,5 +10437,18 @@
     "removed_update_id": null,
     "season_id": null,
     "tracker": "[[381],[[9,[5,3]]],[0,[[8,[[[132,false,0,0],[445,false,0,0],[625,false,0,0],[0,false,0,54]],3]]]]]"
+  },
+  {
+    "id": 818,
+    "api_id": 984,
+    "code": "984",
+    "name_jp": "【期間限定任務】13年目実りの秋、南瓜始め！",
+    "name_en": "[Time-limited] 13th Year of Autumn Harvest, Pumpkins Begin!",
+    "desc_jp": "「朧」「夕立」「村雨」「朝潮」「巻波」「早波」「浜波」「清霜」「迅鯨」「長鯨」「鵜来」「稲木」を<br>旗艦と僚艦に伴う艦隊で製油所地帯沿岸、南西諸島防衛線、南西諸島近海に反復出撃！敵を一掃せよ！",
+    "desc_en": "Organize a fleet with two of Oboro, Yuudachi, Murasame, Asashio, Makinami, Hayanami, Hamanami, Kiyoshimo, Jingei, Chougei, Ukuru and Inagi with one as flagship and score an S rank at the boss nodes on 1-3, 1-4 and 2-1 twice each",
+    "added_update_id": 75,
+    "removed_update_id": null,
+    "season_id": 34,
+    "tracker": "[[984],[[0,[[1,3],6,2]],[0,[[1,4],6,2]],[0,[[2,1],6,2]]],[0,[[8,[[[93,false,0,0],[45,false,0,0],[44,false,0,0],[95,false,0,0],[671,false,0,0],[528,false,0,0],[484,false,0,0],[410,false,0,0],[634,false,0,0],[635,false,0,0],[921,false,0,0],[922,false,0,0]],2]],[0,[0,[[5,[93,1,0]],[5,[45,1,0]],[5,[44,1,0]],[5,[95,1,0]],[5,[671,1,0]],[5,[528,1,0]],[5,[484,1,0]],[5,[410,1,0]],[5,[634,1,0]],[5,[635,1,0]],[5,[921,1,0]],[5,[922,1,0]]]]]]]]"
   }
 ]

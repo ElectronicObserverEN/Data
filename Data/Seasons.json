@@ -184,5 +184,11 @@
     "name": "Summer 2025",
     "added_update_id": 72,
     "removed_update_id": 75
+  },
+  {
+    "id": 34,
+    "name": "Pumpkin festival 2025",
+    "added_update_id": 75,
+    "removed_update_id": null
   }
 ]
