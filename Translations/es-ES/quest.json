@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030581",
+  "version": "21030582",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4248,20 +4248,6 @@
     "name": "Active Operation of Second-class Transport Ships",
     "desc_jp": "二等輸送艦を旗艦に配備、護衛に軽巡級1隻及び駆逐艦2隻以上を含む艦隊で、鎮守府正面海域<br>及び南西諸島沖、製油所地帯沿岸、南西諸島防衛線に出撃！輸送艦を守り、敵艦隊を殲滅せよ！",
     "desc": "Organize a fleet with No.101 Landing Ship as flagship, 1 CL and 2 DD in fleet in your fleet and score an S rank at the boss nodes on 1-1, 1-2, 1-3 and 1-4"
-  },
-  "1034": {
-    "code": "2506 Bm1",
-    "name_jp": "【夏季限定任務】夏の日の「朝日」護衛",
-    "name": "[Summer Limited] Escort \"Asahi\" on a Summer Day",
-    "desc_jp": "「朝日」を旗艦に配備、護衛に駆逐艦3隻以上または海防艦1隻以上を含む艦隊で、南西諸島沖、<br>製油所地帯沿岸、南西諸島防衛線、南西諸島近海に展開！夏の日の「朝日」護衛を貫徹せよ！",
-    "desc": "Organize a fleet with Asahi as flagship and either 3 DD or 1 DE in your fleet and score an S rank at the boss nodes on 1-2, 1-3, 1-4, 2-1"
-  },
-  "1035": {
-    "code": "2506 Bm2",
-    "name_jp": "【夏季限定任務】ソロモンの夏夜",
-    "name": "[Summer Limited] Solomon's Summer Night",
-    "desc_jp": "「能代」「Atlanta」「Richard P.Leary」を旗艦に配備。駆逐艦が計3隻以上配備された精鋭艦隊で、<br>夏の南方海域前面、サブ島沖海域、サーモン海域に遊弋する敵艦隊に突入、これを撃滅せよ！",
-    "desc": "Organize a fleet with Noshiro or Atlanta or Richard P. Leary as flagship with a total of 3 DD in your fleet and score an S rank at the boss nodes on 5-1, 5-3 and 5-4"
   },
   "1036": {
     "code": "B211",
