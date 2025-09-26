@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030602",
+  "version": "21030603",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4061,9 +4061,9 @@
     "desc": "Organize a fleet with Gambier Bay, Johnston, Samuel B. Roberts in your fleet and score an S rank at the boss nodes on 2-3, 2-5, 4-5, and 5-5"
   },
   "984": {
-    "code": "984",
+    "code": "2509 B1",
     "name_jp": "【期間限定任務】13年目実りの秋、南瓜始め！",
-    "name": "[Time-limited] 13th Year of Autumn Harvest, Pumpkins Begin!",
+    "name": "[Limited Time Quest] 13th Year of Bountiful Autumn Harvest, Pumpkin Season Has Begun!",
     "desc_jp": "「朧」「夕立」「村雨」「朝潮」「巻波」「早波」「浜波」「清霜」「迅鯨」「長鯨」「鵜来」「稲木」を<br>旗艦と僚艦に伴う艦隊で製油所地帯沿岸、南西諸島防衛線、南西諸島近海に反復出撃！敵を一掃せよ！",
     "desc": "Organize a fleet with two of Oboro, Yuudachi, Murasame, Asashio, Makinami, Hayanami, Hamanami, Kiyoshimo, Jingei, Chougei, Ukuru and Inagi with one as flagship and score an S rank at the boss nodes on 1-3, 1-4 and 2-1 twice each"
   },
