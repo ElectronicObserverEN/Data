@@ -10502,5 +10502,31 @@
     "removed_update_id": null,
     "season_id": 34,
     "tracker": "[[986],[[0,[[2,4],5,1]],[0,[[3,1],6,1]],[0,[[6,1],5,1]]],[0,[[8,[[[544,false,0,0],[1005,false,0,0],[923,false,0,0],[896,false,0,0],[562,false,0,0],[535,false,0,0]],3]]]]]"
+  },
+  {
+    "id": 823,
+    "api_id": 1002,
+    "code": "2509 B4",
+    "name_jp": "【限定拡張任務】南瓜祭り2025、拡張作戦！",
+    "name_en": "[Limited Time Expansion Quest] Pumpkin Festival 2025: Expansion Plan!",
+    "desc_jp": "「Minneapolis」「Tuscaloosa」「Gambier Bay」「Jervis」「朧」「夕立」「村雨」「朝潮」「野分」<br>「巻波」旗艦含む3隻以上の強襲艦隊でキス島沖、北方AL海域、中部北海域ピーコック島沖の敵を撃滅せよ！",
+    "desc_en": "Organize a fleet with three of Minneapolis, Tuscaloosa, Gambier Bay, Jervis, Oboro, Yuudachi, Murasame, Asashio, Nowaki and Makinami in your fleet with one of them as flagship and score an S rank at the boss nodes on 3-2, 3-5 and 6-4",
+    "added_update_id": 75,
+    "removed_update_id": null,
+    "season_id": 34,
+    "tracker": "[[1002],[[0,[[3,2],6,1]],[0,[[3,5],6,1]],[0,[[6,4],6,1]]],[0,[[8,[[[1005,false,0,0],[923,false,0,0],[544,false,0,0],[519,false,0,0],[93,false,0,0],[45,false,0,0],[44,false,0,0],[95,false,0,0],[415,false,0,0],[671,false,0,0]],3]],[0,[1,[[5,[1005,1,0]],[5,[923,1,0]],[5,[544,1,0]],[5,[519,1,0]],[5,[93,1,0]],[5,[45,1,0]],[5,[44,1,0]],[5,[95,1,0]],[5,[415,1,0]],[5,[671,1,0]]]]]]]]"
+  },
+  {
+    "id": 824,
+    "api_id": 987,
+    "code": "2509 Bw1",
+    "name_jp": "【週間拡張任務】秋の南瓜祭り!  Buono!",
+    "name_en": "【週間拡張任務】秋の南瓜祭り!  Buono!",
+    "desc_jp": "「Roma」「Luigi Torelli」「Maestrale・Grecale・Libeccio・Scirocco」「Jervis」「Minneapolis」<br>「村雨」「夕立」「朧」「曙」旗艦含む3隻以上で、カレー洋海域、リランカ島、カスガダマ島を制圧せよ！",
+    "desc_en": "Organize a fleet with three of Roma, Luigi Torelli, Maestrale, Grecale, Libeccio, Scirocco, Jervis, Minneapolis, Murasame, Yuudachi, Akebono and Oboro in your fleet with one as flagship and score an S rank at the boss nodes on 4-2, 4-3 and 4-4",
+    "added_update_id": 75,
+    "removed_update_id": null,
+    "season_id": 34,
+    "tracker": "[[987],[[0,[[4,2],6,1]],[0,[[4,3],6,1]],[0,[[4,4],6,1]]],[0,[[8,[[[442,false,0,0],[535,false,0,0],[575,false,0,0],[614,false,0,0],[443,false,0,0],[653,false,0,0],[519,false,0,0],[1005,false,0,0],[44,false,0,0],[45,false,0,0],[15,false,0,0],[93,false,0,0]],3]],[0,[1,[[5,[442,1,0]],[5,[535,1,0]],[5,[575,1,0]],[5,[614,1,0]],[5,[443,1,0]],[5,[653,1,0]],[5,[519,1,0]],[5,[1005,1,0]],[5,[44,1,0]],[5,[45,1,0]],[5,[15,1,0]],[5,[93,1,0]]]]]]]]"
   }
 ]

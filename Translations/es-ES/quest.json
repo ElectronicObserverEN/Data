@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030588",
+  "version": "21030589",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4088,6 +4088,13 @@
     "desc_jp": "「Gambier Bay」「Minneapolis」「Tuscaloosa」「Brooklyn」「Johnston」「Luigi Torelli」のうち<br>3隻以上を含む特務艦隊でモーレイ海の敵艦隊を撃滅、沖ノ島海域及び中部海域哨戒線を哨戒せよ！",
     "desc": "Organize a fleet with three of Gambier Bay, Minneapolis, Tuscaloosa, Brooklyn, Johnston and Luigi Torelli in your fleet and score an S rank at the boss node on 3-1 and an A rank on the boss nodes on 2-4 and 6-1"
   },
+  "987": {
+    "code": "2509 Bw1",
+    "name_jp": "【週間拡張任務】秋の南瓜祭り!  Buono!",
+    "name": "【週間拡張任務】秋の南瓜祭り!  Buono!",
+    "desc_jp": "「Roma」「Luigi Torelli」「Maestrale・Grecale・Libeccio・Scirocco」「Jervis」「Minneapolis」<br>「村雨」「夕立」「朧」「曙」旗艦含む3隻以上で、カレー洋海域、リランカ島、カスガダマ島を制圧せよ！",
+    "desc": "Organize a fleet with three of Roma, Luigi Torelli, Maestrale, Grecale, Libeccio, Scirocco, Jervis, Minneapolis, Murasame, Yuudachi, Akebono and Oboro in your fleet with one as flagship and score an S rank at the boss nodes on 4-2, 4-3 and 4-4"
+  },
   "989": {
     "code": "B188",
     "name_jp": "機動部隊旗艦「鳳翔改二」、前線に出撃せよ！",
@@ -4136,6 +4143,13 @@
     "name": "Main Force of Main Force [Kiyoshimo Kai Ni], Sortie!",
     "desc_jp": "改夕雲型駆逐艦「清霜改二/丁」、さらに随伴艦に「霞」「朝霜」「大淀」「足柄」から2隻を配備。同艦隊<br>で、バシー海峡、東部オリョール海、沖ノ島海域、昭南本土航路に出撃！各海域の敵戦力を撃滅せよ！",
     "desc": "Organize a fleet with Kiyoshimo Kai Ni (D) and two of Kasumi, Ashigara, Ooyodo or Asashimo in your fleet and score an S rank at the boss nodes on 2-2, 2-3, 2-4 and 7-4"
+  },
+  "1002": {
+    "code": "2509 B4",
+    "name_jp": "【限定拡張任務】南瓜祭り2025、拡張作戦！",
+    "name": "[Limited Time Expansion Quest] Pumpkin Festival 2025: Expansion Plan!",
+    "desc_jp": "「Minneapolis」「Tuscaloosa」「Gambier Bay」「Jervis」「朧」「夕立」「村雨」「朝潮」「野分」<br>「巻波」旗艦含む3隻以上の強襲艦隊でキス島沖、北方AL海域、中部北海域ピーコック島沖の敵を撃滅せよ！",
+    "desc": "Organize a fleet with three of Minneapolis, Tuscaloosa, Gambier Bay, Jervis, Oboro, Yuudachi, Murasame, Asashio, Nowaki and Makinami in your fleet with one of them as flagship and score an S rank at the boss nodes on 3-2, 3-5 and 6-4"
   },
   "1003": {
     "code": "B195",
