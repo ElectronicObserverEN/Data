@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030587",
+  "version": "21030588",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1725,7 +1725,7 @@
   "359": {
     "code": "2509 C3",
     "name_jp": "Halloween艦隊 実りの秋、強襲演習！",
-    "name": "Halloween Fleet: Autumn's Harvest, Assault Exercise!",
+    "name": "Halloween Fleet: Bountiful Autumn, Assault Exercise!",
     "desc_jp": "「Jervis」「阿武隈」「朧」「夕立」「村雨」「野分」「朝潮」「伊201」「早波」「浜波」「鵜来」「稲木」<br>「Johnston」「Minneapolis」4隻以上を含む強襲艦隊で、本日中に演習で【A判定】以上を5回達成せよ！",
     "desc": "Organize a fleet with four of Jervis, Abukuma, Oboro, Yuudachi, Murasame, Nowaki, Asashio, I-201, Hayanami, Hamanami, Ukuru, Inagi, Johnston and Minneapolis in your fleet and score A rank five times in PvP"
   },
@@ -4077,7 +4077,7 @@
   "985": {
     "code": "2509 B2",
     "name_jp": "【期間限定任務】特務強襲艦隊、抜錨せよ！",
-    "name": "[Time-limited] Special Assault Fleet, Weigh Anchor!",
+    "name": "[Limited Time Quest] Special Assault Fleet, Set Sail!",
     "desc_jp": "「迅鯨」「長鯨」「朝日」「伊201」「伊47」「村雨」「巻波」または丁型海防艦の3隻以上を含む特務<br>強襲艦隊で鎮守府近海、バシー海峡、東部オリョール海の敵艦隊を強襲！これを殲滅せよ！ Trick or Treat！",
     "desc": "Organize a fleet with three of Jingei, Chougei, Asahi, I-201, I-47, Murasame, Makinami, Kaiboukan No.4, Kaiboukan No.22 and Kaiboukan No.30 in your fleet and score an S rank at the boss nodes on 1-5, 2-2, 2-3"
   },
@@ -4413,7 +4413,7 @@
   "1119": {
     "code": "2509 Fw1",
     "name_jp": "【期間限定】Halloweenの南瓜、食べりゅ?",
-    "name": "[Time-limited] Halloween Pumpkin, Wanna Eat It?",
+    "name": "[Limited Time] Halloween Pumpkin, Wanna Eat It?",
     "desc_jp": "「小口径主砲」「中口径主砲」「水上偵察機」各x8を廃棄、「20.3cm連装砲」x8、「九九式艦爆」<br>x8、家具コイン1031を準備せよ！(任務達成後、準備した装備・家具コインは消費します)",
     "desc": "Proceed to scrap 8x Small Caliber Guns, 8x Medium Caliber Main Guns, 8x Seaplane Recons and have 8x 20.3cm Twin Gun Mount, 8x Type 99 Dive Bomber and 1031x furniture coins (All resources and Materials will be consumed upon completion)"
   },
