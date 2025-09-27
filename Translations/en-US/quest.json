@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030594",
+  "version": "21030595",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4598,5 +4598,12 @@
     "name": "Expansion of Akizuki-class Air Defense Destroyer Armament",
     "desc_jp": "旗艦の秋月型駆逐艦(Lv.70以上)の第一及び第二スロットに「10cm連装高角砲」を装備、同第三<br>に「94式高射装置」を装備。「12.7cm連装高角砲」x8を廃棄。新型砲熕兵装資材x2準備せよ！",
     "desc": "Have a Lv 70+ Akizuki-class as secretary flagship equip a a 10cm Twin High-angle Gun Mount in both her 1st ans 2nd slots and a Type 94 Anti-Aircraft Fire Director in 3rd slot and then proceed to scrap 8x 12.7cm Twin High-angle Gun Mount and have 2x New Model Gun Mount Improvement Materials (All resources and Materials will be consumed upon completion)"
+  },
+  "1156": {
+    "code": "2509 F1",
+    "name_jp": "【重南瓜祭り拡張任務】大きいの収穫すりゅ？",
+    "name": "[Heavy Pumpkin Festival Expansion Quest] Will you Harvest a Big One?",
+    "desc_jp": "「艦上爆撃機」「艦上攻撃機」「水上偵察機」各x12を廃棄、新型航空兵装資材x2、<br>「南瓜」x5、開発資材x80を準備せよ！(任務達成後、準備した必要資材等は消費します)",
+    "desc": "Proceed to scrap 12x Dive Bombers, 12x Torpedo Bombers, 12x Seaplane Recons and have 2x New Model Aerial Armament Material, 5x Pumpkins and 80x Development Materials (All resources and Materials will be consumed upon completion)"
   }
 }

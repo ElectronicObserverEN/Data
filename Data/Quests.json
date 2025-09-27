@@ -10528,5 +10528,18 @@
     "removed_update_id": null,
     "season_id": 34,
     "tracker": "[[987],[[0,[[4,2],6,1]],[0,[[4,3],6,1]],[0,[[4,4],6,1]]],[0,[[8,[[[442,false,0,0],[535,false,0,0],[575,false,0,0],[614,false,0,0],[443,false,0,0],[653,false,0,0],[519,false,0,0],[1005,false,0,0],[44,false,0,0],[45,false,0,0],[15,false,0,0],[93,false,0,0]],3]],[0,[1,[[5,[442,1,0]],[5,[535,1,0]],[5,[575,1,0]],[5,[614,1,0]],[5,[443,1,0]],[5,[653,1,0]],[5,[519,1,0]],[5,[1005,1,0]],[5,[44,1,0]],[5,[45,1,0]],[5,[15,1,0]],[5,[93,1,0]]]]]]]]"
+  },
+  {
+    "id": 825,
+    "api_id": 1156,
+    "code": "2509 F1",
+    "name_jp": "【重南瓜祭り拡張任務】大きいの収穫すりゅ？",
+    "name_en": "[Heavy Pumpkin Festival Expansion Quest] Will you Harvest a Big One?",
+    "desc_jp": "「艦上爆撃機」「艦上攻撃機」「水上偵察機」各x12を廃棄、新型航空兵装資材x2、<br>「南瓜」x5、開発資材x80を準備せよ！(任務達成後、準備した必要資材等は消費します)",
+    "desc_en": "Proceed to scrap 12x Dive Bombers, 12x Torpedo Bombers, 12x Seaplane Recons and have 2x New Model Aerial Armament Material, 5x Pumpkins and 80x Development Materials (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 75,
+    "removed_update_id": null,
+    "season_id": 34,
+    "tracker": "[[1156],[[4,[7,12]],[4,[8,12]],[4,[10,12]]],[0,[]]]"
   }
 ]
