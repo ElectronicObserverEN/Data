@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030593",
+  "version": "21030594",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4091,7 +4091,7 @@
   "987": {
     "code": "2509 Bw1",
     "name_jp": "【週間拡張任務】秋の南瓜祭り!  Buono!",
-    "name": "【週間拡張任務】秋の南瓜祭り!  Buono!",
+    "name": "[Weekly Expansion Quest] Autumn Pumpkin Festival! Buono!",
     "desc_jp": "「Roma」「Luigi Torelli」「Maestrale・Grecale・Libeccio・Scirocco」「Jervis」「Minneapolis」<br>「村雨」「夕立」「朧」「曙」旗艦含む3隻以上で、カレー洋海域、リランカ島、カスガダマ島を制圧せよ！",
     "desc": "Organize a fleet with three of Roma, Luigi Torelli, Maestrale, Grecale, Libeccio, Scirocco, Jervis, Minneapolis, Murasame, Yuudachi, Akebono and Oboro in your fleet with one as flagship and score an S rank at the boss nodes on 4-2, 4-3 and 4-4"
   },
