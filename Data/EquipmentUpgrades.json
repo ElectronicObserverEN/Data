@@ -2562,6 +2562,28 @@
               }
             ],
             "consumable": []
+          },
+          "conv": {
+            "devmats": 15,
+            "devmats_sli": 25,
+            "screws": 6,
+            "screws_sli": 10,
+            "equips": [
+              {
+                "id": 55,
+                "eq_count": 3
+              }
+            ],
+            "consumable": [
+              {
+                "id": 77,
+                "eq_count": 1
+              },
+              {
+                "id": 70,
+                "eq_count": 1
+              }
+            ]
           }
         }
       }
@@ -5835,6 +5857,7 @@
       }
     ],
     "upgrade_for": [
+      22,
       201,
       202,
       205,
