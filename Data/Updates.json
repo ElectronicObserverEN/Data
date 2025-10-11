@@ -713,5 +713,16 @@
     "live_update": false,
     "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1969776098230804623",
     "maint_end_tweet": "https://fxtwitter.com/KanColle_STAFF/status/1971533077806792955"
+  },
+  {
+    "id": 76,
+    "start_date": "2025-10-16T00:00:00",
+    "start_time": "11:00:00",
+    "end_time": "1.19:30:00",
+    "name": "HTTPS maint",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "",
+    "maint_end_tweet": ""
   }
 ]
