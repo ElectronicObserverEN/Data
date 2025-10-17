@@ -1743,7 +1743,7 @@
           "p1": {
             "devmats": 3,
             "devmats_sli": 4,
-            "screws": 2,
+            "screws": 1,
             "screws_sli": 2,
             "equips": [
               {
@@ -1823,7 +1823,7 @@
           "p1": {
             "devmats": 3,
             "devmats_sli": 4,
-            "screws": 2,
+            "screws": 1,
             "screws_sli": 2,
             "equips": [
               {
@@ -2659,7 +2659,7 @@
           "steel": 0,
           "baux": 290,
           "p1": {
-            "devmats": 3,
+            "devmats": 2,
             "devmats_sli": 3,
             "screws": 1,
             "screws_sli": 2,
@@ -2675,7 +2675,7 @@
             "devmats": 3,
             "devmats_sli": 5,
             "screws": 2,
-            "screws_sli": 4,
+            "screws_sli": 3,
             "equips": [
               {
                 "id": 23,
@@ -8313,8 +8313,8 @@
           "p1": {
             "devmats": 6,
             "devmats_sli": 7,
-            "screws": 3,
-            "screws_sli": 4,
+            "screws": 2,
+            "screws_sli": 3,
             "equips": [
               {
                 "id": 16,
@@ -9247,7 +9247,7 @@
           "p1": {
             "devmats": 4,
             "devmats_sli": 5,
-            "screws": 3,
+            "screws": 2,
             "screws_sli": 3,
             "equips": [
               {
@@ -18876,7 +18876,7 @@
           "p1": {
             "devmats": 5,
             "devmats_sli": 6,
-            "screws": 2,
+            "screws": 1,
             "screws_sli": 3,
             "equips": [
               {
@@ -25575,10 +25575,10 @@
           "steel": 0,
           "baux": 300,
           "p1": {
-            "devmats": 4,
-            "devmats_sli": 5,
+            "devmats": 3,
+            "devmats_sli": 4,
             "screws": 2,
-            "screws_sli": 3,
+            "screws_sli": 2,
             "equips": [
               {
                 "id": 23,
@@ -25588,10 +25588,10 @@
             "consumable": []
           },
           "p2": {
-            "devmats": 5,
-            "devmats_sli": 6,
-            "screws": 3,
-            "screws_sli": 5,
+            "devmats": 3,
+            "devmats_sli": 5,
+            "screws": 2,
+            "screws_sli": 3,
             "equips": [
               {
                 "id": 23,
@@ -25678,8 +25678,8 @@
           "steel": 0,
           "baux": 330,
           "p1": {
-            "devmats": 5,
-            "devmats_sli": 6,
+            "devmats": 4,
+            "devmats_sli": 5,
             "screws": 3,
             "screws_sli": 3,
             "equips": [
@@ -25691,10 +25691,10 @@
             "consumable": []
           },
           "p2": {
-            "devmats": 6,
+            "devmats": 5,
             "devmats_sli": 7,
             "screws": 4,
-            "screws_sli": 6,
+            "screws_sli": 5,
             "equips": [
               {
                 "id": 26,
