@@ -767,7 +767,8 @@
     "id": 1959,
     "api_id": 117,
     "name_jp": "試製46cm連装砲",
-    "name_en": "Prototype 46cm Twin Gun"
+    "name_en": "Prototype 46cm Twin Gun",
+    "development": true
   },
   {
     "id": 1960,
@@ -2148,7 +2149,8 @@
     "id": 2186,
     "api_id": 346,
     "name_jp": "二式12cm迫撃砲改",
-    "name_en": "Type 2 12cm Mortar Kai"
+    "name_en": "Type 2 12cm Mortar Kai",
+    "development": true
   },
   {
     "id": 2187,
@@ -2874,7 +2876,8 @@
     "id": 2306,
     "api_id": 468,
     "name_jp": "38cm四連装砲改 deux",
-    "name_en": "38cm Quadruple Gun Mount Kai Deux"
+    "name_en": "38cm Quadruple Gun Mount Kai Deux",
+    "development": true
   },
   {
     "id": 2307,
