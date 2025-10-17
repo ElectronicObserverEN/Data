@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030597",
+  "version": "21030598",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4626,5 +4626,12 @@
     "name": "[Heavy Pumpkin Festival Expansion Quest] Will you Harvest a Big One?",
     "desc_jp": "「艦上爆撃機」「艦上攻撃機」「水上偵察機」各x12を廃棄、新型航空兵装資材x2、<br>「南瓜」x5、開発資材x80を準備せよ！(任務達成後、準備した必要資材等は消費します)",
     "desc": "Proceed to scrap 12x Dive Bombers, 12x Torpedo Bombers, 12x Seaplane Recons and have 2x New Model Aerial Armament Material, 5x Pumpkins and 80x Development Materials (All resources and Materials will be consumed upon completion)"
+  },
+  "1157": {
+    "code": "2510 F1",
+    "name_jp": "【重南瓜祭り拡張任務】対潜装備も整理整頓！",
+    "name": "[Heavy Pumpkin Festival Expansion Quest] Anti-submarine Equipment Also Organized!",
+    "desc_jp": "「九四式爆雷投射機」「三式爆雷投射機」「二式12cm迫撃砲改」各x6を廃棄、「南瓜」x2、<br>「12cm30連装噴進砲」x3、開発資材x30を準備せよ！(準備した装備・資材等は消費します)",
+    "desc": "Proceed to scrap 6x Type 94 Depth Charge Projectors, 6x Type 3 Depth Charge Projectors, 6x Type 2 12cm Mortar Kai and have 3x 12cm 30-tube Rocket Launcher, 2x Pumpkins and 30x Development Materials (All resources and Materials will be consumed upon completion)"
   }
 }
