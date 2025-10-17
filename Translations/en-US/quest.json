@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030598",
+  "version": "21030599",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4310,7 +4310,7 @@
     "name_jp": "【期間限定任務】Halloween、おかわり開始！",
     "name": "[Limited Time Quest] Halloween, Refills Begin!",
     "desc_jp": "「曙」「朧」「朝日」「瑞穂」「迅鯨」「長鯨」「Johnston」「Richard P.Leary」を旗艦含めて計4隻以上<br>配備の艦隊で、鎮守府正面海域及び製油所地帯沿岸を徹底的に哨戒！制海権を完っ璧に確保せよっ！",
-    "desc": "Organize a fleet with any four of Akebono, Oboro, Asahi, Mizuho, Jingei, Chougei, Johnston and Richard P. Leary in your fleet and score an S rank at the boss nodes on 1-1 and 1-3 four times each"
+    "desc": "Organize a fleet with four of Akebono, Oboro, Asahi, Mizuho, Jingei, Chougei, Johnston and Richard P. Leary in your fleet with one as flagship and score an S rank at the boss nodes on 1-1 and 1-3 four times each"
   },
   "1101": {
     "code": "F96",
