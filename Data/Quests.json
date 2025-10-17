@@ -10554,5 +10554,31 @@
     "removed_update_id": null,
     "season_id": 34,
     "tracker": "[[1038],[[0,[[1,1],6,4]],[0,[[1,3],6,4]]],[0,[[8,[[[15,false,0,0],[93,false,0,0],[953,false,0,0],[451,false,0,0],[634,false,0,0],[635,false,0,0],[562,false,0,0],[942,false,0,0]],4]],[0,[1,[[5,[15,1,0]],[5,[93,1,0]],[5,[953,1,0]],[5,[451,1,0]],[5,[634,1,0]],[5,[635,1,0]],[5,[562,1,0]],[5,[942,1,0]]]]]]]]"
+  },
+  {
+    "id": 827,
+    "api_id": 1039,
+    "code": "2510 Bw1",
+    "name_jp": "【期間限定任務】Halloween海上護衛隊出撃！",
+    "name_en": "[Limited Time Quest] Halloween Maritime Escort Squadron on the Move!",
+    "desc_jp": "「曙」「朝潮」「巻波」「浜波」「阿武隈」「鵜来」「稲木」「能美」または丁型海防艦、計4隻以上を含む<br>海上護衛隊で、鎮守府近海、南西諸島沖、南西諸島防衛線の制海権を確保せよ！ Trick or Treat！",
+    "desc_en": "Organize a fleet with four of Akebono, Asashio, Makinami, Hamanami, Abukuma, Ukuru, Inagi, Noumi, Kaiboukan No.4, Kaiboukan No.22 and Kaiboukan No.30 in your fleet and score an S rank at the boss nodes on 1-2, 1-4 and 1-5.",
+    "added_update_id": 76,
+    "removed_update_id": null,
+    "season_id": 34,
+    "tracker": "[[1039],[[0,[[1,2],6,1]],[0,[[1,4],6,1]],[0,[[1,5],6,1]]],[0,[[8,[[[15,false,0,0],[95,false,0,0],[671,false,0,0],[484,false,0,0],[114,false,0,0],[921,false,0,0],[922,false,0,0],[904,false,0,0],[637,false,0,0],[898,false,0,0],[638,false,0,0]],4]]]]]"
+  },
+  {
+    "id": 828,
+    "api_id": 1040,
+    "code": "2510 Bw2",
+    "name_jp": "【期間限定任務】Halloween狼隊、夜の襲撃！",
+    "name_en": "[Limited Time Quest] Halloween Wolf Squad Attacks at Night!",
+    "desc_jp": "「朧」「夕立」「野分」「早波」「熊野丸」「迅鯨改」「Tuscaloosa」を旗艦及び僚艦2隻、計3隻以上配備<br>した艦隊で、南西諸島近海・バシー海峡に遊弋する敵に反復襲撃！敵艦隊を完膚無きまで食い破れ！",
+    "desc_en": "Organize a fleet with three of Oboro, Yuudachi, Nowaki, Hayanami, Kumano Maru, Jingei Kai and Tuscaloosa in your fleet with one as flagship and score an S rank at the boss nodes on 2-1 and 2-2 twice each",
+    "added_update_id": 76,
+    "removed_update_id": null,
+    "season_id": 34,
+    "tracker": "[[1040],[[0,[[2,1],6,1]],[0,[[2,2],6,1]]],[0,[[8,[[[93,false,0,0],[45,false,0,0],[415,false,0,0],[528,false,0,0],[943,false,0,0],[639,false,1,0],[923,false,0,0]],3]],[0,[1,[[5,[93,1,0]],[5,[45,1,0]],[5,[415,1,0]],[5,[528,1,0]],[5,[943,1,0]],[5,[639,1,1]],[5,[923,1,0]]]]]]]]"
   }
 ]

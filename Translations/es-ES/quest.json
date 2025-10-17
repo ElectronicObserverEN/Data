@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030595",
+  "version": "21030596",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4311,6 +4311,20 @@
     "name": "[Limited Time Quest] Halloween, Refills Begin!",
     "desc_jp": "「曙」「朧」「朝日」「瑞穂」「迅鯨」「長鯨」「Johnston」「Richard P.Leary」を旗艦含めて計4隻以上<br>配備の艦隊で、鎮守府正面海域及び製油所地帯沿岸を徹底的に哨戒！制海権を完っ璧に確保せよっ！",
     "desc": "Organize a fleet with four of Akebono, Oboro, Asahi, Mizuho, Jingei, Chougei, Johnston and Richard P. Leary in your fleet with one as flagship and score an S rank at the boss nodes on 1-1 and 1-3 four times each"
+  },
+  "1039": {
+    "code": "2510 Bw1",
+    "name_jp": "【期間限定任務】Halloween海上護衛隊出撃！",
+    "name": "[Limited Time Quest] Halloween Maritime Escort Squadron on the Move!",
+    "desc_jp": "「曙」「朝潮」「巻波」「浜波」「阿武隈」「鵜来」「稲木」「能美」または丁型海防艦、計4隻以上を含む<br>海上護衛隊で、鎮守府近海、南西諸島沖、南西諸島防衛線の制海権を確保せよ！ Trick or Treat！",
+    "desc": "Organize a fleet with four of Akebono, Asashio, Makinami, Hamanami, Abukuma, Ukuru, Inagi, Noumi, Kaiboukan No.4, Kaiboukan No.22 and Kaiboukan No.30 in your fleet and score an S rank at the boss nodes on 1-2, 1-4 and 1-5."
+  },
+  "1040": {
+    "code": "2510 Bw2",
+    "name_jp": "【期間限定任務】Halloween狼隊、夜の襲撃！",
+    "name": "[Limited Time Quest] Halloween Wolf Squad Attacks at Night!",
+    "desc_jp": "「朧」「夕立」「野分」「早波」「熊野丸」「迅鯨改」「Tuscaloosa」を旗艦及び僚艦2隻、計3隻以上配備<br>した艦隊で、南西諸島近海・バシー海峡に遊弋する敵に反復襲撃！敵艦隊を完膚無きまで食い破れ！",
+    "desc": "Organize a fleet with three of Oboro, Yuudachi, Nowaki, Hayanami, Kumano Maru, Jingei Kai and Tuscaloosa in your fleet with one as flagship and score an S rank at the boss nodes on 2-1 and 2-2 twice each"
   },
   "1101": {
     "code": "F96",
