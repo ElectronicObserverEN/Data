@@ -5780,11 +5780,23 @@
             {
               "levels": [
                 9,
-                10
+                8
               ],
               "consumable": [
                 {
                   "id": 70,
+                  "eq_count": 1
+                }
+              ],
+              "equips": []
+            },
+            {
+              "levels": [
+                10
+              ],
+              "consumable": [
+                {
+                  "id": 77,
                   "eq_count": 1
                 }
               ],
@@ -8329,7 +8341,7 @@
             "devmats": 7,
             "devmats_sli": 9,
             "screws": 4,
-            "screws_sli": 6,
+            "screws_sli": 5,
             "equips": [
               {
                 "id": 25,
@@ -9263,7 +9275,7 @@
             "devmats": 5,
             "devmats_sli": 7,
             "screws": 3,
-            "screws_sli": 5,
+            "screws_sli": 4,
             "equips": [
               {
                 "id": 16,
