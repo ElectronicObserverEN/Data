@@ -25608,10 +25608,10 @@
             "consumable": []
           },
           "p2": {
-            "devmats": 3,
+            "devmats": 4,
             "devmats_sli": 5,
-            "screws": 2,
-            "screws_sli": 3,
+            "screws": 3,
+            "screws_sli": 4,
             "equips": [
               {
                 "id": 23,
