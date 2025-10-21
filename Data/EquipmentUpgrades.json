@@ -1756,8 +1756,8 @@
           "p2": {
             "devmats": 4,
             "devmats_sli": 7,
-            "screws": 3,
-            "screws_sli": 4,
+            "screws": 2,
+            "screws_sli": 3,
             "equips": [
               {
                 "id": 16,
@@ -1836,8 +1836,8 @@
           "p2": {
             "devmats": 4,
             "devmats_sli": 7,
-            "screws": 3,
-            "screws_sli": 4,
+            "screws": 2,
+            "screws_sli": 3,
             "equips": [
               {
                 "id": 16,
