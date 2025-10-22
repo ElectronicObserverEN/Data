@@ -724,5 +724,16 @@
     "live_update": false,
     "maint_start_tweet": "https://fxtwitter.com/KanColle_STAFF/status/1976872441613107360",
     "maint_end_tweet": ""
+  },
+  {
+    "id": 77,
+    "start_date": "2025-10-28T00:00:00",
+    "start_time": "11:00:00",
+    "end_time": "22:30:00",
+    "name": "Fall 2025 MO Start",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1980843279429300483",
+    "maint_end_tweet": ""
   }
 ]
