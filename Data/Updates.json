@@ -726,11 +726,11 @@
     "maint_end_tweet": ""
   },
   {
-    "id": 77,
+    "id": 79,
     "start_date": "2025-10-29T00:00:00",
     "start_time": "11:00:00",
     "end_time": "22:30:00",
-    "name": "Fall 2025 MO Start",
+    "name": "Fall 2025 Event MO Start",
     "description": "",
     "live_update": false,
     "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1980843279429300483",
