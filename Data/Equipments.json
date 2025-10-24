@@ -4347,5 +4347,11 @@
     "api_id": 560,
     "name_jp": "Bf109 T-3(G)",
     "name_en": "Bf109 T-3(G)"
+  },
+  {
+    "id": 2553,
+    "api_id": 562,
+    "name_jp": "Do 217 E-5+TV誘導型 Hs293D",
+    "name_en": "Do 217 E-5 + TV-guided Hs293D"
   }
 ]
