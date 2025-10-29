@@ -735,5 +735,16 @@
     "live_update": false,
     "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1980843279429300483",
     "maint_end_tweet": "https://x.com/KanColle_STAFF/status/1983623343573233964"
+  },
+  {
+    "id": 80,
+    "start_date": "2025-11-05T00:00:00",
+    "start_time": "14:00:00",
+    "end_time": "16:00:00",
+    "name": "Pumpkin 2025 End",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1983172945125224591",
+    "maint_end_tweet": ""
   }
 ]
