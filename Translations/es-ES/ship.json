@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030186",
+  "version": "21030187",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -617,7 +617,10 @@
     "巡潜乙型改一": "Junsen Tipo B Kai Ichi",
     "二等輸送艦": "2ª Clase Transporte",
     "La Galissonnière級": "Clase La Galissonnière ",
-    "Mogador級": "Clase Mogador "
+    "Mogador級": "Clase Mogador ",
+    "Norge級": "Norge Class",
+    "Courageous級": "Courageous Class",
+    "Glorious級": "Glorious Class"
   },
   "suffix": {
     "改": "Kai",

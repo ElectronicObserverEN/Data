@@ -14587,5 +14587,77 @@
     "ShipClassId": 1498,
     "ShipClassApiId": 38,
     "IsFriendly": true
+  },
+  {
+    "Id": 1817,
+    "NameEN": "Norge",
+    "NameJP": "Norge",
+    "ApiId": 998,
+    "ShipClassId": 1615,
+    "ShipClassApiId": 133,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1818,
+    "NameEN": "Norge Kai",
+    "NameJP": "Norge改",
+    "ApiId": 738,
+    "ShipClassId": 1615,
+    "ShipClassApiId": 133,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1819,
+    "NameEN": "Eidsvold",
+    "NameJP": "Eidsvold",
+    "ApiId": 999,
+    "ShipClassId": 1615,
+    "ShipClassApiId": 133,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1820,
+    "NameEN": "Eidsvold Kai",
+    "NameJP": "Eidsvold改",
+    "ApiId": 739,
+    "ShipClassId": 1615,
+    "ShipClassApiId": 133,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1821,
+    "NameEN": "Glorious",
+    "NameJP": "Glorious",
+    "ApiId": 1022,
+    "ShipClassId": 1616,
+    "ShipClassApiId": 134,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1822,
+    "NameEN": "Glorious",
+    "NameJP": "Glorious",
+    "ApiId": 1027,
+    "ShipClassId": 1617,
+    "ShipClassApiId": 135,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1823,
+    "NameEN": "Glorious Kai",
+    "NameJP": "Glorious改",
+    "ApiId": 740,
+    "ShipClassId": 1616,
+    "ShipClassApiId": 134,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1824,
+    "NameEN": "Glorious Kai",
+    "NameJP": "Glorious改",
+    "ApiId": 741,
+    "ShipClassId": 1617,
+    "ShipClassApiId": 135,
+    "IsFriendly": true
   }
 ]

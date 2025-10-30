@@ -784,5 +784,23 @@
     "ApiId": 128,
     "NameEnglish": "La Galissonnière Class",
     "NameJapanese": "La Galissonnière級"
+  },
+  {
+    "Id": 1615,
+    "ApiId": 133,
+    "NameEnglish": "Norge Class",
+    "NameJapanese": "Norge級"
+  },
+  {
+    "Id": 1616,
+    "ApiId": 134,
+    "NameEnglish": "Courageous Class",
+    "NameJapanese": "Courageous級"
+  },
+  {
+    "Id": 1617,
+    "ApiId": 135,
+    "NameEnglish": "Glorious Class",
+    "NameJapanese": "Glorious級"
   }
 ]

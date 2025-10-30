@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030193",
+  "version": "21030194",
   "ship": {
     "長門": "나가토",
     "陸奥": "무츠",
@@ -617,7 +617,10 @@
     "巡潜乙型改一": "순잠 을형 改1",
     "二等輸送艦": "이등수송함",
     "La Galissonnière級": "라 갈리소니에르급",
-    "Mogador級": "모가도르급"
+    "Mogador級": "모가도르급",
+    "Norge級": "Norge Class",
+    "Courageous級": "Courageous Class",
+    "Glorious級": "Glorious Class"
   },
   "suffix": {
     "改": "改",
