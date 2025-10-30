@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030295",
+  "version": "21030296",
   "equiptype": {
     "小口径主砲": "소구경주포",
     "中口径主砲": "중구경주포",
@@ -767,6 +767,11 @@
     "零式艦戦62型改(熟練/夜間爆戦)": "Type 0 Fighter Model 62 Kai (Skilled/Night Fighter-bomber)",
     "Ju87 D-4(Fliegerass)": "Ju87 D-4(Fliegerass)",
     "Bf109 T-3(G)": "Bf109 T-3(G)",
-    "Do 217 E-5+TV誘導型 Hs293D": "Do 217 E-5 + TV-guided Hs293D"
+    "Do 217 E-5+TV誘導型 Hs293D": "Do 217 E-5 + TV-guided Hs293D",
+    "Ho229": "Ho229",
+    "21cm単装主砲": "21cm Single Main Gun Mount",
+    "15cm単装副砲": "15cm Single Secondary Gun Mount",
+    "10.2cm三連装副砲": "10.2cm Triple Secondary Gun Mount",
+    "Sea Gladiator": "Sea Gladiator"
   }
 }

@@ -4353,5 +4353,35 @@
     "api_id": 562,
     "name_jp": "Do 217 E-5+TV誘導型 Hs293D",
     "name_en": "Do 217 E-5 + TV-guided Hs293D"
+  },
+  {
+    "id": 2554,
+    "api_id": 561,
+    "name_jp": "Ho229",
+    "name_en": "Ho229"
+  },
+  {
+    "id": 2555,
+    "api_id": 564,
+    "name_jp": "21cm単装主砲",
+    "name_en": "21cm Single Main Gun Mount"
+  },
+  {
+    "id": 2556,
+    "api_id": 565,
+    "name_jp": "15cm単装副砲",
+    "name_en": "15cm Single Secondary Gun Mount"
+  },
+  {
+    "id": 2557,
+    "api_id": 566,
+    "name_jp": "10.2cm三連装副砲",
+    "name_en": "10.2cm Triple Secondary Gun Mount"
+  },
+  {
+    "id": 2558,
+    "api_id": 567,
+    "name_jp": "Sea Gladiator",
+    "name_en": "Sea Gladiator"
   }
 ]
