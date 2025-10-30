@@ -49,5 +49,166 @@
       "Name": "イギリス機動部隊"
     }
   ],
-  "Phases": []
+  "Phases": [
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 E"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 D"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 I"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 N"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1-1"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 P"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 S"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1-2"
+    },
+    {
+      "LockGroups": [
+        2
+      ],
+      "Name": "E2-1"
+    },
+    {
+      "LockGroups": [
+        2
+      ],
+      "Name": "E2 J"
+    },
+    {
+      "LockGroups": [
+        2
+      ],
+      "Name": "E2 R"
+    },
+    {
+      "LockGroups": [
+        2
+      ],
+      "Name": "E2 E"
+    },
+    {
+      "LockGroups": [
+        3
+      ],
+      "Name": "E2 Q"
+    },
+    {
+      "LockGroups": [
+        3
+      ],
+      "Name": "E2-2"
+    },
+    {
+      "LockGroups": [
+        2
+      ],
+      "Name": "E2 S"
+    },
+    {
+      "LockGroups": [
+        3
+      ],
+      "Name": "E2-3"
+    },
+    {
+      "LockGroups": [
+        2,
+        3,
+        4
+      ],
+      "Name": "E3 A2"
+    },
+    {
+      "LockGroups": [
+        2,
+        3,
+        4
+      ],
+      "Name": "E3 C2"
+    },
+    {
+      "LockGroups": [
+        5
+      ],
+      "Name": "E3-1"
+    },
+    {
+      "LockGroups": [
+        5
+      ],
+      "Name": "E3 G2"
+    },
+    {
+      "LockGroups": [
+        2,
+        3,
+        4
+      ],
+      "Name": "E3-2"
+    },
+    {
+      "LockGroups": [
+        2,
+        3,
+        4
+      ],
+      "Name": "E3 P"
+    },
+    {
+      "LockGroups": [
+        2,
+        3,
+        4
+      ],
+      "Name": "E3 Q"
+    },
+    {
+      "LockGroups": [
+        5
+      ],
+      "Name": "E3 S"
+    },
+    {
+      "LockGroups": [
+        6
+      ],
+      "Name": "E3-3"
+    }
+  ]
 }
