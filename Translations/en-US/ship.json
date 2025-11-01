@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030188",
+  "version": "21030189",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -483,7 +483,12 @@
     "重巡新棲姫": "New Heavy Cruiser Princess",
     "杉": "Sugi",
     "しまね丸": "Shimane Maru",
-    "飛行場棲姫": "Occupied Airfield Princess"
+    "飛行場棲姫": "Occupied Airfield Princess",
+    "軽巡ム級": "Light Cruiser Mu-Class",
+    "フィヨルド棲姫": "Fjord Princesses",
+    "フィヨルド単騎": "Solitary Fjord Princess",
+    "深海上陸小鬼": "Abyssal Landing Imp",
+    "巡洋戦艦水姫": "Battlecruiser Water Princess"
   },
   "class": {
     "綾波型": "Ayanami Class",
