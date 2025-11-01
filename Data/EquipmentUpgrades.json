@@ -1769,10 +1769,10 @@
             "consumable": []
           },
           "conv": {
-            "devmats": 30,
-            "devmats_sli": 50,
-            "screws": 6,
-            "screws_sli": 10,
+            "devmats": 20,
+            "devmats_sli": 36,
+            "screws": 5,
+            "screws_sli": 8,
             "equips": [
               {
                 "id": 106,
