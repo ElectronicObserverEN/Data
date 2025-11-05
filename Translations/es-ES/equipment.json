@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030295",
+  "version": "21030296",
   "equiptype": {
     "小口径主砲": "Arma de Calibre Pequeño",
     "中口径主砲": "Arma de Calibre Mediano",
@@ -772,6 +772,9 @@
     "21cm単装主砲": "21cm Single Main Gun Mount",
     "15cm単装副砲": "15cm Single Secondary Gun Mount",
     "10.2cm三連装副砲": "10.2cm Triple Secondary Gun Mount",
-    "Sea Gladiator": "Sea Gladiator"
+    "Sea Gladiator": "Sea Gladiator",
+    "深海8.25inch単装主砲": "Abyssal 8.25inch Single Main Gun Mount",
+    "深海6inch副砲群": "Abyssal 6inch Secondary Gun Mount Battery",
+    "深海4inch三連装副砲": "Abyssal 4inch Triple Secondary Gun Mount"
   }
 }

@@ -4383,5 +4383,23 @@
     "api_id": 567,
     "name_jp": "Sea Gladiator",
     "name_en": "Sea Gladiator"
+  },
+  {
+    "id": 2559,
+    "api_id": 1655,
+    "name_jp": "深海8.25inch単装主砲",
+    "name_en": "Abyssal 8.25inch Single Main Gun Mount"
+  },
+  {
+    "id": 2560,
+    "api_id": 1656,
+    "name_jp": "深海6inch副砲群",
+    "name_en": "Abyssal 6inch Secondary Gun Mount Battery"
+  },
+  {
+    "id": 2561,
+    "api_id": 1657,
+    "name_jp": "深海4inch三連装副砲",
+    "name_en": "Abyssal 4inch Triple Secondary Gun Mount"
   }
 ]
