@@ -31821,11 +31821,16 @@
             "consumable": []
           },
           "p2": {
-            "devmats": 0,
-            "devmats_sli": 0,
-            "screws": 0,
-            "screws_sli": 0,
-            "equips": [],
+            "devmats": 4,
+            "devmats_sli": 5,
+            "screws": 1,
+            "screws_sli": 3,
+            "equips": [
+              {
+                "id": 4,
+                "eq_count": 3
+              }
+            ],
             "consumable": []
           }
         }
