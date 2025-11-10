@@ -10619,5 +10619,31 @@
     "removed_update_id": null,
     "season_id": 35,
     "tracker": "[[369],[[9,[5,4]]],[0,[[8,[[[93,false,0,0],[15,false,0,0],[94,false,0,0],[16,false,0,0],[421,false,0,0],[423,false,0,0],[995,false,0,0],[527,false,0,0],[452,false,0,0],[167,false,0,0],[74,false,0,0],[97,false,0,0],[145,false,1,0],[962,false,0,0],[931,false,0,0]],4]]]]]"
+  },
+  {
+    "id": 832,
+    "api_id": 1110,
+    "code": "2511 F1",
+    "name_jp": "秋刀魚祭り【拡張任務】秋刀魚で戦闘糧食！",
+    "name_en": "Saury Festival [Extra] Saury as Combat Rations!",
+    "desc_jp": "旗艦「野埼(南海)」またはケッコン済の「長波」を配備。「戦闘糧食」(★+6以上)を第1スロに装備。<br>「8cm高角砲」x4廃棄。水揚げ「秋刀魚」8尾、高速建造材x18、開発資材x18を準備せよ！",
+    "desc_en": "Have your secretary flagship Nosaki/Nankai or married Naganami equip a ★+6 Combat Ration in the first slot and then proceed to scrap 4x 8cm High-Angle Gun and have 8x Saury, 18x Flamethrower and 18x Development Material (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 81,
+    "removed_update_id": null,
+    "season_id": 35,
+    "tracker": ""
+  },
+  {
+    "id": 833,
+    "api_id": 868,
+    "code": "2511 B3",
+    "name_jp": "秋刀魚漁：秋月型の秋刀魚祭り、全力で参りますっ！",
+    "name_en": "Saury Fishing: We're giving it our all at the Akizuki-class Saury Festival!",
+    "desc_jp": "【秋刀魚漁】さぁ、今年の豊漁秋刀魚祭りもいよいよクライマックスです！司令、少しだけ大変ですが、<br>今季の「秋刀魚」を50尾、頑張って集めてしまいましょう！塩焼きと麦酒も最高です！お持ちしますねっ！",
+    "desc_en": "Have 50 Saury",
+    "added_update_id": 81,
+    "removed_update_id": null,
+    "season_id": 35,
+    "tracker": ""
   }
 ]
