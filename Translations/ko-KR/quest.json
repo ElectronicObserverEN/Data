@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030618",
+  "version": "21030619",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1764,6 +1764,13 @@
     "desc_jp": "駆逐隊演習：第十六駆逐隊「天津風」「雪風」「時津風」「初風」のうち2隻以上を含む演習艦隊を編成。<br>同演習艦隊で本日中に演習【S判定】勝利3回以上を達成せよ！\u3000いい風きてる？十六駆、演習開始！",
     "desc": "Organize a fleet with at least two members of Yukikaze, Tokitsukaze, Hatsukaze and Amatsukaze in your fleet and score S rank three times in PvP"
   },
+  "369": {
+    "code": "2511 C1",
+    "name_jp": "【鎮守府秋刀魚祭り】秋刀魚塩焼き演習！",
+    "name": "[Naval Base Saury Festival] Saury Salt-Grilling Exercise!",
+    "desc_jp": "第七駆逐隊各艦、「秋月」「初月」「大泊」「岸波」「沖波」「磯風」「祥鳳」「満潮」「時雨改二/改三」<br>「Mogador」「Ranger」のうち4隻以上を含む艦隊で、本日中に演習【A判定】以上を4回達成せよ！",
+    "desc": "Organize a fleet with four of Oboro, Akebono, Sazanami, Ushio, Akizuki, Hatsuzuki, Ootomari, Kishinami, Okinami, Isokaze, Shouhou, Michishio, Shigure Kai Ni / Kai San, Mogador and Ranger in your fleet and score A rank four times in PvP"
+  },
   "371": {
     "code": "Cy12",
     "name_jp": "春です！「春雨」、演習しますっ！",
@@ -3387,6 +3394,13 @@
     "name": "Night Aircraft Carrier, Attack the Frontlines!",
     "desc_jp": "出撃任務：「Saratoga Mk.II」を旗艦とした第一艦隊を KW環礁沖海域に展開、敵機動部隊を迎撃！<br>「空母機動部隊迎撃戦」を見事成功させよ！\u3000夜戦作戦空母、抜錨！\u3000前線に出撃せよ！",
     "desc": "Sortie Saratoga Mk.II as flagship to [W6-5]. S-rank the boss nodes."
+  },
+  "866": {
+    "code": "2511 B1",
+    "name_jp": "秋刀魚漁：鎮守府秋刀魚祭り、頑張ります！",
+    "name": "Saury Fishing: We'll do our best at the Naval Base Saury Festival!",
+    "desc_jp": "【秋刀魚漁】さぁ、長10cm砲ちゃん！今年の秋刀魚祭りは、この秋月と秋月型が張り切って応援して<br>参ります！司令、秋刀魚漁に協力して、新鮮な旬の「秋刀魚」を10尾獲得しましょう！探照灯もお忘れなく！",
+    "desc": "Have 10 saury"
   },
   "869": {
     "code": "B107",

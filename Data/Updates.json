@@ -746,5 +746,16 @@
     "live_update": false,
     "maint_start_tweet": "https://x.com/KanColle_STAFF/status/1983172945125224591",
     "maint_end_tweet": "https://fxtwitter.com/KanColle_STAFF/status/1985629066142367787 "
+  },
+  {
+    "id": 81,
+    "start_date": "2025-11-10T00:00:00",
+    "start_time": "00:00:00",
+    "end_time": null,
+    "name": "Fall 2025 E4 & Saury ",
+    "description": "",
+    "live_update": true,
+    "maint_start_tweet": "",
+    "maint_end_tweet": ""
   }
 ]

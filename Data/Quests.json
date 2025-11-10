@@ -10593,5 +10593,31 @@
     "removed_update_id": 80,
     "season_id": 34,
     "tracker": "[[1157],[[3,[44,6]],[3,[45,6]],[3,[346,6]]],[0,[]]]"
+  },
+  {
+    "id": 830,
+    "api_id": 866,
+    "code": "2511 B1",
+    "name_jp": "秋刀魚漁：鎮守府秋刀魚祭り、頑張ります！",
+    "name_en": "Saury Fishing: We'll do our best at the Naval Base Saury Festival!",
+    "desc_jp": "【秋刀魚漁】さぁ、長10cm砲ちゃん！今年の秋刀魚祭りは、この秋月と秋月型が張り切って応援して<br>参ります！司令、秋刀魚漁に協力して、新鮮な旬の「秋刀魚」を10尾獲得しましょう！探照灯もお忘れなく！",
+    "desc_en": "Have 10 saury",
+    "added_update_id": 81,
+    "removed_update_id": null,
+    "season_id": 35,
+    "tracker": ""
+  },
+  {
+    "id": 831,
+    "api_id": 369,
+    "code": "2511 C1",
+    "name_jp": "【鎮守府秋刀魚祭り】秋刀魚塩焼き演習！",
+    "name_en": "[Naval Base Saury Festival] Saury Salt-Grilling Exercise!",
+    "desc_jp": "第七駆逐隊各艦、「秋月」「初月」「大泊」「岸波」「沖波」「磯風」「祥鳳」「満潮」「時雨改二/改三」<br>「Mogador」「Ranger」のうち4隻以上を含む艦隊で、本日中に演習【A判定】以上を4回達成せよ！",
+    "desc_en": "Organize a fleet with four of Oboro, Akebono, Sazanami, Ushio, Akizuki, Hatsuzuki, Ootomari, Kishinami, Okinami, Isokaze, Shouhou, Michishio, Shigure Kai Ni / Kai San, Mogador and Ranger in your fleet and score A rank four times in PvP",
+    "added_update_id": 81,
+    "removed_update_id": null,
+    "season_id": 35,
+    "tracker": "[[369],[[9,[5,4]]],[0,[[8,[[[93,false,0,0],[15,false,0,0],[94,false,0,0],[16,false,0,0],[421,false,0,0],[423,false,0,0],[995,false,0,0],[527,false,0,0],[452,false,0,0],[167,false,0,0],[74,false,0,0],[97,false,0,0],[145,false,1,0],[962,false,0,0],[931,false,0,0]],4]]]]]"
   }
 ]
