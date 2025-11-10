@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030601",
+  "version": "21030602",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3401,6 +3401,13 @@
     "name": "Saury Fishing: We'll do our best at the Naval Base Saury Festival!",
     "desc_jp": "【秋刀魚漁】さぁ、長10cm砲ちゃん！今年の秋刀魚祭りは、この秋月と秋月型が張り切って応援して<br>参ります！司令、秋刀魚漁に協力して、新鮮な旬の「秋刀魚」を10尾獲得しましょう！探照灯もお忘れなく！",
     "desc": "Have 10 saury"
+  },
+  "867": {
+    "code": "2511 B2",
+    "name_jp": "秋刀魚漁：こんなに美味しいなんて！司令、最高です！",
+    "name": "Saury Fishing: It's so delicious! Commander, this is the best!",
+    "desc_jp": "【秋刀魚漁】照ちゃん、おかえりなさい！はい、秋月型姉妹、力をあわせて、美味しい秋刀魚、収穫です！<br>新鮮な「秋刀魚」を20尾獲得いたしましょう！秋月も大型改装を間近に控えますし……栄養つけなきゃ！",
+    "desc": "Have 20 Saury"
   },
   "868": {
     "code": "2511 B3",

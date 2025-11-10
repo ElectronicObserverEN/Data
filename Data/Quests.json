@@ -10645,5 +10645,18 @@
     "removed_update_id": null,
     "season_id": 35,
     "tracker": ""
+  },
+  {
+    "id": 834,
+    "api_id": 867,
+    "code": "2511 B2",
+    "name_jp": "秋刀魚漁：こんなに美味しいなんて！司令、最高です！",
+    "name_en": "Saury Fishing: It's so delicious! Commander, this is the best!",
+    "desc_jp": "【秋刀魚漁】照ちゃん、おかえりなさい！はい、秋月型姉妹、力をあわせて、美味しい秋刀魚、収穫です！<br>新鮮な「秋刀魚」を20尾獲得いたしましょう！秋月も大型改装を間近に控えますし……栄養つけなきゃ！",
+    "desc_en": "Have 20 Saury",
+    "added_update_id": 81,
+    "removed_update_id": null,
+    "season_id": 35,
+    "tracker": ""
   }
 ]
