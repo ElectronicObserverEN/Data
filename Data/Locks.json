@@ -273,6 +273,60 @@
         6
       ],
       "Name": "E3-3"
+    },
+    {
+      "LockGroups": [
+        2,
+        3,
+        4,
+        7
+      ],
+      "Name": "E4 B"
+    },
+    {
+      "LockGroups": [
+        2,
+        3,
+        4,
+        7
+      ],
+      "Name": "E4 E"
+    },
+    {
+      "LockGroups": [
+        2,
+        3,
+        4,
+        7
+      ],
+      "Name": "E4 G"
+    },
+    {
+      "LockGroups": [
+        2,
+        3,
+        4,
+        7
+      ],
+      "Name": "E4-1"
+    },
+    {
+      "LockGroups": [
+        8
+      ],
+      "Name": "E4-2"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E4-3"
+    },
+    {
+      "LockGroups": [
+        10
+      ],
+      "Name": "E4-4"
     }
   ]
 }
