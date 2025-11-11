@@ -802,5 +802,11 @@
     "ApiId": 135,
     "NameEnglish": "Glorious Class",
     "NameJapanese": "Glorious級"
+  },
+  {
+    "Id": 1618,
+    "ApiId": 136,
+    "NameEnglish": "Nosaki Class",
+    "NameJapanese": "野埼型"
   }
 ]

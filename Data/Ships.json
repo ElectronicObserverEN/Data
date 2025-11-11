@@ -14659,5 +14659,95 @@
     "ShipClassId": 1617,
     "ShipClassApiId": 135,
     "IsFriendly": true
+  },
+  {
+    "Id": 1825,
+    "NameEN": "Kashi",
+    "NameJP": "樫",
+    "ApiId": 993,
+    "ShipClassId": 1567,
+    "ShipClassApiId": 101,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1826,
+    "NameEN": "Kashi Kai",
+    "NameJP": "樫改",
+    "ApiId": 742,
+    "ShipClassId": 1567,
+    "ShipClassApiId": 101,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1827,
+    "NameEN": "Nankai",
+    "NameJP": "南海",
+    "ApiId": 988,
+    "ShipClassId": 1618,
+    "ShipClassApiId": 136,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1828,
+    "NameEN": "Nosaki",
+    "NameJP": "野埼",
+    "ApiId": 996,
+    "ShipClassId": 1618,
+    "ShipClassApiId": 136,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1829,
+    "NameEN": "Nosaki Kai",
+    "NameJP": "野埼改",
+    "ApiId": 1002,
+    "ShipClassId": 1618,
+    "ShipClassApiId": 136,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1830,
+    "NameEN": "Dace",
+    "NameJP": "Dace",
+    "ApiId": 985,
+    "ShipClassId": 1514,
+    "ShipClassApiId": 114,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1831,
+    "NameEN": "Dace Kai",
+    "NameJP": "Dace改",
+    "ApiId": 990,
+    "ShipClassId": 1514,
+    "ShipClassApiId": 114,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1832,
+    "NameEN": "Leonardo da Vinci",
+    "NameJP": "Leonardo da Vinci",
+    "ApiId": 1007,
+    "ShipClassId": 1514,
+    "ShipClassApiId": 114,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1833,
+    "NameEN": "Wasp",
+    "NameJP": "Wasp",
+    "ApiId": 1025,
+    "ShipClassId": 1537,
+    "ShipClassApiId": 84,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1834,
+    "NameEN": "Wasp Kai",
+    "NameJP": "Wasp改",
+    "ApiId": 1030,
+    "ShipClassId": 1537,
+    "ShipClassApiId": 84,
+    "IsFriendly": true
   }
 ]

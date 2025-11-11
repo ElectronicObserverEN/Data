@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030189",
+  "version": "21030190",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -488,7 +488,10 @@
     "フィヨルド棲姫": "Fjord Princesses",
     "フィヨルド単騎": "Solitary Fjord Princess",
     "深海上陸小鬼": "Abyssal Landing Imp",
-    "巡洋戦艦水姫": "Battlecruiser Water Princess"
+    "巡洋戦艦水姫": "Battlecruiser Water Princess",
+    "樫": "Kashi",
+    "野埼": "Nosaki",
+    "南海": "Nankai"
   },
   "class": {
     "綾波型": "Ayanami Class",
@@ -625,7 +628,8 @@
     "Mogador級": "Mogador Class",
     "Norge級": "Norge Class",
     "Courageous級": "Courageous Class",
-    "Glorious級": "Glorious Class"
+    "Glorious級": "Glorious Class",
+    "野埼型": "Nosaki Class"
   },
   "suffix": {
     "改": "Kai",

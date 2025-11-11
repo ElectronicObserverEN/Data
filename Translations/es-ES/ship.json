@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030188",
+  "version": "21030189",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -478,12 +478,17 @@
     "榧": "Kaya",
     "大泊": "Ootomari",
     "駆逐ラ級": "DD Classe-Ra",
-    "潜水鰆水鬼": "Demonio Acuático Submarino",
+    "潜水鰆水鬼": "Demonio Acuático Submarino tipo Arenque",
     "条約外巡洋艦水姫": "Fuera del Tratado Princesa Demonio Acuático Cruzero",
     "重巡新棲姫": "New Heavy Cruiser Princess",
     "杉": "Sugi",
     "しまね丸": "Shimane Maru",
-    "飛行場棲姫": "Occupied Airfield Princess"
+    "飛行場棲姫": "Occupied Airfield Princess",
+    "軽巡ム級": "Crucero Ligero Classe-Mu",
+    "フィヨルド棲姫": "Princesa del Fiordo",
+    "フィヨルド単騎": "Princesa del Fiorde Solitario",
+    "深海上陸小鬼": "Diablillo Abisal de Desembarque",
+    "巡洋戦艦水姫": "Princesa Crucero de Batalla"
   },
   "class": {
     "綾波型": "Clase Ayanami",
@@ -620,7 +625,8 @@
     "Mogador級": "Clase Mogador ",
     "Norge級": "Norge Class",
     "Courageous級": "Courageous Class",
-    "Glorious級": "Glorious Class"
+    "Glorious級": "Glorious Class",
+    "野埼型": "Nosaki Class"
   },
   "suffix": {
     "改": "Kai",
