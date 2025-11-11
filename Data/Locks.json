@@ -363,6 +363,104 @@
         12
       ],
       "Name": "E5-3"
+    },
+    {
+      "LockGroups": [
+        12
+      ],
+      "Name": "E5 X"
+    },
+    {
+      "LockGroups": [
+        12
+      ],
+      "Name": "E5 Z"
+    },
+    {
+      "LockGroups": [
+        13
+      ],
+      "Name": "E5 U"
+    },
+    {
+      "LockGroups": [
+        13
+      ],
+      "Name": "E5 P"
+    },
+    {
+      "LockGroups": [
+        12
+      ],
+      "Name": "E5-4"
+    },
+    {
+      "LockGroups": [
+        14
+      ],
+      "Name": "E5-4"
+    },
+    {
+      "LockGroups": [
+        13
+      ],
+      "Name": "E5 D"
+    },
+    {
+      "LockGroups": [
+        13
+      ],
+      "Name": "E5 U"
+    },
+    {
+      "LockGroups": [
+        13
+      ],
+      "Name": "E5 P"
+    },
+    {
+      "LockGroups": [
+        12
+      ],
+      "Name": "E5 X"
+    },
+    {
+      "LockGroups": [
+        12
+      ],
+      "Name": "E5 I"
+    },
+    {
+      "LockGroups": [
+        12
+      ],
+      "Name": "E5 Q"
+    },
+    {
+      "LockGroups": [
+        12,
+        14
+      ],
+      "Name": "E5 Y"
+    },
+    {
+      "LockGroups": [
+        12,
+        14
+      ],
+      "Name": "E5 Z"
+    },
+    {
+      "LockGroups": [
+        11
+      ],
+      "Name": "E5 B"
+    },
+    {
+      "LockGroups": [
+        11
+      ],
+      "Name": "E5 B1"
     }
   ]
 }
