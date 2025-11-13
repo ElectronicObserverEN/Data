@@ -461,6 +461,19 @@
         11
       ],
       "Name": "E5 B1"
+    },
+    {
+      "LockGroups": [
+        12,
+        14
+      ],
+      "Name": "E5 B2"
+    },
+    {
+      "LockGroups": [
+        13
+      ],
+      "Name": "E5 S"
     }
   ]
 }
