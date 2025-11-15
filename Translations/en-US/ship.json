@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030190",
+  "version": "21030191",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -491,7 +491,8 @@
     "巡洋戦艦水姫": "Battlecruiser Water Princess",
     "樫": "Kashi",
     "野埼": "Nosaki",
-    "南海": "Nankai"
+    "南海": "Nankai",
+    "深海空母蜂姫": "Abyssal Aircraft Carrier Wasp Princess"
   },
   "class": {
     "綾波型": "Ayanami Class",

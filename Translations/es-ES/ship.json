@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030189",
+  "version": "21030190",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -488,7 +488,10 @@
     "フィヨルド棲姫": "Princesa del Fiordo",
     "フィヨルド単騎": "Princesa del Fiorde Solitario",
     "深海上陸小鬼": "Diablillo Abisal de Desembarque",
-    "巡洋戦艦水姫": "Princesa Crucero de Batalla"
+    "巡洋戦艦水姫": "Princesa Crucero de Batalla",
+    "樫": "Kashi",
+    "野埼": "Nosaki",
+    "南海": "Nankai"
   },
   "class": {
     "綾波型": "Clase Ayanami",
