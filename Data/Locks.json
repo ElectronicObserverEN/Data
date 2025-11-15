@@ -404,12 +404,6 @@
       "LockGroups": [
         13
       ],
-      "Name": "E5 D"
-    },
-    {
-      "LockGroups": [
-        13
-      ],
       "Name": "E5 U"
     },
     {
@@ -423,12 +417,6 @@
         12
       ],
       "Name": "E5 X"
-    },
-    {
-      "LockGroups": [
-        12
-      ],
-      "Name": "E5 I"
     },
     {
       "LockGroups": [
@@ -458,12 +446,6 @@
     },
     {
       "LockGroups": [
-        11
-      ],
-      "Name": "E5 B1"
-    },
-    {
-      "LockGroups": [
         12,
         14
       ],
@@ -474,6 +456,12 @@
         13
       ],
       "Name": "E5 S"
+    },
+    {
+      "LockGroups": [
+        12
+      ],
+      "Name": "E5 E"
     }
   ]
 }

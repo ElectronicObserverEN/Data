@@ -1,4 +1,4 @@
-{
+﻿{
   "bld_date": "2025/11/15 16:00:00",
   "ver": "5.3.18",
   "note": "Check github for release notes: https://github.com/ElectronicObserverEN/ElectronicObserver/releases",
@@ -7,7 +7,7 @@
   "hash": "53A4EEF7A38F5C17D5ECB0CC37200A871034CFD1D8F442D40287B762D0CE7C61",
   "nodes": 20071525,
   "QuestTrackers": 357,
-  "Locks": 81,
+  "Locks": 82,
   "FitBonuses": 44,
   "EquipmentUpgrades": 571,
   "kancolle_mt": "2025/11/05 14:00:00",
