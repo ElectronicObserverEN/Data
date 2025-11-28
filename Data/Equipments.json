@@ -4401,5 +4401,11 @@
     "api_id": 1657,
     "name_jp": "深海4inch三連装副砲",
     "name_en": "Abyssal 4inch Triple Secondary Gun Mount"
+  },
+  {
+    "id": 2562,
+    "api_id": 568,
+    "name_jp": "強風改二(熟練)",
+    "name_en": "Kyoufuu Kai Ni (Skilled)"
   }
 ]
