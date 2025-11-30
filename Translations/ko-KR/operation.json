@@ -1,5 +1,5 @@
 ﻿{
-  "version": "20071541",
+  "version": "20071542",
   "map": {
     "南西諸島近海": "남서 제도 근해",
     "バシー海峡": "바시 해협",
@@ -1003,6 +1003,22 @@
     "深海潜水艦隊 南沙諸島哨戒集団": "深海潜水艦隊 南沙諸島哨戒集団",
     "深海太平洋方面部隊 亡霊ヒ船団": "深海太平洋方面部隊 亡霊ヒ船団",
     "深海南方方面艦隊 幻想輸送船団": "深海南方方面艦隊 幻想輸送船団",
-    "深海潜水艦隊 仏印沖哨戒集団": "深海潜水艦隊 仏印沖哨戒集団"
+    "深海潜水艦隊 仏印沖哨戒集団": "深海潜水艦隊 仏印沖哨戒集団",
+    "深海潜水艦隊 前衛偵察集団": "Abyssal submarine fleet, vanguard reconnaissance group",
+    "深海任務部隊 先遣偵察戦隊": "Abyssal task force Advanced Reconnaissance Squadron",
+    "深海任務部隊 高速水雷戦隊 I群": "Abyssal Task Force Fast Mine Squadron I",
+    "深海任務部隊 精鋭駆逐隊α隊": "Abyssal Task Force Elite Destroyer Squadron Alpha",
+    "深海潜水艦隊 関東沖哨戒集団": "Abyssal Submarine Fleet Kanto Patrol Group",
+    "深海任務部隊 北海道空襲任務群": "Abyssal Task Force Hokkaido Air Assault Task Group",
+    "深海任務部隊 精鋭駆逐隊β隊": "Abyssal Task Force Elite Destroyer Squadron Beta",
+    "深海任務部隊 精鋭駆逐隊γ隊": "Abyssal Task Force Elite Destroyer Squadron Gamma",
+    "深海潜水艦隊 日本海侵入集団": "Abyssal submarine fleet Japan Sea Intruder Group",
+    "深海任務部隊 敵地浸透支援戦隊": "Abyssal task force Enemy infiltration support squadron",
+    "深海任務部隊 高速水雷戦隊 II群": "Abyssal Task Force Fast Mine Squadron II",
+    "深海潜水艦隊 日本海侵入隊旗艦": "Abyssal Submarine Fleet Flagship of the Japanese Sea Invasion Force",
+    "深海潜水艦隊 三陸沖哨戒線 I群": "Abyssal submarine fleet Sanriku-oki patrol line I",
+    "深海任務部隊 機動部隊 別動隊": "Abyssal task force Mobilisation unit Separate squadron",
+    "深海任務部隊 主力水上打撃群": "Abyssal task force Main surface strike group",
+    "深海任務部隊 主力空母旗艦艦隊": "Abyssal Task Force Main Carrier Flagship Fleet"
   }
 }
