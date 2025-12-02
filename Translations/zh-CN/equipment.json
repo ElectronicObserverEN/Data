@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030296",
+  "version": "21030297",
   "equiptype": {
     "小口径主砲": "Small-caliber Gun",
     "中口径主砲": "Medium-caliber Gun",
@@ -775,6 +775,7 @@
     "Sea Gladiator": "Sea Gladiator",
     "深海8.25inch単装主砲": "Abyssal 8.25inch Single Main Gun Mount",
     "深海6inch副砲群": "Abyssal 6inch Secondary Gun Mount Battery",
-    "深海4inch三連装副砲": "Abyssal 4inch Triple Secondary Gun Mount"
+    "深海4inch三連装副砲": "Abyssal 4inch Triple Secondary Gun Mount",
+    "強風改二(熟練)": "Kyoufuu Kai Ni (Skilled)"
   }
 }
