@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030606",
+  "version": "21030607",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3956,18 +3956,18 @@
     "desc": "Organize a fleet with Oyashio Kai Ni and Kuroshio Kai Ni in the fleet and score an S rank in the boss nodes of 2-4, 5-4 and 7-2 (Part 2), twice each."
   },
   "962": {
-    "code": "962",
+    "code": "2512 B1",
     "name_jp": "【Xmas限定】Xmas 健康駆逐隊、抜錨です！",
-    "name": "【Xmas限定】Xmas 健康駆逐隊、抜錨です！",
+    "name": "【Xmas Limited】 The Xmas Wholesome Destroyer Squad, Weigh Anchor!",
     "desc_jp": "駆逐艦「萩風」「親潮」「霰」「朧」「漣」「潮」「曙」「夕雲」「早波」「浜波」「巻波」「岸波」<br>「狭霧」「Johnston」のうち4隻以上を含む艦隊で鎮守府正面海域、製油所地帯沿岸をXmas健康警備！",
-    "desc": "駆逐艦「萩風」「親潮」「霰」「朧」「漣」「潮」「曙」「夕雲」「早波」「浜波」「巻波」「岸波」<br>「狭霧」「Johnston」のうち4隻以上を含む艦隊で鎮守府正面海域、製油所地帯沿岸をXmas健康警備！"
+    "desc": "Organize a fleet with 4 of Hagikaze, Oyashio, Arare, Oboro, Sazanami, Ushio, Akebono, Yuugumo, Hayanami, Hamanami, Makinami, Kishinami, Sagiri and Johnston in your fleet and score an S rank at the boss nodes on 1-1 and 1-3 three times each"
   },
   "963": {
-    "code": "963",
+    "code": "2512 B2",
     "name_jp": "【Xmas限定】聖夜の特務艦隊、南西諸島へ！",
-    "name": "【Xmas限定】聖夜の特務艦隊、南西諸島へ！",
+    "name": "【Xmas limited】 Christmas Eve Special Fleet heads for the Nansei Islands!",
     "desc_jp": "旗艦及び同僚艦に「朝日」「明石」「宗谷」「神威」「大鯨」「速吸」「迅鯨」「長鯨」「平安丸」<br>「瑞穂」「熊野丸」「山汐丸」を含む艦隊で、Xmasの南西諸島沖、南西諸島近海を反復哨戒せよ！",
-    "desc": "旗艦及び同僚艦に「朝日」「明石」「宗谷」「神威」「大鯨」「速吸」「迅鯨」「長鯨」「平安丸」<br>「瑞穂」「熊野丸」「山汐丸」を含む艦隊で、Xmasの南西諸島沖、南西諸島近海を反復哨戒せよ！"
+    "desc": "Organize a fleet with 2 of Asahi, Akashi, Souya, Kamoi, Taigei, Hayasui, Jingei, Chougei, Heian Maru, Mizuho, Kumano Maru, Yamashio Maru in your fleet and score an S rank at the boss nodes on 1-2 and 2-1 twice each"
   },
   "966": {
     "code": "B175",
