@@ -14749,5 +14749,14 @@
     "ShipClassId": 1537,
     "ShipClassApiId": 84,
     "IsFriendly": true
+  },
+  {
+    "Id": 1835,
+    "NameEN": "Akizuki Kai Ni",
+    "NameJP": "秋月改二",
+    "ApiId": 963,
+    "ShipClassId": 1515,
+    "ShipClassApiId": 54,
+    "IsFriendly": true
   }
 ]
