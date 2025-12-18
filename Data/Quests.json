@@ -10671,5 +10671,44 @@
     "removed_update_id": 82,
     "season_id": 35,
     "tracker": ""
+  },
+  {
+    "id": 836,
+    "api_id": 962,
+    "code": "962",
+    "name_jp": "【Xmas限定】Xmas 健康駆逐隊、抜錨です！",
+    "name_en": "【Xmas限定】Xmas 健康駆逐隊、抜錨です！",
+    "desc_jp": "駆逐艦「萩風」「親潮」「霰」「朧」「漣」「潮」「曙」「夕雲」「早波」「浜波」「巻波」「岸波」<br>「狭霧」「Johnston」のうち4隻以上を含む艦隊で鎮守府正面海域、製油所地帯沿岸をXmas健康警備！",
+    "desc_en": "駆逐艦「萩風」「親潮」「霰」「朧」「漣」「潮」「曙」「夕雲」「早波」「浜波」「巻波」「岸波」<br>「狭霧」「Johnston」のうち4隻以上を含む艦隊で鎮守府正面海域、製油所地帯沿岸をXmas健康警備！",
+    "added_update_id": null,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": ""
+  },
+  {
+    "id": 837,
+    "api_id": 963,
+    "code": "963",
+    "name_jp": "【Xmas限定】聖夜の特務艦隊、南西諸島へ！",
+    "name_en": "【Xmas限定】聖夜の特務艦隊、南西諸島へ！",
+    "desc_jp": "旗艦及び同僚艦に「朝日」「明石」「宗谷」「神威」「大鯨」「速吸」「迅鯨」「長鯨」「平安丸」<br>「瑞穂」「熊野丸」「山汐丸」を含む艦隊で、Xmasの南西諸島沖、南西諸島近海を反復哨戒せよ！",
+    "desc_en": "旗艦及び同僚艦に「朝日」「明石」「宗谷」「神威」「大鯨」「速吸」「迅鯨」「長鯨」「平安丸」<br>「瑞穂」「熊野丸」「山汐丸」を含む艦隊で、Xmasの南西諸島沖、南西諸島近海を反復哨戒せよ！",
+    "added_update_id": null,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": ""
+  },
+  {
+    "id": 838,
+    "api_id": 1010,
+    "code": "B212",
+    "name_jp": "防空駆逐艦「秋月改二」、推参します！",
+    "name_en": "Air defense destroyer \"Akizuki Kai Ni\" is here!",
+    "desc_jp": "改秋月型精鋭駆逐艦「秋月改二」を旗艦とした艦隊で、南西諸島防衛線、沖ノ島海域、サーモン海域、<br>ブルネイ泊地沖、タウイタウイ泊地沖深部に展開、各海域の敵主力と交戦、これを撃滅せよ！",
+    "desc_en": "Organize a fleet with Akizuki Kai Ni as flagship and score an S rank at the boss nodes on 1-4, 2-4, 5-4, 7-1 and 7-2 (Part 2)",
+    "added_update_id": 82,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1010],[[0,[[1,4],6,1]],[0,[[2,4],6,1]],[0,[[5,4],6,1]],[0,[[7,1],6,1]],[2,[[7,2],6,1,[15],\"-2\"]]],[0,[[5,[963,1,1]]]]]"
   }
 ]
