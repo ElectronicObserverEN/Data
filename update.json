@@ -1,4 +1,4 @@
-﻿{
+{
   "bld_date": "2025/11/22 21:00:00",
   "ver": "5.3.20",
   "note": "Check github for release notes: https://github.com/ElectronicObserverEN/ElectronicObserver/releases",
@@ -10,10 +10,10 @@
   "Locks": 82,
   "FitBonuses": 44,
   "EquipmentUpgrades": 575,
-  "kancolle_mt": "2025/12/18 11:00:00",
-  "event_state": 0,
-  "MaintInfoLink": "https://x.com/KanColle_STAFF/status/2001230585734570464?s=20",
-  "MaintStart": "2025/12/18 11:00:00",
-  "MaintEnd": "2025/12/18 20:00:00",
-  "MaintEventState": 0
+  "kancolle_mt": "2025/12/27 11:00:00",
+  "event_state": 3,
+  "MaintInfoLink": "https://fixvx.com/KanColle_STAFF/status/2003493608704578038",
+  "MaintStart": "2025/12/27 11:00:00",
+  "MaintEnd": "2025/12/27 20:00:00",
+  "MaintEventState": 3
 }
