@@ -772,12 +772,12 @@
   {
     "id": 83,
     "start_date": "2025-12-27T00:00:00",
-    "start_time": "11:00:00",
-    "end_time": "20:00:00",
+    "start_time": "19:00:00",
+    "end_time": "20:45:00",
     "name": "Xmas 2025 End",
     "description": "",
     "live_update": false,
     "maint_start_tweet": "https://fixvx.com/KanColle_STAFF/status/2003493608704578038",
-    "maint_end_tweet": ""
+    "maint_end_tweet": "https://fxtwitter.com/KanColle_STAFF/status/2004447597965332808"
   }
 ]

@@ -10681,7 +10681,7 @@
     "desc_jp": "駆逐艦「萩風」「親潮」「霰」「朧」「漣」「潮」「曙」「夕雲」「早波」「浜波」「巻波」「岸波」<br>「狭霧」「Johnston」のうち4隻以上を含む艦隊で鎮守府正面海域、製油所地帯沿岸をXmas健康警備！",
     "desc_en": "Organize a fleet with 4 of Hagikaze, Oyashio, Arare, Oboro, Sazanami, Ushio, Akebono, Yuugumo, Hayanami, Hamanami, Makinami, Kishinami, Sagiri and Johnston in your fleet and score an S rank at the boss nodes on 1-1 and 1-3 three times each",
     "added_update_id": 82,
-    "removed_update_id": null,
+    "removed_update_id": 83,
     "season_id": 36,
     "tracker": "[[962],[[0,[[1,1],6,3]],[0,[[1,3],6,3]]],[0,[[8,[[[455,false,0,0],[456,false,0,0],[48,false,0,0],[93,false,0,0],[94,false,0,0],[16,false,0,0],[15,false,0,0],[133,false,0,0],[528,false,0,0],[671,false,0,0],[527,false,0,0],[484,false,0,0],[480,false,0,0],[562,false,0,0]],4]]]]]"
   },
@@ -10694,7 +10694,7 @@
     "desc_jp": "旗艦及び同僚艦に「朝日」「明石」「宗谷」「神威」「大鯨」「速吸」「迅鯨」「長鯨」「平安丸」<br>「瑞穂」「熊野丸」「山汐丸」を含む艦隊で、Xmasの南西諸島沖、南西諸島近海を反復哨戒せよ！",
     "desc_en": "Organize a fleet with 2 of Asahi, Akashi, Souya, Kamoi, Taigei, Hayasui, Jingei, Chougei, Heian Maru, Mizuho, Kumano Maru, Yamashio Maru in your fleet and score an S rank at the boss nodes on 1-2 and 2-1 twice each",
     "added_update_id": 82,
-    "removed_update_id": null,
+    "removed_update_id": 83,
     "season_id": 36,
     "tracker": "[[963],[[0,[[1,2],6,2]],[0,[[2,1],6,2]]],[0,[[8,[[[953,false,0,0],[182,false,0,0],[699,false,0,0],[162,false,0,0],[184,false,2,0],[460,false,0,0],[634,false,0,0],[635,false,0,0],[944,false,0,0],[943,false,0,0],[900,false,0,0],[451,false,0,0]],2]],[0,[1,[[5,[953,1,0]],[5,[182,1,0]],[5,[699,1,0]],[5,[162,1,0]],[5,[184,1,0]],[5,[460,1,0]],[5,[634,1,0]],[5,[635,1,0]],[5,[944,1,0]],[5,[943,1,0]],[5,[900,1,0]],[5,[451,1,0]]]]]]]]"
   },
@@ -10720,7 +10720,7 @@
     "desc_jp": "「衣笠」「鈴谷」「熊野」「大淀」「球磨」「鹿島」「矢矧改二/乙」「酒匂」「Sheffield」「Atlanta」<br>3隻以上を含む艦隊でバシー海峡、サブ島沖海域、サーモン海域北方を反復制圧せよ！",
     "desc_en": "Organize a fleet with 3 of Kinugasa, Suzuya, Kumano, Ooyodo, Kuma, Kashima, Yahagi Kai Ni/B, Sakawa, Sheffield and Atlanta in your fleet and score an S rank at the boss nodes on 2-2, 5-3 and 5-5 twice each",
     "added_update_id": 82,
-    "removed_update_id": null,
+    "removed_update_id": 83,
     "season_id": 36,
     "tracker": "[[965],[[0,[[2,2],6,2]],[0,[[5,3],6,2]],[0,[[5,5],6,2]]],[0,[[8,[[[123,false,0,0],[124,false,0,0],[125,false,0,0],[183,false,0,0],[99,false,0,0],[465,false,0,0],[663,false,1,0],[140,false,0,0],[514,false,0,0],[597,false,0,0]],3]]]]]"
   },
@@ -10733,7 +10733,7 @@
     "desc_jp": "旗艦及び同僚艦に「Warspite」「Valiant」「Nevada」「Littorio/Italia」「Jean Bart」を含む<br>艦隊で、東部オリョール海、沖ノ島海域、南方海域前面を反復撃滅せよ！",
     "desc_en": "Organize a fleet with 2 of Warspite, Valiant, Nevada, Littorio and Jean Bart in your fleet with one of them as flagship and score an S rank at the boss nodes on 2-3, 2-4 and 5-1 twice each",
     "added_update_id": 82,
-    "removed_update_id": null,
+    "removed_update_id": 83,
     "season_id": 36,
     "tracker": "[[964],[[0,[[2,3],6,2]],[0,[[2,4],6,2]],[0,[[5,1],6,2]]],[0,[[8,[[[439,false,0,0],[927,false,0,0],[924,false,0,0],[441,false,0,0],[935,false,0,0]],2]],[0,[1,[[5,[439,1,0]],[5,[927,1,0]],[5,[924,1,0]],[5,[441,1,0]],[5,[935,1,0]]]]]]]]"
   }
