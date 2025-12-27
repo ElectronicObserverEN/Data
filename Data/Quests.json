@@ -10762,5 +10762,18 @@
     "removed_update_id": null,
     "season_id": 37,
     "tracker": "[[1121],[[4,[1,11]],[4,[2,11]],[4,[10,11]]],[0,[]]]"
+  },
+  {
+    "id": 843,
+    "api_id": 1024,
+    "code": "2512 B5",
+    "name_jp": "【年末年始】出撃！海防戦艦、海上戦闘哨戒！",
+    "name_en": "[New Year Holiday Season] Set Sail! Coastal Defense Battleship, Maritime Combat Patrol!",
+    "desc_jp": "旗艦「Thonburi」の艦隊、または旗艦及び僚艦が海防戦艦の艦隊で、製油所地帯沿岸、南西諸島<br>防衛線、南西諸島近海、北方海域モーレイ海の哨戒を実施！年末年始の海上哨戒を実施せよ！",
+    "desc_en": "Organize a fleet with Thonburi as flagship or 2 Norge-class as flagship and second ship in your fleet and score an S rank at the boss nodes on 1-3, 1-4, 2-1 and 3-1",
+    "added_update_id": 83,
+    "removed_update_id": null,
+    "season_id": 37,
+    "tracker": "[[1024],[[0,[[1,3],6,1]],[0,[[1,4],6,1]],[0,[[2,1],6,1]],[0,[[3,1],6,1]]],[1,[[7,[973,true,0,0]],[0,[1,[[0,[0,[[5,[998,1,0]],[5,[999,2,0]]]]],[0,[0,[[5,[999,1,0]],[5,[998,2,0]]]]]]]]]]]"
   }
 ]
