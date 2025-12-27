@@ -202,5 +202,11 @@
     "name": "Xmas 2025",
     "added_update_id": 82,
     "removed_update_id": 83
+  },
+  {
+    "id": 37,
+    "name": "New Year 2026 Holiday ",
+    "added_update_id": 83,
+    "removed_update_id": null
   }
 ]

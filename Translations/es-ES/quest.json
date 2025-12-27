@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030615",
+  "version": "21030616",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1728,6 +1728,13 @@
     "name": "Frontline Aircraft Carrier [Houshou Kai Ni], Begin Exercises!",
     "desc_jp": "改装を完了した航空母艦「鳳翔改二」または同戦力投射母艦「鳳翔改二戦」を旗艦、そして<br>駆逐艦3隻以上を含む演習艦隊を編成！本日中に【S判定】勝利を5回以上達成せよ！",
     "desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and 3 DD in your fleet and score S rank 5 times in PvP"
+  },
+  "361": {
+    "code": "2512 C1",
+    "name_jp": "【年末年始】海上護衛部隊 特別演習！",
+    "name": "[New Year Holiday Season] Maritime Escort Force Special Exercise!",
+    "desc_jp": "【年末年始特別演習】第一艦隊旗艦第1及び第2スロに「応急修理要員」を装備。軽空母級1隻+駆逐艦<br>4隻以上または海防艦2隻以上を含む海上護衛演習を実施、本日中に【S判定】勝利を4回以上達成せよ！",
+    "desc": "Organize a fleet with 1 CVL + 4 DD or 2 DE in your fleet with the flagship equipped with 2 Emergency Repair Personnel in her 1st and 2nd slots and score S rank 4 times in PvP"
   },
   "362": {
     "code": "Cy10",
@@ -4395,6 +4402,13 @@
     "name": "[Model Consolidation] Mass Production Plan For New Fighter",
     "desc_jp": "「艦上戦闘機」「艦上爆撃機」「艦上攻撃機」各x4を廃棄、「零式艦戦21型」x3、「零式艦戦52型」x3<br>ボーキサイト1,800を準備せよ！(任務達成後、準備した装備・ボーキサイトは消費します)",
     "desc": "Have 3x Zero Fighter Model 21, 3x Zero Fighter Model 52 and 1800 bauxite. Proceed to scrap 4 carrier-based fighters, 4 dive bombers and 4 torpedo bombers (All resources and Materials will be consumed upon completion)"
+  },
+  "1121": {
+    "code": "2512 F1",
+    "name_jp": "【年末年始】鎮守府大掃除！良いお年を！",
+    "name": "[New Year Holiday Season] Naval Base Cleaning! Happy New Year!",
+    "desc_jp": "【年末年始鎮守府大掃除】「小口径主砲」「中口径主砲」「水上偵察機」x各11を廃棄。<br>「九六式艦戦」x8、「九四式爆雷投射機」x5、鋼材2,025を準備、提督の皆さん、よいお年を！",
+    "desc": "Proceed to scrap 11x Small Caliber Main Guns, 11x Medium Caliber Main Guns and 11x Reconnaissance Seaplanes and have 8x Type 96 Fighter, 5x Type 94 Depth Charge Projector and 2025x steel (All resources and Materials will be consumed upon completion)"
   },
   "1123": {
     "code": "Fy10",
