@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030617",
+  "version": "21030618",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4535,6 +4535,13 @@
     "name": "[Factory Quest] I-go Submarine Equipment Expansion",
     "desc_jp": "旗艦潜水艦第1スロに「零式水上偵察機」(★+4以上)。「零式水上偵察機」x8廃棄。魚雷装備x15<br>を廃棄。「九三式水中聴音機」x4、新型航空兵装資材x1、開発資材x60、新型兵装資材x1を準備せよ！",
     "desc": "Have a SSV as secretary flagship equip a ★+4 Type 0 Recon Seaplane in the first slot and then proceed to scrap 8x Type 0 Recon Seaplane and 15x Torpedoes and have 4x Type 93 Passive SONAR, 2x New Model Aerial Armament Materials, 1x New Model Armament Material and 60x Development Materials (All resources and Materials will be consumed upon completion)"
+  },
+  "1146": {
+    "code": "2512 F2",
+    "name_jp": "【年末年始】拡張大掃除&特別資源輸出-I",
+    "name": "[New Year Holiday Season] Expansion Cleanup & Special Resource Export - I",
+    "desc_jp": "【拡張大掃除及び1号特別資源輸出】「艦上爆撃機」「艦上攻撃機」x各8、「魚雷」装備x16廃棄。<br>「発煙装置(煙幕)」x5、「家具箱(小)」x25、弾薬2,025を準備！1号特別資源輸出を実施せよ！",
+    "desc": "Proceed to scrap 8x Carrier-based Dive Bombers, 8x Carrier-based Torpedo Bombers and 16x Torpedoes and have 5x Smoke Generator (Smoke Screen), 25x Furniture Box (Small) and 2025x ammo (All resources and Materials will be consumed upon completion)"
   },
   "1148": {
     "code": "F130",
