@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030622",
+  "version": "21030623",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4542,6 +4542,13 @@
     "name": "[New Year Holiday Season] Expansion Cleanup & Special Resource Export - I",
     "desc_jp": "【拡張大掃除及び1号特別資源輸出】「艦上爆撃機」「艦上攻撃機」x各8、「魚雷」装備x16廃棄。<br>「発煙装置(煙幕)」x5、「家具箱(小)」x25、弾薬2,025を準備！1号特別資源輸出を実施せよ！",
     "desc": "Proceed to scrap 8x Carrier-based Dive Bombers, 8x Carrier-based Torpedo Bombers and 16x Torpedoes and have 5x Smoke Generator (Smoke Screen), 25x Furniture Box (Small) and 2025x ammo (All resources and Materials will be consumed upon completion)"
+  },
+  "1147": {
+    "code": "2512 F3",
+    "name_jp": "【年末年始】拡張大掃除&特別資源輸出-II",
+    "name": "[New Year Holiday Season] Expansion Cleanup & Special Resource Export - II",
+    "desc_jp": "【拡張大掃除及び2号特別資源輸出】「大口径主砲」x8、「中口径主砲」x16、「水偵」x20を廃棄。<br>「13号対空電探」x8、「21号対空電探」x4、鋼材2,025を準備！2号特別資源輸出を拡大せよ！",
+    "desc": "Proceed to scrap 8x Large Caliber Main Guns, 16x Medium Caliber Main Guns and 20x Reconnaissance Seaplanes and have 8x Type 13 Air Radar, 4x Type 21 Air Radar and 2025x Steel (All resources and Materials will be consumed upon completion)"
   },
   "1148": {
     "code": "F130",
