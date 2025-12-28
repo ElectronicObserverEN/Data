@@ -14758,5 +14758,23 @@
     "ShipClassId": 1515,
     "ShipClassApiId": 54,
     "IsFriendly": true
+  },
+  {
+    "Id": 1836,
+    "NameEN": "Thonburi",
+    "NameJP": "Thonburi",
+    "ApiId": 973,
+    "ShipClassId": 1619,
+    "ShipClassApiId": 137,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1837,
+    "NameEN": "Thonburi Kai",
+    "NameJP": "Thonburi改",
+    "ApiId": 978,
+    "ShipClassId": 1619,
+    "ShipClassApiId": 137,
+    "IsFriendly": true
   }
 ]

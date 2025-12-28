@@ -808,5 +808,11 @@
     "ApiId": 136,
     "NameEnglish": "Nosaki Class",
     "NameJapanese": "野埼型"
+  },
+  {
+    "Id": 1619,
+    "ApiId": 137,
+    "NameEnglish": "Thonburi Class",
+    "NameJapanese": "Thonburi級"
   }
 ]
