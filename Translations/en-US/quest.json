@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030623",
+  "version": "21030624",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4247,7 +4247,7 @@
     "name_jp": "【年末年始】出撃！海防戦艦、海上戦闘哨戒！",
     "name": "[New Year Holiday Season] Set Sail! Coastal Defense Battleship, Maritime Combat Patrol!",
     "desc_jp": "旗艦「Thonburi」の艦隊、または旗艦及び僚艦が海防戦艦の艦隊で、製油所地帯沿岸、南西諸島<br>防衛線、南西諸島近海、北方海域モーレイ海の哨戒を実施！年末年始の海上哨戒を実施せよ！",
-    "desc": "Organize a fleet with Thonburi as flagship or 2 Norge-class as flagship and second ship in your fleet and score an S rank at the boss nodes on 1-3, 1-4, 2-1 and 3-1"
+    "desc": "Organize a fleet with Thonburi as flagship or 2 Norge-class in your fleet with one as flagship and score an S rank at the boss nodes on 1-3, 1-4, 2-1 and 3-1"
   },
   "1025": {
     "code": "B208",
