@@ -779,5 +779,16 @@
     "live_update": false,
     "maint_start_tweet": "https://fixvx.com/KanColle_STAFF/status/2003493608704578038",
     "maint_end_tweet": "https://fxtwitter.com/KanColle_STAFF/status/2004447597965332808"
+  },
+  {
+    "id": 84,
+    "start_date": "2026-01-01T00:00:00",
+    "start_time": "00:00:00",
+    "end_time": null,
+    "name": "New Year 2026",
+    "description": "",
+    "live_update": true,
+    "maint_start_tweet": "",
+    "maint_end_tweet": ""
   }
 ]

@@ -10801,5 +10801,18 @@
     "removed_update_id": null,
     "season_id": 37,
     "tracker": "[[1147],[[4,[2,16]],[4,[3,8]],[4,[10,20]]],[0,[]]]"
+  },
+  {
+    "id": 846,
+    "api_id": 801,
+    "code": "2601 B1",
+    "name_jp": "迎春新年！二〇二六年、艦隊抜錨せよ！",
+    "name_en": "Welcome the New Year! In 2026, the Fleet Sets Sail!",
+    "desc_jp": "旗艦に軽巡級、随伴艦に駆逐艦3隻または海防艦2隻以上を含む艦隊で抜錨！ 鎮守府正面海域、<br>南西諸島沖、製油所地帯沿岸、鎮守府近海を哨戒、二〇二六年正月鎮守府海域の安全を確保せよ！",
+    "desc_en": "Organize a fleet with a CL(T)/CT as flagship and 3 DD or 2 DE in your fleet and score an A rank at the boss nodes on 1-1, 1-2, 1-3 and 1-5",
+    "added_update_id": 84,
+    "removed_update_id": null,
+    "season_id": 38,
+    "tracker": "[[801],[[0,[[1,1],5,1]],[0,[[1,2],5,1]],[0,[[1,3],5,1]],[0,[[1,5],5,1]]],[0,[[2,[[3,21,4],1,true,0,0]],[0,[1,[[2,[[2],3,false,0,0]],[2,[[1],2,false,0,0]]]]]]]]"
   }
 ]
