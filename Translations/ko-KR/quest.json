@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030641",
+  "version": "21030642",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1820,6 +1820,13 @@
     "desc_jp": "【後期二駆演習】「早霜」「秋霜」「清霜」の1隻を旗艦、僚艦に「早霜」「秋霜」「清霜」「朝霜」2隻を<br>含む後期編成の夕雲型第二駆逐隊を含む艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！",
     "desc": "Organize a fleet with one of Hayashimo, Akishimo or Kiyoshimo as flagship with two of Asashimo, Hayashimo, Akishimo and Kiyoshimo in your fleet and score S rank 4 times in PvP"
   },
+  "378": {
+    "code": "2601 Cw1",
+    "name_jp": "新春限定！第六艦隊特別演習",
+    "name": "New Year Only! Sixth Fleet Special Exercise",
+    "desc_jp": "【第六艦隊新春特別演習】旗艦潜水母艦、潜水母艦及び潜水艦計3隻(潜水艦1隻以上含む)以上の<br>新春第六艦隊で、本日中に演習【A判定】勝利5回以上を達成せよ！第六艦隊新春演習、始めっ！",
+    "desc": "Organize a fleet with an AS as flagship, a SS(V) and another AS/SS(V) in your fleet and score A rank 5 times in PvP"
+  },
   "380": {
     "code": "2507 Cw1",
     "name_jp": "【期間限定任務】揚陸船団護衛演習",
@@ -3016,6 +3023,13 @@
     "name": "Happy New Year! In the Eighth Year of Reiwa, the Elite Cruiser Squadron Begins its Sortie!",
     "desc_jp": "精鋭巡洋艦3隻以上を旗艦を含む基幹戦力として駆逐艦1隻以上が随伴する艦隊で、南西諸島防衛線、<br>南西諸島近海、バシー海峡、東部オリョール海に出撃！各海域の敵艦隊を捕捉、これを撃滅せよ！",
     "desc": "Organize a fleet with 3 CA(V)/CL(T)/CT with one as flagship and a DD in your fleet and score an S rank at the boss nodes on 1-4, 2-1, 2-2 and 2-3"
+  },
+  "803": {
+    "code": "2601 B3",
+    "name_jp": "謹賀新年2026年！空母機動部隊、西へ！南北へ！",
+    "name": "Happy New Year 2026! Carrier Task Force, Head West! North and South!",
+    "desc_jp": "旗艦に航空母艦、駆逐艦2隻以上が随伴した空母機動部隊で西方海域ジャム島沖及びカレー洋海域、<br>南方海域珊瑚諸島沖、北方海域モーレイ海に展開！遭遇する敵艦隊を鎧袖一触、これを撃滅せよ！",
+    "desc": "Organize a fleet with 1 CV(B/L) as flagship and 2 DD in your fleet and score an S rank at the boss nodes on 3-1, 4-1, 4-2 and 5-2"
   },
   "805": {
     "code": "B58",
