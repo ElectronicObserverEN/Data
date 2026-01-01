@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030627",
+  "version": "21030628",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3030,6 +3030,13 @@
     "name": "Happy New Year 2026! Carrier Task Force, Head West! North and South!",
     "desc_jp": "旗艦に航空母艦、駆逐艦2隻以上が随伴した空母機動部隊で西方海域ジャム島沖及びカレー洋海域、<br>南方海域珊瑚諸島沖、北方海域モーレイ海に展開！遭遇する敵艦隊を鎧袖一触、これを撃滅せよ！",
     "desc": "Organize a fleet with 1 CV(B/L) as flagship and 2 DD in your fleet and score an S rank at the boss nodes on 3-1, 4-1, 4-2 and 5-2"
+  },
+  "804": {
+    "code": "2601 B4",
+    "name_jp": "新春【拡張作戦】精鋭日英米空母、新年協同作戦！",
+    "name": "New Year [Extra Operation] Elite Japanese, British, and American Aircraft Carriers, New Year's Joint Operation!",
+    "desc_jp": "「Ark Royal」「Victorious」「Intrepid」「Hornet」「蒼龍」「飛龍」「翔鶴」「瑞鶴」2隻以上含む艦隊<br>で、沖ノ島沖、サーモン海域北方、MS諸島沖、タウイタウイ泊地沖深部、カレー洋リランカ島沖を制圧せよ！",
+    "desc": "Organize a fleet with 2 of Ark Royal, Victorious, Intrepid, Hornet, Souryuu, Hiryuu, Shoukaku and Zuikaku in your fleet and score an S rank at the boss nodes on 2-5, 7-2 (Part 2), 4-5, 5-5 and 6-2"
   },
   "805": {
     "code": "B58",

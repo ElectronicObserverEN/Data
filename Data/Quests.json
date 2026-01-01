@@ -10853,5 +10853,18 @@
     "removed_update_id": null,
     "season_id": 38,
     "tracker": "[[378],[[9,[5,5]]],[0,[[2,[[20],1,true,0,0]],[2,[[20,14,13],3,false,0,0]],[2,[[14,13],1,false,0,0]]]]]"
+  },
+  {
+    "id": 850,
+    "api_id": 804,
+    "code": "2601 B4",
+    "name_jp": "新春【拡張作戦】精鋭日英米空母、新年協同作戦！",
+    "name_en": "New Year [Extra Operation] Elite Japanese, British, and American Aircraft Carriers, New Year's Joint Operation!",
+    "desc_jp": "「Ark Royal」「Victorious」「Intrepid」「Hornet」「蒼龍」「飛龍」「翔鶴」「瑞鶴」2隻以上含む艦隊<br>で、沖ノ島沖、サーモン海域北方、MS諸島沖、タウイタウイ泊地沖深部、カレー洋リランカ島沖を制圧せよ！",
+    "desc_en": "Organize a fleet with 2 of Ark Royal, Victorious, Intrepid, Hornet, Souryuu, Hiryuu, Shoukaku and Zuikaku in your fleet and score an S rank at the boss nodes on 2-5, 7-2 (Part 2), 4-5, 5-5 and 6-2",
+    "added_update_id": 84,
+    "removed_update_id": null,
+    "season_id": 38,
+    "tracker": "[[804],[[0,[[2,5],6,1]],[0,[[4,5],6,1]],[0,[[5,5],6,1]],[0,[[6,2],6,1]],[2,[[7,2],6,1,[15],\"-2\"]]],[0,[[8,[[[515,false,0,0],[885,false,0,0],[549,false,0,0],[603,false,0,0],[90,false,0,0],[91,false,0,0],[111,false,0,0],[110,false,0,0]],2]]]]]"
   }
 ]
