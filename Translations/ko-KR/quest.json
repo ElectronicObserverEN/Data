@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030644",
+  "version": "21030645",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1844,7 +1844,7 @@
   "401": {
     "code": "D1",
     "name_jp": "はじめての「遠征」！",
-    "name": "첫 번째 「원정」!",
+    "name": "첫 「원정」!",
     "desc_jp": "艦隊を「遠征」に出発させよう！",
     "desc": "함대를 「원정」에 출발시키자!"
   },
@@ -1972,931 +1972,931 @@
     "name_jp": "機動部隊の運用を強化せよ！",
     "name": "기동부대의 운용을 강화하라!",
     "desc_jp": "機動部隊遠征を実施、「MO作戦」及び「敵母港空襲作戦」を展開、これを成功させよ！",
-    "desc": "기동부대 원정을 실시, 「MO 작전」 및 「적 모항 공습 작전」을 전개하여 이를 성공시켜라!(26번, 35번 원정)"
+    "desc": "기동부대 원정을 실시, 「MO 작전」 및 「적 모항 공습 작전」을 전개하여 이를 성공시켜라!(26, 35번 원정)"
   },
   "422": {
     "code": "D20",
     "name_jp": "潜水艦派遣作戦による航空機技術入手",
     "name": "잠수함 파견 작전에 의한 항공기 기술 입수",
     "desc_jp": "潜水艦派遣作戦により、新型航空機技術の導入に努めよ！",
-    "desc": "잠수함 파견 작전을 통해 신형 항공기 기술 도입에 힘써라!(30번, 31번 원정)"
+    "desc": "잠수함 파견 작전을 통해 신형 항공기 기술 도입에 힘써라!(30, 31번 원정)"
   },
   "423": {
     "code": "D21",
     "name_jp": "潜水艦派遣作戦による噴式技術の入手",
-    "name": "Obtain Jet Engine Technology from Submarine Dispatch Operation",
+    "name": "잠수함 파견 작전에 의한 분식 기술의 입수",
     "desc_jp": "鉄鋼5,000及びボーキサイト1,500を準備して、潜水艦派遣作戦により<br>噴式エンジン技術の導入に努めよ！※任務達成後、準備した資源は消費します。",
-    "desc": "Have 5000 steel and 1500 bauxite while completing Expedition 30 and 31 again."
+    "desc": "강재 5,000 및 보크사이트 1,500을 준비하고, 잠수함 파견 작전을 통해 분식 엔진 기술 도입에 힘써라! ※임무 달성 후, 준비한 자원은 소비됩니다.(30, 31번 원정)"
   },
   "424": {
     "code": "Dm1",
     "name_jp": "輸送船団護衛を強化せよ！",
-    "name": "Reinforce the Transport Escort!",
+    "name": "수송 선단 호위를 강화하라!",
     "desc_jp": "遠征任務：「海上護衛任務」を反復実施し、輸送船団の護衛に務めよ！",
-    "desc": "Complete Expedition 5 four times."
+    "desc": "원정 임무: 「해상 호위 임무」를 반복 실시하여, 수송 선단의 호위에 힘써라!(5번 원정 4회)"
   },
   "425": {
     "code": "D23",
     "name_jp": "海上護衛総隊、遠征開始！",
-    "name": "Maritime Escort Squadron, Expedition Start!",
+    "name": "해상호위총대, 원정 개시!",
     "desc_jp": "遠征任務：遠征任務「対潜警戒任務」「海上護衛任務」「タンカー護衛任務」を実施、<br>軽巡、駆逐艦、海防艦などから編成された護衛艦隊で各遠征を成功させよ！",
-    "desc": "Complete expedition 4, 5 and 9."
+    "desc": "원정 임무: 원정 임무 「대잠 경계 임무」 「해상 호위 임무」 「탱커 호위 임무」를 실시, 경순양함, 구축함, 해방함 등으로 편성된 호위 함대로 각 원정을 성공시켜라!(4, 5, 9번 원정)."
   },
   "426": {
     "code": "Dq1",
     "name_jp": "海上通商航路の警戒を厳とせよ！",
-    "name": "Stay Alert on the Maritime Routes!",
+    "name": "해상 통상 항로의 경계를 엄중히 하라!",
     "desc_jp": "遠征任務：遠征任務「警備任務」「対潜警戒任務」「海上護衛任務」「強行偵察任務」<br>を実施し、敵の通商破壊部隊を制圧、海上通商航路の安全を確保せよ！",
-    "desc": "Complete expedition 3, 4, 5, and 10."
+    "desc": "원정 임무: 원정 임무 「경비 임무」 「대잠 경계 임무」 「해상 호위 임무」 「강행 정찰 임무」를 실시하여, 적의 통상 파괴 부대를 제압하고 해상 통상 항로의 안전을 확보하라!(3, 4, 5, 10번 원정)."
   },
   "427": {
     "code": "D25",
     "name_jp": "遠征「補給」支援体制を強化せよ！",
-    "name": "Reinforce the Expedition Supply Support System!",
+    "name": "원정 「보급」 지원 체제를 강화하라!",
     "desc_jp": "遠征補給支援体制の強化：鋼材800を用意し、遠征任務「兵站強化任務」を実施。<br>同遠征任務を成功させ、艦隊遠征時における「補給」支援体制の拡充に努めよ！",
-    "desc": "Have 800 steel and complete expedition A1."
+    "desc": "원정 보급 지원 체제의 강화: 강재 800을 준비하고, 원정 임무 「병참 강화 임무」를 실시. 동 원정 임무를 성공시켜, 함대 원정 시의 「보급」 지원 체제 확충에 힘써라!(A1번 원정)"
   },
   "428": {
     "code": "Dq2",
     "name_jp": "近海に侵入する敵潜を制圧せよ！",
-    "name": "Suppress the Enemy Submarines Invading Nearby!",
+    "name": "근해에 침입하는 적 잠수함을 제압하라!",
     "desc_jp": "敵潜制圧任務：遠征任務「対潜警戒任務」「海峡警備行動」「長時間対潜警戒」を<br>それぞれ複数回実施し、近海に潜り込む敵潜部隊を制圧、我が領海から叩き出せ！",
-    "desc": "Complete expedition 4, A2, and A3 two times."
+    "desc": "적 잠수함 제압 임무: 원정 임무 「대잠 경계 임무」 「해협 경비 행동」 「장시간 대잠 경계」를 각각 여러 번 실시하여, 근해에 숨어든 적 잠수함 부대를 제압하고 우리 영해에서 몰아내라!(4, A2, A3번 원정 각 2회)"
   },
   "429": {
     "code": "D27",
     "name_jp": "「捷一号作戦」、発動準備！",
-    "name": "Begin Preparations for Operation Sho 1!",
+    "name": "「첩 1호 작전」, 발동 준비!",
     "desc_jp": "捷一号作戦準備任務：遠征任務「警備任務」「兵站強化任務」及び「南西方面航空偵察作戦」<br>を実施。これを無事完遂し、南西方面での作戦準備にあたれ！",
-    "desc": "Complete Expedition 3, A1, and B1."
+    "desc": "첩 1호 작전 준비 임무: 원정 임무 「경비 임무」, 「병참 강화 임무」 및 「남서 방면 항공 정찰 작전」을 실시. 이를 무사히 완수하여, 남서 방면에서의 작전 준비에 임하라!(3, A1, B1번 원정)"
   },
   "430": {
     "code": "D28",
     "name_jp": "「海防艦」、進発せよ！",
-    "name": "Kaiboukan, Advance!",
+    "name": "「해방함」, 진발하라!",
     "desc_jp": "海上護衛任務：遠征任務「兵站強化任務」「海峡警備行動」「海上護衛任務」「タンカー護衛任務」<br>を海防艦、駆逐艦などを主軸とした護衛艦艇で実施せよ！",
-    "desc": "Complete Expeditions 5, 9, A1, and A2."
+    "desc": "해상 호위 임무: 원정 임무 「병참 강화 임무」, 「해협 경비 행동」, 「해상 호위 임무」, 「탱커 호위 임무」를 해방함, 구축함 등을 주축으로 한 호위 함정으로 실시하라!(5, 9, A1, A2번 원정)"
   },
   "431": {
     "code": "D29",
     "name_jp": "艦隊司令部の強化 【準備段階】",
-    "name": "Fleet Headquarters Improvements [Preparation Phase]",
+    "name": "함대 사령부의 강화 【준비 단계】",
     "desc_jp": "艦隊司令部強化の準備：遠征任務「敵地偵察作戦」「海峡警備行動」「南西方面航空偵察作戦」<br>「兵站強化任務」を海防艦や水雷戦隊、水上機母艦等を投入、同遠征任務群を成功させよ！",
-    "desc": "Complete Expeditions 17, A1, A2, and B1 once each."
+    "desc": "함대 사령부 강화 준비: 원정 임무 「적지 정찰 작전」, 「해협 경비 행동」, 「남서 방면 항공 정찰 작전」, 「병참 강화 임무」에 해방함이나 수뢰전대, 수상기모함 등을 투입하여, 해당 원정 임무군을 성공시켜라!(17, A1, A2, B1번 원정)"
   },
   "432": {
     "code": "D30",
     "name_jp": "警備及び哨戒偵察を強化せよ！",
-    "name": "Reinforce our Defenses as well as Scout Patrols!",
+    "name": "경비 및 초계 정찰을 강화하라!",
     "desc_jp": "警備哨戒任務：遠征「海峡警備行動」「強行偵察任務」「南西方面航空偵察作戦」を実施、<br>南方戦線遠征の前段作戦として、内地及び南西諸島方面の警備及び哨戒偵察を実施せよ！",
-    "desc": "Complete Expeditions 10, A2, and B1 once each."
+    "desc": "경비 초계 임무: 원정 「해협 경비 행동」, 「강행 정찰 임무」, 「남서 방면 항공 정찰 작전」을 실시, 남방 전선 원정의 전단계 작전으로서 내지 및 남서 제도 방면의 경비 및 초계 정찰을 실시하라!(10, A2, B1번 원정)"
   },
   "433": {
     "code": "D31",
     "name_jp": "南方戦線遠征を実施せよ！",
-    "name": "Carry Out Expeditions to the Southern Front!",
+    "name": "남방 전선 원정을 실시하라!",
     "desc_jp": "南方戦線遠征：南方海域の作戦を援護する南方作戦遠征作戦を実施する。南方海域遠征<br>「東京急行」「東京急行(弐)」「水上機基地建設」「水上機前線輸送」「MO作戦」を実施せよ！",
-    "desc": "Complete Expeditions 35, 36, 37, 38, and 40 once each."
+    "desc": "남방 전선 원정: 남방 해역의 작전을 원조하는 남방 작전 원정 작전을 실시한다. 남방 해역 원정 「도쿄 급행」, 「도쿄 급행(貳)」, 「수상기 기지 건설」, 「수상기 전선 수송」, 「MO 작전」을 실시하라!(36, 37, 38, 39, 40번 원정)"
   },
   "434": {
     "code": "Dy1",
     "name_jp": "特設護衛船団司令部、活動開始！",
-    "name": "Establishing the Special Escort Convoy Headquarters!",
+    "name": "특설 호위 선단 사령부, 활동 개시!",
     "desc_jp": "海上護衛任務：遠征任務「警備任務」「海上護衛任務」「兵站強化任務」「海峡警備行動」<br>「タンカー護衛任務」の各任務を、海防艦・駆逐艦などを主軸とした護衛艦艇で実施せよ！",
-    "desc": "Complete Expeditions 3, 5, 9, A1, and A2 once each."
+    "desc": "해상 호위 임무: 원정 임무 「경비 임무」 「해상 호위 임무」 「병참 강화 임무」 「해협 경비 행동」 「탱커 호위 임무」의 각 임무를, 해방함·구축함 등을 주축으로 한 호위 함정으로 실시하라!(3, 5, 9, A1, A2번 원정)"
   },
   "435": {
     "code": "20WiD1",
     "name_jp": "【桃の節句任務】桃の節句遠征！",
-    "name": "Peach Festival Expedition!",
+    "name": "【모모노셋쿠 임무】 모모노셋쿠 원정!",
     "desc_jp": "桃の節句任務：遠征任務「対潜警戒任務」「強行偵察任務」「包囲陸戦隊撤収作戦」<br>「南西方面航空偵察作戦」「長時間対潜警戒」の各遠征を実施、これを成功させよ！",
-    "desc": "Complete Expeditions 4, 10, 14, B1, and A3."
+    "desc": "모모노셋쿠 임무: 원정 임무 「대잠 경계 임무」 「강행 정찰 임무」 「포위 육전대 철수 작전」 「남서 방면 항공 정찰 작전」 「장시간 대잠 경계」의 각 원정을 실시하여, 이를 성공시켜라!(4, 10, 14, A3, B1번 원정)"
   },
   "436": {
     "code": "Dy2",
     "name_jp": "練習航海及び警備任務を実施せよ！",
-    "name": "Carry out a Training Voyage as well as Guard Duty!",
+    "name": "오가사와라 해역 초계선의 강화를 실시하라!",
     "desc_jp": "練習航海及び警備任務：「練習航海」「長距離練習航海」「警備任務」「対潜警戒任務」<br>「強行偵察任務」の各遠征任務を、軽巡・駆逐艦・海防艦などの艦艇で実施せよ！",
-    "desc": "Complete Expeditions 1, 2, 3, 4, and 10 once each."
+    "desc": "연습 항해 및 경비 임무: 「연습 항해」, 「장거리 연습 항해」, 「경비 임무」, 「대잠 경계 임무」, 「강행 정찰 임무」의 각 원정 임무를 경순양함·구축함·해방함 등의 함정으로 실시하라!(1, 2, 3, 4, 10번 원정)"
   },
   "437": {
     "code": "Dy3",
     "name_jp": "小笠原沖哨戒線の強化を実施せよ！",
-    "name": "Strengthen the Ogasawara Coastal Patrol Line!",
+    "name": "오가사와라 해역 초계선의 강화를 실시하라!",
     "desc_jp": "小笠原沖哨戒線任務：「対潜警戒任務」「小笠原沖哨戒線遠征」「小笠原沖戦闘哨戒」<br>「南西方面航空偵察作戦」の各遠征任務を軽巡・駆逐艦など実施、これを成功させよ！",
-    "desc": "Complete Expeditions 4, A5, A6, and B1 once each."
+    "desc": "오가사와라 해역 초계선 임무: 「대잠 경계 임무」, 「오가사와라 해역 초계선 원정」, 「오가사와라 해역 전투 초계」, 「남서 방면 항공 정찰 작전」의 각 원정 임무를 경순양함·구축함 등으로 실시하여, 이를 성공시켜라!(4, A5, A6, B1번 원정)"
   },
   "438": {
     "code": "Dy4",
     "name_jp": "南西諸島方面の海上護衛を強化せよ！",
-    "name": "Reinforce our maritime escorts in the Nansei Islands area!",
+    "name": "남서 제도 방면의 해상 호위를 강화하라!",
     "desc_jp": "海上護衛任務：「兵站強化任務」「対潜警戒任務」「タンカー護衛任務」及び<br>「南西諸島捜索撃滅戦」の各遠征任務を実施、これを成功させよ！",
-    "desc": "Complete Expeditions 4, 9, A1, and B5 once each."
+    "desc": "해상 호위 임무: 「병참 강화 임무」, 「대잠 경계 임무」, 「탱커 호위 임무」 및 「남서 제도 수색 격멸전」의 각 원정 임무를 실시하여, 이를 성공시켜라!(4, 9, A1, B5번 원정)"
   },
   "439": {
     "code": "Dy5",
     "name_jp": "兵站強化遠征任務【基本作戦】",
-    "name": "Military Buildup Expedition Mission: \"Basic Operation\"",
+    "name": "병참 강화 원정 임무【기본 작전】",
     "desc_jp": "兵站強化遠征任務：「海上護衛任務」「兵站強化任務」「ボーキサイト輸送任務」及び<br>「南西方面航空偵察作戦」の各遠征任務を実施、これを成功させよ！",
-    "desc": "Complete Expeditions 5, 11, A1 and B1 once each."
+    "desc": "병참 강화 원정 임무: 「해상 호위 임무」, 「병참 강화 임무」, 「보크사이트 수송 임무」 및 「남서 방면 항공 정찰 작전」의 각 원정 임무를 실시하여, 이를 성공시켜라!(5, 11, A1, B1번 원정)"
   },
   "440": {
     "code": "Dy6",
     "name_jp": "兵站強化遠征任務【拡張作戦】",
-    "name": "Military Buildup Expedition Mission: \"Extra Operation\"",
+    "name": "병참 강화 원정 임무【확장 작전】",
     "desc_jp": "兵站強化拡張任務：「ブルネイ泊地沖哨戒」「海上護衛任務」「水上機前線輸送」<br>及び「強行鼠輸送作戦」「南西海域戦闘哨戒」各遠征を実施、これを成功させよ！",
-    "desc": "Complete Expeditions 5, 40, 41, 46 and E2 once each."
+    "desc": "병참 강화 확장 임무: 「브루나이 정박지 오프쇼어 초계」, 「해상 호위 임무」, 「수상기 전선 수송」 및 「강행 쥐 수송 작전」, 「남서 해역 전투 초계」 각 원정을 실시하여, 이를 성공시켜라!(5, 40, 41, 46, E2번 원정)"
   },
   "442": {
     "code": "Dy7",
     "name_jp": "西方連絡作戦準備を実施せよ！",
-    "name": "Preparation for Western Contact Operation",
+    "name": "서방 연락 작전 준비를 실시하라!",
     "desc_jp": "西方連絡作戦準備：「西方海域偵察作戦」「潜水艦派遣演習」「潜水艦派遣作戦」<br>及び「欧州方面友軍との接触」各遠征を実施、これを成功させよ！",
-    "desc": "Complete Expeditions 29, 30, D1 and D3"
+    "desc": "서방 연락 작전 준비: 「서방 해역 정찰 작전」, 「잠수함 파견 연습」, 「잠수함 파견 작전」 및 「유럽 방면 우군과의 접촉」 각 원정을 실시하여, 이를 성공시켜라!(29, 30, D1, D3번 원정)"
   },
   "443": {
     "code": "D39",
     "name_jp": "西方連絡作戦による航空技術獲得",
-    "name": "Acquisition of aircraft technology by establishing contact with the West",
+    "name": "서방 연락 작전에 의한 항공 기술 획득",
     "desc_jp": "西方連絡作戦実施：欧州友軍の航空技術入手のため、複数の潜水艦による<br>「潜水艦派遣作戦」を複数回実施し、これらを見事成功させよ！",
-    "desc": "Complete Expeditions 30 multiple times"
+    "desc": "서방 연락 작전 실시: 유럽 우군의 항공 기술 입수를 위해, 복수의 잠수함에 의한 「잠수함 파견 작전」을 여러 번 실시하여, 이를 멋지게 성공시켜라!(30번 원정 2회)"
   },
   "444": {
     "code": "Dy8",
     "name_jp": "新兵装開発資材輸送を船団護衛せよ！",
-    "name": "Escort the convoy to transport new weapons development materials!",
+    "name": "신병장 개발 자재 수송을 선단 호위하라!",
     "desc_jp": "新兵装開発資材輸送護衛：「海上護衛任務」「資源輸送任務」「タンカー護衛任務」<br>「南西方面航空偵察作戦」「ボーキサイト輸送任務」遠征を実施、これを成功させよ！",
-    "desc": "Complete expeditions 5, 9, 11, 12 and B1."
+    "desc": "신병장 개발 자재 수송 호위: 「해상 호위 임무」, 「자원 수송 임무」, 「탱커 호위 임무」, 「남서 방면 항공 정찰 작전」, 「보크사이트 수송 임무」 원정을 실시하여, 이를 성공시켜라!(5, 9, 11, 12, B1번 원정)"
   },
   "445": {
     "code": "D41",
     "name_jp": "航空基地を整備拡張せよ！",
-    "name": "Development and Expansion of your Air Base!",
+    "name": "항공 기지를 정비 확장하라!",
     "desc_jp": "航空基地整備：「海上護衛任務」「兵站強化任務」「タンカー護衛任務」「航空機輸送<br>作戦」「水上機基地建設」「水上機前線輸送」「ボーキサイト船団護衛」を実施せよ！",
-    "desc": "Complete expeditions 5, A1, 9, 18, 36, 40, and 45."
+    "desc": "항공 기지 정비: 「해상 호위 임무」, 「병참 강화 임무」, 「탱커 호위 임무」, 「항공기 수송 작전」, 「수상기 기지 건설」, 「수상기 전선 수송」, 「보크사이트 선단 호위」를 실시하라!(5, 9, 18, 36, 40, 45, A1번 원정)"
   },
   "446": {
     "code": "D42",
     "name_jp": "【作戦準備】第一段階任務(対潜整備)",
-    "name": "'Operation Preperation' First Stage Mission (Anti-Submarine Maintenance)",
+    "name": "【작전 준비】 제1단계 임무 (대잠 정비)",
     "desc_jp": "作戦準備(第一段階任務)：「警備任務」「対潜警戒任務」「海上護衛任務」「海峡警備<br>行動」及び「兵站強化任務」各遠征を実施、これをそれぞれ1回以上成功させよ！",
-    "desc": "Complete Expedition 3,4,5,A1 and A2"
+    "desc": "작전 준비(제1단계 임무): 「경비 임무」, 「대잠 경계 임무」, 「해상 호위 임무」, 「해협 경비 행동」 및 「병참 강화 임무」 각 원정을 실시하여, 이를 각각 1회 이상 성공시켜라!(3, 4, 5, A1, A2번 원정)"
   },
   "447": {
     "code": "D43",
     "name_jp": "海上輸送航路の護衛強化",
-    "name": "Strengthening escort for the maritime transport routes",
+    "name": "해상 수송 항로의 호위 강화",
     "desc_jp": "海上輸送航路の護衛強化：「対潜警戒任務」「海上護衛任務」「タンカー護衛任務」<br>「兵站強化任務」「南西方面航空偵察作戦」遠征を実施、各１回以上成功させよ！",
-    "desc": "Complete Expedition 4,5,9,A1 and B1 once each"
+    "desc": "해상 수송 항로의 호위 강화: 「대잠 경계 임무」, 「해상 호위 임무」, 「탱커 호위 임무」, 「병참 강화 임무」, 「남서 방면 항공 정찰 작전」 원정을 실시하여, 각각 1회 이상 성공시켜라!(4, 5, 9, A1, B1번 원정)"
   },
   "501": {
     "code": "E1",
     "name_jp": "はじめての「補給」！",
-    "name": "First Supply",
+    "name": "첫 「보급」!",
     "desc_jp": "補給は大事です！燃料・弾薬を艦に「補給」しよう！",
-    "desc": "Resupply a ship."
+    "desc": "보급은 중요합니다! 연료·탄약을 함선에 「보급」하자!"
   },
   "502": {
     "code": "E2",
     "name_jp": "はじめての「入渠」！",
-    "name": "First Docking",
+    "name": "첫 「입거」!",
     "desc_jp": "戦闘で傷ついた艦を「入渠」させて修理して、次の出撃に備えよう！",
-    "desc": "Repair a ship."
+    "desc": "전투로 상처 입은 함선을 「입거」시켜 수리하고, 다음 출격에 대비하자!"
   },
   "503": {
     "code": "Ed1",
     "name_jp": "艦隊大整備！",
-    "name": "Daily Repairs",
+    "name": "함대 대정비!",
     "desc_jp": "各艦隊から整備が必要な艦を5隻以上ドック入りさせ、大規模な整備をしよう！",
-    "desc": "Repair 5 ships."
+    "desc": "각 함대에서 정비가 필요한 함선을 5척 이상 도크에 넣어, 대규모 정비를 하자!"
   },
   "504": {
     "code": "Ed2",
     "name_jp": "艦隊酒保祭り！",
-    "name": "Daily Resupplies",
+    "name": "함대 주보 축제!",
     "desc_jp": "艦隊酒保祭り！各艦に延べ15回以上の補給を実施しよう！",
-    "desc": "Resupply your ships 15 times."
+    "desc": "함대 주보 축제! 각 함선에 합계 15회 이상의 보급을 실시하자!"
   },
   "505": {
     "code": "Su01",
     "name_jp": "主計科任務【おにぎりを作る！】",
-    "name": "Accounting Department Mission: Time to Make Onigiri!",
+    "name": "주계과 임무【주먹밥을 만들자!】",
     "desc_jp": "主計科任務：回収した「お米」炊いて、「おにぎり」を作ろう。<br>海の上で食う握り飯は……美味いぞ！",
-    "desc": "Collect 5 Rice and make an Onigiri."
+    "desc": "주계과 임무: 회수한 「쌀」을 지어서, 「주먹밥」을 만들자. 바다 위에서 먹는 주먹밥은…… 맛있다구!"
   },
   "506": {
     "code": "Su02",
     "name_jp": "主計科任務【おにぎりを振舞おう！】",
-    "name": "Accounting Department Mission: Treat Everyone to Some Onigiri!",
+    "name": "주계과 임무【주먹밥을 대접하자!】",
     "desc_jp": "主計科任務：「お米」一杯炊いて、「おにぎり」を新たに3回作るかも。<br>工廠の皆に差し入れで振舞いたいかも！\u3000※任務達成後、作った戦闘糧食は消費します。",
-    "desc": "Collect 15 Rice and make 3 Onigiri."
+    "desc": "주계과 임무: 「쌀」을 잔뜩 지어서, 「주먹밥」을 새롭게 3회 만들지도. 공창의 모두에게 간식으로 대접하고 싶을지도! ※임무 달성 후, 제작한 전투 식량은 소비됩니다."
   },
   "507": {
     "code": "Su03",
     "name_jp": "主計科任務【高級おにぎりを作る！】",
-    "name": "Accounting Department Mission: Time to Make High-Class Onigiri!",
+    "name": "주계과 임무【고급 주먹밥을 만들자!】",
     "desc_jp": "主計科任務：美味しい「お米」と「梅干」と「海苔」で、「高級おにぎり」を作りましょう。<br>いい食材で、丁寧に作った握り飯は……美味しい！提督、美味しいです！",
-    "desc": "Collect 6 Rice, 2 Umeboshi and 3 Nori to make a High-Class Onigiri."
+    "desc": "주계과 임무: 맛있는 「쌀」과 「매실짱아찌」 그리고 「김」으로, 「고급 주먹밥」을 만듭시다. 좋은 식재료로 정성껏 만든 주먹밥은…… 맛있어요! 제독, 맛있습니다!"
   },
   "508": {
     "code": "Su04",
     "name_jp": "主計科任務【差し入れ！高級おにぎり】",
-    "name": "Accounting Department Mission: Supplies Incoming! High-Class Rice Balls",
+    "name": "주계과 임무【간식 전달! 고급 주먹밥】",
     "desc_jp": "主計科任務：そうだ、提督、いいこと考えました！この美味しい「高級おにぎり」を一杯作って<br>空技廠の皆さんに差し入れしましょう！ね、加賀さん！(※高級おにぎりを後2回作りましょう)",
-    "desc": "Collect 12 Rice, 4 Umeboshi, and 6 Nori. Then make 2 High-Class Onigiri."
+    "desc": "주계과 임무: 맞다, 제독, 좋은 생각이 났어요! 이 맛있는 「고급 주먹밥」을 잔뜩 만들어서 항공기술창(공기창) 분들에게 간식으로 전달해요! 그쵸, 카가 씨! (※고급 주먹밥을 앞으로 2회 더 만듭시다)"
   },
   "509": {
     "code": "Su05",
     "name_jp": "主計科任務【お茶漬けを作る！】",
-    "name": "Accounting Department Mission: Time to Make Ochazuke!",
+    "name": "주계과 임무【오차즈케를 만들자!】",
     "desc_jp": "主計科任務：「お米」と「梅干」と「海苔」、そして良い「お茶」で、「お茶漬け」を作りましょう。<br>さらさら～っと食べれるお茶漬けは、夜食にも、飲みの後の〆の一杯としても最高ですね！",
-    "desc": "Collect 8 Rice, 3 Umeboshi, 3 Nori, 4 Tea, and make Ochazuke."
+    "desc": "주계과 임무: 「쌀」과 「매실짱아찌」와 「김」, 그리고 좋은 「차」로 「오차즈케」를 만듭시다. 후루룩 먹을 수 있는 오차즈케는 야식으로도, 술을 마신 뒤의 마무리 한 그릇으로도 최고네요!"
   },
   "510": {
     "code": "Su06",
     "name_jp": "主計科任務\u3000【お茶漬け、夜食にどうぞ！】",
-    "name": "Accounting Department Mission: Here, Have Some Ochazuke for Supper!",
+    "name": "주계과 임무 【오차즈케, 야식으로 드세요!】",
     "desc_jp": "",
-    "desc": "Collect 16 Rice, 6 Umeboshi, 6 Nori, 8 Tea, and make 2 Ochazuke."
+    "desc": "주계과 임무: 언제나 신세 지고 있는 오요... 임무 아가씨나, 아... 아이템 가게 아가씨에게, 가끔은 야식으로 맛있는 오차즈케를 대접해요! 그렇게 해요! (오차즈케를 2회 더 만들게요, 그쵸?)"
   },
   "511": {
     "code": "Su07",
     "name_jp": "主計科任務\u3000【海苔巻きを作ろう！】",
-    "name": "Accounting Department Mission: Let's Make Nori Rolls!",
+    "name": "주계과 임무 【김밥을 만들자!】",
     "desc_jp": "",
-    "desc": "Collect 12 Rice and 6 Nori."
+    "desc": "주계과 임무: 「꽁치 통조림」 비축분 같은 건 없다구! ……괜찮아! 항공 도시락용으로 김밥 재료인 「쌀」×12와 「김」×6을 모으면, 항공 도시락용으로 주계과가 「꽁치 통조림」과 교환해 줍니다!"
   },
   "512": {
     "code": "Su08",
     "name_jp": "主計科任務\u3000【和定食膳を作って完食！】",
-    "name": "Accounting Department Mission: Make a Japanese Set Meal and Eat Up!",
+    "name": "주계과 임무 【화정식 상을 차려서 완식!】",
     "desc_jp": "",
-    "desc": "Collect 26 Rice, 5 Umeboshi, 6 Nori, and 7 Tea. Then make 1 Japanese Meal Set and 3 Onigiri."
+    "desc": "주계과 임무: 드디어 주계과 임무도 클라이맥스입니다. 식재료를 총동원해서 「화정식 상」을 차립시다! 맛있지만 양이 부족해…라는 아이들을 위해서 「주먹밥」도 추가로 3개 더 만들죠! 완식입니다!"
   },
   "513": {
     "code": "Su09",
     "name_jp": "主計科拡張任務\u3000【日の丸弁当、量産！】",
-    "name": "Accounting Department Extra Mission: Rising Sun Lunch Boxes for Everyone!",
+    "name": "주계과 확장 임무 【히노마루 도시락, 양산!】",
     "desc_jp": "",
-    "desc": ""
+    "desc": "대량의 맛있는 「쌀」, 그리고 「매실짱아찌」를 사용해서 맛있는 히노마루 도시락을 양산, 아카시 씨의 공창에 간식으로 대접합시다! 「차」도 우려내는 거예요! 비서 구축함의 제1슬롯에 대공 분진포, 2식 폭뢰도 장비…인 거예요!"
   },
   "601": {
     "code": "F1",
     "name_jp": "はじめての「建造」！",
-    "name": "First Construction",
+    "name": "첫 「건조」!",
     "desc_jp": "「工廠」で鋼材などの資材を使って新しい艦を「建造」しよう！",
-    "desc": "Craft a ship."
+    "desc": "「공창」에서 강재 등의 자원을 사용하여 새로운 함선을 「건조」하자!"
   },
   "602": {
     "code": "F2",
     "name_jp": "はじめての「開発」！",
-    "name": "First Development",
+    "name": "첫 「개발」!",
     "desc_jp": "「工廠」でボーキサイトなどの資材を使って新しい装備アイテムを「開発」しよう！",
-    "desc": "Craft a piece of equipment."
+    "desc": "「공창」에서 보크사이트 등의 자원을 사용하여 새로운 장비 아이템을 「개발」하자!"
   },
   "603": {
     "code": "F3",
     "name_jp": "はじめての「解体」！",
-    "name": "First Dismantlement",
+    "name": "첫 「해체」!",
     "desc_jp": "「工廠」で不要な艦を「解体」してみよう！",
-    "desc": "Dismantle a ship."
+    "desc": "「공창」에서 불필요한 함선을 「해체」해 보자!"
   },
   "604": {
     "code": "F4",
     "name_jp": "はじめての「廃棄」！",
-    "name": "First Scrapping",
+    "name": "첫 「폐기」!",
     "desc_jp": "「工廠」で不要な装備アイテムを「廃棄」してみよう！",
-    "desc": "Scrap a piece of equipment."
+    "desc": "「공창」에서 불필요한 장비 아이템을 「폐기」해 보자!"
   },
   "605": {
     "code": "Fd1",
     "name_jp": "新装備「開発」指令",
-    "name": "Develop New Equipment",
+    "name": "새 장비 「개발」 지령",
     "desc_jp": "「工廠」で装備アイテムを新たに「開発」しよう(失敗もOK)！",
-    "desc": "Craft a piece of equipment. (Failures are OK)"
+    "desc": "「공창」에서 장비 아이템을 새롭게 「개발」하자 (실패해도 OK)!"
   },
   "606": {
     "code": "Fd2",
     "name_jp": "新造艦「建造」指令",
-    "name": "Construct New Ship",
+    "name": "신조함 「건조」 지령",
     "desc_jp": "「工廠」で艦娘を本日中に新たに「建造」しよう！",
-    "desc": "Craft a ship."
+    "desc": "「공창」에서 칸무스를 오늘 중에 새롭게 「건조」하자!"
   },
   "607": {
     "code": "Fd3",
     "name_jp": "装備「開発」集中強化！",
-    "name": "Develop More Equipment",
+    "name": "장비 「개발」 집중 강화!",
     "desc_jp": "「工廠」で装備アイテムを本日中に3回「開発」しよう(失敗もOK)！",
-    "desc": "Craft 3 pieces of equipment. (Failures are OK)"
+    "desc": "「공창」에서 장비 아이템을 오늘 중에 3회 「개발」하자 (실패해도 OK)!"
   },
   "608": {
     "code": "Fd4",
     "name_jp": "艦娘「建造」艦隊強化！",
-    "name": "Construct More New Ships",
+    "name": "칸무스 「건조」 함대 강화!",
     "desc_jp": "艦隊強化のため、「工廠」で艦娘を本日中に3隻「建造」しよう！",
-    "desc": "Craft 3 ships."
+    "desc": "함대 강화를 위해, 「공창」에서 칸무스를 오늘 중에 3척 「건조」하자!"
   },
   "609": {
     "code": "Fd5",
     "name_jp": "軍縮条約対応！",
-    "name": "Dismantlement Duty",
+    "name": "군축 조약 대응!",
     "desc_jp": "少し艦隊規模が大きくなりすぎました！「工廠」で不要な艦を2隻「解体」してください！",
-    "desc": "Scrap 2 ships."
+    "desc": "함대 규모가 조금 너무 커졌습니다! 「공창」에서 불필요한 함선을 2척 「해체」해 주세요!"
   },
   "610": {
     "code": "F10",
     "name_jp": "「大型艦建造」の準備！(その弐)",
-    "name": "Preparation for LSC (Part 2)",
+    "name": "「대형함 건조」 준비! (그 두 번째)",
     "desc_jp": "大型艦建造の準備をします！「工廠」で装備アイテムを4回「廃棄」してみてください！",
-    "desc": "Scrap equipment 4 times."
+    "desc": "대형함 건조 준비를 합니다! 「공창」에서 장비 아이템을 4회 「폐기」해 보세요!"
   },
   "611": {
     "code": "WF01",
     "name_jp": "式の準備！(その壱)",
-    "name": "In Preparation of Love (Part 1)",
+    "name": "식의 준비! (그 첫 번째)",
     "desc_jp": "式の準備をします！「工廠」で装備アイテムを2回「廃棄」して身の回りの整理を！",
-    "desc": "Scrap equipment 2 times to show your love!"
+    "desc": "식의 준비를 합니다! 「공창」에서 장비 아이템을 2회 「폐기」하여 주변 정리를!"
   },
   "612": {
     "code": "F11",
     "name_jp": "輸送用ドラム缶の準備",
-    "name": "Prepare the Drum Canisters",
+    "name": "수송용 드럼통의 준비",
     "desc_jp": "「工廠」で装備アイテムを3回「廃棄」して、輸送用のドラム缶を準備します。",
-    "desc": "Scrap equipment 3 times to acquire a shipping barrel."
+    "desc": "「공창」에서 장비 아이템을 3회 「폐기」하여, 수송용 드럼통을 준비합니다."
   },
   "613": {
     "code": "Fw1",
     "name_jp": "資源の再利用",
-    "name": "Recycling Resources",
+    "name": "자원의 재이용",
     "desc_jp": "「工廠」で余剰の装備アイテムをなるべく多く「廃棄」して、鋼材の再利用に努めよう！",
-    "desc": "Scrap equipment 24 times."
+    "desc": "「공창」에서 잉여 장비 아이템을 가능한 한 많이 「폐기」하여, 강재 재이용에 힘쓰자!(장비 24회 폐기)"
   },
   "614": {
     "code": "F13",
     "name_jp": "機種転換",
-    "name": "Model Conversion",
+    "name": "기종 전환",
     "desc_jp": "「九七式艦攻(友永隊)」搭載空母を秘書艦にした状態で新たに「天山」を2つ廃棄！",
-    "desc": "Equip a Type 97 Torpedo Bomber (Tomonaga Squadron) on a Carrier secretary, then scrap 2 Tenzan. The Type 97 Torpedo Bomber (Murata Squadron) must not be locked."
+    "desc": "「97식 함상공격기(토모나가대)」를 탑재한 항공모함을 비서함으로 설정한 상태에서, 새롭게 「텐잔」을 2개 폐기!"
   },
   "615": {
     "code": "F14",
     "name_jp": "機種転換",
-    "name": "Model Conversion",
+    "name": "기종 전환",
     "desc_jp": "「九九式艦爆(江草隊)」搭載空母を秘書艦にした状態で新たに「彗星」を2つ廃棄！",
-    "desc": "Equip a Type 99 Dive Bomber (Egusa Squadron) on a Carrier secretary, then scrap 2 Suisei. The Type 99 Dive Bomber (Egusa Squadron) must not be locked."
+    "desc": "「99식 함상폭격기(에구사대)」를 탑재한 항공모함을 비서함으로 설정한 상태에서, 새롭게 「스이세이」를 2개 폐기!"
   },
   "616": {
     "code": "F15",
-    "name_jp": "機種転換",
+    "name_jp": "기종 전환",
     "name": "Model Conversion",
     "desc_jp": "「零戦52型丙(六〇一空)」搭載空母を秘書艦にした状態で新たに「烈風」を2つ廃棄！",
-    "desc": "Equip a Zero Fighter Model 52C (601 Air Group) on a Carrier secretary, then scrap 2 Reppuu. The Zero Fighter Model 52C (601 Air Group) must not be locked."
+    "desc": "「영전 52형 병(601공)」 탑재 항공모함을 비서함으로 설정한 상태에서, 새롭게 「렛푸」를 2개 폐기!"
   },
   "617": {
     "code": "F16",
     "name_jp": "「伊良湖」の準備",
-    "name": "Preparing for Irako",
+    "name": "「이라코」의 준비",
     "desc_jp": "「工廠」で不要な装備アイテムをいくつか「廃棄」して、新型給糧艦召喚の準備をしましょう！",
-    "desc": "Scrap equipment 10 times."
+    "desc": "「공창」에서 불필요한 장비 아이템을 몇 개 「폐기」하여, 신형 급량함 소환 준비를 합시다!(장비 10회 폐기)"
   },
   "618": {
     "code": "F17",
     "name_jp": "はじめての「装備改修」！",
-    "name": "First Equipment Modernisation",
+    "name": "첫 「장비 개수」!",
     "desc_jp": "「改修工廠」で「装備」を改修してみましょう！明石さん、お願いします！",
-    "desc": "Perform equipment modernisation once."
+    "desc": "「개수공창」에서 「장비」를 개수해 봅시다! 아카시 씨, 부탁해요!"
   },
   "619": {
     "code": "Fd6",
     "name_jp": "装備の改修強化",
-    "name": "Improve Equipment",
+    "name": "장비의 개수 강화",
     "desc_jp": "「改修工廠」で「装備」の改修強化に努めます。",
-    "desc": "Perform equipment modernisation once."
+    "desc": "「개수공창」에서 「장비」의 개수 강화에 힘씁시다."
   },
   "620": {
     "code": "F88",
     "name_jp": "一航戦精鋭「流星改」隊の編成",
-    "name": "Formation of the CarDiv 1's Peerless \"Ryuusei Kai\" Squadron",
+    "name": "일항전 정예 「류세이 개」 부대의 편성",
     "desc_jp": "一航戦任務：旗艦「赤城改二(改二戊)」第一装備スロに「流星改(一航戦)」※練度maxを搭載し、<br>「流星改」x4「彩雲」x1「九七式艦攻」x2廃棄、弾薬x2800、ボーキ9000、熟練搭乗員x2を準備せよ！",
-    "desc": "Prepare 2800 Ammunition, 9000 Bauxite, and 2 Skilled Crew Member in your inventory. Have Akagi Kai Ni or Akagi Kai Ni E as secretary equipped with a rank 7 Ryuusei Kai (CarDiv 1) in her first slot. Scrap 4 Ryuusei Kai, 1 Saiun, and 2 Type 97 Torpedo Bomber."
+    "desc": "일항전 임무: 기함 「아카기 개2(개2무)」 제1장비 슬롯에 「류세이 개(일항전)」 ※숙련도 max를 탑재하고, 「류세이 개」 x4, 「사이운」 x1, 「97식 함상공격기」 x2를 폐기, 탄약 x2800, 보크사이트 9000, 숙련 탑승원 x2를 준비하라!"
   },
   "621": {
     "code": "F89",
     "name_jp": "陸戦用装備の艦載運用研究",
-    "name": "Research of Ship-borne Land Based Equipment",
+    "name": "육전용 장비의 함재 운용 연구",
     "desc_jp": "第一艦隊旗艦軽巡級の第一装備スロに「7.7mm機銃」装備。「25mm単装機銃」x2、「ドラム缶(輸送<br>用)」x2、「12cm30連装噴進砲」x1を廃棄。弾薬x1,700、開発資材x30、高速建造材x10を準備せよ！",
-    "desc": "Equip a 7.7mm Machine Gun on the first equipment slot of your light cruiser flagship. Then scrap 2 25mm Single Autocannons, 2 Drum Canisters, 1 12cm 30-tube Rocket Launcher, prepare 1,700 ammo, 30 development materials and 10 Instant Construction"
+    "desc": "제1함대 기함 경순양함급의 제1장비 슬롯에 「7.7mm 기총」을 장착. 「25mm 단장기총」 x2, 「드럼통(수송용)」 x2, 「12cm 30연장 분진포」 x1을 폐기. 탄약 x1,700, 개발자재 x30, 고속건조재 x10을 준비하라!"
   },
   "622": {
     "code": "F20",
     "name_jp": "機種転換",
-    "name": "Model Conversion",
+    "name": "기종 전환",
     "desc_jp": "「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！",
-    "desc": "Equip a Type 97 Torpedo Bomber (Murata Squadron) on Shoukaku as secretary, then scrap 2 Tenzan. The Type 97 Torpedo Bomber (Murata Squadron) must not be locked."
+    "desc": "「97식 함상공격기(무라타대)」를 탑재한 「쇼카쿠」를 비서함으로 하여, 새롭게 「텐잔」을 2개 폐기!"
   },
   "623": {
     "code": "F19",
     "name_jp": "精鋭「九七式艦攻」部隊の編成",
-    "name": "Formation of the Elite Type 97 Torpedo Bomber Squadron",
+    "name": "정예 「97식 함상공격기」 부대의 편성",
     "desc_jp": "「翔鶴」または「赤城」を秘書艦にした状態で新たに「九七式艦攻」を3つ廃棄！",
-    "desc": "With Shoukaku or Akagi as secretary, scrap 3 Type 97 Torpedo Bomber."
+    "desc": "「쇼카쿠」 또는 「아카기」를 비서함으로 설정한 상태에서, 새롭게 「97식 함상공격기」를 3개 폐기!"
   },
   "624": {
     "code": "F21",
     "name_jp": "試作艤装の準備",
-    "name": "Prototype Flight Deck Outfitting Preparations",
+    "name": "시제 의장의 준비",
     "desc_jp": "「工廠」で装備アイテムを7つ「廃棄」して、「試製甲板カタパルト」を準備します。",
-    "desc": "Scrap equipment 7 times."
+    "desc": "「공창」에서 장비 아이템을 7개 「폐기」하여, 「시제 갑판 캐터펄트」를 준비합니다."
   },
   "625": {
     "code": "F23",
     "name_jp": "試製航空艤装の追加試作",
-    "name": "Additional Prototype Deck Outfitting",
+    "name": "시제 항공 의장의 추가 시작",
     "desc_jp": "「工廠」で装備アイテムを9つ「廃棄」して、「試製甲板カタパルト」を追加試作します。",
-    "desc": "Scrap equipment 9 times."
+    "desc": "「공창」에서 장비 아이템을 9개 「폐기」하여, 「시제 갑판 캐터펄트」를 추가 시제작합니다."
   },
   "626": {
     "code": "Fm1",
     "name_jp": "精鋭「艦戦」隊の新編成",
-    "name": "Reorganisation of the Fighter Forces",
+    "name": "정예 「함전」 부대의 신편성",
     "desc_jp": "要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！",
-    "desc": "Equip a Lv.7 Zero Fighter Model 21 on Houshou as secretary, then scrap 2 Zero Fighter Model 21 and a Type 96 Fighter. A Skilled Pilot (熟練搭乗員) must be present in your inventory; it will be consumed. The Lv.7 Zero Fighter Model 21 must not be locked."
+    "desc": "숙련 탑승원 필요: 숙련도 max 「영전 21형」을 탑재한 「호쇼」를 비서함으로 하여 「영전 21형」 x2, 「96식 함전」 x1을 폐기!"
   },
   "627": {
     "code": "F24",
     "name_jp": "機種転換",
-    "name": "Model Conversion",
+    "name": "기종 전환",
     "desc_jp": "「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！",
-    "desc": "Equip Zero Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Zero Fighter Model 52. The Zero Fighter Model 21 (Skilled) must not be locked."
+    "desc": "「영전 21형(숙련)」을 탑재한 항공모함을 비서함으로 하여, 새롭게 「영전 52형」을 2개 폐기!"
   },
   "628": {
     "code": "Fm2",
     "name_jp": "機種転換",
-    "name": "Model Conversion",
+    "name": "기종 전환",
     "desc_jp": "練度max「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！",
-    "desc": "Equip Lv.7 Zero Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Zero Fighter Model 52. The Lv.7 Zero Fighter Model 21 (Skilled) must not be locked."
+    "desc": "숙련도 max 「영전 21형(숙련)」을 탑재한 항공모함을 비서함으로 하여, 새롭게 「영전 52형」을 2개 폐기!"
   },
   "629": {
     "code": "F26",
     "name_jp": "「艦戦」隊の再編成",
-    "name": "Reorganisation of the Fighter Forces",
+    "name": "「함전」 부대의 재편성",
     "desc_jp": "練度max「零戦52型(熟練)」搭載「瑞鶴」秘書艦で「零戦52型丙(六〇一空)」を廃棄！",
-    "desc": "Equip Lv.7 Zero Fighter Model 52 (Skilled) on Zuikaku as secretary, then scrap a Zero Fighter Model 52C (601 Air Group). The Lv.7 Zero Fighter Model 52 (Skilled) must not be locked."
+    "desc": "숙련도 max 「영전 52형(숙련)」을 탑재한 「즈이카쿠」를 비서함으로 하여 「영전 52형 병(601공)」을 폐기!"
   },
   "630": {
     "code": "F28",
     "name_jp": "「艦戦」隊の再編成",
-    "name": "Reorganisation of the Fighter Forces",
+    "name": "「함전」 부대의 재편성",
     "desc_jp": "練度max「零戦21型(熟練)」搭載「瑞鶴」が秘書の状態で、「零戦21型」を2つ廃棄！",
-    "desc": "Equip Lv.7 Zero Fighter Model 21 (Skilled) on Zuikaku as secretary, then scrap 2 Zero Fighter Model 21. The Lv.7 Zero Fighter Model 21 (Skilled) must not be locked."
+    "desc": "숙련도 max 「영전 21형(숙련)」을 탑재한 「즈이카쿠」가 비서함인 상태에서, 「영전 21형」을 2개 폐기!"
   },
   "631": {
     "code": "F27",
     "name_jp": "機種転換＆部隊再編",
-    "name": "Model Conversion and Force Reorganisation",
+    "name": "기종 전환 & 부대 재편",
     "desc_jp": "練度max「零戦52型丙(付岩井小隊)」搭載「瑞鶴」秘書艦で、「零戦62型(爆戦)」を2つ廃棄！",
-    "desc": "Equip Lv.7 Zero Fighter Model 52C (w/ Iwai Flight) on Zuikaku as secretary, then scrap 2 Zero Fighter-bomber Model 62. The Lv.7 Zero Fighter Model 52C (w/ Iwai Flight) must not be locked."
+    "desc": "숙련도 max 「영전 52형 병(이와이 소대)」을 탑재한 「즈이카쿠」를 비서함으로 하여, 「영전 62형(폭전)」을 2개 폐기!"
   },
   "632": {
     "code": "F29",
     "name_jp": "機種転換",
-    "name": "Model Conversion",
+    "name": "기종 전환",
     "desc_jp": "練度max「零戦21型(付岩本小隊)」搭載「瑞鶴」秘書艦で、「零戦52型」を2つ廃棄！",
-    "desc": "Equip Lv.7 Zero Fighter Model 21 (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Zero Fighter Model 52. The Lv.7 Zero Fighter Model 21 (w/ Iwamoto Flight) must not be locked."
+    "desc": "숙련도 max 「영전 21형(이와모토 소대)」을 탑재한 「즈이카쿠」를 비서함으로 하여, 「영전 52형」을 2개 폐기!"
   },
   "633": {
     "code": "F30",
     "name_jp": "機種転換＆部隊再編",
-    "name": "Model Conversion and Force Reorganisation",
+    "name": "기종 전환 & 부대 재편",
     "desc_jp": "部隊を再編する！練度max「零戦52型甲(付岩本小隊)」搭載「瑞鶴」秘書艦で、「彩雲」を2つ廃棄！",
-    "desc": "Equip Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Saiun. The Lv.7 Zero Fighter Model 52A (w/ Iwamoto Flight) must not be locked."
+    "desc": "부대를 재편한다! 숙련도 max 「영전 52형 갑(이와모토 소대)」을 탑재한 「즈이카쿠」를 비서함으로 하여, 「사이운」을 2개 폐기!"
   },
   "634": {
     "code": "F31",
     "name_jp": "新家具の準備",
-    "name": "Prepare the new furniture",
+    "name": "신규 가구의 준비",
     "desc_jp": "「工廠」で装備アイテムを9つ「廃棄」して、新家具の準備をします。",
-    "desc": "Scrap equipment 9 times."
+    "desc": "「공창」에서 장비 아이템을 9개 「폐기」하여, 신규 가구의 준비를 합시다."
   },
   "635": {
     "code": "F32",
     "name_jp": "新装備の準備",
-    "name": "Preparations for the New Equipment",
+    "name": "신규 장비의 준비",
     "desc_jp": "「工廠」で装備アイテムを5つ「廃棄」して、新装備配備の準備をします。",
-    "desc": "Scrap equipment 5 times."
+    "desc": "「공창」에서 장비 아이템을 5개 「폐기」하여, 신규 장비 배치의 준비를 합시다."
   },
   "636": {
     "code": "F33",
     "name_jp": "上陸戦用新装備の調達",
-    "name": "Supply for the Landing Operation",
+    "name": "상륙전용 신규 장비의 조달",
     "desc_jp": "「工廠」で「7.7mm機銃」及び「12.7mm単装機銃」を二つずつ廃棄！",
-    "desc": "Scrap two 7.7mm Machine Gun and two 12.7mm Single Machine Gun Mount"
+    "desc": "「공창」에서 「7.7mm 기총」 및 「12.7mm 단장기총」을 두 개씩 폐기!"
   },
   "637": {
     "code": "Fq1",
     "name_jp": "「熟練搭乗員」養成",
-    "name": "Skilled Crew Member Training",
+    "name": "「숙련 탑승원」 양성",
     "desc_jp": "勲章x2消費：「鳳翔」秘書艦に練度max及び改修max「九六式艦戦」を搭載、熟練搭乗員を養成せよ！<br>(任務達成後、部隊は消滅します)",
-    "desc": "Set Houshou as secretary and equip her with a Type 96 Fighter that is both rank 7 and ★max."
+    "desc": "훈장 x2 소비: 「호쇼」를 비서함으로 하고 숙련도 max 및 개수 max 상태의 「96식 함전」을 탑재하여, 숙련 탑승원을 양성하라! (임무 달성 후, 부대는 소멸합니다)"
   },
   "638": {
     "code": "Fw2",
     "name_jp": "対空機銃量産",
-    "name": "AA Gun Mass Production",
+    "name": "대공기총 양산",
     "desc_jp": "「機銃」系装備を量産し、工廠で6個廃棄！ 「装備改修」強化をサポートせよ！",
-    "desc": "Scrap six AA Guns."
+    "desc": "「기총」계 장비를 양산하여, 공창에서 6개 폐기! 「장비 개수」 강화를 서포트하라!"
   },
   "639": {
     "code": "F36",
-    "name_jp": "新型魚雷兵装の開発",
+    "name_jp": "신형 어뢰 병장의 개발",
     "name": "Development of a New Torpedo Armament",
     "desc_jp": "勲章x2消費：「島風」秘書艦に改修max「61cm五連装(酸素)魚雷」と<br>改修max「61cm三連装(酸素)魚雷」を装備！(任務達成後、各装備は消滅します)",
-    "desc": "Set Shimakaze as secretary and equip her with a ★max 61cm Quintuple (Oxygen) Torpedo Mount and a ★max 61cm Triple (Oxygen) Torpedo Mount."
+    "desc": "훈장 x2 소비: 「시마카제」를 비서함으로 하고 개수 max 「61cm 5연장(산소)어뢰」와 개수 max 「61cm 3연장(산소)어뢰」를 장비! (임무 달성 후, 각 장비는 소멸합니다)"
   },
   "640": {
     "code": "SF",
     "name_jp": "初夏の整理整頓",
-    "name": "Early Summer Cleanup",
+    "name": "초여름의 정리정돈",
     "desc_jp": "不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！",
-    "desc": "Scrap equipment 5 times."
+    "desc": "불필요한 장비를 여러 개 「폐기」하여, 여름을 맞이할 준비를 합시다!(장비 5회 폐기)"
   },
   "641": {
     "code": "F37",
     "name_jp": "「航空基地設営」事前準備",
-    "name": "Preparation for Air Base Construction",
+    "name": "「항공 기지 설영」 사전 준비",
     "desc_jp": "「航空基地設営」の事前準備を開始する。「ドラム缶(輸送用)」を二つ「工廠」で廃棄し、「7.7mm機銃」及び「九六式艦戦」を各二つずつ用意せよ！(任務達成後、用意した必要装備は消滅します)",
-    "desc": "Unlock two 7.7mm Machine Gun and two Type 96 Fighter. Then, scrap Drum (Transport) 2 times."
+    "desc": "「항공 기지 설영」의 사전 준비를 개시한다. 「드럼통(수송용)」을 두 개 「공창」에서 폐기하고, 「7.7mm 기총」 및 「96식 함전」을 각 두 개씩 준비하라! (임무 달성 후, 준비한 필요 장비는 소멸합니다)"
   },
   "642": {
     "code": "F38",
     "name_jp": "「陸攻」隊の増勢",
-    "name": "Expansion of Land-based Air Groups",
+    "name": "「육공」대의 증세",
     "desc_jp": "「基地航空隊」開設に向け、「陸攻」の追加調達を行う。「7.7mm機銃」及び<br>「九九式艦爆」を各二つずつ準備せよ！(任務達成後、同装備は消滅します)",
-    "desc": "Have two 7.7mm Machine Guns and two Type 99 Dive Bombers in your inventory. Unlock both equipment."
+    "desc": "「기지항공대」 개설을 위해 「육공」의 추가 조달을 수행한다. 「7.7mm 기총」 및 「99식 함폭」을 각 두 개씩 준비하라! (임무 달성 후, 해당 장비는 소멸합니다)"
   },
   "643": {
     "code": "Fq2",
     "name_jp": "主力「陸攻」の調達",
-    "name": "Supply of the Land-based Main Bomber Force",
+    "name": "주력 「육공」의 조달",
     "desc_jp": "主力陸上攻撃機「一式陸攻」の新規調達を行う。「零式艦戦21型」を二つ「工廠」で廃棄し、<br>「九六式陸攻」一つと「九七式艦攻」二つを準備せよ！(任務達成後、用意した必要装備は消滅します)",
-    "desc": "Have a Type 96 Attack Bomber and two Type 97 Torpedo Bombers in your inventory, and scrap two Zero Fighter Model 21. Unlock all of the equipment."
+    "desc": "주력 육상공격기 「1식 육공」의 신규 조달을 수행한다. 「영전 21형」을 두 개 「공창」에서 폐기하고, 「96식 육공」 한 개와 「97식 함상공격기」 두 개를 준비하라! (임무 달성 후, 준비한 필요 장비는 소멸합니다)"
   },
   "644": {
     "code": "F40",
     "name_jp": "「一式陸攻」性能向上型の調達",
-    "name": "Procurement of the Improved Type 1 Attack Bomber",
+    "name": "「1식 육공」 성능 향상형의 조달",
     "desc_jp": "「一式陸攻」性能向上型の配備を行う。「一式陸攻」一つと「天山」二つを準備せよ！<br>(任務達成後、用意した必要装備は消滅します/「一式陸攻」の熟練度は継承されます)",
-    "desc": "Have Type 1 Attack Bomber and two Tenzan in your inventory. Unlock both equipment."
+    "desc": "「1식 육공」 성능 향상형의 배치를 수행한다. 「1식 육공」 한 개와 「텐잔」 두 개를 준비하라! (임무 달성 후, 준비한 필요 장비는 소멸합니다 / 「1식 육공」의 숙련도는 계승됩니다)"
   },
   "645": {
     "code": "Fm3",
     "name_jp": "「洋上補給」物資の調達",
-    "name": "Procurement of Underway Replenishment",
+    "name": "「양상보급」 물자의 조달",
     "desc_jp": "「三式弾」一つを廃棄し、燃料750及び弾薬750と「ドラム缶(輸送用)」二つと「九一式徹甲弾」一つを<br>用意せよ！※任務達成後、用意した資源及び必要装備(徹甲弾は改修値の低いもの優先)は消滅します。",
-    "desc": "Have 750 fuel, 750 ammo, two Drums, and one Type 91 Shell. Unlock both equipment. And then, scrap one Type 3 Shell."
+    "desc": "「3식탄」 한 개를 폐기하고, 연료 750 및 탄약 750과 「드럼통(수송용)」 두 개와 「91식 철갑탄」 한 개를 준비하라! ※임무 달성 후, 준비한 자원 및 필요 장비(철갑탄은 개수치가 낮은 것 우선)는 소멸합니다."
   },
   "646": {
     "code": "F42",
     "name_jp": "「特注家具」の調達",
-    "name": "Procurement of Custom-made Furniture",
+    "name": "「특주 가구」의 조달",
     "desc_jp": "「25mm単装機銃」一つを廃棄、家具コイン5,000と「25mm連装機銃」及び「25mm三連装機銃」を各<br>二つ準備せよ！\u3000※任務達成後、用意した家具コイン及び必要装備(改修値の低いもの優先)は消滅します。",
-    "desc": "Have 5000 furniture coin, two 25mm Twin Autocannon Mount, and two 25mm Triple Autocannon Mount in your inventory. Unlock both equipment. And then, scrap one 25mm Single Autocannon Mount."
+    "desc": "「25mm 단장기총」 한 개를 폐기, 가구 코인 5,000과 「25mm 연장기총」 및 「25mm 3연장기총」을 각 두 개씩 준비하라! ※임무 달성 후, 준비한 가구 코인 및 필요 장비(개수치가 낮은 것 우선)는 소멸합니다."
   },
   "647": {
     "code": "F43",
     "name_jp": "中部海域「基地航空隊」展開！",
-    "name": "Launch the LBAS to the Central Ocean Area!",
+    "name": "중부 해역 「기지항공대」 전개!",
     "desc_jp": "「ドラム缶(輸送用)」二つを廃棄、燃料1200及びボーキサイト3000、さらに「設営隊」一つを準備せよ！<br>※任務達成後、用意した資源及び「設営隊」は消滅します。",
-    "desc": "Have 1200 fuel, 3000 bauxite, and a Construction Corps. And then, Scrap 2 drums."
+    "desc": "「드럼통(수송용)」 두 개를 폐기, 연료 1200 및 보크사이트 3000, 나아가 「설영대」 한 개를 준비하라! ※임무 달성 후, 준비한 자원 및 「설영대」는 소멸합니다."
   },
   "648": {
     "code": "F44",
     "name_jp": "「特注家具」の調達",
-    "name": "Procurement of Custom-made Furniture",
+    "name": "「특주 가구」의 조달",
     "desc_jp": "「12.7cm連装高角砲」二つを廃棄し、家具コイン5,000と「14cm単装砲」及び「15.2cm単装砲」を各二つずつ準備せよ！\u3000※任務達成後、用意した家具コイン及び必要装備(低改修を優先)は消費します。",
-    "desc": "Have 5000 furniture coin, two 14cm Single Gun Mount, and two 15.2cm Single Gun Mount in your inventory. Unlock both equipment. And then, scrap two 12.7cm Twin High-angle Gun Mount."
+    "desc": "「12.7cm 연장고각포」 두 개를 폐기하고, 가구 코인 5,000과 「14cm 단장포」 및 「15.2cm 단장포」를 각 두 개씩 준비하라! ※임무 달성 후, 준비한 가구 코인 및 필요 장비(개수치가 낮은 것 우선)는 소비합니다."
   },
   "649": {
     "code": "F45",
     "name_jp": "新機軸偵察機の開発",
-    "name": "Develop the New Reconnaissance Plane",
+    "name": "신축 정찰기의 개발",
     "desc_jp": "新機軸の偵察機の調達を行う。「零式水上偵察機」を二つ「工廠」で廃棄し、<br>「一式陸攻」一つと「彩雲」二つを準備せよ！(任務達成後、用意した必要装備は消費します)",
-    "desc": "Have one Type 1 Attack Bomber and two Saiun in your inventory. Unlock both equipment. And then, scrap two Type 0 Reconnaissance Seaplane."
+    "desc": "새로운 축의 정찰기 조달을 수행한다. 「영식수상정찰기」를 두 개 「공창」에서 폐기하고, 「1식 육공」 한 개와 「사이운」 두 개를 준비하라! (임무 달성 후, 준비한 필요 장비는 소비합니다)"
   },
   "650": {
     "code": "F46",
     "name_jp": "噴式戦闘爆撃機の開発",
-    "name": "Develop the Jet Fighter-bomber",
+    "name": "분식 전투폭격기의 개발",
     "desc_jp": "ネ式エンジンを搭載した新型戦闘爆撃機の開発を行う。「紫電改二」三つを「工廠」で廃棄し、「新型航空機設計図」二つと「ネ式エンジン」一つを準備せよ！(任務達成後、用意した必要アイテムは消費します)",
-    "desc": "Have two New Aircraft Blueprint and one Ne-type Engine in your inventory. And then, scrap three Shiden Kai 2."
+    "desc": "네식 엔진을 탑재한 신형 전투폭격기의 개발을 수행한다. 「시덴개2」 세 개를 「공창」에서 폐기하고, 「신형 항공기 설계도」 두 개와 「네식 엔진」 한 개를 준비하라! (임무 달성 후, 준비한 필요 아이템은 소비합니다)"
   },
   "651": {
     "code": "F47",
     "name_jp": "ネ式エンジンの増産",
-    "name": "Increase Production of Ne-type Engine",
+    "name": "네식 엔진의 증산",
     "desc_jp": "噴式航空機生産のため、ネ式エンジンの増産を行う。「零式艦戦52型」三つを「工廠」で廃棄し、「流星」「試製烈風 後期型」各二つと鉄鋼8,000を準備せよ！※任務達成後、用意した必要装備と資源は消費します。",
-    "desc": "Have 8000 steel, two Reppuu, and two Ryuusei in your inventory. Unlock both equipment. And then, scrap three Zero Fighter Model 52."
+    "desc": "분식 항공기 생산을 위해, 네식 엔진의 증산을 수행한다. 「영전 52형」 세 개를 「공창」에서 폐기하고, 「류세이 개」 및 「시제 렛푸 후기형」 각 두 개와 강재 8,000을 준비하라! ※임무 달성 후, 준비한 필요 장비와 자원은 소비합니다."
   },
   "652": {
     "code": "F48",
     "name_jp": "「特注家具」の調達",
-    "name": "Procurement of Custom-made Furniture",
+    "name": "「특주 가구」의 조달",
     "desc_jp": "主砲「12.7cm連装砲」を二つ廃棄、家具コイン5,000と「7.7mm機銃」及び「九六式艦戦」各二つずつ<br>準備せよ！\u3000※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。",
-    "desc": "Have 5000 furniture coins, two 7.7mm Machine Gun, and two Type 96 Fighter in your inventory. Unlock both equipment. And then, scrap two 12.7cm Twin Gun Mount."
+    "desc": "주포 「12.7cm 연장포」를 두 개 폐기, 가구 코인 5,000과 「7.7mm 기총」 및 「96식 함전」을 각 두 개씩 준비하라! ※임무 달성 후, 준비한 가구 코인 및 필요 장비(개수치가 낮은 것 우선)는 소비합니다."
   },
   "653": {
     "code": "Fq9",
     "name_jp": "工廠稼働！次期作戦準備！",
-    "name": "Arsenal Work! Preparations for the Next Operation!",
+    "name": "공창 가동! 차기 작전 준비!",
     "desc_jp": "「14cm単装砲」x6廃棄、家具コイン6,000と「35.6cm連装砲」「九六式艦戦」各三つを<br>準備せよ！\u3000※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。",
-    "desc": "Prepare 6000 Furniture Coins, 3 35.6cm Twin Gun Mount, and 3 Type 96 Fighter in your inventory. Scrap 6 14cm Single Gun Mount."
+    "desc": "「14cm 단장포」 x6 폐기, 가구 코인 6,000과 「35.6cm 연장포」, 「96식 함전」을 각 세 개씩 준비하라! ※임무 달성 후, 준비한 가구 코인 및 필요 장비(개수치가 낮은 것 우선)는 소비합니다."
   },
   "654": {
     "code": "Fy2",
     "name_jp": "精鋭複葉機飛行隊の編成",
-    "name": "Formation of a splendid biplane squadron",
+    "name": "정예 복엽기 비행대의 편성",
     "desc_jp": "精鋭複葉機飛行隊の編成：秘書艦「Ark Royal」に改修max「Swordfish」を一番スロットに搭載、「Swordfish」x1「Fulmar」x2を廃棄、「熟練搭乗員」、弾薬とボーキサイトを各1,500用意せよ！",
-    "desc": "Formation of a splendid biplane squadron: prepare a maxed star Swordfish and equip it onto the first slot of Ark Royal who must be your secretary ship. Then proceed to scrap 1 Swordfish, 2 Fulmar and prepare 1 Skilled Pilot, 1500 ammo and bauxite each. (All prepared items and resources will be consumed upon completion)"
+    "desc": "정예 복엽기 비행대의 편성: 비서함 「Ark Royal」의 1번 슬롯에 개수 max 「Swordfish」를 탑재하고, 「Swordfish」 x1, 「Fulmar」 x2를 폐기, 「숙련탑승원」 및 탄약과 보크사이트를 각 1,500씩 준비하라!"
   },
   "655": {
     "code": "Fy3",
     "name_jp": "工廠フル稼働！新兵装を開発せよ！",
-    "name": "Arsenal at maximum capacity! Develop new armaments!",
+    "name": "공창 풀 가동! 신병기를 개발하라!",
     "desc_jp": "「小口径主砲」「中口径主砲」「大口径主砲」「水偵」「艦攻」系各装備をそれぞれ五つずつ廃棄！鋼材、燃料、ボーキサイト各1,500を準備せよ！\u3000※任務達成後、準備した資源は消費します。",
-    "desc": "Scrap 5 pieces of equipment of each of the following types: small-caliber main guns, medium-caliber main guns, large-caliber main guns, recon seaplanes, torpedo bombers. Prepare 1500 steel, 1500 fuel, and 1500 bauxite!"
+    "desc": "「소구경 주포」, 「중구경 주포」, 「대구경 주포」, 「수상정찰기」, 「함공」계 각 장비를 각각 5개씩 폐기! 강재, 연료, 보크사이트 각 1,500을 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다."
   },
   "656": {
     "code": "F49",
     "name_jp": "六三一空「晴嵐」隊の編成",
-    "name": "Organize the Seiran 631 Air Group",
+    "name": "631공 「세이란」 부대의 편성",
     "desc_jp": "秘書艦に「伊401」または「伊14」または「伊13」を配備。「晴嵐」を一番スロットに搭載。「瑞雲(六三<br>一空)」を二番スロットに搭載。「晴嵐(六三一空)」を新編せよ！\u3000※任務達成後瑞雲は消滅します。",
-    "desc": "Equip Prototype Seiran in first slot and Zuiun (631 Air Group) in second slot on either I-401, I-13 or I-14 as secretary. Unlock the equipment."
+    "desc": "비서함에 「이401」 또는 「이14」 또는 「이13」을 배치. 「세이란」을 1번 슬롯에 탑재, 「즈이운(631공)」을 2번 슬롯에 탑재하여 「세이란(631공)」을 신편하라! ※임무 달성 후 「즈이운」은 소멸합니다."
   },
   "657": {
     "code": "Fy1",
     "name_jp": "新型兵装開発整備の強化",
-    "name": "Improving Development and Maintenance of New Armaments",
+    "name": "신형 병장 개발 정비의 강화",
     "desc_jp": "新型兵装の開発体制整備を実施する！「小口径主砲」系装備x6、「中口径主砲」系装備x5、「魚雷」系装備x4を廃棄、鋼材4,000を準備せよ！\u3000※任務達成後、準備した資源は消費します。",
-    "desc": "Have 4000 Steel. Scrap 6 Small Caliber Main Guns, 5 Medium Caliber Main Guns and 4 Torpedoes."
+    "desc": "신형 병장의 개발 체제 정비를 실시한다! 「소구경 주포」계 장비 x6, 「중구경 주포」계 장비 x5, 「어뢰」계 장비 x4를 폐기하고, 강재 4,000을 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다."
   },
   "658": {
     "code": "F50",
     "name_jp": "潜水艦武装の強化",
-    "name": "Enhance Submarine Armaments",
+    "name": "잠수함 무장의 강화",
     "desc_jp": "「61cm三連装魚雷」を四つ廃棄、開発資材x120と「61cm四連装(酸素)魚雷」「九三式水中聴音機」各三<br>つを準備せよ！\u3000※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。",
-    "desc": "Have three 61cm Quadruple (Oxygen) Torpedo, three Type 93 Passive Sonar, and 120 development materials in your inventory. Unlock the equipment. And then, scrap four 61cm Triple Torpedo."
+    "desc": "「61cm 3연장 어뢰」를 4개 폐기, 개발자재 x120과 「61cm 4연장(산소)어뢰」, 「93식 수중청음기」를 각 3개씩 준비하라! ※임무 달성 후, 준비한 개발자재 및 필요 장비(개수치가 낮은 것 우선)는 소비합니다."
   },
   "659": {
     "code": "F51",
     "name_jp": "精鋭「水戦」隊の新編成",
-    "name": "Organize the New Elite Seaplane Group",
+    "name": "정예 「수전」 부대의 신편성",
     "desc_jp": "精鋭飛行隊の新編成：練度max及び改修maxの「二式水戦改」を一番スロットに搭載した秘書艦で、<br>「零式艦戦21型」x2「瑞雲」x2を廃棄！\u3000※新飛行隊を編成する「熟練搭乗員」が必要です。",
-    "desc": "Equip Type 2 Seaplane Fighter Kai (rank 7 and ★max) on a secretary and have Skilled Pilot in your inventory. Unlock the equipment. And then, scrap two Zero Fighter Model 21 and two Zuiun."
+    "desc": "정예 비행대의 신편성: 숙련도 max 및 개수 max 상태의 「2식 수전 개」를 1번 슬롯에 탑재한 비서함으로, 「영전 21형」 x2, 「즈이운」 x2를 폐기! ※새로운 비행대를 편성할 「숙련탑승원」이 필요합니다."
   },
   "660": {
     "code": "F52",
     "name_jp": "精鋭「水戦」隊の増勢",
-    "name": "Expand the New Elite Seaplane Group",
+    "name": "정예 「수전」 부대의 증세",
     "desc_jp": "精鋭飛行隊の増勢：練度max及び改修maxの「二式水戦改」を一番スロットに搭載した秘書艦で、<br>「零式艦戦21型」x2「瑞雲」x2を廃棄！\u3000※新飛行隊を編成する「熟練搭乗員」が必要です。",
-    "desc": "Equip Type 2 Seaplane Fighter Kai (rank 7 and ★max) on a secretary and have Skilled Pilot in your inventory. Unlock the equipment. And then, scrap two Zero Fighter Model 21 and two Zuiun."
+    "desc": "정예 비행대의 증세: 숙련도 max 및 개수 max 상태의 「2식 수전 개」를 1번 슬롯에 탑재한 비서함으로, 「영전 21형」 x2, 「즈이운」 x2를 폐기! ※새로운 비행대를 편성할 「숙련탑승원」이 필요합니다."
   },
   "661": {
     "code": "F53",
     "name_jp": "新型砲熕兵装、戦力化開始！",
-    "name": "Reinforcement of New Model Cannon Improvement, Start!",
+    "name": "신형 포공 병장, 전력화 개시!",
     "desc_jp": "工廠任務：新型砲熕兵装の開発及び同戦力化を開始する。「副砲」系装備x10を廃棄、<br>鉄鋼6,000を準備せよ！\u3000※任務達成後、準備した資源は消費します。",
-    "desc": "Prepare 6000 steel and scrap 10 secondary guns."
+    "desc": "공창 임무: 신형 포공 병장의 개발 및 해당 전력화를 개시한다. 「부포」계 장비 x10을 폐기, 강재 6,000을 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다."
   },
   "662": {
     "code": "F54",
     "name_jp": "新型艤装の開発研究",
-    "name": "Development of New Type Equipment Fitting Research",
+    "name": "신형 의장의 개발 연구",
     "desc_jp": "工廠任務：新型艤装の開発研究を実施する。「中口径主砲」系装備x10を廃棄、鉄鋼12,000を準備せよ！<br>※任務達成後、準備した資源は消費します。「勲章」と「新型砲熕兵装資材」の獲得選択が可能です。",
-    "desc": "Prepare 12000 steel and scrap 10 medium guns."
+    "desc": "공창 임무: 신형 의장의 개발 연구를 실시한다. 「중구경 주포」계 장비 x10을 폐기, 강재 12,000을 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다. 「훈장」과 「신형 포공 병장 자재」의 획득 선택이 가능합니다."
   },
   "663": {
     "code": "Fq3",
     "name_jp": "新型艤装の継続研究",
-    "name": "Development of New Type Equipment Fitting Research (Cont.)",
+    "name": "신형 의장의 계속 연구",
     "desc_jp": "工廠任務：新型艤装の開発を継続実施する。「大口径主砲」系装備x10を廃棄、鉄鋼18,000を準備せよ！<br>※任務達成後、準備した資源は消費します。「勲章」と「新型砲熕兵装資材」の獲得選択が可能です。",
-    "desc": "Prepare 18000 steel and scrap 10 heavy guns."
+    "desc": "공창 임무: 신형 의장의 개발을 계속 실시한다. 「대구경 주포」계 장비 x10을 폐기, 강재 18,000을 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다. 「훈장」과 「신형 포공 병장 자재」의 획득 선택이 가능합니다."
   },
   "664": {
     "code": "F56",
     "name_jp": "電探技術の射撃装置への活用",
-    "name": "Utilization of Radar Technology for Fire Control System",
+    "name": "전탐 기술의 사격 장치 활용",
     "desc_jp": "工廠任務：電探技術の射撃装置への活用を研究する。「電探」系装備x10を廃棄、弾薬及び鉄鋼を各8,000<br>準備せよ！※任務達成後、準備した資源は消費します。「勲章」と「兵装資材」の獲得選択が可能です。",
-    "desc": "Prepare 8000 ammo and 8000 steel. Scrap 10 radars."
+    "desc": "공창 임무: 전탐 기술의 사격 장치 활용을 연구한다. 「전탐」계 장비 x10을 폐기, 탄약 및 강재를 각 8,000씩 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다. 「훈장」과 「병장 자재」의 획득 선택이 가능합니다."
   },
   "665": {
     "code": "F57",
     "name_jp": "民生産業への協力",
-    "name": "Cooperation with the Commercial Industry",
+    "name": "민생 산업으로의 협력",
     "desc_jp": "工廠任務：軍需物資を放出し、民生産業に協力する。「小口径主砲」系装備x16を廃棄、燃料12,000を<br>準備せよ！※任務達成後、準備した資源は消費します。「勲章」と「兵装資材」の獲得選択が可能です。",
-    "desc": "Prepare 12000 steel and scrap 16 small guns."
+    "desc": "공창 임무: 군수 물자를 방출하여, 민생 산업에 협력한다. 「소구경 주포」계 장비 x16을 폐기, 연료 12,000을 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다. 「훈장」과 「병장 자재」의 획득 선택이 가능합니다."
   },
   "666": {
     "code": "F58",
     "name_jp": "精鋭「瑞雲」隊の編成",
-    "name": "Organize the Elite Zuiun Air Group",
+    "name": "정예 「즈이운」 부대의 편성",
     "desc_jp": "秘書艦「日向改」の四番スロットに改修max「瑞雲(六三四空)」を搭載して、ドラム缶(輸送用)x2を廃棄。<br>さらに「九九式艦爆」x2「瑞雲」x2を用意せよ！\u3000※新飛行隊を編成する「熟練搭乗員」が必要です。",
-    "desc": "Equip ★max Zuiun (634 Air Group) on Hyuuga Kai 4th slot. Have 2 Type 99 Dive Bomber, 2 Zuiun and 1 Skilled Pilot in your inventory. Unlock all of the equipment. And then, scrap 2 Drum Canisters."
+    "desc": "비서함 「휴가 개」의 4번 슬롯에 개수 max 「즈이운(634공)」을 탑재하고, 드럼통(수송용) x2를 폐기. 나아가 「99식 함폭」 x2, 「즈이운」 x2를 준비하라! ※새로운 비행대를 편성할 「숙련탑승원」이 필요합니다."
   },
   "667": {
     "code": "F59",
     "name_jp": "民生産業への協力を継続せよ！",
-    "name": "Continue Your Cooperation with the Commercial Industry!",
+    "name": "민생 산업으로의 협력을 계속하라!",
     "desc_jp": "工廠任務：軍需物資を放出し、民生産業への協力を継続する。「機銃」系装備x10を廃棄、鉄鋼15,000を<br>準備せよ！※任務達成後、準備した資源は消費します。「特注家具職人」と「勲章」の獲得選択が可能。",
-    "desc": "Have 15000 steel. Scrap 10 AA guns."
+    "desc": "공창 임무: 군수 물자를 방출하여, 민생 산업으로의 협력을 계속한다. 「기총」계 장비 x10을 폐기, 강재 15,000을 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다. 「특주 가구 장인」과 「훈장」의 획득 선택이 가능."
   },
   "668": {
     "code": "F60",
     "name_jp": "新型戦闘糧食の試作",
-    "name": "The Start of the Special Combat Rations",
+    "name": "신형 전투 식량의 시작",
     "desc_jp": "料理任務：手軽に食事をとることができて、なおかつ美味しく腹にがっつりたまる新型の戦闘糧食を<br>開発する。「戦闘糧食」x2と燃料800及びボーキサイト150を用意せよ！油入れ送気開始！調理始め！",
-    "desc": "Have 2 Combat Rations, 800 fuel, and 150 Bauxite."
+    "desc": "요리 임무: 간편하게 식사를 할 수 있으면서도, 맛있고 배가 든든하게 차는 신형 전투 식량을 개발한다. 「전투 식량」 x2와 연료 800 및 보크사이트 150을 준비하라! 기름 넣고 송기 개시! 조리 시작!"
   },
   "669": {
     "code": "F61",
     "name_jp": "夜戦型艦上戦闘機の開発",
-    "name": "Carrier-based Night Fighter Development",
+    "name": "야전형 함상전전투기의 개발",
     "desc_jp": "練度&改修maxの「F6F-3」を秘書艦一番スロットに搭載、 「13号対空電探」x2 「22号対水上電探」x2<br>を廃棄、開発資材x30、改修資材x6、ボーキサイト5,000、「新型航空兵装資材」x1を準備せよ！",
-    "desc": "Prepare 5000 bauxite, 30 devmat, 6 screw, and 1 New Model Aerial Armament Materials. Equip F6F-3 (rank 7 and ★max) on flagship 1st plane slot. Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above."
+    "desc": "숙련도 max 및 개수 max 상태의 「F6F-3」를 비서함 1번 슬롯에 탑재, 「13호 대공 전탐」 x2, 「22호 대수상 전탐」 x2를 폐기, 개발자재 x30, 개수자재 x6, 보크사이트 5,000, 「신형 항공 병장 자재」 x1을 준비하라!"
   },
   "670": {
     "code": "F63",
     "name_jp": "夜戦型艦上戦闘機の性能強化",
-    "name": "Performance Enhancement of the Carrier-based Night Fighter",
+    "name": "야전형 함상전투기의 성능 강화",
     "desc_jp": "練度&改修maxの「F6F-5」を秘書艦一番スロットに搭載、 「13号対空電探」x2 「22号対水上電探」x2<br>を廃棄、開発資材x40、改修資材x8、ボーキサイト6,000、「新型航空兵装資材」x1を準備せよ！",
-    "desc": "Prepare 6000 bauxite, 40 devmat, 8 screw, and 1 New Model Aerial Armament Materials. Equip F6F-5 (rank 7 and ★max) on flagship 1st plane slot. Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above."
+    "desc": "숙련도 max 및 개수 max 상태의 「F6F-5」를 비서함 1번 슬롯에 탑재, 「13호 대공 전탐」 x2, 「22호 대수상 전탐」 x2를 폐기, 개발자재 x40, 개수자재 x8, 보크사이트 6,000, 「신형 항공 병장 자재」 x1을 준비하라!"
   },
   "671": {
     "code": "F62",
     "name_jp": "夜間作戦型艦上攻撃機の開発",
-    "name": "Carrier-based Night Torpedo Bomber Development",
+    "name": "야간 작전형 함상공격기의 개발",
     "desc_jp": "「TBF」を秘書艦一番スロットに搭載、「13号対空電探」x2「22号対水上電探」x2廃棄、開発資材x40<br>改修資材x10、弾薬5,000、ボーキサイト8,000、「新型航空兵装資材」x1、「熟練搭乗員」を用意せよ！",
-    "desc": "Prepare 5000 ammo, 8000 bauxite, 40 devmat, 10 screw, 1 Skilled Crew Member, and 1 New Model Aerial Armament Materials. Equip TBF on flagship 1st plane slot. Scrap 2 Type 13 Radar and 2 Type 22 Radar. Unlock all of the equipment above."
+    "desc": "「TBF」를 비서함 1번 슬롯에 탑재, 「13호 대공 전탐」 x2, 「22호 대수상 전탐」 x2를 폐기, 개발자재 x40, 개수자재 x10, 탄약 5,000, 보크사이트 8,000, 「신형 항공 병장 자재」 x1, 「숙련탑승원」을 준비하라!"
   },
   "672": {
     "code": "F64",
     "name_jp": "「遊撃部隊」艦隊司令部の創設",
-    "name": "Establishment of the Striking Force's Fleet Command.",
+    "name": "「유격부대」 함대사령부의 창설",
     "desc_jp": "遊撃部隊任務：「遊撃部隊 艦隊司令部」を創設する。「艦隊司令部施設」を秘書艦一番スロットに搭載、 電探系装備x3を廃棄、開発資材x10、鋼材x2,000、そして「戦闘詳報」x2を準備せよ！",
-    "desc": "Have 10 Development Materials, 2000 Steel, and 2 Action Reports. Equip a secretary with a Fleet Command Facility in her first slot. Scrap 3 Radars."
+    "desc": "유격부대 임무: 「유격부대 함대사령부」를 창설한다. 「함대사령부시설」을 비서함 1번 슬롯에 탑재, 전탐계 장비 x3을 폐기, 개발자재 x10, 강재 2,000, 그리고 「전투상보」 x2를 준비하라!"
   },
   "673": {
     "code": "Fd7",
     "name_jp": "装備開発力の整備",
-    "name": "Maintenance of Equipment Development Capability",
+    "name": "장비 개발력의 정비",
     "desc_jp": "工廠整備任務：装備開発力を整備する。「小口径主砲」系装備x4を廃棄せよ！",
-    "desc": "Scrap four small-caliber guns."
+    "desc": "공창 정비 임무: 장비 개발력을 정비한다. 「소구경 주포」계 장비 x4를 폐기하라!"
   },
   "674": {
     "code": "Fd8",
     "name_jp": "工廠環境の整備",
-    "name": "Maintenance of the Arsenal Environment",
+    "name": "공창 환경의 정비",
     "desc_jp": "工廠整備任務：工廠環境の重整備を実施する。「機銃」系装備x3を廃棄、鋼材300を準備せよ！<br>※任務達成後、準備した資源は消費します。",
-    "desc": "Have 300 steel and then scrap three AA guns."
+    "desc": "공창 정비 임무: 공창 환경의 중정비를 실시한다. 「기총」계 장비 x3을 폐기, 강재 300을 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다."
   },
   "675": {
     "code": "Fq4",
     "name_jp": "運用装備の統合整備",
-    "name": "Integrated Maintenance of Operational Equipment",
+    "name": "운용 장비의 통합 정비",
     "desc_jp": "運用装備統合任務：装備の統合整備を実施する。「艦上戦闘機」系装備x6、「機銃」系装備x4を廃棄、<br>ボーキサイト800を準備(本任務は時局により更新されます)。\u3000※任務達成後、準備資源を消費します。",
-    "desc": "Have 800 steel and then scrap six carrier-based fighter and four AA guns."
+    "desc": "운용 장비 통합 임무: 장비의 통합 정비를 실시한다. 「함상전투기」계 장비 x6, 「기총」계 장비 x4를 폐기, 보크사이트 800을 준비(본 임무는 시국에 따라 갱신됩니다). ※임무 달성 후, 준비한 자원은 소비합니다."
   },
   "676": {
     "code": "Fw3",
     "name_jp": "装備開発力の集中整備",
-    "name": "Weekly Gun Dismantlement",
+    "name": "장비 개발력의 집중 정비",
     "desc_jp": "工廠環境の集中整備を実施する！「中口径主砲」系装備x3、「副砲」系装備x3、「ドラム缶(輸送用)」x1<br>を廃棄、鋼材2,400を準備せよ！\u3000※任務達成後、準備した資源は消費します。",
-    "desc": "Have 2400 Steel and then scrap three medium guns, three secondary guns, and one drum."
+    "desc": "공창 환경의 집중 정비를 실시한다! 「중구경 주포」계 장비 x3, 「부포」계 장비 x3, 「드럼통(수송용)」 x1을 폐기, 강재 2,400을 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다."
   },
   "677": {
     "code": "Fw4",
     "name_jp": "継戦支援能力の整備",
-    "name": "Weekly Dismantlement 2",
+    "name": "계전 지원 능력의 정비",
     "desc_jp": "艦娘の継戦支援体制の整備強化を実施する！「大口径主砲」系装備x4、「水上偵察機」系装備x2、<br>「魚雷」系装備x3を廃棄、鋼材3,600を準備せよ！\u3000※任務達成後、準備した資源は消費します。",
-    "desc": "Proceed to scrap 4 Large Cal. Main Guns, 2 Recon Seaplanes and 3 Torpedoes and have 3600 steel (All resources will be consumed upon completion)"
+    "desc": "칸무스의 계전 지원 체제의 정비 강화를 실시한다! 「대구경 주포」계 장비 x4, 「수상정찰기」계 장비 x2, 「어뢰」계 장비 x3을 폐기하고, 강재 3,600을 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다."
   },
   "678": {
     "code": "Fq5",
     "name_jp": "主力艦上戦闘機の更新",
-    "name": "Quarterly Shiden Kai Ni and Materials",
+    "name": "주력 함상전투기의 갱신",
     "desc_jp": "艦上戦闘機「九六式艦戦」x3、「零式艦戦21型」x5を廃棄。秘書艦の一番及び二番装備スロットに<br>「零式艦戦52型」を装備。ボーキサイト4,000を準備せよ。※任務達成後、準備資源は消費します。",
-    "desc": "Have 4000 Bauxite. Equip a secretary with Type 0 Fighter Model 52s in her first two slots. Scrap 3 Type 96 Fighters and 5 Type 0 Fighter Model 21s."
+    "desc": "함상전투기 「96식 함전」 x3, 「영전 21형」 x5를 폐기. 비서함의 1번 및 2번 장비 슬롯에 「영전 52형」을 장착. 보크사이트 4,000을 준비하라. ※임무 달성 후, 준비한 자원은 소비합니다."
   },
   "679": {
     "code": "F71",
     "name_jp": "対空兵装の拡充",
-    "name": "An Expansion of Anti-Air Armaments",
+    "name": "대공 병장의 확충",
     "desc_jp": "対空兵装の整備拡充を実施する！「中口径主砲」系装備x6、「副砲」系装備x3を廃棄、<br>ボーキサイト900を準備せよ！\u3000※任務達成後、準備した資源は消費します。",
-    "desc": "Have 900 Bauxite. Scrap 6 Medium Cal. Main Guns and 3 Secondary Guns."
+    "desc": "대공 병장의 정비 확충을 실시한다! 「중구경 주포」계 장비 x6, 「부포」계 장비 x3을 폐기하고, 보크사이트 900을 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다."
   },
   "680": {
     "code": "Fq6",
     "name_jp": "対空兵装の整備拡充",
-    "name": "Quarterly AA Guns",
+    "name": "대공 병장의 정비 확충",
     "desc_jp": "対空兵装の整備拡充を継続実施する！「機銃」系装備x4、「電探」系装備x4を廃棄、<br>ボーキサイト1,500を準備せよ！\u3000※任務達成後、準備した資源は消費します。",
-    "desc": "Have 1500 Bauxite. Scrap 4 AA Machine Guns and 4 Radars."
+    "desc": "대공 병장의 정비 확충을 계속 실시한다! 「기총」계 장비 x4, 「전탐」계 장비 x4를 폐기하고, 보크사이트 1,500을 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다."
   },
   "681": {
     "code": "Fy4",
     "name_jp": "航空戦力の再編増強準備",
-    "name": "Preparations for the reorganisation and build-up of air power",
+    "name": "항공 전력의 재편 증강 준비",
     "desc_jp": "航空戦力の再編増強準備を実施する！\u3000「艦爆」系装備x4、「艦攻」系装備x4を廃棄、<br>開発資材20及びボーキサイト1600を準備せよ！\u3000※任務達成後、準備した資源は消費します",
-    "desc": "Have 1600 Bauxite and 20 Development Materials. Scrap 4 Dive Bombers, and 4 Torpedo Bombers."
+    "desc": "항공 전력의 재편 증강 준비를 실시한다! 「함폭」계 장비 x4, 「함공」계 장비 x4를 폐기, 개발자재 20 및 보크사이트 1,600을 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다."
   },
   "682": {
     "code": "F73",
     "name_jp": "「海防艦」整備計画",
-    "name": "The Kaiboukan Consolidation Plan",
+    "name": "「해방함」 정비 계획",
     "desc_jp": "大型艦兵装を整理削減、警備及び海上護衛用小艦艇「海防艦」を整備する。「中口径主砲」系装備x4、<br>「大口径主砲」系装備x4を廃棄し、燃料500を準備せよ！\u3000※任務達成後、準備資源は消費します。",
-    "desc": "Have 500 Fuel. Scrap 4 Medium Caliber Main Guns and 4 Large Caliber Main Guns."
+    "desc": "대형함 병장을 정리 삭감하고, 경비 및 해상 호위용 소형 함정인 「해방함」을 정비한다. 「중구경 주포」계 장비 x4, 「대구경 주포」계 장비 x4를 폐기하고, 연료 500을 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다."
   },
   "683": {
     "code": "F74",
     "name_jp": "航空戦艦用強化型新主砲の研究",
-    "name": "Research on a New Type of Main Battery for Aviation Battleships",
+    "name": "항공전함용 강화형 신주포의 연구",
     "desc_jp": "秘書艦「伊勢改二」一番スロに「試製41cm三連装砲」改修max搭載、「41cm連装砲」x3 「22号対水上<br>電探」x2を廃棄、開発資材x40、高速建造材x50、鋼材4,500、新型砲熕兵装資材x2を準備せよ！",
-    "desc": "Have 40 Development Materials, 50 Flamethrowers, 4500 Steel and 2 New Model Artillery Armament Materials. Set Ise Kai Ni as secretary and equip her with a ★max Prototype 41cm Triple Gun Mount in her FIRST slot. Scrap two Type 22 Surface Radars and three 41cm Twin Gun Mounts."
+    "desc": "비서함 「이세 개2」의 1번 슬롯에 「시제 41cm 3연장포」 개수 max를 탑재, 「41cm 연장포」 x3, 「22호 대수상 전탐」 x2를 폐기, 개발자재 x40, 고속건조재 x50, 강재 4,500, 신형 포공 병장 자재 x2를 준비하라!"
   },
   "684": {
     "code": "F75",
     "name_jp": "精鋭「航空戦艦」彗星隊の編成",
-    "name": "Organize the Elite \"Battle Carrier\" Suisei Air Group",
+    "name": "정예 「항공전함」 스이세이 부대의 편성",
     "desc_jp": "精鋭彗星隊編成：旗艦「伊勢改二」第三装備スロに「彗星二二型(六三四空)」搭載、熟練搭乗員、開発資材<br>x30、新型航空兵装資材を用意、「九九艦爆」「彗星」各x3廃棄、ボーキサイト一定量確保せよ！",
-    "desc": "Set Ise kai ni as Secretary, equipped with a Suisei Model 22 (634 Air Group) in the third slot, scrap 3 Type 99 Dive Bombers and 3 Suisei, and prepare 3,000 bauxite, 1 Skilled Crew Member, 30 devmats and 1 New Model Aerial Armament Material."
+    "desc": "정예 스이세이 부대 편성: 기함 「이세 개2」의 3번 장비 슬롯에 「스이세이 22형(634공)」 탑재, 숙련탑승원, 개발자재 x30, 신형 항공 병장 자재를 준비, 「99식 함폭」, 「스이세이」 각 x3을 폐기, 보크사이트를 일정량(3,000) 확보하라!"
   },
   "685": {
     "code": "F76",
     "name_jp": "駆逐艦主砲兵装の戦時改修",
-    "name": "Wartime Modification of Destroyer Main Guns",
+    "name": "구축함 주포 병장의 전시 개수",
     "desc_jp": "旗艦特型駆逐艦の第一スロに「12.7cm連装砲A型改二」改修maxを装備、 「10cm連装高角砲」x4<br> 「94式高射装置」x1を廃棄、開発資材x30、鋼材900、新型砲熕兵装資材x1を準備せよ！",
-    "desc": "Have 30 Development Materials, 900 steel, and a New Type Artillery Armament Material. Equip an unlocked ★max 12.7cm Twin Gun Model A Kai 2 in the first slot of your Fubuki-class secretary ship. And then scrap four 10cm Twin High-angle Gun and one Type 94 AAFD."
+    "desc": "기함 특형 구축함의 1번 슬롯에 「12.7cm 연장포 A형 개2」 개수 max를 장착, 「10cm 연장고각포」 x4, 「94식 고사장치」 x1을 폐기, 개발자재 x30, 강재 900, 신형 포공 병장 자재 x1을 준비하라!"
   },
   "686": {
     "code": "Fq7",
     "name_jp": "戦時改修A型高角砲の量産",
-    "name": "Mass Wartime Production of the Type A Dual-Purpose Gun",
+    "name": "전시 개수 A형 고각포의 양산",
     "desc_jp": "旗艦特型駆逐艦の第一スロに「12.7cm連装砲A型改二」改修maxを装備、 「10cm連装高角砲」x4<br> 「94式高射装置」x1を廃棄、開発資材x30、鋼材900、新型砲熕兵装資材x1を再び準備せよ！",
-    "desc": "Prepare 900 Steel, 30 Development material, and 1 New Model Gun Mount Improvement Material in your inventory. Have a Fubuki-class secretary ship with a ★max 12.7cm Twin Gun Mount Model A Kai 2 equipped in her first slot. Scrap 4 10cm Twin High-angle Gun Mount and 1 Type 94 Anti-Aircraft Fire Director."
+    "desc": "기함 특형 구축함의 1번 슬롯에 「12.7cm 연장포 A형 개2」 개수 max를 장착, 「10cm 연장고각포」 x4, 「94식 고사장치」 x1을 폐기, 개발자재 x30, 강재 900, 신형 포공 병장 자재 x1을 다시 한번 준비하라!"
   },
   "687": {
     "code": "F78",
     "name_jp": "駆逐艦主砲兵装の戦時改修【II】",
-    "name": "Wartime modifications of destroyers' main guns (II)",
+    "name": "구축함 주포 병장의 전시 개수【II】",
     "desc_jp": "旗艦「夕立改二」または「時雨改二」第一スロに「12.7cm連装砲B型改二」改修max装備、 「10cm連装<br>高角砲」x5及び「94式高射装置」x1廃棄、開発資材x50、鋼材1200、新型砲熕兵装資材x1を準備せよ！",
-    "desc": "Equip a max modified 12.7cm Twin Mount Type-B Kai 2 in the first slot of your secratery destroyer that must be either Yuudachi Kai Ni or Shigure Kai Ni and proceed to scrap x5 10cm Twin High-angle Mount and x1 Type 94 Anti-Aircraft Fire Director, and prepare x50 Development Materials, x1200 steel, and x1 New Type Artillery Armament Materials"
+    "desc": "기함 「유다치 개2」 또는 「시구레 개2」의 1번 슬롯에 「12.7cm 연장포 B형 개2」 개수 max를 장착, 「10cm 연장고각포」 x5 및 「94식 고사장치」 x1을 폐기, 개발자재 x50, 강재 1,200, 신형 포공 병장 자재 x1을 준비하라!"
   },
   "688": {
     "code": "Fq8",
     "name_jp": "航空戦力の強化",
-    "name": "Aerial Force Enhancement",
+    "name": "항공 전력의 강화",
     "desc_jp": "航空戦力強化任務：「艦戦」「艦爆」「艦攻」「水偵」を各3装備ずつ廃棄、さらに熟練搭乗員x1、及び<br>ボーキサイト1,800を準備せよ！(任務達成後、熟練搭乗員x1及びボーキサイト1,800は消滅します)",
-    "desc": "Have 1800 Bauxite and a Skilled Pilot. And then scrap 3 fighters, 3 dive bombers, 3 torpedo bombers, and 3 recon seaplanes."
+    "desc": "항공 전력 강화 임무: 「함전」, 「함폭」, 「함공」, 「수정」을 각 3개씩 폐기, 나아가 「숙련탑승원」 x1 및 보크사이트 1,800을 준비하라! (임무 달성 후, 숙련탑승원 x1 및 보크사이트 1,800은 소멸합니다)"
   },
   "689": {
     "code": "F80",
     "name_jp": "戦闘機隊戦力の拡充",
-    "name": "Expansion of Fighter Strength",
+    "name": "전투기 부대 전력의 확충",
     "desc_jp": "戦闘機拡充任務：「艦戦」「水偵」各x4、「艦偵」x2装備を廃棄、熟練搭乗員x1、新型航空兵装資材x1<br>ボーキサイト3,000を準備せよ！(任務達成後、準備した資源・熟練搭乗員・新型航空兵装資材は消費)",
-    "desc": "Have a Skilled Pilot, a New Model Aerial Armament Material, and 3000 bauxite. And then scrap 4 fighters, 4 recon seaplane, and 2 carrier-based recon plane."
+    "desc": "전투기 확충 임무: 「함전」, 「수정」 각 x4, 「함정」 x2 장비를 폐기, 「숙련탑승원」 x1, 「신형 항공 병장 자재」 x1, 보크사이트 3,000을 준비하라! (임무 달성 후, 준비한 자원·숙련탑승원·신형 항공 병장 자재는 소비됩니다)"
   },
   "690": {
     "code": "F81",
     "name_jp": "基地航空隊戦力の拡充",
-    "name": "Expansion of LBAS Strength",
+    "name": "기지항공대 전력의 확충",
     "desc_jp": "基地航空隊拡充任務：「艦戦」「艦爆」「艦攻」各x4装備を廃棄、熟練搭乗員x1、新型航空兵装資材x2<br>ボーキサイト4,800を準備せよ！(任務達成後、準備した資源・熟練搭乗員・新型航空兵装資材は消費)",
-    "desc": "Have a Skilled Pilot, 2 New Model Aerial Armament Material, and 4800 bauxite. And then scrap 4 fighters, 4 dive bombers, and 4 torpedo bombers."
+    "desc": "기지항공대 확충 임무: 「함전」, 「함폭」, 「함공」 각 x4 장비를 폐기, 「숙련탑승원」 x1, 「신형 항공 병장 자재」 x2, 보크사이트 4,800을 준비하라! (임무 달성 후, 준비한 자원·숙련탑승원·신형 항공 병장 자재는 소비됩니다)"
   },
   "691": {
     "code": "F82",
     "name_jp": "提督室のリフォーム",
-    "name": "Renovation of the Admiral's Room",
+    "name": "제독 집무실의 리폼",
     "desc_jp": "提督室のリフォームを実施する！まずは装備の整理から！「中口径主砲」系装備x4、「副砲」系装備x4、<br>「機銃」系装備x4を廃棄、ボーキサイト1,600を準備せよ！\u3000※任務達成後、準備した資源は消費します。",
-    "desc": "Carry out the renovation of the Admiral's Room! First we need to arrange the equipment, proceed to scrap x4 Medium main guns, x4 secondary guns, x4 Machine guns, and prepare 1,600 bauxite."
+    "desc": "제독 집무실의 리폼을 실시한다! 우선은 장비의 정리부터! 「중구경 주포」계 장비 x4, 「부포」계 장비 x4, 「기총」계 장비 x4를 폐기하고, 보크사이트 1,600을 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다."
   },
   "692": {
     "code": "F83",
     "name_jp": "水上艦艇装備工廠の整備",
-    "name": "Maintenance of the Surface Vessels' Equipment Arsenal",
+    "name": "수상 함정 장비 공창의 정비",
     "desc_jp": "水上艦艇装備工廠の整備を実施する！「小口径主砲」系装備x5、「大口径主砲」系装備x5、<br>「水偵」系装備x5を廃棄、鋼材3,000を準備せよ！\u3000※任務達成後、準備した資源は消費します。",
-    "desc": "Carry out a maintenance of the surface vessels' equipment arsenal! Scrap 5 small-caliber main guns, 5 large-caliber main guns, 5 recon seaplanes, and prepare 3000 steel!"
+    "desc": "수상 함정 장비 공창의 정비를 실시한다! 「소구경 주포」계 장비 x5, 「대구경 주포」계 장비 x5, 「수정」계 장비 x5를 폐기하고, 강재 3,000을 준비하라! ※임무 달성 후, 준비한 자원은 소비합니다."
   },
   "693": {
     "code": "F84",
     "name_jp": "回転翼機の開発",
-    "name": "Development of Rotorcraft",
+    "name": "회전익기의 개발",
     "desc_jp": "回転翼機装備の研究開発を実施する。「水偵」系装備x4、「艦戦」系装備x3、「艦攻」系装備x2を廃棄、<br>ボーキサイト3,000、開発資材x20を準備せよ！\u3000※任務達成後、準備した資源・資材は消費します。",
-    "desc": "Prepare 3000 Bauxite and 20 Development material in your inventory. Scrap 4 seaplanes, 3 fighters, and 2 torpedo bombers."
+    "desc": "회전익기 장비의 연구 개발을 실시한다. 「수정」계 장비 x4, 「함전」계 장비 x3, 「함공」계 장비 x2를 폐기, 보크사이트 3,000, 개발자재 x20을 준비하라! ※임무 달성 후, 준비한 자원·자재는 소비합니다."
   },
   "694": {
     "code": "F85",
     "name_jp": "新型航空艤装の研究",
-    "name": "Research of New Aircraft Rigging",
+    "name": "신형 항공 의장의 연구",
     "desc_jp": "艦艇の航空運用能力を高める新型航空艤装の研究を行う。「瑞雲」x4、「彗星」x4、「流星」x2を廃棄、<br>鋼材8,500、ボーキサイト4,000、開発資材x60を準備せよ！\u3000※準備した資源・資材は消費します。",
-    "desc": "Prepare 8500 Steel, 4000 Bauxite, and 60 Development material in your inventory. Scrap 4 Zuiun, 4 Suisei, and 2 Ryuusei."
+    "desc": "함정의 항공 운용 능력을 높이는 신형 항공 의장의 연구를 수행한다. 「즈이운」 x4, 「스이세이」 x4, 「류세이」 x2를 폐기, 강재 8,500, 보크사이트 4,000, 개발자재 x60을 준비하라! ※준비한 자원·자재는 소비합니다."
   },
   "695": {
     "code": "F86",
