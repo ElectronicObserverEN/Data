@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030643",
+  "version": "21030644",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1545,7 +1545,7 @@
     "name_jp": "艦載機演習",
     "name": "함재기 연습",
     "desc_jp": "艦載機演習任務：正規空母旗艦他1隻計2隻以上及び駆逐艦2隻を含む空母機動部隊を編成。<br>艦載機の練度向上と装備充実を図る！同機動部隊で、本日中に演習を【A判定】以上3回勝利せよ！",
-    "desc": "함재기 연습 임무: 정규항모 기함 외 1척 총 2척 이상 및 구축함 2척을 포함한 항모 기동 부대를 편성. 함재기의 숙련도 향상과 장비 충실을 도모한다! 동 기동 부대로 오늘 중에 훈련에서 A판정 이상으 3번 승리하라!"
+    "desc": "함재기 연습 임무: 정규항모 기함 외 1척 총 2척 이상 및 구축함 2척을 포함한 항모 기동 부대를 편성. 함재기의 숙련도 향상과 장비 충실을 도모한다! 동 기동 부대로 오늘 중에 훈련에서 A판정 이상으로 3번 승리하라!"
   },
   "332": {
     "code": "C32",
@@ -1564,422 +1564,422 @@
   "334": {
     "code": "C34",
     "name_jp": "航空戦隊演習(その弐)",
-    "name": "Aviation Squadron Exercises (Part 2)",
+    "name": "항공전대 연습 (그 두번째)",
     "desc_jp": "航空戦隊演習任務：航空母艦3隻以上及び駆逐艦2隻以上を含む航空戦隊を編成。大規模演習により、<br>さらなる戦技及び練度向上を図る。同航空戦隊で、本日中に演習を【S判定】勝利6回以上達成せよ！",
-    "desc": "Use a fleet with 3 Light Aircraft Carriers/Standard Aircraft Carriers/Armored Aircraft Carriers, 2 Destroyers, and up to 1 additional ship. Obtain an S-rank in Exercises 6 times within the same day."
+    "desc": "항공전대 연습 임무: 항공모함 3척 이상 및 구축함 2척 이상을 포함한 항공전대를 편성. 대규모 연습을 통해, 더욱 정진된 전술 및 숙련도 향상을 도모한다. 해당 항공전대로 오늘 중에 연습에서 【S판정】 승리를 6회 이상 달성하라!"
   },
   "335": {
     "code": "C35",
-    "name_jp": "新しき盾",
+    "name_jp": "새로운 방패",
     "name": "A New Shield",
     "desc_jp": "「新しき盾」演習任務：重巡「摩耶」及び重巡「羽黒」を擁する艦隊による演習「新しき盾」を実施する。<br>本「新しき盾」演習において、本日中に【S判定】勝利3回以上達成せよ！",
-    "desc": "Use a fleet with Maya, Haguro, and up to 4 additional ships. Obtain an S-rank in Exercises 3 times within the same day."
+    "desc": "「새로운 방패」 연습 임무: 중순양함 「마야」 및 중순양함 「하구로」를 포함한 함대로 연습 「새로운 방패」를 실시한다. 본 「새로운 방패」 연습에서 오늘 중에 【S판정】 승리를 3회 이상 달성하라!"
   },
   "336": {
     "code": "C37",
     "name_jp": "輸送船団演習",
-    "name": "Transport Fleet Exercise",
+    "name": "수송 선단 연습",
     "desc_jp": "輸送船団演習任務：補給艦または揚陸艦、海防艦を計2隻以上含む輸送船団を編成、<br>同輸送船団及び護衛艦艇による演習で、本日中に【A判定】勝利4回以上達成せよ。",
-    "desc": "Use a fleet with 2 Amphibious Assault Ships/Fleet Oilers/Coastal Defense Ships and up to 4 additional ships. Obtain an A-rank in Exercises 4 times within the same day."
+    "desc": "수송 선단 연습 임무: 보급함 또는 양륙함, 해방함을 총 2척 이상 포함한 수송 선단을 편성, 동 수송 선단 및 호위 함정에 의한 연습으로 오늘 중에 【A판정】 승리를 4회 이상 달성하라."
   },
   "337": {
     "code": "Cq2",
     "name_jp": "「十八駆」演習！",
-    "name": "DesDiv 18 Exercise!",
+    "name": "「제18구축대」 연습!",
     "desc_jp": "駆逐艦演習任務：第十八駆逐隊「霞」「霰」「陽炎」「不知火」の4隻を含む演習艦隊を編成。<br>同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！精鋭十八駆に落ち度など無し！",
-    "desc": "Use a fleet with Kagerou, Shiranui, Kasumi, Arare, and up to 2 additional ships to obtain an S-rank in Exercises 3 times within the same day."
+    "desc": "구축함 연습 임무: 제18구축대 「카스미」 「아라레」 「카게로」 「시라누이」 4척을 포함한 연습 함대를 편성. 해당 함대로 오늘 중에 연습에서 【S판정】 승리를 3회 이상 달성하라! 정예 18구축대에 빈틈이란 없다!"
   },
   "338": {
     "code": "C39",
-    "name_jp": "睦月型集合！演習始め！",
+    "name_jp": "무츠키형 집합! 연습 개시!",
     "name": "Mutsuki-class, Assemble! Commence Exercises!",
     "desc_jp": "睦月型演習任務：睦月型駆逐艦4隻による駆逐隊を含む演習艦隊を編成。<br>同艦隊で本日中に演習にて4回以上勝利せよ！睦月型、がんばるにゃしぃ！",
-    "desc": "Use a fleet with 4 Mutsuki-class ships and up to 2 additional ships. Obtain a B-rank (or higher) in Exercises (PvP) 4 times within the same day."
+    "desc": "무츠키형 연습 임무: 무츠키형 구축함 4척을 포함한 구축대 연습 함대를 편성. 해당 함대로 오늘 중에 연습에서 4회 이상 승리하라! 무츠키형, 힘내겠다냐시!"
   },
   "339": {
     "code": "Cq3",
-    "name_jp": "「十九駆」演習！",
+    "name_jp": "「제19구축대」 연습!",
     "name": "\"DesDiv 19\" Exercises!",
     "desc_jp": "駆逐艦演習任務：第十九駆逐隊「磯波」「浦波」「綾波」「敷波」の4隻を含む演習艦隊を編成。<br>同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！精鋭十九駆、じゃ、見ててよね！",
-    "desc": "Use a fleet with Isonami, Uranami, Ayanami, Shikinami, and up to 2 additional ships. Obtain an S-rank in Exercises (PvP) 3 times within the same day."
+    "desc": "구축함 연습 임무: 제19구축대 「이소나미」 「우라나미」 「아야나미」 「시키나미」 4척을 포함한 연습 함대를 편성. 해당 함대로 오늘 중에 연습에서 【S판정】 승리를 3회 이상 달성하라! 정예 19구축대, 자, 지켜봐 줘!"
   },
   "340": {
     "code": "20WiC1",
     "name_jp": "【桃の節句任務】桃の節句演習！",
-    "name": "Peach Festival Exercises!",
+    "name": "【모모노셋쿠 임무】 모모노셋쿠 연습!",
     "desc_jp": "桃の節句任務：駆逐艦または海防艦計3隻を含む桃の節句艦隊を編成、同艦隊を以て、演習を実施！<br>桃の節句演習艦隊で、本日中に演習において【S判定】勝利を3回以上達成せよ！",
-    "desc": "Use a fleet with 3 Destroyers and up to 3 additional ships to obtain an S-rank in Exercises 3 times within the same day."
+    "desc": "모모노셋쿠 임무: 구축함 또는 해방함 총 3척을 포함한 모모노셋쿠 함대를 편성, 해당 함대를 이끌고 연습을 실시! 모모노셋쿠 연습 함대로, 오늘 중에 연습에서 【S판정】 승리를 3회 이상 달성하라!"
   },
   "342": {
     "code": "Cq4",
     "name_jp": "小艦艇群演習強化任務",
-    "name": "Small ship exercise strengthining mission",
+    "name": "소함정군 연습 강화 임무",
     "desc_jp": "駆逐艦または海防艦計4隻(軽巡級1隻導入可能)を含む演習艦隊を編成、<br>同演習艦隊による演習で本日中に【A判定】以上の勝利を4回以上達成せよ！",
-    "desc": "Use a fleet with 3 Destroyers/Coastal Defense Ships, 1 additional Destroyer/Coastal Defense Ship OR 1 Light Cruiser, and up to 2 additional ships. Obtain an A-rank (or higher) in Exercises 4 times within the same day."
+    "desc": "구축함 또는 해방함 총 4척(경순양함급 1척 투입 가능)을 포함한 연습 함대를 편성, 해당 연습 함대에 의한 연습으로 오늘 중에 【A판정】 이상의 승리를 4회 이상 달성하라!"
   },
   "343": {
     "code": "C46",
     "name_jp": "航空母艦演習",
-    "name": "Aircraft Carrier Exercises",
+    "name": "항공모함 연습",
     "desc_jp": "航空母艦演習任務：正規空母を旗艦に、また僚艦に正規空母を1隻以上、さらに駆逐艦2隻以上を含む<br>艦隊を編成。航空母艦の練度向上を図る！同艦隊で、本日中に4回以上演習で勝利せよ！",
-    "desc": "Use a fleet with 1 Standard Aircraft Carrier as flagship, 1 other Standard Aircraft Carrier, 2 Destroyers, and up to 2 additional ships to obtain a B-rank(?) (or higher) in Exercises 4 times within the same day."
+    "desc": "항공모함 연습 임무: 정규 항공모함을 기함으로, 수반함에 정규 항공모함 1척 이상, 나아가 구축함 2척 이상을 포함한 함대를 편성. 항공모함의 숙련도 향상을 도모한다! 해당 함대로 오늘 중에 4회 이상 연습에서 승리하라!"
   },
   "344": {
     "code": "C48",
     "name_jp": "「第十方面艦隊」演習！",
-    "name": "\"10th Area Fleet\" Exercises",
+    "name": "「제10방면함대」 연습!",
     "desc_jp": "第十方面艦隊演習任務：同艦隊の基幹戦力である重巡「羽黒」「足柄」、駆逐艦「神風」のうち<br>2隻以上を含む艦隊を編成。同艦隊で、本日中に【A判定】以上の勝利を4回以上達成せよ！",
-    "desc": "Secure 4 A-Rank+ victories in Exercises within the same day using any 2 of Haguro, Ashigara or Kamikaze and up to 4 additional ships."
+    "desc": "제10방면함대 연습 임무: 해당 함대의 기간 전력인 중순양함 「하구로」 「아시가라」, 구축함 「카미카제」 중 2척 이상을 포함한 함대를 편성. 해당 함대로 오늘 중에 【A판정】 이상의 승리를 4회 이상 달성하라!"
   },
   "345": {
     "code": "Cy1",
     "name_jp": "演習ティータイム！",
-    "name": "Tea Time Exercises",
+    "name": "연습 티타임!",
     "desc_jp": "「Warspite」「金剛」「Ark Royal」「Nelson」及びJ級駆逐艦から4隻以上含む艦隊を編成！<br>同ティータイム艦隊で、本日中に【A判定】以上の勝利を4回以上達成せよ！Tea Timeは大切ネー！",
-    "desc": "Organize a fleet which 4 of the ships include British born ships such as Warspite , Kongou , Ark Royal , Nelson or J-class DDs and score 4 PVP A rank victories or higher in the same day."
+    "desc": "「Warspite」 「콩고」 「Ark Royal」 「Nelson」 및 J급 구축함 중 4척 이상을 포함한 함대를 편성! 동 티타임 함대로 오늘 중에 【A판정】 이상의 승리를 4회 이상 달성하라! Tea Time은 중요하다네-!"
   },
   "346": {
     "code": "Cy2",
     "name_jp": "最精鋭！主力オブ主力、演習開始！",
-    "name": "The cream of the crop! Main Force of the Main Force, commence exercises!",
+    "name": "최정예! 주력 중의 주력, 연습 개시!",
     "desc_jp": "第十駆逐隊演習任務：改装甲型駆逐艦「夕雲改二」「巻雲改二」「風雲改二」「秋雲改二」の4隻を<br>含む艦隊を編成、同駆逐隊を含む精鋭艦隊で、本日中に【S判定】以上の勝利を4回以上達成せよ！",
-    "desc": "Organize a fleet which 4 of the ships include Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni, and Akigumo Kai Ni and score 4 PVP S- rank victories in the same day."
+    "desc": "제10구축대 연습 임무: 개장 갑형 구축함 「유구모 개2」 「마키구모 개2」 「카자구모 개2」 「아키구모 개2」 4척을 포함한 함대를 편성, 동 구축대를 포함한 정예 함대로 오늘 중에 【S판정】 이상의 승리를 4회 이상 달성하라!"
   },
   "347": {
     "code": "C51",
     "name_jp": "奇跡の駆逐艦",
-    "name": "The Miraculous Destroyer",
+    "name": "기적의 구축함",
     "desc_jp": "旗艦「雪風」を含む合計4隻以上の駆逐艦を配備した精強な演習艦隊を編成、<br>本日中に演習で【S判定】以上の勝利を4回以上達成せよ！",
-    "desc": "Have Yukikaze as flagship along with 3 additional DDs and 2 XX and win 4 S ranks on the same day."
+    "desc": "기함 「유키카제」를 포함하여 합계 4척 이상의 구축함을 배치한 정예 연습 함대를 편성, 오늘 중에 연습에서 【S판정】 이상의 승리를 4회 이상 달성하라!"
   },
   "348": {
     "code": "Cy3",
     "name_jp": "「精鋭軽巡」演習！",
-    "name": "Elite Light Cruiser Exercise",
+    "name": "「정예 경순」 연습!",
     "desc_jp": "旗艦に軽巡級(雷巡を除く)、旗艦含む3隻以上の軽巡級と随伴駆逐艦2隻を配備した軽巡演習艦隊を<br>編成、同艦隊により本日中に演習で【A判定】以上の勝利を4回以上達成せよ！",
-    "desc": "Organize a fleet with a CL/CT as flagship, 2 CL/CT/CLT, 2 DD, 1 XX and score 4 A+ ranks in PVP on the same day."
+    "desc": "기함에 경순양함급(뇌장순양함 제외), 기함 포함 3척 이상의 경순양함급과 수반 구축함 2척을 배치한 경순 연습 함대를 편성, 동 함대에 의해 오늘 중에 연습에서 【A판정】 이상의 승리를 4회 이상 달성하라!"
   },
   "350": {
     "code": "Cy4",
     "name_jp": "精鋭「第七駆逐隊」演習開始！",
-    "name": "Elite \"7th Destroyer Division\", Commence Exercises!",
+    "name": "정예 「제7구축대」 연습 개시!",
     "desc_jp": "七駆演習任務：第七駆逐隊「朧」「曙」「漣」「潮」の4隻を含む演習艦隊を編成、<br>本日中に【A判定】勝利3回以上達成せよ。精鋭第七駆逐隊、演習開始！",
-    "desc": "Organize a fleet consisting of Oboro, Akebono, Sazanami, Ushio, and 2 XX and score 3 A ranks in PVP."
+    "desc": "7구축 연습 임무: 제7구축대 「오보로」 「아케보노」 「사자나미」 「우시오」 4척을 포함한 연습 함대를 편성, 오늘 중에 【A판정】 승리 3회 이상을 달성하라. 정예 제7구축대, 연습 개시!"
   },
   "351": {
     "code": "C56",
     "name_jp": "改装航空巡洋艦「最上」、進発せよ！",
-    "name": "Remodeled Aviation Cruiser \"Mogami\", Go Wild!",
+    "name": "개장 항공순양함 「모가미」, 진발하라!",
     "desc_jp": "改装航空巡洋艦「最上改二」または特殊改装航空巡洋艦「最上改二特」を旗艦として、<br>随伴駆逐艦3隻以上を含む演習艦隊を編成！本日中に【A判定】勝利を4回以上達成せよ！",
-    "desc": "Organize a fleet with Mogami Kai Ni or Mogami Kai Ni Toku as flagship, plus 3 DD and 2 XX and score 4 A-Rank victories in PvP on the same day."
+    "desc": "개장 항공순양함 「모가미 개2」 또는 특수개장 항공순양함 「모가미 개2특」을 기함으로 하여, 수반 구축함 3척 이상을 포함한 연습 함대를 편성! 오늘 중에 【A판정】 승리를 4회 이상 달성하라!"
   },
   "352": {
     "code": "C57",
     "name_jp": "改装「矢矧」、精鋭水雷戦隊旗艦演習！",
-    "name": "Exercises with the Elite Remodeled DesRon Flagship, \"Yahagi\"!",
+    "name": "개장 「야하기」, 정예 수뢰전대 기함 연습!",
     "desc_jp": "水雷戦隊旗艦演習：改装軽巡「矢矧改二」または「矢矧改二乙」を旗艦として、同指揮下に<br>精鋭駆逐艦4隻以上を含む水雷戦隊を編成！本日中に【S判定】勝利を4回以上達成せよ！",
-    "desc": "Organize a fleet with Yahagi Kai Ni or Yahagi Kai Ni B as flagship, plus 4 DD and 1 XX and score 4 S-Rank victories in PvP on the same day."
+    "desc": "수뢰전대 기함 연습: 개장 경순 「야하기 개2」 또는 「야하기 개2을」을 기함으로 하여, 동 지휘하에 정예 구축함 4척 이상을 포함한 수뢰전대를 편성! 오늘 중에 【S판정】 승리를 4회 이상 달성하라!"
   },
   "353": {
     "code": "Cy5",
     "name_jp": "「巡洋艦戦隊」演習！",
-    "name": "Cruiser Squadron, Commence Practice!",
+    "name": "「순양함 전대」 연습!",
     "desc_jp": "「重巡洋艦」または「航空巡洋艦」、旗艦を含む重巡級4隻による巡洋艦戦隊を基幹とし、<br>随伴駆逐艦2隻による計6隻編成の艦隊で、本日中に5回以上演習で勝利せよ！",
-    "desc": "Organize a fleet consisting of 1 CA(V) as flagship, 3 CA(V) and 2 DD, then score 5 victories in PVP on the same day."
+    "desc": "「중순양함」 또는 「항공순양함」, 기함을 포함한 중순급 4척에 의한 순양함 전대를 기간으로 하고, 수반 구축함 2척에 의한 총 6척 편성의 함대로, 오늘 중에 5회 이상 연습에서 승리하라!"
   },
   "354": {
     "code": "Cy6",
     "name_jp": "「改装特務空母」任務部隊演習！",
-    "name": "\"Remodeled Utility Carrier\" Task Force Exercise",
+    "name": "「개장 특무 공모」 임무 부대 연습!",
     "desc_jp": "旗艦に「改装特務空母」、僚艦に「Fletcher級駆逐艦」または「John C.Butler級護衛駆逐艦」<br>計2隻以上を含む任務部隊を編成。同艦隊で、本日中に【S判定】勝利を4回以上達成せよ！",
-    "desc": "Organize a fleet with Gambier Bay Mk.II as flagship and at least two members of the Fletcher-class or the John C. Butler-class in your fleet and score S rank 4 times in PvP"
+    "desc": "기함에 「개장 특무 공모」, 요함에 「Fletcher급 구축함」 또는 「John C. Butler급 호위 구축함」 계 2척 이상을 포함한 임무 부대를 편성. 동 함대로 오늘 중에 【S판정】 승리를 4회 이상 달성하라!"
   },
   "355": {
     "code": "Cy7",
     "name_jp": "精鋭「第十五駆逐隊」第一小隊演習！",
-    "name": "Elite \"15th DesDiv\" 1st Platoon Exercise",
+    "name": "정예 「제15구축대」 제1소대 연습!",
     "desc_jp": "旗艦に「黒潮改二」または「親潮改二」、そのいずれかを二番艦とする演習艦隊で、<br>本日中に【S判定】勝利を4回以上達成せよ！",
-    "desc": "Organize a fleet with either Oyashio Kai Ni or Kuroshio Kai Ni as flagship while the other is in the 2nd ship slot and 4 XX and score 4 S ranks on the same day"
+    "desc": "기함에 「쿠로시오 개2」 또는 「오야시오 개2」, 그중 어느 하나를 2번함으로 하는 연습 함대로, 오늘 중에 【S판정】 승리를 4회 이상 달성하라!"
   },
   "356": {
     "code": "Cy8",
     "name_jp": "精鋭「第十九駆逐隊」演習！",
-    "name": "Elite DesDiv 19 exercise!",
+    "name": "정예 「제19구축대」 연습!",
     "desc_jp": "精鋭駆逐艦演習任務：精鋭第十九駆逐隊「磯波改二」「浦波改二」「綾波改二」「敷波改二」<br>4隻を含む演習艦隊を編成。同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！",
-    "desc": "Organize a fleet with Isonami Kai Ni, Uranami Kai Ni, Ayanami Kai Ni, Shikinami Kai Ni in your fleet and score S rank 3 times in PvP"
+    "desc": "정예 구축함 연습 임무: 정예 제19구축대 「이소나미 개2」 「우라나미 개2」 「아야나미 개2」 「시키나미 개2」 4척을 포함한 연습 함대를 편성. 동 함대로 오늘 중에 연습에서 【S판정】 승리 3회 이상을 달성하라!"
   },
   "357": {
     "code": "Cy9",
     "name_jp": "「大和型戦艦」第一戦隊演習、始め！",
-    "name": "[Yamato-class Battleship] 1st Squadron exercises, begin! ",
+    "name": "「야마토급 전함」 제1전대 연습, 시작!",
     "desc_jp": "大和型戦艦演習任務：大和型戦艦「大和」及び「武蔵」両艦、随伴艦に軽巡1隻、駆逐艦2隻<br>以上を含む演習艦隊を編成。同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！",
-    "desc": "Organize a fleet with Yamato, Musashi, 1CL and 2DD in your fleet and score S rank 3 times in PvP"
+    "desc": "야마토급 전함 연습 임무: 야마토급 전함 「야마토」 및 「무사시」 양 함, 수반함에 경순 1척, 구축함 2척 이상을 포함한 연습 함대를 편성. 동 함대로 오늘 중에 연습에서 【S판정】 승리 3회 이상을 달성하라!"
   },
   "358": {
     "code": "C68",
     "name_jp": "「Taffy Ⅲ」 This is a drill!",
     "name": "「Taffy Ⅲ」 This is a drill!",
     "desc_jp": "「Samuel B.Roberts」「Johnston」「Gambier Bay」の三隻を含む任務部隊「Taffy Ⅲ」を編成、<br>本日中に演習で【S判定】勝利を4回以上達成せよ！This is a drill. I repeat, this is a drill.",
-    "desc": "Organize a fleet with Samuel B.Roberts, Johnston and Gambier Bay in your fleet and score S rank 4 times in PvP"
+    "desc": "「Samuel B.Roberts」 「Johnston」 「Gambier Bay」 3척을 포함한 임무 부대 「Taffy Ⅲ」를 편성, 오늘 중에 연습에서 【S판정】 승리를 4회 이상 달성하라! This is a drill. I repeat, this is a drill."
   },
   "360": {
     "code": "C70",
     "name_jp": "第一線航空母艦「鳳翔改二」、演習開始！",
-    "name": "Frontline Aircraft Carrier [Houshou Kai Ni], Begin Exercises!",
+    "name": "제1선 항공모함 「호쇼 개2」, 연습 개시!",
     "desc_jp": "改装を完了した航空母艦「鳳翔改二」または同戦力投射母艦「鳳翔改二戦」を旗艦、そして<br>駆逐艦3隻以上を含む演習艦隊を編成！本日中に【S判定】勝利を5回以上達成せよ！",
-    "desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and 3 DD in your fleet and score S rank 5 times in PvP"
+    "desc": "개장을 완료한 항공모함 「호쇼 개2」 또는 동 전력투사모함 「호쇼 개2전」을 기함으로 하고, 구축함 3척 이상을 포함한 연습 함대를 편성! 오늘 중에 【S판정】 승리를 5회 이상 달성하라!"
   },
   "361": {
     "code": "2512 C1",
     "name_jp": "【年末年始】海上護衛部隊 特別演習！",
-    "name": "[New Year Holiday Season] Maritime Escort Force Special Exercise!",
+    "name": "【연말연시】 해상 호위 부대 특별 연습!",
     "desc_jp": "【年末年始特別演習】第一艦隊旗艦第1及び第2スロに「応急修理要員」を装備。軽空母級1隻+駆逐艦<br>4隻以上または海防艦2隻以上を含む海上護衛演習を実施、本日中に【S判定】勝利を4回以上達成せよ！",
-    "desc": "Organize a fleet with 1 CVL + 4 DD or 2 DE in your fleet with the flagship equipped with 2 Emergency Repair Personnel in her 1st and 2nd slots and score S rank 4 times in PvP"
+    "desc": "【연말연시 특별 연습】 제1함대 기함 제1 및 제2 슬롯에 「응급수리요원」을 장비. 경항모급 1척 + 구축함 4척 이상 또는 해방함 2척 이상을 포함한 해상 호위 연습을 실시, 오늘 중에 【S판정】 승리를 4회 이상 달성하라!"
   },
   "362": {
     "code": "Cy10",
     "name_jp": "特型初代「第十一駆逐隊」演習スペシャル！",
-    "name": "Special Type \"11th DesDiv Destroyer\", Exercises!",
+    "name": "특형 초대 「제11구축대」 연습 스페셜!",
     "desc_jp": "駆逐艦演習任務：第十一駆逐隊「吹雪」「白雪」「初雪」「深雪」の4隻を含む演習艦隊を編成。<br>同艦隊で本日中に演習で【A判定】勝利以上を4回以上達成せよ！特I型演習スペシャル！",
-    "desc": "Organize a fleet with Fubuki, Shirayuki, Hatsuyuki and Miyuki in your fleet and score A rank 4 times in PvP"
+    "desc": "구축함 연습 임무: 제11구축대 「후부키」 「시라유키」 「하츠유키」 「미유키」 4척을 포함한 연습 함대를 편성. 동 함대로 오늘 중에 연습에서 【A판정】 승리 이상을 4회 이상 달성하라! 특I형 연습 스페셜!"
   },
   "364": {
     "code": "C73",
     "name_jp": "精鋭第三戦隊、演習開始！",
-    "name": "Elite 3rd Fleet, Start Exercises!",
+    "name": "정예 제3전대, 연습 개시!",
     "desc_jp": "精鋭第三戦隊演習任務：「榛名改二乙/丙」「金剛改二丙」及び駆逐艦2隻以上を含む演習艦隊<br>を編成。同第三戦隊演習艦隊で本日中に演習で【S判定】勝利を4回以上達成せよ！",
-    "desc": "Organize a fleet with Haruna Kai Ni B/C , Kongou Kai Ni C, 2DD and 2XX in your fleet and score S rank 4 times in PvP"
+    "desc": "정예 제3전대 연습 임무: 「하루나 개2을/병」 「콩콩고 개2병」 및 구축함 2척 이상을 포함한 연습 함대를 편성. 동 제3전대 연습 함대로 오늘 중에 연습에서 【S판정】 승리를 4회 이상 달성하라!"
   },
   "365": {
     "code": "C75",
     "name_jp": "「佐世保の時雨」練度向上を図れ！",
-    "name": "[Shigure of Sasebo] Get Rid Of Skill Issue!",
+    "name": "「사세보의 시구레」 숙련도 향상을 꾀하라!",
     "desc_jp": "「佐世保の時雨」練度向上任務：駆逐艦「時雨」と第二七駆逐隊(白露・有明・夕暮)の僚艦1隻以上を<br>含む演習艦隊で、本日中に演習で【S判定】勝利を5回以上達成せよ！「佐世保の時雨」演習開始！",
-    "desc": "Organize a fleet with Shigure and at least one ship from DesDiv 27 (Shiratsuyu, Ariake, Yuugure) in your fleet and score S rank 5 times in PvP"
+    "desc": "「사세보의 시구레」 숙련도 향상 임무: 구축함 「시구레」와 제27구축대(시라츠유·아리아케·유구레)의 요함 1척 이상을 포함한 연습 함대로, 오늘 중에 연습에서 【S판정】 승리를 5회 이상 달성하라! 「사세보의 시구레」 연습 개시!"
   },
   "366": {
     "code": "C76",
     "name_jp": "最精鋭！改装「時雨」演習開始！",
-    "name": "The Most Elite! Improved Shigure Exercises, Commence!",
+    "name": "최정예! 개장 「시구레」 연습 개시!",
     "desc_jp": "「時雨改三」練度向上任務：改装白露型駆逐艦「時雨改三」を旗艦として、僚艦駆逐艦3隻以上を含む<br>演習艦隊で、本日中に演習で【S判定】勝利を4回以上達成せよ！最精鋭「時雨改三」、演習開始ッ！",
-    "desc": "Organize a fleet with Shigure Kai San as flagship and 3 other DD in your fleet and score S rank 4 times in PvP"
+    "desc": "「시구레 개3」 숙련도 향상 임무: 개장 시라츠유형 구축함 「시구레 개3」을 기함으로 하여, 요함 구축함 3척 이상을 포함한 연습 함대로, 오늘 중에 연습에서 【S판정】 승리를 4회 이상 달성하라! 최정예 「시구레 개3」, 연습 개시!"
   },
   "368": {
     "code": "Cy11",
     "name_jp": "「十六駆」演習！",
-    "name": " [16th Squadron] Exercises!",
+    "name": "「16구축대」 연습!",
     "desc_jp": "駆逐隊演習：第十六駆逐隊「天津風」「雪風」「時津風」「初風」のうち2隻以上を含む演習艦隊を編成。<br>同演習艦隊で本日中に演習【S判定】勝利3回以上を達成せよ！\u3000いい風きてる？十六駆、演習開始！",
-    "desc": "Organize a fleet with at least two members of Yukikaze, Tokitsukaze, Hatsukaze and Amatsukaze in your fleet and score S rank three times in PvP"
+    "desc": "구축대 연습: 제16구축대 「아마츠카제」 「유키카제」 「토키츠카제」 「하츠카제」 중 2척 이상을 포함한 연습 함대를 편성. 동 연습 함대로 오늘 중에 연습 【S판정】 승리 3회 이상을 달성하라! 좋은 바람 불고 있어? 16구축대, 연습 개시!"
   },
   "371": {
     "code": "Cy12",
     "name_jp": "春です！「春雨」、演習しますっ！",
-    "name": "It's Spring! Harusame, Let's Practice!",
+    "name": "봄입니다! 「하루사메」, 연습합니다!",
     "desc_jp": "「春雨」を旗艦として「村雨」「夕立」「五月雨」「白露」「時雨」のうち3隻以上を含む演習艦隊を編成。<br>同演習艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！優しい春の雨、濡れてまいりましょう？",
-    "desc": "Organize a fleet with Harusame as flagship and any 3 of Shiratsuyu, Shigure, Murasame, Yuudachi and Samidare in your fleet and score A rank 4 times in PvP"
+    "desc": "「하루사메」를 기함으로 하여 「무라사메」 「유다치」 「사미다레」 「시라츠유」 「시구레」 중 3척 이상을 포함한 연습 함대를 편성. 동 연습 함대로 오늘 중에 연습 【A판정】 승리 4회 이상을 달성하라! 부드러운 봄비에 젖어볼까요?"
   },
   "372": {
     "code": "Cy13",
     "name_jp": "水上艦「艦隊防空演習」を実施せよ！",
-    "name": "水上艦「艦隊防空演習」を実施せよ！",
+    "name": "수상함 「함대 방공 연습」을 실시하라!",
     "desc_jp": "【艦隊防空演習】「秋月型」駆逐艦を旗艦として他に駆逐艦2隻、航空戦艦2隻以上の艦隊を編成。<br>同演習艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！艦隊の防空、そして護衛は重要だ！",
-    "desc": "Organize a fleet with an Akizuki-class as flagship and have 2BBV and 2DD in your fleet and score A rank 4 times in PvP"
+    "desc": "【함대 방공 연습】 「아키즈키형」 구축함을 기함으로 하고 그 외 구축함 2척, 항공전함 2척 이상의 함대를 편성. 동 연습 함대로 오늘 중에 연습 【A판정】 승리 4회 이상을 달성하라! 함대의 방공, 그리고 호위는 중요하다!"
   },
   "373": {
     "code": "Cy14",
     "name_jp": "「フランス艦隊」演習！",
-    "name": "[French Fleet] Do Exercises!",
+    "name": "「프랑스 함대」 연습!",
     "desc_jp": "【フランス艦隊演習】フランス生まれの艦艇を旗艦に配備。同旗艦を含むフランス艦艇3隻以上を<br>配備した演習艦隊を編成。同艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！Merci♪",
-    "desc": "Organize a fleet with three French ships with one as flagship in your fleet and score A+ rank four times in PvP"
+    "desc": "【프랑스 함대 연습】 프랑스 태생의 함정을 기함에 배치. 동 기함을 포함한 프랑스 함정 3척 이상을 배치한 연습 함대를 편성. 동 함대로 오늘 중에 연습 【A판정】 승리 4회 이상을 달성하라! Merci♪"
   },
   "374": {
     "code": "2409 C1",
     "name_jp": "【期間限定任務】「三十二駆」特別演習！",
-    "name": "",
+    "name": "【기간 한정 임무】 「32구축대」 특별 연습!",
     "desc_jp": "【期間限定演習】第三十二駆逐隊、夕雲型駆逐艦「玉波」「涼波」「藤波」「早波」「浜波」のうち<br>3隻以上を含む演習艦隊で、本日中に演習【S判定】勝利3回以上を達成せよ！演習、始めっ！",
-    "desc": ""
+    "desc": "【기간 한정 연습】 제32구축대, 유구모형 구축함 「타마나미」 「스즈나미」 「후지나미」 「하야나미」 「하마나미」 중 3척 이상을 포함한 연습 함대로, 오늘 중에 연습 【S판정】 승리 3회 이상을 달성하라! 연습, 시작!"
   },
   "375": {
     "code": "Cy15",
     "name_jp": "「第三戦隊」第二小隊、演習開始！",
-    "name": "[BatDiv3] Second Platoon, Begin Exercises!",
+    "name": "「제3전대」 제2소대, 연습 개시!",
     "desc_jp": "【第三戦隊演習】第三戦隊第二小隊「比叡」「霧島」を基幹とし、随伴に軽巡1隻、駆逐艦2隻以上を含む<br>演習艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！第三戦隊第二小隊、演習、始めっ！",
-    "desc": "Organize a fleet with Hiei, Kirishima, 1CL, 2DD in your fleet and score S rank 4 times in PvP"
+    "desc": "【제3전대 연습】 제3전대 제2소대 「히에이」 「키리시마」를 기간으로 하고, 수반함에 경순 1척, 구축함 2척 이상을 포함한 연습 함대로, 오늘 중에 연습 【S판정】 승리 4회 이상을 달성하라! 제3전대 제2소대, 연습, 시작!"
   },
   "376": {
     "code": "C77",
     "name_jp": "「第三戦隊」精鋭第二小隊、特別演習！",
-    "name": "\"BatDiv3\" Elite Second Platoon, Special Exercise!",
+    "name": "「제3전대」 정예 제2소대, 특별 연습!",
     "desc_jp": "【第三戦隊演習】第三戦隊精鋭第二小隊「比叡改二/丙」「霧島改二/丙」を基幹とし、随伴に軽巡1隻、<br>駆逐艦2隻以上を含む演習艦隊で、本日中に演習【S判定】勝利5回以上を達成せよ！",
-    "desc": "Organize a fleet with Hiei K2/K2C, Kirishima K2/K2C, 1 CL and 2DD in your fleet and score S rank 5 times in PvP"
+    "desc": "【제3전대 연습】 제3전대 정예 제2소대 「히에이 개2/병」 「키리시마 개2/병」을 기간으로 하고, 수반함에 경순 1척, 구축함 2척 이상을 포함한 연습 함대로, 오늘 중에 연습 【S판정】 승리 5회 이상을 달성하라!"
   },
   "377": {
     "code": "Cy16",
     "name_jp": "「第二駆逐隊(後期編成)」、練度向上！",
-    "name": "[DesDiv2 (Late Formation)] Improved Exercises!",
+    "name": "「제2구축대(후기 편성)」, 숙련도 향상!",
     "desc_jp": "【後期二駆演習】「早霜」「秋霜」「清霜」の1隻を旗艦、僚艦に「早霜」「秋霜」「清霜」「朝霜」2隻を<br>含む後期編成の夕雲型第二駆逐隊を含む艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！",
-    "desc": "Organize a fleet with one of Hayashimo, Akishimo or Kiyoshimo as flagship with two of Asashimo, Hayashimo, Akishimo and Kiyoshimo in your fleet and score S rank 4 times in PvP"
+    "desc": "【후기2구연습】 「하야시모」 「아키시모」 「키요시모」 중 1척을 기함으로 하고, 요함에 「하야시모」 「아키시모」 「키요시모」 「아사시모」 2척을 포함한 후기 편성의 유구모형 제2구축대를 포함한 함대로, 오늘 중에 연습 【S판정】 승리 4회 이상을 달성하라!"
   },
   "378": {
     "code": "2601 Cw1",
     "name_jp": "新春限定！第六艦隊特別演習",
-    "name": "New Year Only! Sixth Fleet Special Exercise",
+    "name": "신춘 한정! 제6함대 특별 연습",
     "desc_jp": "【第六艦隊新春特別演習】旗艦潜水母艦、潜水母艦及び潜水艦計3隻(潜水艦1隻以上含む)以上の<br>新春第六艦隊で、本日中に演習【A判定】勝利5回以上を達成せよ！第六艦隊新春演習、始めっ！",
-    "desc": "Organize a fleet with an AS as flagship, a SS(V) and another AS/SS(V) in your fleet and score A rank 5 times in PvP"
+    "desc": "【제6함대 신춘 특별 연습】 기함 잠수모함, 잠수모함 및 잠수함 계 3척(잠수함 1척 이상 포함) 이상의 신춘 제6함대로, 오늘 중에 연습 【A판정】 승리 5회 이상을 달성하라! 제6함대 신춘 연습, 시작!"
   },
   "380": {
     "code": "2507 Cw1",
     "name_jp": "【期間限定任務】揚陸船団護衛演習",
-    "name": "[Time-limited] Landing Convoy Escort Exercise",
+    "name": "【기간 한정 임무】 양륙 선단 호위 연습",
     "desc_jp": "【期間限定演習】揚陸船団護衛演習を実施する！揚陸艦1隻以上及び護衛の海防艦2隻以上の艦隊、<br>または海防艦3隻以上を含む艦隊で、本日中に演習【A判定】勝利3回以上を達成せよ！演習、始めっ！",
-    "desc": "Organize a fleet with either an LHA and 2 DE or 3 DE in your fleet and score A rank three times in PvP"
+    "desc": "【기간 한정 연습】 양륙 선단 호위 연습을 실시한다! 양륙함 1척 이상 및 호위 해방함 2척 이상의 함대, 또는 해방함 3척 이상을 포함한 함대로, 오늘 중에 연습 【A판정】 승리 3회 이상을 달성하라! 연습, 시작!"
   },
   "381": {
     "code": "2507 Cw1",
     "name_jp": "【期間限定任務】秋月型演習任務",
-    "name": "[Limited Time Quest] Akizuki-class Exercise Quest",
+    "name": "【기간 한정 임무】 아키즈키형 연습 임무",
     "desc_jp": "【期間限定演習】秋月型または「秋雲」「秋霜」「秋津洲」の計3隻以上を含む演習艦隊を編成。<br>同艦隊で本日中に演習【A判定】勝利3回以上を達成せよ！秋月型駆逐艦他、演習、始めっ！",
-    "desc": "Organize a fleet with 3 of Akigumo, Akishimo, Akitsushima or Akizuki-class in your fleet and score A rank 3 times in PvP"
+    "desc": "【기간 한정 연습】 아키즈키형 또는 「아키구모」 「아키시모」 「아키츠시마」 중 계 3척 이상을 포함한 연습 함대를 편성. 동 함대로 오늘 중에 연습 【A판정】 승리 3회 이상을 달성하라! 아키즈키형 구축함 외, 연습 시작!"
   },
   "401": {
     "code": "D1",
     "name_jp": "はじめての「遠征」！",
-    "name": "First Expedition",
+    "name": "첫 번째 「원정」!",
     "desc_jp": "艦隊を「遠征」に出発させよう！",
-    "desc": "Perform an expedition."
+    "desc": "함대를 「원정」에 출발시키자!"
   },
   "402": {
     "code": "Dd1",
     "name_jp": "「遠征」を３回成功させよう！",
-    "name": "Complete 3 Expeditions",
+    "name": "「원정」을 3회 성공시키자!",
     "desc_jp": "本日中に「遠征」３回成功させよう！",
-    "desc": "Perform 3 successful expeditions within the same day."
+    "desc": "오늘 중에 「원정」을 3회 성공시키자!"
   },
   "403": {
     "code": "Dd2",
     "name_jp": "「遠征」を１０回成功させよう！",
-    "name": "Complete 10 Expeditions",
+    "name": "「원정」을 10회 성공시키자!",
     "desc_jp": "本日中に「遠征」10回成功させよう！",
-    "desc": "Perform 10 successful expeditions within the same day."
+    "desc": "오늘 중에 「원정」을 10회 성공시키자!"
   },
   "404": {
     "code": "Dw1",
     "name_jp": "大規模遠征作戦、発令！",
-    "name": "Large-scale Expedition Operation",
+    "name": "대규모 원정 작전, 발령!",
     "desc_jp": "今週中に「遠征」30回成功させよう！",
-    "desc": "Perform 30 successful expeditions within the same week."
+    "desc": "이번 주 중에 「원정」을 30회 성공시키자!"
   },
   "405": {
     "code": "D5",
     "name_jp": "第一次潜水艦派遣作戦",
-    "name": "The First Submarine Operation",
+    "name": "제1차 잠수함 파견 작전",
     "desc_jp": "はじめての潜水艦派遣作戦を成功させよう！",
-    "desc": "Complete Expedition 30."
+    "desc": "처음으로 실시하는 잠수함 파견 작전을 성공시키자!(30번 원정)"
   },
   "406": {
     "code": "D6",
     "name_jp": "第二次潜水艦派遣作戦",
-    "name": "The Second Submarine Operation",
+    "name": "제2차 잠수함 파견 작전",
     "desc_jp": "第二次潜水艦派遣作戦を成功させよう！",
-    "desc": "Complete Expedition 30 one more time."
+    "desc": "제2차 잠수함 파견 작전을 성공시키자!(30번 원정)"
   },
   "408": {
     "code": "D7",
     "name_jp": "潜水艦派遣作戦による技術入手の継続！",
-    "name": "Continuation of Submarine Operations",
+    "name": "잠수함 파견 작전에 의한 기술 입수의 계속!",
     "desc_jp": "第三次及び第四次潜水艦派遣作戦を成功させ、他国製技術の導入に努めよ！",
-    "desc": "Complete Expedition 30 two more times."
+    "desc": "제3차 및 제4차 잠수함 파견 작전을 성공시켜, 타국 기술 도입에 힘써라!(30번 원정 2회)"
   },
   "409": {
     "code": "D8",
     "name_jp": "潜水艦派遣による海外艦との接触作戦",
-    "name": "Strategy Meeting with Overseas Submarine Dispatch",
+    "name": "잠수함 파견에 의한 해외함과의 접촉 작전",
     "desc_jp": "有力な潜水艦隊派遣による海外艦との接触作戦を成功させよ！",
-    "desc": "Complete expedition 31 and receive foreign destroyer Z1!"
+    "desc": "유력한 잠수함대 파견에 의한 해외함과의 접촉 작전을 성공시켜라!(31번 원정)"
   },
   "410": {
     "code": "Dw2",
     "name_jp": "南方への輸送作戦を成功させよ！",
-    "name": "Transportation Towards South",
+    "name": "남방으로의 수송 작전을 성공시켜라!",
     "desc_jp": "激戦海域である南方海域への「東京急行」系遠征を敢行、これを成功させよ！",
-    "desc": "Complete either expedition 37 or 38 within the week"
+    "desc": "격전 해역인 남방 해역으로의 「도쿄 급행」 계열 원정을 감행하여, 이를 성공시켜라!"
   },
   "411": {
     "code": "Dw3",
     "name_jp": "南方への鼠輸送を継続実施せよ！",
-    "name": "Transportation Towards South (Cont.)",
+    "name": "남방으로의 쥐 수송을 계속 실시하라!",
     "desc_jp": "今週中に「東京急行」系遠征を継続的に実施、同種作戦を7回成功させよう！",
-    "desc": "Complete either expedition 37 or 38, 6 more times within the same week"
+    "desc": "이번 주 중에 「도쿄 급행」 계열 원정을 지속적으로 실시하여, 동종 작전을 7회 성공시키자!"
   },
   "412": {
     "code": "D10",
     "name_jp": "航空火力艦の運用を強化せよ！",
-    "name": "Strengthen the Operation of the BBV",
+    "name": "항공화력함의 운용을 강화하라!",
     "desc_jp": "「航空戦艦運用演習」を実施し、航空火力艦の運用の強化に努めよ！",
-    "desc": "Complete expedition 23."
+    "desc": "「항공전함 운용 연습」을 실시하여, 항공화력함 운용 강화에 힘써라!(23번 원정)"
   },
   "413": {
     "code": "D12",
     "name_jp": "(続)航空火力艦の運用を強化せよ！",
-    "name": "Strengthen the Operation of the BBV (Cont.)",
+    "name": "(속) 항공화력함의 운용을 강화하라!",
     "desc_jp": "「航空戦艦運用演習」を継続実施し、航空火力艦の運用の強化に引き続き努めよ！",
-    "desc": "Complete expedition 23 four more times."
+    "desc": "「항공전함 운용 연습」을 계속 실시하여, 항공화력함 운용 강화에 지속적으로 힘써라!(23번 원정 4회)"
   },
   "414": {
     "code": "D13",
     "name_jp": "遠洋潜水艦作戦を実施せよ！",
-    "name": "Blue Waters Submarine Operation",
+    "name": "원양 잠수함 작전을 실시하라!",
     "desc_jp": "「遠洋潜水艦作戦」を実施し、潜水艦隊の練度向上と敵艦隊漸減に努めよ！",
-    "desc": "Complete expedition 39."
+    "desc": "「원양 잠수함 작전」을 실시하여, 잠수함대의 숙련도 향상과 적 함대 점감에 힘써라!(39번 원정)"
   },
   "415": {
     "code": "D14",
     "name_jp": "遠洋潜水艦作戦の成果を拡大せよ！",
-    "name": "Blue Waters Extended Submarine Operation",
+    "name": "원양 잠수함 작전의 성과를 확대하라!",
     "desc_jp": "「遠洋潜水艦作戦」を継続実施し、潜水艦隊の練度向上と敵艦隊漸減に努めよ！",
-    "desc": "Complete expedition 39 two more times."
+    "desc": "「원양 잠수함 작전」을 계속 실시하여, 잠수함대의 숙련도 향상과 적 함대 점감에 힘써라!(39번 원정 2회)"
   },
   "416": {
     "code": "D15",
     "name_jp": "防空射撃演習を実施せよ！",
-    "name": "Air Defense Exercises",
+    "name": "방공 사격 연습을 실시하라!",
     "desc_jp": "「防空射撃演習」を複数回実施し、艦隊の防空能力を高めよ！",
-    "desc": "Complete expedition 6 three times."
+    "desc": "「방공 사격 연습」을 여러 번 실시하여, 함대의 방공 능력을 높여라!(6번 원정 3회)"
   },
   "417": {
     "code": "D16",
     "name_jp": "囮機動部隊支援作戦を実施せよ！",
-    "name": "Deploy the Decoy Task Force",
+    "name": "미끼 기동부대 지원 작전을 실시하라!",
     "desc_jp": "「囮機動部隊支援作戦」を実施し、これを成功させよ！",
-    "desc": "Complete expedition 15."
+    "desc": "「미끼 기동부대 지원 작전」을 실시하여, 이를 성공시켜라!(15번 원정)"
   },
   "418": {
     "code": "D17",
     "name_jp": "観艦式予行を実施せよ！",
-    "name": "Naval Ceremony Preparations",
+    "name": "관함식 예행을 실시하라!",
     "desc_jp": "観艦式を実施する。予行として「観艦式予行」を複数回実施し、これを2回成功させよ！",
-    "desc": "Complete expedition 7 two times."
+    "desc": "관함식을 실시한다. 예행으로서 「관함식 예행」을 여러 번 실시하여, 이를 2회 성공시켜라!(7번 원정 2회)"
   },
   "419": {
     "code": "D18",
     "name_jp": "観艦式を敢行せよ！",
-    "name": "Naval Review",
+    "name": "관함식을 감행하라!",
     "desc_jp": "練度の高い艦隊で観艦式本番を実施する。「観艦式」を実施し、これを成功させよ！",
-    "desc": "Complete expedition 8."
+    "desc": "숙련도가 높은 함대로 관함식 본편을 실시한다. 「관함식」을 실시하여, 이를 성공시켜라!(8번 원정)"
   },
   "420": {
     "code": "D19",
     "name_jp": "機動部隊の運用を強化せよ！",
-    "name": "Strengthen the Carrier Task Force Operations",
+    "name": "기동부대의 운용을 강화하라!",
     "desc_jp": "機動部隊遠征を実施、「MO作戦」及び「敵母港空襲作戦」を展開、これを成功させよ！",
-    "desc": "Complete expeditions 26 and 35."
+    "desc": "기동부대 원정을 실시, 「MO 작전」 및 「적 모항 공습 작전」을 전개하여 이를 성공시켜라!(26번, 35번 원정)"
   },
   "422": {
     "code": "D20",
     "name_jp": "潜水艦派遣作戦による航空機技術入手",
-    "name": "Obtain Aviation Engineering from Submarine Dispatch Operation",
+    "name": "잠수함 파견 작전에 의한 항공기 기술 입수",
     "desc_jp": "潜水艦派遣作戦により、新型航空機技術の導入に努めよ！",
-    "desc": "Complete Expedition 30 and 31."
+    "desc": "잠수함 파견 작전을 통해 신형 항공기 기술 도입에 힘써라!(30번, 31번 원정)"
   },
   "423": {
     "code": "D21",
