@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030645",
+  "version": "21030646",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -2901,261 +2901,261 @@
   "695": {
     "code": "F86",
     "name_jp": "「彗星」艦爆の新運用研究",
-    "name": "Research of New Suisei Dive Bomber Utility",
+    "name": "「스이세이」 함폭의 신운용 연구",
     "desc_jp": "三号爆弾運用：旗艦「伊勢改二」または「日向改二」第一スロに「彗星一二型甲」搭載、 「彗星」x4、<br>「九九式艦爆」x3、「瑞雲」x2廃棄、弾薬x2,500、ボーキ5,000、新型航空兵装資材x1を準備せよ！",
-    "desc": "Prepare 2500 Ammunition, 5000 Bauxite, and 1 New Model Aerial Armament Material in your inventory. Have Ise Kai Ni or Hyuuga Kai Ni as secretary equipped with a Suisei Model 12A in her first slot. Scrap 4 Suisei, 3 Type 99 Dive Bomber, and 2 Zuiun."
+    "desc": "3호 폭탄 운용: 기함 「이세 개2」 또는 「휴가 개2」의 1번 슬롯에 「스이세이 12형 갑」을 탑재, 「스이세이」 x4, 「99식 함폭」 x3, 「즈이운」 x2를 폐기, 탄약 x2,500, 보크사이트 5,000, 신형 항공 병장 자재 x1을 준비하라!"
   },
   "696": {
     "code": "F87",
     "name_jp": "最精鋭「瑞雲」隊の編成",
-    "name": "Organize the most elite Zuiun Unit",
+    "name": "최정예 「즈이운」 부대의 편성",
     "desc_jp": "旗艦「伊勢改二」「日向改二」第一スロに「瑞雲改二(六三四空)」※改修max。「瑞雲」x6「彗星」x3、<br>「試製烈風 後期型」x1廃棄、弾薬2,000、ボーキ8,000、新型航空兵装資材x1、熟練搭乗員x2を準備！",
-    "desc": "Have Ise Kai Ni or Hyuuga Kai Ni as your flagship and equip a Zuiun Kai Ni (634 Air Group) that is max modified on first slot. Scrap 6 Zuiun, 3 Suisei, 1 Prototype Reppuu Late Model, then prepare 2000 ammo, 8000 bauxite, 1 New Type Aviation Armament Material, 2 Skilled Crew Member"
+    "desc": "기함 「이세 개2」 또는 「휴가 개2」의 1번 슬롯에 「즈이운 개2(634공)」 개수 max를 탑재. 「즈이운」 x6, 「스이세이」 x3, 「시제 렛푸 후기형」 x1을 폐기, 탄약 2,000, 보크사이트 8,000, 신형 항공 병장 자재 x1, 「숙련탑승원」 x2를 준비하라!"
   },
   "697": {
     "code": "2003LQ2",
     "name_jp": "【春の期間限定任務】下駄履きメカジキの改修",
-    "name": "Limited-Time Spring Mission: Swordfish Floatplane's Remodel",
+    "name": "【봄의 기간 한정 임무】 수상기형 소드피쉬의 개수",
     "desc_jp": "旗艦「Gotland」第一スロに「Swordfish(水上機型)」改修max、 「瑞雲」x3、「零式水上偵察機」x3、<br>「13号対空電探改」x1廃棄、弾薬x2,500、ボーキ4,000、新型航空兵装資材x1、熟練搭乗員x1を準備！",
-    "desc": "Have Gotland set as Flagship and place Swordfish (Seaplane Model) MAX★ in her 1st Slot. Prepare 2,500 Ammo, 4,000 Bauxite, 1x New Model Aerial Armament Material, 1x Skilled Crew Member. Scrap 3x Zuiun, 3x Type 0 Reconnaissance Seaplane, and 1x Type 13 Air Radar Kai."
+    "desc": "기함 「Gotland」의 1번 슬롯에 「Swordfish(수상기형)」 개수 max를 탑재, 「즈이운」 x3, 「식 수상정찰기」 x3, 「13호 대공 전탐 개」 x1을 폐기, 탄약 x2,500, 보크사이트 4,000, 신형 항공 병장 자재 x1, 「숙련탑승원」 x1을 준비하라!"
   },
   "698": {
     "code": "F91",
     "name_jp": "新鋭対潜哨戒航空戦力の導入",
-    "name": "Introduction of Cutting-Edge ASW Patrol Aircraft",
+    "name": "신예 대잠 초계 항공 전력의 도입",
     "desc_jp": "旗艦「加賀改二護」第一スロに「TBM-3D」を搭載。 「TBF」x2、「流星」x1、「流星改」x1を廃棄、<br>弾薬x1,840、ボーキ6,200、新型航空兵装資材x2、熟練搭乗員x1を準備せよ！",
-    "desc": "Set Kaga Kai Ni Go as secretary, equipped with a TBM-3D in her 1st slot, then scrap 2 TBF, 1 Ryuusei, and 1 Ryuusei Kai, and prepare 2 New Model Aerial Armament Material, 1 Skilled Crew Member, 1,840 ammo, and 6,200 bauxite."
+    "desc": "기함 「카가 개2호」의 1번 슬롯에 「TBM-3D」를 탑재. 「TBF」 x2, 「류세이」 x1, 「류세이 개」 x1을 폐기, 탄약 x1,840, 보크사이트 6,200, 신형 항공 병장 자재 x2, 「숙련탑승원」 x1을 준비하라!"
   },
   "701": {
     "code": "G1",
     "name_jp": "はじめての「近代化改修」！",
-    "name": "First Modernization",
+    "name": "첫 「근대화 개수」!",
     "desc_jp": "任意の艦を近代化改修(合成)して、強化せよ！",
-    "desc": "Perform a successful modernization."
+    "desc": "임의의 칸무스를 근대화 개수(합성)하여 강화하라!."
   },
   "702": {
     "code": "Gd1",
     "name_jp": "艦の「近代化改修」を実施せよ！",
-    "name": "Ship Modernizations",
+    "name": "함의 「근대화 개수」를 실시하라!",
     "desc_jp": "近代化改修を実施して、２回以上これを成功させよ！",
-    "desc": "Perform 2 successful modernizations within the same day."
+    "desc": "근대화 개수를 실시하여, 2회 이상 성공시켜라!"
   },
   "703": {
     "code": "Gw1",
     "name_jp": "「近代化改修」を進め、戦備を整えよ！",
-    "name": "Proceed with Modernizations",
+    "name": "「근대화 개수」를 진행하여, 전비를 갖추라!",
     "desc_jp": "一週間の間に、近代化改修を１5回成功させよ！",
-    "desc": "Perform 15 successful modernizations within the same week."
+    "desc": "일주일 동안 근대화 개수를 15회 성공시켜라!"
   },
   "704": {
     "code": "G4",
     "name_jp": "「大型艦建造」の準備！(その壱)",
-    "name": "Preparation for LSC (Part 1)",
+    "name": "「대형함 건조」의 준비! (그 첫 번째)",
     "desc_jp": "大型艦/新型艦建造のための準備を行う。任意の艦で近代化改修を4回成功させよ！",
-    "desc": "Perform 4 successful modernizations."
+    "desc": "대형함/신형함 건조를 위한 준비를 수행한다. 임의의 칸무스로 근대화 개수를 4회 성공시켜라!"
   },
   "705": {
     "code": "G5",
     "name_jp": "航空艤装の近代化改修",
-    "name": "Modernization of Aircraft Equipment",
+    "name": "항공 의장의 근대화 개수",
     "desc_jp": "鉄鋼5,500及びボーキサイト2,500を準備して、任意の正規空母の近代化改修を<br>[航空母艦]x5隻同時使用により2回成功させよ！※任務達成後、準備した資源は消費します。",
-    "desc": "Have 5500 steel and 2500 bauxite in your inventory. And then, modernize a CV twice, each with five CV/L."
+    "desc": "강재 5,500 및 보크사이트 2,500을 준비하여, 임의의 정규공모 근대화 개수를 [항공모함] x5척 동시 사용으로 2회 성공시켜라! ※임무 달성 후, 준비한 자원은 소비합니다."
   },
   "706": {
     "code": "5A03",
     "name_jp": "五周年任務【参：近代化改修】",
-    "name": "Fifth Anniversary Mission III: Modernization",
+    "name": "5주년 임무【제3단계: 근대화 개수】",
     "desc_jp": "五周年任務：鉄鋼555及びボーキサイト555を準備して、任意の海防艦の近代化改修を[駆逐艦]x5隻<br>同時使用により2回成功させよ！※任務達成後、準備した資源は消費します。",
-    "desc": "Have 555 steel and bauxite. Successfully modernize a DE using 5 DD twice."
+    "desc": "5주년 임무: 강재 555 및 보크사이트 555를 준비하여, 임의의 해방함 근대화 개수를 [구축함] x5척 동시 사용으로 2회 성공시켜라! ※임무 달성 후, 준비한 자원은 소비합니다."
   },
   "714": {
     "code": "Gy1",
     "name_jp": "「駆逐艦」の改修工事を実施せよ！",
-    "name": "Carry out Modernization for \"Destroyers\"",
+    "name": "「구축함」의 개수 공사를 실시하라!",
     "desc_jp": "近代化改修任務：鋼材600及びボーキサイト300を準備して、任意の駆逐艦を近代化改修！<br>[駆逐艦]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
-    "desc": "Modernization mission: Prepare 600 steel as well as 300 bauxite, then modernize any destroyer! Perform 2 successful modernizations by using 3 destroyers each time!\n※ The resources will be consumed when you clear this mission"
+    "desc": "근대화 개수 임무: 강재 600 및 보크사이트 300을 준비하여, 임의의 구축함을 근대화 개수! [구축함] x3척 동시 사용으로 2회 성공시켜라! ※임무 달성 후, 준비 자원은 소비합니다."
   },
   "715": {
     "code": "Gy2",
     "name_jp": "続：「駆逐艦」の改修工事を実施せよ！",
-    "name": "Part 2: Carry out Modernization for \"Destroyers\"",
+    "name": "속: 「구축함」의 개수 공사를 실시하라!",
     "desc_jp": "近代化改修任務：鋼材900及びボーキサイト500を準備して、任意の駆逐艦を近代化改修！<br>[軽巡洋艦]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
-    "desc": "Modernize a DD using 3 CL two times."
+    "desc": "근대화 개수 임무: 강재 900 및 보크사이트 500을 준비하여, 임의의 구축함을 근대화 개수! [경순양함] x3척 동시 사용으로 2회 성공시켜라! ※임무 달성 후, 준비 자원은 소비합니다."
   },
   "716": {
     "code": "Gy3",
     "name_jp": "「軽巡」級の改修工事を実施せよ！",
-    "name": "Carry Out the Light Cruiser Modernization Operation",
+    "name": "「경순」급의 개수 공사를 실시하라!",
     "desc_jp": "軽巡近代化改修：鋼材800及びボーキサイト400を準備、任意の軽巡級を近代化改修！<br>[軽巡級]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
-    "desc": "Modernize a CL with 3 CT/CL(T) two times."
+    "desc": "경순 근대화 개수: 강재 800 및 보크사이트 400을 준비, 임의의 경순급을 근대화 개수! [경순급] x3척 동시 사용으로 2회 성공시켜라! ※임무 달성 후, 준비 자원은 소비합니다."
   },
   "717": {
     "code": "Gy4",
     "name_jp": "続：「軽巡」級の改修工事を実施せよ！",
-    "name": "Part 2: Carry Out the Light Cruiser Modernization Operation",
+    "name": "속: 「경순」급의 개수 공사를 실시하라!",
     "desc_jp": "軽巡近代化改修：鋼材900及び弾薬900を準備して、任意の軽巡級を近代化改修！<br>[重巡級]x3隻同時使用により2回成功させよ！※任務達成後、準備資源は消費します。",
-    "desc": "Modernize a CL with 3 CA(V) two times."
+    "desc": "경순 근대화 개수: 강재 900 및 탄약 900을 준비하여, 임의의 경순급을 근대화 개수! [중순급] x3척 동시 사용으로 2회 성공시켜라! ※임무 달성 후, 준비 자원은 소비합니다."
   },
   "718": {
     "code": "G10",
     "name_jp": "「最上型」改修工事を実施せよ！",
-    "name": "Carry out Mogami-class Modernization work",
+    "name": "「모가미형」 개수 공사를 실시하라!",
     "desc_jp": "最上型近代化改修：鋼材1,100及び弾薬1,100を準備、「最上型」を近代化改修！<br>[軽巡級]x3隻同時使用で2回成功させよ！※任務達成後、準備資源は消費します。",
-    "desc": "Have 1,100 Steel, 1,100 Ammo and modernize a Mogami-class Heavy/Aviation Cruiser with 3 CLs at once twice."
+    "desc": "모가미형 근대화 개수: 강재 1,100 및 탄약 1,100을 준비, 「모가미형」을 근대화 개수! [경순급] x3척 동시 사용으로 2회 성공시켜라! ※임무 달성 후, 준비 자원은 소비합니다."
   },
   "719": {
     "code": "G11",
     "name_jp": "続：「最上型」改修工事を実施せよ！",
-    "name": "Continued: Carry out Mogami-class Modernization work",
+    "name": "속: 「모가미형」 개수 공사를 실시하라!",
     "desc_jp": "最上型近代化改修：鋼材1,200及び弾薬1,200を準備、「最上型」を近代化改修！<br>[重巡級]x4隻同時使用で2回成功させよ！※任務達成後、準備資源は消費します。",
-    "desc": "Have 1,200 Steel, 1,200 Ammo and modernize a Mogami-class Heavy/Aviation Cruiser with 4 CAs at once twice."
+    "desc": "모가미형 근대화 개수: 강재 1,200 및 탄약 1,200을 준비, 「모가미형」을 근대화 개수! [중순급] x4척 동시 사용으로 2회 성공시켜라! ※임무 달성 후, 준비 자원은 소비합니다."
   },
   "801": {
     "code": "2601 B1",
     "name_jp": "迎春新年！二〇二六年、艦隊抜錨せよ！",
-    "name": "Welcome the New Year! In 2026, the Fleet Sets Sail!",
+    "name": "영춘신년! 2026년, 함대 발묘하라!",
     "desc_jp": "旗艦に軽巡級、随伴艦に駆逐艦3隻または海防艦2隻以上を含む艦隊で抜錨！ 鎮守府正面海域、<br>南西諸島沖、製油所地帯沿岸、鎮守府近海を哨戒、二〇二六年正月鎮守府海域の安全を確保せよ！",
-    "desc": "Organize a fleet with a CL(T)/CT as flagship and 3 DD or 2 DE in your fleet and score an A rank at the boss nodes on 1-1, 1-2, 1-3 and 1-5"
+    "desc": "기함에 경순급, 수반함에 구축함 3척 또는 해방함 2척 이상을 포함하는 함대 로 발묘! 진수부 정면 해역(1-1), 남서제도 앞바다(1-2), 제유소 지대 연안(1-3), 진수부 근해(1-5)를 초계하여, 2026년 정월 진수부 해역의 안전을 확보하라!"
   },
   "802": {
     "code": "2601 B2",
     "name_jp": "賀正！令和八年、精鋭巡洋艦戦隊、出撃始めッ！",
-    "name": "Happy New Year! In the Eighth Year of Reiwa, the Elite Cruiser Squadron Begins its Sortie!",
+    "name": "하정! 레이와 8년, 정예 순양함 전대, 출격 개시!",
     "desc_jp": "精鋭巡洋艦3隻以上を旗艦を含む基幹戦力として駆逐艦1隻以上が随伴する艦隊で、南西諸島防衛線、<br>南西諸島近海、バシー海峡、東部オリョール海に出撃！各海域の敵艦隊を捕捉、これを撃滅せよ！",
-    "desc": "Organize a fleet with 3 CA(V)/CL(T)/CT with one as flagship and a DD in your fleet and score an S rank at the boss nodes on 1-4, 2-1, 2-2 and 2-3"
+    "desc": "정예 순양함 3척 이상을 기함을 포함한 기간 전력으로 하고, 구축함 1척 이상이 수반하는 함대로 남서제도 방어선(1-4), 남서제도 근해(2-1), 바시 해협(2-2), 동부 오룔 해(2-3)에 출격! 각 해역의 적 함대를 포착하여 이를 격멸하라!"
   },
   "803": {
     "code": "2601 B3",
     "name_jp": "謹賀新年2026年！空母機動部隊、西へ！南北へ！",
-    "name": "Happy New Year 2026! Carrier Task Force, Head West! North and South!",
+    "name": "근하신년 2026년! 공모 기동부대, 서쪽으로! 남북으로!",
     "desc_jp": "旗艦に航空母艦、駆逐艦2隻以上が随伴した空母機動部隊で西方海域ジャム島沖及びカレー洋海域、<br>南方海域珊瑚諸島沖、北方海域モーレイ海に展開！遭遇する敵艦隊を鎧袖一触、これを撃滅せよ！",
-    "desc": "Organize a fleet with 1 CV(B/L) as flagship and 2 DD in your fleet and score an S rank at the boss nodes on 3-1, 4-1, 4-2 and 5-2"
+    "desc": "기함에 항공모함, 구축함 2척 이상이 수반한 공모 기동부대로 서방 해역 잼섬 앞바다(4-1) 및 카레양 해역(4-2), 남방 해역 산호제도 앞바다(5-2), 북방 해역 모레이해(3-1)에 전개! 조우하는 적 함대를 개수일촉, 이를 격멸하라!"
   },
   "804": {
     "code": "2601 B4",
     "name_jp": "新春【拡張作戦】精鋭日英米空母、新年協同作戦！",
-    "name": "New Year [Extra Operation] Elite Japanese, British, and American Aircraft Carriers, New Year's Joint Operation!",
+    "name": "신춘 【확장 작전】 정예 일영미 공모, 신년 협동 작전!",
     "desc_jp": "「Ark Royal」「Victorious」「Intrepid」「Hornet」「蒼龍」「飛龍」「翔鶴」「瑞鶴」2隻以上含む艦隊<br>で、沖ノ島沖、サーモン海域北方、MS諸島沖、タウイタウイ泊地沖深部、カレー洋リランカ島沖を制圧せよ！",
-    "desc": "Organize a fleet with 2 of Ark Royal, Victorious, Intrepid, Hornet, Souryuu, Hiryuu, Shoukaku and Zuikaku in your fleet and score an S rank at the boss nodes on 2-5, 7-2 (Part 2), 4-5, 5-5 and 6-2"
+    "desc": "「Ark Royal」, 「Victorious」, 「Intrepid」, 「Hornet」, 「소류」, 「히류」, 「쇼카쿠」, 「즈이카쿠」 중 2척 이상을 포함하는 함대로 오키노시마 앞바다(2-5), 타위타위 정박지 앞바다 심부(7-2-2), 카레양 리랑카섬 앞바다(4-5), MS제도 앞바다(6-2), 새먼 해역 북방(5-5)을 제압하라!"
   },
   "805": {
     "code": "B58",
     "name_jp": "旗艦「霞」北方海域を哨戒せよ！",
-    "name": "Send Kasumi to Patrol the Northern Sea",
+    "name": "기함 「카스미」 북방 해역을 초계하라!",
     "desc_jp": "旗艦「霞改二」で駆逐艦4隻を含む艦隊を北方海域に投入し、モーレイ海哨戒を実施せよ！",
-    "desc": "Sortie a fleet with Kasumi Kai2 as flagship, 3 DD, and up to 2 additional ships and score a victory at World 3-1 boss."
+    "desc": "기함 「카스미 개2」로 구축함 4척을 포함하는 함대를 북방 해역에 투입하여, 모레이해 초계를 실시하라!"
   },
   "806": {
     "code": "B59",
     "name_jp": "旗艦「霞」出撃！敵艦隊を撃滅せよ！",
-    "name": "Sortie Kasumi and Defeat the Enemy Fleet",
+    "name": "기함 「카스미」 출격! 적 함대를 격멸하라!",
     "desc_jp": "旗艦「霞改二」で駆逐艦3隻を含む艦隊で南西諸島沖ノ島沖に突入！敵主力を撃滅せよ！",
-    "desc": "Sortie a fleet with Kasumi Kai2 as flagship, 2 DD and up to 3 additional ships and score an S rank victory at World 2-5 boss."
+    "desc": "기함 「카스미 개2」로 구축함 3척을 포함하는 함대로 남서제도 오키노시마 앞바다에 돌입! 적 주력을 격멸하라!"
   },
   "807": {
     "code": "B60",
     "name_jp": "「第三十一戦隊」出撃せよ！",
-    "name": "Deploy the 31st Squadron (1st Gen.)",
+    "name": "「제31전대」 출격하라!",
     "desc_jp": "第三十一戦隊(第一次)を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！",
-    "desc": "Sortie a fleet with Isuzu Kai2 as flagship, Satsuki Kai2, Uzuki Kai, and up to 3 additional ships to World 1-6 and reach the anchor node N."
+    "desc": "제31전대(제1차)를 진수부 근해 항로에 출격시켜, 해당 항로의 안전 확보에 힘써라!"
   },
   "808": {
     "code": "B61",
     "name_jp": "「第二七駆逐隊」出撃せよ！",
-    "name": "Sortie the 27th Destroyer Division",
+    "name": "「제27구축대」 출격하라!",
     "desc_jp": "「白露改」旗艦の第二七戦隊を含む艦隊をオリョール海に展開、同海域の敵艦隊を撃滅せよ！",
-    "desc": "Sortie Shiratsuyu Kai as flagship, Shigure, Harusame and Samidare and up to 2 additional ships and score an S rank victory against World 2-3 Boss."
+    "desc": 「시라츠유 개」 기함의 제27전대를 포함하는 함대를 오룔 해에 전개, 해당 해역의 적 함대를 격멸하라!"
   },
   "809": {
     "code": "B62",
     "name_jp": "強襲上陸作戦用戦力を増強せよ！",
-    "name": "Bolster the Capability for Amphibious Assault Operations!",
+    "name": "강습 상륙 작전용 전력을 증강하라!",
     "desc_jp": "中部海域における航空偵察「K作戦」を実施しつつ、強襲上陸作戦用戦力の強化を図れ！",
-    "desc": "Score a victory against World 6-3 Boss."
+    "desc": "중부 해역에서의 항공 정찰 「K작전」을 실시하면서, 강습 상륙 작전용 전력의 강화를 꾀하라!"
   },
   "810": {
     "code": "B63",
     "name_jp": "製油所地帯を防衛せよ！",
-    "name": "Protect the Oil Refinery!",
+    "name": "제유소 지대를 방위하라!",
     "desc_jp": "水雷戦隊を製油所地帯沿岸に展開！同海域に出没する敵艦隊を三回以上撃滅せよ！",
-    "desc": "Sortie a torpedo squadron (CL flagship, 5DD) and score three S rank victories against World 1-3 Boss."
+    "desc": "수뢰전대를 제유소 지대 연안에 전개! 해당 해역에 출몰하는 적 함대를 3회 이상 격멸하라!"
   },
   "811": {
     "code": "B64",
     "name_jp": "南西諸島防衛線を強化せよ！",
-    "name": "Strengthen the Nansei Island Defense Line!",
+    "name": "남서제도 방어선을 강화하라!",
     "desc_jp": "南西諸島防衛線に有力な艦隊を展開、同方面に来襲する敵艦隊を五回以上撃滅せよ！",
-    "desc": "Score five S rank victories against World 1-4 Boss."
+    "desc": "남서제도 방어선에 유력한 함대를 전개, 해당 방면에 내습하는 적 함대를 5회 이상 격멸하라!"
   },
   "812": {
     "code": "B65",
     "name_jp": "オリョール海の制海権を確保せよ！",
-    "name": "Obtain supremacy at the Orel Sea!",
+    "name": "오룔 해의 제해권을 확보하라!",
     "desc_jp": "大潮を旗艦とする艦隊を東部オリョール海に反復出撃、同方面敵艦隊を完全撃滅せよ！",
-    "desc": "Sortie fleet with Ooshio as flagship and score six S rank victories against World 2-3 Boss."
+    "desc": "오오시오를 기함으로 하는 함대를 동부 오룔 해에 반복 출격, 해당 방면의 적 함대를 완전 격멸하라!"
   },
   "813": {
     "code": "B66",
     "name_jp": "旗艦「大潮」出撃せよ！",
-    "name": "Flagship Ooshio, Sortie!",
+    "name": "기함 「오오시오」 출격하라!",
     "desc_jp": "「大潮改二」旗艦の有力な艦隊を北方AL海域に展開、北方海域戦闘哨戒を実施せよ！",
-    "desc": "Sortie fleet with Ooshio Kai2 as flagship and score an S rank victory against World 3-5 Boss."
+    "desc": "「오오시오 개2」 기함의 유력한 함대를 북방 AL 해역에 전개, 북방 해역 전투 초계를 실시하라!"
   },
   "814": {
     "code": "B68",
     "name_jp": "強行高速輸送部隊、出撃せよ！",
-    "name": "High-speed Transport Fleet, sortie!",
+    "name": "강행 고속 수송 부대, 출격하라!",
     "desc_jp": "「江風改二」「時雨改二」「川内改二」他駆逐2隻を含む艦隊で、ジャム島攻略作戦を実施せよ！",
-    "desc": "Sortie Sendai Kai2, Kawakaze Kai2, Shigure Kai2, 2 DD, and 1 additional ships and score an A rank victory against World 4-1 Boss."
+    "desc": "「카와카제 개2」, 「시구레 개2」, 「센다이 개2」 외 구축함 2척을 포함하는 함대로, 잼섬 공략 작전을 실시하라!"
   },
   "815": {
     "code": "B69",
     "name_jp": "「第一航空戦隊」西へ！",
-    "name": "1st Carrier Division, to the West!",
+    "name": "「제1항공전대」 서쪽으로!",
     "desc_jp": "旗艦「赤城」同僚艦「加賀」を中核とする艦隊で、深海東洋艦隊漸減作戦を貫徹せよ！",
-    "desc": "Sortie fleet with Akagi as flagship, Kaga, and 4 additional ships and score an S rank victory against World 4-5 Boss."
+    "desc": "기함 「아카기」, 동료함 「카가」를 중핵으로 하는 함대로, 심해 동양 함대 점감 작전을 완수하라!"
   },
   "816": {
     "code": "B67",
     "name_jp": "艦隊、三周年！",
-    "name": "Fleet, Third Anniversary",
+    "name": "함대, 3주년!",
     "desc_jp": "三周年を記念しバシー島沖及び東部オリョール海に出撃、同海域の敵艦隊を撃滅せよ！",
-    "desc": "Score an S rank victory each against World 2-2 and World 2-3 Boss."
+    "desc": "3주년을 기념하여 바시섬 앞바다 및 동부 오룔 해에 출격, 해당 해역의 적 함대를 격멸하라!"
   },
   "817": {
     "code": "B70",
     "name_jp": "新編艦隊、南西諸島防衛線へ急行せよ！",
-    "name": "Set Sail Towards the Nansei Islands Defense Line",
+    "name": "신편 함대, 남서제도 방어선으로 급행하라!",
     "desc_jp": "水雷戦隊を含む新編艦隊を南西諸島防衛線に展開、同方面に来襲する敵艦隊を撃破せよ！",
-    "desc": "Sortie a fleet with a CL flagship, 4 DD, and up to 1 additional ship and score an A rank victory against World 1-4 boss."
+    "desc": "수뢰전대를 포함하는 신편 함대를 남서제도 방어선에 전개, 해당 방면에 내습하는 적 함대를 격파하라!"
   },
   "818": {
     "code": "B71",
     "name_jp": "鎮守府近海航路の安全確保を強化せよ！",
-    "name": "Ensure the Safety of the Naval Base's Nearby Routes",
+    "name": "진수부 근해 항로의 안전 확보를 강화하라!",
     "desc_jp": "水雷戦隊を含む新編艦隊を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！",
-    "desc": "Sortie a fleet with a CL flagship, 4 DD, and up to 1 additional ship and reach the anchor node N of 1-6."
+    "desc": "수뢰전대를 포함하는 신편 함대를 진수부 근해 항로에 출격시켜, 해당 항로의 안전 확보에 힘써라!"
   },
   "819": {
     "code": "B72",
     "name_jp": "「第三十一戦隊」敵潜を制圧せよ！",
-    "name": "31st Cruiser Division, suppress the enemy submarines!",
+    "name": "「제31전대」 적 잠수함을 제압하라!",
     "desc_jp": "第三十一戦隊(第一次)を鎮守府近海航路に再投入！反復出撃し、敵潜を制圧せよ！",
-    "desc": "Sortie Isuzu Kai2 as flagship, Satsuki Kai2, Uzuki Kai, and three wildcards and reach the anchor node N of 1-6 twice."
+    "desc": "제31전대(제1차)를 진수부 근해 항로에 재투입! 반복 출격하여 적 잠수함을 제압하라!"
   },
   "820": {
     "code": "B73",
     "name_jp": "新編「第八駆逐隊」出撃せよ！",
-    "name": "New 8th Destroyer Division, sortie!",
+    "name": "신편 「제8구축대」 출격하라!",
     "desc_jp": "新編「第八駆逐隊」を含む艦隊を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！",
-    "desc": "Sortie Asashio Kai2/D as flagship, Michishio, Ooshio, Arashio, and reach the anchor node N of 1-6."
+    "desc": "신편 「제8구축대」를 포함하는 함대를 진수부 근해 항로에 출격시켜, 해당 항로의 안전 확보에 힘써라!"
   },
   "821": {
     "code": "B74",
     "name_jp": "精鋭「八駆第一小隊」対潜哨戒！",
-    "name": "Elite 8th Destroyer Division on ASW patrol!",
+    "name": "정예 「8구 제1소대」 대잠 초계!",
     "desc_jp": "「第八駆逐隊第一小隊」を含む艦隊で鎮守府正面対潜哨戒を反復実施！敵潜を圧倒せよ！",
-    "desc": "Sortie a fleet which includes Asashio Kai2 D and Ooshio Kai2 and score two S rank victories against World 1-5 Boss."
+    "desc": "「제8구축대 제1소대」를 포함하는 함대로 진수부 정면 대잠 초계를 반복 실시! 적 잠수함을 압도하라!"
   },
   "822": {
     "code": "Bq1",
@@ -3167,142 +3167,211 @@
   "823": {
     "code": "B75",
     "name_jp": "水雷戦隊、南西防衛線に反復出撃せよ！",
-    "name": "Torpedo Squadron, repeatedly sortie to the Nansei Islands defense line!",
+    "name": "수뢰전대, 남서 방위선에 반복 출격하라!",
     "desc_jp": "軽巡級旗艦と駆逐艦4隻の水雷戦隊を基幹とした艦隊を編成、<br>南西諸島防衛線に反復出撃し、同海域の制海権確保に努めよ！",
-    "desc": "Sortie a CL/CLT/CT as flagship, four DD, and a wildcard and score two S rank victories against World 1-4 Boss."
+    "desc": "경순급 기함과 구축함 4척의 수뢰전대를 기간으로 한 함대를 편성, 남서제도 방어선에 반복 출격하여 해당 해역의 제해권 확보에 힘써라!"
   },
   "824": {
     "code": "B76",
     "name_jp": "製油所地帯沿岸の哨戒を実施せよ！",
-    "name": "Patrol the Coastal Refinery Zone!",
+    "name": "제유소 지대 연안의 초계를 실시하라!",
     "desc_jp": "軽空母旗艦と駆逐艦3隻を基幹とした護衛艦隊を編成、<br>製油所地帯沿岸に展開し、同海域の哨戒を実施、同海域の安全を確保せよ！",
-    "desc": "Sortie a CVL flagship, three DD, and two wildcards and score an S rank victory against World 1-3 Boss."
+    "desc": "경항모 기함과 구축함 3척을 기간으로 한 호위함대를 편성, 제유소 지대 연안에 전개하여 해당 해역의 초계를 실시, 해당 해역의 안전을 확보하라!"
   },
   "825": {
     "code": "B77",
     "name_jp": "水雷戦隊、南西諸島海域を哨戒せよ！",
-    "name": "Torpedo Squadron, Patrol the Nansei Islands!",
+    "name": "수뢰전대, 남서제도 해역을 초계하라!",
     "desc_jp": "水雷戦隊を基幹とした有力な艦隊で南西諸島海域バシー島沖及び東部オリョール海を哨戒、<br>同海域に遊弋する敵艦隊を捕捉、これを撃滅せよ！",
-    "desc": "Sortie a CL flagship, four DD, and one wildcard and score an S rank victory against World 2-2 and World 2-3 Boss."
+    "desc": "수뢰전대를 기간으로 한 유력한 함대로 남서제도 해역 바시섬 앞바다 및 동부 오룔 해를 초계, 해당 해역에 유격하는 적 함대를 포착하여 이를 격멸하라!"
   },
   "826": {
     "code": "B78",
     "name_jp": "「第十九駆逐隊」出撃せよ！",
-    "name": "Sortie the 19th Destroyer Division!",
+    "name": "「제19구축대」 출격하라!",
     "desc_jp": "特型駆逐艦4隻による「第十九駆逐隊」を鎮守府近海に展開！<br>鎮守府正面対潜哨戒を実施し、跳梁する敵潜部隊の制圧に努めよ！",
-    "desc": "Sortie a fleet with Isonami, Uranami, Ayanami, and Shikinami and score an A rank victory against World 1-5 Boss."
+    "desc": "특형 구축함 4척에 의한 「제19구축대」를 진수부 근해에 전개! 진수부 정면 대잠 초계를 실시하여, 발흥하는 적 잠수 부대의 제압에 힘써라!"
   },
   "827": {
     "code": "B79",
     "name_jp": "「第十九駆逐隊」敵主力に突入せよ！",
-    "name": "Sortie the 19th Destroyer Division to the Enemy Main Force!",
+    "name": "「제19구축대」 적 주력에 돌입하라!",
     "desc_jp": "「第十九駆逐隊」を含む有力な艦隊を編成し、南西諸島海域沖ノ島沖に展開！<br>同方面に遊弋する敵主力を捕捉、これを撃破せよ！",
-    "desc": "Sortie Isonami, Uranami, Ayanami, Shikinami, and two wildcards and score an A rank victory against World 2-5 Boss."
+    "desc": "「제19구축대」를 포함하는 유력한 함대를 편성하여, 남서제도 해역 오키노시마 앞바다에 전개! 해당 방면에 유격하는 적 주력을 포착하여 이를 격파하라!"
   },
   "828": {
     "code": "B80",
     "name_jp": "飛行場設営の準備を実施せよ！",
-    "name": "Prepare for the Construction of the Land-Base!",
+    "name": "비행장 건설 준비를 실시하라!",
     "desc_jp": "中部海域における航空偵察「K作戦」を再度実施、さらに同方面に遊弋する敵艦隊を撃滅し、<br>中部海域における飛行場設営の準備を実施せよ！",
-    "desc": "Score an S-rank victory at World 6-3 boss."
+    "desc": "중부 해역에서의 항공 정찰 「K작전」을 다시 실시, 나아가 해당 방면에 유격하는 적 함대를 격멸하여, 중부 해역에서의 비행장 건설 준비를 실시하라!"
   },
   "829": {
     "code": "B81",
     "name_jp": "夜間突入！敵上陸部隊を叩け！",
-    "name": "Rush into Night Battle! Attack the Enemy Landing Forces!",
+    "name": "야간 돌입! 적 상륙 부대를 쳐라!",
     "desc_jp": "南方サブ島沖海域へ精鋭艦隊を突入！敵艦隊の邀撃を突破し、同方面の敵上陸部隊を叩け！",
-    "desc": "Sortie to World 5-3 and obtain at least an A-rank at the boss"
+    "desc": "남방 사보 },
+  "820": {
+    "code": "B73",
+    "name_jp": "新編「第八駆逐隊」出撃せよ！",
+    "name": "신편 「제8구축대」 출격하라!",
+    "desc_jp": "新編「第八駆逐隊」を含む艦隊を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！",
+    "desc": "신편 「제8구축대」를 포함하는 함대를 진수부 근해 항로에 출격시켜, 해당 항로의 안전 확보에 힘써라!"
+  },
+  "821": {
+    "code": "B74",
+    "name_jp": "精鋭「八駆第一小隊」対潜哨戒！",
+    "name": "정예 「8구 제1소대」 대잠 초계!",
+    "desc_jp": "「第八駆逐隊第一小隊」を含む艦隊で鎮守府正面対潜哨戒を反復実施！敵潜を圧倒せよ！",
+    "desc": "「제8구축대 제1소대」를 포함하는 함대로 진수부 정면 대잠 초계를 반복 실시! 적 잠수함을 압도하라!"
+  },
+  "822": {
+    "code": "Bq1",
+    "name_jp": "沖ノ島海域迎撃戦",
+    "name": "오키노시마 요격전",
+    "desc_jp": "有力な艦隊を沖ノ島海域前面に反復投入、侵攻する敵機動部隊を迎撃、これを撃滅せよ！",
+    "desc": "유력한 함대를 오키노시마 해역 전면에 반복 투입하여 침공하는 적 기동부대를 요격, 이를 격멸하라!"
+  },
+  "823": {
+    "code": "B75",
+    "name_jp": "水雷戦隊、南西防衛線に反復出撃せよ！",
+    "name": "수뢰전대, 남서 방위선에 반복 출격하라!",
+    "desc_jp": "軽巡級旗艦と駆逐艦4隻の水雷戦隊を基幹とした艦隊を編成、<br>南西諸島防衛線に反復出撃し、同海域の制海権確保に努めよ！",
+    "desc": "경순급 기함과 구축함 4척의 수뢰전대를 기간으로 한 함대를 편성, 남서제도 방어선에 반복 출격하여 해당 해역의 제해권 확보에 힘써라!"
+  },
+  "824": {
+    "code": "B76",
+    "name_jp": "製油所地帯沿岸の哨戒を実施せよ！",
+    "name": "제유소 지대 연안의 초계를 실시하라!",
+    "desc_jp": "軽空母旗艦と駆逐艦3隻を基幹とした護衛艦隊を編成、<br>製油所地帯沿岸に展開し、同海域の哨戒を実施、同海域の安全を確保せよ！",
+    "desc": "경항모 기함과 구축함 3척을 기간으로 한 호위함대를 편성, 제유소 지대 연안에 전개하여 해당 해역의 초계를 실시, 해당 해역의 안전을 확보하라!"
+  },
+  "825": {
+    "code": "B77",
+    "name_jp": "水雷戦隊、南西諸島海域を哨戒せよ！",
+    "name": "수뢰전대, 남서제도 해역을 초계하라!",
+    "desc_jp": "水雷戦隊を基幹とした有力な艦隊で南西諸島海域バシー島沖及び東部オリョール海を哨戒、<br>同海域に遊弋する敵艦隊を捕捉、これを撃滅せよ！",
+    "desc": "수뢰전대를 기간으로 한 유력한 함대로 남서제도 해역 바시섬 앞바다 및 동부 오룔 해를 초계, 해당 해역에 유격하는 적 함대를 포착하여 이를 격멸하라!"
+  },
+  "826": {
+    "code": "B78",
+    "name_jp": "「第十九駆逐隊」出撃せよ！",
+    "name": "「제19구축대」 출격하라!",
+    "desc_jp": "特型駆逐艦4隻による「第十九駆逐隊」を鎮守府近海に展開！<br>鎮守府正面対潜哨戒を実施し、跳梁する敵潜部隊の制圧に努めよ！",
+    "desc": "특형 구축함 4척에 의한 「제19구축대」를 진수부 근해에 전개! 진수부 정면 대잠 초계를 실시하여, 발흥하는 적 잠수 부대의 제압에 힘써라!"
+  },
+  "827": {
+    "code": "B79",
+    "name_jp": "「第十九駆逐隊」敵主力に突入せよ！",
+    "name": "「제19구축대」 적 주력에 돌입하라!",
+    "desc_jp": "「第十九駆逐隊」を含む有力な艦隊を編成し、南西諸島海域沖ノ島沖に展開！<br>同方面に遊弋する敵主力を捕捉、これを撃破せよ！",
+    "desc": "「제19구축대」를 포함하는 유력한 함대를 편성하여, 남서제도 해역 오키노시마 앞바다에 전개! 해당 방면에 유격하는 적 주력을 포착하여 이를 격파하라!"
+  },
+  "828": {
+    "code": "B80",
+    "name_jp": "飛行場設営の準備を実施せよ！",
+    "name": "비행장 건설 준비를 실시하라!",
+    "desc_jp": "中部海域における航空偵察「K作戦」を再度実施、さらに同方面に遊弋する敵艦隊を撃滅し、<br>中部海域における飛行場設営の準備を実施せよ！",
+    "desc": "중부 해역에서의 항공 정찰 「K작전」을 다시 실시, 나아가 해당 방면에 유격하는 적 함대를 격멸하여, 중부 해역에서의 비행장 건설 준비를 실시하라!"
+  },
+  "829": {
+    "code": "B81",
+    "name_jp": "夜間突入！敵上陸部隊を叩け！",
+    "name": "야간 돌입! 적 상륙 부대를 쳐라!",
+    "desc_jp": "南方サブ島沖海域へ精鋭艦隊を突入！敵艦隊の邀撃を突破し、同方面の敵上陸部隊を叩け！",
+    "desc": "남방 사보섬 앞바다 해역에 정예 함대를 돌입! 적 함대의 요격을 돌파하고, 해당 방면의 적 상륙 부대를 쳐라!"
   },
   "830": {
     "code": "B82",
     "name_jp": "夜の海を照らす「灯り」を入手せよ！",
-    "name": "Obtain the 'Lantern' to light the Night Sea!",
+    "name": "밤바다를 비추는 「등불」을 입수하라!",
     "desc_jp": "有力な艦隊を南西諸島近海に投入、同方面に出没する敵艦隊を捕捉、これを撃滅せよ！<br>そして、夜を照らす「灯り」を入手せよ！\u3000ある季節は夜戦以外にも使い道があるようだ！",
-    "desc": "Sortie to World 2-1 and obtain an S-rank at the boss"
+    "desc": "유력한 함대를 남서제도 근해에 투입, 해당 방면에 출몰하는 적 함대를 포착하여 이를 격멸하라! 그리고 밤을 비추는 「등불」을 입수하라! 어느 계절에는 야전 이외에도 쓸모가 있는 모양이다!"
   },
   "833": {
     "code": "B139",
     "name_jp": "陸戦用装備の艦載運用実戦研究",
-    "name": "Research of Ship-borne Land Based Equipment in Actual Combat",
+    "name": "육전용 장비의 함재 운용 실전 연구",
     "desc_jp": "陸戦用装備の艦載運用研究：水上機母艦または揚陸艦を含む艦隊を編成、西方海域カレー洋リランカ島沖<br>及び中部北海域ピーコック島沖の各作戦において、敵地上戦力と交戦、これを複数回撃破せよ！",
-    "desc": "Sortie a fleet with 1 Seaplane Tender/Amphibious Assault Ship and up to 5 additional ships to Worlds 4-5 and 6-4. Obtain an A-rank or higher at each boss node twice."
+    "desc": "육전용 장비의 함재 운용 연구: 수상기모함 또는 양륙함을 포함하는 함대를 편성, 서방 해역 카레양 리랑카섬 앞바다 및 중부 북해역 피콕섬 앞바다의 각 작전에서 적 지상 전력과 교전, 이를 복수 회 격파하라!"
   },
   "834": {
     "code": "B83",
     "name_jp": "南西諸島防衛線を増強せよ！",
-    "name": "Reinforce the Nansei Island Defense Line!",
+    "name": "남서제도 방어선을 증강하라!",
     "desc_jp": "水上機母艦または航空巡洋艦を旗艦とする有力な艦隊を南西諸島防衛線に投入、<br>水上機戦力によって同防衛線を強化、同方面の敵艦隊を撃滅せよ！",
-    "desc": "Sortie AV/CAV as flagship and five wildcards and score an S-rank victory against World 1-4 Boss."
+    "desc": "수상기모함 또는 항공순양함을 기함으로 하는 유력한 함대를 남서제도 방어선에 투입, 수상기 전력에 의해 해당 방어선을 강화하고 해당 방면의 적 함대를 격멸하라!"
   },
   "835": {
     "code": "B84",
     "name_jp": "「第十六戦隊(第三次)」出撃せよ！",
-    "name": "Deploy the 16th Squadron (3rd Gen.)",
+    "name": "「제16전대(제3차)」 출격하라!",
     "desc_jp": "「第十六戦隊(第三次)」を沖ノ島海域前面に展開、敵主力艦隊を捕捉、これを撃破せよ！",
-    "desc": "Sortie Kinu, Aoba, Kitakami, Ooi, and two wildcards and score an S-rank victory against World 2-4 Boss."
+    "desc": "「제16전대(제3차)」를 오키노시마 해역 전면에 전개, 적 주력 함대를 포착하여 이를 격파하라!"
   },
   "836": {
     "code": "B85",
     "name_jp": "精鋭「第十六戦隊」突入せよ！",
-    "name": "Deploy the Elite 16th Squadron!",
+    "name": "정예 「제16전대」 돌입하라!",
     "desc_jp": "再編成を完了した精鋭「第十六戦隊」を南西諸島海域沖ノ島沖に展開、<br>同方面に遊弋する敵主力を捕捉、これを撃破せよ！",
-    "desc": "Sortie Kinu Kai2 as flagship and 5 of the following: Kitakami Kai2, Ooi Kai2, Kuma Kai Aoba Kai, Uranami Kai, or Shikinami Kai and score an S-rank victory against World 2-5 Boss."
+    "desc": "재편성을 완료한 정예 「제16전대」를 남서제도 해역 오키노시마 앞바다에 전개, 해당 방면에 유격하는 적 주력을 포착하여 이를 격파하라!"
   },
   "837": {
     "code": "B86",
     "name_jp": "輸送作戦を成功させ、帰還せよ！",
-    "name": "Report the Success of a Transport Operation!",
+    "name": "수송 작전을 성공시키고 귀환하라!",
     "desc_jp": "「鬼怒改二」を旗艦、僚艦に「浦波改」他駆逐艦3隻の計5隻の艦隊で<br>バシー島沖における柳輸送作戦を実施、同輸送作戦を完全成功させ、帰還せよ！",
-    "desc": "Organize a fleet with Kinu Kai Ni as flagship, Uranami Kai, 3DD and another ship that is not a Destroyer in your fleet and score an S rank at the boss node on 2-2"
+    "desc": "「키누 개2」를 기함, 동료함에 「우라나미 개」 외 구축함 3척의 총 5척의 함대로 바시섬 앞바다에서의 야나기 수송 작전을 실시, 해당 수송 작전을 완전 성공시키고 귀환하라!"
   },
   "838": {
     "code": "B87",
     "name_jp": "重巡戦隊、抜錨せよ！",
-    "name": "Heavy Cruiser Squadron, Set Sail!",
+    "name": "중순전대, 발묘하라!",
     "desc_jp": "重巡4隻を基幹戦力とした重巡旗艦の艦隊を南西諸島海域東部オリョール海に展開し、<br>同海域の敵艦隊を撃滅、制海権を確保せよ！",
-    "desc": "Sortie four CA (one as flagship) and two wildcard and score an S-rank victory against World 2-3 Boss."
+    "desc": "중순양함 4척을 기간 전력으로 한 중순양함 기함의 함대를 남서제도 해역 동부 오룔 해에 전개하여, 해당 해역의 적 함대를 격멸, 제해권을 확보하라!"
   },
   "839": {
     "code": "B88",
     "name_jp": "戦艦戦隊、出撃せよ！",
-    "name": "Sortie a Battleship Squadron!",
+    "name": "전함전대, 출격하라!",
     "desc_jp": "戦艦2隻を中核戦力とする戦艦旗艦の艦隊を北方海域アルフォンシーノ方面に進出させ、<br>同海域の敵艦隊を撃滅、北方海域の制海権確保に努めよ！",
-    "desc": "Sortie two BB (one as flagship) and four wildcard and score an S-rank victory against World 3-3 Boss."
+    "desc": "전함 2척을 중핵 전력으로 하는 전함 기함의 함대를 북방 해역 알폰시노 방면에 진출시켜, 해당 해역의 적 함대를 격멸, 북방 해역의 제해권 확보에 힘써라!"
   },
   "842": {
     "code": "B89",
     "name_jp": "主力戦艦戦隊、抜錨せよ！",
-    "name": "Battleship Squadron, Set Sail!",
+    "name": "주력 전함전대, 발묘하라!",
     "desc_jp": "戦艦または航空戦艦2隻以上からなる強力な戦艦戦隊を中核とした艦隊を沖ノ島海域前面に展開、<br>侵攻する敵艦隊を捕捉、これを撃滅せよ！",
-    "desc": "Sortie two (non-fast) BB/BBV and four wildcard and score an S-rank victory against World 2-4 Boss."
+    "desc": "전함 또는 항공전함 2척 이상으로 이루어진 강력한 전함전대를 중핵으로 한 함대를 오키노시마 해역 전면에 전개, 침공하는 적 함대를 포착하여 이를 격멸하라!"
   },
   "844": {
     "code": "B90",
     "name_jp": "精鋭「第八駆逐隊」突入せよ！",
-    "name": "Deploy the Elite 8th Destroyer Division!",
+    "name": "정예 「제8구축대」 돌입하라!",
     "desc_jp": "「荒潮改二」を旗艦とし、僚艦に「第八駆逐隊」から1隻を配備した精鋭第1艦隊で<br>サーモン海域北方に突入、同方面に接近する有力な敵艦隊を捕捉、同方面の敵戦力の漸減に努めよ！",
-    "desc": "Sortie Arashio Kai Ni as flagship, four wildcard, and one of the following: Asashio, Ooshio, Michisio. Score two A-rank victories against World 5-5 Boss."
+    "desc": "「아라시오 개2」를 기함으로 하고, 동료함에 「제8구축대」에서 1척을 배비한 정예 제1함대로 서먼 해역 북방에 돌입, 해당 방면에 접근하는 유력한 적 함대를 포착하여 해당 방면의 적 전력 점감에 힘써라!"
   },
   "845": {
     "code": "Bq12",
     "name_jp": "発令！「西方海域作戦」",
-    "name": "Official Announcement! Western Sea Operation!",
+    "name": "발령! 「서방 해역 작전」",
     "desc_jp": "大規模出撃任務：「西方海域作戦」が発令された！有力な艦隊を編成し、西方海域全海域に出撃、<br>同海域に展開する敵戦力を完全撃破、これを殲滅せよ！\u3000艦隊、西へ！",
-    "desc": "Sortie a fleet to Worlds 4-1, 4-2, 4-3, 4-4, and 4-5. Score an S-rank at each boss node."
+    "desc": "대규모 출격 임무: 「서방 해역 작전」이 발령되었다! 유력한 함대를 편성하여 서방 해역 전 해역에 출격, 해당 해역에 전개하는 적 전력을 완전 격파하여 이를 섬멸하라! 함대, 서쪽으로!"
   },
   "846": {
     "code": "B91",
     "name_jp": "潜水艦隊、中部海域の哨戒を実施せよ！",
-    "name": "Submarine Fleet, Patrol the Central Waters!",
+    "name": "잠수함대, 중부 해역의 초계를 실시하라!",
     "desc_jp": "潜水艦を旗艦とし、4隻以上の有力な潜水艦を配備した第一艦隊、精鋭潜水艦隊で<br>中部海域哨戒線に進出、回航中の敵空母を捕捉、これを襲撃せよ！",
-    "desc": "Sortie four SS(V) (one as Flagship) and two additional ships. Score a B-rank victory against World 6-1 Boss."
+    "desc": "잠수함을 기함으로 하고, 4척 이상의 유력한 잠수함을 배치한 제1함대, 정예 잠수함대로 중부 해역 초계선에 진출, 회항 중인 적 항모를 포착하여 이를 습격하라!"
   },
   "847": {
     "code": "B163",
     "name_jp": "球磨型軽巡一番艦、出撃だクマ!",
-    "name": "Kuma-class Light Cruiser name ship, beary eager to sortie!",
+    "name": "쿠마형 경순양함 1번함, 출격이다 쿠마!",
     "desc_jp": "改装軽巡「球磨改二/球磨改二丁」旗艦の艦隊を、鎮守府近海航路、南西諸島バシー海峡、北方海域キス島沖、南西海域マラッカ海峡ペナン島沖深部へ展開！各方面の作戦を成功させよ！",
-    "desc": "Organize a fleet consists of Kuma Kai Ni/Kuma Kai Ni D as flagship and 5XX to S rank 2-2, 3-2, 7-3 (Part 2), and reach the anchor node N of 1-6"
+    "desc": "개장 경순 「쿠마 개2/쿠마 개2정」 기함의 함대를 진수부 근해 항로, 남서제도 바시 해협, 북방 해역 키스섬 앞바다, 남서 해역 말라카 해협 페낭섬 앞바다 심부로 전개! 각 방면의 작전을 성공시켜라!"
   },
   "848": {
     "code": "B92",
