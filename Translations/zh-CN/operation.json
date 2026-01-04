@@ -1,5 +1,5 @@
 ﻿{
-  "version": "20071555",
+  "version": "20071556",
   "map": {
     "南西諸島近海": "Adjacent Seas of Southwest Islands",
     "バシー海峡": "Bashi Strait",
@@ -444,7 +444,7 @@
     "深海地中海艦隊 前衛偵察艦隊": "Abyssal Mediterranean Fleet Vanguard Scout Fleet",
     "深海上陸橋頭堡 物資集積地": "Abyssal Landing Headquarters Supply Depot",
     "深海地中海艦隊 強行偵察戦隊": "Abyssal Mediterranean Fleet Forced Reconnaissance Squadron",
-    "深海地中海方面 基地航空隊": "Abyssal Mediterranean's LBAS",
+    "深海地中海方面 基地航空隊": "",
     "深海潜水艦隊 地中海哨戒線": "Abyssal Submarine Fleet Mediterranean Patrol Line",
     "深海地中海艦隊 マルタ島迎撃線": "Abyssal Mediterranean Fleet Malta Island Interceptor Line",
     "深海潜水艦隊 ジブラルタル警戒線": "Abyssal Submarine Fleet Gibraltar Alert Line",
