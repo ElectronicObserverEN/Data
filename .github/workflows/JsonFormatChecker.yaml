@@ -16,7 +16,7 @@ jobs:
         run: |
           echo "Checking JSON formatting..."
           invalid=0
-          for file in $(git diff --name-only ${{ github.head_ref }} | grep '.json$'); do
+          for file in $(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} | grep '.json$'); do
             echo "Validating $file"
             if ! jq empty "$file" 2>/dev/null; then
               echo "::error file=$file::Invalid JSON format"
