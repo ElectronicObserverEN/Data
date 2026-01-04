@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030647",
+  "version": "21030648",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3580,86 +3580,86 @@
   "892": {
     "code": "B126",
     "name_jp": "主力オブ主力、抜錨開始！",
-    "name": "Mainstay of Mainstay, Initiate Sortie!",
+    "name": "주력 중의 주력, 발묘 개시!",
     "desc_jp": "甲型駆逐艦編成任務：夕雲型駆逐艦「夕雲改二」及び「巻雲改二」の2隻から成る精鋭第十駆逐隊を含む<br>有力な艦隊を南方海域に投入、サブ島沖海域、サーモン海域、サーモン海域北方の敵を捕捉撃滅せよ！",
-    "desc": "Sortie a fleet with Yuugumo Kai Ni, Makigumo Kai Ni, and 4 additional ships to Worlds 5-3, 5-4, and 5-5.<br>Obtain an S-rank at each boss node."
+    "desc": "갑형 구축함 편성 임무: 유구모형 구축함 「유구모 개2」 및 「마키구모 개2」 2척으로 이루어진 정예 제10구축대를 포함하는 유력한 함대를 남방 해역에 투입, 사보섬 앞바다 해역, 서먼 해역, 서먼 해역 북방의 적을 포착 격멸하라!"
   },
   "893": {
     "code": "Bq8",
     "name_jp": "泊地周辺海域の安全確保を徹底せよ！",
-    "name": "Ranking Expansion Quest: Secure the Safety of the Anchorage Area!",
+    "name": "정박지 주변 해역의 안전 확보를 철저히 하라!",
     "desc_jp": "泊地近海警戒戦果拡張：有力な泊地哨戒部隊を編成、鎮守府近海、ブルネイ泊地沖、タウイタウイ泊地沖<br>に反復出撃！各周辺海域に出没する敵潜を制圧、さらに泊地周辺の脅威となる敵戦力を捕捉撃滅せよ！",
-    "desc": "Sortie a fleet to Worlds 1-5, 7-1, and 7-2. S-rank the boss node of 1-5 and 7-1 three times. S-rank both boss nodes of 7-2 three times."
+    "desc": "정박지 근해 경계 전과 확장: 유력한 정박지 초계 부대를 편성, 진수부 근해, 브루나이 정박지 앞바다, 타위타위 정박지 앞바다에 반복 출격! 각 주변 해역에 출몰하는 적 잠수함을 제압하고, 나아가 정박지 주변의 위협이 되는 적 전력을 포착 격멸하라!"
   },
   "894": {
     "code": "Bq9",
     "name_jp": "空母戦力の投入による兵站線戦闘哨戒",
-    "name": "Carrier Combat Patrol in the Supply Lines",
+    "name": "공모 전력 투입을 통한 병참선 전투 초계",
     "desc_jp": "空母を含む有力な哨戒艦隊を編成、製油所地帯沿岸、南西諸島防衛線、南西諸島近海、バシー海峡<br>及び東部オリョール海を戦闘哨戒、各海域の敵艦隊を捕捉撃滅、各海域兵站線の安全を確保せよ！",
-    "desc": "Sortie a carrier and up to 5 additional ships to [W1-3], [W1-4], [W2-1], [W2-2], and [W2-3]. S-Rank the boss nodes."
+    "desc": "공모를 포함한 유력한 초계 함대를 편성하여, 제유소 지대 연안, 남서제도 방어선, 남서제도 근해, 바시 해협 및 동부 오룔 해를 전투 초계, 각 해역의 적 함대를 포착 격멸하여 각 해역 병참선의 안전을 확보하라!"
   },
   "895": {
     "code": "B127",
     "name_jp": "冬季北方海域作戦",
-    "name": "Northern Sea Winter Operation",
+    "name": "동계 북방 해역 작전",
     "desc_jp": "冬季北方作戦：軽巡級を旗艦とする有力な艦隊で、モーレイ海、アルフォンシーノ方面、北方海域全域及び<br>北方AL海域に反復出撃！同海域に遊弋する敵艦隊を捕捉、これを撃滅し、北方海域制海権を確保せよ！",
-    "desc": "Organize a fleet with a CL/CT/CLT as flagship and score an S rank at the boss nodes on 3-1, 3-3, 3-4 and 3-5 twice each."
+    "desc": "동계 북방 작전: 경순양함급을 기함으로 하는 유력한 함대로 모레이 해, 알폰시노 방면, 북방 해역 전역 및 북방 AL 해역에 반복 출격! 해당 해역에 유영하는 적 함대를 포착, 이를 격멸하고 북방 해역 제해권을 확보하라!"
   },
   "896": {
     "code": "B131",
     "name_jp": "航空戦艦戦隊、戦闘哨戒！",
-    "name": "Aviation Battleship Division, Scout and Engage!",
+    "name": "항공전함 전대, 전투 초계!",
     "desc_jp": "航空戦艦二隻を中核とする艦隊を編成、同艦隊で南西諸島防衛線、鎮守府近海及び東部オリョール海、<br>タウイタウイ泊地沖に展開。同海域の脅威となる敵艦隊主力を捕捉、これを撃滅せよ！",
-    "desc": "Sortie a fleet with 2 BBV and up to 4 additional ships to Worlds 1-4, 1-5, 2-3, and 7-2. Obtain a S-rank at the boss of 1-4, 1-5, and 2-3. Obtain a S-rank at the second boss of 7-2."
+    "desc": "항공전함 2척을 중핵으로 하는 함대를 편성, 해당 함대로 남서제도 방어선, 진수부 근해 및 동부 오룔 해, 타위타위 정박지 앞바다에 전개. 해당 해역의 위협이 되는 적 함대 주력을 포착하여 이를 격멸하라!"
   },
   "897": {
     "code": "B132",
     "name_jp": "最精鋭「第四航空戦隊」、出撃せよ！",
-    "name": "Super Elite 4th Carrier Division, Weigh Anchor!",
+    "name": "최정예 「제4항공전대」, 출격하라!",
     "desc_jp": "「日向改二」「伊勢改二」の最精鋭「四航戦」を含む第一艦隊で、鎮守府近海航路に反復出撃、<br>さらに、カレー洋リランカ島沖、サーモン海域北方、KW環礁沖海域の敵艦隊を捕捉撃滅せよ！",
-    "desc": "Organize a fleet Ise Kai Ni and Hyuuga Kai Ni and 4XX in your first fleet and score an S rank at 4-5, 5-5, and 6-5 of the boss node once and also successfully reach the anchor node N of 1-6."
+    "desc": "「휴가 개2」, 「이세 개2」의 최정예 「제4항전」을 포함한 제1함대로 진수부 근해 항로에 반복 출격, 나아가 카레양 리랑카섬 앞바다, 서먼 해역 북방, KW환초 앞바다 해역의 적 함대를 포착 격멸하라!"
   },
   "898": {
     "code": "B162",
     "name_jp": "北の海から愛をこめて",
-    "name": "From the Northern Seas with Love",
+    "name": "북쪽 바다로부터 사랑을 담아",
     "desc_jp": "任意の艦隊で、北方海域モーレイ海、キス島沖、アルフォンシーノ方面、北方海域全域、<br>北方AL海域において敵艦隊と交戦、これらを撃破、北方の海の制海権を確保せよ！",
-    "desc": "Sortie a fleet into 3-1, 3-2, 3-3, 3-4 and 3-5 and score an A+ rank at the boss node."
+    "desc": "임의의 함대로 북방 해역 모레이 해, 키스섬 앞바다, 알폰시노 방면, 북방 해역 전역, 북방 AL 해역에서 적 함대와 교전하여 이들을 격파, 북쪽 바다의 제해권을 확보하라!"
   },
   "901": {
     "code": "B140",
     "name_jp": "「夕張改二」試してみてもいいかしら？",
-    "name": "Shall We Put \"My\" Kai Ni to the Test?",
+    "name": "「유바리 개2」, 시험해 봐도 괜찮을까?",
     "desc_jp": "改装兵装実験軽巡「夕張改二」型を旗艦にした艦隊で、南西諸島沖ノ島沖、北方アルフォンシーノ方面、<br>南方サブ島沖海域、中部グアノ環礁沖海域に展開！同戦域の敵艦隊主力を捜索、これを捕捉撃滅せよ！",
-    "desc": "Sortie a fleet with Yuubari Kai Ni/Yuubari Kai Ni Toku/Yuubari Kai Ni D as flagship and up to 5 additional ships to Worlds 2-5, 3-3, 5-3, and 6-3.<br>Obtain an S-rank at each boss node."
+    "desc": "개장 병장 실험 경순 「유바리 개2」형을 기함으로 한 함대로 남서제도 오키노시마 앞바다, 북방 알폰시노 방면, 남방 사보섬 앞바다 해역, 중부 구아노 환초 앞바다 해역에 전개! 해당 전역의 적 함대 주력을 수색, 이를 포착 격멸하라!"
   },
   "902": {
     "code": "B141",
     "name_jp": "新編「六水戦」出撃！後で感想、聞かせてね！",
-    "name": "New 6th Torpedo Squadron Sortie! Let me know what you think afterwards!",
+    "name": "신편 「제6수전」 출격! 나중에 감상, 들려줘!",
     "desc_jp": "改装軽巡「夕張改二」型旗艦を含む第六水雷戦隊4隻以上を擁する艦隊で、鎮守府近海、鎮守府近海航路、<br>さらに南西諸島バシー海峡、北方キス島沖、南西ブルネイ泊地沖の各作戦を、それぞれ完全成功させよ！",
-    "desc": "Sortie a fleet with Yuubari Kai Ni/Yuubari Kai Ni Toku/Yuubari Kai Ni D as flagship, 3 of Yayoi, Mutsuki, Kisaragi, Mochizuki, Uzuki, Kikuzuki and up to 2 additional ships to Worlds 1-5, 1-6, 2-2, 3-2, and 7-1. Obtain an S-rank at the boss node of 1-5, 2-2, 3-2, and 7-1 once. Reach the anchor node N of 1-6 once."
+    "desc": "개장 경순 「유바리 개2」형 기함을 포함하여 제6수뢰전대 4척 이상을 옹위하는 함대로, 진수부 근해, 진수부 근해 항로, 나아가 남서제도 바시 해협, 북방 키스섬 앞바다, 남서 브루나이 정박지 앞바다의 각 작전을 각각 완전 성공시켜라!"
   },
   "903": {
     "code": "Bq13",
-    "name_jp": "拡張「六水戦」、最前線へ！",
+    "name_jp": "확장 「제6수전」, 최전선으로!",
     "name": "Expanded 6th Torpedo Squadron, to the Front Lines!",
     "desc_jp": "軽巡「夕張改二」型の旗艦に随伴第六水雷戦隊駆逐艦2隻以上または「由良改二」を含む艦隊で、南方海域<br>前面、南方サーモン海域、中部北海域ピーコック島沖、中部KW環礁沖海域に展開、敵戦力を撃滅せよ！",
-    "desc": "Sortie a fleet with Yuubari Kai Ni/Yuubari Kai Ni Toku/Yuubari Kai Ni D as flagship and one of the following two configurations: EITHER 2 of Yayoi, Mutsuki, Kisaragi, Mochizuki, Uzuki, Kikuzuki and up to 3 additional ships, OR Yura Kai Ni and up to 4 additional ships, to Worlds 5-1, 5-4, 6-4, and 6-5. Obtain an S-rank at each boss node."
+    "desc": "경순양함 「유바리 개2」형을 기함으로 하고 수반하는 제6수뢰전대 구축함 2척 이상 또는 「유라 개2」를 포함하는 함대로 남방 해역 전면, 남방 서먼 해역, 중부 북해역 피콕섬 앞바다, 중부 KW환초 앞바다 해역에 전개, 적 전력을 격멸하라!"
   },
   "904": {
     "code": "By1",
     "name_jp": "精鋭「十九駆」、躍り出る！",
-    "name": "Elite \"DesDiv 19\", In the Spotlight!",
+    "name": "정예 「제19구축대」, 뛰어오르다!",
     "desc_jp": "改装特II型駆逐艦「綾波改二」及び同「敷波改二」を含む精鋭艦隊を前線に投入、南西諸島海域沖ノ島沖、<br>北方海域全域、西方海域カレー洋リランカ島沖、南方サブ島沖海域に展開、各敵主力を捕捉撃滅せよ！",
-    "desc": "Sortie a fleet with Ayanami Kai Ni, Shikinami Kai Ni, and up to 4 additional ships to Worlds 2-5, 3-4, 4-5, and 5-3. Obtain an S-rank at each boss node."
+    "desc": "개장 특II형 구축함 「아야나미 개2」 및 「시키나미 개2」를 포함한 정예 함대를 전선에 투입, 남서제도 해역 오키노시마 앞바다, 북방 해역 전역, 서방 해역 카레양 리랑카섬 앞바다, 남방 사보섬 앞바다 해역에 전개하여, 각 적 주력을 포착 격멸하라!"
   },
   "905": {
     "code": "By2",
     "name_jp": "「海防艦」、海を護る！",
-    "name": "\"Coastal Defense Ships\", Protecting the Sea!",
+    "name": "「해방함」, 바다를 지키다!",
     "desc_jp": "海防艦3隻を含む5隻以下の海上護衛隊を、鎮守府海域に展開。鎮守府正面海域、南西諸島沖海域、製油所<br>地帯沿岸、鎮守府近海、鎮守府近海航路の各海域の安全確保と対潜掃蕩を図れ！海防艦戦隊、抜錨せよ！",
-    "desc": "Sortie a fleet with 3 Coastal Defense Ships and up to 2 additional ships to Worlds 1-1, 1-2, 1-3, 1-5, and 1-6. Obtain an S-rank at the boss node of 1-1, 1-2, 1-3, and 1-5 once. Reach the anchor node N of 1-6 once"
+    "desc": "해방함 3척을 포함한 5척 이하의 해상 호위대를 진수부 해역에 전개. 진수부 정면 해역, 남서제도 앞바다 해역, 제유소 지대 연안, 진수부 근해, 진수부 근해 항로의 각 해역의 안전 확보와 대잠 소탕을 꾀하라! 해방함 전대, 발묘하라!"
   },
   "906": {
     "code": "2201 LB05",
@@ -3671,477 +3671,476 @@
   "907": {
     "code": "2201 LB06",
     "name_jp": "【桃の節句】南西諸島海域、戦闘哨戒2022",
-    "name": "[Peach Festival] 2022 combat patrols in the Nansei Islands sea!",
+    "name": "【모모노셋쿠】 진수부 근해의 안전 확보 작전 2022",
     "desc_jp": "【桃の節句作戦】精鋭駆逐艦または海防艦計4隻を含む艦隊で、南西諸島近海、バシー海峡、<br>東部オリョール海に反復出撃！各海域の敵艦隊を捕捉撃滅、制海権の確保を図れ！",
-    "desc": "Have 4 DD/DE in the fleet and score an S rank on 2-1, 2-2, and 2-3 twice each"
+    "desc": "【모모노셋쿠 작전】 구축함 또는 해방함 총 3척을 포함한 함대로, 진수부 해역 남서제도 앞바다, 제유소 지대 연안, 진수부 근해, 진수부 근해 항로의 안전 확보와 대잠 소탕을 꾀하라!"
   },
   "908": {
     "code": "2201 LB07",
     "name_jp": "【桃の節句】決戦！敵機動部隊を叩け！2022",
-    "name": "[Peach Festival] 2022 decisive battle! Smash the enemy task force!",
+    "name": "【모모노셋쿠】 남서제도 해역, 전투 초계 2022",
     "desc_jp": "【桃の節句作戦】航空母艦1隻以上、重巡または航空巡洋艦1隻以上、軽巡1隻以上を含む精強艦隊で、<br>南西諸島海域沖ノ島海域、沖ノ島沖、タウイタウイ泊地沖深部に反復出撃、敵艦隊主力を撃滅せよ！",
-    "desc": "Have a CV(L/B), a CA(V) and a CL in the fleet and score an S rank on 2-4, 2-5, and 7-2-2 twice each"
+    "desc": "【모모노셋쿠 작전】 정예 구축함 또는 해방함 총 4척을 포함한 함대로, 남서제도 근해, 바시 해협, 동부 오룔 해에 반복 출격! 각 해역의 적 함대를 포착 격멸하여 제해권 확보를 꾀하라!"
   },
   "911": {
     "code": "B142 ",
     "name_jp": "再編「第三一駆逐隊」、抜錨せよ！",
-    "name": "Reorganized \"DesDiv 31\", Weigh Anchor!",
+    "name": "재편 「제31구축대」, 발묘하라!",
     "desc_jp": "夕雲型駆逐艦「長波」「岸波」「朝霜」、そして「沖波改二」からなる再編第三一駆逐隊を含む艦隊を、<br>製油所地帯沿岸、南西諸島防衛線、鎮守府近海、バシー海峡、東部オリョール海に展開、敵を撃破せよ！",
-    "desc": "Sortie a fleet with Naganami, Kishinami, Asashimo, and Okinami kai ni. Obtain a S rank at the boss nodes of 1-3, 1-4, 1-5, 2-2, 2-3."
+    "desc": "유구모형 구축함 「나나가미」, 「키시나미」, 「아사시모」, 그리고 「오키나미 개2」로 구성된 재편 제31구축대를 포함한 함대를 제유소 지대 연안, 남서제도 방어선, 진수부 근해, 바시 해협, 동부 오룔 해에 전개하여 적을 격파하라!"
   },
   "912": {
     "code": "By3",
     "name_jp": "工作艦「明石」護衛任務",
-    "name": "Repair Ship \"Akashi\" Escort Mission",
+    "name": "공작함 「아카시」 호위 임무",
     "desc_jp": "工作艦護衛任務：旗艦に工作艦「明石」、護衛の駆逐艦3隻以上で製油所地帯沿岸、鎮守府近海航路、<br>南西諸島近海、バシー海峡、東部オリョール海に展開。「明石」を護衛、同海域での作戦を成功させよ！",
-    "desc": "Sortie a fleet with Akashi as flagship, 3 Destroyers, and up to 2 additional ships to Worlds 1-3, 1-6, 2-1, 2-2, and 2-3. Obtain a A-rank (or higher) at the boss node of 1-3, 2-1, 2-2, and 2-3 once. Reach the anchor node N of 1-6 once."
+    "desc": "공작함 호위 임무: 기함에 공작함 「아카시」, 호위 구축함 3척 이상으로 제유소 지대 연안, 진수부 근해 항로, 남서제도 근해, 바시 해협, 동부 오룔 해에 전개. 「아카시」를 호위하여 해당 해역에서의 작전을 성공시켜라!"
   },
   "913": {
     "code": "B143",
     "name_jp": "「第五航空戦隊」、縦横無尽！",
-    "name": "\"5th Carrier Division\", Roaming Far and Wide!",
+    "name": "「제5항공전대」, 종횡무진!",
     "desc_jp": "航空母艦「翔鶴」「瑞鶴」、護衛随伴駆逐艦「朧」「秋雲」を中核とした機動部隊を編成。同機動部隊を<br>北方AL海域、珊瑚諸島沖、タウイタウイ泊地沖深部、KW環礁沖海域に展開、敵艦隊を捕捉撃滅せよ！",
-    "desc": "Sortie a fleet with Shoukaku, Zuikaku, Oboro, Akigumo, and up to 2 additional ships to Worlds 3-5, 5-2, 7-2, and 6-5. Obtain an S-rank at the boss node of 3-5, 5-2, and 6-5 once. Obtain an S-rank at the second boss of 7-2 once."
+    "desc": "항공모함 「쇼카쿠」, 「즈이카쿠」, 호위 수반 구축함 「오보로」, 「아키구모」를 중핵으로 한 기동부대를 편성. 해당 기동부대를 북방 AL 해역, 산호 제도로 앞바다, 타위타위 정박지 앞바다 심부, KW환초 앞바다 해역에 전개하여 적 함대를 포착 격멸하라!"
   },
   "914": {
     "code": "By4",
     "name_jp": "重巡戦隊、西へ！",
-    "name": "Heavy Cruiser Squadron, to the West!",
+    "name": "중순전대, 서쪽으로!",
     "desc_jp": "重巡(航空巡洋艦含まず)3隻以上、駆逐艦1隻以上を中核とした艦隊を編成。同艦隊を西方に展開。<br>西方海域ジャム島沖、カレー洋海域、リランカ島、カスガダマ島の敵戦力と交戦、これを撃破せよ！",
-    "desc": "Sortie a fleet with 3 Heavy Cruisers, 1 Destroyer, and up to 2 additional ships to Worlds 4-1, 4-2, 4-3, and 4-4. Obtain an A-rank at each boss node once."
+    "desc": "중순양함(항공순양함 포함 안 함) 3척 이상, 구축함 1척 이상을 중핵으로 한 함대를 편성. 해당 함대를 서방에 전개. 서방 해역 잼섬 앞바다, 카레양 해역, 리랑카섬, 카스가다마섬의 적 전력과 교전하여 이를 격파하라!"
   },
   "915": {
     "code": "2212 B2",
     "name_jp": "【期間限定任務】飛べ！世界の下駄履き機！",
-    "name": "[Time-Limited] Fly! Seaplanes Of The World!",
+    "name": "【기간 한정 임무】 날아라! 세계의 게타바키(수상기)!",
     "desc_jp": "水上機母艦を旗艦とし、随伴護衛艦に駆逐艦または海防艦を2隻以上含む水上機運用艦隊で、<br>南西諸島防衛線、東部オリョール海、沖ノ島海域へ展開！敵艦隊を捜索捕捉、これを撃滅せよ！",
-    "desc": "Organize a fleet with an AV as flagship and 2 DD/DE in your fleet and score an S rank at the boss nodes on 1-4, 2-3, and 2-4"
+    "desc": "수상기모함을 기함으로 하고, 수반 호위함에 구축함 또는 해방함을 2척 이상 포함하는 수상기 운용 함대로 남서제도 방어선, 동부 오룔 해, 오키노시마 해역으로 전개! 적 함대를 수색 포착하여 이를 격멸하라!"
   },
   "916": {
     "code": "B144",
     "name_jp": "「比叡改二丙」見参！第三戦隊、南方突入！",
-    "name": "Meeting Hiei Kai Ni C! 3rd Battleship Squadron, to the South!",
+    "name": "「히에이 개2병」 등장! 제3전대, 남방 돌입!",
     "desc_jp": "「比叡改二丙」含む金剛型高速戦艦2隻以上、軽巡級1隻、駆逐艦1隻以上を含む艦隊を南方海域に投入！<br>南方海域前面、珊瑚諸島沖、サブ島沖海域、サーモン海域、同北方の敵艦隊を捕捉、これを撃滅せよ！",
-    "desc": "Sortie a fleet with Hiei Kai Ni C, 1 other Kongou-class ship, 1 Light Cruiser, 1 Destroyer, and up to 2 additional ships to Worlds 5-1, 5-2, 5-3, 5-4, and 5-5. Obtain a S-rank at each boss node."
+    "desc": "「히에이 개2병」을 포함한 콩고형 고속전함 2척 이상, 경순양함급 1척, 구축함 1척 이상을 포함한 함대를 남방 해역에 투입! 남방 해역 전면, 산호 제도 앞바다, 사보섬 앞바다 해역, 서먼 해역 및 해당 북방의 적 함대를 포착하여 이를 격멸하라!"
   },
   "917": {
     "code": "B145",
     "name_jp": "改装航空軽巡「Gotland andra」、出撃！",
-    "name": "Remodeled Aviation Light Cruiser Gotland Andra, Sortie!",
+    "name": "개장 항공경순 「Gotland andra」, 출격!",
     "desc_jp": "「Gotland andra」旗艦、随伴駆逐艦1隻以上を含む艦隊で、南西諸島海域沖ノ島海域に出撃！<br>さらに西方カレー洋海域、カスガダマ島、カレー洋リランカ島沖に展開！同方面の敵を撃滅せよ！",
-    "desc": "Sortie a fleet with Gotland Andra as flagship, 1 Destroyer, and up to 4 additional ships to Worlds 2-4, 4-2, 4-4, and 4-5. Obtain a S-rank at each boss node."
+    "desc": "「Gotland andra」를 기함으로, 수반 구축함 1척 이상을 포함한 함대로 남서제도 해역 오키노시마 해역에 출격! 나아가 서방 카레양 해역, 카스가다마섬, 카레양 리랑카섬 앞바다에 전개! 해당 방면의 적을 격멸하라!"
   },
   "918": {
     "code": "B146",
     "name_jp": "「Gotland」戦隊、進撃せよ！",
-    "name": "Gotland Squadron, Advance!",
+    "name": "「Gotland」 전대, 진격하라!",
     "desc_jp": "「Gotland andra」旗艦、随伴駆逐艦1隻以上を含む艦隊で、南西諸島海域沖ノ島沖に進撃！さらに<br>中部海域に展開、グアノ環礁沖海域、中部北海域ピーコック島沖、KW環礁沖海域の敵を撃滅せよ！",
-    "desc": "Sortie a fleet with Gotland Andra as flagship, 1 Destroyer, and up to 4 additional ships to Worlds 2-5, 6-3, 6-4, and 6-5. Obtain a S-rank at each boss node."
+    "desc": "「Gotland andra」를 기함으로, 수반 구축함 1척 이상을 포함한 함대로 남서제도 해역 오키노시마 앞바다에 진격! 나아가 중부 해역에 전개, 구아노 환초 앞바다 해역, 중부 북해역 피콕섬 앞바다, KW환초 앞바다 해역의 적을 격멸하라!"
   },
   "919": {
     "code": "B147",
     "name_jp": "南西諸島海域合同哨戒",
-    "name": "Nansei Island Water Combined Patrol",
+    "name": "남서제도 해역 합동 초계",
     "desc_jp": "米出身(USS)艦娘を2隻以上含む艦隊で、南西諸島海域のバシー海峡、東部オリョール海、<br>沖ノ島海域の哨戒を実施。各作戦海域における敵艦隊を捜索、これを捕捉撃滅せよ！",
-    "desc": "Sortie a fleet with 2 ships from the United States and up to 4 additional ships to Worlds 2-2, 2-3, and 2-4. Obtain an S-rank at each boss node."
+    "desc": "미국 출신(USS) 칸무스를 2척 이상 포함한 함대로 남서제도 해역의 바시 해협, 동부 오룔 해, 오키노시마 해역의 초계를 실시. 각 작전 해역의 적 함대를 수색하고, 이를 포착 격멸하라!"
   },
   "920": {
     "code": "B148",
     "name_jp": "合同艦隊旗艦、改装「Fletcher」、抜錨！",
-    "name": "Coalition Fleet's Flagship \"Fletcher\", Sortie!",
+    "name": "합동 함대 기함, 개장 「Fletcher」, 발묘!",
     "desc_jp": "「Fletcher改 Mod.2」を旗艦とする米・英・豪・蘭出身の艦娘計3隻以上を含む艦隊を編成、同艦隊を<br>南西諸島防衛線、沖ノ島沖、北方AL海域に展開！各作戦海域の敵艦隊と交戦、これを撃滅せよ！",
-    "desc": "Sortie a fleet with Fletcher Kai Mod.2 as flagship. Have in the fleet 2 additional ships from any of the following nations: the United States, Australia, the Netherlands, or the United Kingdom. Obtain an S-rank at each boss node of 1-4, 2-5, and 3-5."
+    "desc": "「Fletcher 개 Mod.2」를 기함으로 하고 미국·영국·호주·네덜란드 출신 칸무스 총 3척 이상을 포함한 함대를 편성, 해당 함대를 남서제도 방어선, 오키노시마 앞바다, 북방 AL 해역에 전개! 각 작전 해역의 적 함대와 교전하여 이를 격멸하라!"
   },
   "921": {
     "code": "B149",
     "name_jp": "改装護衛駆逐艦「Fletcher Mk.II」作戦開始！",
-    "name": "Remodeled Escort Destroyer \"Fletcher Mk. II\", Begin the Operation!",
+    "name": "개장 호위 구축함 「Fletcher Mk.II」 작전 개시!",
     "desc_jp": "「Fletcher Mk.II」を旗艦とする米・英・豪・蘭出身の艦娘計3隻以上を含む精鋭艦隊を編成、同艦隊を<br>鎮守府近海、ブルネイ泊地沖、MS諸島沖、KW環礁沖海域に反復出撃！敵艦隊を捕捉、撃滅せよ！",
-    "desc": "Sortie a fleet with Fletcher Mk.II as flagship. Have in the fleet 2 additional ships from any of the following nations: the United States, Australia, the Netherlands, or the United Kingdom. Obtain an S-rank twice at each boss node of 1-5, 7-1, 6-2, and 6-5."
+    "desc": "「Fletcher Mk.II」를 기함으로 하고 미국·영국·호주·네덜란드 출신 칸무스 총 3척 이상을 포함한 정예 함대를 편성, 해당 함대를 진수부 근해, 브루나이 정박지 앞바다, MS제도 앞바다, KW환초 앞바다 해역에 반복 출격! 적 함대를 포착, 격멸하라!"
   },
   "922": {
     "code": "B150",
     "name_jp": "合同艦隊作戦任務【拡張作戦】",
-    "name": "Combined Fleet Operation Mission (Extra Operation)",
+    "name": "합동 함대 작전 임무 【확장 작전】",
     "desc_jp": "【拡張作戦:甲作戦級】「Fletcher Mk.II」を含む米・英・豪・蘭出身艦計4隻以上を含む精鋭艦隊を編成、<br>カレー洋リランカ島沖、サーモン海域北方、中部北海域ピーコック島沖に反復出撃！敵戦力を撃滅せよ！",
-    "desc": "Organize a fleet with Fletcher Mk.II along with 3 American, British, Australian, or Dutch ships and 2 XX, then score an S rank on the boss nodes of 4-5, 5-5, and 6-4 twice."
+    "desc": "【확장 작전: 갑작전급】 「Fletcher Mk.II」를 포함한 미국·영국·호주·네덜란드 출신 함 총 4척 이상을 포함한 정예 함대를 편성, 카레양 리랑카섬 앞바다, 서먼 해역 북방, 중부 북해역 피콕섬 앞바다에 반복 출격! 적 전력을 격멸하라!"
   },
   "923": {
     "code": "B151",
     "name_jp": "合同艦隊機動部隊、出撃せよ！",
-    "name": "Combined Fleet Mobile Task Force, Sortie!",
+    "name": "합동 함대 기동부대, 출격하라!",
     "desc_jp": "米・英出身航空母艦を1隻以上含む機動部隊で、西方海域リランカ島、北方海域全域、さらに<br>南方海域珊瑚諸島沖、南西海域タウイタウイ泊地沖深部に展開、各方面の敵戦力を撃滅せよ！",
-    "desc": "Organize a fleet with 1 American or British Carrier and 5 XX , then score an S rank on the boss nodes of 3-4, 4-3, 5-2 and 7-2 (Part 2)."
+    "desc": "미국·영국 출신 항공모함을 1척 이상 포함한 기동부대로 서방 해역 리랑카섬, 북방 해역 전역, 나아가 남방 해역 산호 제도 앞바다, 남서 해역 타위타위 정박지 앞바다 심부에 전개하여 각 방면의 적 전력을 격멸하라!"
   },
   "924": {
     "code": "B152",
     "name_jp": "【航空母艦特別任務】航空戦隊、精鋭無比！",
-    "name": "Special Aircraft Carrier Mission: Our Carrier Divisions, Peerless and Unmatched!",
+    "name": "【항공모함 특별 임무】 항공전대, 정예무비!",
     "desc_jp": "航空母艦特別任務：精強な正規空母2隻以上を擁する航空戦隊を中核とした機動部隊の精鋭で、<br>南西諸島海域沖ノ島海域、同沖ノ島沖、西方海域リランカ島に出撃！各方面の敵戦力を撃滅せよ！",
-    "desc": "Sortie a fleet with 2 Standard Aircraft Carriers and up to 4 additional ships to Worlds 2-4, 2-5, and 4-3. Obtain an S-rank at each boss node."
+    "desc": "항공모함 특별 임무: 정강한 정규 공모 2척 이상을 옹위하는 항공전대를 중핵으로 한 기동부대의 정예로 남서제도 해역 오키노시마 해역, 동 오키노시마 앞바다, 서방 해역 리랑카섬에 출격! 각 방면의 적 전력을 격멸하라!"
   },
   "925": {
     "code": "B153",
     "name_jp": "改加賀型航空母艦「加賀改二」、抜錨！",
-    "name": "Remodeled Kaga-class Aircraft Carrier \"Kaga K2\", Set Sail!",
+    "name": "개 카가형 항공모함 「카가 개2」, 발묘!",
     "desc_jp": "旗艦「加賀改二」型航空母艦、僚艦に正規空母1隻以上を含む機動部隊を編成、西方海域カスガダマ島、<br>カレー洋リランカ島沖、北方海域全域、南方海域珊瑚諸島沖に展開！各方面の敵戦力を撃滅せよ！",
-    "desc": "Assemble a fleet containing Kaga Kai Ni/E/Go as flagship, 1 CV, and up to 4 XX, then S rank the boss nodes of 3-4, 4-4, 4-5, and 5-2."
+    "desc": "기함 「카가 개2」형 항공모함, 요함에 정규 공모 1척 이상을 포함하는 기동부대를 편성하여 서방 해역 카스가다마섬, 카레양 리랑카섬 앞바다, 북방 해역 전역, 남방 해역 산호 제도 앞바다에 전개! 각 방면의 적 전력을 격멸하라!"
   },
   "926": {
     "code": "B154",
     "name_jp": "最精鋭「第一航空戦隊」、出撃！鎧袖一触！",
-    "name": "Peerless \"CarDiv 1\", Sortie! Defeat Them With a Single Strike!",
+    "name": "최정예 「제1항공전대」, 출격! 개수일촉!",
     "desc_jp": "「赤城改二」「加賀改二」型両航空母艦による最精鋭「第一航空戦隊」を中核とした艦隊で、サーモン海域<br>北方、タウイタウイ泊地沖深部、中部海域MS諸島沖、同KW環礁沖海域に展開！敵を捕捉撃滅せよ！",
-    "desc": "Sortie a fleet with Akagi Kai Ni/Akagi Kai Ni E, Kaga Kai Ni/Kaga Kai Ni E/Kaga Kai Ni Go, and up to 4 additional ships to Worlds 7-2, 5-5, 6-2, and 6-5. Obtain an S-rank at the boss node of 5-5, 6-2, and 6-5 once. Obtain an S-rank at the second boss node of 7-2 once."
+    "desc": "「아카기 개2」와 「카가 개2」형 두 항공모함에 의한 최정예 「제1항공전대」를 중핵으로 한 함대로 서먼 해역 북방, 타위타위 정박지 앞바다 심부, 중부 해역 MS제도 앞바다, 동 KW환초 앞바다 해역에 전개! 적을 포착 격멸하라!"
   },
   "927": {
     "code": "B155",
     "name_jp": "重巡「羽黒」、出撃！ペナン沖海戦",
-    "name": "Heavy Cruiser \"Haguro\", Sortie! Battle of the Malacca Strait",
+    "name": "중순 「하구로」, 출격! 페낭 앞바다 해전",
     "desc_jp": "重巡「羽黒」を旗艦とした5隻以下の艦隊で、南西海域マラッカ海峡に進出！ペナン島沖において、<br>敵駆逐隊を捕捉、これに複数回痛打を与えよ！精強たる我が重巡「羽黒」、出撃せよ！",
-    "desc": "Sortie Haguro as flagship and up to 4 additional ships to 7-3. A-Rank+ the first boss node 4 times."
+    "desc": "중순양함 「하구로」를 기함으로 한 5척 이하의 함대로 남서 해역 말라카 해협에 진출! 페낭섬 앞바다에서 적 구축대를 포착, 이에 복수 횟수 타격을 입혀라! 정강한 우리 중순 「하구로」, 출격하라!"
   },
   "928": {
     "code": "By5",
     "name_jp": "歴戦「第十方面艦隊」、全力出撃！",
-    "name": "Experienced \"10th Area Fleet\", Go all out!",
+    "name": "역전의 「제10방면함대」, 전력 출격!",
     "desc_jp": "重巡「羽黒」「足柄」「妙高」「高雄」、駆逐艦「神風」のうち2隻以上を含む精強な艦隊を編成！<br>マラッカ海峡ペナン島沖深部、タウイタウイ泊地沖深部、西方カレー洋海域に反復出撃！敵を撃滅せよ！",
-    "desc": "Organize a fleet with 2 historical ships which consist of the following: CA Haguro, Ashigara, Myouko, Takao and/or DD Kamikaze, and up to 4 XX and score an S rank on the boss nodes of 7-3 (part 2), 7-2 (Part 2), and 4-2 twice."
+    "desc": "중순양함 「하구로」, 「아시가라」, 「묘코」, 「타카오」, 구축함 「카미카제」 중 2척 이상을 포함한 정강한 함대를 편성! 말라카 해협 페낭섬 앞바다 심부, 타위타위 정박지 앞바다 심부, 서방 카레양 해역에 반복 출격! 적을 격멸하라!"
   },
   "929": {
     "code": "B156",
     "name_jp": "静かな海を護る「鯨」、動き出す！",
-    "name": "And thus the whale stirs to protect the calm sea!",
+    "name": "고요한 바다를 지키는 「고래」, 움직이기 시작하다!",
     "desc_jp": "潜水母艦「大鯨」または「迅鯨」型を旗艦として、潜水艦\\/潜水空母2隻以上の第一艦隊を編成！同艦隊で<br>南西諸島沖、製油所地帯沿岸、南西諸島近海、東部オリョール海を哨戒！各海域の制海権を保持せよ！",
-    "desc": "Organize a fleet consisting of Taigei or Jingei as flagship along with 2 SS/SSV and 3 XX and score an S rank at the boss nodes of 1-2, 1-3, 2-1, and 2-3."
+    "desc": "잠수모함 「타이게이」 또는 「징게이」형을 기함으로 하고, 잠수함/잠수공모 2척 이상의 제1함대를 편성! 해당 함대로 남서제도 앞바다, 제유소 지대 연안, 남서제도 근해, 동부 오룔 해를 초계! 각 해역의 제해권을 유지하라!"
   },
   "930": {
     "code": "B157",
     "name_jp": "主力オブ主力、縦横無尽ッ！",
-    "name": "Main Force Of The Main Force, Go Wild!",
+    "name": "주력 중의 주력, 종횡무진!",
     "desc_jp": "改装甲型駆逐艦4隻の精強第十駆逐隊を含む艦隊で、南西諸島防衛線、バシー海峡、キス島沖、<br>ジャム島沖、マラッカ海峡ペナン島沖深部に展開！各海域の敵艦隊主力を捕捉、これを撃滅せよ！",
-    "desc": "Organize a fleet with Yuugumo Kai Ni, Makigumo Kai Ni, Kazagumo Kai Ni and Akigumo Kai Ni in your fleet and score an S rank at the boss nodes on 1-4, 2-2, 3-2, 7-3 (Part 2) and 4-1"
+    "desc": "개장 갑형 구축함 4척의 정강 제10구축대를 포함한 함대로 남서제도 방어선, 바시 해협, 키스섬 앞바다, 잼섬 앞바다, 말라카 해협 페낭섬 앞바다 심부에 전개! 각 해역의 적 함대 주력을 포착, 이를 격멸하라!"
   },
   "931": {
     "code": "B158",
     "name_jp": "精鋭「二七駆」、回避運動は気をつけて！",
-    "name": "Elite \"DesDiv 27\", be careful during evasive maneuvers!",
+    "name": "정예 「제27구축대」, 회피 운동은 조심해!",
     "desc_jp": "第二七駆逐隊特別任務：改装白露型一番艦「白露改二」及び同二番艦「時雨改二」を含む艦隊で、<br>鎮守府近海、沖ノ島沖、ブルネイ泊地沖、サーモン海域北方、グアノ環礁沖海域に出撃！敵を駆逐せよ！",
-    "desc": "Organize a fleet consisting of Shiratsuyu Kai Ni, and Shigure Kai Ni, and 4 XX and score an S rank at the boss nodes of 1-5, 2-5, 7-1, 5-5, and 6-3."
+    "desc": "제27구축대 특별 임무: 개장 시라츠유형 1번함 「시라츠유 개2」 및 동 2번함 「시구레 개2」를 포함한 함대로 진수부 근해, 오키노시마 앞바다, 브루나이 정박지 앞바다, 서먼 해역 북방, 구아노 환초 앞바다 해역에 출격! 적을 구축하라!"
   },
   "932": {
     "code": "2103 B5",
     "name_jp": "【春限定】春の天津風！",
-    "name": "(Limited Spring Quest) Amatsukaze's Spring",
+    "name": "【봄 한정】 봄의 아마츠카제!",
     "desc_jp": "【春限定】第十六駆逐隊「天津風」を旗艦に、二番艦に僚艦「雪風」「時津風」「初風」から1隻配備、<br>南西諸島海域バシー海峡、東部オリョール海、マラッカ海峡ペナン島沖深部に複数回出撃！敵を撃破せよ！",
-    "desc": "Organize a fleet with Amatsukaze as flagship, a ship in the 2nd slot that can be either Yukikaze, Tokitsukaze or Hatsukaze, and 4 XX. Then score an S rank on the boss nodes of 2-2, 2-3 and 7-3 (Part 2) twice each."
+    "desc": "【봄 한정】 제16구축대 「아마츠카제」를 기함으로 하고, 2번함에 요함 「유키카제」, 「토키츠카제」, 「하츠카제」 중 1척을 배치, 남서제도 해역 바시 해협, 동부 오룔 해, 말라카 해협 페낭섬 앞바다 심부에 복수 횟수 출격! 적을 격파하라!"
   },
   "933": {
     "code": "B159",
     "name_jp": "【艦隊司令部強化】艦隊旗艦、出撃せよ！",
-    "name": "[Fleet Headquarters Reinforcement] Fleet Flagship, Sortie!",
+    "name": "【함대 사령부 강화】 함대 기함, 출격하라!",
     "desc_jp": "旗艦に「大淀」型軽巡または駆逐艦「丹陽」、他に駆逐艦\\/海防艦3隻以上を擁する第一艦隊を編成、<br>製油所地帯沿岸、南西諸島防衛線、南西諸島近海、バシー海峡に複数回出撃！海域を防衛せよ！",
-    "desc": "Have Ooyodo or Tan Yang as the flagship and up to 3 DD/DE in total and 2 XX and score an S rank at the boss nodes of 1-3, 1-4, 2-1, and 2-2 twice."
+    "desc": "기함에 「오요도」형 경순양함 또는 구축함 「탄양」, 그 외 구축함/해방함 3척 이상을 옹위하는 제1함대를 편성하여 제유소 지대 연안, 남서제도 방어선, 남서제도 근해, 바시 해협에 복수 횟수 출격! 해역을 방위하라!"
   },
   "934": {
     "code": "B160",
     "name_jp": "奇跡の駆逐艦「雪風」、再び出撃す！",
-    "name": "Miraculous Destroyer Yukikaze, sorties once again!",
+    "name": "기적의 구축함 「유키카제」, 다시 출격하다!",
     "desc_jp": "旗艦に「丹陽」または帰還後の「雪風改二」を配備した精強な艦隊で、東部オリョール海、沖ノ島海域、<br>沖ノ島沖、アルフォンシーノ方面、マラッカ海峡ペナン島沖深部に展開！敵艦隊主力を捕捉撃滅せよ！",
-    "desc": "Have Tan Yang or Yukikaze Kai Ni as the flagship along with 5 XX and score an S rank at the boss nodes of 2-3, 2-4, 2-5, 3-3, and 7-3 (Part 2)."
+    "desc": "기함에 「탄양」 또는 귀환 후의 「유키카제 개2」를 배치한 정강한 함대로 동부 오룔 해, 오키노시마 해역, 오키노시마 앞바다, 알폰시노 방면, 말라카 해협 페낭섬 앞바다 심부에 전개! 적 함대 주력을 포착 격멸하라!"
   },
   "935": {
     "code": "B161",
     "name_jp": "最精強！「呉の雪風」「佐世保の時雨」",
-    "name": "Unmatched! Yukikaze of Kure & Shigure of Sasebo",
+    "name": "최정강! 「레의 유키카제」 「사세보의 시구레」",
     "desc_jp": "歴戦の精鋭駆逐艦「雪風改二」及び「時雨改二」を配備した艦隊で、サブ島沖海域、サーモン海域北方、<br>カレー洋リランカ島沖、中部北海域ピーコック島沖、KW環礁沖海域に突入！敵戦力を撃滅せよ！",
-    "desc": "Have Shigure Kai Ni and Yukikaze Kai Ni and 4 XX score an S rank at the boss nodes of 4-5, 5-3, 5-5, 6-4, and 6-5"
+    "desc": "역전의 정예 구축함 「유키카제 개2」 및 「시구레 개2」를 배비한 함대로 사보섬 앞바다 해역, 서먼 해역 북방, 카레양 리랑카섬 앞바다, 중부 북해역 피콕섬 앞바다, KW환초 앞바다 해역에 돌입! 적 전력을 격멸하라!"
   },
   "936": {
     "code": "B164",
     "name_jp": "改装最新鋭軽巡「能代改二」、出撃せよ！",
-    "name": "Remodeled State of the Art Light Cruiser Noshiro Kai Ni, Sortie!",
+    "name": "개장 최신예 경순 「노시로 개2」, 출격하라!",
     "desc_jp": "旗艦に「能代改二」、同指揮下に駆逐艦3隻以上を配備した艦隊で、沖ノ島海域、キス島沖、<br>サブ島沖海域、ブルネイ泊地沖、タウイタウイ泊地沖深部に出撃！敵艦隊を捕捉撃滅せよ！",
-    "desc": "Organize a fleet with Noshiro Kai Ni as flagship, 3 DD and 2 XX in your fleet and score an S rank at the boss nodes on 2-4, 3-2, 5-3, 7-1, and 7-2 (Part 2)"
+    "desc": "기함에 「노시로 개2」, 해당 지휘하에 구축함 3척 이상을 배비한 함대로 오키노시마 해역, 키스섬 앞바다, 사보섬 앞바다 해역, 브루나이 정박지 앞바다, 타위타위 정박지 앞바다 심부에 출격! 적 함대를 포착 격멸하라!"
   },
   "937": {
     "code": "B165",
     "name_jp": "精鋭「第七駆逐隊」、出撃せよ！",
-    "name": "Elite \"7th Destroyer Division\", Sortie!",
+    "name": "정예 「제7구축대」, 출격하라!",
     "desc_jp": "精鋭七駆任務：第七駆逐隊「曙改二」「潮改二」を含む精鋭艦隊で、南西諸島海域東部オリョール海、<br>北方海域キス島沖、西方海域カスガダマ島、南方海域サーモン海域に展開、敵艦隊を撃滅せよ！",
-    "desc": "Organize a fleet consists of Akebono Kai Ni, Ushio Kai Ni, and 4 XX to 2-3, 3-2, 4-4, 5-4 and score an S rank at the boss nodes."
+    "desc": "정예 7구 임무: 제7구축대 「아케보노 개2」, 「우시오 개2」를 포함한 정예 함대로 남서제도 해역 동부 오룔 해, 북방 해역 키스섬 앞바다, 서방 해역 카스가다마섬, 남방 해역 서먼 해역에 전개, 적 함대를 격멸하라!"
   },
   "938": {
     "code": "B166",
     "name_jp": "改装航空巡洋艦「最上」、抜錨せよ！",
-    "name": "Remodeled Aviation Cruiser \"Mogami\", Weigh Anchor!",
+    "name": "개장 항공순양함 「모가미」, 발묘하라!",
     "desc_jp": "旗艦に改装航空巡洋艦「最上改二(改二特含む)」を配備した精鋭艦隊で、南西諸島海域バシー海峡、<br>沖ノ島海域、西方海域カレー洋リランカ島沖、南方海域前面に展開、敵艦隊を撃滅せよ！",
-    "desc": "Sortie a fleet with Mogami Kai Ni or Mogami Kai Ni Toku as flagship plus 5 XX and score an S-Rank victory at the boss nodes on 2-2, 2-4, 4-5 and 5-1."
+    "desc": "기함에 개장 항공순양함 「모가미 개2(개2특 포함)」를 배치한 정예 함대로 남서제도 해역 바시 해협, 오키노시마 해역, 서방 해역 카레양 리랑카섬 앞바다, 남방 해역 전면에 전개, 적 함대를 격멸하라!"
   },
   "939": {
     "code": "B167",
     "name_jp": "西村艦隊、精鋭先行掃討隊、前進せよ！",
-    "name": "Elite Vanguard Squadron, Nishimura Fleet, Forward!",
+    "name": "니시무라 함대, 정예 선행 소탕대, 전진하라!",
     "desc_jp": "「最上改二(改二特含む)」旗艦、時雨・満潮・朝雲・山雲より2隻を配備した艦隊で、東部オリョール海、<br>中部北海域ピーコック島沖、タウイタウイ泊地沖深部、マラッカ海峡ペナン島沖深部の敵を撃滅せよ！",
-    "desc": "Organize a fleet with Mogami Kai Ni/Toku as flagship and any 2 of Michishio, Shigure, Asagumo or Yamagumo in your fleet and score an S rank at the boss nodes on 2-3, 6-4, 7-2 (Part 2) and 7-3 (Part 2)"
+    "desc": "「모가미 개2(개2특 포함)」를 기함으로, 시구레·미치시오·아사구모·야마구모 중 2척을 배치한 함대로 동부 오룔 해, 중부 북해역 피콕섬 앞바다, 타위타위 정박지 앞바다 심부, 말라카 해협 페낭섬 앞바다 심부의 적을 격멸하라!"
   },
   "940": {
     "code": "B168",
     "name_jp": "二水戦旗艦、この「矢矧」が預かります！",
-    "name": "Yahagi, assuming command of DesRon 2!",
+    "name": "2수전 기함, 이 「야하기」가 맡겠습니다!",
     "desc_jp": "旗艦に「矢矧改二(改二乙含む)」、随伴駆逐艦2隻を配備した精鋭水雷戦隊で、南西諸島防衛線、<br>沖ノ島沖、サブ島沖海域、サーモン海域北方の敵艦隊を撃滅せよ！二水戦旗艦「矢矧」、抜錨！",
-    "desc": "Sortie a fleet with Yahagi Kai Ni or Yahagi Kai Ni B as flagship, plus 2 DD and 3 XX and score an S-Rank victory at the boss nodes on 1-4, 2-5, 5-3 and 5-5."
+    "desc": "기함에 「야하기 개2(개2을 포함)」, 수반 구축함 2척을 배치한 정예 수뢰전대로 남서제도 방어선, 오키노시마 앞바다, 사보섬 앞바다 해역, 서먼 해역 북방의 적 함대를 격멸하라! 2수전 기함 「야하기」, 발묘!"
   },
   "941": {
     "code": "2103 LQ2",
     "name_jp": "【春限定】春の近海哨戒お散歩！",
-    "name": "(Spring Limited Quest) Springtime Shore Patrol!",
+    "name": "【봄 한정】 봄의 근해 초계 산책!",
     "desc_jp": "【春限定】旗艦に潜水母艦または練巡・軽巡、他駆逐以下の小艦艇による5隻以下の哨戒艦隊で、<br>製油所地帯沿岸、南西諸島近海、南西諸島海域バシー海峡に反復哨戒！敵を捕捉撃破せよ！",
-    "desc": "Sortie a fleet with AS, CL or CT as flagship plus up to 4 DD/DE/SS(V) and score an S-Rank victory at the boss nodes on 1-3, 2-1 and 2-2, twice each."
+    "desc": "【봄 한정】 기함에 잠수모함 또는 연습순양함·경순양함, 그 외 구축함 이하의 소형함에 의한 5척 이하의 초계 함대로 제유소 지대 연안, 남서제도 근해, 남서제도 해역 바시 해협에 반복 초계! 적을 포착 격파하라!"
   },
   "942": {
     "code": "2104 LQ1",
     "name_jp": "【八周年限定】カタリナフェスティバル！",
-    "name": "(8th Anniversary Limited Quest) Catalina Festival!",
+    "name": "【8주년 한정】 카탈리나 페스티벌!",
     "desc_jp": "【八周年限定任務】旗艦に軽巡洋艦または「Fletcher」、随伴駆逐艦/海防艦計3隻以上配備の艦隊で、<br>南西諸島沖、製油所地帯沿岸、南西諸島防衛線、キス島沖に反復出撃！敵艦隊の撃破に努めよ！",
-    "desc": "Sortie a fleet with CL or Fletcher as flagship plus up to 3 DD/DE and 2 XX and score an A-Rank victory at the boss nodes on 1-2, 1-3, 1-4, and 3-2, twice each."
+    "desc": "【8주년 한정 임무】 기함에 경순양함 또는 「Fletcher」, 수반 구축함/해방함 총 3척 이상 배치된 함대로 남서제도 앞바다, 제유소 지대 연안, 남서제도 방어선, 키스섬 앞바다에 반복 출격! 적 함대 격파에 힘써라!"
   },
   "943": {
     "code": "B169",
     "name_jp": "新しき翼。改装航空母艦「龍鳳」、出撃せよ！",
-    "name": "New Wings, Remodeled Light Carrier Ryuuhou, Sortie!",
+    "name": "새로운 날개. 개장 항공모함 「류호」, 출격하라!",
     "desc_jp": "旗艦に「龍鳳改二(改二戊含む)」、随伴に「時雨改二」を編成した第一艦隊で南西諸島海域バシー海峡、<br>東部オリョール海、沖ノ島海域、沖ノ島沖、タウイタウイ泊地沖深部へ出撃。敵艦隊を捕捉撃滅せよ！",
-    "desc": "Sortie the first fleet with Ryuuhou Kai Ni/E as the flagship along with Shigure Kai Ni and 4 XX in the First fleet and score an S-Rank victory at the boss nodes on 2-2, 2-3, 2-4, 2-5, and 7-2-2."
+    "desc": "기함에 「류호 개2(개2무 포함)」, 수반에 「시구레 개2」를 편성한 제1함대로 남서제도 해역 바시 해협, 동부 오룔 해, 오키노시마 해역, 오키노시마 앞바다, 타위타위 정박지 앞바다 심부로 출격. 적 함대를 포착 격멸하라!"
   },
   "944": {
     "code": "By6",
     "name_jp": "鎮守府近海海域の哨戒を実施せよ！",
-    "name": "Carry out a patrol in the waters near the Naval District",
+    "name": "진수부 근해 해역의 초계를 실시하라!",
     "desc_jp": "旗艦に「重巡洋艦」または「駆逐艦」、随伴に「駆逐艦・海防艦」より旗艦含めず3隻以上(他自由)の<br>艦隊で、南西諸島沖、製油所地帯沿岸、南西諸島防衛線へ反復出撃！敵艦隊の撃破に努めよ！",
-    "desc": "Organize a fleet with 1 CA/DD as flagship, 3 DD/DE and up to 2 XX and score an A+ rank on the boss nodes of 1-2, 1-3 and 1-4 twice."
+    "desc": "기함에 「중순양함」 또는 「구축함」, 수반에 「구축함·해방함」 중 기함을 제외하고 3척 이상(그 외 자유)인 함대로 남서제도 앞바다, 제유소 지대 연안, 남서제도 방어선에 반복 출격! 적 함대 격파에 힘써라!"
   },
   "945": {
     "code": "By7",
     "name_jp": "南西方面の兵站航路の安全を図れ！",
-    "name": "Secure the logistics route to the Nansei Islands!",
+    "name": "남서 방면 병참 항로의 안전을 도모하라!",
     "desc_jp": "旗艦に「軽巡・練巡・駆逐艦」、随伴に「駆逐艦・海防艦」より旗艦含めず3隻以上(他自由)の艦隊で、<br>反復出撃！鎮守府近海、南西諸島近海、鎮守府近海航路の安全確保と対潜掃蕩を図れ！",
-    "desc": "Organize a fleet consisting of 1 CL/CT/DD as flagship, 3 DD/DE and up to 2 XX, then score an A+ rank on the boss nodes of 1-5, 2-1 twice, and reach the anchor node N of 1-6 twice."
+    "desc": "기함에 「경순·연순·구축함」, 수반에 「구축함·해방함」 중 기함을 제외하고 3척 이상(그 외 자유)인 함대로 반복 출격! 진수부 근해, 남서제도 근해, 진수부 근해 항로의 안전 확보와 대잠 소탕을 도모하라!"
   },
   "946": {
     "code": "By8",
     "name_jp": "空母機動部隊、出撃！敵艦隊を迎撃せよ！",
-    "name": "Aircraft carrier task force, sortie! Intercept the enemy fleet!",
+    "name": "공모 기동부대, 출격! 적 함대를 요격하라!",
     "desc_jp": "旗艦に「航空母艦」、随伴に「重巡洋艦・航空巡洋艦」から2隻以上(他自由)の機動部隊を編成。<br>バシー海峡、東部オリョール海、沖ノ島海域へ展開！敵艦隊主力を捕捉、これを撃滅せよ！",
-    "desc": "Organize a fleet consisting of 1 CV(L)(B) as flagship, 2 CA(V) and up to 3 XX, then score an S rank on the boss nodes of 2-2, 2-3 and 2-4."
+    "desc": "기함에 「항공모함」, 수반에 「중순양함·항공순양함」 중 2척 이상(그 외 자유)인 기동부대를 편성. 바시 해협, 동부 오룔 해, 오키노시마 해역으로 전개! 적 함대 주력을 포착, 이를 격멸하라!"
   },
   "947": {
     "code": "By9",
     "name_jp": "AL作戦",
-    "name": "Operation AL",
+    "name": "AL 작전",
     "desc_jp": "軽空母2隻を基幹とした艦隊を編成、北方海域モーレイ海、アルフォンシーノ方面、北方海域全域、<br>北方AL海域へ展開！AL方面へと至るこれらの北方海域で敵主力を積極攻撃、これを撃滅せよ！",
-    "desc": "Organize a fleet consisting of 2 CVL and up to 4 XX, then score an S rank on the boss nodes of 3-1, 3-3, 3-4 and 3-5."
+    "desc": "경항공모함 2척을 기간으로 한 함대를 편성, 북방 해역 모레이해, 알폰시노 방면, 북방 해역 전역, 북방 AL 해역에 전개! AL 방면으로 이어지는 이들 북방 해역에서 적 주력을 적극 공격하여 이를 격멸하라!"
   },
   "948": {
     "code": "By10",
     "name_jp": "機動部隊決戦",
-    "name": "Naval Task Force Decisive Battle",
+    "name": "기동부대 결전",
     "desc_jp": "旗艦に「航空母艦」を編成した第一艦隊で、珊瑚諸島沖、サーモン海域北方、KW環礁沖海域へ<br>反復出撃、敵主力を撃滅！さらに中部北海域ピーコック島沖へも反復展開、敵戦力を撃破せよ！",
-    "desc": "Organize a fleet with 1 CV(L)(B) as flagship and score an S rank at the boss nodes on 5-2, 5-5, 6-5 twice and score an A+ rank on 6-4 twice"
+    "desc": "기함에 「항공모함」을 편성한 제1함대로 산호 제도 앞바다, 서먼 해역 북방, KW환초 앞바다 해역에 반복 출격하여 적 주력을 격멸! 나아가 중부 북해역 피콕섬 앞바다에도 반복 전개하여 적 전력을 격파하라!"
   },
   "949": {
     "code": "B170",
     "name_jp": "改装特務空母「Gambier Bay Mk.II」抜錨！",
-    "name": "Remodeled Utility Carrier \"Gambier Bay Mk.II\" Weigh Anchor!",
+    "name": "개장 특무공모 「Gambier Bay Mk.II」 발묘!",
     "desc_jp": "旗艦「Gambier Bay Mk.II」、僚艦に「Fletcher級駆逐艦」1隻以上を含む第一艦隊で、沖ノ島海域、<br>北方AL海域の敵艦隊を反復撃滅、中部北海域ピーコック島沖に反復展開、同地の敵を撃破せよ！",
-    "desc": "Organize Fleet 1 with Gambier Bay Mk.II as flagship, 1 Fletcher Class DD (Fletcher / Johnston) and score S rank on the boss nodes of 2-4, 3-5 twice and an A+ rank on 6-4 twice."
+    "desc": "기함 「Gambier Bay Mk.II」, 요함에 「Fletcher급 구축함」 1척 이상을 포함한 제1함대로 오키노시마 해역, 북방 AL 해역의 적 함대를 반복 격멸, 중부 북해역 피콕섬 앞바다에 반복 전개하여 해당 지역의 적을 격파하라!"
   },
   "950": {
     "code": "2107 LB1",
     "name_jp": "【夏季限定】「渚のマーメイド」作戦！",
-    "name": "Summer Only \"Mermaid's Shore\" Operation",
+    "name": "【하계 한정】 「물가의 머메이드」 작전!",
     "desc_jp": "「第七駆逐隊」4隻、または「白露改二」「時雨改二」「村雨改二」「夕立改二」4隻を含む艦隊で、<br>夏の南西諸島防衛線、東部オリョール海、キス島沖に複数回出撃、敵艦隊を捕捉撃滅せよ！",
-    "desc": "Organize a fleet that has either DesDiv 7 Members (Sazanami, Oboro, Ushio and Akebono), or Shiratsuyu Kai Ni, Shigure Kai Ni, Murasame Kai Ni, and Yuudachi Kai Ni in the fleet along with 2 XX and score an S rank on 1-4, 2-3, 3-2 twice."
+    "desc": "「제7구축대」 4척, 또는 「시라츠유 개2」, 「시구레 개2」, 「무라사메 개2」, 「유다치 개2」 4척을 포함한 함대로 여름의 남서제도 방어선, 동부 오룔 해, 키스섬 앞바다에 복수 횟수 출격하여 적 함대를 포착 격멸하라!"
   },
   "951": {
     "code": "2107 LB2",
     "name_jp": "【夏季限定】「渚のシレーナ」欧州作戦！",
-    "name": "Summer Only \"Siren's Shore\" European Operation",
+    "name": "【하계 한정】 「물가의 시레나」 유럽 작전!",
     "desc_jp": "伊駆逐、独駆逐、米駆逐、仏艦艇、「Littorio(Italia)」「U-511(呂500)」「Houston」「Gotland」<br>計5隻以上の艦隊で、夏のジャム島沖、リランカ島、カスガダマ島に反復出撃！敵を撃滅せよ！",
-    "desc": "Organize a fleet that has at least 5 ships that consist of Maestrale, Grecale, Libeccio, Scirocco, Z1, Z3, Fletcher, Johnston, Samuel B. Roberts, Richelieu, Commandant Teste, Littorio/Italia, U-511/ Ro-500, Houston, and Gotland in the fleet along with 1 XX and score an S rank on 4-1, 4-3, and 4-4 twice."
+    "desc": "이탈리아 구축함, 독일 구축함, 미국 구축함, 프랑스 함정, 「Littorio(Italia)」, 「U-511(로500)」, 「Houston」, 「Gotland」 중 총 5척 이상인 함대로 여름의 잼섬 앞바다, 리랑카섬, 카스가다마섬에 반복 출격! 적을 격멸하라!"
   },
   "952": {
     "code": "B171",
     "name_jp": "【作戦準備】第二段階任務(対地\\/対空整備)",
-    "name": "'Operation Preparation' Second Stage Mission (Surface/Anti-Air Maintenance)",
+    "name": "【작전 준비】 제2단계 임무 (대지/대공 정비)",
     "desc_jp": "作戦準備(第二段階任務)：駆逐艦を3隻以上編成した艦隊で、製油所地帯沿岸、南西諸島防衛線、<br>南西諸島近海、南西諸島海域バシー海峡へ出撃、各作戦海域の敵を撃滅、制海権を確保せよ！",
-    "desc": "Organize Fleet 3 DD and 3 XX and score S rank on the boss nodes of 1-3, 1-4, 2-1, 2-2."
+    "desc": "작전 준비(제2단계 임무): 구축함을 3척 이상 편성한 함대로 제유소 지대 연안, 남서제도 방어선, 남서제도 근해, 남서제도 해역 바시 해협으로 출격, 각 작전 해역의 적을 격멸하고 제해권을 확보하라!"
   },
   "957": {
     "code": "B172",
     "name_jp": "「山風改二」、抜錨せよ！",
-    "name": "\"Yamakaze Kai Ni\" Weigh Anchor!",
+    "name": "「야마카제 개2」, 발묘하라!",
     "desc_jp": "「山風改二/丁」を旗艦として、駆逐艦及び海防艦計3隻以上を編成した艦隊で、南西諸島沖、<br>製油所地帯沿岸、南西諸島防衛線、鎮守府近海へ出撃！近海に侵入した敵を撃滅せよ！",
-    "desc": "Put Yamakaze Kai Ni/D as flagship and have 3 DD, 0-2 XX and score an S rank on 1-2, 1-3, 1-4 and 1-5"
+    "desc": "「야마카제 개2/정」을 기함으로 하고, 구축함 및 해방함 총 3척 이상을 편성한 함대로 남서제도 앞바다, 제유소 지대 연안, 남서제도 방어선, 진수부 근해로 출격! 근해에 침입한 적을 격멸하라!"
   },
   "958": {
     "code": "B173",
     "name_jp": "改白露型駆逐艦「山風改二」、奮戦す！",
-    "name": "Shiratsuyu-Class Destroyer \"Yamakaze Kai Ni\" will fight hard!",
+    "name": "개 시라츠유형 구축함 「야마카제 개2」, 분전하다!",
     "desc_jp": "「山風改二/丁」「江風改二」「海風改二」のうち2隻以上を含む艦隊で、南西諸島海域バシー海峡、<br>タウイタウイ泊地沖深部、南方海域前面、中部北海域ピーコック島沖へ出撃、敵戦力を撃滅せよ！",
-    "desc": "Have 2 ships which must have Yamakaze Kai Ni/D along with Umikaze Kai Ni and/or Kawakaze Kai Ni and 4 XX and score an S rank on 2-2, 7-2 (Part 2), 5-1, and 6-4"
+    "desc": "「야마카제 개2/정」, 「카와카제 개2」, 「우미카제 개2」 중 2척 이상을 포함한 함대로 남서제도 해역 바시 해협, 타위타위 정박지 앞바다 심부, 남방 해역 전면, 중부 북해역 피콕섬 앞바다로 출격, 적 전력을 격멸하라!"
   },
   "961": {
     "code": "B174",
     "name_jp": "奮戦！精鋭「第十五駆逐隊」第一小隊",
-    "name": "Fight hard! Elite \"DesDiv15\" 1st Platoon",
+    "name": "분전! 정예 「제15구축대」 제1소대",
     "desc_jp": "第十五駆逐隊任務：「親潮改二」及び「黒潮改二」を配備した艦隊で、南西諸島海域沖ノ島海域、<br>南方海域サーモン海域、南西海域タウイタウイ泊地沖深部へ反復出撃。敵艦隊を捕捉撃滅せよ！",
-    "desc": "Organize a fleet with Oyashio Kai Ni and Kuroshio Kai Ni in the fleet and score an S rank in the boss nodes of 2-4, 5-4 and 7-2 (Part 2), twice each."
+    "desc": "제15구축대 임무: 「오야시오 개2」 및 「쿠로시오 개2」를 배비한 함대로 남서제도 해역 오키노시마 해역, 남방 해역 서먼 해역, 남서 해역 타위타위 정박지 앞바다 심부에 반복 출격. 적 함대를 포착 격멸하라!"
   },
   "966": {
     "code": "B175",
     "name_jp": "南西海域「基地航空隊」開設！",
-    "name": "Establish \"Land Based Air Support\" in Southwestern waters!",
+    "name": "남서 해역 「기지항공대」 개설!",
     "desc_jp": "南西諸島近海、バシー海峡、東部オリョール海、ペナン島沖深部の敵艦隊を撃滅！昭南本土航路で<br>台湾に寄港。「設営隊」x1を用意して、同地にエアカバーする南西海域「基地航空隊」を展開せよ！",
-    "desc": "Get S rank on 2-1/2-2/2-3/7-3-2 one time. Reach O node in 7-4. Have one Construction Corps (it will be consumed upon completion)."
+    "desc": "남서제도 근해, 바시 해협, 동부 오룔 해, 페낭섬 앞바다 심부의 적 함대를 격멸! 쇼난 본토 항로에서 대만에 기항. 「설영대」 x1을 준비하여, 해당 지역에 에어 커버를 제공하는 남서 해역 「기지항공대」를 전개하라!."
   },
   "967": {
     "code": "B176",
     "name_jp": "海上護衛！ヒ船団を護り抜け！",
-    "name": "Maritime escort! Protect the Hi Convoy!",
+    "name": "해상 호위! 히 선단을 지켜내라!",
     "desc_jp": "ヒ船団海上護衛任務：南西海域：昭南本土航路における作戦を完遂し、昭南から本土方面に<br>向かうヒ船団を、その脅威から護り抜け！艦隊、基地航空隊、出撃せよ！",
-    "desc": "Clear 7-4"
+    "desc": "히 선단 해상 호위 임무: 남서 해역: 쇼난 본토 항로에서의 작전을 완수하고, 쇼난에서 본토 방면으로 향하는 히 선단을 그 위협으로부터 지켜내라! 함대, 기지항공대, 출격하라!"
   },
   "968": {
     "code": "B177",
     "name_jp": "航空母艦「雲鷹」、抜錨せよ！",
-    "name": "Escort Carrier Unyou, Weigh Anchor!",
+    "name": "항공모함 「운요」, 발묘하라!",
     "desc_jp": "空母「雲鷹」(※八幡丸も可)を旗艦とした艦隊を編成、昭南本土航路、タウイタウイ泊地深部、<br>沖ノ島沖、中部北海域ピーコック島沖の敵戦力を撃破せよ！\u3000航空母艦「雲鷹」、出撃！",
-    "desc": "Organize a fleet with Un'you in the fleet and score an A rank in the boss nodes of 2-5, 7-2-2, 7-4 and 6-4."
+    "desc": "공모 「운요」(※ 야와타마루도 가능)를 기함으로 한 함대를 편성, 쇼난 본토 항로, 타위타위 정박지 심부, 오키노시마 앞바다, 중부 북해역 피콕섬 앞바다의 적 전력을 격파하라! 항공모함 「운요」, 출격!."
   },
   "969": {
     "code": "B178",
     "name_jp": "改特型駆逐艦「天霧改二」、出撃す！",
-    "name": "Remodelled Special Type Destroyer \"Amagiri Kai Ni\", Sortie!",
+    "name": "개 특형 구축함 「아마기리 개2」, 출격하다!",
     "desc_jp": "「天霧改二/丁」、さらに「青葉」「大井」「狭霧」中の2隻を含む艦隊で、バシー海峡、ペナン島沖深部、<br>南方海域前面、サーモン海域、中部北海域ピーコック島沖へ出撃！全力で敵艦隊を捕捉撃滅せよ！",
-    "desc": "Organize a fleet with Amagiri Kai 2/D and any 2 of Aoba, Ooi and Sagiri in the fleet and score an S? rank in the boss nodes of 2-2, 7-3 (part 2), 5-1, 5-4, and 6-4"
+    "desc": "「아마기리 개2/정」, 나아가 「아오바」, 「오오이」, 「사기리」 중 2척을 포함한 함대로 바시 해협, 페낭섬 앞바다 심부, 남방 해역 전면, 서먼 해역, 중부 북해역 피콕섬 앞바다로 출격! 전력으로 적 함대를 포착 격멸하라!"
   },
   "970": {
     "code": "B179",
     "name_jp": "第十六戦隊、改装「浦波改二」出撃します！",
-    "name": "16th Squadron, Uranami Kai Ni, sortie!",
+    "name": "제16전대, 개장 「우라나미 개2」 출격합니다!",
     "desc_jp": "「浦波改二」、さらに「青葉」「鬼怒」を含む艦隊で、南西諸島防衛線、東部オリョール海、<br>沖ノ島沖、タウイタウイ泊地沖深部、昭南本土航路へ出撃！敵艦隊を捕捉撃滅せよ！",
-    "desc": "Organize a fleet with Uranami Kai Ni, Kinu and Aoba in your fleet and score an S rank at the boss nodes on 1-4, 2-3, 2-5, 7-2 (Part 2) and 7-4"
+    "desc": "「우라나미 개2」, 나아가 「아오바」, 「키누」를 포함한 함대로 남서제도 방어선, 동부 오룔 해, 오키노시마 앞바다, 타위타위 정박지 앞바다 심부, 쇼난 본토 항로로 출격! 적 함대를 포착 격멸하라!"
   },
   "973": {
     "code": "By11",
     "name_jp": "日英米合同水上艦隊、抜錨せよ！",
-    "name": "Japan-UK-US joint surface fleet, weigh anchor! ",
+    "name": "일영미 합동 수상함대, 발묘하라!",
     "desc_jp": "米英艦艇3隻以上を含む空母を伴わない艦隊で、北方海域モーレイ海及びアルフォンシーノ方面、<br>西方海域リランカ島、南西海域ペナン島沖深部を哨戒、敵戦力を捕捉、これを撃破せよ！",
-    "desc": "Organize a fleet with 3 Royal Navy/US Navy ship in your fleet. No CV(L) in the fleet. Score an A rank at the boss nodes on 3-1, 3-3, 4-3 and 7-3 (Part 2)"
+    "desc": "미영 함정 3척 이상을 포함하고 항공모함을 동반하지 않는 함대로 북방 해역 모레이해 및 알폰시노 방면, 서방 해역 리랑카섬, 남서 해역 페낭섬 앞바다 심부를 초계, 적 전력을 포착하여 이를 격파하라!"
   },
   "974": {
     "code": "B180",
     "name_jp": "「磯波改二」、抜錨せよ！",
-    "name": "Isonami Kai Ni, weigh anchor!",
+    "name": "「이소나미 개2」, 발묘하라!",
     "desc_jp": "改装特I型駆逐艦「磯波改二」を含む有力な艦隊で、鎮守府海域南西諸島沖、製油所地帯沿岸、<br>さらに南方海域前面に展開！各作戦海域の敵艦隊を捕捉、これを撃滅せよ！",
-    "desc": "Organize a fleet with Isonami Kai Ni in your fleet and score an S rank at the boss nodes on 1-2, 1-3 and 5-1"
+    "desc": "개장 특I형 구축함 「이소나미 개2」를 포함한 유력한 함대로 진수부 해역 남서제도 앞바다, 제유소 지대 연안, 나아가 남방 해역 전면에 전개! 각 작전 해역의 적 함대를 포착, 이를 격멸하라!"
   },
   "975": {
     "code": "By12",
     "name_jp": "精鋭「第十九駆逐隊」、全力出撃！",
-    "name": "Elite DesDiv 19, sortie!",
+    "name": "정예 「제19구축대」, 전력 출격!",
     "desc_jp": "精鋭第十九駆逐隊「磯波改二」「浦波改二」「綾波改二」「敷波改二」を含む艦隊で、鎮守府近海、<br>南西諸島東部オリョール海、北方キス島沖、南方サブ島沖海域に出撃！敵艦隊を捕捉撃滅せよ！",
-    "desc": "Organize a fleet with Isonami Kai Ni, Uranami Kai Ni, Ayanami Kai Ni, Shikinami Kai Ni in your fleet and score an S rank at the boss nodes on 1-5, 2-3, 3-2 and 5-3"
+    "desc": "정예 제19구축대 「이소나미 개2」, 「우라나미 개2」, 「아야나미 개2」, 「시키나미 개2」를 포함한 함대로 진수부 근해, 남서제도 동부 오룔 해, 북방 키스섬 앞바다, 남방 사보섬 앞바다 해역에 출격! 적 함대를 포착 격멸하라!"
   },
   "976": {
     "code": "B181",
     "name_jp": "改大和型戦艦「大和改二」、出撃せよ！",
-    "name": "Kai Yamato-class Battleship [Yamato Kai Ni], sortie!",
+    "name": "개 야마토형 전함 「야마토 개2」, 출격하라!",
     "desc_jp": "旗艦「大和改二/重」、随伴艦軽巡1隻、駆逐艦2隻以上の艦隊で、鎮守府海域南西諸島防衛線、<br>南西諸島海域沖ノ島沖、南方海域前面、西方海域カスガダマ島に出撃！敵艦隊を撃滅せよ！",
-    "desc": "Organize a fleet with Yamato Kai Ni/Kai Ni Juu as flagship, 1CL and 2DD in your fleet and score an S rank at the boss nodes on 1-4, 2-5, 4-4 and 5-1"
+    "desc": "기함 「야마토 개2/중」, 수반함 경순양함 1척, 구축함 2척 이상의 함대로 진수부 해역 남서제도 방어선, 남서제도 해역 오키노시마 앞바다, 남방 해역 전면, 서방 해역 카스가다마섬에 출격! 적 함대를 격멸하라!"
   },
   "977": {
     "code": "B182",
     "name_jp": "見敵必殺！最精鋭大和型「第一戦隊」抜錨！",
-    "name": "Kill on sight! The most elite Yamato-class \"1st Squadron\", weigh anchor!",
+    "name": "견적필살! 최정예 야마토형 「제1전대」 발묘!",
     "desc_jp": "改大和型戦艦二隻「大和改二/重」及び「武蔵改二」、随伴駆逐艦2隻以上の艦隊を展開！<br>カレー洋リランカ島沖、サブ島沖海域、タウイタウイ泊地沖深部、KW環礁沖海域の敵を撃滅せよ！",
-    "desc": "Organize a fleet with Yamato Kai Ni/Kai Ni Juu, Musashi Kai Ni and 2DD in your fleet and score an S rank at the boss nodes on 4-5, 5-3, 6-5 and 7-2 (Part 2)"
+    "desc": "개 야마토형 전함 두 척 「야마토 개2/중」 및 「무사시 개2」, 수반 구축함 2척 이상의 함대를 전개! 카레양 리랑카섬 앞바다, 사보섬 앞바다 해역, 타위타위 정박지 앞바다 심부, KW환초 앞바다 해역의 적을 격멸하라!"
   },
   "978": {
     "code": "B183",
     "name_jp": "【拡張作戦】重改装「大和改二重」、出撃！",
-    "name": "[Extra Operation] Heavy Remodelled [Yamato Kai Ni Juu], sortie!",
+    "name": "【확장 작전】 중개장 「야마토 개2중」, 출격!",
     "desc_jp": "【拡張作戦】重改装「大和改二重」を旗艦とする有力な艦隊で、ペナン島沖深部、昭南本土航路、<br>サーモン海域北方、中部北海域ピーコック島沖に出撃！各戦域の敵戦力を撃滅粉砕せよ！",
-    "desc": "Organize a fleet with Yamato Kai Ni Juu (Kai Ni doesn't work) as flagship and score an S rank at the boss nodes on 7-4, 5-5, 6-4 and 7-3 (Part 2)"
+    "desc": "【확장 작전】 중개장 「야마토 개2중」을 기함으로 하는 유력한 함대로 페낭섬 앞바다 심부, 쇼난 본토 항로, 서먼 해역 북방, 중부 북해역 피콕섬 앞바다에 출격! 각 전역의 적 전력을 격멸 분쇄하라!"
   },
   "980": {
     "code": "B184",
     "name_jp": "抜錨！精強「第十五駆逐隊」",
-    "name": "Weigh anchor! Powerful DesDiv15 ",
+    "name": "발묘! 정강 「제15구축대」",
     "desc_jp": "第十五駆逐隊「早潮改二」「親潮改二」「黒潮改二」のうち二隻以上を含む艦隊で、沖ノ島海域、<br>南方海域サーモン海域、サーモン海域北方、中部北海域ピーコック島沖の敵戦力を撃滅せよ！",
-    "desc": "Organize a fleet with any two of Hayashio Kai Ni, Oyashio Kai Ni or Kuroshio Kai Ni in your fleet and score an S rank at the boss nodes on 2-4, 5-4, 5-5 and 6-4"
+    "desc": "제15구축대 「하야시오 개2」, 「오야시오 개2」, 「쿠로시오 개2」 중 2척 이상을 포함한 함대로 오키노시마 해역, 남방 해역 서먼 해역, 서먼 해역 북방, 중부 북해역 피콕섬 앞바다의 적 전력을 격멸하라!"
   },
   "981": {
     "code": "B185",
     "name_jp": "米駆逐艦部隊の奮戦",
-    "name": "The hard fight of US destroyer unit",
+    "name": "미 구축함 부대의 분전",
     "desc_jp": "「Fletcher級」及び「John C.Butler級」のうち二隻以上を含む艦隊で、南西諸島東部オリョール海、<br>中部北海域ピーコック島沖、南西海域ペナン島沖深部、昭南本土航路に反復出撃！敵を撃滅せよ！",
-    "desc": "Organize a fleet with 2 destroyer from Fletcher-class or John C. Butler-class in your fleet and score an S rank at the boss nodes on 2-3, 6-4, 7-4  and 7-3 (Part 2) twice each"
+    "desc": "「Fletcher급」 및 「John C. Butler급」 중 2척 이상을 포함한 함대로 남서제도 동부 오룔 해, 중부 북해역 피콕섬 앞바다, 남서 해역 페낭섬 앞바다 심부, 쇼난 본토 항로에 반복 출격! 적을 격멸하라!"
   },
   "982": {
     "code": "B186",
     "name_jp": "Samuel B.Roberts Mk.II、抜錨せよ！",
-    "name": "Samuel B.Roberts Mk.II, Weigh anchor！",
+    "name": "Samuel B.Roberts Mk.II, 발묘하라!",
     "desc_jp": "改装されたSamuel B.Roberts Mk.IIを旗艦とする艦隊で、鎮守府近海、鎮守府近海航路を守り、<br>南西諸島バシー海峡、北方AL海域に出撃、同海域の敵艦隊を撃滅せよ！\u3000Thanks a lot !",
-    "desc": "Organize a fleet with Samuel B.Roberts Mk.II as flagship and score an S rank at the boss nodes on 1-5, 2-2, 3-5 and reach the anchor node N on 1-6."
+    "desc": "개장된 Samuel B.Roberts Mk.II를 기함으로 하는 함대로 진수부 근해, 진수부 근해 항로를 지키고, 남서제도 바시 해협, 북방 AL 해역에 출격, 해당 해역의 적 함대를 격멸하라! Thanks a lot!"
   },
   "983": {
     "code": "B187",
     "name_jp": "不屈敢闘「Taffy Ⅲ」、Weigh anchor!",
-    "name": "Unyielding [Taffy III], weigh anchor!",
+    "name": "불굴감투 「Taffy III」, Weigh anchor!",
     "desc_jp": "「Gambier Bay」「Johnston」「Samuel B.Roberts」基幹の“Taffy Ⅲ”を編成、東部オリョール海、<br>沖ノ島沖、カレー洋リランカ島沖、サーモン海域北方に展開、同海域の敵を捕捉、これを撃滅せよ！",
-    "desc": "Organize a fleet with Gambier Bay, Johnston, Samuel B. Roberts in your fleet and score an S rank at the boss nodes on 2-3, 2-5, 4-5, and 5-5"
+    "desc": "「Gambier Bay」, 「Johnston」, 「Samuel B.Roberts」 기간의 “Taffy III”를 편성, 동부 오룔 해, 오키노시마 앞바다, 카레양 리랑카섬 앞바다, 서먼 해역 북방에 전개, 해당 해역의 적을 포착하여 이를 격멸하라!"
   },
   "989": {
     "code": "B188",
     "name_jp": "機動部隊旗艦「鳳翔改二」、前線に出撃せよ！",
-    "name": "Mobile Task Force Flagship [Houshou Kai Ni], Sortie To The Front!",
+    "name": "기동부대 기함 「호쇼 개2」, 전선으로 출격하라!",
     "desc_jp": "「鳳翔改二/戦」を旗艦とする艦隊で、南西諸島海域沖ノ島沖、北方AL海域、カレー洋リランカ島沖、<br>南方海域珊瑚諸島沖、中部北海域ピーコック島沖、昭南本土航路に展開！敵戦力を撃滅せよ！",
-    "desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and score an S rank at the boss nodes on 2-5, 3-5, 4-5, 5-2, 6-4 and 7-4"
+    "desc": "「호쇼 개2/전」을 기함으로 하는 함대로 남서제도 해역 오키노시마 앞바다, 북방 AL 해역, 카레양 리랑카섬 앞바다, 남방 해역 산호 제도 앞바다, 중부 북해역 피콕섬 앞바다, 쇼난 본토 항로에 전개! 적 전력을 격멸하라!"
   },
   "993": {
     "code": "B193",
     "name_jp": "改装駆逐艦「天津風改二」、抜錨せよ！",
-    "name": "Remodeled Destroyer [Amatsukaze Kai Ni], set sail!",
+    "name": "개장 구축함 「아마츠카제 개2」, 발묘하라!",
     "desc_jp": "改装駆逐艦「天津風改二」旗艦の艦隊で、南西諸島海域沖ノ島沖、中部北海域ピーコック島沖、<br>南方海域サブ島沖海域及びサーモン海域、南西海域昭南本土航路に展開！敵戦力を撃滅せよ！",
-    "desc": "Organize a fleet with Amatsukaze Kai Ni as flagship and score an S rank at the boss nodes on 2-5, 5-3, 5-4, 6-4 and 7-4"
+    "desc": "개장 구축함 「아마츠카제 개2」 기함의 함대로 남서제도 해역 오키노시마 앞바다, 중부 북해역 피콕섬 앞바다, 남방 해역 사보섬 앞바다 해역 및 서먼 해역, 남서 해역 쇼난 본토 항로에 전개! 적 전력을 격멸하라!"
   },
   "995": {
     "code": "B189",
     "name_jp": "改装特I型駆逐艦「深雪改二」、出撃せよ！",
-    "name": "Remodelled Special Type I Destroyer [Miyuki Kai Ni], Sortie!",
+    "name": "개장 특I형 구축함 「미유키 개2」, 출격하라!",
     "desc_jp": "改装特I型駆逐艦「深雪改二」及び同僚艦に吹雪型駆逐艦1隻を含む精鋭艦隊で、北方キス島沖、<br>南方サブ島沖海域、中部北海域ピーコック島沖、南西海域ペナン島沖深部の敵戦力を撃滅せよ！",
-    "desc": "Organize a fleet with Miyuki Kai Ni and another Fubuki-class in your fleet and score an S rank at the boss nodes on 3-2, 5-3, 6-4 and 7-3 (Part 2)"
+    "desc": "개장 특I형 구축함 「미유키 개2」 및 동료함으로 후부키형 구축함 1척을 포함한 정예 함대로 북방 키스섬 앞바다, 남방 사보섬 앞바다 해역, 중부 북해역 피콕섬 앞바다, 남서 해역 페낭섬 앞바다 심부의 적 전력을 격멸하라!"
   },
   "996": {
     "code": "B190",
     "name_jp": "改金剛型高速戦艦「榛名改二乙/丙」、抜錨！",
-    "name": "Improved Kongou-class Fast Battleship \"Haruna Kai Ni B/C\", Sortie!",
+    "name": "개 고형 고속전함 「하루나 개2을/병」, 발묘!",
     "desc_jp": "「榛名改二乙/丙」「金剛改二丙」及び駆逐艦2隻以上を含む精鋭艦隊で、バシー海峡、沖ノ島海域、<br>ジャワ島沖最深部、リランカ島、南方サブ島沖海域、サーモン海域の敵戦力を撃滅せよ！抜錨！",
-    "desc": "Organize a fleet with Haruna Kai Ni B/C , Kongou Kai Ni C, 2DD and 2XX in your fleet and score an S rank at the boss nodes on 2-2, 2-4, 4-3, 5-3, 5-4 and 7-5 (Part 3)"
+    "desc": "「하루나 개2을/병」, 「콩콩고 개2병」 및 구축함 2척 이상을 포함한 정예 함대로 바시 해협, 오키노시마 해역, 자와섬 앞바다 최심부, 리랑카섬, 남방 사보섬 앞바다 해역, 서먼 해역의 적 전력을 격멸하라! 발묘!"
   },
   "997": {
     "code": "B191",
     "name_jp": "【海上護衛作戦】海上補給線を確保せよ！",
-    "name": "[Marine Escort Operation] Secure The Maritine Supply Line!",
+    "name": "【해상 호위 작전】 해상 보급선을 확보하라!",
     "desc_jp": "海上護衛任務：海防艦3隻または駆逐艦4隻または水上機母艦2隻を含む艦隊で、製油所地帯沿岸、<br>鎮守府近海、鎮守府近海航路、南西諸島バシー海峡に反復出撃！重要な海上補給線を確保せよ！",
-    "desc": "Organize a fleet with 3 DE or 4 DD or 2 AV in your fleet and score two S ranks at the boss nodes on 1-3, 1-5, 2-2 and reach the anchor node N on 1-6 twice."
+    "desc": "해상 호위 임무: 해방함 3척 또는 구축함 4척 또는 수상기모함 2척을 포함한 함대로 제유소 지대 연안, 진수부 근해, 진수부 근해 항로, 남서제도 바시 해협에 반복 출격! 중요한 해상 보급선을 확보하라!"
   },
   "998": {
     "code": "B192",
     "name_jp": "改装白露型精鋭駆逐艦「時雨改三」出撃す！",
-    "name": "Improved Shiratsuyu-class Destroyer \"Shigure Kai San\", Sortie!",
-    "desc_jp": "「時雨改三」及び第二七駆逐隊(白露・有明・夕暮)僚艦1隻を含む艦隊で、沖ノ島沖、昭南本土航路、<br>カレー洋リランカ島沖、サーモン海域北方、中部北海域ピーコック島沖の敵戦力を撃滅せよッ！",
+    "name": "Improved Shiratsuyu-class Destroyer \"Shigure Kai San\", Sortie!",    "desc_jp": "「時雨改三」及び第二七駆逐隊(白露・有明・夕暮)僚艦1隻を含む艦隊で、沖ノ島沖、昭南本土航路、<br>カレー洋リランカ島沖、サーモン海域北方、中部北海域ピーコック島沖の敵戦力を撃滅せよッ！",
     "desc": "Organize a fleet with Shigure Kai San and a member of DesDiv27 (Shiratsuyu, Ariake or Yuugure) in your fleet and score an S rank at the boss nodes on 2-5, 7-4, 4-5, 5-5 and 6-4"
   },
   "1001": {
