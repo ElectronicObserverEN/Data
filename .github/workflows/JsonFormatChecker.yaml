@@ -1,0 +1,29 @@
+name: Validate JSON
+
+on:
+  pull_request:
+    paths:
+      - "**/*.json"
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Validate JSON files
+        run: |
+          echo "Checking JSON formatting..."
+          invalid=0
+          for file in $(git diff --name-only origin/${{ github.base_ref }} | grep '.json$'); do
+            echo "Validating $file"
+            if ! jq empty "$file" 2>/dev/null; then
+              echo "::error file=$file::Invalid JSON format"
+              invalid=1
+            fi
+          done
+          if [ $invalid -ne 0 ]; then
+            echo "JSON validation failed"
+            exit 1
+          fi
