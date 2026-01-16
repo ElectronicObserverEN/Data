@@ -207,12 +207,12 @@
     "id": 37,
     "name": "New Year 2026 Holiday ",
     "added_update_id": 83,
-    "removed_update_id": null
+    "removed_update_id": 85
   },
   {
     "id": 38,
     "name": "New Year 2026",
     "added_update_id": 84,
-    "removed_update_id": null
+    "removed_update_id": 85
   }
 ]
