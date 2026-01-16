@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030627",
+  "version": "21030628",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1835,7 +1835,7 @@
     "desc": "Organize a fleet with either an LHA and 2 DE or 3 DE in your fleet and score A rank three times in PvP"
   },
   "381": {
-    "code": "2507 Cw1",
+    "code": "2508 Cw1",
     "name_jp": "【期間限定任務】秋月型演習任務",
     "name": "[Limited Time Quest] Akizuki-class Exercise Quest",
     "desc_jp": "【期間限定演習】秋月型または「秋雲」「秋霜」「秋津洲」の計3隻以上を含む演習艦隊を編成。<br>同艦隊で本日中に演習【A判定】勝利3回以上を達成せよ！秋月型駆逐艦他、演習、始めっ！",
