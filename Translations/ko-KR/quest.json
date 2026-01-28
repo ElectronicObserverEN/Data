@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030662",
+  "version": "21030663",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3227,6 +3227,13 @@
     "desc_jp": "節分任務：旗艦及び二番艦に「鳳翔」「朝日」「明石」「大淀」「迅鯨」「長鯨」または七駆を<br>配備、鎮守府海域南西諸島沖、製油所地帯沿岸、南西諸島防衛線の節分反復哨戒を実施せよ！",
     "desc": "Organize a fleet with any 2 of Houshou, Asahi, Akashi, Ooyodo, Jingei, Chougei, Oboro, Akebono, Sazanami and Ushio as flagship and second ship and score an A rank at the boss nodes on 1-2, 1-3 and 1-4 twice each"
   },
+  "841": {
+    "code": "2601 Bw2",
+    "name_jp": "【節分任務:鬼】南西方面節分作戦二〇二六",
+    "name": "[Setsubun Quest: Oni] Southwestern Setsubun Operation 2026",
+    "desc_jp": "節分任務：旗艦及び二番艦に「Jean Bart」「Minneapolis」「Gloire」「Ranger」「Johnston」<br>「神鷹」「夕張」「風雲」「早霜」を配備！南西諸島近海、バシー海峡、東部オリョール海を反復哨戒！",
+    "desc": "Organize a fleet with two of Jean Bart, Minneapolis, Gloire, Ranger, Johnston, Shinyou, Yuubari, Kazagumo and Hayashimo as flagship and second ship in your fleet and score an A rank at the boss nodes on 2-1, 2-2 and 2-3 twice each"
+  },
   "842": {
     "code": "B89",
     "name_jp": "主力戦艦戦隊、抜錨せよ！",
@@ -4563,5 +4570,12 @@
     "name": "DesDiv32 [Hayanami], Preparing for Remodel!",
     "desc_jp": "第一艦隊に旗艦「早波」。他に第三十二駆逐隊3隻以上を配備して「九三式水中聴音機」「三式<br>水中探信儀」「九五式爆雷」x各5廃棄。「新型兵装資材」x1及び「三式爆雷投射機」x8用意せよ！",
     "desc": "Have Hayanami as your secretary flagship then proceed to scrap 5x Type 93 Passive Sonar, 5x Type 3 Active Sonar and 5x Type 95 Depth Charge and have 1x New Model Armament Material and 8x Type 3 Depth Charge Projector (All resources and Materials will be consumed upon completion)"
+  },
+  "1159": {
+    "code": "F137",
+    "name_jp": "【工廠任務】量産航空機の改編",
+    "name": "[Arsenal Quest] Reorganizing Mass-Produced Aircraft",
+    "desc_jp": "秘書艦に「鳳翔改二/戦」。九六式艦戦、零式艦戦21型、零式艦戦32型、三式戦 飛燕(無印)<br>を各x3廃棄。熟練搭乗員x1、開発資材x40、ボーキサイト4,000、家具コイン88,000を準備！",
+    "desc": "Have Houshou Kai Ni/Sen as your secretary flagship and then proceed to scrap 3x Type 96 Fighter, 3x Type 0 Fighter Model 21 and 3x Type 3 Fighter Hien and have 1x Skilled Crew Member, 40x Development Material, 4000x bauxite, and 88 000x Furniture Coins (All resources and Materials will be consumed upon completion)"
   }
 }
