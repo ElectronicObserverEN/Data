@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030633",
+  "version": "21030634",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4248,13 +4248,6 @@
     "name": "Convoy Escort Force, Deploy!",
     "desc_jp": "揚陸艦及び補給艦計2隻以上、海防艦2隻以上の艦隊で、南西諸島沖、製油所地帯沿岸、鎮守府近海、<br>南西諸島防衛線に反復出撃！護衛部隊により敵艦隊を退けて、輸送船団護衛を完遂せよ！",
     "desc": "Organize a fleet with 2 LHA/AO and 2DE in your fleet and score an A rank at the boss nodes on 1-2, 1-3, 1-4 and 1-5 twice each"
-  },
-  "1037": {
-    "code": "2508 B1",
-    "name_jp": "【期間限定任務】秋の旗艦は……私ッ！",
-    "name": "[Limited Time Quest] The Autumn Flagship is... Me!",
-    "desc_jp": "旗艦に「秋雲」「秋霜」「秋月」「秋津洲」のいずれかを配備！同艦隊で、製油所地帯沿岸、鎮守府近海、<br>南西諸島防衛線、南西諸島近海に反復出撃！秋本番に向けて、近海及び南西諸島の哨戒を厳とせよ！",
-    "desc": "Organize a fleet with one of Akigumo, Akishimo, Akizuki or Akitsushima as flagship in your fleet and score an A rank at the boss nodes on 1-3, 1-4, 1-5 and 2-1 twice each"
   },
   "1101": {
     "code": "F96",
