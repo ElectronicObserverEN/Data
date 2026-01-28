@@ -214,5 +214,11 @@
     "name": "New Year 2026",
     "added_update_id": 84,
     "removed_update_id": 85
+  },
+  {
+    "id": 39,
+    "name": "Setsubun 2026",
+    "added_update_id": 85,
+    "removed_update_id": null
   }
 ]
