@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030628",
+  "version": "21030629",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1729,13 +1729,6 @@
     "desc_jp": "改装を完了した航空母艦「鳳翔改二」または同戦力投射母艦「鳳翔改二戦」を旗艦、そして<br>駆逐艦3隻以上を含む演習艦隊を編成！本日中に【S判定】勝利を5回以上達成せよ！",
     "desc": "Organize a fleet with Houshou Kai Ni/Kai Ni Sen as flagship and 3 DD in your fleet and score S rank 5 times in PvP"
   },
-  "361": {
-    "code": "2512 C1",
-    "name_jp": "【年末年始】海上護衛部隊 特別演習！",
-    "name": "[New Year Holiday Season] Maritime Escort Force Special Exercise!",
-    "desc_jp": "【年末年始特別演習】第一艦隊旗艦第1及び第2スロに「応急修理要員」を装備。軽空母級1隻+駆逐艦<br>4隻以上または海防艦2隻以上を含む海上護衛演習を実施、本日中に【S判定】勝利を4回以上達成せよ！",
-    "desc": "Organize a fleet with 1 CVL + 4 DD or 2 DE in your fleet with the flagship equipped with 2 Emergency Repair Personnel in her 1st and 2nd slots and score S rank 4 times in PvP"
-  },
   "362": {
     "code": "Cy10",
     "name_jp": "特型初代「第十一駆逐隊」演習スペシャル！",
@@ -1819,27 +1812,6 @@
     "name": "\"DesDiv2 (Late Formation)\", Improved Training!",
     "desc_jp": "【後期二駆演習】「早霜」「秋霜」「清霜」の1隻を旗艦、僚艦に「早霜」「秋霜」「清霜」「朝霜」2隻を<br>含む後期編成の夕雲型第二駆逐隊を含む艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！",
     "desc": "Organize a fleet with one of Hayashimo, Akishimo or Kiyoshimo as flagship with two of Asashimo, Hayashimo, Akishimo and Kiyoshimo in your fleet and score S rank 4 times in PvP"
-  },
-  "378": {
-    "code": "2601 Cw1",
-    "name_jp": "新春限定！第六艦隊特別演習",
-    "name": "New Year Only! Sixth Fleet Special Exercise",
-    "desc_jp": "【第六艦隊新春特別演習】旗艦潜水母艦、潜水母艦及び潜水艦計3隻(潜水艦1隻以上含む)以上の<br>新春第六艦隊で、本日中に演習【A判定】勝利5回以上を達成せよ！第六艦隊新春演習、始めっ！",
-    "desc": "Organize a fleet with an AS as flagship, a SS(V) and another AS/SS(V) in your fleet and score A rank 5 times in PvP"
-  },
-  "380": {
-    "code": "2507 Cw1",
-    "name_jp": "【期間限定任務】揚陸船団護衛演習",
-    "name": "[Time-limited] Landing Convoy Escort Exercise",
-    "desc_jp": "【期間限定演習】揚陸船団護衛演習を実施する！揚陸艦1隻以上及び護衛の海防艦2隻以上の艦隊、<br>または海防艦3隻以上を含む艦隊で、本日中に演習【A判定】勝利3回以上を達成せよ！演習、始めっ！",
-    "desc": "Organize a fleet with either an LHA and 2 DE or 3 DE in your fleet and score A rank three times in PvP"
-  },
-  "381": {
-    "code": "2508 Cw1",
-    "name_jp": "【期間限定任務】秋月型演習任務",
-    "name": "[Limited Time Quest] Akizuki-class Exercise Quest",
-    "desc_jp": "【期間限定演習】秋月型または「秋雲」「秋霜」「秋津洲」の計3隻以上を含む演習艦隊を編成。<br>同艦隊で本日中に演習【A判定】勝利3回以上を達成せよ！秋月型駆逐艦他、演習、始めっ！",
-    "desc": "Organize a fleet with 3 of Akigumo, Akishimo, Akitsushima or Akizuki-class in your fleet and score A rank 3 times in PvP"
   },
   "401": {
     "code": "D1",
@@ -3009,34 +2981,6 @@
     "name": "Continued: Carry out Mogami-class Modernization work",
     "desc_jp": "最上型近代化改修：鋼材1,200及び弾薬1,200を準備、「最上型」を近代化改修！<br>[重巡級]x4隻同時使用で2回成功させよ！※任務達成後、準備資源は消費します。",
     "desc": "Have 1,200 Steel, 1,200 Ammo and modernize a Mogami-class Heavy/Aviation Cruiser with 4 CAs at once twice."
-  },
-  "801": {
-    "code": "2601 B1",
-    "name_jp": "迎春新年！二〇二六年、艦隊抜錨せよ！",
-    "name": "Welcome the New Year! In 2026, the Fleet Sets Sail!",
-    "desc_jp": "旗艦に軽巡級、随伴艦に駆逐艦3隻または海防艦2隻以上を含む艦隊で抜錨！ 鎮守府正面海域、<br>南西諸島沖、製油所地帯沿岸、鎮守府近海を哨戒、二〇二六年正月鎮守府海域の安全を確保せよ！",
-    "desc": "Organize a fleet with a CL(T)/CT as flagship and 3 DD or 2 DE in your fleet and score an A rank at the boss nodes on 1-1, 1-2, 1-3 and 1-5"
-  },
-  "802": {
-    "code": "2601 B2",
-    "name_jp": "賀正！令和八年、精鋭巡洋艦戦隊、出撃始めッ！",
-    "name": "Happy New Year! In the Eighth Year of Reiwa, the Elite Cruiser Squadron Begins its Sortie!",
-    "desc_jp": "精鋭巡洋艦3隻以上を旗艦を含む基幹戦力として駆逐艦1隻以上が随伴する艦隊で、南西諸島防衛線、<br>南西諸島近海、バシー海峡、東部オリョール海に出撃！各海域の敵艦隊を捕捉、これを撃滅せよ！",
-    "desc": "Organize a fleet with 3 CA(V)/CL(T)/CT with one as flagship and a DD in your fleet and score an S rank at the boss nodes on 1-4, 2-1, 2-2 and 2-3"
-  },
-  "803": {
-    "code": "2601 B3",
-    "name_jp": "謹賀新年2026年！空母機動部隊、西へ！南北へ！",
-    "name": "Happy New Year 2026! Carrier Task Force, Head West! North and South!",
-    "desc_jp": "旗艦に航空母艦、駆逐艦2隻以上が随伴した空母機動部隊で西方海域ジャム島沖及びカレー洋海域、<br>南方海域珊瑚諸島沖、北方海域モーレイ海に展開！遭遇する敵艦隊を鎧袖一触、これを撃滅せよ！",
-    "desc": "Organize a fleet with 1 CV(B/L) as flagship and 2 DD in your fleet and score an S rank at the boss nodes on 3-1, 4-1, 4-2 and 5-2"
-  },
-  "804": {
-    "code": "2601 B4",
-    "name_jp": "新春【拡張作戦】精鋭日英米空母、新年協同作戦！",
-    "name": "New Year [Extra Operation] Elite Japanese, British, and American Aircraft Carriers, New Year's Joint Operation!",
-    "desc_jp": "「Ark Royal」「Victorious」「Intrepid」「Hornet」「蒼龍」「飛龍」「翔鶴」「瑞鶴」2隻以上含む艦隊<br>で、沖ノ島沖、サーモン海域北方、MS諸島沖、タウイタウイ泊地沖深部、カレー洋リランカ島沖を制圧せよ！",
-    "desc": "Organize a fleet with 2 of Ark Royal, Victorious, Intrepid, Hornet, Souryuu, Hiryuu, Shoukaku and Zuikaku in your fleet and score an S rank at the boss nodes on 2-5, 7-2 (Part 2), 4-5, 5-5 and 6-2"
   },
   "805": {
     "code": "B58",
@@ -4277,13 +4221,6 @@
     "desc_jp": "「藤波改二」旗艦、艦隊に「鳥海」及び第三十二駆逐隊1隻を含む部隊で、沖ノ島海域、沖ノ島沖、<br>タウイタウイ泊地沖(深部)、サーモン海域北方に出撃！「鳥海」を護衛しつつ、遊弋する敵を痛打せよ！",
     "desc": "Organize a fleet with Fujinami Kai Ni as flagship, Choukai and any of Tamanami, Suzunami, Hayanami and Hamanami in your fleet and score an S rank at the boss nodes on 2-4, 2-5, 7-2 (part 2) and 5-5"
   },
-  "1024": {
-    "code": "2512 B5",
-    "name_jp": "【年末年始】出撃！海防戦艦、海上戦闘哨戒！",
-    "name": "[New Year Holiday Season] Set Sail! Coastal Defense Battleship, Maritime Combat Patrol!",
-    "desc_jp": "旗艦「Thonburi」の艦隊、または旗艦及び僚艦が海防戦艦の艦隊で、製油所地帯沿岸、南西諸島<br>防衛線、南西諸島近海、北方海域モーレイ海の哨戒を実施！年末年始の海上哨戒を実施せよ！",
-    "desc": "Organize a fleet with Thonburi as flagship or 2 Norge-class in your fleet with one as flagship and score an S rank at the boss nodes on 1-3, 1-4, 2-1 and 3-1"
-  },
   "1025": {
     "code": "B208",
     "name_jp": "精鋭十一駆「白雪改二」、抜錨します！",
@@ -4445,13 +4382,6 @@
     "desc_jp": "「艦上戦闘機」「艦上爆撃機」「艦上攻撃機」各x4を廃棄、「零式艦戦21型」x3、「零式艦戦52型」x3<br>ボーキサイト1,800を準備せよ！(任務達成後、準備した装備・ボーキサイトは消費します)",
     "desc": "Have 3x Zero Fighter Model 21, 3x Zero Fighter Model 52 and 1800 bauxite. Proceed to scrap 4 carrier-based fighters, 4 dive bombers and 4 torpedo bombers (All resources and Materials will be consumed upon completion)"
   },
-  "1121": {
-    "code": "2512 F1",
-    "name_jp": "【年末年始】鎮守府大掃除！良いお年を！",
-    "name": "[New Year Holiday Season] Naval Base Cleaning! Happy New Year!",
-    "desc_jp": "【年末年始鎮守府大掃除】「小口径主砲」「中口径主砲」「水上偵察機」x各11を廃棄。<br>「九六式艦戦」x8、「九四式爆雷投射機」x5、鋼材2,025を準備、提督の皆さん、よいお年を！",
-    "desc": "Proceed to scrap 11x Small Caliber Main Guns, 11x Medium Caliber Main Guns and 11x Reconnaissance Seaplanes and have 8x Type 96 Fighter, 5x Type 94 Depth Charge Projector and 2025x steel (All resources and Materials will be consumed upon completion)"
-  },
   "1123": {
     "code": "Fy10",
     "name_jp": "改良三座水上偵察機の増備",
@@ -4570,20 +4500,6 @@
     "name": "[Factory Quest] I-go Submarine Equipment Expansion",
     "desc_jp": "旗艦潜水艦第1スロに「零式水上偵察機」(★+4以上)。「零式水上偵察機」x8廃棄。魚雷装備x15<br>を廃棄。「九三式水中聴音機」x4、新型航空兵装資材x1、開発資材x60、新型兵装資材x1を準備せよ！",
     "desc": "Have a SSV as secretary flagship equip a ★+4 Type 0 Recon Seaplane in the first slot and then proceed to scrap 8x Type 0 Recon Seaplane and 15x Torpedoes and have 4x Type 93 Passive SONAR, 2x New Model Aerial Armament Materials, 1x New Model Armament Material and 60x Development Materials (All resources and Materials will be consumed upon completion)"
-  },
-  "1146": {
-    "code": "2512 F2",
-    "name_jp": "【年末年始】拡張大掃除&特別資源輸出-I",
-    "name": "[New Year Holiday Season] Expansion Cleanup & Special Resource Export - I",
-    "desc_jp": "【拡張大掃除及び1号特別資源輸出】「艦上爆撃機」「艦上攻撃機」x各8、「魚雷」装備x16廃棄。<br>「発煙装置(煙幕)」x5、「家具箱(小)」x25、弾薬2,025を準備！1号特別資源輸出を実施せよ！",
-    "desc": "Proceed to scrap 8x Carrier-based Dive Bombers, 8x Carrier-based Torpedo Bombers and 16x Torpedoes and have 5x Smoke Generator (Smoke Screen), 25x Furniture Box (Small) and 2025x ammo (All resources and Materials will be consumed upon completion)"
-  },
-  "1147": {
-    "code": "2512 F3",
-    "name_jp": "【年末年始】拡張大掃除&特別資源輸出-II",
-    "name": "[New Year Holiday Season] Expansion Cleanup & Special Resource Export - II",
-    "desc_jp": "【拡張大掃除及び2号特別資源輸出】「大口径主砲」x8、「中口径主砲」x16、「水偵」x20を廃棄。<br>「13号対空電探」x8、「21号対空電探」x4、鋼材2,025を準備！2号特別資源輸出を拡大せよ！",
-    "desc": "Proceed to scrap 8x Large Caliber Main Guns, 16x Medium Caliber Main Guns and 20x Reconnaissance Seaplanes and have 8x Type 13 Air Radar, 4x Type 21 Air Radar and 2025x Steel (All resources and Materials will be consumed upon completion)"
   },
   "1148": {
     "code": "F130",
