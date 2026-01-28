@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030638",
+  "version": "21030639",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3225,7 +3225,7 @@
     "name_jp": "【節分任務:豆】節分作戦二〇二六",
     "name": "[Setsubun: Mame] Setsubun operation 2026",
     "desc_jp": "節分任務：旗艦及び二番艦に「鳳翔」「朝日」「明石」「大淀」「迅鯨」「長鯨」または七駆を<br>配備、鎮守府海域南西諸島沖、製油所地帯沿岸、南西諸島防衛線の節分反復哨戒を実施せよ！",
-    "desc": "Organize a fleet with any 2 of Houshou, Asahi, Akashi, Ooyodo, Jingei and Chougei as flagship and second ship and score an A rank at the boss nodes on 1-2, 1-3 and 1-4 twice each"
+    "desc": "Organize a fleet with any 2 of Houshou, Asahi, Akashi, Ooyodo, Jingei, Chougei, Oboro, Akebono, Sazanami and Ushio as flagship and second ship and score an A rank at the boss nodes on 1-2, 1-3 and 1-4 twice each"
   },
   "842": {
     "code": "B89",
