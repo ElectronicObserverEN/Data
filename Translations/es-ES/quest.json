@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030633",
+  "version": "21030634",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4555,6 +4555,6 @@
     "name_jp": "第三十二駆逐隊「早波」、改装準備！",
     "name": "DesDiv32 [Hayanami], Preparing for Remodel!",
     "desc_jp": "第一艦隊に旗艦「早波」。他に第三十二駆逐隊3隻以上を配備して「九三式水中聴音機」「三式<br>水中探信儀」「九五式爆雷」x各5廃棄。「新型兵装資材」x1及び「三式爆雷投射機」x8用意せよ！",
-    "desc": "Have your secretary flagship Hayanami then proceed to scrap 5x Type 93 Passive Sonar, 5x Type 3 Active Sonar and 5x Type 95 Depth Charge and have 1x New Model Armament Material and 8x Type 3 Depth Charge Projector (All resources and Materials will be consumed upon completion)"
+    "desc": "Have Hayanami as your secretary flagship then proceed to scrap 5x Type 93 Passive Sonar, 5x Type 3 Active Sonar and 5x Type 95 Depth Charge and have 1x New Model Armament Material and 8x Type 3 Depth Charge Projector (All resources and Materials will be consumed upon completion)"
   }
 }
