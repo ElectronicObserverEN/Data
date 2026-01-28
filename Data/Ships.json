@@ -14776,5 +14776,14 @@
     "ShipClassId": 1619,
     "ShipClassApiId": 137,
     "IsFriendly": true
+  },
+  {
+    "Id": 1838,
+    "NameEN": "Hayanami Kai Ni",
+    "NameJP": "早波改二",
+    "ApiId": 982,
+    "ShipClassId": 1498,
+    "ShipClassApiId": 38,
+    "IsFriendly": true
   }
 ]
