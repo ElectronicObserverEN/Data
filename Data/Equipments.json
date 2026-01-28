@@ -4407,5 +4407,11 @@
     "api_id": 568,
     "name_jp": "強風改二(熟練)",
     "name_en": "Kyoufuu Kai Ni (Skilled)"
+  },
+  {
+    "id": 2563,
+    "api_id": 547,
+    "name_jp": "震電改二(艦戦型改二)",
+    "name_en": "Shinden Kai Ni (Carrier Fighter Kai Ni)"
   }
 ]
