@@ -10900,7 +10900,7 @@
     "name_jp": "第三十二駆逐隊「早波」、改装準備！",
     "name_en": "DesDiv32 [Hayanami], Preparing for Remodel!",
     "desc_jp": "第一艦隊に旗艦「早波」。他に第三十二駆逐隊3隻以上を配備して「九三式水中聴音機」「三式<br>水中探信儀」「九五式爆雷」x各5廃棄。「新型兵装資材」x1及び「三式爆雷投射機」x8用意せよ！",
-    "desc_en": "Have Hayanami as your secretary flagship then proceed to scrap 5x Type 93 Passive Sonar, 5x Type 3 Active Sonar and 5x Type 95 Depth Charge and have 1x New Model Armament Material and 8x Type 3 Depth Charge Projector (All resources and Materials will be consumed upon completion)",
+    "desc_en": "Have Hayanami as your secretary flagship and three of Tamanami, Suzunami, Fujinami and Hamanami in your fleet then proceed to scrap 5x Type 93 Passive Sonar, 5x Type 3 Active Sonar and 5x Type 95 Depth Charge and have 1x New Model Armament Material and 8x Type 3 Depth Charge Projector (All resources and Materials will be consumed upon completion)",
     "added_update_id": 85,
     "removed_update_id": null,
     "season_id": null,
@@ -10944,5 +10944,18 @@
     "removed_update_id": null,
     "season_id": null,
     "tracker": "[[1159],[[3,[19,3]],[3,[20,3]],[3,[176,3]],[3,[181,3]]],[0,[[5,[894,1,1]]]]]"
+  },
+  {
+    "id": 858,
+    "api_id": 1160,
+    "code": "F138",
+    "name_jp": "【工廠任務】試製震電の艦戦型改二への改修",
+    "name_en": "[Arsenal Quest] Upgrading Prototype Shinden to Carrier Fighter Kai Ni",
+    "desc_jp": "第一旗艦に「飛龍」改二以降、32駆改二及び「風雲改二」から計3隻以上を随伴配備。零式艦戦<br>52型及び紫電改二を各x5廃棄。新型航空兵装資材x2、試製 震電(局地戦闘機)★maxを用意せよ！",
+    "desc_en": "Have Hiryuu Kai Ni/San as your secretary flagship and three of Fujinami Kai Ni, Hayanami Kai Ni, Hamanami Kai Ni and Kazagumo Kai Ni in your fleet and then proceed to scrap 5x Type 0 Fighter Model 52 and 5x Shiden Kai Ni and have 2x Aviation Material, 1x Prototype Shinden (LB Fighter) ★max (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 85,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1160],[[3,[21,5]],[3,[55,5]]],[0,[[7,[196,true,1,0]],[8,[[[981,false,1,0],[983,false,1,0],[982,false,1,0],[564,false,1,0]],3]]]]]"
   }
 ]
