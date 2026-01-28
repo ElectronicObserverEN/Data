@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030641",
+  "version": "21030642",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4576,6 +4576,6 @@
     "name_jp": "【工廠任務】量産航空機の改編",
     "name": "[Arsenal Quest] Reorganizing Mass-Produced Aircraft",
     "desc_jp": "秘書艦に「鳳翔改二/戦」。九六式艦戦、零式艦戦21型、零式艦戦32型、三式戦 飛燕(無印)<br>を各x3廃棄。熟練搭乗員x1、開発資材x40、ボーキサイト4,000、家具コイン88,000を準備！",
-    "desc": "Have Houshou Kai Ni/Sen as your secretary flagship and then proceed to scrap 3x Type 96 Fighter, 3x Type 0 Fighter Model 21 and 3x Type 3 Fighter Hien and have 1x Skilled Crew Member, 40x Development Material, 4000x bauxite, and 88 000x Furniture Coins (All resources and Materials will be consumed upon completion)"
+    "desc": "Have Houshou Kai Ni/Sen as your secretary flagship and then proceed to scrap 3x Type 96 Fighter, 3x Type 0 Fighter Model 21, 3x Type 0 Fighter Model 32 and 3x Type 3 Fighter Hien and have 1x Skilled Crew Member, 40x Development Material, 4000x bauxite, and 88 000x Furniture Coins (All resources and Materials will be consumed upon completion)"
   }
 }
