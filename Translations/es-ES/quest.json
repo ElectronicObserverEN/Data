@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030640",
+  "version": "21030641",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4595,7 +4595,7 @@
   "1160": {
     "code": "F138",
     "name_jp": "【工廠任務】試製震電の艦戦型改二への改修",
-    "name": "[Arsenal Quest] Upgrading Prototype Shinden to Carrier Fighter Kai Ni",
+    "name": "[Arsenal Quest] Modification of the Prototype Shinden to the Carrier-based Fighter Model Kai Ni",
     "desc_jp": "第一旗艦に「飛龍」改二以降、32駆改二及び「風雲改二」から計3隻以上を随伴配備。零式艦戦<br>52型及び紫電改二を各x5廃棄。新型航空兵装資材x2、試製 震電(局地戦闘機)★maxを用意せよ！",
     "desc": "Have Hiryuu Kai Ni/San as your secretary flagship and three of Fujinami Kai Ni, Hayanami Kai Ni, Hamanami Kai Ni and Kazagumo Kai Ni in your fleet and then proceed to scrap 5x Type 0 Fighter Model 52 and 5x Shiden Kai Ni and have 2x Aviation Material, 1x Prototype Shinden (LB Fighter) ★max (All resources and Materials will be consumed upon completion)"
   }
