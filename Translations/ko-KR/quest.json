@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030667",
+  "version": "21030668",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3499,6 +3499,13 @@
     "name": "「제18구축대」, 북방 해역 키스섬으로!",
     "desc_jp": "精鋭「第十八駆逐隊」を投入し、北方海域キス島撤退作戦を実施する！<br>同作戦に反復出動し、キス島撤退作戦を完全成功させよ！",
     "desc": "정예 「제18구축대」를 투입하여, 북방 해역 키스섬 철수 작전을 실시한다! 해당 작전에 반복 출동하여, 키스섬 철수 작전을 완전 성공시켜라!"
+  },
+  "882": {
+    "code": "2601 B5",
+    "name_jp": "【節分任務:最終拡張作戦】節分二〇二六 戦果拡大！",
+    "name": "[Setsubun Quest: Final Expansion Operation] Setsubun 2026: Expanding Our Battle Results!",
+    "desc_jp": "「阿賀野」「酒匂」「瑞穂」「如月」「深雪」「浦波」「天霧」「狭霧」「峯雲」「清霜」「朝霜」を旗艦と<br>他2隻以上を含む艦隊で鎮守府近海、北方キス島沖、サブ島沖海域、MS諸島沖の敵を反復撃滅せよ！",
+    "desc": "Organize a fleet with three of Agano, Sakawa, Mizuho, Kisaragi, Miyuki, Uranami, Amagiri, Sagiri, Minegumo, Kiyoshimo and Asashimo with one as flagship in your fleet and score an S rank at the boss nodes on 1-5, 3-2, 5-3 and 6-2 twice each"
   },
   "884": {
     "code": "B117",
