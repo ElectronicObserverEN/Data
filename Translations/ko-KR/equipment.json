@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030302",
+  "version": "21030303",
   "equiptype": {
     "小口径主砲": "소구경주포",
     "中口径主砲": "중구경주포",
@@ -777,6 +777,7 @@
     "深海6inch副砲群": "심해 6inch 부포군",
     "深海4inch三連装副砲": "심해 4inch 삼연장부포",
     "強風改二(熟練)": "쿄후 改2 (숙련)",
-    "震電改二(艦戦型改二)": "Shinden Kai Ni (Carrier Fighter Kai Ni)"
+    "震電改二(艦戦型改二)": "Shinden Kai Ni (Carrier Fighter Kai Ni)",
+    "三式爆雷投射機改": "Type 3 Depth Charge Projector Kai"
   }
 }

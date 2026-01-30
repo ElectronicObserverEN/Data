@@ -4413,5 +4413,11 @@
     "api_id": 547,
     "name_jp": "震電改二(艦戦型改二)",
     "name_en": "Shinden Kai Ni (Carrier Fighter Kai Ni)"
+  },
+  {
+    "id": 2564,
+    "api_id": 569,
+    "name_jp": "三式爆雷投射機改",
+    "name_en": "Type 3 Depth Charge Projector Kai"
   }
 ]

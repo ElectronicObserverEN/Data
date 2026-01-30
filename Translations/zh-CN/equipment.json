@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030300",
+  "version": "21030301",
   "equiptype": {
     "小口径主砲": "Small-caliber Gun",
     "中口径主砲": "Medium-caliber Gun",
@@ -777,6 +777,7 @@
     "深海6inch副砲群": "Abyssal 6inch Secondary Gun Mount Battery",
     "深海4inch三連装副砲": "Abyssal 4inch Triple Secondary Gun Mount",
     "強風改二(熟練)": "Kyoufuu Kai Ni (Skilled)",
-    "震電改二(艦戦型改二)": "Shinden Kai Ni (Carrier Fighter Kai Ni)"
+    "震電改二(艦戦型改二)": "Shinden Kai Ni (Carrier Fighter Kai Ni)",
+    "三式爆雷投射機改": "Type 3 Depth Charge Projector Kai"
   }
 }
