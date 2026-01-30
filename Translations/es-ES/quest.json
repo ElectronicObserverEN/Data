@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030643",
+  "version": "21030644",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1830,9 +1830,9 @@
   "402": {
     "code": "Dd1",
     "name_jp": "「遠征」を３回成功させよう！",
-    "name": "Complete 3 Expeditions",
+    "name": "",
     "desc_jp": "本日中に「遠征」３回成功させよう！",
-    "desc": "Perform 3 successful expeditions within the same day."
+    "desc": ""
   },
   "403": {
     "code": "Dd2",
