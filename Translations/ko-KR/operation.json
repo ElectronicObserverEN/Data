@@ -1,5 +1,5 @@
 ﻿{
-  "version": "20071559",
+  "version": "20071560",
   "map": {
     "南西諸島近海": "남서 제도 근해",
     "バシー海峡": "바시 해협",
@@ -1020,9 +1020,9 @@
     "深海任務部隊 機動部隊 別動隊": "심해임무부대 기동부대 별동대",
     "深海任務部隊 主力水上打撃群": "심해임무부대 주력수상타격군",
     "深海任務部隊 主力空母旗艦艦隊": "심해임무부대 주력항모기함함대",
-    "深海極東艦隊 北海道東部哨戒線": "Abyssal Far East Fleet Hokkaido Eastern Patrol Line",
-    "深海任務部隊 機動部隊II群 前衛群": "Abyssal Task Force, Mobile Force II, Vanguard Group",
-    "深海潜水艦隊 哨戒線 III群": "Abyssal submarine fleet Patrol Line III",
-    "深海任務部隊 迎撃緊急出撃集団": "Abyssal task force Interception emergency sortie group"
+    "深海極東艦隊 北海道東部哨戒線": "심해극동함대 홋카이도동부초계선",
+    "深海任務部隊 機動部隊II群 前衛群": "심해임무부대 기동부대II군 전위군",
+    "深海潜水艦隊 哨戒線 III群": "심해잠수함대 초계선 III군",
+    "深海任務部隊 迎撃緊急出撃集団": "심해임무부대 요격긴급출격집단"
   }
 }
