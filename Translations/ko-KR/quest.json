@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030670",
+  "version": "21030671",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1403,9 +1403,9 @@
   "309": {
     "code": "C7",
     "name_jp": "北方再突入に備え、練度向上に努めよ！",
-    "name": "북방재돌입을 대비하여 숙련도 향상에 힘쓰자!e",
+    "name": "북방재돌입을 대비하여 숙련도 향상에 힘쓰자!",
     "desc_jp": "艦隊再突入に備え、艦隊練度向上を図る！本日中に「演習」で4回以上「勝利」せよ！",
-    "desc": "Get 4 victories in exercises within the same day."
+    "desc": "함대 재돌입에 대비해 함대 연도 향상을 도모한다! 오늘 중에 연습으로 4회 이상 승리하라!"
   },
   "311": {
     "code": "Cm1",
@@ -1536,9 +1536,9 @@
   "329": {
     "code": "2601 Cd1",
     "name_jp": "【節分任務:枡】節分演習！二〇二六",
-    "name": "[Setsubun: Masu] Setsubun exercise! 2026",
+    "name": "[절분임무: 마스] 절분연습! 2026",
     "desc_jp": "節分任務：旗艦潜水母艦他に潜水艦3隻以上、または旗艦海防艦他に海防艦2隻以上、または<br>旗艦輸送艦他に駆逐艦5隻が配備された節分特別演習艦隊で、本日中に演習3回以上勝利せよ！",
-    "desc": "Organize a fleet with either (AS as flagship and 3 SS(V)) or (DE as flagship and 2 other DE) or (AO and 5 DD) in your fleet and score B rank 3 times in PvP"
+    "desc": "절분임무 : 기함 잠수모함 외에 잠수함 3척, 또는 기함 해방함 외에 해방함 2척 이상, 또는 기함 수송함 외에 구축함 5척이 배비된 절분 특별 연습함대로, 오늘 중에 연습 3회 이상 승리하라!"
   },
   "330": {
     "code": "Cq1",
@@ -2089,9 +2089,9 @@
   "441": {
     "code": "2601 D1",
     "name_jp": "【節分任務:恵方】令和八年節分遠征",
-    "name": "[Setsubun Quest: Ehou] Reiwa 8th Year Setsubun Expedition",
+    "name": "[절분임무: 에호] 레이와 8년 절분 원정",
     "desc_jp": "節分遠征任務：「海上護衛任務」「長時間対潜警戒」「タンカー護衛任務」及び<br>「兵站強化任務」「遠洋潜水艦作戦」の各遠征を実施、これらを成功させよ！",
-    "desc": "Complete expeditions 05, A3, 09, A1 and 39"
+    "desc": "절분 원정임무: 「해상호위임무」 「장시간 대잠경계」 「유조선 호위임무」 및 「병참강화임무」 「원양 잠수함 작전」의 각 원정을 실시, 이를 성공시켜라!"
   },
   "442": {
     "code": "Dy7",
@@ -3230,16 +3230,16 @@
   "840": {
     "code": "2601 Bw1",
     "name_jp": "【節分任務:豆】節分作戦二〇二六",
-    "name": "[Setsubun: Mame] Setsubun operation 2026",
+    "name": "[절분임무: 콩] 절분작전 2026",
     "desc_jp": "節分任務：旗艦及び二番艦に「鳳翔」「朝日」「明石」「大淀」「迅鯨」「長鯨」または七駆を<br>配備、鎮守府海域南西諸島沖、製油所地帯沿岸、南西諸島防衛線の節分反復哨戒を実施せよ！",
-    "desc": "Organize a fleet with any 2 of Houshou, Asahi, Akashi, Ooyodo, Jingei, Chougei, Oboro, Akebono, Sazanami and Ushio as flagship and second ship and score an A rank at the boss nodes on 1-2, 1-3 and 1-4 twice each"
+    "desc": "절분임무: 기함 및 2번함에 「호쇼」 「아사히」 「아카시」 「오요도」 「진게이」 「초게이」 또는 7구축을 배비, 진수부해역 남서제도 앞바다, 제유소 지대 연안, 남서제도 방위선에 절분 반복 초계를 실시하라!"
   },
   "841": {
     "code": "2601 Bw2",
     "name_jp": "【節分任務:鬼】南西方面節分作戦二〇二六",
-    "name": "[Setsubun Quest: Oni] Southwestern Setsubun Operation 2026",
+    "name": "[절분임무: 오니] 남서방면 절분작전 2026",
     "desc_jp": "節分任務：旗艦及び二番艦に「Jean Bart」「Minneapolis」「Gloire」「Ranger」「Johnston」<br>「神鷹」「夕張」「風雲」「早霜」を配備！南西諸島近海、バシー海峡、東部オリョール海を反復哨戒！",
-    "desc": "Organize a fleet with two of Jean Bart, Minneapolis, Gloire, Ranger, Johnston, Shinyou, Yuubari, Kazagumo and Hayashimo as flagship and second ship in your fleet and score an A rank at the boss nodes on 2-1, 2-2 and 2-3 twice each"
+    "desc": "절분임무: 기함 및 2번함에 「Jean Bart」 「Minneapolis」 「Gloire」 「Ranger」 「Johnston」 「신요」 「유바리」 「카자구모」 「하야시모」를 배비! 남서제도 근해, 바시해협, 동부 오룔해를 반복 초계!"
   },
   "842": {
     "code": "B89",
@@ -3251,9 +3251,9 @@
   "843": {
     "code": "2601 Bw3",
     "name_jp": "【節分任務:柊】節分拡張作戦二〇二六、重巡出撃！",
-    "name": "[Setsubun: Hiiragi] Setsubun Extra Operation 2026, Heavy Cruisers Sortie!",
+    "name": "[절분임무: 히이라기] 절분 확장작전 2026, 중순 출격!",
     "desc_jp": "節分拡張作戦：重巡洋艦を旗艦及び随伴艦に配備、その他に軽空母級1隻を含む精強重巡艦隊で<br>ジャム島沖、カレー洋海域、リランカ島、ジャワ島沖最深部に節分展開！敵主力を撃滅せよ！",
-    "desc": "Organize a fleet with a CA as flagship,  another CA and a CVL in your fleet and score an S rank at the boss nodes on 4-1, 4-2, 4-3 and 7-5 (Part 3)"
+    "desc": "절분 확장임무: 중순양함을 기함 및 수반함에 배비, 그 외에 경항모급 1척을 포함한 정강 중순함대로 잼섬 앞바다, 카레양 해역, 리랑카섬, 자바섬 앞바다 최심부에 절분 전개! 적 주력을 격멸하라!"
   },
   "844": {
     "code": "B90",
@@ -3503,9 +3503,9 @@
   "882": {
     "code": "2601 B5",
     "name_jp": "【節分任務:最終拡張作戦】節分二〇二六 戦果拡大！",
-    "name": "[Setsubun Quest: Final Expansion Operation] Setsubun 2026: Expanding Our Battle Results!",
+    "name": "[절분임무: 최종 확장작전] 절분 2026 전과 확대!",
     "desc_jp": "「阿賀野」「酒匂」「瑞穂」「如月」「深雪」「浦波」「天霧」「狭霧」「峯雲」「清霜」「朝霜」を旗艦と<br>他2隻以上を含む艦隊で鎮守府近海、北方キス島沖、サブ島沖海域、MS諸島沖の敵を反復撃滅せよ！",
-    "desc": "Organize a fleet with three of Agano, Sakawa, Mizuho, Kisaragi, Miyuki, Uranami, Amagiri, Sagiri, Minegumo, Kiyoshimo and Asashimo with one as flagship in your fleet and score an S rank at the boss nodes on 1-5, 3-2, 5-3 and 6-2 twice each"
+    "desc": "「아가노」 「사카와」 「미즈호」 「키사라기」 「미유키」 「우라나미」 「아마기리」 「사기리」 「미네구모」 「키요시모」 「아사시모」를 기함과 그 외 2척 이상을 포함한 함대로 진수부근해, 북방 키스섬 앞바다, 사부섬 앞바다 해역, MS제도 앞바다의 적을 반복 격멸하라!"
   },
   "884": {
     "code": "B117",
@@ -4294,9 +4294,9 @@
   "1041": {
     "code": "B213",
     "name_jp": "三十二駆「早波改二」、元気に出撃せよ！",
-    "name": "DesDiv32 [Hayanami Kai Ni], Ready to Go!",
+    "name": "32구축대 「하야나미 改2」, 활기차게 출격하라!",
     "desc_jp": "「早波改二」旗艦、他に第三十二駆逐隊2隻以上を含む艦隊で、バシー海峡、沖ノ島海域、沖ノ島沖、<br>ブルネイ泊地沖、タウイタウイ泊地沖(深部)に展開！出没する敵艦隊を捕捉、これを痛打撃滅せよ！",
-    "desc": "Organize a fleet with Hayanami Kai Ni and two of Tamanami, Suzunami, Fujinami and Hamanami in your fleet and score an S rank at the boss nodes on 2-2, 2-4, 2-5, 7-1 and 7-2 (Part 2)"
+    "desc": "「하야나미 改2」 기함, 그 외에 제32구축대 구축함 2척 이상을 포함한 함대로, 바시해협, 오키노시마 해역, 오키노시마 앞바다, 브루나이 정박지 앞바다, 타위타위 정박지 앞바다(심부)에 전개! 출몰하는 적 함대를 포착, 이를 통타 격멸하라!"
   },
   "1101": {
     "code": "F96",
@@ -4588,22 +4588,22 @@
   "1158": {
     "code": "F136",
     "name_jp": "第三十二駆逐隊「早波」、改装準備！",
-    "name": "DesDiv32 [Hayanami], Preparing for Remodel!",
+    "name": "제32구축대 「하야나미」, 개장 준비!",
     "desc_jp": "第一艦隊に旗艦「早波」。他に第三十二駆逐隊3隻以上を配備して「九三式水中聴音機」「三式<br>水中探信儀」「九五式爆雷」x各5廃棄。「新型兵装資材」x1及び「三式爆雷投射機」x8用意せよ！",
-    "desc": "Have Hayanami as your secretary flagship and three of Tamanami, Suzunami, Fujinami and Hamanami in your fleet then proceed to scrap 5x Type 93 Passive Sonar, 5x Type 3 Active Sonar and 5x Type 95 Depth Charge and have 1x New Model Armament Material and 8x Type 3 Depth Charge Projector (All resources and Materials will be consumed upon completion)"
+    "desc": "제1함대 기함 「하야나미」. 그 외에 제32구축대 3척 이상을 배비하고 「93식 수중청음기」 「3식 수중탐신의」 「95식 폭뢰」×각 5 폐기. 「신형병장자재」×1 및 「3식 폭뢰투사기」×8 준비하라!"
   },
   "1159": {
     "code": "F137",
     "name_jp": "【工廠任務】量産航空機の改編",
-    "name": "[Arsenal Quest] Reorganizing Mass-Produced Aircraft",
+    "name": "【공창임무】 양산 항공기의 개편",
     "desc_jp": "秘書艦に「鳳翔改二/戦」。九六式艦戦、零式艦戦21型、零式艦戦32型、三式戦 飛燕(無印)<br>を各x3廃棄。熟練搭乗員x1、開発資材x40、ボーキサイト4,000、家具コイン88,000を準備！",
-    "desc": "Have Houshou Kai Ni/Sen as your secretary flagship and then proceed to scrap 3x Type 96 Fighter, 3x Type 0 Fighter Model 21, 3x Type 0 Fighter Model 32 and 3x Type 3 Fighter Hien and have 1x Skilled Crew Member, 40x Development Material, 4000x bauxite, and 88 000x Furniture Coins (All resources and Materials will be consumed upon completion)"
+    "desc": "비서함에 「호쇼 改2/戦」. 96식 함전, 영식함전 21형, 영식함전 32형, 3식전 히엔(무개수)을 각×3 폐기. 숙련탑승원×1, 개발자재×40, 보크사이트 4,000, 가구코인 88,000을 준비!"
   },
   "1160": {
     "code": "F138",
     "name_jp": "【工廠任務】試製震電の艦戦型改二への改修",
-    "name": "[Arsenal Quest] Modification of the Prototype Shinden to the Carrier-based Fighter Model Kai Ni",
+    "name": "【공창임무】 시제 신덴의 함재형 改2로의 개수",
     "desc_jp": "第一旗艦に「飛龍」改二以降、32駆改二及び「風雲改二」から計3隻以上を随伴配備。零式艦戦<br>52型及び紫電改二を各x5廃棄。新型航空兵装資材x2、試製 震電(局地戦闘機)★maxを用意せよ！",
-    "desc": "Have Hiryuu Kai Ni/San as your secretary flagship and three of Fujinami Kai Ni, Hayanami Kai Ni, Hamanami Kai Ni and Kazagumo Kai Ni in your fleet and then proceed to scrap 5x Type 0 Fighter Model 52 and 5x Shiden Kai Ni and have 2x Aviation Material, 1x Prototype Shinden (LB Fighter) ★max (All resources and Materials will be consumed upon completion)"
+    "desc": "제1기함에 「히류」 改2 이후, 32구축 改2 및 「카자구모 改2」 중에서 계 3척 이상을 수반 배비. 영식함전 52형 및 시덴 改2를 각×5 폐기. 신형병장자재×2, 시제 신덴 (국지전투기)★max를 준비하라!"
   }
 }
