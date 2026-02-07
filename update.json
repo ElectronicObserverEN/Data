@@ -16,7 +16,5 @@
   "MaintStart": "2026/01/28 11:00:00",
   "MaintEnd": "2026/01/28 21:15:00",
   "MaintEventState": 0,
-  "TimeLimitedQuests": 1,
-  "TimeLimitedQuest": 1,
   "QuestsMetadata": 1
 }
