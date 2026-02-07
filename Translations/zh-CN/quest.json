@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030649",
+  "version": "21030650",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3253,7 +3253,7 @@
     "name_jp": "【節分任務:柊】節分拡張作戦二〇二六、重巡出撃！",
     "name": "[Setsubun: Hiiragi] Setsubun Extra Operation 2026, Heavy Cruisers Sortie!",
     "desc_jp": "節分拡張作戦：重巡洋艦を旗艦及び随伴艦に配備、その他に軽空母級1隻を含む精強重巡艦隊で<br>ジャム島沖、カレー洋海域、リランカ島、ジャワ島沖最深部に節分展開！敵主力を撃滅せよ！",
-    "desc": "Organize a fleet with a CA as flagship,  another CA and a CVL in your fleet and score an S rank at the boss nodes on 4-1, 4-2, 4-3 and 7-5 (Part 3)"
+    "desc": "Organize a fleet with a CA as flagship,  another CA and a CVL/Shimane Maru/Yamashio Maru/Akitsu Maru/Kumano Maru in your fleet and score an S rank at the boss nodes on 4-1, 4-2, 4-3 and 7-5 (Part 3)"
   },
   "844": {
     "code": "B90",
