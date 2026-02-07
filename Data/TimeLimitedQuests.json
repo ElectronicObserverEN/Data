@@ -2,12 +2,12 @@
   {
     "id": 329,
     "endTime": null,
-    "dailyReset": false
+    "dailyReset": true
   },
   {
     "id": 374,
     "endTime": null,
-    "dailyReset": false
+    "dailyReset": true
   },
   {
     "id": 441,
