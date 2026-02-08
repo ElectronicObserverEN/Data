@@ -801,5 +801,16 @@
     "live_update": false,
     "maint_start_tweet": "https://fxtwitter.com/KanColle_STAFF/status/2012117630191337629",
     "maint_end_tweet": "https://fxtwitter.com/KanColle_STAFF/status/2016443787002982843"
+  },
+  {
+    "id": 86,
+    "start_date": "2026-02-13T00:00:00",
+    "start_time": "11:00:00",
+    "end_time": "20:30:00",
+    "name": "Valentine 2026",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://fxtwitter.com/KanColle_STAFF/status/2020447149566156952",
+    "maint_end_tweet": ""
   }
 ]
