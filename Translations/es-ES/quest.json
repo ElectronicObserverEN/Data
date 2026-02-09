@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030653",
+  "version": "21030654",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1410,9 +1410,9 @@
   "311": {
     "code": "Cm1",
     "name_jp": "精鋭艦隊演習",
-    "name": "",
+    "name": "Elite Fleet Exercises",
     "desc_jp": "同日中に「演習」で7回以上「勝利」をおさめ、我が精鋭艦隊の練度を示そう！",
-    "desc": ""
+    "desc": "Get 7 victories in exercises within the same day."
   },
   "312": {
     "code": "C9",
@@ -1543,9 +1543,9 @@
   "330": {
     "code": "Cq1",
     "name_jp": "空母機動部隊、演習始め！",
-    "name": "",
+    "name": "Carrier Task Force, Commence Exercises!",
     "desc_jp": "空母機動部隊演習任務：航空母艦旗艦他1隻計2隻以上及び駆逐艦2隻を含む空母機動部隊を編成。<br>機動部隊各艦の練度向上を図る！同艦隊で、本日中に演習で4回以上勝利せよ！",
-    "desc": ""
+    "desc": "Use a fleet with a CVL/CV/CVB as flagship, 1 other CVL/CV/CVB, 2 DD, and up to 2 additional ships to obtain a B-rank (or higher) in Exercises 4 times within the same day."
   },
   "331": {
     "code": "C31",
@@ -1592,9 +1592,9 @@
   "337": {
     "code": "Cq2",
     "name_jp": "「十八駆」演習！",
-    "name": "",
+    "name": "DesDiv 18 Exercise!",
     "desc_jp": "駆逐艦演習任務：第十八駆逐隊「霞」「霰」「陽炎」「不知火」の4隻を含む演習艦隊を編成。<br>同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！精鋭十八駆に落ち度など無し！",
-    "desc": ""
+    "desc": "Use a fleet with Kagerou, Shiranui, Kasumi, Arare, and up to 2 additional ships to obtain an S-rank in Exercises 3 times within the same day."
   },
   "338": {
     "code": "C39",
@@ -1606,9 +1606,9 @@
   "339": {
     "code": "Cq3",
     "name_jp": "「十九駆」演習！",
-    "name": "",
+    "name": "\"DesDiv 19\" Exercises!",
     "desc_jp": "駆逐艦演習任務：第十九駆逐隊「磯波」「浦波」「綾波」「敷波」の4隻を含む演習艦隊を編成。<br>同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！精鋭十九駆、じゃ、見ててよね！",
-    "desc": ""
+    "desc": "Use a fleet with Isonami, Uranami, Ayanami, Shikinami, and up to 2 additional ships. Obtain an S-rank in Exercises (PvP) 3 times within the same day."
   },
   "340": {
     "code": "20WiC1",
@@ -1620,9 +1620,9 @@
   "342": {
     "code": "Cq4",
     "name_jp": "小艦艇群演習強化任務",
-    "name": "",
+    "name": "Small ship exercise strengthining mission",
     "desc_jp": "駆逐艦または海防艦計4隻(軽巡級1隻導入可能)を含む演習艦隊を編成、<br>同演習艦隊による演習で本日中に【A判定】以上の勝利を4回以上達成せよ！",
-    "desc": ""
+    "desc": "Use a fleet with 3 Destroyers/Coastal Defense Ships, 1 additional Destroyer/Coastal Defense Ship OR 1 Light Cruiser, and up to 2 additional ships. Obtain an A-rank (or higher) in Exercises 4 times within the same day."
   },
   "343": {
     "code": "C46",
@@ -1662,9 +1662,9 @@
   "348": {
     "code": "Cy3",
     "name_jp": "「精鋭軽巡」演習！",
-    "name": "",
+    "name": "Elite Light Cruiser Exercise",
     "desc_jp": "旗艦に軽巡級(雷巡を除く)、旗艦含む3隻以上の軽巡級と随伴駆逐艦2隻を配備した軽巡演習艦隊を<br>編成、同艦隊により本日中に演習で【A判定】以上の勝利を4回以上達成せよ！",
-    "desc": ""
+    "desc": "Organize a fleet with a CL/CT as flagship, 2 CL/CT/CLT, 2 DD, 1 XX and score four A+ ranks in PVP on the same day."
   },
   "350": {
     "code": "Cy4",

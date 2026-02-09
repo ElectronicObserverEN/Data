@@ -3077,7 +3077,7 @@
     "removed_update_id": null,
     "season_id": null,
     "tracker": "",
-    "progressResetType": null
+    "progressResetType": 1
   },
   {
     "id": 227,
@@ -3175,7 +3175,7 @@
     "removed_update_id": null,
     "season_id": null,
     "tracker": "",
-    "progressResetType": null
+    "progressResetType": 1
   },
   {
     "id": 234,
@@ -3203,7 +3203,7 @@
     "removed_update_id": null,
     "season_id": null,
     "tracker": "",
-    "progressResetType": null
+    "progressResetType": 1
   },
   {
     "id": 236,
@@ -3245,7 +3245,7 @@
     "removed_update_id": null,
     "season_id": null,
     "tracker": "",
-    "progressResetType": null
+    "progressResetType": 1
   },
   {
     "id": 239,
@@ -3329,7 +3329,7 @@
     "removed_update_id": null,
     "season_id": null,
     "tracker": "[[348],[[9,[5,4]]],[0,[[2,[[3,21],1,true,0]],[2,[[3,21,4],3,false,0]],[2,[[2],2,false,0]]]]]",
-    "progressResetType": null
+    "progressResetType": 1
   },
   {
     "id": 245,
