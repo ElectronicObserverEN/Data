@@ -14785,5 +14785,14 @@
     "ShipClassId": 1498,
     "ShipClassApiId": 38,
     "IsFriendly": true
+  },
+  {
+    "Id": 1839,
+    "NameEN": "Hiryuu Kai San",
+    "NameJP": "飛龍改三",
+    "ApiId": 1031,
+    "ShipClassId": 1490,
+    "ShipClassApiId": 25,
+    "IsFriendly": true
   }
 ]
