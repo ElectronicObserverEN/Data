@@ -4419,5 +4419,17 @@
     "api_id": 569,
     "name_jp": "三式爆雷投射機改",
     "name_en": "Type 3 Depth Charge Projector Kai"
+  },
+  {
+    "id": 2565,
+    "api_id": 548,
+    "name_jp": "震電改三(試製 噴式震電)",
+    "name_en": "Shinden Kai 3 (Prototype Jet Shinden)"
+  },
+  {
+    "id": 2566,
+    "api_id": 570,
+    "name_jp": "流星改(友永隊)",
+    "name_en": "Ryuusei Kai (Tomonaga Squadron)"
   }
 ]
