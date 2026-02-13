@@ -11870,5 +11870,33 @@
     "season_id": null,
     "tracker": "[[1161],[[4,[2,9]],[4,[3,7]],[4,[6,9]],[4,[7,9]],[4,[8,9]],[6,[15,8]],[6,[17,8]]],[0,[[5,[196,1,1]]]]]",
     "progressResetType": null
+  },
+  {
+    "id": 864,
+    "api_id": 349,
+    "code": "2602 Cw1",
+    "name_jp": "バレンタイン2026限定任務【スイーツ演習】",
+    "name_en": "Valentine's 2026 Special Limited Mission [Sweets Exercise]",
+    "desc_jp": "「Thonburi」「Helena」「Mogador」「Gotland」「Perth」「Commandant Teste」「曙」「朧」<br>「野埼」のうち、旗艦と他にもう2隻以上を含む第一艦隊で、演習で本日中に【S判定】勝利5回達成せよ！",
+    "desc_en": "Organize a fleet with 3 of Thonburi, Helena, Mogador, Gotland, Perth, Commandant Teste, Akebono, Oboro and Nosaki in your fleet with one of them as flagship and score S rank 5 times in PvP",
+    "added_update_id": 86,
+    "removed_update_id": null,
+    "season_id": 40,
+    "tracker": "[[349],[[9,[6,5]]],[0,[[8,[[[973,false,0,0],[615,false,0,0],[962,false,0,0],[574,false,0,0],[613,false,0,0],[491,false,0,0],[15,false,0,0],[93,false,0,0],[996,false,0,0]],3]],[0,[1,[[5,[973,1,0]],[5,[615,1,0]],[5,[962,1,0]],[5,[574,1,0]],[5,[613,1,0]],[5,[491,1,0]],[5,[15,1,0]],[5,[93,1,0]],[5,[996,1,0]]]]]]]]",
+    "progressResetType": 1
+  },
+  {
+    "id": 865,
+    "api_id": 238,
+    "code": "2602 B1",
+    "name_jp": "バレンタイン2026特別限定任務【拡張作戦】",
+    "name_en": "Valentine's 2026 Special Limited Mission [Extra Operation]",
+    "desc_jp": "「伊41」「Luigi Torelli」「平安丸」「迅鯨改」「大淀改」「古鷹改二」「衣笠改二」のうち、旗艦と<br>他にもう2隻以上を含む第一艦隊で、バシー海峡、北方モーレイ海、ジャワ島沖最深部を反復制圧せよ！",
+    "desc_en": "Organize a fleet with 3 of I-41, Luigi Torelli, Heian Maru, Jingei Kai, Ooyodo Kai, Furutaka Kai Ni and Kinugasa Kai Ni in your fleet with one of them as flagship and score an S rank at the boss nodes on 2-2, 3-1 and 7-5 (Part 3) twice each",
+    "added_update_id": 86,
+    "removed_update_id": null,
+    "season_id": 40,
+    "tracker": "[[238],[[0,[[1,1],6,2]],[0,[[1,1],6,2]],[2,[[7,5],6,2,[24,25],\"-3\"]]],[0,[[8,[[[972,false,0,0],[535,false,0,0],[944,false,0,0],[639,false,1,0],[321,false,1,0],[416,false,1,0],[142,false,1,0]],3]],[0,[1,[[5,[972,1,0]],[5,[535,1,0]],[5,[944,1,0]],[5,[639,1,1]],[5,[321,1,1]],[5,[416,1,1]],[5,[142,1,1]]]]]]]]",
+    "progressResetType": null
   }
 ]

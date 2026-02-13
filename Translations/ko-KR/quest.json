@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030684",
+  "version": "21030685",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -931,6 +931,13 @@
     "desc_jp": "第五戦隊任務：「羽黒」「神風」を基幹として、他に重巡級1隻駆逐艦2隻、または駆逐艦4隻の<br>艦隊で南西諸島近海、バシー海峡、東部オリョール海に出撃、敵艦隊と交戦、これを撃滅せよ！",
     "desc": "제5전대 임무 : 하구로와 카미카제를 기간으로, 그 외 중순급 1척 구축함 2척, 또는 구축함 4척의 함대로 남서제도 근해, 바시 해협, 동부 오룔해에 출격, 적 함대와 교전, 이를 격멸하라!"
   },
+  "238": {
+    "code": "2602 B1",
+    "name_jp": "バレンタイン2026特別限定任務【拡張作戦】",
+    "name": "Valentine's 2026 Special Limited Mission [Extra Operation]",
+    "desc_jp": "「伊41」「Luigi Torelli」「平安丸」「迅鯨改」「大淀改」「古鷹改二」「衣笠改二」のうち、旗艦と<br>他にもう2隻以上を含む第一艦隊で、バシー海峡、北方モーレイ海、ジャワ島沖最深部を反復制圧せよ！",
+    "desc": "Organize a fleet with 3 of I-41, Luigi Torelli, Heian Maru, Jingei Kai, Ooyodo Kai, Furutaka Kai Ni and Kinugasa Kai Ni in your fleet with one of them as flagship and score an S rank at the boss nodes on 2-2, 3-1 and 7-5 (Part 3) twice each"
+  },
   "239": {
     "code": "B20",
     "name_jp": "「第八駆逐隊」出撃せよ！",
@@ -1665,6 +1672,13 @@
     "name": "「정예 경순」 연습!",
     "desc_jp": "旗艦に軽巡級(雷巡を除く)、旗艦含む3隻以上の軽巡級と随伴駆逐艦2隻を配備した軽巡演習艦隊を<br>編成、同艦隊により本日中に演習で【A判定】以上の勝利を4回以上達成せよ！",
     "desc": "기함에 경순양함급(뇌장순양함 제외), 기함 포함 3척 이상의 경순양함급과 수반 구축함 2척을 배치한 경순 연습 함대를 편성, 동 함대에 의해 오늘 중에 연습에서 【A판정】 이상의 승리를 4회 이상 달성하라!"
+  },
+  "349": {
+    "code": "2602 Cw1",
+    "name_jp": "バレンタイン2026限定任務【スイーツ演習】",
+    "name": "Valentine's 2026 Special Limited Mission [Sweets Exercise]",
+    "desc_jp": "「Thonburi」「Helena」「Mogador」「Gotland」「Perth」「Commandant Teste」「曙」「朧」<br>「野埼」のうち、旗艦と他にもう2隻以上を含む第一艦隊で、演習で本日中に【S判定】勝利5回達成せよ！",
+    "desc": "Organize a fleet with 3 of Thonburi, Helena, Mogador, Gotland, Perth, Commandant Teste, Akebono, Oboro and Nosaki in your fleet with one of them as flagship and score S rank 5 times in PvP"
   },
   "350": {
     "code": "Cy4",
