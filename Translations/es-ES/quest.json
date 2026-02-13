@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030654",
+  "version": "21030655",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1533,13 +1533,6 @@
     "desc_jp": "駆逐隊演習任務：精強「第十七駆逐隊」4隻を含む艦隊を編成。新改装精強駆逐隊による<br>猛特訓を開始する！同艦隊で、本日中に演習で4回以上勝利せよ！",
     "desc": "Use a fleet with Isokaze B Kai, Hamakaze B Kai, Urakaze D Kai, Tanikaze D Kai, and up to 2 additional ships to obtain a B-rank (or higher) in Exercises 4 times within the same day."
   },
-  "329": {
-    "code": "2601 Cd1",
-    "name_jp": "【節分任務:枡】節分演習！二〇二六",
-    "name": "[Setsubun: Masu] Setsubun exercise! 2026",
-    "desc_jp": "節分任務：旗艦潜水母艦他に潜水艦3隻以上、または旗艦海防艦他に海防艦2隻以上、または<br>旗艦輸送艦他に駆逐艦5隻が配備された節分特別演習艦隊で、本日中に演習3回以上勝利せよ！",
-    "desc": "Organize a fleet with either (AS as flagship and 3 SS(V)) or (DE as flagship and 2 other DE) or (AO and 5 DD) in your fleet and score B rank 3 times in PvP"
-  },
   "330": {
     "code": "Cq1",
     "name_jp": "空母機動部隊、演習始め！",
@@ -2085,13 +2078,6 @@
     "name": "Military Buildup Expedition Mission: \"Extra Operation\"",
     "desc_jp": "兵站強化拡張任務：「ブルネイ泊地沖哨戒」「海上護衛任務」「水上機前線輸送」<br>及び「強行鼠輸送作戦」「南西海域戦闘哨戒」各遠征を実施、これを成功させよ！",
     "desc": "Complete Expeditions 5, 40, 41, 46 and E2 once each."
-  },
-  "441": {
-    "code": "2601 D1",
-    "name_jp": "【節分任務:恵方】令和八年節分遠征",
-    "name": "[Setsubun Quest: Ehou] Reiwa 8th Year Setsubun Expedition",
-    "desc_jp": "節分遠征任務：「海上護衛任務」「長時間対潜警戒」「タンカー護衛任務」及び<br>「兵站強化任務」「遠洋潜水艦作戦」の各遠征を実施、これらを成功させよ！",
-    "desc": "Complete expeditions 05, A3, 09, A1 and 39"
   },
   "442": {
     "code": "Dy7",
@@ -3227,33 +3213,12 @@
     "desc_jp": "戦艦2隻を中核戦力とする戦艦旗艦の艦隊を北方海域アルフォンシーノ方面に進出させ、<br>同海域の敵艦隊を撃滅、北方海域の制海権確保に努めよ！",
     "desc": "Sortie two BB (one as flagship) and four wildcard and score an S-rank victory against World 3-3 Boss."
   },
-  "840": {
-    "code": "2601 Bw1",
-    "name_jp": "【節分任務:豆】節分作戦二〇二六",
-    "name": "[Setsubun: Mame] Setsubun operation 2026",
-    "desc_jp": "節分任務：旗艦及び二番艦に「鳳翔」「朝日」「明石」「大淀」「迅鯨」「長鯨」または七駆を<br>配備、鎮守府海域南西諸島沖、製油所地帯沿岸、南西諸島防衛線の節分反復哨戒を実施せよ！",
-    "desc": "Organize a fleet with any 2 of Houshou, Asahi, Akashi, Ooyodo, Jingei, Chougei, Oboro, Akebono, Sazanami and Ushio as flagship and second ship and score an A rank at the boss nodes on 1-2, 1-3 and 1-4 twice each"
-  },
-  "841": {
-    "code": "2601 Bw2",
-    "name_jp": "【節分任務:鬼】南西方面節分作戦二〇二六",
-    "name": "[Setsubun Quest: Oni] Southwestern Setsubun Operation 2026",
-    "desc_jp": "節分任務：旗艦及び二番艦に「Jean Bart」「Minneapolis」「Gloire」「Ranger」「Johnston」<br>「神鷹」「夕張」「風雲」「早霜」を配備！南西諸島近海、バシー海峡、東部オリョール海を反復哨戒！",
-    "desc": "Organize a fleet with two of Jean Bart, Minneapolis, Gloire, Ranger, Johnston, Shinyou, Yuubari, Kazagumo and Hayashimo as flagship and second ship in your fleet and score an A rank at the boss nodes on 2-1, 2-2 and 2-3 twice each"
-  },
   "842": {
     "code": "B89",
     "name_jp": "主力戦艦戦隊、抜錨せよ！",
     "name": "Battleship Squadron, Set Sail!",
     "desc_jp": "戦艦または航空戦艦2隻以上からなる強力な戦艦戦隊を中核とした艦隊を沖ノ島海域前面に展開、<br>侵攻する敵艦隊を捕捉、これを撃滅せよ！",
     "desc": "Sortie two (non-fast) BB/BBV and four wildcard and score an S-rank victory against World 2-4 Boss."
-  },
-  "843": {
-    "code": "2601 Bw3",
-    "name_jp": "【節分任務:柊】節分拡張作戦二〇二六、重巡出撃！",
-    "name": "[Setsubun: Hiiragi] Setsubun Extra Operation 2026, Heavy Cruisers Sortie!",
-    "desc_jp": "節分拡張作戦：重巡洋艦を旗艦及び随伴艦に配備、その他に軽空母級1隻を含む精強重巡艦隊で<br>ジャム島沖、カレー洋海域、リランカ島、ジャワ島沖最深部に節分展開！敵主力を撃滅せよ！",
-    "desc": "Organize a fleet with a CA as flagship,  another CA and a CVL/Shimane Maru/Yamashio Maru/Akitsu Maru/Kumano Maru in your fleet and score an S rank at the boss nodes on 4-1, 4-2, 4-3 and 7-5 (Part 3)"
   },
   "844": {
     "code": "B90",
@@ -3499,13 +3464,6 @@
     "name": "18th Destroyer Division, to Kis Island in the Northern Sea!",
     "desc_jp": "精鋭「第十八駆逐隊」を投入し、北方海域キス島撤退作戦を実施する！<br>同作戦に反復出動し、キス島撤退作戦を完全成功させよ！",
     "desc": "Sortie Arare Kai Ni, Kasumi Kai Ni/B, Kagerou Kai, and Shiranui Kai to [W3-2] and S-rank the boss node twice(?)."
-  },
-  "882": {
-    "code": "2601 B5",
-    "name_jp": "【節分任務:最終拡張作戦】節分二〇二六 戦果拡大！",
-    "name": "[Setsubun Quest: Final Expansion Operation] Setsubun 2026: Expanding Our Battle Results!",
-    "desc_jp": "「阿賀野」「酒匂」「瑞穂」「如月」「深雪」「浦波」「天霧」「狭霧」「峯雲」「清霜」「朝霜」を旗艦と<br>他2隻以上を含む艦隊で鎮守府近海、北方キス島沖、サブ島沖海域、MS諸島沖の敵を反復撃滅せよ！",
-    "desc": "Organize a fleet with three of Agano, Sakawa, Mizuho, Kisaragi, Miyuki, Uranami, Amagiri, Sagiri, Minegumo, Kiyoshimo and Asashimo with one as flagship in your fleet and score an S rank at the boss nodes on 1-5, 3-2, 5-3 and 6-2 twice each"
   },
   "884": {
     "code": "B117",
