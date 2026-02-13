@@ -220,5 +220,11 @@
     "name": "Setsubun 2026",
     "added_update_id": 85,
     "removed_update_id": 86
+  },
+  {
+    "id": 40,
+    "name": "Valentine 2026",
+    "added_update_id": 86,
+    "removed_update_id": null
   }
 ]

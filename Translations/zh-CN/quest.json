@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030659",
+  "version": "21030660",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -902,6 +902,13 @@
     "name": "Sortie the 6th Cruiser Division",
     "desc_jp": "編成した「第六戦隊」をもって出撃し、オリョール海の敵を撃滅「完全勝利」せよ！",
     "desc": "Sortie a fleet with Furutaka (古鷹), Kako (加古), Kinugasa (衣笠), Aoba (青葉) and 2 additional ships. Score an S rank victory against World 2-3 Boss."
+  },
+  "234": {
+    "code": "2602 Bw1",
+    "name_jp": "バレンタイン2026特別限定任務",
+    "name": "Valentine's 2026 Special Limited Mission",
+    "desc_jp": "「大井」「球磨」「鹿島」「神威」「大泊」「神風」「高波」「涼波」「藤波」「早波」「浜波」のうち、<br>旗艦と他にもう2隻以上を含む第一艦隊で、製油所地帯沿岸、南西諸島防衛線、南西諸島近海を制圧せよ！",
+    "desc": "Organize a fleet with 3 of Ooi, Kuma, Kashima, Kamoi, Ootomari, Kamikaze, Takanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet with one of them as flagship and score an S rank at the boss nodes on 1-3, 1-4 and 2-1"
   },
   "235": {
     "code": "B135",
@@ -4563,5 +4570,12 @@
     "name": "[Arsenal Quest] Modification of the Prototype Shinden to the Carrier-based Fighter Model Kai Ni",
     "desc_jp": "第一旗艦に「飛龍」改二以降、32駆改二及び「風雲改二」から計3隻以上を随伴配備。零式艦戦<br>52型及び紫電改二を各x5廃棄。新型航空兵装資材x2、試製 震電(局地戦闘機)★maxを用意せよ！",
     "desc": "Have Hiryuu Kai Ni/San as your secretary flagship and three of Fujinami Kai Ni, Hayanami Kai Ni, Hamanami Kai Ni and Kazagumo Kai Ni in your fleet and then proceed to scrap 5x Type 0 Fighter Model 52 and 5x Shiden Kai Ni and have 2x Aviation Material, 1x Prototype Shinden (LB Fighter) ★max (All resources and Materials will be consumed upon completion)"
+  },
+  "1161": {
+    "code": "F140",
+    "name_jp": "【工廠任務】新装備運用のための工廠整備【壱】",
+    "name": "【工廠任務】新装備運用のための工廠整備【壱】",
+    "desc_jp": "第一旗艦に「飛龍改二/改三」を配備。不要な「艦戦」「艦爆」「艦攻」を各9装備ずつ廃棄。<br>爆雷兵装x8、機銃兵装x8、中口径主砲x9、大口径主砲x7を廃棄！弾薬x8,800を用意せよ！",
+    "desc": "Have Hiryuu Kai Ni/Kai San as your secretary flagship and then proceed to scrap 9x Carrier fighters, 9x Carrier dive bombers, 9x Carrier torpedo bombers, 8x Depth charge, 8x Machine gun, 9x Medium-caliber main gun, 7x Large-caliber main gun and have 8800x ammo (All resources and Materials will be consumed upon completion)"
   }
 }
