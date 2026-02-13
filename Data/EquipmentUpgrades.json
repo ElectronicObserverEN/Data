@@ -2022,6 +2022,7 @@
     "upgrade_for": [
       18,
       93,
+      94,
       109,
       242,
       243,
@@ -9129,6 +9130,59 @@
         "lvl_after": 0
       }
     ],
+    "upgrade_for": []
+  },
+  {
+    "eq_id": 94,
+    "improvement": [
+      {
+        "convert": null,
+        "helpers": [
+          {
+            "ship_ids": [
+              196
+            ],
+            "days": [
+              5,
+              6
+            ]
+          }
+        ],
+        "costs": {
+          "fuel": 350,
+          "ammo": 440,
+          "steel": 0,
+          "baux": 490,
+          "p1": {
+            "devmats": 8,
+            "devmats_sli": 9,
+            "screws": 6,
+            "screws_sli": 7,
+            "equips": [
+              {
+                "id": 17,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
+          },
+          "p2": {
+            "devmats": 10,
+            "devmats_sli": 15,
+            "screws": 7,
+            "screws_sli": 9,
+            "equips": [
+              {
+                "id": 372,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
+          }
+        }
+      }
+    ],
+    "convert_to": [],
     "upgrade_for": []
   },
   {
@@ -25134,6 +25188,7 @@
     ],
     "convert_to": [],
     "upgrade_for": [
+      94,
       180,
       344
     ]
