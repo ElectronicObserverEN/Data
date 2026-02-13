@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030660",
+  "version": "21030661",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4574,7 +4574,7 @@
   "1161": {
     "code": "F140",
     "name_jp": "【工廠任務】新装備運用のための工廠整備【壱】",
-    "name": "【工廠任務】新装備運用のための工廠整備【壱】",
+    "name": "[Arsenal Quest] Arsenal Preparations for New Equipment Operation [1]",
     "desc_jp": "第一旗艦に「飛龍改二/改三」を配備。不要な「艦戦」「艦爆」「艦攻」を各9装備ずつ廃棄。<br>爆雷兵装x8、機銃兵装x8、中口径主砲x9、大口径主砲x7を廃棄！弾薬x8,800を用意せよ！",
     "desc": "Have Hiryuu Kai Ni/Kai San as your secretary flagship and then proceed to scrap 9x Carrier fighters, 9x Carrier dive bombers, 9x Carrier torpedo bombers, 8x Depth charge, 8x Machine gun, 9x Medium-caliber main gun, 7x Large-caliber main gun and have 8800x ammo (All resources and Materials will be consumed upon completion)"
   }
