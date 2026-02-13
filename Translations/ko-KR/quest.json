@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030685",
+  "version": "21030686",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -908,7 +908,7 @@
     "name_jp": "バレンタイン2026特別限定任務",
     "name": "Valentine's 2026 Special Limited Mission",
     "desc_jp": "「大井」「球磨」「鹿島」「神威」「大泊」「神風」「高波」「涼波」「藤波」「早波」「浜波」のうち、<br>旗艦と他にもう2隻以上を含む第一艦隊で、製油所地帯沿岸、南西諸島防衛線、南西諸島近海を制圧せよ！",
-    "desc": "Organize a fleet with 3 of Ooi, Kuma, Kashima, Kamoi, Ootomari, Kamikaze, Takanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet with one of them as flagship and score an S rank at the boss nodes on 1-3, 1-4 and 2-1"
+    "desc": "Organize a fleet with 3 of Ooi, Kuma, Kashima, Kamoi, Ootomari, Kamikaze, Takanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet with one of them as flagship and score an A rank at the boss nodes on 1-3, 1-4 and 2-1"
   },
   "235": {
     "code": "B135",
@@ -936,7 +936,7 @@
     "name_jp": "バレンタイン2026特別限定任務【拡張作戦】",
     "name": "Valentine's 2026 Special Limited Mission [Extra Operation]",
     "desc_jp": "「伊41」「Luigi Torelli」「平安丸」「迅鯨改」「大淀改」「古鷹改二」「衣笠改二」のうち、旗艦と<br>他にもう2隻以上を含む第一艦隊で、バシー海峡、北方モーレイ海、ジャワ島沖最深部を反復制圧せよ！",
-    "desc": "Organize a fleet with 3 of I-41, Luigi Torelli, Heian Maru, Jingei Kai, Ooyodo Kai, Furutaka Kai Ni and Kinugasa Kai Ni in your fleet with one of them as flagship and score an S rank at the boss nodes on 2-2, 3-1 and 7-5 (Part 3) twice each"
+    "desc": "Organize a fleet with 3 of I-41, Luigi Torelli, Heian Maru, Jingei Kai, Ooyodo Kai, Furutaka Kai Ni and Kinugasa Kai Ni in your fleet with one of them as flagship and score an A rank at the boss nodes on 2-2, 3-1 and 7-5 (Part 3) twice each"
   },
   "239": {
     "code": "B20",
