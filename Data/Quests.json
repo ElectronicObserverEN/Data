@@ -11906,7 +11906,7 @@
     "name_jp": "【工廠任務】新装備運用のための工廠整備【弐】",
     "name_en": "[Arsenal Quest] Arsenal Preparations for New Equipment Operation [2]",
     "desc_jp": "「零式艦戦52型」x6、「紫電一一型」x4、「12.7cm連装高角砲」x8、「46cm三連装砲」x2を廃棄。<br>新型兵装資材x2、さらにボーキサイト及び鉄鋼を各8,800を用意、必要な資材/機材を生産せよ！",
-    "desc_en": "「零式艦戦52型」x6、「紫電一一型」x4、「12.7cm連装高角砲」x8、「46cm三連装砲」x2を廃棄。<br>新型兵装資材x2、さらにボーキサイト及び鉄鋼を各8,800を用意、必要な資材/機材を生産せよ！",
+    "desc_en": "Proceed to scrap 6x Type 0 Fighter Model 52, 4x Shiden Model 11, 8x 12.7cm Twin High-angle Gun Mount and 2x 46cm Triple Gun Mount and have 2x New Model Armament Materials, 8800x steel and 8800x bauxite (All resources and Materials will be consumed upon completion)",
     "added_update_id": 86,
     "removed_update_id": null,
     "season_id": null,
