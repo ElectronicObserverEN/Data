@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030686",
+  "version": "21030687",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4277,6 +4277,13 @@
     "desc_jp": "「早波改二」旗艦、他に第三十二駆逐隊2隻以上を含む艦隊で、バシー海峡、沖ノ島海域、沖ノ島沖、<br>ブルネイ泊地沖、タウイタウイ泊地沖(深部)に展開！出没する敵艦隊を捕捉、これを痛打撃滅せよ！",
     "desc": "「하야나미 改2」 기함, 그 외에 제32구축대 구축함 2척 이상을 포함한 함대로, 바시해협, 오키노시마 해역, 오키노시마 앞바다, 브루나이 정박지 앞바다, 타위타위 정박지 앞바다(심부)에 전개! 출몰하는 적 함대를 포착, 이를 통타 격멸하라!"
   },
+  "1042": {
+    "code": "B214",
+    "name_jp": "最新鋭改装空母「飛龍改三」、疾風怒涛！",
+    "name": "The Latest Remodelled Aircraft Carrier \"Hiryuu Kai San\" is Raging!",
+    "desc_jp": "「飛龍改三」旗艦、他に「風雲」または第三十二駆逐隊計2隻以上を含む機動部隊で出撃！疾風怒涛で<br>沖ノ島沖、北方AL海域、カレー洋リランカ島沖、サーモン海域北方、中部北海域ピーコック島沖の敵を討て！",
+    "desc": "Organize a fleet with Hiryuu Kai San as flagship and any 2 of Kazagumo, Tamanami, Suzunami, Fujinami and Hamanami in your fleet and score an S rank at the boss nodes on 2-5, 3-5, 4-5, 5-5 and 6-4"
+  },
   "1101": {
     "code": "F96",
     "name_jp": "海軍工廠の再整備",
@@ -4586,10 +4593,17 @@
     "desc": "제1기함에 「히류」 改2 이후, 32구축 改2 및 「카자구모 改2」 중에서 계 3척 이상을 수반 배비. 영식함전 52형 및 시덴 改2를 각×5 폐기. 신형병장자재×2, 시제 신덴 (국지전투기)★max를 준비하라!"
   },
   "1161": {
-    "code": "F140",
+    "code": "F139",
     "name_jp": "【工廠任務】新装備運用のための工廠整備【壱】",
     "name": "[Arsenal Quest] Arsenal Preparations for New Equipment Operation [1]",
     "desc_jp": "第一旗艦に「飛龍改二/改三」を配備。不要な「艦戦」「艦爆」「艦攻」を各9装備ずつ廃棄。<br>爆雷兵装x8、機銃兵装x8、中口径主砲x9、大口径主砲x7を廃棄！弾薬x8,800を用意せよ！",
     "desc": "Have Hiryuu Kai Ni/Kai San as your secretary flagship and then proceed to scrap 9x Carrier fighters, 9x Carrier dive bombers, 9x Carrier torpedo bombers, 8x Depth charge, 8x Machine gun, 9x Medium-caliber main gun, 7x Large-caliber main gun and have 8800x ammo (All resources and Materials will be consumed upon completion)"
+  },
+  "1162": {
+    "code": "F140",
+    "name_jp": "【工廠任務】新装備運用のための工廠整備【弐】",
+    "name": "[Arsenal Quest] Arsenal Preparations for New Equipment Operation [2]",
+    "desc_jp": "「零式艦戦52型」x6、「紫電一一型」x4、「12.7cm連装高角砲」x8、「46cm三連装砲」x2を廃棄。<br>新型兵装資材x2、さらにボーキサイト及び鉄鋼を各8,800を用意、必要な資材/機材を生産せよ！",
+    "desc": "「零式艦戦52型」x6、「紫電一一型」x4、「12.7cm連装高角砲」x8、「46cm三連装砲」x2を廃棄。<br>新型兵装資材x2、さらにボーキサイト及び鉄鋼を各8,800を用意、必要な資材/機材を生産せよ！"
   }
 }

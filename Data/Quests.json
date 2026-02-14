@@ -11860,7 +11860,7 @@
   {
     "id": 863,
     "api_id": 1161,
-    "code": "F140",
+    "code": "F139",
     "name_jp": "【工廠任務】新装備運用のための工廠整備【壱】",
     "name_en": "[Arsenal Quest] Arsenal Preparations for New Equipment Operation [1]",
     "desc_jp": "第一旗艦に「飛龍改二/改三」を配備。不要な「艦戦」「艦爆」「艦攻」を各9装備ずつ廃棄。<br>爆雷兵装x8、機銃兵装x8、中口径主砲x9、大口径主砲x7を廃棄！弾薬x8,800を用意せよ！",
@@ -11897,6 +11897,34 @@
     "removed_update_id": null,
     "season_id": 40,
     "tracker": "[[238],[[0,[[2,2],5,2]],[0,[[3,1],5,2]],[2,[[7,5],5,2,[24,25],\"-3\"]]],[0,[[8,[[[972,false,0,0],[535,false,0,0],[944,false,0,0],[639,false,1,0],[321,false,1,0],[416,false,1,0],[142,false,1,0]],3]],[0,[1,[[5,[972,1,0]],[5,[535,1,0]],[5,[944,1,0]],[5,[639,1,1]],[5,[321,1,1]],[5,[416,1,1]],[5,[142,1,1]]]]]]]]",
+    "progressResetType": null
+  },
+  {
+    "id": 866,
+    "api_id": 1162,
+    "code": "F140",
+    "name_jp": "【工廠任務】新装備運用のための工廠整備【弐】",
+    "name_en": "[Arsenal Quest] Arsenal Preparations for New Equipment Operation [2]",
+    "desc_jp": "「零式艦戦52型」x6、「紫電一一型」x4、「12.7cm連装高角砲」x8、「46cm三連装砲」x2を廃棄。<br>新型兵装資材x2、さらにボーキサイト及び鉄鋼を各8,800を用意、必要な資材/機材を生産せよ！",
+    "desc_en": "「零式艦戦52型」x6、「紫電一一型」x4、「12.7cm連装高角砲」x8、「46cm三連装砲」x2を廃棄。<br>新型兵装資材x2、さらにボーキサイト及び鉄鋼を各8,800を用意、必要な資材/機材を生産せよ！",
+    "added_update_id": 86,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1162],[[3,[9,2]],[3,[10,8]],[3,[21,6]],[3,[201,4]]],[0,[]]]",
+    "progressResetType": null
+  },
+  {
+    "id": 867,
+    "api_id": 1042,
+    "code": "B214",
+    "name_jp": "最新鋭改装空母「飛龍改三」、疾風怒涛！",
+    "name_en": "The Latest Remodelled Aircraft Carrier \"Hiryuu Kai San\" is Raging!",
+    "desc_jp": "「飛龍改三」旗艦、他に「風雲」または第三十二駆逐隊計2隻以上を含む機動部隊で出撃！疾風怒涛で<br>沖ノ島沖、北方AL海域、カレー洋リランカ島沖、サーモン海域北方、中部北海域ピーコック島沖の敵を討て！",
+    "desc_en": "Organize a fleet with Hiryuu Kai San as flagship and any 2 of Kazagumo, Tamanami, Suzunami, Fujinami and Hamanami in your fleet and score an S rank at the boss nodes on 2-5, 3-5, 4-5, 5-5 and 6-4",
+    "added_update_id": 86,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1042],[[0,[[2,5],6,1]],[0,[[3,5],6,1]],[0,[[4,5],6,1]],[0,[[5,5],6,1]],[0,[[6,4],6,1]]],[0,[[7,[1031,true,1,0]],[8,[[[453,false,0,0],[674,false,0,0],[675,false,0,0],[485,false,0,0],[484,false,0,0]],2]]]]]",
     "progressResetType": null
   }
 ]
