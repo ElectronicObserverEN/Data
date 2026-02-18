@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030667",
+  "version": "21030668",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4605,5 +4605,12 @@
     "name": "[Arsenal Quest] Arsenal Preparations for New Equipment Operation [2]",
     "desc_jp": "「零式艦戦52型」x6、「紫電一一型」x4、「12.7cm連装高角砲」x8、「46cm三連装砲」x2を廃棄。<br>新型兵装資材x2、さらにボーキサイト及び鉄鋼を各8,800を用意、必要な資材/機材を生産せよ！",
     "desc": "Proceed to scrap 6x Type 0 Fighter Model 52, 4x Shiden Model 11, 8x 12.7cm Twin High-angle Gun Mount and 2x 46cm Triple Gun Mount and have 2x New Model Armament Materials, 8800x steel and 8800x bauxite (All resources and Materials will be consumed upon completion)"
+  },
+  "1163": {
+    "code": "F141",
+    "name_jp": "【工廠任務】震電の噴式推進化",
+    "name": "[Arsenal Quest] Shinden with Jet Propulsion",
+    "desc_jp": "旗艦「飛龍改三」第一装備スロットに「震電改二(艦戦型改二)」(★max)を搭載。新型航空兵装<br>資材x3、新型兵装資材x4、開発資材x160、熟練搭乗員x1、ネ式エンジンx1準備せよ！",
+    "desc": "Have your secretary flagship Hiryuu Kai San equip a ★max Shinden Kai 2 (Carrier-based Fighter Model Kai 2) in the first slot and have 1x Ne Type Engine, 1x Skilled Crew Member, 3x New Model Aerial Armament Materials, 4x New Model Armament Material and 160x Development Materials (All resources and Materials will be consumed upon completion)"
   }
 }

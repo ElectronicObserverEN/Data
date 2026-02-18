@@ -11926,5 +11926,19 @@
     "season_id": null,
     "tracker": "[[1042],[[0,[[2,5],6,1]],[0,[[3,5],6,1]],[0,[[4,5],6,1]],[0,[[5,5],6,1]],[0,[[6,4],6,1]]],[0,[[7,[1031,true,1,0]],[8,[[[453,false,0,0],[674,false,0,0],[675,false,0,0],[485,false,0,0],[484,false,0,0],[528,false,0,0]],2]]]]]",
     "progressResetType": null
+  },
+  {
+    "id": 868,
+    "api_id": 1163,
+    "code": "F141",
+    "name_jp": "【工廠任務】震電の噴式推進化",
+    "name_en": "[Arsenal Quest] Shinden with Jet Propulsion",
+    "desc_jp": "旗艦「飛龍改三」第一装備スロットに「震電改二(艦戦型改二)」(★max)を搭載。新型航空兵装<br>資材x3、新型兵装資材x4、開発資材x160、熟練搭乗員x1、ネ式エンジンx1準備せよ！",
+    "desc_en": "Have your secretary flagship Hiryuu Kai San equip a ★max Shinden Kai 2 (Carrier-based Fighter Model Kai 2) in the first slot and have 1x Ne Type Engine, 1x Skilled Crew Member, 3x New Model Aerial Armament Materials, 4x New Model Armament Material and 160x Development Materials (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 86,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "",
+    "progressResetType": null
   }
 ]
