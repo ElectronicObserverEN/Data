@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030665",
+  "version": "21030666",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1683,9 +1683,9 @@
   "350": {
     "code": "Cy4",
     "name_jp": "精鋭「第七駆逐隊」演習開始！",
-    "name": "Elite \"7th Destroyer Division\", Commence Exercises!",
+    "name": "",
     "desc_jp": "七駆演習任務：第七駆逐隊「朧」「曙」「漣」「潮」の4隻を含む演習艦隊を編成、<br>本日中に【A判定】勝利3回以上達成せよ。精鋭第七駆逐隊、演習開始！",
-    "desc": "Organize a fleet consisting of Oboro, Akebono, Sazanami, Ushio, and 2 XX and score three A ranks in PVP."
+    "desc": ""
   },
   "351": {
     "code": "C56",

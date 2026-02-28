@@ -3357,7 +3357,7 @@
     "removed_update_id": null,
     "season_id": null,
     "tracker": "[[350],[[9,[5,3]]],[0,[[1,[93,false,0]],[1,[15,false,0]],[1,[94,false,0]],[1,[16,false,0]]]]]",
-    "progressResetType": null
+    "progressResetType": 1
   },
   {
     "id": 247,
