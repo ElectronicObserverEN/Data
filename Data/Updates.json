@@ -812,5 +812,16 @@
     "live_update": false,
     "maint_start_tweet": "https://fxtwitter.com/KanColle_STAFF/status/2020447149566156952",
     "maint_end_tweet": "https://fxtwitter.com/KanColle_STAFF/status/2022265710567956938"
+  },
+  {
+    "id": 87,
+    "start_date": "2026-03-02T00:00:00",
+    "start_time": "14:00:00",
+    "end_time": "18:00:00",
+    "name": "Hinamatsuri 2026",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://x.com/KanColle_STAFF/status/2027724112790241453",
+    "maint_end_tweet": ""
   }
 ]
