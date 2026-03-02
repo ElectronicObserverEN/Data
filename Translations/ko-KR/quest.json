@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030698",
+  "version": "21030699",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -2961,6 +2961,13 @@
     "desc_jp": "桃の節句任務：鋼材303及びボーキサイト303を準備して、任意の駆逐艦の近代化改修を<br>[軽巡洋艦]x3隻同時使用により2回成功させよ！※準備した資源は消費します。",
     "desc": "Modernize a DD using 3 CL twice and prepare 303 steel and 303 bauxite"
   },
+  "708": {
+    "code": "2603 Gw2",
+    "name_jp": "【桃の節句任務】海防艦桃の節句改修",
+    "name": "Kaiboukan's Peach Festival Improvement",
+    "desc_jp": "桃の節句任務：鋼材3,030及びボーキサイト3,030を準備して、任意の海防艦の近代化改修を<br>[駆逐艦]x5隻同時使用により2回成功させよ！※準備した資源は消費します。",
+    "desc": "Modernize a DE using 5 DD twice and prepare 3030 steel and 3030 bauxite"
+  },
   "714": {
     "code": "Gy1",
     "name_jp": "「駆逐艦」の改修工事を実施せよ！",
@@ -3639,6 +3646,13 @@
     "name": "Spring Combat Patrol in the Nansei Islands 2026",
     "desc_jp": "【桃の節句作戦】精鋭駆逐艦または海防艦計4隻を含む艦隊で、南西諸島近海、バシー海峡、<br>東部オリョール海に反復出撃！各海域の敵艦隊を捕捉撃滅、制海権の確保を図れ！",
     "desc": "Organize a fleet with 4 DD/DE in your fleet and score an S rank at the boss nodes on 2-1, 2-2 and 2-3 twice each"
+  },
+  "908": {
+    "code": "908",
+    "name_jp": "【桃の節句】春の雛祭り艦隊決戦！2026",
+    "name": "Spring Hinamatsuri Fleet Battle! 2026",
+    "desc_jp": "【桃の節句作戦】「Minneapolis」「Samuel B.Roberts」「夕雲」「潮」を旗艦及び僚艦1隻以上含む精強な<br>桃の節句艦隊で、南西諸島海域沖ノ島海域、沖ノ島沖、タウイタウイ泊地沖深部に反復出撃、敵を撃滅せよ！",
+    "desc": "Organize a fleet with two of Minneapolis, Samuel B. Roberts, Yuugumo, Ushio in your fleet and score an S rank at the boss nodes on 2-4, 2-5 and 7-2 (Part 2) twice each"
   },
   "911": {
     "code": "B142 ",
