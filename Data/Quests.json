@@ -11940,5 +11940,33 @@
     "season_id": null,
     "tracker": "",
     "progressResetType": null
+  },
+  {
+    "id": 869,
+    "api_id": 340,
+    "code": "2603 Cw1",
+    "name_jp": "【桃の節句任務】桃の節句艦隊演習2026",
+    "name_en": "Peach Festival Fleet Exercise 2026",
+    "desc_jp": "桃の節句任務：海防艦3隻以上 or 駆逐艦4隻以上を含む桃の節句艦隊を編成、同艦隊を以て、<br>演習を実施！桃の節句演習艦隊で、本日中に演習において【S判定】勝利を3回以上達成せよ！",
+    "desc_en": "Organize a fleet with 3 DE or 4DD in your fleet and score S rank 3 times in PvP",
+    "added_update_id": 87,
+    "removed_update_id": null,
+    "season_id": 41,
+    "tracker": "[[340],[[9,[6,3]]],[1,[[2,[[1],3,false,0,0]],[2,[[2],4,false,0,0]]]]]",
+    "progressResetType": 1
+  },
+  {
+    "id": 870,
+    "api_id": 906,
+    "code": "2603 B1",
+    "name_jp": "【桃の節句】鎮守府近海 春の安全確保2026",
+    "name_en": "Ensuring Spring Safety Near the Naval Base 2026",
+    "desc_jp": "【桃の節句作戦】駆逐艦または海防艦計3隻を含む艦隊で、鎮守府海域南西諸島沖、<br>製油所地帯沿岸、鎮守府近海、鎮守府近海航路の安全確保と対潜掃蕩を図れ！",
+    "desc_en": "Organize a fleet with 3 DD/DE in your fleet and score an A rank at the boss nodes on 1-2, 1-3, 1-5, and reach the anchor node N on 1-6.",
+    "added_update_id": 87,
+    "removed_update_id": null,
+    "season_id": 41,
+    "tracker": "[[906],[[0,[[1,2],5,1]],[0,[[1,3],5,1]],[0,[[1,5],5,1]],[7,[[1,6],1,[14,17],\"N\"]]],[0,[[2,[[2,1],3,false,0,0]]]]]",
+    "progressResetType": null
   }
 ]
