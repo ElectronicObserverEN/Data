@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030673",
+  "version": "21030674",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -2954,6 +2954,13 @@
     "desc_jp": "五周年任務：鉄鋼555及びボーキサイト555を準備して、任意の海防艦の近代化改修を[駆逐艦]x5隻<br>同時使用により2回成功させよ！※任務達成後、準備した資源は消費します。",
     "desc": "Have 555 steel and bauxite. Successfully modernize a DE using 5 DD twice."
   },
+  "707": {
+    "code": "2603 Gw1",
+    "name_jp": "【桃の節句任務】駆逐艦桃の節句改修",
+    "name": "Destroyer's Peach Festival Improvement",
+    "desc_jp": "桃の節句任務：鋼材303及びボーキサイト303を準備して、任意の駆逐艦の近代化改修を<br>[軽巡洋艦]x3隻同時使用により2回成功させよ！※準備した資源は消費します。",
+    "desc": "Modernize a DD using 3 CL twice and prepare 303 steel and 303 bauxite"
+  },
   "714": {
     "code": "Gy1",
     "name_jp": "「駆逐艦」の改修工事を実施せよ！",
@@ -3625,6 +3632,13 @@
     "name": "Ensuring Spring Safety Near the Naval Base 2026",
     "desc_jp": "【桃の節句作戦】駆逐艦または海防艦計3隻を含む艦隊で、鎮守府海域南西諸島沖、<br>製油所地帯沿岸、鎮守府近海、鎮守府近海航路の安全確保と対潜掃蕩を図れ！",
     "desc": "Organize a fleet with 3 DD/DE in your fleet and score an A rank at the boss nodes on 1-2, 1-3, 1-5, and reach the anchor node N on 1-6."
+  },
+  "907": {
+    "code": "2603 B2",
+    "name_jp": "【桃の節句】南西諸島海域 春の戦闘哨戒2026",
+    "name": "Spring Combat Patrol in the Nansei Islands 2026",
+    "desc_jp": "【桃の節句作戦】精鋭駆逐艦または海防艦計4隻を含む艦隊で、南西諸島近海、バシー海峡、<br>東部オリョール海に反復出撃！各海域の敵艦隊を捕捉撃滅、制海権の確保を図れ！",
+    "desc": "【桃の節句作戦】精鋭駆逐艦または海防艦計4隻を含む艦隊で、南西諸島近海、バシー海峡、<br>東部オリョール海に反復出撃！各海域の敵艦隊を捕捉撃滅、制海権の確保を図れ！"
   },
   "911": {
     "code": "B142 ",
