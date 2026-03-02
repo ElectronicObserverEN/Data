@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030303",
+  "version": "21030304",
   "equiptype": {
     "小口径主砲": "Small-caliber Gun",
     "中口径主砲": "Medium-caliber Gun",
@@ -780,6 +780,7 @@
     "震電改二(艦戦型改二)": "Shinden Kai Ni (Carrier Fighter Kai Ni)",
     "三式爆雷投射機改": "Type 3 Depth Charge Projector Kai",
     "震電改三(試製 噴式震電)": "Shinden Kai 3 (Prototype Jet Shinden)",
-    "流星改(友永隊)": "Ryuusei Kai (Tomonaga Squadron)"
+    "流星改(友永隊)": "Ryuusei Kai (Tomonaga Squadron)",
+    "53cm連装魚雷改(酸素魚雷)": "53cm Twin Torpedo Mount Kai (Oxygen)"
   }
 }

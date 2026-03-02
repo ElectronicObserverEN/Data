@@ -4431,5 +4431,11 @@
     "api_id": 570,
     "name_jp": "流星改(友永隊)",
     "name_en": "Ryuusei Kai (Tomonaga Squadron)"
+  },
+  {
+    "id": 2567,
+    "api_id": 571,
+    "name_jp": "53cm連装魚雷改(酸素魚雷)",
+    "name_en": "53cm Twin Torpedo Mount Kai (Oxygen)"
   }
 ]
