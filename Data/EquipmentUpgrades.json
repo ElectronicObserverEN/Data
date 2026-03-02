@@ -1632,6 +1632,14 @@
               4,
               5
             ]
+          },
+          {
+            "ship_ids": [
+              718
+            ],
+            "days": [
+              1
+            ]
           }
         ],
         "costs": {
@@ -3460,6 +3468,14 @@
               6,
               0,
               4
+            ]
+          },
+          {
+            "ship_ids": [
+              718
+            ],
+            "days": [
+              1
             ]
           }
         ],
@@ -7342,7 +7358,8 @@
     "upgrade_for": [
       70,
       324,
-      451
+      451,
+      489
     ]
   },
   {
@@ -17315,7 +17332,8 @@
     ],
     "upgrade_for": [
       445,
-      446
+      446,
+      489
     ]
   },
   {
@@ -20142,6 +20160,14 @@
               0,
               1,
               2
+            ]
+          },
+          {
+            "ship_ids": [
+              718
+            ],
+            "days": [
+              1
             ]
           }
         ],
@@ -24701,6 +24727,14 @@
               5,
               6
             ]
+          },
+          {
+            "ship_ids": [
+              1010
+            ],
+            "days": [
+              1
+            ]
           }
         ],
         "costs": {
@@ -24782,6 +24816,14 @@
               4,
               5,
               6
+            ]
+          },
+          {
+            "ship_ids": [
+              1010
+            ],
+            "days": [
+              1
             ]
           }
         ],
@@ -29803,6 +29845,97 @@
             ],
             "consumable": []
           }
+        }
+      }
+    ],
+    "convert_to": [],
+    "upgrade_for": []
+  },
+  {
+    "eq_id": 489,
+    "improvement": [
+      {
+        "convert": null,
+        "helpers": [
+          {
+            "ship_ids": [
+              943,
+              948
+            ],
+            "days": [
+              1
+            ]
+          }
+        ],
+        "costs": {
+          "fuel": 120,
+          "ammo": 240,
+          "steel": 20,
+          "baux": 310,
+          "p1": {
+            "devmats": 5,
+            "devmats_sli": 6,
+            "screws": 3,
+            "screws_sli": 4,
+            "equips": [
+              {
+                "id": 221,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
+          },
+          "p2": {
+            "devmats": 7,
+            "devmats_sli": 11,
+            "screws": 5,
+            "screws_sli": 7,
+            "equips": [
+              {
+                "id": 69,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
+          },
+          "extra": [
+            {
+              "levels": [
+                8
+              ],
+              "consumable": [
+                {
+                  "id": 70,
+                  "eq_count": 1
+                }
+              ],
+              "equips": []
+            },
+            {
+              "levels": [
+                9
+              ],
+              "consumable": [
+                {
+                  "id": 77,
+                  "eq_count": 1
+                }
+              ],
+              "equips": []
+            },
+            {
+              "levels": [
+                10
+              ],
+              "consumable": [
+                {
+                  "id": 94,
+                  "eq_count": 2
+                }
+              ],
+              "equips": []
+            }
+          ]
         }
       }
     ],
