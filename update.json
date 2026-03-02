@@ -1,4 +1,4 @@
-{
+﻿{
   "bld_date": "2026/01/03 12:00:00",
   "ver": "5.3.21",
   "note": "Check github for release notes: https://github.com/ElectronicObserverEN/ElectronicObserver/releases",
@@ -15,5 +15,6 @@
   "MaintInfoLink": "https://x.com/KanColle_STAFF/status/2027724112790241453",
   "MaintStart": "2026/03/02 14:00:00",
   "MaintEnd": "2026/03/02 18:00:00",
-  "MaintEventState": 0
+  "MaintEventState": 0,
+  "QuestsMetadata": 1
 }
