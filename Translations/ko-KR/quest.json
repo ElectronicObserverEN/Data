@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030697",
+  "version": "21030698",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3638,7 +3638,7 @@
     "name_jp": "【桃の節句】南西諸島海域 春の戦闘哨戒2026",
     "name": "Spring Combat Patrol in the Nansei Islands 2026",
     "desc_jp": "【桃の節句作戦】精鋭駆逐艦または海防艦計4隻を含む艦隊で、南西諸島近海、バシー海峡、<br>東部オリョール海に反復出撃！各海域の敵艦隊を捕捉撃滅、制海権の確保を図れ！",
-    "desc": "【桃の節句作戦】精鋭駆逐艦または海防艦計4隻を含む艦隊で、南西諸島近海、バシー海峡、<br>東部オリョール海に反復出撃！各海域の敵艦隊を捕捉撃滅、制海権の確保を図れ！"
+    "desc": "Organize a fleet with 4 DD/DE in your fleet and score an S rank at the boss nodes on 2-1, 2-2 and 2-3 twice each"
   },
   "911": {
     "code": "B142 ",
