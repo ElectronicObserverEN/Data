@@ -12024,5 +12024,19 @@
     "season_id": 41,
     "tracker": "",
     "progressResetType": null
+  },
+  {
+    "id": 875,
+    "api_id": 709,
+    "code": "2603 G1",
+    "name_jp": "【桃の節句拡張任務】菱餅特別改修2026",
+    "name_en": "[Peach Festival Expansion Quest] Hishimochi Special Renovation 2026",
+    "desc_jp": "桃の節句任務：菱餅【6個】を準備して、任意の特I型(吹雪型)駆逐艦の<br>近代化改修を川内型軽巡洋艦x3隻以上の同時使用により3回成功させよ！",
+    "desc_en": "Modernize a Fubuki-class using 3 Sendai-class three times and prepare 6 Hishimochi",
+    "added_update_id": 87,
+    "removed_update_id": null,
+    "season_id": 41,
+    "tracker": "",
+    "progressResetType": null
   }
 ]

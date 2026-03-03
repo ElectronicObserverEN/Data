@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030673",
+  "version": "21030674",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -2967,6 +2967,13 @@
     "name": "Kaiboukan's Peach Festival Improvement",
     "desc_jp": "桃の節句任務：鋼材3,030及びボーキサイト3,030を準備して、任意の海防艦の近代化改修を<br>[駆逐艦]x5隻同時使用により2回成功させよ！※準備した資源は消費します。",
     "desc": "Modernize a DE using 5 DD twice and prepare 3030 steel and 3030 bauxite"
+  },
+  "709": {
+    "code": "2603 G1",
+    "name_jp": "【桃の節句拡張任務】菱餅特別改修2026",
+    "name": "[Peach Festival Expansion Quest] Hishimochi Special Renovation 2026",
+    "desc_jp": "桃の節句任務：菱餅【6個】を準備して、任意の特I型(吹雪型)駆逐艦の<br>近代化改修を川内型軽巡洋艦x3隻以上の同時使用により3回成功させよ！",
+    "desc": "Modernize a Fubuki-class using 3 Sendai-class three times and prepare 6 Hishimochi"
   },
   "714": {
     "code": "Gy1",
