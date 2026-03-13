@@ -14794,5 +14794,14 @@
     "ShipClassId": 1490,
     "ShipClassApiId": 25,
     "IsFriendly": true
+  },
+  {
+    "Id": 1840,
+    "NameEN": "Tamanami Kai Ni",
+    "NameJP": "玉波改二",
+    "ApiId": 718,
+    "ShipClassId": 1498,
+    "ShipClassApiId": 38,
+    "IsFriendly": true
   }
 ]
