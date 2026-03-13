@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030682",
+  "version": "21030683",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4297,6 +4297,13 @@
     "name": "[Limited Time Quest] The Flagship of Spring is... Me!",
     "desc_jp": "旗艦及び僚艦に「春雨」「春風」「春日丸」「弥生」「陽炎」「天津風」「朧」「曙」「榛名」「Scirocco」<br>を配備、製油所地帯沿岸、鎮守府近海、南西諸島防衛線、東部オリョール海に反復出撃！春哨戒を実施せよ！",
     "desc": "Organize a fleet with any 2 of Harusame, Harukaze, Kasuga Maru, Yayoi, Kagerou, Amatsukaze, Oboro, Akebono, Haruna and Scirocco in your fleet with one as flagship and score an S rank at the boss nodes on 1-3, 1-5, 1-4 and 2-3 twice each"
+  },
+  "1044": {
+    "code": "B215",
+    "name_jp": "三十二駆「玉波改二」、出撃いたします。",
+    "name": "DesDiv32 \"Tamanami Kai Ni\" is Going to Sortie",
+    "desc_jp": "「玉波改二」旗艦、僚艦に「藤波」を含む艦隊で、東部オリョール海、沖ノ島沖、カレー洋リランカ島沖、<br>サーモン海域北方、グアノ環礁沖海域に展開！出没する敵艦隊主力を捕捉、これを全力で撃滅せよ！",
+    "desc": "Organize a fleet with Tamanami Kai Ni as flagship and Fujinami in your fleet and score an S rank at the boss nodes on 2-3, 2-5, 4-5, 5-5 and 6-3"
   },
   "1101": {
     "code": "F96",

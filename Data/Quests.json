@@ -12094,5 +12094,19 @@
     "season_id": null,
     "tracker": "[[1164],[[3,[10,8]],[3,[45,8]],[3,[47,4]]],[0,[[7,[674,true,0,0]],[7,[485,false,0,0]],[7,[25,false,0,0]]]]]",
     "progressResetType": null
+  },
+  {
+    "id": 880,
+    "api_id": 1044,
+    "code": "B215",
+    "name_jp": "三十二駆「玉波改二」、出撃いたします。",
+    "name_en": "DesDiv32 \"Tamanami Kai Ni\" is Going to Sortie",
+    "desc_jp": "「玉波改二」旗艦、僚艦に「藤波」を含む艦隊で、東部オリョール海、沖ノ島沖、カレー洋リランカ島沖、<br>サーモン海域北方、グアノ環礁沖海域に展開！出没する敵艦隊主力を捕捉、これを全力で撃滅せよ！",
+    "desc_en": "Organize a fleet with Tamanami Kai Ni as flagship and Fujinami in your fleet and score an S rank at the boss nodes on 2-3, 2-5, 4-5, 5-5 and 6-3",
+    "added_update_id": 88,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1044],[[0,[[2,3],6,1]],[0,[[2,5],6,1]],[0,[[4,5],6,1]],[0,[[5,5],6,1]],[0,[[6,3],6,1]]],[0,[[7,[1033,true,1,0]],[7,[485,false,0,0]]]]]",
+    "progressResetType": null
   }
 ]
