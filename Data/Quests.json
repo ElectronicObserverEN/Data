@@ -12038,5 +12038,61 @@
     "season_id": 41,
     "tracker": "",
     "progressResetType": null
+  },
+  {
+    "id": 876,
+    "api_id": 450,
+    "code": "2603 D1",
+    "name_jp": "【期間限定:拡張任務】水雷戦隊遠征作戦！",
+    "name_en": "[Limited Time Offer: Extra Quest] Torpedo Squadron Expeditionary Operation!",
+    "desc_jp": "【期間限定】拡張作戦：「海上護衛任務」「資源輸送任務」「タンカー護衛任務」<br>「兵站強化任務」「包囲陸戦隊撤収作戦」遠征を実施、これを見事成功させよ！",
+    "desc_en": "Complete expeditions 05, A1, 09, 12 and 14",
+    "added_update_id": 88,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[450],[[1,[[5],1]],[1,[[100],1]],[1,[[9],1]],[1,[[12],1]],[1,[[14],1]]],[0,[]]]",
+    "progressResetType": null
+  },
+  {
+    "id": 877,
+    "api_id": 1028,
+    "code": "2603 B4",
+    "name_jp": "【WD限定任務】軽空母、出撃！2026",
+    "name_en": "[WD Limited Quest] Light Aircraft Carrier, Sortie! 2026",
+    "desc_jp": "「Langley」旗艦または旗艦自由の軽空母2隻以上を含む艦隊で、鎮守府海域の製油所地帯沿岸、<br>南西諸島近海、バシー海峡、北方海域モーレイ海を機動哨戒！White Dayの制海権を確保せよ！",
+    "desc_en": "Organize a fleet with Langley as flagship or 2 CVL in your fleet and score an A rank at the boss nodes on 1-3, 2-1, 2-2 and 3-1",
+    "added_update_id": 88,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1028],[[0,[[1,3],5,1]],[0,[[2,1],5,1]],[0,[[2,2],5,1]],[0,[[3,1],5,1]]],[1,[[7,[925,true,0,0]],[2,[[7],2,false,0,0]]]]]",
+    "progressResetType": null
+  },
+  {
+    "id": 878,
+    "api_id": 1043,
+    "code": "2603 B5",
+    "name_jp": "【期間限定任務】春の旗艦は……私だからっ！",
+    "name_en": "[Limited Time Quest] The Flagship of Spring is... Me!",
+    "desc_jp": "旗艦及び僚艦に「春雨」「春風」「春日丸」「弥生」「陽炎」「天津風」「朧」「曙」「榛名」「Scirocco」<br>を配備、製油所地帯沿岸、鎮守府近海、南西諸島防衛線、東部オリョール海に反復出撃！春哨戒を実施せよ！",
+    "desc_en": "Organize a fleet with any 2 of Harusame, Harukaze, Kasuga Maru, Yayoi, Kagerou, Amatsukaze, Oboro, Akebono, Haruna and Scirocco in your fleet with one as flagship and score an S rank at the boss nodes on 1-3, 1-5, 1-4 and 2-3 twice each",
+    "added_update_id": 88,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1043],[[0,[[1,3],6,2]],[0,[[1,4],6,2]],[0,[[1,5],6,2]],[0,[[2,3],6,2]]],[0,[[8,[[[405,false,0,0],[473,false,0,0],[521,false,0,0],[164,false,0,0],[17,false,0,0],[181,false,0,0],[93,false,0,0],[15,false,0,0],[79,false,0,0],[653,false,0,0]],2]],[0,[1,[[5,[405,1,0]],[5,[473,1,0]],[5,[521,1,0]],[5,[164,1,0]],[5,[17,1,0]],[5,[181,1,0]],[5,[93,1,0]],[5,[15,1,0]],[5,[79,1,0]],[5,[653,1,0]]]]]]]]",
+    "progressResetType": null
+  },
+  {
+    "id": 879,
+    "api_id": 1164,
+    "code": "F142",
+    "name_jp": "【工廠任務】水雷戦隊新改装艦、改装準備！",
+    "name_en": "[Arsenal Quest] Newly Remodelled Ship of Torpedo Squadron, Ready for Renovation!",
+    "desc_jp": "第一艦隊に旗艦「玉波」。僚艦に「藤波」「北上」を配備して「三式爆雷投射機」x8、「三式水中<br>探信儀」x4、「12.7cm連装高角砲」x8廃棄。「新型兵装資材」x1及び「15.2cm連装砲」x4用意！",
+    "desc_en": "Have Tamanami as your secretary flagship with Fujinami and Kitakami in the fleet then proceed to scrap 8x Type 3 Depth Charge Projector, 4x Type 3 Active Sonar and 8x 12.7cm Twin High-angle Gun Mount and have 1x New Model Armament Material and 4x 15.2cm Twin Gun Mount (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 88,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1164],[[3,[10,8]],[3,[45,8]],[3,[47,4]]],[0,[[7,[674,true,0,0]],[7,[485,false,0,0]],[7,[25,false,0,0]]]]]",
+    "progressResetType": null
   }
 ]

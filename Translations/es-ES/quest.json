@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030677",
+  "version": "21030678",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -2113,6 +2113,13 @@
     "name": "Strengthening escort for the maritime transport routes",
     "desc_jp": "海上輸送航路の護衛強化：「対潜警戒任務」「海上護衛任務」「タンカー護衛任務」<br>「兵站強化任務」「南西方面航空偵察作戦」遠征を実施、各１回以上成功させよ！",
     "desc": "Complete Expedition 4,5,9,A1 and B1 once each"
+  },
+  "450": {
+    "code": "2603 D1",
+    "name_jp": "【期間限定:拡張任務】水雷戦隊遠征作戦！",
+    "name": "[Limited Time Offer: Extra Quest] Torpedo Squadron Expeditionary Operation!",
+    "desc_jp": "【期間限定】拡張作戦：「海上護衛任務」「資源輸送任務」「タンカー護衛任務」<br>「兵站強化任務」「包囲陸戦隊撤収作戦」遠征を実施、これを見事成功させよ！",
+    "desc": "Complete expeditions 05, A1, 09, 12 and 14"
   },
   "501": {
     "code": "E1",
@@ -4242,6 +4249,13 @@
     "desc_jp": "「白雪改二」旗艦、他に吹雪型1隻以上を含む精鋭艦隊で、東部オリョール海、沖ノ島沖、<br>リランカ島、サブ島沖海域に進出！改吹雪型駆逐艦の実力を発揮し、敵艦隊を一掃せよ！",
     "desc": "Organize a fleet with Shirayuki Kai Ni as the flagship and another Fubuki-class in your fleet and score an S rank at the boss nodes on 2-3, 2-5, 4-3 and 5-3"
   },
+  "1028": {
+    "code": "2603 B4",
+    "name_jp": "【WD限定任務】軽空母、出撃！2026",
+    "name": "[WD Limited Quest] Light Aircraft Carrier, Sortie! 2026",
+    "desc_jp": "「Langley」旗艦または旗艦自由の軽空母2隻以上を含む艦隊で、鎮守府海域の製油所地帯沿岸、<br>南西諸島近海、バシー海峡、北方海域モーレイ海を機動哨戒！White Dayの制海権を確保せよ！",
+    "desc": "Organize a fleet with Langley as flagship or 2 CVL in your fleet and score an A rank at the boss nodes on 1-3, 2-1, 2-2 and 3-1"
+  },
   "1029": {
     "code": "B209",
     "name_jp": "三十二駆「浜波改二」抜錨！敵中を突破せよ！",
@@ -4276,6 +4290,13 @@
     "name": "The Latest Remodelled Aircraft Carrier \"Hiryuu Kai San\" is Raging!",
     "desc_jp": "「飛龍改三」旗艦、他に「風雲」または第三十二駆逐隊計2隻以上を含む機動部隊で出撃！疾風怒涛で<br>沖ノ島沖、北方AL海域、カレー洋リランカ島沖、サーモン海域北方、中部北海域ピーコック島沖の敵を討て！",
     "desc": "Organize a fleet with Hiryuu Kai San as flagship and any 2 of Kazagumo, Tamanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet and score an S rank at the boss nodes on 2-5, 3-5, 4-5, 5-5 and 6-4"
+  },
+  "1043": {
+    "code": "2603 B5",
+    "name_jp": "【期間限定任務】春の旗艦は……私だからっ！",
+    "name": "[Limited Time Quest] The Flagship of Spring is... Me!",
+    "desc_jp": "旗艦及び僚艦に「春雨」「春風」「春日丸」「弥生」「陽炎」「天津風」「朧」「曙」「榛名」「Scirocco」<br>を配備、製油所地帯沿岸、鎮守府近海、南西諸島防衛線、東部オリョール海に反復出撃！春哨戒を実施せよ！",
+    "desc": "Organize a fleet with any 2 of Harusame, Harukaze, Kasuga Maru, Yayoi, Kagerou, Amatsukaze, Oboro, Akebono, Haruna and Scirocco in your fleet with one as flagship and score an S rank at the boss nodes on 1-3, 1-5, 1-4 and 2-3 twice each"
   },
   "1101": {
     "code": "F96",
@@ -4605,5 +4626,12 @@
     "name": "[Arsenal Quest] Shinden with Jet Propulsion",
     "desc_jp": "旗艦「飛龍改三」第一装備スロットに「震電改二(艦戦型改二)」(★max)を搭載。新型航空兵装<br>資材x3、新型兵装資材x4、開発資材x160、熟練搭乗員x1、ネ式エンジンx1準備せよ！",
     "desc": "Have your secretary flagship Hiryuu Kai San equip a ★max Shinden Kai 2 (Carrier-based Fighter Model Kai 2) in the first slot and have 1x Ne Type Engine, 1x Skilled Crew Member, 3x New Model Aerial Armament Materials, 4x New Model Armament Material and 160x Development Materials (All resources and Materials will be consumed upon completion)"
+  },
+  "1164": {
+    "code": "F142",
+    "name_jp": "【工廠任務】水雷戦隊新改装艦、改装準備！",
+    "name": "[Arsenal Quest] Newly Remodelled Ship of Torpedo Squadron, Ready for Renovation!",
+    "desc_jp": "第一艦隊に旗艦「玉波」。僚艦に「藤波」「北上」を配備して「三式爆雷投射機」x8、「三式水中<br>探信儀」x4、「12.7cm連装高角砲」x8廃棄。「新型兵装資材」x1及び「15.2cm連装砲」x4用意！",
+    "desc": "Have Tamanami as your secretary flagship with Fujinami and Kitakami in the fleet then proceed to scrap 8x Type 3 Depth Charge Projector, 4x Type 3 Active Sonar and 8x 12.7cm Twin High-angle Gun Mount and have 1x New Model Armament Material and 4x 15.2cm Twin Gun Mount (All resources and Materials will be consumed upon completion)"
   }
 }
