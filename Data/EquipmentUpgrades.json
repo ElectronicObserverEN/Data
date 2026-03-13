@@ -1126,7 +1126,8 @@
       120,
       121,
       130,
-      172
+      172,
+      267
     ]
   },
   {
@@ -20205,6 +20206,52 @@
               {
                 "id": 3,
                 "eq_count": 2
+              }
+            ],
+            "consumable": []
+          },
+          "p2": {
+            "devmats": 7,
+            "devmats_sli": 10,
+            "screws": 6,
+            "screws_sli": 9,
+            "equips": [
+              {
+                "id": 266,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
+          }
+        }
+      },
+      {
+        "convert": null,
+        "helpers": [
+          {
+            "ship_ids": [
+              1033
+            ],
+            "days": [
+              5,
+              6
+            ]
+          }
+        ],
+        "costs": {
+          "fuel": 0,
+          "ammo": 0,
+          "steel": 0,
+          "baux": 0,
+          "p1": {
+            "devmats": 6,
+            "devmats_sli": 7,
+            "screws": 5,
+            "screws_sli": 6,
+            "equips": [
+              {
+                "id": 10,
+                "eq_count": 3
               }
             ],
             "consumable": []
