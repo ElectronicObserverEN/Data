@@ -12108,5 +12108,19 @@
     "season_id": null,
     "tracker": "[[1044],[[0,[[2,3],6,1]],[0,[[2,5],6,1]],[0,[[4,5],6,1]],[0,[[5,5],6,1]],[0,[[6,3],6,1]]],[0,[[7,[1033,true,1,0]],[7,[485,false,0,0]]]]]",
     "progressResetType": null
+  },
+  {
+    "id": 881,
+    "api_id": 720,
+    "code": "2603 G2",
+    "name_jp": "【期間限定:拡張任務】夕雲型改装任務！",
+    "name_en": "[Limited Time Offer: Extra Quest] Yuugumo-class Improvement Quest!",
+    "desc_jp": "【期間限定拡張改装任務】：開発資材x24を用意して、任意の夕雲型駆逐艦の近代化<br>改修を重巡洋艦級x3隻以上の同時使用により3回成功させよ！",
+    "desc_en": "Modernize a Yuugumo-class DD using 3 CA(V) three times and prepare 24x Development Materials",
+    "added_update_id": 88,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "",
+    "progressResetType": null
   }
 ]
