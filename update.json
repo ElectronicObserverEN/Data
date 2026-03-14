@@ -1,4 +1,4 @@
-{
+﻿{
   "bld_date": "2026/03/14 15:00:00",
   "ver": "5.4.0",
   "note": "Check github for release notes: https://github.com/ElectronicObserverEN/ElectronicObserver/releases",
@@ -9,7 +9,7 @@
   "QuestTrackers": 432,
   "Locks": 82,
   "FitBonuses": 44,
-  "EquipmentUpgrades": 612,
+  "EquipmentUpgrades": 613,
   "kancolle_mt": "2026/03/13 11:00:00",
   "event_state": 0,
   "MaintInfoLink": "https://x.com/KanColle_STAFF/status/2031966508532834594",
