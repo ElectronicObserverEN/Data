@@ -11950,7 +11950,7 @@
     "desc_jp": "桃の節句任務：海防艦3隻以上 or 駆逐艦4隻以上を含む桃の節句艦隊を編成、同艦隊を以て、<br>演習を実施！桃の節句演習艦隊で、本日中に演習において【S判定】勝利を3回以上達成せよ！",
     "desc_en": "Organize a fleet with 3 DE or 4DD in your fleet and score S rank 3 times in PvP",
     "added_update_id": 87,
-    "removed_update_id": null,
+    "removed_update_id": 89,
     "season_id": 41,
     "tracker": "[[340],[[9,[6,3]]],[1,[[2,[[1],3,false,0,0]],[2,[[2],4,false,0,0]]]]]",
     "progressResetType": 1
@@ -11964,7 +11964,7 @@
     "desc_jp": "【桃の節句作戦】駆逐艦または海防艦計3隻を含む艦隊で、鎮守府海域南西諸島沖、<br>製油所地帯沿岸、鎮守府近海、鎮守府近海航路の安全確保と対潜掃蕩を図れ！",
     "desc_en": "Organize a fleet with 3 DD/DE in your fleet and score an A rank at the boss nodes on 1-2, 1-3, 1-5, and reach the anchor node N on 1-6.",
     "added_update_id": 87,
-    "removed_update_id": null,
+    "removed_update_id": 89,
     "season_id": 41,
     "tracker": "[[906],[[0,[[1,2],5,1]],[0,[[1,3],5,1]],[0,[[1,5],5,1]],[7,[[1,6],1,[14,17],\"N\"]]],[0,[[2,[[2,1],3,false,0,0]]]]]",
     "progressResetType": null
@@ -11978,7 +11978,7 @@
     "desc_jp": "桃の節句任務：鋼材303及びボーキサイト303を準備して、任意の駆逐艦の近代化改修を<br>[軽巡洋艦]x3隻同時使用により2回成功させよ！※準備した資源は消費します。",
     "desc_en": "Modernize a DD using 3 CL twice and prepare 303 steel and 303 bauxite",
     "added_update_id": 87,
-    "removed_update_id": null,
+    "removed_update_id": 89,
     "season_id": 41,
     "tracker": "",
     "progressResetType": null
@@ -11992,7 +11992,7 @@
     "desc_jp": "【桃の節句作戦】精鋭駆逐艦または海防艦計4隻を含む艦隊で、南西諸島近海、バシー海峡、<br>東部オリョール海に反復出撃！各海域の敵艦隊を捕捉撃滅、制海権の確保を図れ！",
     "desc_en": "Organize a fleet with 4 DD/DE in your fleet and score an S rank at the boss nodes on 2-1, 2-2 and 2-3 twice each",
     "added_update_id": 87,
-    "removed_update_id": null,
+    "removed_update_id": 89,
     "season_id": 41,
     "tracker": "[[907],[[0,[[2,1],6,2]],[0,[[2,2],6,2]],[0,[[2,3],6,2]]],[0,[[2,[[2,1],4,false,0,0]]]]]",
     "progressResetType": null
@@ -12006,7 +12006,7 @@
     "desc_jp": "【桃の節句作戦】「Minneapolis」「Samuel B.Roberts」「夕雲」「潮」を旗艦及び僚艦1隻以上含む精強な<br>桃の節句艦隊で、南西諸島海域沖ノ島海域、沖ノ島沖、タウイタウイ泊地沖深部に反復出撃、敵を撃滅せよ！",
     "desc_en": "Organize a fleet with two of Minneapolis, Samuel B. Roberts, Yuugumo, Ushio in your fleet and score an S rank at the boss nodes on 2-4, 2-5 and 7-2 (Part 2) twice each",
     "added_update_id": 87,
-    "removed_update_id": null,
+    "removed_update_id": 89,
     "season_id": 41,
     "tracker": "[[908],[[0,[[2,4],6,2]],[0,[[2,5],6,2]],[2,[[7,2],6,2,[15],\"-2\"]]],[0,[[0,[0,[[8,[[[1005,false,0,0],[561,false,0,0],[133,false,0,0],[16,false,0,0]],2]]]]],[0,[1,[[5,[1005,1,0]],[5,[561,1,0]],[5,[133,1,0]],[5,[16,1,0]]]]]]]]",
     "progressResetType": null
@@ -12020,7 +12020,7 @@
     "desc_jp": "桃の節句任務：鋼材3,030及びボーキサイト3,030を準備して、任意の海防艦の近代化改修を<br>[駆逐艦]x5隻同時使用により2回成功させよ！※準備した資源は消費します。",
     "desc_en": "Modernize a DE using 5 DD twice and prepare 3030 steel and 3030 bauxite",
     "added_update_id": 87,
-    "removed_update_id": null,
+    "removed_update_id": 89,
     "season_id": 41,
     "tracker": "",
     "progressResetType": null
@@ -12034,7 +12034,7 @@
     "desc_jp": "桃の節句任務：菱餅【6個】を準備して、任意の特I型(吹雪型)駆逐艦の<br>近代化改修を川内型軽巡洋艦x3隻以上の同時使用により3回成功させよ！",
     "desc_en": "Modernize a Fubuki-class using 3 Sendai-class three times and prepare 6 Hishimochi",
     "added_update_id": 87,
-    "removed_update_id": null,
+    "removed_update_id": 89,
     "season_id": 41,
     "tracker": "",
     "progressResetType": null
