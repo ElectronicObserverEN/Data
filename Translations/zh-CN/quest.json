@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030691",
+  "version": "21030692",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4122,6 +4122,13 @@
     "name": "Anti-aircraft Destroyer \"Akizuki Kai Ni\" Is There!",
     "desc_jp": "改秋月型精鋭駆逐艦「秋月改二」を旗艦とした艦隊で、南西諸島防衛線、沖ノ島海域、サーモン海域、<br>ブルネイ泊地沖、タウイタウイ泊地沖深部に展開、各海域の敵主力と交戦、これを撃滅せよ！",
     "desc": "Organize a fleet with Akizuki Kai Ni as flagship and score an S rank at the boss nodes on 1-4, 2-4, 5-4, 7-1 and 7-2 (Part 2)"
+  },
+  "1011": {
+    "code": "2604 B3",
+    "name_jp": "【第一遊撃部隊任務】南西諸島防衛戦に出撃！",
+    "name": "[First Striking Force] Sortie to the Southwest Islands Defense Battle!",
+    "desc_jp": "第一艦隊旗艦に戦艦「大和」、同二番艦に軽巡「矢矧」、随伴に「矢矧」以下の二水戦駆逐艦4隻を配備。<br>同1YBで南西諸島防衛線、南西諸島近海、バシー海峡、沖ノ島沖に反復出撃！敵艦隊を捕捉撃滅せよ！",
+    "desc": "Organize a fleet with Yamato as flagship, Yahagi as second ship and any 4 of Isokaze, Hamakaze, Yukikaze, Fuyutsuki, Suzutsuki, Kasumi, Hatsushimo and Asashimo in your fleet and score an S rank at the boss nodes on 1-4, 2-1, 2-2 and 2-5 twice each"
   },
   "1012": {
     "code": "By14",
