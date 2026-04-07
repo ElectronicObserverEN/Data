@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030690",
+  "version": "21030691",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3822,6 +3822,13 @@
     "desc_jp": "【春限定】旗艦に潜水母艦・練習巡洋艦・駆逐艦のいずれか、他に駆逐艦・海防艦・潜水艦を配備した計5隻<br>以下の哨戒部隊で、南西諸島沖、製油所地帯沿岸、南西諸島近海、バシー海峡の春哨戒を実施せよ！",
     "desc": "Organize a fleet with an AS/CT/DD as flagship and up to 4 other DD/DE/SS(V) in your fleet (5 ship max) and score an A+ rank at the boss nodes on 1-2, 1-3, 2-1 and 2-2"
   },
+  "942": {
+    "code": "2604 B2",
+    "name_jp": "【春限定】続：春のお散歩哨戒です！",
+    "name": "[Spring Limited] Continued: Springtime Coastal Patrol Stroll!",
+    "desc_jp": "【春限定】旗艦及び二番艦「吹雪」「夕雲」「卯月」「村雨」「天津風」「迅鯨」「長鯨」「平安丸」率いる<br>春のお出掛け隊で、東部オリョール海、沖ノ島沖、北方AL海域を反復哨戒！春のお散歩を完遂せよ！",
+    "desc": "Organize a fleet with any two of Fubuki, Yuugumo, Uzuki, Murasame, Amatsukaze, Jingei, Chougei and Heian Maru as flagship and second ship in your fleet and score an A rank at the boss nodes on 2-3, 2-5 and 3-5 twice each"
+  },
   "943": {
     "code": "B169",
     "name_jp": "新しき翼。改装航空母艦「龍鳳」、出撃せよ！",
@@ -4591,5 +4598,12 @@
     "name": "[Arsenal Quest] Newly Remodelled Ship of Torpedo Squadron, Ready for Renovation!",
     "desc_jp": "第一艦隊に旗艦「玉波」。僚艦に「藤波」「北上」を配備して「三式爆雷投射機」x8、「三式水中<br>探信儀」x4、「12.7cm連装高角砲」x8廃棄。「新型兵装資材」x1及び「15.2cm連装砲」x4用意！",
     "desc": "Have Tamanami as your secretary flagship with Fujinami and Kitakami in the fleet then proceed to scrap 8x Type 3 Depth Charge Projector, 4x Type 3 Active Sonar and 8x 12.7cm Twin High-angle Gun Mount and have 1x New Model Armament Material and 4x 15.2cm Twin Gun Mount (All resources and Materials will be consumed upon completion)"
+  },
+  "1165": {
+    "code": "2604 F1",
+    "name_jp": "【第一遊撃部隊任務】出撃準備を実施せよ！",
+    "name": "[First Striking Force] Prepare for Sortie!",
+    "desc_jp": "第一艦隊旗艦に「大和」、同二番艦に「矢矧」を配備。他随伴に「磯風」「浜風」「雪風」「冬月」「涼月」<br>「霞」「初霜」「朝霜」から4隻を配備。「15.2cm単装砲」x4廃棄。開発資材300と燃料500を準備せよ！",
+    "desc": "Have Yamato as secretary, Yahagi as second ship and any 4 of Isokaze, Hamakaze, Yukikaze, Fuyutsuki, Suzutsuki, Kasumi, Hatsushimo and Asashimo in the fleet and then proceed to scrap 4x 15.2cm Single Gun Mount and have 300x Development Materials and 500x Fuel (All resources and Materials will be consumed upon completion)"
   }
 }

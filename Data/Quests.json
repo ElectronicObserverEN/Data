@@ -12136,5 +12136,33 @@
     "season_id": 42,
     "tracker": "[[941],[[0,[[1,2],5,1]],[0,[[1,3],5,1]],[0,[[2,1],5,1]],[0,[[2,2],5,1]]],[0,[[2,[[2,20,21],1,true,0,0]],[2,[[2,1,20,21,13,14],5,false,1,0]],[2,[[21,20],1,false,2,0]]]]]",
     "progressResetType": null
+  },
+  {
+    "id": 883,
+    "api_id": 942,
+    "code": "2604 B2",
+    "name_jp": "【春限定】続：春のお散歩哨戒です！",
+    "name_en": "[Spring Limited] Continued: Springtime Coastal Patrol Stroll!",
+    "desc_jp": "【春限定】旗艦及び二番艦「吹雪」「夕雲」「卯月」「村雨」「天津風」「迅鯨」「長鯨」「平安丸」率いる<br>春のお出掛け隊で、東部オリョール海、沖ノ島沖、北方AL海域を反復哨戒！春のお散歩を完遂せよ！",
+    "desc_en": "Organize a fleet with any two of Fubuki, Yuugumo, Uzuki, Murasame, Amatsukaze, Jingei, Chougei and Heian Maru as flagship and second ship in your fleet and score an A rank at the boss nodes on 2-3, 2-5 and 3-5 twice each",
+    "added_update_id": 89,
+    "removed_update_id": null,
+    "season_id": 42,
+    "tracker": "[[942],[[0,[[2,3],5,2]],[0,[[2,5],5,2]],[0,[[3,5],5,2]]],[0,[[0,[1,[[5,[9,1,0]],[5,[133,1,0]],[5,[165,1,0]],[5,[44,1,0]],[5,[181,1,0]],[5,[634,1,0]],[5,[635,1,0]],[5,[944,1,0]]]]],[0,[1,[[5,[9,2,0]],[5,[133,2,0]],[5,[165,2,0]],[5,[44,2,0]],[5,[181,2,0]],[5,[634,2,0]],[5,[635,2,0]],[5,[944,2,0]]]]]]]]",
+    "progressResetType": null
+  },
+  {
+    "id": 884,
+    "api_id": 1165,
+    "code": "2604 F1",
+    "name_jp": "【第一遊撃部隊任務】出撃準備を実施せよ！",
+    "name_en": "[First Striking Force] Prepare for Sortie!",
+    "desc_jp": "第一艦隊旗艦に「大和」、同二番艦に「矢矧」を配備。他随伴に「磯風」「浜風」「雪風」「冬月」「涼月」<br>「霞」「初霜」「朝霜」から4隻を配備。「15.2cm単装砲」x4廃棄。開発資材300と燃料500を準備せよ！",
+    "desc_en": "Have Yamato as secretary, Yahagi as second ship and any 4 of Isokaze, Hamakaze, Yukikaze, Fuyutsuki, Suzutsuki, Kasumi, Hatsushimo and Asashimo in the fleet and then proceed to scrap 4x 15.2cm Single Gun Mount and have 300x Development Materials and 500x Fuel (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 89,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1165],[[3,[11,4]]],[0,[[5,[131,1,0]],[5,[139,2,0]],[8,[[[167,false,0,0],[170,false,0,0],[20,false,0,0],[533,false,0,0],[532,false,0,0],[49,false,0,0],[41,false,0,0],[425,false,0,0]],4]]]]]",
+    "progressResetType": null
   }
 ]
