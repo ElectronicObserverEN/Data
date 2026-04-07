@@ -7652,7 +7652,7 @@
     "desc_jp": "【春限定】旗艦に潜水母艦または練巡・軽巡、他駆逐以下の小艦艇による5隻以下の哨戒艦隊で、<br>製油所地帯沿岸、南西諸島近海、南西諸島海域バシー海峡に反復哨戒！敵を捕捉撃破せよ！",
     "desc_en": "Sortie a fleet with AS, CL or CT as flagship plus up to 4 DD/DE/SS(V) and score an S-Rank victory at the boss nodes on 1-3, 2-1 and 2-2, twice each.",
     "added_update_id": null,
-    "removed_update_id": null,
+    "removed_update_id": 89,
     "season_id": null,
     "tracker": "",
     "progressResetType": null
@@ -7666,7 +7666,7 @@
     "desc_jp": "【八周年限定任務】旗艦に軽巡洋艦または「Fletcher」、随伴駆逐艦/海防艦計3隻以上配備の艦隊で、<br>南西諸島沖、製油所地帯沿岸、南西諸島防衛線、キス島沖に反復出撃！敵艦隊の撃破に努めよ！",
     "desc_en": "Sortie a fleet with CL or Fletcher as flagship plus up to 3 DD/DE and 2 XX and score an A-Rank victory at the boss nodes on 1-2, 1-3, 1-4, and 3-2, twice each.",
     "added_update_id": null,
-    "removed_update_id": null,
+    "removed_update_id": 89,
     "season_id": null,
     "tracker": "",
     "progressResetType": null
