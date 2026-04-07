@@ -232,5 +232,11 @@
     "name": "Peach Festival 2026",
     "added_update_id": 87,
     "removed_update_id": 89
+  },
+  {
+    "id": 42,
+    "name": "Spring 2026",
+    "added_update_id": 89,
+    "removed_update_id": null
   }
 ]
