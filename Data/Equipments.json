@@ -2211,7 +2211,8 @@
     "id": 2196,
     "api_id": 356,
     "name_jp": "8inch三連装砲 Mk.9",
-    "name_en": "8inch Triple Gun Mount Mk.9"
+    "name_en": "8inch Triple Gun Mount Mk.9",
+    "development": true
   },
   {
     "id": 2197,
