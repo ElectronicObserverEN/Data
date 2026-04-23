@@ -14803,5 +14803,23 @@
     "ShipClassId": 1498,
     "ShipClassApiId": 38,
     "IsFriendly": true
+  },
+  {
+    "Id": 1841,
+    "NameEN": "Fubuki Kai San",
+    "NameJP": "吹雪改三",
+    "ApiId": 1035,
+    "ShipClassId": 1461,
+    "ShipClassApiId": 12,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1842,
+    "NameEN": "Fubuki Kai San Go (Type 6)",
+    "NameJP": "吹雪改三護(六式)",
+    "ApiId": 1040,
+    "ShipClassId": 1461,
+    "ShipClassApiId": 12,
+    "IsFriendly": true
   }
 ]
