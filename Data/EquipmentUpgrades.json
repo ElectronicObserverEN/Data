@@ -1153,7 +1153,8 @@
       121,
       130,
       172,
-      267
+      267,
+      397
     ]
   },
   {
@@ -9051,7 +9052,8 @@
     "convert_to": [],
     "upgrade_for": [
       284,
-      379
+      379,
+      397
     ]
   },
   {
@@ -26550,6 +26552,96 @@
             ],
             "consumable": []
           }
+        }
+      }
+    ],
+    "convert_to": [],
+    "upgrade_for": []
+  },
+  {
+    "eq_id": 397,
+    "improvement": [
+      {
+        "convert": null,
+        "helpers": [
+          {
+            "ship_ids": [
+              651
+            ],
+            "days": [
+              5
+            ]
+          }
+        ],
+        "costs": {
+          "fuel": 0,
+          "ammo": 40,
+          "steel": 80,
+          "baux": 0,
+          "p1": {
+            "devmats": 4,
+            "devmats_sli": 5,
+            "screws": 2,
+            "screws_sli": 2,
+            "equips": [
+              {
+                "id": 10,
+                "eq_count": 2
+              }
+            ],
+            "consumable": []
+          },
+          "p2": {
+            "devmats": 7,
+            "devmats_sli": 12,
+            "screws": 3,
+            "screws_sli": 6,
+            "equips": [
+              {
+                "id": 91,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
+          },
+          "extra": [
+            {
+              "levels": [
+                8
+              ],
+              "consumable": [
+                {
+                  "id": 75,
+                  "eq_count": 1
+                }
+              ],
+              "equips": []
+            },
+            {
+              "levels": [
+                9
+              ],
+              "consumable": [
+                {
+                  "id": 2,
+                  "eq_count": 3
+                }
+              ],
+              "equips": []
+            },
+            {
+              "levels": [
+                10
+              ],
+              "consumable": [
+                {
+                  "id": 94,
+                  "eq_count": 1
+                }
+              ],
+              "equips": []
+            }
+          ]
         }
       }
     ],
