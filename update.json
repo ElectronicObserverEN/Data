@@ -1,4 +1,4 @@
-﻿{
+{
   "bld_date": "2026/03/14 15:00:00",
   "ver": "5.4.0",
   "note": "Check github for release notes: https://github.com/ElectronicObserverEN/ElectronicObserver/releases",
@@ -12,9 +12,9 @@
   "EquipmentUpgrades": 635,
   "kancolle_mt": "2026/04/23 11:00:00",
   "event_state": 3,
-  "MaintInfoLink": "https://fxtwitter.com/KanColle_STAFF/status/2046584941128110477",
+  "MaintInfoLink": "https://fxtwitter.com/KanColle_STAFF/status/2047289898160488908",
   "MaintStart": "2026/04/23 11:00:00",
-  "MaintEnd": "2026/04/23 22:00:00",
+  "MaintEnd": "2026/04/23 23:30:00",
   "MaintEventState": 3,
   "QuestsMetadata": 26
 }

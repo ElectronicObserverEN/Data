@@ -850,11 +850,11 @@
     "id": 90,
     "start_date": "2026-04-23T00:00:00",
     "start_time": "11:00:00",
-    "end_time": "22:00:00",
+    "end_time": "23:30:00",
     "name": "13th anniv",
     "description": "",
     "live_update": false,
     "maint_start_tweet": "https://fxtwitter.com/KanColle_STAFF/status/2046584941128110477",
-    "maint_end_tweet": ""
+    "maint_end_tweet": "https://fxtwitter.com/KanColle_STAFF/status/2047289898160488908"
   }
 ]
