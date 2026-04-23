@@ -4440,5 +4440,23 @@
     "api_id": 571,
     "name_jp": "53cm連装魚雷改(酸素魚雷)",
     "name_en": "53cm Twin Torpedo Mount Kai (Oxygen)"
+  },
+  {
+    "id": 2568,
+    "api_id": 572,
+    "name_jp": "12.7cm単装高角砲改三",
+    "name_en": "12.7cm単装高角砲改三"
+  },
+  {
+    "id": 2569,
+    "api_id": 573,
+    "name_jp": "試製 23号電探改三",
+    "name_en": "試製 23号電探改三"
+  },
+  {
+    "id": 2570,
+    "api_id": 574,
+    "name_jp": "SCレーダー改(後期調整型)",
+    "name_en": "SCレーダー改(後期調整型)"
   }
 ]
