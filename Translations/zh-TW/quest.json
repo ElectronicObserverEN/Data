@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030701",
+  "version": "21030702",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4633,5 +4633,19 @@
     "name": "【第一遊擊部隊任務】實施出擊準備！",
     "desc_jp": "第一艦隊旗艦に「大和」、同二番艦に「矢矧」を配備。他随伴に「磯風」「浜風」「雪風」「冬月」「涼月」<br>「霞」「初霜」「朝霜」から4隻を配備。「15.2cm単装砲」x4廃棄。開発資材300と燃料500を準備せよ！",
     "desc": "以「大和」為第一艦隊旗艦、「矢矧」為二番艦，再從「磯風」「濱風」「雪風」「冬月」「涼月」<br>「霞」「初霜」「朝霜」中選4艘作為隨伴艦。廢棄「15.2cm單裝砲」x4，準備開發資材x300及燃料x500！"
+  },
+  "1166": {
+    "code": "Fd9",
+    "name_jp": "続：装備の改修強化",
+    "name": "Continued: Enhancing Equipment Via Improvement",
+    "desc_jp": "工廠任務：「改修工廠」で「装備」のさらなる改修強化を実施せよ！",
+    "desc": "Attempt equipment modernisation once."
+  },
+  "1167": {
+    "code": "Fw5",
+    "name_jp": "装備の改修集中強化",
+    "name": "Intensive reinforcement of equipment renovation",
+    "desc_jp": "工廠任務：さらなる戦力強化のため、本日中に「改修工廠」で「装備」改修強化を連続三回実施せよ！",
+    "desc": "Attempt equipment modernisation three times in one day."
   }
 }

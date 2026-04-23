@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030697",
+  "version": "21030698",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4633,5 +4633,19 @@
     "name": "[First Striking Force] Prepare for Sortie!",
     "desc_jp": "第一艦隊旗艦に「大和」、同二番艦に「矢矧」を配備。他随伴に「磯風」「浜風」「雪風」「冬月」「涼月」<br>「霞」「初霜」「朝霜」から4隻を配備。「15.2cm単装砲」x4廃棄。開発資材300と燃料500を準備せよ！",
     "desc": "Have Yamato as secretary, Yahagi as second ship and any 4 of Isokaze, Hamakaze, Yukikaze, Fuyutsuki, Suzutsuki, Kasumi, Hatsushimo and Asashimo in the fleet and then proceed to scrap 4x 15.2cm Single Gun Mount and have 300x Development Materials and 500x Fuel (All resources and Materials will be consumed upon completion)"
+  },
+  "1166": {
+    "code": "Fd9",
+    "name_jp": "続：装備の改修強化",
+    "name": "Continued: Enhancing Equipment Via Improvement",
+    "desc_jp": "工廠任務：「改修工廠」で「装備」のさらなる改修強化を実施せよ！",
+    "desc": "Attempt equipment modernisation once."
+  },
+  "1167": {
+    "code": "Fw5",
+    "name_jp": "装備の改修集中強化",
+    "name": "Intensive reinforcement of equipment renovation",
+    "desc_jp": "工廠任務：さらなる戦力強化のため、本日中に「改修工廠」で「装備」改修強化を連続三回実施せよ！",
+    "desc": "Attempt equipment modernisation three times in one day."
   }
 }
