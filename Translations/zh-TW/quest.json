@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030700",
+  "version": "21030701",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4129,6 +4129,13 @@
     "name": "夕立姊！這次我也要跟上！",
     "desc_jp": "ソロモン海特別任務：改装白露型駆逐艦「夕立改二」及び「春雨改二」を含む強力な艦隊で、カレー洋<br>リランカ島沖、そして南方サブ島沖海域、サーモン海域、サーモン海域北方に出撃！敵を撃滅せよ！",
     "desc": "所羅門海特別任務：以包含改裝白露型驅逐艦「夕立改二」及「春雨改二」的強力艦隊，出擊至咖哩洋<br>斯里蘭卡島沖、以及南方薩沃島沖海域、所羅門群島海域、所羅門群島海域北方！擊滅敵人！"
+  },
+  "1009": {
+    "code": "2604 B6",
+    "name_jp": "【13周年記念任務:拡張作戦】艦隊、南方へ！",
+    "name": "【13周年記念任務:拡張作戦】艦隊、南方へ！",
+    "desc_jp": "【拡張作戦】旗艦/二番艦を「吹雪」「大和」「翔鶴」「杉」「迅鯨」「衣笠改二」「Mogador」「Gotland」<br>「Thonburi」「Johnston」「Fletcher改 Mod.2/Mk.II」を含む精鋭艦隊で、南方海域の敵艦隊を一撃せよ！",
+    "desc": "Organize a fleet with two of Fubuki, Yamato, Shoukaku, Sugi, Jingei, Kinugasa Kai Ni, Mogador, Gotland, Thonburi, Johnston or Fletcher Kai Mod.2/Mk.II as flagship and second ship and score an S rank at the boss nodes on 5-1, 5-2, 5-3, 5-4 and 5-5"
   },
   "1010": {
     "code": "B212",
