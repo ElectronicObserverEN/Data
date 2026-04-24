@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030704",
+  "version": "21030705",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1732,8 +1732,8 @@
   "363": {
     "code": "2604 Cw1",
     "name_jp": "【13周年記念任務】記念祝賀艦隊演習！",
-    "name": "【13周年記念任務】記念祝賀艦隊演習！",
-    "desc_jp": "【13周年演習】旗艦と二番艦を「Thonburi」「野埼/南海」「大泊」「瑞穂」「杉」「朧」「曙」「漣」「潮」<br>そして「吹雪」のいずれかで編成した祝賀艦隊で、本日中に演習【A判定】勝利以上を5回以上達成せよ！",
+    "name": "[13th Anniversary] Commemorative Fleet Exercises!",
+    "desc_jp": "【13周年演習】旗艦及び二番艦を「Thonburi」「野埼/南海」「大泊」「瑞穂」「杉」「朧」「曙」「漣」「潮」<br>そして「吹雪」のいずれかで編成した祝賀艦隊で、本日中に演習【A判定】勝利以上を5回以上達成せよ！",
     "desc": "Organize a fleet with two of Thonburi, Nankai, Ootomari, Mizuho, Sugi, Oboro, Akebono, Sazanami, Ushio and Fubuki as flagship and second ship and score A rank five times in PvP"
   },
   "364": {
@@ -2117,14 +2117,14 @@
   "448": {
     "code": "2604 D1",
     "name_jp": "【13周年記念任務】13周年観艦式準備",
-    "name": "【13周年記念任務】13周年観艦式準備",
+    "name": "[13th Anniversary Quest] Preparations for the 13th Anniversary Fleet Review",
     "desc_jp": "【13周年記念観艦式準備】「警備任務」「兵站強化任務」「長時間対潜警戒」を1回ずつ、<br>さらに「観艦式予行」を2回実施、13周年記念観艦式挙行の準備を整えよ！",
     "desc": "Complete expeditions 03, A1 and A3 once and expedition 07 twice."
   },
   "449": {
     "code": "2604 D2",
     "name_jp": "【13周年記念任務】13周年観艦式",
-    "name": "【13周年記念任務】13周年観艦式",
+    "name": "[13th Anniversary Quest] 13th Anniversary Fleet Review",
     "desc_jp": "【13周年記念観艦式】艦隊13周年を祝して、祝賀記念の「観艦式」を挙行せよ！",
     "desc": "Complete expedition 08"
   },
@@ -2134,6 +2134,13 @@
     "name": "【期間限定:擴張任務】水雷戰隊遠征作戰！",
     "desc_jp": "【期間限定】拡張作戦：「海上護衛任務」「資源輸送任務」「タンカー護衛任務」<br>「兵站強化任務」「包囲陸戦隊撤収作戦」遠征を実施、これを見事成功させよ！",
     "desc": "【期間限定】擴張作戰：實施遠征「海上護衛任務」「資源輸送任務」「油輪護衛任務」「兵站強化任務」「包圍陸戰隊撤收作戰」，並漂亮地使其成功！"
+  },
+  "451": {
+    "code": "2604 Dw1",
+    "name_jp": "【13周年記念拡張任務】緊急資源輸出入",
+    "name": "[13th Anniversary] Emergency Resource Export & Import",
+    "desc_jp": "資源輸出任務：輸出用の弾薬3,000及びボーキサイト2,026を用意。その上で「海上護衛任務」<br>及び「タンカー護衛任務」「ボーキサイト輸送任務」を各複数回実施、これを見事成功させよ！",
+    "desc": "Prepare 3000 ammo and 2026 bauxite. Complete expeditions 05, 09, and 11 twice each. (All resources and Materials will be consumed upon completion)"
   },
   "501": {
     "code": "E1",
@@ -3965,14 +3972,14 @@
   "971": {
     "code": "2604 B4",
     "name_jp": "【13周年記念任務】艦隊13周年、抜錨せよ！",
-    "name": "【13周年記念任務】艦隊13周年、抜錨せよ！",
+    "name": "[13th Anniversary Quest] Fleet's 13th Anniversary, Set Sail!",
     "desc_jp": "旗艦及び同随伴艦に潜水母艦または軽巡を各1隻、駆逐艦または潜水艦計2隻以上を含む周年記念艦隊で、<br>南西諸島沖、製油所地帯沿岸、南西諸島防衛線、鎮守府近海を戦闘哨戒！敵を圧倒、制海権を確立せよ！",
     "desc": "Organize a fleet with two AS/CL with one as flagship and two DD/SS(V)  in your fleet and score an S rank at the boss nodes on 1-2, 1-3, 1-4 and 1-5"
   },
   "972": {
     "code": "2604 B5",
     "name_jp": "【13周年記念任務】一航戦、揺るぎません！",
-    "name": "【13周年記念任務】一航戦、揺るぎません！",
+    "name": "[13th Anniversary Quest] CarDiv1 Remains Unwavering!",
     "desc_jp": "第一航空戦隊「赤城」「加賀」または「翔鶴」「瑞鶴」をそれぞれ旗艦及び同二番艦とする精鋭艦隊で、<br>東部オリョール海、沖ノ島海域、珊瑚諸島沖、サーモン海域に展開！敵主力艦隊を捕捉、これを撃滅せよ！",
     "desc": "Organize a fleet with Akagi and Kaga or Shoukaku and Zuikaku as flagship and second ship in your fleet and score an S rank at the boss nodes on 2-3, 2-4, 5-2 and 5-4"
   },
@@ -4017,6 +4024,13 @@
     "name": "【擴張作戰】重改裝「大和改二重」，出擊！",
     "desc_jp": "【拡張作戦】重改装「大和改二重」を旗艦とする有力な艦隊で、ペナン島沖深部、昭南本土航路、<br>サーモン海域北方、中部北海域ピーコック島沖に出撃！各戦域の敵戦力を撃滅粉砕せよ！",
     "desc": "【擴張作戰】以重改裝「大和改二重」為旗艦的強力艦隊，出擊至檳城島沖深部、昭南本土航路、<br>所羅門群島海域北方、中部北海域孔雀島沖！在各戰域擊滅粉碎敵戰力！"
+  },
+  "979": {
+    "code": "2604 Bm1",
+    "name_jp": "【13周年記念任務:拡張作戦】強行輸送作戦",
+    "name": "[13th Anniversary: Extra Operation] Enforcement Transport Operation",
+    "desc_jp": "【強行海上輸送作戦】強行海上輸送を実施する！旗艦及び二番艦三番艦に海防艦を配した艦隊で、<br>製油所地帯沿岸、南西諸島防衛線、鎮守府近海航路に反復展開！強行輸送作戦を完遂せよ！",
+    "desc": "Organize a fleet with XX in your fleet and score an S rank at the boss nodes on XX, and XX (Part X)"
   },
   "980": {
     "code": "B184",
@@ -4140,7 +4154,7 @@
   "1009": {
     "code": "2604 B6",
     "name_jp": "【13周年記念任務:拡張作戦】艦隊、南方へ！",
-    "name": "【13周年記念任務:拡張作戦】艦隊、南方へ！",
+    "name": "[13th Anniversary: Extra Operation] Fleet, Head South!",
     "desc_jp": "【拡張作戦】旗艦/二番艦を「吹雪」「大和」「翔鶴」「杉」「迅鯨」「衣笠改二」「Mogador」「Gotland」<br>「Thonburi」「Johnston」「Fletcher改 Mod.2/Mk.II」を含む精鋭艦隊で、南方海域の敵艦隊を一撃せよ！",
     "desc": "Organize a fleet with two of Fubuki, Yamato, Shoukaku, Sugi, Jingei, Kinugasa Kai Ni, Mogador, Gotland, Thonburi, Johnston or Fletcher Kai Mod.2/Mk.II as flagship and second ship and score an S rank at the boss nodes on 5-1, 5-2, 5-3, 5-4 and 5-5"
   },
@@ -4294,7 +4308,7 @@
   "1045": {
     "code": "By16",
     "name_jp": "「吹雪改三」抜錨します！見てくださいっ！",
-    "name": "「吹雪改三」抜錨します！見てくださいっ！",
+    "name": "\"Fubuki Kai San\" Sets Sail! Check it Out!",
     "desc_jp": "「吹雪改三/改三護(六式)」旗艦、二番艦に特I型を配備した精鋭艦隊で、ジャワ島沖最深部、南方海域前面、<br>サブ島沖海域、サーモン海域、サーモン海域北方に出撃！敵主力と交戦、蹴散らせっ！吹雪、抜錨しますっ！",
     "desc": "Organize a fleet with Fubuki Kai San/San Go (Type 6) as flagship and a Special Type Destroyer as second ship in your fleet and score an S rank at the boss nodes on 5-1, 5-3, 5-4, 5-5 and 7-5 (Part 3)"
   },
@@ -4434,7 +4448,7 @@
   "1126": {
     "code": "2604 Fm1",
     "name_jp": "【13周年記念任務:拡張作戦】大規模工廠任務",
-    "name": "【13周年記念任務:拡張作戦】大規模工廠任務",
+    "name": "[13th Anniversary: Extra Operation] Large-Scale Arsenal Mission",
     "desc_jp": "「中口径主砲」x13、「水上偵察機」x13、さらに「35.6cm連装砲」x8を廃棄。「14cm連装砲」x4、<br>ボーキサイト980、弾薬2,800を準備せよ！(任務達成後、準備装備及び資材等は消費します)",
     "desc": "Proceed to scrap 13x Medium Caliber Main Gun, 13x Reconnaissance Seaplane and 8x 35.6cm Twin Gun Mount and have 4x 14cm Twin Gun Mount, 980 Bauxite and 2800 Ammo (All resources and Materials will be consumed upon completion)"
   },
@@ -4493,6 +4507,13 @@
     "name": "改良22號對水上電探",
     "desc_jp": "旗艦「時雨改二/改三」または「満潮改二」第一装備スロに「22号対水上電探改四(★max)」を<br>装備。開発資材x22、新型兵装資材x2、「22号対水上電探」x4、改修資材x6を準備せよ！",
     "desc": "以旗艦「時雨改二/改三」或「滿潮改二」第一裝備格裝備「22號對水上電探改四」(★max)。<br>準備開發資材x22、新型兵裝資材x2、「22號對水上電探」x4、改修資材x6！"
+  },
+  "1136": {
+    "code": "2604 F2",
+    "name_jp": "【13周年記念任務:拡張任務】空技廠研究開発",
+    "name": "[13th Anniversary: Extra Operation] Naval Air Technical Arsenal Research and Development",
+    "desc_jp": "「鳳翔改二/戦」または「飛龍改三」旗艦、同第一スロに「零式艦戦21型(熟練)」練度maxのみ配備。<br>開発資材x50、工廠資源x2、熟練搭乗員x1準備、「紫電一一型」x6「Swordfish」x2を廃棄せよ！",
+    "desc": "Have your secretary flagship Houshou Kai Ni/Kai Ni Sen or Hiryuu Kai San equip a ❱❱ Type 0 Fighter Model 21 (Skilled) in the first slot and then proceed to scrap 6x Shiden Model 11 and 2x Swordfish and have 50x Development Material, 2x Arsenal Resource and 1x Skilled Crew Member (All resources and Materials will be consumed upon completion)"
   },
   "1137": {
     "code": "F123",
