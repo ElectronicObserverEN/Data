@@ -21652,7 +21652,9 @@
       }
     ],
     "convert_to": [],
-    "upgrade_for": []
+    "upgrade_for": [
+      288
+    ]
   },
   {
     "eq_id": 288,
@@ -21688,11 +21690,16 @@
             "consumable": []
           },
           "p2": {
-            "devmats": 0,
-            "devmats_sli": 0,
-            "screws": 0,
-            "screws_sli": 0,
-            "equips": [],
+            "devmats": 11,
+            "devmats_sli": 33,
+            "screws": 8,
+            "screws_sli": 13,
+            "equips": [
+              {
+                "id": 287,
+                "eq_count": 1
+              }
+            ],
             "consumable": []
           }
         }
@@ -25711,7 +25718,9 @@
       }
     ],
     "convert_to": [],
-    "upgrade_for": []
+    "upgrade_for": [
+      572
+    ]
   },
   {
     "eq_id": 381,
@@ -33213,11 +33222,16 @@
             "consumable": []
           },
           "p2": {
-            "devmats": 0,
-            "devmats_sli": 0,
-            "screws": 0,
-            "screws_sli": 0,
-            "equips": [],
+            "devmats": 7,
+            "devmats_sli": 9,
+            "screws": 5,
+            "screws_sli": 7,
+            "equips": [
+              {
+                "id": 379,
+                "eq_count": 1
+              }
+            ],
             "consumable": []
           }
         }
