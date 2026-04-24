@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030699",
+  "version": "21030700",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -2120,6 +2120,13 @@
     "name": "【13周年記念任務】13周年観艦式準備",
     "desc_jp": "【13周年記念観艦式準備】「警備任務」「兵站強化任務」「長時間対潜警戒」を1回ずつ、<br>さらに「観艦式予行」を2回実施、13周年記念観艦式挙行の準備を整えよ！",
     "desc": "Complete expeditions 03, A1 and A3 once and expedition 07 twice."
+  },
+  "449": {
+    "code": "2604 D2",
+    "name_jp": "【13周年記念任務】13周年観艦式",
+    "name": "【13周年記念任務】13周年観艦式",
+    "desc_jp": "【13周年記念観艦式】艦隊13周年を祝して、祝賀記念の「観艦式」を挙行せよ！",
+    "desc": "Complete expedition 08"
   },
   "450": {
     "code": "2603 D1",
@@ -4423,6 +4430,13 @@
     "name": "Improved 3-seat Reconnaissance Seaplane",
     "desc_jp": "旗艦「利根改二」または「由良改二」第一スロに最大改修「零式水上偵察機」。「九七式艦攻(九三一空)」<br>x2廃棄、ボーキ950、新型航空兵装資材x2、開発資材x35、熟練搭乗員x2を準備！",
     "desc": "Have your secretary flagship Yura Kai Ni or Tone Kai Ni equip a max Type 0 Reconnaissance Seaplane in the first slot and then proceed to scrap 2x Type 97 Torpedo Bomber (931 Air Group) and have 950 bauxite, 2x New Model Aviation Material, 35x Development Material and 2x Skilled Crew Member (All resources and Materials will be consumed upon completion)"
+  },
+  "1126": {
+    "code": "2604 Fm1",
+    "name_jp": "【13周年記念任務:拡張作戦】大規模工廠任務",
+    "name": "【13周年記念任務:拡張作戦】大規模工廠任務",
+    "desc_jp": "「中口径主砲」x13、「水上偵察機」x13、さらに「35.6cm連装砲」x8を廃棄。「14cm連装砲」x4、<br>ボーキサイト980、弾薬2,800を準備せよ！(任務達成後、準備装備及び資材等は消費します)",
+    "desc": "Proceed to scrap 13x Medium Caliber Main Gun, 13x Reconnaissance Seaplane and 8x 35.6cm Twin Gun Mount and have 4x 14cm Twin Gun Mount, 980 Bauxite and 2800 Ammo (All resources and Materials will be consumed upon completion)"
   },
   "1127": {
     "code": "F115",

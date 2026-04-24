@@ -12290,5 +12290,33 @@
     "season_id": null,
     "tracker": "",
     "progressResetType": 1
+  },
+  {
+    "id": 895,
+    "api_id": 449,
+    "code": "2604 D2",
+    "name_jp": "【13周年記念任務】13周年観艦式",
+    "name_en": "【13周年記念任務】13周年観艦式",
+    "desc_jp": "【13周年記念観艦式】艦隊13周年を祝して、祝賀記念の「観艦式」を挙行せよ！",
+    "desc_en": "Complete expedition 08",
+    "added_update_id": 90,
+    "removed_update_id": null,
+    "season_id": 43,
+    "tracker": "[[449],[[1,[[8],1]]],[0,[]]]",
+    "progressResetType": null
+  },
+  {
+    "id": 896,
+    "api_id": 1126,
+    "code": "2604 Fm1",
+    "name_jp": "【13周年記念任務:拡張作戦】大規模工廠任務",
+    "name_en": "【13周年記念任務:拡張作戦】大規模工廠任務",
+    "desc_jp": "「中口径主砲」x13、「水上偵察機」x13、さらに「35.6cm連装砲」x8を廃棄。「14cm連装砲」x4、<br>ボーキサイト980、弾薬2,800を準備せよ！(任務達成後、準備装備及び資材等は消費します)",
+    "desc_en": "Proceed to scrap 13x Medium Caliber Main Gun, 13x Reconnaissance Seaplane and 8x 35.6cm Twin Gun Mount and have 4x 14cm Twin Gun Mount, 980 Bauxite and 2800 Ammo (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 90,
+    "removed_update_id": null,
+    "season_id": 43,
+    "tracker": "[[1126],[[3,[7,8]],[4,[2,13]],[4,[10,13]]],[0,[]]]",
+    "progressResetType": null
   }
 ]
