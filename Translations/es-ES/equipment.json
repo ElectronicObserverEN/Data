@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030304",
+  "version": "21030305",
   "equiptype": {
     "小口径主砲": "Arma de Calibre Pequeño",
     "中口径主砲": "Arma de Calibre Mediano",
@@ -781,6 +781,9 @@
     "三式爆雷投射機改": "Type 3 Depth Charge Projector Kai",
     "震電改三(試製 噴式震電)": "Shinden Kai 3 (Prototype Jet Shinden)",
     "流星改(友永隊)": "Ryuusei Kai (Tomonaga Squadron)",
-    "53cm連装魚雷改(酸素魚雷)": "53cm Twin Torpedo Mount Kai (Oxygen)"
+    "53cm連装魚雷改(酸素魚雷)": "53cm Twin Torpedo Mount Kai (Oxygen)",
+    "12.7cm単装高角砲改三": "12.7cm Twin High-angle Gun Mount Kai San",
+    "試製 23号電探改三": "Prototype Type 23 Radar Kai San",
+    "SCレーダー改(後期調整型)": "SC Radar Kai (Calibrated Late Model)"
   }
 }
