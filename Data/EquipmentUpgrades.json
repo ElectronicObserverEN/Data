@@ -1249,7 +1249,7 @@
             "devmats": 3,
             "devmats_sli": 4,
             "screws": 3,
-            "screws_sli": 5,
+            "screws_sli": 4,
             "equips": [
               {
                 "id": 11,
@@ -8992,7 +8992,6 @@
               160
             ],
             "days": [
-              0,
               4,
               5,
               2,
