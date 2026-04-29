@@ -8879,7 +8879,8 @@
     "convert_to": [],
     "upgrade_for": [
       30,
-      142
+      142,
+      574
     ]
   },
   {
@@ -33513,11 +33514,16 @@
             "consumable": []
           },
           "p2": {
-            "devmats": 0,
-            "devmats_sli": 0,
-            "screws": 0,
-            "screws_sli": 0,
-            "equips": [],
+            "devmats": 26,
+            "devmats_sli": 33,
+            "screws": 9,
+            "screws_sli": 12,
+            "equips": [
+              {
+                "id": 89,
+                "eq_count": 1
+              }
+            ],
             "consumable": []
           }
         }
