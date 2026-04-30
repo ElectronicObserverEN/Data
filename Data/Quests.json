@@ -12200,11 +12200,11 @@
     "name_jp": "「吹雪改三」抜錨します！見てくださいっ！",
     "name_en": "\"Fubuki Kai San\" Sets Sail! Check it Out!",
     "desc_jp": "「吹雪改三/改三護(六式)」旗艦、二番艦に特I型を配備した精鋭艦隊で、ジャワ島沖最深部、南方海域前面、<br>サブ島沖海域、サーモン海域、サーモン海域北方に出撃！敵主力と交戦、蹴散らせっ！吹雪、抜錨しますっ！",
-    "desc_en": "Organize a fleet with Fubuki Kai San/San Go (Type 6) as flagship and a Special Type Destroyer as second ship in your fleet and score an S rank at the boss nodes on 5-1, 5-3, 5-4, 5-5 and 7-5 (Part 3)",
+    "desc_en": "Organize a fleet with Fubuki Kai San/San Go (Type 6) as flagship and another Fubuki-class as second ship in your fleet and score an S rank at the boss nodes on 5-1, 5-3, 5-4, 5-5 and 7-5 (Part 3)",
     "added_update_id": 90,
     "removed_update_id": null,
     "season_id": null,
-    "tracker": "[[1045],[[0,[[5,1],6,1]],[0,[[5,3],6,1]],[0,[[5,4],6,1]],[0,[[5,5],6,1]],[2,[[7,5],6,1,[24,25],\"-3\"]]],[0,[[5,[1035,1,0]],[0,[1,[[5,[13,2,0]],[5,[14,2,0]],[5,[479,2,0]],[5,[480,2,0]],[5,[93,2,0]],[5,[15,2,0]],[5,[94,2,0]],[5,[16,2,0]],[5,[10,2,0]],[5,[32,2,0]],[5,[11,2,0]],[5,[33,2,0]],[5,[631,2,0]],[5,[964,2,0]],[5,[12,2,0]],[5,[486,2,0]],[5,[35,2,0]],[5,[34,2,0]],[5,[36,2,0]],[5,[37,2,0]]]]]]]]",
+    "tracker": "[[1045],[[0,[[5,1],6,1]],[0,[[5,3],6,1]],[0,[[5,4],6,1]],[0,[[5,5],6,1]],[2,[[7,5],6,1,[24,25],\"-3\"]]],[0,[[5,[1035,1,0]],[0,[1,[[5,[10,2,0]],[5,[32,2,0]],[5,[11,2,0]],[5,[33,2,0]],[5,[631,2,0]],[5,[964,2,0]],[5,[12,2,0]],[5,[486,2,0]]]]]]]]",
     "progressResetType": null
   },
   {

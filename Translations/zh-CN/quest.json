@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030708",
+  "version": "21030709",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4310,7 +4310,7 @@
     "name_jp": "「吹雪改三」抜錨します！見てくださいっ！",
     "name": "\"Fubuki Kai San\" Sets Sail! Check it Out!",
     "desc_jp": "「吹雪改三/改三護(六式)」旗艦、二番艦に特I型を配備した精鋭艦隊で、ジャワ島沖最深部、南方海域前面、<br>サブ島沖海域、サーモン海域、サーモン海域北方に出撃！敵主力と交戦、蹴散らせっ！吹雪、抜錨しますっ！",
-    "desc": "Organize a fleet with Fubuki Kai San/San Go (Type 6) as flagship and a Special Type Destroyer as second ship in your fleet and score an S rank at the boss nodes on 5-1, 5-3, 5-4, 5-5 and 7-5 (Part 3)"
+    "desc": "Organize a fleet with Fubuki Kai San/San Go (Type 6) as flagship and another Fubuki-class as second ship in your fleet and score an S rank at the boss nodes on 5-1, 5-3, 5-4, 5-5 and 7-5 (Part 3)"
   },
   "1101": {
     "code": "F96",
