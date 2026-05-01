@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030709",
+  "version": "21030710",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4311,6 +4311,13 @@
     "name": "「吹雪改三」要拔錨了！請看著我吧！",
     "desc_jp": "「吹雪改三/改三護(六式)」旗艦、二番艦に特I型を配備した精鋭艦隊で、ジャワ島沖最深部、南方海域前面、<br>サブ島沖海域、サーモン海域、サーモン海域北方に出撃！敵主力と交戦、蹴散らせっ！吹雪、抜錨しますっ！",
     "desc": "以「吹雪改三／改三護(六式)」為旗艦，並於二番艦配置特I型的精銳艦隊，出擊至爪哇島沖最深部、南方海域前面、薩沃島沖海域、所羅門群島海域與所羅門群島海域北方！與敵主力交戰，將其踢散吧！吹雪，要拔錨了！"
+  },
+  "1046": {
+    "code": "2605 B1",
+    "name_jp": "【期間限定任務】提督、菖蒲の湯は如何ですか?",
+    "name": "[Limited-Time Quest] Admiral, How About a Bath with Irises?",
+    "desc_jp": "旗艦に「山汐丸」または「第四号海防艦」「第三〇号海防艦」、随伴に海防艦を2隻以上、駆逐艦1隻以上を<br>配備。同艦隊で南西諸島沖、製油所地帯沿岸、鎮守府近海、南西諸島防衛線を反復哨戒！敵を撃破せよ！",
+    "desc": "Organize a fleet with one of Yamashio Maru, Kaiboukan No.4 or Kaiboukan No.30 as flagship, 2 DE and a DD in your fleet and score an A rank at the boss nodes on  1-2, 1-3, 1-4 and 1-5 twice each"
   },
   "1101": {
     "code": "F96",

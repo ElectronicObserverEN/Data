@@ -856,5 +856,16 @@
     "live_update": false,
     "maint_start_tweet": "https://fxtwitter.com/KanColle_STAFF/status/2046584941128110477",
     "maint_end_tweet": "https://fxtwitter.com/KanColle_STAFF/status/2047323768394240470"
+  },
+  {
+    "id": 91,
+    "start_date": "2026-05-01T00:00:00",
+    "start_time": "00:00:00",
+    "end_time": null,
+    "name": "May 1st 2026 Update",
+    "description": "",
+    "live_update": true,
+    "maint_start_tweet": "",
+    "maint_end_tweet": ""
   }
 ]

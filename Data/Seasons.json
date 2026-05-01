@@ -244,5 +244,11 @@
     "name": "13th anniv",
     "added_update_id": 90,
     "removed_update_id": null
+  },
+  {
+    "id": 44,
+    "name": "May 2026",
+    "added_update_id": 91,
+    "removed_update_id": null
   }
 ]
