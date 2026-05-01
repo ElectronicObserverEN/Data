@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030733",
+  "version": "21030734",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4689,5 +4689,12 @@
     "name": "Intensive reinforcement of equipment renovation",
     "desc_jp": "工廠任務：さらなる戦力強化のため、本日中に「改修工廠」で「装備」改修強化を連続三回実施せよ！",
     "desc": "Attempt equipment modernisation three times in one day."
+  },
+  "1168": {
+    "code": "2605 F1",
+    "name_jp": "【期間限定任務・拡張任務】端午の節句工廠【I】",
+    "name": "[Limited-Time Quest - Extra Quest] Boys' Festival Factory [I]",
+    "desc_jp": "第一艦隊の旗艦及び二番艦に「山汐丸改」または「第四号海防艦」「第三〇号海防艦」を配備。<br>練度maxの「九六式艦戦」x3廃棄。工廠資源x1、開発資材x55、弾薬x550を準備せよ！",
+    "desc": "Have Yamashio Maru Kai, Kaiboukan No.4 or Kaiboukan No.30 as secretary and second ship then proceed to scrap 3x ❱❱ Type 96 Fighter and have 1x Arsenal Resource, 55x Development Material and 550x ammo (All resources and Materials will be consumed upon completion)"
   }
 }
