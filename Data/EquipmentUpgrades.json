@@ -21745,7 +21745,22 @@
               }
             ],
             "consumable": []
-          }
+          },
+          "extra": [
+            {
+              "levels": [
+                9,
+                10
+              ],
+              "consumable": [
+                {
+                  "id": 92,
+                  "eq_count": 1
+                }
+              ],
+              "equips": []
+            }
+          ]
         }
       }
     ],
