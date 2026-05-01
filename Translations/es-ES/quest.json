@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030707",
+  "version": "21030708",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4696,5 +4696,12 @@
     "name": "[Limited-Time Quest - Extra Quest] Boys' Festival Factory [I]",
     "desc_jp": "第一艦隊の旗艦及び二番艦に「山汐丸改」または「第四号海防艦」「第三〇号海防艦」を配備。<br>練度maxの「九六式艦戦」x3廃棄。工廠資源x1、開発資材x55、弾薬x550を準備せよ！",
     "desc": "Have Yamashio Maru Kai, Kaiboukan No.4 or Kaiboukan No.30 as secretary and second ship then proceed to scrap 3x ❱❱ Type 96 Fighter and have 1x Arsenal Resource, 55x Development Material and 550x ammo (All resources and Materials will be consumed upon completion)"
+  },
+  "1169": {
+    "code": "2605 F2",
+    "name_jp": "【期間限定任務・拡張任務】端午の節句工廠【II】",
+    "name": "[Limited-Time Quest - Extra Quest] Boys' Festival Factory [II]",
+    "desc_jp": "第一艦隊の旗艦及び二番艦に「山汐丸改」または「第四号海防艦」「第三〇号海防艦」を配備。<br>練度maxの「九七式艦攻」x5廃棄。工廠資源x2、開発資材x155、燃料と弾薬x各550を準備せよ！",
+    "desc": "Have Yamashio Maru Kai, Kaiboukan No.4 or Kaiboukan No.30 as secretary and second ship then proceed to scrap 5x ❱❱ Type 97 Torpedo Bomber and have 2x Arsenal Resource, 155x Development Material, 550x fuel and 550x ammo (All resources and Materials will be consumed upon completion)"
   }
 }
