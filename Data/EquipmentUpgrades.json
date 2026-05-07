@@ -9039,9 +9039,9 @@
           },
           "p2": {
             "devmats": 4,
-            "devmats_sli": 5,
+            "devmats_sli": 6,
             "screws": 3,
-            "screws_sli": 4,
+            "screws_sli": 3,
             "equips": [
               {
                 "id": 91,
