@@ -33540,7 +33540,23 @@
               }
             ],
             "consumable": []
-          }
+          },
+          "extra": [
+            {
+              "levels": [
+                8,
+                9,
+                10
+              ],
+              "consumable": [
+                {
+                  "id": 104,
+                  "eq_count": 2
+                }
+              ],
+              "equips": []
+            }
+          ]
         }
       }
     ],
