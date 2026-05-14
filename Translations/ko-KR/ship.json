@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030213",
+  "version": "21030214",
   "ship": {
     "長門": "나가토",
     "陸奥": "무츠",
@@ -631,7 +631,10 @@
     "Courageous級": "커레이저스급",
     "Glorious級": "글로리어스급",
     "野埼型": "노사키형",
-    "Thonburi級": "톤부리급"
+    "Thonburi級": "톤부리급",
+    "大泊型": "Ootomari Class",
+    "Киров級": "Kirov Class",
+    "特1TL型": "Special 1TL Type"
   },
   "suffix": {
     "改": "改",

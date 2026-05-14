@@ -814,5 +814,23 @@
     "ApiId": 137,
     "NameEnglish": "Thonburi Class",
     "NameJapanese": "Thonburi級"
+  },
+  {
+    "Id": 1620,
+    "ApiId": 130,
+    "NameEnglish": "Ootomari Class",
+    "NameJapanese": "大泊型"
+  },
+  {
+    "Id": 1621,
+    "ApiId": 131,
+    "NameEnglish": "Kirov Class",
+    "NameJapanese": "Киров級"
+  },
+  {
+    "Id": 1622,
+    "ApiId": 132,
+    "NameEnglish": "Special 1TL Type",
+    "NameJapanese": "特1TL型"
   }
 ]

@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030205",
+  "version": "21030206",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -630,7 +630,10 @@
     "Courageous級": "Courageous Class",
     "Glorious級": "Glorious Class",
     "野埼型": "Nosaki Class",
-    "Thonburi級": "Thonburi Class"
+    "Thonburi級": "Thonburi Class",
+    "大泊型": "Ootomari Class",
+    "Киров級": "Kirov Class",
+    "特1TL型": "Special 1TL Type"
   },
   "suffix": {
     "改": "Kai",

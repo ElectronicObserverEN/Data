@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030206",
+  "version": "21030207",
   "ship": {
     "長門": "長門",
     "陸奥": "陸奧",
@@ -631,7 +631,10 @@
     "Courageous級": "Courageous級",
     "Glorious級": "Glorious級",
     "野埼型": "野埼型",
-    "Thonburi級": "Thonburi級"
+    "Thonburi級": "Thonburi級",
+    "大泊型": "Ootomari Class",
+    "Киров級": "Kirov Class",
+    "特1TL型": "Special 1TL Type"
   },
   "suffix": {
     "改": "改",
