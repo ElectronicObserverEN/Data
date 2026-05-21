@@ -867,5 +867,16 @@
     "live_update": true,
     "maint_start_tweet": "",
     "maint_end_tweet": ""
+  },
+  {
+    "id": 92,
+    "start_date": "2026-05-29T00:00:00",
+    "start_time": "11:00:00",
+    "end_time": null,
+    "name": "End of may May 2026 Update",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://fxtwitter.com/KanColle_STAFF/status/2057334071949422866",
+    "maint_end_tweet": ""
   }
 ]
