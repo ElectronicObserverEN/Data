@@ -26899,13 +26899,24 @@
             },
             {
               "levels": [
-                9,
-                10
+                9
               ],
               "consumable": [
                 {
                   "id": 94,
                   "eq_count": 3
+                }
+              ],
+              "equips": []
+            },
+            {
+              "levels": [
+                10
+              ],
+              "consumable": [
+                {
+                  "id": 75,
+                  "eq_count": 1
                 }
               ],
               "equips": []
