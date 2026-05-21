@@ -872,7 +872,7 @@
     "id": 92,
     "start_date": "2026-05-29T00:00:00",
     "start_time": "11:00:00",
-    "end_time": null,
+    "end_time": "20:00:00",
     "name": "End of may May 2026 Update",
     "description": "",
     "live_update": false,
