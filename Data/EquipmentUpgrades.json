@@ -33486,12 +33486,23 @@
             {
               "levels": [
                 8,
-                9,
-                10
+                9
               ],
               "consumable": [
                 {
                   "id": 94,
+                  "eq_count": 1
+                }
+              ],
+              "equips": []
+            },
+            {
+              "levels": [
+                10
+              ],
+              "consumable": [
+                {
+                  "id": 104,
                   "eq_count": 1
                 }
               ],
