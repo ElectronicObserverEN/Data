@@ -12416,5 +12416,33 @@
     "season_id": 45,
     "tracker": "",
     "progressResetType": null
+  },
+  {
+    "id": 904,
+    "api_id": 367,
+    "code": "2605 Cd1",
+    "name_jp": "【梅雨限定任務】海上護衛戦、雨中演習2026",
+    "name_en": "【梅雨限定任務】海上護衛戦、雨中演習2026",
+    "desc_jp": "【梅雨限定任務】海防艦3隻以上または駆逐艦5隻以上を含む演習海上護衛隊を編成！同演習戦隊で<br>本日中に演習において【A判定】勝利を4回以上達成せよ！ 海上護衛隊各艦、雨中海上演習始めッ！",
+    "desc_en": "Organize a fleet with 3DE or 5DD in your fleet and score A rank 4 times in PvP",
+    "added_update_id": 92,
+    "removed_update_id": null,
+    "season_id": 45,
+    "tracker": "[[367],[[9,[5,4]]],[1,[[2,[[2],5,false,0,0]],[2,[[1],3,false,0,0]]]]]",
+    "progressResetType": 1
+  },
+  {
+    "id": 906,
+    "api_id": 954,
+    "code": "954",
+    "name_jp": "【梅雨限定任務】梅雨の海上護衛強化2026",
+    "name_en": "【梅雨限定任務】梅雨の海上護衛強化2026",
+    "desc_jp": "【梅雨限定任務】軽空母を旗艦、駆逐艦2隻以上を含む海上護衛隊で、製油所地帯沿岸、鎮守府近海、<br>東部オリョール海、昭南本土航路に展開！さらに、鎮守府近海航路の海上護衛作戦を3回成功させよ！",
+    "desc_en": "【梅雨限定任務】軽空母を旗艦、駆逐艦2隻以上を含む海上護衛隊で、製油所地帯沿岸、鎮守府近海、<br>東部オリョール海、昭南本土航路に展開！さらに、鎮守府近海航路の海上護衛作戦を3回成功させよ！",
+    "added_update_id": null,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "",
+    "progressResetType": null
   }
 ]
