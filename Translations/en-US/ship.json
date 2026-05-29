@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030207",
+  "version": "21030208",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -679,7 +679,8 @@
     "休日mode": "Holiday Mode",
     "(揚陸中)": "(Landing)",
     "(初期型)": "(Initial Model)",
-    "(六式)": "(Type 6)"
+    "(六式)": "(Type 6)",
+    "補": "Ho"
   },
   "stype": {
     "海防艦": "DE",

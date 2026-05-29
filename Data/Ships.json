@@ -14821,5 +14821,41 @@
     "ShipClassId": 1461,
     "ShipClassApiId": 12,
     "IsFriendly": true
+  },
+  {
+    "Id": 1843,
+    "NameEN": "Naganami Kai Ni Ho",
+    "NameJP": "長波改二補",
+    "ApiId": 743,
+    "ShipClassId": 1498,
+    "ShipClassApiId": 38,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1844,
+    "NameEN": "Asashimo Kai Ni Ho",
+    "NameJP": "朝霜改二補",
+    "ApiId": 744,
+    "ShipClassId": 1498,
+    "ShipClassApiId": 38,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1845,
+    "NameEN": "Suzunami Kai Ni",
+    "NameJP": "涼波改二",
+    "ApiId": 1034,
+    "ShipClassId": 1498,
+    "ShipClassApiId": 38,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1846,
+    "NameEN": "Suzunami Kai Ni Ho",
+    "NameJP": "涼波改二補",
+    "ApiId": 745,
+    "ShipClassId": 1498,
+    "ShipClassApiId": 38,
+    "IsFriendly": true
   }
 ]
