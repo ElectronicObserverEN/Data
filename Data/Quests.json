@@ -12444,5 +12444,33 @@
     "season_id": 45,
     "tracker": "[[954],[[0,[[1,3],6,1]],[0,[[1,5],6,1]],[0,[[2,3],6,1]],[0,[[7,4],6,1]],[7,[[1,6],3,[14,17],\"N\"]]],[0,[[2,[[7],1,true,0,0]],[2,[[2],2,false,0,0]]]]]",
     "progressResetType": null
+  },
+  {
+    "id": 908,
+    "api_id": 1047,
+    "code": "B216",
+    "name_jp": "「涼波改二」ラバウルより抜錨せよ！",
+    "name_en": "Suzunami Kai Ni, Weigh Anchor from Rabaul!\t",
+    "desc_jp": "「涼波改二/補」旗艦、他に「鳥海」「鈴谷」「最上」「能代」「玉波」「藤波」「早波」2隻以上を含む艦隊<br>で、サーモン海域、サーモン海域北方、ラバウル方面海域最深部に反復出撃！ラバウル周辺の敵を駆逐せよ！",
+    "desc_en": "Organize a fleet with Suzunami Kai Ni+ as flagship and any 2 of Choukai, Suzuya, Mogami, Noshiro, Tamanami, Fujinami and Hayanami in your fleet and score an S rank at the boss nodes on 5-4, 5-5 and 5-6 (Part 3) twice each",
+    "added_update_id": 92,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1047],[[0,[[5,4],6,2]],[0,[[5,5],6,2]],[2,[[5,6],6,2,[43],\"-3\"]]],[0,[[5,[1034,1,1]],[8,[[[69,false,0,0],[124,false,0,0],[70,false,0,0],[138,false,0,0],[674,false,0,0],[485,false,0,0],[528,false,0,0]],2]]]]]",
+    "progressResetType": null
+  },
+  {
+    "id": 909,
+    "api_id": 1031,
+    "code": "2605 B2",
+    "name_jp": "【初夏限定任務】北方海域 戦闘哨戒作戦2026",
+    "name_en": "【初夏限定任務】北方海域 戦闘哨戒作戦2026",
+    "desc_jp": "「Thonburi」「Tuscaloosa」「Gambier Bay」「榛名」「宗谷」「夕張」「早波」「浜波」「薄雲」「朧」<br>「大井」の旗艦含む3隻以上の艦隊で、モーレイ海、キス島沖、北方AL海域に反復展開！敵を撃滅せよ！",
+    "desc_en": "Organize a fleet with any 3 of Thonburi, Tuscaloosa, Gambier Bay, Haruna, Souya, Yuubari, Hayanami, Hamanami, Usugumo, Oboro and Ooi in your fleet and score an S rank at the boss nodes on 3-1, 3-2 and 3-5 twice each",
+    "added_update_id": 92,
+    "removed_update_id": null,
+    "season_id": 45,
+    "tracker": "[[1031],[[0,[[3,1],6,2]],[0,[[3,2],6,2]],[0,[[3,5],6,2]]],[0,[[8,[[[973,false,0,0],[923,false,0,0],[544,false,0,0],[79,false,0,0],[699,false,0,0],[115,false,0,0],[528,false,0,0],[484,false,0,0],[631,false,0,0],[93,false,0,0],[24,false,0,0]],3]]]]]",
+    "progressResetType": null
   }
 ]

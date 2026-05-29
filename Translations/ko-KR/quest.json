@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030741",
+  "version": "21030742",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4214,6 +4214,13 @@
     "desc_jp": "「浜波改二」旗艦、僚艦に第三十二駆逐隊及び「朝霜」のうち2隻を含む部隊で、鎮守府近海航路、<br>バシー海峡、東部オリョール海、沖ノ島海域に出撃！敵艦隊を撃破、敵中を駆け抜け、生還せよ！",
     "desc": "「하마나미 개2」 기함, 요함으로 제32구축대 및 「아사시모」 중 2척을 포함한 부대로 진수부 근해 항로, 바시 해협, 동부 오룔 해, 오키노시마 해역에 출격! 적 함대를 격파하고 적진을 달려 나가 생환하라!"
   },
+  "1031": {
+    "code": "2605 B2",
+    "name_jp": "【初夏限定任務】北方海域 戦闘哨戒作戦2026",
+    "name": "【初夏限定任務】北方海域 戦闘哨戒作戦2026",
+    "desc_jp": "「Thonburi」「Tuscaloosa」「Gambier Bay」「榛名」「宗谷」「夕張」「早波」「浜波」「薄雲」「朧」<br>「大井」の旗艦含む3隻以上の艦隊で、モーレイ海、キス島沖、北方AL海域に反復展開！敵を撃滅せよ！",
+    "desc": "Organize a fleet with any 3 of Thonburi, Tuscaloosa, Gambier Bay, Haruna, Souya, Yuubari, Hayanami, Hamanami, Usugumo, Oboro and Ooi in your fleet and score an S rank at the boss nodes on 3-1, 3-2 and 3-5 twice each"
+  },
   "1033": {
     "code": "B210",
     "name_jp": "二等輸送艦の積極運用",
@@ -4255,6 +4262,13 @@
     "name": "\"Fubuki Kai San\" Sets Sail! Check it Out!",
     "desc_jp": "「吹雪改三/改三護(六式)」旗艦、二番艦に特I型を配備した精鋭艦隊で、ジャワ島沖最深部、南方海域前面、<br>サブ島沖海域、サーモン海域、サーモン海域北方に出撃！敵主力と交戦、蹴散らせっ！吹雪、抜錨しますっ！",
     "desc": "Organize a fleet with Fubuki Kai San/San Go (Type 6) as flagship and another Fubuki-class as second ship in your fleet and score an S rank at the boss nodes on 5-1, 5-3, 5-4, 5-5 and 7-5 (Part 3)"
+  },
+  "1047": {
+    "code": "B216",
+    "name_jp": "「涼波改二」ラバウルより抜錨せよ！",
+    "name": "Suzunami Kai Ni, Weigh Anchor from Rabaul!\t",
+    "desc_jp": "「涼波改二/補」旗艦、他に「鳥海」「鈴谷」「最上」「能代」「玉波」「藤波」「早波」2隻以上を含む艦隊<br>で、サーモン海域、サーモン海域北方、ラバウル方面海域最深部に反復出撃！ラバウル周辺の敵を駆逐せよ！",
+    "desc": "Organize a fleet with Suzunami Kai Ni+ as flagship and any 2 of Choukai, Suzuya, Mogami, Noshiro, Tamanami, Fujinami and Hayanami in your fleet and score an S rank at the boss nodes on 5-4, 5-5 and 5-6 (Part 3) twice each"
   },
   "1101": {
     "code": "F96",

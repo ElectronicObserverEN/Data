@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030718",
+  "version": "21030719",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4214,6 +4214,13 @@
     "desc_jp": "「浜波改二」旗艦、僚艦に第三十二駆逐隊及び「朝霜」のうち2隻を含む部隊で、鎮守府近海航路、<br>バシー海峡、東部オリョール海、沖ノ島海域に出撃！敵艦隊を撃破、敵中を駆け抜け、生還せよ！",
     "desc": "以「濱波改二」為旗艦，含有第三十二驅逐隊及「朝霜」中2艘僚艦的部隊，出擊至鎮守府近海航路、<br>巴士海峽、東部奧廖爾海、沖之島海域！擊破敵艦隊，衝出敵陣，凱旋生還！"
   },
+  "1031": {
+    "code": "2605 B2",
+    "name_jp": "【初夏限定任務】北方海域 戦闘哨戒作戦2026",
+    "name": "【初夏限定任務】北方海域 戦闘哨戒作戦2026",
+    "desc_jp": "「Thonburi」「Tuscaloosa」「Gambier Bay」「榛名」「宗谷」「夕張」「早波」「浜波」「薄雲」「朧」<br>「大井」の旗艦含む3隻以上の艦隊で、モーレイ海、キス島沖、北方AL海域に反復展開！敵を撃滅せよ！",
+    "desc": "Organize a fleet with any 3 of Thonburi, Tuscaloosa, Gambier Bay, Haruna, Souya, Yuubari, Hayanami, Hamanami, Usugumo, Oboro and Ooi in your fleet and score an S rank at the boss nodes on 3-1, 3-2 and 3-5 twice each"
+  },
   "1033": {
     "code": "B210",
     "name_jp": "二等輸送艦の積極運用",
@@ -4255,6 +4262,13 @@
     "name": "「吹雪改三」要拔錨了！請看著我吧！",
     "desc_jp": "「吹雪改三/改三護(六式)」旗艦、二番艦に特I型を配備した精鋭艦隊で、ジャワ島沖最深部、南方海域前面、<br>サブ島沖海域、サーモン海域、サーモン海域北方に出撃！敵主力と交戦、蹴散らせっ！吹雪、抜錨しますっ！",
     "desc": "以「吹雪改三／改三護(六式)」為旗艦，並於二番艦配置特I型的精銳艦隊，出擊至爪哇島沖最深部、南方海域前面、薩沃島沖海域、所羅門群島海域與所羅門群島海域北方！與敵主力交戰，將其踢散吧！吹雪，要拔錨了！"
+  },
+  "1047": {
+    "code": "B216",
+    "name_jp": "「涼波改二」ラバウルより抜錨せよ！",
+    "name": "Suzunami Kai Ni, Weigh Anchor from Rabaul!\t",
+    "desc_jp": "「涼波改二/補」旗艦、他に「鳥海」「鈴谷」「最上」「能代」「玉波」「藤波」「早波」2隻以上を含む艦隊<br>で、サーモン海域、サーモン海域北方、ラバウル方面海域最深部に反復出撃！ラバウル周辺の敵を駆逐せよ！",
+    "desc": "Organize a fleet with Suzunami Kai Ni+ as flagship and any 2 of Choukai, Suzuya, Mogami, Noshiro, Tamanami, Fujinami and Hayanami in your fleet and score an S rank at the boss nodes on 5-4, 5-5 and 5-6 (Part 3) twice each"
   },
   "1101": {
     "code": "F96",
