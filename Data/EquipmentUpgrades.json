@@ -746,6 +746,8 @@
       329,
       426,
       427,
+      428,
+      429,
       502,
       507,
       508
@@ -28535,6 +28537,102 @@
                 "eq_count": 2
               }
             ],
+            "consumable": []
+          }
+        }
+      }
+    ],
+    "convert_to": [],
+    "upgrade_for": []
+  },
+  {
+    "eq_id": 428,
+    "improvement": [
+      {
+        "convert": null,
+        "helpers": [
+          {
+            "ship_ids": [
+              879
+            ],
+            "days": [
+              5,
+              6
+            ]
+          }
+        ],
+        "costs": {
+          "fuel": 30,
+          "ammo": 260,
+          "steel": 320,
+          "baux": 20,
+          "p1": {
+            "devmats": 7,
+            "devmats_sli": 9,
+            "screws": 3,
+            "screws_sli": 3,
+            "equips": [
+              {
+                "id": 7,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
+          },
+          "p2": {
+            "devmats": 0,
+            "devmats_sli": 0,
+            "screws": 0,
+            "screws_sli": 0,
+            "equips": [],
+            "consumable": []
+          }
+        }
+      }
+    ],
+    "convert_to": [],
+    "upgrade_for": []
+  },
+  {
+    "eq_id": 429,
+    "improvement": [
+      {
+        "convert": null,
+        "helpers": [
+          {
+            "ship_ids": [
+              879
+            ],
+            "days": [
+              5,
+              6
+            ]
+          }
+        ],
+        "costs": {
+          "fuel": 40,
+          "ammo": 320,
+          "steel": 320,
+          "baux": 20,
+          "p1": {
+            "devmats": 8,
+            "devmats_sli": 10,
+            "screws": 4,
+            "screws_sli": 4,
+            "equips": [
+              {
+                "id": 7,
+                "eq_count": 2
+              }
+            ],
+            "consumable": []
+          },
+          "p2": {
+            "devmats": 0,
+            "devmats_sli": 0,
+            "screws": 0,
+            "screws_sli": 0,
+            "equips": [],
             "consumable": []
           }
         }
