@@ -12402,5 +12402,19 @@
     "season_id": 44,
     "tracker": "",
     "progressResetType": null
+  },
+  {
+    "id": 903,
+    "api_id": 953,
+    "code": "2605 Bw1",
+    "name_jp": "【梅雨限定任務】雨の南西諸島防衛戦2026",
+    "name_en": "【梅雨限定任務】雨の南西諸島防衛戦2026",
+    "desc_jp": "【梅雨限定任務】海防艦2隻または水上機母艦2隻を旗艦及び二番艦に配備。駆逐艦2隻以上を含む哨戒<br>艦隊を編成。同艦隊で南西諸島沖、南西諸島防衛線、南西諸島近海、バシー海峡の哨戒を実施せよ！",
+    "desc_en": "Organize a fleet with 2DE or 2AV as flagship and second ship and 2 DD in your fleet and score an S rank at the boss nodes on 1-2, 1-4, 2-1 and 2-2",
+    "added_update_id": 92,
+    "removed_update_id": null,
+    "season_id": 45,
+    "tracker": "",
+    "progressResetType": null
   }
 ]

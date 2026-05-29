@@ -250,5 +250,11 @@
     "name": "May 2026",
     "added_update_id": 91,
     "removed_update_id": 92
+  },
+  {
+    "id": 45,
+    "name": "Rainy 2026",
+    "added_update_id": 92,
+    "removed_update_id": null
   }
 ]
