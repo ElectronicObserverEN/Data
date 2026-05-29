@@ -28671,11 +28671,16 @@
             "consumable": []
           },
           "p2": {
-            "devmats": 0,
-            "devmats_sli": 0,
-            "screws": 0,
-            "screws_sli": 0,
-            "equips": [],
+            "devmats": 9,
+            "devmats_sli": 12,
+            "screws": 4,
+            "screws_sli": 6,
+            "equips": [
+              {
+                "id": 7,
+                "eq_count": 3
+              }
+            ],
             "consumable": []
           }
         }
