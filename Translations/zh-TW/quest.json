@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030717",
+  "version": "21030718",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3893,11 +3893,11 @@
     "desc": "Organize a fleet with 2DE or 2AV as flagship and second ship and 2 DD in your fleet and score an S rank at the boss nodes on 1-2, 1-4, 2-1 and 2-2"
   },
   "954": {
-    "code": "954",
+    "code": "2605 Bw2",
     "name_jp": "【梅雨限定任務】梅雨の海上護衛強化2026",
     "name": "【梅雨限定任務】梅雨の海上護衛強化2026",
     "desc_jp": "【梅雨限定任務】軽空母を旗艦、駆逐艦2隻以上を含む海上護衛隊で、製油所地帯沿岸、鎮守府近海、<br>東部オリョール海、昭南本土航路に展開！さらに、鎮守府近海航路の海上護衛作戦を3回成功させよ！",
-    "desc": "【梅雨限定任務】軽空母を旗艦、駆逐艦2隻以上を含む海上護衛隊で、製油所地帯沿岸、鎮守府近海、<br>東部オリョール海、昭南本土航路に展開！さらに、鎮守府近海航路の海上護衛作戦を3回成功させよ！"
+    "desc": "Organize a fleet with a CVL as flagship and 2DD in your fleet and score an S rank at the boss nodes on 1-3, 1-5, 2-3 and 7-4. Reach node N on 1-6 three times."
   },
   "957": {
     "code": "B172",
