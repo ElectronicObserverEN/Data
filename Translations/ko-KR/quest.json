@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030736",
+  "version": "21030737",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1729,13 +1729,6 @@
     "desc_jp": "駆逐艦演習任務：第十一駆逐隊「吹雪」「白雪」「初雪」「深雪」の4隻を含む演習艦隊を編成。<br>同艦隊で本日中に演習で【A判定】勝利以上を4回以上達成せよ！特I型演習スペシャル！",
     "desc": "구축함 연습 임무: 제11구축대 「후부키」 「시라유키」 「하츠유키」 「미유키」 4척을 포함한 연습 함대를 편성. 동 함대로 오늘 중에 연습에서 【A판정】 승리 이상을 4회 이상 달성하라! 특I형 연습 스페셜!"
   },
-  "363": {
-    "code": "2604 Cw1",
-    "name_jp": "【13周年記念任務】記念祝賀艦隊演習！",
-    "name": "[13th Anniversary] Commemorative Fleet Exercises!",
-    "desc_jp": "【13周年演習】旗艦及び二番艦を「Thonburi」「野埼/南海」「大泊」「瑞穂」「杉」「朧」「曙」「漣」「潮」<br>そして「吹雪」のいずれかで編成した祝賀艦隊で、本日中に演習【A判定】勝利以上を5回以上達成せよ！",
-    "desc": "Organize a fleet with two of Thonburi, Nankai, Ootomari, Mizuho, Sugi, Oboro, Akebono, Sazanami, Ushio and Fubuki as flagship and second ship and score A rank five times in PvP"
-  },
   "364": {
     "code": "C73",
     "name_jp": "精鋭第三戦隊、演習開始！",
@@ -2113,34 +2106,6 @@
     "name": "해상 수송 항로의 호위 강화",
     "desc_jp": "海上輸送航路の護衛強化：「対潜警戒任務」「海上護衛任務」「タンカー護衛任務」<br>「兵站強化任務」「南西方面航空偵察作戦」遠征を実施、各１回以上成功させよ！",
     "desc": "해상 수송 항로의 호위 강화: 「대잠 경계 임무」, 「해상 호위 임무」, 「탱커 호위 임무」, 「병참 강화 임무」, 「남서 방면 항공 정찰 작전」 원정을 실시하여, 각각 1회 이상 성공시켜라!(4, 5, 9, A1, B1번 원정)"
-  },
-  "448": {
-    "code": "2604 D1",
-    "name_jp": "【13周年記念任務】13周年観艦式準備",
-    "name": "[13th Anniversary Quest] Preparations for the 13th Anniversary Fleet Review",
-    "desc_jp": "【13周年記念観艦式準備】「警備任務」「兵站強化任務」「長時間対潜警戒」を1回ずつ、<br>さらに「観艦式予行」を2回実施、13周年記念観艦式挙行の準備を整えよ！",
-    "desc": "Complete expeditions 03, A1 and A3 once and expedition 07 twice."
-  },
-  "449": {
-    "code": "2604 D2",
-    "name_jp": "【13周年記念任務】13周年観艦式",
-    "name": "[13th Anniversary Quest] 13th Anniversary Fleet Review",
-    "desc_jp": "【13周年記念観艦式】艦隊13周年を祝して、祝賀記念の「観艦式」を挙行せよ！",
-    "desc": "Complete expedition 08"
-  },
-  "450": {
-    "code": "2603 D1",
-    "name_jp": "【期間限定:拡張任務】水雷戦隊遠征作戦！",
-    "name": "[Limited Time Offer: Extra Quest] Torpedo Squadron Expeditionary Operation!",
-    "desc_jp": "【期間限定】拡張作戦：「海上護衛任務」「資源輸送任務」「タンカー護衛任務」<br>「兵站強化任務」「包囲陸戦隊撤収作戦」遠征を実施、これを見事成功させよ！",
-    "desc": "Complete expeditions 05, A1, 09, 12 and 14"
-  },
-  "451": {
-    "code": "2604 Dw1",
-    "name_jp": "【13周年記念拡張任務】緊急資源輸出入",
-    "name": "[13th Anniversary] Emergency Resource Export & Import",
-    "desc_jp": "資源輸出任務：輸出用の弾薬3,000及びボーキサイト2,026を用意。その上で「海上護衛任務」<br>及び「タンカー護衛任務」「ボーキサイト輸送任務」を各複数回実施、これを見事成功させよ！",
-    "desc": "Prepare 3000 ammo and 2026 bauxite. Complete expeditions 05, 09, and 11 twice each. (All resources and Materials will be consumed upon completion)"
   },
   "501": {
     "code": "E1",
@@ -3969,20 +3934,6 @@
     "desc_jp": "「浦波改二」、さらに「青葉」「鬼怒」を含む艦隊で、南西諸島防衛線、東部オリョール海、<br>沖ノ島沖、タウイタウイ泊地沖深部、昭南本土航路へ出撃！敵艦隊を捕捉撃滅せよ！",
     "desc": "「우라나미 개2」, 나아가 「아오바」, 「키누」를 포함한 함대로 남서제도 방어선, 동부 오룔 해, 오키노시마 앞바다, 타위타위 정박지 앞바다 심부, 쇼난 본토 항로로 출격! 적 함대를 포착 격멸하라!"
   },
-  "971": {
-    "code": "2604 B4",
-    "name_jp": "【13周年記念任務】艦隊13周年、抜錨せよ！",
-    "name": "[13th Anniversary Quest] Fleet's 13th Anniversary, Set Sail!",
-    "desc_jp": "旗艦及び同随伴艦に潜水母艦または軽巡を各1隻、駆逐艦または潜水艦計2隻以上を含む周年記念艦隊で、<br>南西諸島沖、製油所地帯沿岸、南西諸島防衛線、鎮守府近海を戦闘哨戒！敵を圧倒、制海権を確立せよ！",
-    "desc": "Organize a fleet with two AS/CL with one as flagship and two DD/SS(V)  in your fleet and score an S rank at the boss nodes on 1-2, 1-3, 1-4 and 1-5"
-  },
-  "972": {
-    "code": "2604 B5",
-    "name_jp": "【13周年記念任務】一航戦、揺るぎません！",
-    "name": "[13th Anniversary Quest] CarDiv1 Remains Unwavering!",
-    "desc_jp": "第一航空戦隊「赤城」「加賀」または「翔鶴」「瑞鶴」をそれぞれ旗艦及び同二番艦とする精鋭艦隊で、<br>東部オリョール海、沖ノ島海域、珊瑚諸島沖、サーモン海域に展開！敵主力艦隊を捕捉、これを撃滅せよ！",
-    "desc": "Organize a fleet with Akagi and Kaga or Shoukaku and Zuikaku as flagship and second ship in your fleet and score an S rank at the boss nodes on 2-3, 2-4, 5-2 and 5-4"
-  },
   "973": {
     "code": "By11",
     "name_jp": "日英米合同水上艦隊、抜錨せよ！",
@@ -4024,13 +3975,6 @@
     "name": "【확장 작전】 중개장 「야마토 개2중」, 출격!",
     "desc_jp": "【拡張作戦】重改装「大和改二重」を旗艦とする有力な艦隊で、ペナン島沖深部、昭南本土航路、<br>サーモン海域北方、中部北海域ピーコック島沖に出撃！各戦域の敵戦力を撃滅粉砕せよ！",
     "desc": "【확장 작전】 중개장 「야마토 개2중」을 기함으로 하는 유력한 함대로 페낭섬 앞바다 심부, 쇼난 본토 항로, 서먼 해역 북방, 중부 북해역 피콕섬 앞바다에 출격! 각 전역의 적 전력을 격멸 분쇄하라!"
-  },
-  "979": {
-    "code": "2604 Bm1",
-    "name_jp": "【13周年記念任務:拡張作戦】強行輸送作戦",
-    "name": "[13th Anniversary: Extra Operation] Enforcement Transport Operation",
-    "desc_jp": "【強行海上輸送作戦】強行海上輸送を実施する！旗艦及び二番艦三番艦に海防艦を配した艦隊で、<br>製油所地帯沿岸、南西諸島防衛線、鎮守府近海航路に反復展開！強行輸送作戦を完遂せよ！",
-    "desc": "Organize a fleet with 3 DE as flagship, second ship and third ship and score an S rank at the boss nodes on 1-3, 1-4 and reach the anchor node N on 1-6 twice each."
   },
   "980": {
     "code": "B184",
@@ -4151,26 +4095,12 @@
     "desc_jp": "ソロモン海特別任務：改装白露型駆逐艦「夕立改二」及び「春雨改二」を含む強力な艦隊で、カレー洋<br>リランカ島沖、そして南方サブ島沖海域、サーモン海域、サーモン海域北方に出撃！敵を撃滅せよ！",
     "desc": "솔로몬해 특별 임무: 개장 시라츠유형 구축함 「유다치 개2」 및 「하루사메 개2」를 포함한 강력한 함대로 카레양 리랑카섬 앞바다, 그리고 남방 사보섬 앞바다 해역, 서먼 해역, 서먼 해역 북방에 출격! 적을 격멸하라!"
   },
-  "1009": {
-    "code": "2604 B6",
-    "name_jp": "【13周年記念任務:拡張作戦】艦隊、南方へ！",
-    "name": "[13th Anniversary: Extra Operation] Fleet, Head South!",
-    "desc_jp": "【拡張作戦】旗艦/二番艦を「吹雪」「大和」「翔鶴」「杉」「迅鯨」「衣笠改二」「Mogador」「Gotland」<br>「Thonburi」「Johnston」「Fletcher改 Mod.2/Mk.II」を含む精鋭艦隊で、南方海域の敵艦隊を一撃せよ！",
-    "desc": "Organize a fleet with two of Fubuki, Yamato, Shoukaku, Sugi, Jingei, Kinugasa Kai Ni, Mogador, Gotland, Thonburi, Johnston or Fletcher Kai Mod.2/Mk.II as flagship and second ship and score an S rank at the boss nodes on 5-1, 5-2, 5-3, 5-4 and 5-5"
-  },
   "1010": {
     "code": "B212",
     "name_jp": "防空駆逐艦「秋月改二」、推参します！",
     "name": "방공구축함 「아키즈키 개2」, 참상합니다!",
     "desc_jp": "改秋月型精鋭駆逐艦「秋月改二」を旗艦とした艦隊で、南西諸島防衛線、沖ノ島海域、サーモン海域、<br>ブルネイ泊地沖、タウイタウイ泊地沖深部に展開、各海域の敵主力と交戦、これを撃滅せよ！",
     "desc": "개 아키즈키형 정예 구축함 「아키즈키 개2」를 기함으로 한 함대로 남서제도 방어선, 오키노시마 해역, 서먼 해역, 브루나이 정박지 앞바다, 타위타위 정박지 앞바다 심부에 전개, 각 해역의 적 주력과 교전하여 이를 격멸하라!"
-  },
-  "1011": {
-    "code": "2604 B3",
-    "name_jp": "【第一遊撃部隊任務】南西諸島防衛戦に出撃！",
-    "name": "[First Striking Force] Sortie to the Southwest Islands Defense Battle!",
-    "desc_jp": "第一艦隊旗艦に戦艦「大和」、同二番艦に軽巡「矢矧」、随伴に「矢矧」以下の二水戦駆逐艦4隻を配備。<br>同1YBで南西諸島防衛線、南西諸島近海、バシー海峡、沖ノ島沖に反復出撃！敵艦隊を捕捉撃滅せよ！",
-    "desc": "Organize a fleet with Yamato as flagship, Yahagi as second ship and any 4 of Isokaze, Hamakaze, Yukikaze, Fuyutsuki, Suzutsuki, Kasumi, Hatsushimo and Asashimo in your fleet and score an S rank at the boss nodes on 1-4, 2-1, 2-2 and 2-5 twice each"
   },
   "1012": {
     "code": "By14",
@@ -4291,13 +4221,6 @@
     "desc_jp": "「飛龍改三」旗艦、他に「風雲」または第三十二駆逐隊計2隻以上を含む機動部隊で出撃！疾風怒涛で<br>沖ノ島沖、北方AL海域、カレー洋リランカ島沖、サーモン海域北方、中部北海域ピーコック島沖の敵を討て！",
     "desc": "Organize a fleet with Hiryuu Kai San as flagship and any 2 of Kazagumo, Tamanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet and score an S rank at the boss nodes on 2-5, 3-5, 4-5, 5-5 and 6-4"
   },
-  "1043": {
-    "code": "2603 B5",
-    "name_jp": "【期間限定任務】春の旗艦は……私だからっ！",
-    "name": "[Limited Time Quest] The Flagship of Spring is... Me!",
-    "desc_jp": "旗艦及び僚艦に「春雨」「春風」「春日丸」「弥生」「陽炎」「天津風」「朧」「曙」「榛名」「Scirocco」<br>を配備、製油所地帯沿岸、鎮守府近海、南西諸島防衛線、東部オリョール海に反復出撃！春哨戒を実施せよ！",
-    "desc": "Organize a fleet with any 2 of Harusame, Harukaze, Kasuga Maru, Yayoi, Kagerou, Amatsukaze, Oboro, Akebono, Haruna and Scirocco in your fleet with one as flagship and score an S rank at the boss nodes on 1-3, 1-4, 1-5 and 2-3 twice each"
-  },
   "1044": {
     "code": "B215",
     "name_jp": "三十二駆「玉波改二」、出撃いたします。",
@@ -4311,13 +4234,6 @@
     "name": "\"Fubuki Kai San\" Sets Sail! Check it Out!",
     "desc_jp": "「吹雪改三/改三護(六式)」旗艦、二番艦に特I型を配備した精鋭艦隊で、ジャワ島沖最深部、南方海域前面、<br>サブ島沖海域、サーモン海域、サーモン海域北方に出撃！敵主力と交戦、蹴散らせっ！吹雪、抜錨しますっ！",
     "desc": "Organize a fleet with Fubuki Kai San/San Go (Type 6) as flagship and another Fubuki-class as second ship in your fleet and score an S rank at the boss nodes on 5-1, 5-3, 5-4, 5-5 and 7-5 (Part 3)"
-  },
-  "1046": {
-    "code": "2605 B1",
-    "name_jp": "【期間限定任務】提督、菖蒲の湯は如何ですか?",
-    "name": "[Limited-Time Quest] Admiral, How About a Bath with Irises?",
-    "desc_jp": "旗艦に「山汐丸」または「第四号海防艦」「第三〇号海防艦」、随伴に海防艦を2隻以上、駆逐艦1隻以上を<br>配備。同艦隊で南西諸島沖、製油所地帯沿岸、鎮守府近海、南西諸島防衛線を反復哨戒！敵を撃破せよ！",
-    "desc": "Organize a fleet with one of Yamashio Maru, Kaiboukan No.4 or Kaiboukan No.30 as flagship, 2 DE and a DD in your fleet and score an A rank at the boss nodes on  1-2, 1-3, 1-4 and 1-5 twice each"
   },
   "1101": {
     "code": "F96",
@@ -4452,13 +4368,6 @@
     "desc_jp": "旗艦「利根改二」または「由良改二」第一スロに最大改修「零式水上偵察機」。「九七式艦攻(九三一空)」<br>x2廃棄、ボーキ950、新型航空兵装資材x2、開発資材x35、熟練搭乗員x2を準備！",
     "desc": "기함 「토네 개2」 또는 「유라 개2」 제1슬롯에 최대개수 「영식 수상정찰기」. 「97식함공 (931공)」×2 폐기, 보크사이트 950, 신형항공병장자재×2, 개발자재×35, 숙련탑승원×2를 준비!"
   },
-  "1126": {
-    "code": "2604 Fm1",
-    "name_jp": "【13周年記念任務:拡張作戦】大規模工廠任務",
-    "name": "[13th Anniversary: Extra Operation] Large-Scale Arsenal Mission",
-    "desc_jp": "「中口径主砲」x13、「水上偵察機」x13、さらに「35.6cm連装砲」x8を廃棄。「14cm連装砲」x4、<br>ボーキサイト980、弾薬2,800を準備せよ！(任務達成後、準備装備及び資材等は消費します)",
-    "desc": "Proceed to scrap 13x Medium Caliber Main Gun, 13x Reconnaissance Seaplane and 8x 35.6cm Twin Gun Mount and have 4x 14cm Twin Gun Mount, 980 Bauxite and 2800 Ammo (All resources and Materials will be consumed upon completion)"
-  },
   "1127": {
     "code": "F115",
     "name_jp": "艦載用「煙幕発生装置」の改良",
@@ -4514,13 +4423,6 @@
     "name": "22호대수상전탐의 개량",
     "desc_jp": "旗艦「時雨改二/改三」または「満潮改二」第一装備スロに「22号対水上電探改四(★max)」を<br>装備。開発資材x22、新型兵装資材x2、「22号対水上電探」x4、改修資材x6を準備せよ！",
     "desc": "「시구레 개2/개3」 또는 「미치시오 개2」 제1슬롯에 「22호 대수상전탐 개4(★Max)」를 장비. 개발자재×22, 신형병장자재×2, 「22호 대수상전탐」×4, 개수자재×6을 준비하라!(임무 달성 후, 준비한 자원 · 자재는 소비합니다)"
-  },
-  "1136": {
-    "code": "2604 F2",
-    "name_jp": "【13周年記念任務:拡張任務】空技廠研究開発",
-    "name": "[13th Anniversary: Extra Operation] Naval Air Technical Arsenal Research and Development",
-    "desc_jp": "「鳳翔改二/戦」または「飛龍改三」旗艦、同第一スロに「零式艦戦21型(熟練)」練度maxのみ配備。<br>開発資材x50、工廠資源x2、熟練搭乗員x1準備、「紫電一一型」x6「Swordfish」x2を廃棄せよ！",
-    "desc": "Have your secretary flagship Houshou Kai Ni/Kai Ni Sen or Hiryuu Kai San equip a ❱❱ Type 0 Fighter Model 21 (Skilled) in the first slot and then proceed to scrap 6x Shiden Model 11 and 2x Swordfish and have 50x Development Material, 2x Arsenal Resource and 1x Skilled Crew Member (All resources and Materials will be consumed upon completion)"
   },
   "1137": {
     "code": "F123",
@@ -4669,13 +4571,6 @@
     "desc_jp": "第一艦隊に旗艦「玉波」。僚艦に「藤波」「北上」を配備して「三式爆雷投射機」x8、「三式水中<br>探信儀」x4、「12.7cm連装高角砲」x8廃棄。「新型兵装資材」x1及び「15.2cm連装砲」x4用意！",
     "desc": "Have Tamanami as your secretary flagship with Fujinami and Kitakami in the fleet then proceed to scrap 8x Type 3 Depth Charge Projector, 4x Type 3 Active Sonar and 8x 12.7cm Twin High-angle Gun Mount and have 1x New Model Armament Material and 4x 15.2cm Twin Gun Mount (All resources and Materials will be consumed upon completion)"
   },
-  "1165": {
-    "code": "2604 F1",
-    "name_jp": "【第一遊撃部隊任務】出撃準備を実施せよ！",
-    "name": "[First Striking Force] Prepare for Sortie!",
-    "desc_jp": "第一艦隊旗艦に「大和」、同二番艦に「矢矧」を配備。他随伴に「磯風」「浜風」「雪風」「冬月」「涼月」<br>「霞」「初霜」「朝霜」から4隻を配備。「15.2cm単装砲」x4廃棄。開発資材300と燃料500を準備せよ！",
-    "desc": "Have Yamato as secretary, Yahagi as second ship and any 4 of Isokaze, Hamakaze, Yukikaze, Fuyutsuki, Suzutsuki, Kasumi, Hatsushimo and Asashimo in the fleet and then proceed to scrap 4x 15.2cm Single Gun Mount and have 300x Development Materials and 500x Fuel (All resources and Materials will be consumed upon completion)"
-  },
   "1166": {
     "code": "Fd9",
     "name_jp": "続：装備の改修強化",
@@ -4689,19 +4584,5 @@
     "name": "Intensive reinforcement of equipment renovation",
     "desc_jp": "工廠任務：さらなる戦力強化のため、本日中に「改修工廠」で「装備」改修強化を連続三回実施せよ！",
     "desc": "Attempt equipment modernisation three times in one day."
-  },
-  "1168": {
-    "code": "2605 F1",
-    "name_jp": "【期間限定任務・拡張任務】端午の節句工廠【I】",
-    "name": "[Limited-Time Quest - Extra Quest] Boys' Festival Factory [I]",
-    "desc_jp": "第一艦隊の旗艦及び二番艦に「山汐丸改」または「第四号海防艦」「第三〇号海防艦」を配備。<br>練度maxの「九六式艦戦」x3廃棄。工廠資源x1、開発資材x55、弾薬x550を準備せよ！",
-    "desc": "Have Yamashio Maru Kai, Kaiboukan No.4 or Kaiboukan No.30 as secretary and second ship then proceed to scrap 3x ❱❱ Type 96 Fighter and have 1x Arsenal Resource, 55x Development Material and 550x ammo (All resources and Materials will be consumed upon completion)"
-  },
-  "1169": {
-    "code": "2605 F2",
-    "name_jp": "【期間限定任務・拡張任務】端午の節句工廠【II】",
-    "name": "[Limited-Time Quest - Extra Quest] Boys' Festival Factory [II]",
-    "desc_jp": "第一艦隊の旗艦及び二番艦に「山汐丸改」または「第四号海防艦」「第三〇号海防艦」を配備。<br>練度maxの「九七式艦攻」x5廃棄。工廠資源x2、開発資材x155、燃料と弾薬x各550を準備せよ！",
-    "desc": "Have Yamashio Maru Kai, Kaiboukan No.4 or Kaiboukan No.30 as secretary and second ship then proceed to scrap 5x ❱❱ Type 97 Torpedo Bomber and have 2x Arsenal Resource, 155x Development Material, 550x fuel and 550x ammo (All resources and Materials will be consumed upon completion)"
   }
 }
