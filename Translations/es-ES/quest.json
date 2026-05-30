@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030717",
+  "version": "21030718",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1753,7 +1753,7 @@
   "367": {
     "code": "2605 Cd1",
     "name_jp": "【梅雨限定任務】海上護衛戦、雨中演習2026",
-    "name": "【梅雨限定任務】海上護衛戦、雨中演習2026",
+    "name": "[Rainy Season Limited Quest] Maritime Escort Battle, Rainy Exercise 2026",
     "desc_jp": "【梅雨限定任務】海防艦3隻以上または駆逐艦5隻以上を含む演習海上護衛隊を編成！同演習戦隊で<br>本日中に演習において【A判定】勝利を4回以上達成せよ！ 海上護衛隊各艦、雨中海上演習始めッ！",
     "desc": "Organize a fleet with 3DE or 5DD in your fleet and score A rank 4 times in PvP"
   },
@@ -3888,21 +3888,21 @@
   "953": {
     "code": "2605 Bw1",
     "name_jp": "【梅雨限定任務】雨の南西諸島防衛戦2026",
-    "name": "【梅雨限定任務】雨の南西諸島防衛戦2026",
+    "name": "[Rainy Season Limited Quest] Rainy Nansei Islands Defense Battle 2026",
     "desc_jp": "【梅雨限定任務】海防艦2隻または水上機母艦2隻を旗艦及び二番艦に配備。駆逐艦2隻以上を含む哨戒<br>艦隊を編成。同艦隊で南西諸島沖、南西諸島防衛線、南西諸島近海、バシー海峡の哨戒を実施せよ！",
     "desc": "Organize a fleet with 2DE or 2AV as flagship and second ship and 2 DD in your fleet and score an S rank at the boss nodes on 1-2, 1-4, 2-1 and 2-2"
   },
   "954": {
     "code": "2605 Bw2",
     "name_jp": "【梅雨限定任務】梅雨の海上護衛強化2026",
-    "name": "【梅雨限定任務】梅雨の海上護衛強化2026",
+    "name": "[Rainy Season Limited Quest] Rainy Season Maritime Escort Reinforcement 2026",
     "desc_jp": "【梅雨限定任務】軽空母を旗艦、駆逐艦2隻以上を含む海上護衛隊で、製油所地帯沿岸、鎮守府近海、<br>東部オリョール海、昭南本土航路に展開！さらに、鎮守府近海航路の海上護衛作戦を3回成功させよ！",
     "desc": "Organize a fleet with a CVL as flagship and 2DD in your fleet and score an S rank at the boss nodes on 1-3, 1-5, 2-3 and 7-4. Reach node N on 1-6 three times."
   },
   "955": {
     "code": "2605 Bm1",
     "name_jp": "【梅雨任務拡張作戦】南方反攻望楼作戦を叩け！",
-    "name": "【梅雨任務拡張作戦】南方反攻望楼作戦を叩け！",
+    "name": "[Rainy Season Extra Operation] Strike the Southern Counterattack: Operation Watchtower!",
     "desc_jp": "【梅雨限定任務】戦艦1隻以上、さらに重巡級2隻以上または夕雲型2隻以上を含む遊撃部隊で南方海域<br>戦線に進出！南方海域の全六作戦海域に展開、同方面の敵南方艦隊戦力の漸減を図れ！ 艦隊、出撃！",
     "desc": "Organize a fleet with 1(F)BB(V), either 2 CA(V) or 2 Yuugumo-class in your fleet and score an S rank at the boss nodes on 5-1, 5-2, 5-3, 5-4, 5-5 and 5-6 (Part 3)"
   },
@@ -4224,7 +4224,7 @@
   "1031": {
     "code": "2605 B2",
     "name_jp": "【初夏限定任務】北方海域 戦闘哨戒作戦2026",
-    "name": "【初夏限定任務】北方海域 戦闘哨戒作戦2026",
+    "name": "[Early Summer Limited Quest] Northern Sea Area Combat Patrol Operation 2026",
     "desc_jp": "「Thonburi」「Tuscaloosa」「Gambier Bay」「榛名」「宗谷」「夕張」「早波」「浜波」「薄雲」「朧」<br>「大井」の旗艦含む3隻以上の艦隊で、モーレイ海、キス島沖、北方AL海域に反復展開！敵を撃滅せよ！",
     "desc": "Organize a fleet with any 3 of Thonburi, Tuscaloosa, Gambier Bay, Haruna, Souya, Yuubari, Hayanami, Hamanami, Usugumo, Oboro and Ooi in your fleet and score an S rank at the boss nodes on 3-1, 3-2 and 3-5 twice each"
   },
