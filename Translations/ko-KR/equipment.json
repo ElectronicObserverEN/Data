@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030309",
+  "version": "21030310",
   "equiptype": {
     "小口径主砲": "소구경주포",
     "中口径主砲": "중구경주포",
@@ -784,6 +784,7 @@
     "53cm連装魚雷改(酸素魚雷)": "53cm Twin Torpedo Mount Kai (Oxygen)",
     "12.7cm単装高角砲改三": "12.7cm Twin High-angle Gun Mount Kai San",
     "試製 23号電探改三": "Prototype Type 23 Radar Kai San",
-    "SCレーダー改(後期調整型)": "SC Radar Kai (Calibrated Late Model)"
+    "SCレーダー改(後期調整型)": "SC Radar Kai (Calibrated Late Model)",
+    "25mm連装機銃(熟練機銃員分隊)": "25mm Twin Autocannon (Skilled Gunner Squad)"
   }
 }
