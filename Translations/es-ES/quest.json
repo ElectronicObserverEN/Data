@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030719",
+  "version": "21030720",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3904,7 +3904,7 @@
     "name_jp": "【梅雨任務拡張作戦】南方反攻望楼作戦を叩け！",
     "name": "[Rainy Season Extra Operation] Strike the Southern Counterattack: Operation Watchtower!",
     "desc_jp": "【梅雨限定任務】戦艦1隻以上、さらに重巡級2隻以上または夕雲型2隻以上を含む遊撃部隊で南方海域<br>戦線に進出！南方海域の全六作戦海域に展開、同方面の敵南方艦隊戦力の漸減を図れ！ 艦隊、出撃！",
-    "desc": "Organize a fleet with 1(F)BB(V), either 2 CA(V) or 2 Yuugumo-class in your fleet and score an S rank at the boss nodes on 5-1, 5-2, 5-3, 5-4, 5-5 and 5-6 (Part 3)"
+    "desc": "Organize a fleet with 1(F)BB(V), either 2 CA(V) or 2 Yuugumo-class in your fleet and score an A rank at the boss nodes on 5-1, 5-2, 5-3, 5-4, 5-5 and 5-6 (Part 3)"
   },
   "957": {
     "code": "B172",
