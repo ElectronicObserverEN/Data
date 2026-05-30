@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030747",
+  "version": "21030748",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4528,6 +4528,13 @@
     "name": "【대공 병장의 확충】 94식 고사장치의 증가 배비",
     "desc_jp": "旗艦「白雪改二」または「吹雪改二」第一及び第二装備スロットに「91式高射装置」を装備。<br>開発資材x16及び改修資材x4を準備。「91式高射装置」x3、「13号対空電探」x3を廃棄せよ！",
     "desc": "기함 「시라유키 개2」 또는 「후부키 개2」의 제1 및 제2 장비 슬롯에 「91식 고사장치」를 장착. 개발자재 16개 및 개수자재 4개를 준비. 「91식 고사장치」 3개, 「13호 대공 전탐」 3개를 폐기하라!"
+  },
+  "1150": {
+    "code": "2605 F3",
+    "name_jp": "【初夏限定任務】海軍工廠の整理再編2026",
+    "name": "[Early Summer Limited Quest] Naval Arsenal Reorganization and Restructuring 2026",
+    "desc_jp": "【工廠任務】「中口径主砲」x20、「大口径主砲」x20、「副砲」x10、練度max「零式水上偵察機」x10<br>を廃棄。さらに「12.7cm連装高角砲」x10を準備せよ！(任務達成後、準備装備は消費します)",
+    "desc": "Proceed to scrap 20x Medium Caliber Main Gun, 20x Large Caliber Main Gun, 10x Secondary Gun, and 10x ❱❱ Type 0 Reconnaissance Seaplane and have 10x 12.7cm Twin High-angle Gun Mount (All resources and Materials will be consumed upon completion)"
   },
   "1151": {
     "code": "F131",
