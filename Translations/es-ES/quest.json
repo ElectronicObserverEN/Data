@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030722",
+  "version": "21030723",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4227,6 +4227,13 @@
     "name": "[Early Summer Limited Quest] Northern Sea Area Combat Patrol Operation 2026",
     "desc_jp": "「Thonburi」「Tuscaloosa」「Gambier Bay」「榛名」「宗谷」「夕張」「早波」「浜波」「薄雲」「朧」<br>「大井」の旗艦含む3隻以上の艦隊で、モーレイ海、キス島沖、北方AL海域に反復展開！敵を撃滅せよ！",
     "desc": "Organize a fleet with any 3 of Thonburi, Tuscaloosa, Gambier Bay, Haruna, Souya, Yuubari, Hayanami, Hamanami, Usugumo, Oboro and Ooi with one as flagship and score an S rank at the boss nodes on 3-1, 3-2 and 3-5 twice each"
+  },
+  "1032": {
+    "code": "2605 B3",
+    "name_jp": "【初夏限定任務】水上打撃部隊 作戦運用2026",
+    "name": "[Early Summer Limited Quest] Surface Task Force Operational Deployment 2026",
+    "desc_jp": "Lv.88以上の戦艦2隻及び軽巡1隻駆逐艦2隻を含む精鋭水上打撃部隊を編成。同艦隊により、南西諸島<br>防衛線、沖ノ島沖、北方AL海域、カレー洋リランカ島沖に反復出撃！敵戦力を連打し、これを撃滅せよ！",
+    "desc": "Organize a fleet with 2 Lv.88+ (F)BB(V), 1 Lv.88+ CL, 2 Lv.88+ DD in your fleet and score an S rank at the boss nodes on 1-4, 2-5, 3-5 and 4-5 twice each"
   },
   "1033": {
     "code": "B210",
