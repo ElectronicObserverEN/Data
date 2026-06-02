@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030728",
+  "version": "21030729",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4233,7 +4233,7 @@
     "name_jp": "【初夏限定任務】水上打撃部隊 作戦運用2026",
     "name": "【初夏限定任務】水上打擊部隊 作戰運用2026",
     "desc_jp": "Lv.88以上の戦艦2隻及び軽巡1隻駆逐艦2隻を含む精鋭水上打撃部隊を編成。同艦隊により、南西諸島<br>防衛線、沖ノ島沖、北方AL海域、カレー洋リランカ島沖に反復出撃！敵戦力を連打し、これを撃滅せよ！",
-    "desc": "編成由2艘Lv.88以上戰艦、1艘輕巡與2艘驅逐艦組成的精鋭水上打擊部隊。以該艦隊反覆出擊至南西諸島<br>防衛線、沖之島沖、北方AL海域、咖哩洋斯里蘭卡島沖！連續打擊敵軍戰力，將其擊滅！"
+    "desc": "Organize a fleet with 2 Lv.88+ (F)BB(V), 1 Lv.88+ CL, 2 Lv.88+ DD in your fleet and score an S rank at the boss nodes on 1-4, 2-5, 3-5 and 4-5 twice each"
   },
   "1033": {
     "code": "B210",
@@ -4541,7 +4541,7 @@
     "name_jp": "【初夏限定任務】海軍工廠の整理再編2026",
     "name": "【初夏限定任務】海軍工廠的整理再編2026",
     "desc_jp": "【工廠任務】「中口径主砲」x20、「大口径主砲」x20、「副砲」x10、練度max「零式水上偵察機」x10<br>を廃棄。さらに「12.7cm連装高角砲」x10を準備せよ！(任務達成後、準備装備は消費します)",
-    "desc": "【工廠任務】廢棄「中口徑主砲」x20、「大口徑主砲」x20、「副砲」x10、練度max「零式水上偵察機」x10！<br>並準備「12.7cm連裝高角砲」x10！(任務達成後，所準備的裝備將被消耗)"
+    "desc": "Proceed to scrap 20x Medium Caliber Main Gun, 20x Large Caliber Main Gun, 10x Secondary Gun, and 10x ❱❱ Type 0 Reconnaissance Seaplane and have 10x 12.7cm Twin High-angle Gun Mount (All resources and Materials will be consumed upon completion)"
   },
   "1151": {
     "code": "F131",
