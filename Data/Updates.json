@@ -878,5 +878,16 @@
     "live_update": false,
     "maint_start_tweet": "https://x.com/KanColle_STAFF/status/2058162677126680925",
     "maint_end_tweet": "https://fxtwitter.com/KanColle_STAFF/status/2059912184856211543 "
+  },
+  {
+    "id": 93,
+    "start_date": "2026-06-26T00:00:00",
+    "start_time": "11:00:00",
+    "end_time": "22:00:00",
+    "name": "End of rainy season 2026",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://fxtwitter.com/KanColle_STAFF/status/2065447411284369698",
+    "maint_end_tweet": ""
   }
 ]
