@@ -9976,7 +9976,7 @@
     "desc_jp": "【期間限定演習】第三十二駆逐隊、夕雲型駆逐艦「玉波」「涼波」「藤波」「早波」「浜波」のうち<br>3隻以上を含む演習艦隊で、本日中に演習【S判定】勝利3回以上を達成せよ！演習、始めっ！",
     "desc_en": "Organize a fleet with any 3 of Tamanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet and score S rank 3 times in PvP",
     "added_update_id": 52,
-    "removed_update_id": null,
+    "removed_update_id": 93,
     "season_id": 20,
     "tracker": "[[374],[[9,[6,3]]],[0,[[8,[[[674,false,0,0],[675,false,0,0],[485,false,0,0],[528,false,0,0],[484,false,0,0]],3]]]]]",
     "progressResetType": 1
@@ -10354,7 +10354,7 @@
     "desc_jp": "【期間限定哨戒】第三十二駆逐隊、夕雲型駆逐艦「玉波」「涼波」「藤波」「早波」「浜波」のうち<br>3隻以上を含む艦隊で、東部オリョール海、ジャム島沖、南方海域前面、ブルネイ沖の哨戒を実施せよ！",
     "desc_en": "Organize a fleet with 3 of Tamanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet and score an A rank at the boss nodes on 2-3, 4-1, 5-1 and 7-1",
     "added_update_id": 55,
-    "removed_update_id": null,
+    "removed_update_id": 93,
     "season_id": null,
     "tracker": "[[1022],[[0,[[2,3],5,1]],[0,[[4,1],5,1]],[0,[[5,1],5,1]],[0,[[7,1],5,1]]],[0,[[8,[[[674,false,0,0],[675,false,0,0],[485,false,0,0],[528,false,0,0],[484,false,0,0]],3]]]]]",
     "progressResetType": null
@@ -12412,7 +12412,7 @@
     "desc_jp": "【梅雨限定任務】海防艦2隻または水上機母艦2隻を旗艦及び二番艦に配備。駆逐艦2隻以上を含む哨戒<br>艦隊を編成。同艦隊で南西諸島沖、南西諸島防衛線、南西諸島近海、バシー海峡の哨戒を実施せよ！",
     "desc_en": "Organize a fleet with 2DE or 2AV as flagship and second ship and 2 DD in your fleet and score an A rank at the boss nodes on 1-2, 1-4, 2-1 and 2-2",
     "added_update_id": 92,
-    "removed_update_id": null,
+    "removed_update_id": 93,
     "season_id": 45,
     "tracker": "",
     "progressResetType": null
@@ -12426,7 +12426,7 @@
     "desc_jp": "【梅雨限定任務】海防艦3隻以上または駆逐艦5隻以上を含む演習海上護衛隊を編成！同演習戦隊で<br>本日中に演習において【A判定】勝利を4回以上達成せよ！ 海上護衛隊各艦、雨中海上演習始めッ！",
     "desc_en": "Organize a fleet with 3DE or 5DD in your fleet and score A rank 4 times in PvP",
     "added_update_id": 92,
-    "removed_update_id": null,
+    "removed_update_id": 93,
     "season_id": 45,
     "tracker": "[[367],[[9,[5,4]]],[1,[[2,[[2],5,false,0,0]],[2,[[1],3,false,0,0]]]]]",
     "progressResetType": 1
@@ -12440,7 +12440,7 @@
     "desc_jp": "【梅雨限定任務】軽空母を旗艦、駆逐艦2隻以上を含む海上護衛隊で、製油所地帯沿岸、鎮守府近海、<br>東部オリョール海、昭南本土航路に展開！さらに、鎮守府近海航路の海上護衛作戦を3回成功させよ！",
     "desc_en": "Organize a fleet with a CVL as flagship and 2DD in your fleet and score an A rank at the boss nodes on 1-3, 1-5, 2-3 and 7-4. Reach node N on 1-6 three times.",
     "added_update_id": 92,
-    "removed_update_id": null,
+    "removed_update_id": 93,
     "season_id": 45,
     "tracker": "[[954],[[0,[[1,3],5,1]],[0,[[1,5],5,1]],[0,[[2,3],5,1]],[0,[[7,4],5,1]],[7,[[1,6],3,[14,17],\"N\"]]],[0,[[2,[[7],1,true,0,0]],[2,[[2],2,false,0,0]]]]]",
     "progressResetType": null
@@ -12482,7 +12482,7 @@
     "desc_jp": "【梅雨限定任務】戦艦1隻以上、さらに重巡級2隻以上または夕雲型2隻以上を含む遊撃部隊で南方海域<br>戦線に進出！南方海域の全六作戦海域に展開、同方面の敵南方艦隊戦力の漸減を図れ！ 艦隊、出撃！",
     "desc_en": "Organize a fleet with 1(F)BB(V), either 2 CA(V) or 2 Yuugumo-class in your fleet and score an A rank at the boss nodes on 5-1, 5-2, 5-3, 5-4, 5-5 and 5-6 (Part 3)",
     "added_update_id": 92,
-    "removed_update_id": null,
+    "removed_update_id": 93,
     "season_id": 45,
     "tracker": "[[955],[[0,[[5,1],5,1]],[0,[[5,2],5,1]],[0,[[5,3],5,1]],[0,[[5,4],5,1]],[0,[[5,5],5,1]],[2,[[5,6],5,1,[43],\"-3\"]]],[0,[[2,[[10,9,8],1,false,0,0]],[0,[1,[[2,[[5,6],2,false,0,0]],[8,[[[0,false,0,38]],2]]]]]]]]",
     "progressResetType": null
