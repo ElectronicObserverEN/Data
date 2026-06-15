@@ -303,7 +303,6 @@
       }
     ],
     "upgrade_for": [
-      10,
       66,
       71,
       120,
@@ -1139,12 +1138,12 @@
           },
           "conv": {
             "devmats": 5,
-            "devmats_sli": 8,
-            "screws": 6,
-            "screws_sli": 10,
+            "devmats_sli": 6,
+            "screws": 3,
+            "screws_sli": 4,
             "equips": [
               {
-                "id": 3,
+                "id": 66,
                 "eq_count": 1
               }
             ],
@@ -7084,6 +7083,7 @@
       }
     ],
     "upgrade_for": [
+      10,
       220
     ]
   },
