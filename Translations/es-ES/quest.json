@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030728",
+  "version": "21030729",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1750,13 +1750,6 @@
     "desc_jp": "「時雨改三」練度向上任務：改装白露型駆逐艦「時雨改三」を旗艦として、僚艦駆逐艦3隻以上を含む<br>演習艦隊で、本日中に演習で【S判定】勝利を4回以上達成せよ！最精鋭「時雨改三」、演習開始ッ！",
     "desc": "Organize a fleet with Shigure Kai San as flagship and 3 other DD in your fleet and score S rank 4 times in PvP"
   },
-  "367": {
-    "code": "2605 Cd1",
-    "name_jp": "【梅雨限定任務】海上護衛戦、雨中演習2026",
-    "name": "[Rainy Season Limited Quest] Maritime Escort Battle, Rainy Exercise 2026",
-    "desc_jp": "【梅雨限定任務】海防艦3隻以上または駆逐艦5隻以上を含む演習海上護衛隊を編成！同演習戦隊で<br>本日中に演習において【A判定】勝利を4回以上達成せよ！ 海上護衛隊各艦、雨中海上演習始めッ！",
-    "desc": "Organize a fleet with 3DE or 5DD in your fleet and score A rank 4 times in PvP"
-  },
   "368": {
     "code": "Cy11",
     "name_jp": "「十六駆」演習！",
@@ -1784,13 +1777,6 @@
     "name": "[French Fleet] Do Exercises!",
     "desc_jp": "【フランス艦隊演習】フランス生まれの艦艇を旗艦に配備。同旗艦を含むフランス艦艇3隻以上を<br>配備した演習艦隊を編成。同艦隊で本日中に演習【A判定】勝利4回以上を達成せよ！Merci♪",
     "desc": "Organize a fleet with three French ships with one as flagship in your fleet and score A+ rank four times in PvP"
-  },
-  "374": {
-    "code": "2409 C1",
-    "name_jp": "【期間限定任務】「三十二駆」特別演習！",
-    "name": "",
-    "desc_jp": "【期間限定演習】第三十二駆逐隊、夕雲型駆逐艦「玉波」「涼波」「藤波」「早波」「浜波」のうち<br>3隻以上を含む演習艦隊で、本日中に演習【S判定】勝利3回以上を達成せよ！演習、始めっ！",
-    "desc": ""
   },
   "375": {
     "code": "Cy15",
@@ -3885,27 +3871,6 @@
     "desc_jp": "作戦準備(第二段階任務)：駆逐艦を3隻以上編成した艦隊で、製油所地帯沿岸、南西諸島防衛線、<br>南西諸島近海、南西諸島海域バシー海峡へ出撃、各作戦海域の敵を撃滅、制海権を確保せよ！",
     "desc": "Organize Fleet 3 DD and 3 XX and score S rank on the boss nodes of 1-3, 1-4, 2-1, 2-2."
   },
-  "953": {
-    "code": "2605 Bw1",
-    "name_jp": "【梅雨限定任務】雨の南西諸島防衛戦2026",
-    "name": "[Rainy Season Limited Quest] Rainy Nansei Islands Defense Battle 2026",
-    "desc_jp": "【梅雨限定任務】海防艦2隻または水上機母艦2隻を旗艦及び二番艦に配備。駆逐艦2隻以上を含む哨戒<br>艦隊を編成。同艦隊で南西諸島沖、南西諸島防衛線、南西諸島近海、バシー海峡の哨戒を実施せよ！",
-    "desc": "Organize a fleet with 2DE or 2AV as flagship and second ship and 2 DD in your fleet and score an A rank at the boss nodes on 1-2, 1-4, 2-1 and 2-2"
-  },
-  "954": {
-    "code": "2605 Bw2",
-    "name_jp": "【梅雨限定任務】梅雨の海上護衛強化2026",
-    "name": "[Rainy Season Limited Quest] Rainy Season Maritime Escort Reinforcement 2026",
-    "desc_jp": "【梅雨限定任務】軽空母を旗艦、駆逐艦2隻以上を含む海上護衛隊で、製油所地帯沿岸、鎮守府近海、<br>東部オリョール海、昭南本土航路に展開！さらに、鎮守府近海航路の海上護衛作戦を3回成功させよ！",
-    "desc": "Organize a fleet with a CVL as flagship and 2DD in your fleet and score an A rank at the boss nodes on 1-3, 1-5, 2-3 and 7-4. Reach node N on 1-6 three times."
-  },
-  "955": {
-    "code": "2605 Bm1",
-    "name_jp": "【梅雨任務拡張作戦】南方反攻望楼作戦を叩け！",
-    "name": "[Rainy Season Extra Operation] Strike the Southern Counterattack: Operation Watchtower!",
-    "desc_jp": "【梅雨限定任務】戦艦1隻以上、さらに重巡級2隻以上または夕雲型2隻以上を含む遊撃部隊で南方海域<br>戦線に進出！南方海域の全六作戦海域に展開、同方面の敵南方艦隊戦力の漸減を図れ！ 艦隊、出撃！",
-    "desc": "Organize a fleet with 1(F)BB(V), either 2 CA(V) or 2 Yuugumo-class in your fleet and score an A rank at the boss nodes on 5-1, 5-2, 5-3, 5-4, 5-5 and 5-6 (Part 3)"
-  },
   "957": {
     "code": "B172",
     "name_jp": "「山風改二」、抜錨せよ！",
@@ -4192,13 +4157,6 @@
     "name": "\"Hayashimo Kai Ni\"... Does Not Just Watch Anymore!",
     "desc_jp": "「早霜改二」旗艦、僚艦に「清霜」または「秋霜」を含む夕雲型第二駆逐隊を中核とした精鋭艦隊で、<br>沖ノ島沖、サーモン海域、タウイタウイ泊地沖(深部)、昭南本土航路の敵主力と交戦、これを撃滅せよ！",
     "desc": "Organize a fleet with Hayashimo Kai Ni as flagship and one of Akishimo and Kiyoshimo in your fleet and score an S rank at the boss nodes on 2-5, 7-2-2, 7-4 and 5-4"
-  },
-  "1022": {
-    "code": "2412 Bm1",
-    "name_jp": "【期間限定任務】「三十二駆」月次戦闘哨戒！",
-    "name": "[Limited Time Quest] \"DesDiv32\" Monthly Combat Patrol!",
-    "desc_jp": "【期間限定哨戒】第三十二駆逐隊、夕雲型駆逐艦「玉波」「涼波」「藤波」「早波」「浜波」のうち<br>3隻以上を含む艦隊で、東部オリョール海、ジャム島沖、南方海域前面、ブルネイ沖の哨戒を実施せよ！",
-    "desc": "Organize a fleet with 3 of Tamanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet and score an A rank at the boss nodes on 2-3, 4-1, 5-1 and 7-1"
   },
   "1023": {
     "code": "B207",
