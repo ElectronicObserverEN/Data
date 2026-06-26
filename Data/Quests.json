@@ -12514,5 +12514,19 @@
     "season_id": 46,
     "tracker": "[[1032],[[0,[[1,4],6,2]],[0,[[2,5],6,2]],[0,[[3,5],6,2]],[0,[[4,5],6,2]]],[0,[[2,[[8,9,10],2,false,0,88]],[2,[[3],1,false,0,88]],[2,[[2],2,false,0,88]]]]]",
     "progressResetType": null
+  },
+  {
+    "id": 916,
+    "api_id": 199,
+    "code": "2606 Am1",
+    "name_jp": "【期間限定任務】第三十一戦隊 特務編成！",
+    "name_en": "[Limited Time Quest] 31st Squadron Special Operations Formation!",
+    "desc_jp": "【期間限定任務】「榧」「杉」「樫」「竹」「潮」「響」及び「初霜」「雪風」「冬月」「涼月」から<br>5隻以上を抽出、戦隊を編成せよ！\u3000※次回更新時、指定後半の4隻は別の2隻と交代します。",
+    "desc_en": "Assemble a fleet containing any 5 of Kaya, Sugi, Kashi, Take, Ushio, Hibiki, Hatsushimo, Yukikaze, Fuyutsuki and Suzutsuki",
+    "added_update_id": 93,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "",
+    "progressResetType": null
   }
 ]
