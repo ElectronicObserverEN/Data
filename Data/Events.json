@@ -40,5 +40,12 @@
     "name": "Fall 2025",
     "start_update_id": 79,
     "end_update_id": 82
+  },
+  {
+    "id": 10,
+    "api_id": 62,
+    "name": "2026",
+    "start_update_id": null,
+    "end_update_id": null
   }
 ]
