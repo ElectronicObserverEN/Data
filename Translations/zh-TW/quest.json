@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030737",
+  "version": "21030738",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4269,6 +4269,13 @@
     "name": "[Limited Time Quest] Strategic Logistics Supplies, Emergency Transport!",
     "desc_jp": "弾薬x2,200、ボーキサイトx1,800を準備。旗艦に輸送艦、水上機母艦または航空戦艦、随伴に駆逐艦または<br>海防艦を計4隻以上配備した艦隊で製油所地帯沿岸、南西諸島防衛線に展開、作戦準備を実施せよ！",
     "desc": "Prepare 2200 Ammo and 1800 Bauxite. Organize a fleet with an LHA/AO/AV/BBV as flagship and 4 DD/DE in your fleet and score an S rank at the boss nodes on 1-3 and 1-4"
+  },
+  "1049": {
+    "code": "2606 Bm2",
+    "name_jp": "【期間限定拡張作戦】戦略兵站物資、拡張輸送！",
+    "name": "[Limited Time Extra Quest] Strategic Logistics Supplies, Extra Transport!",
+    "desc_jp": "弾薬x2,400、ボーキサイトx2,400を準備。旗艦に輸送艦、駆逐艦または海防艦計3隻以上が<br>随伴護衛する艦隊で、東部オリョール海及びジャワ島沖(Q地点)に展開、作戦を見事成功させよ！",
+    "desc": "Prepare 2400 Ammo and 2400 Bauxite. Organize a fleet with a LHA/AO as flagship and 3 DD/DE in your fleet and score an S rank at the boss nodes on XX, and XX (Part X)"
   },
   "1101": {
     "code": "F96",
