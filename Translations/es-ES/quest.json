@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030732",
+  "version": "21030733",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1812,6 +1812,13 @@
     "name": "[Limited Time Quest] 31st Squadron Emergency Exercises!",
     "desc_jp": "【期間限定演習】「榧」「杉」「樫」「竹」「潮」「響」及び「初霜」「雪風」「冬月」「涼月」の5隻以上を<br>含む第三十一戦隊で本日中に演習【A判定】勝利3回以上を達成せよ！\u3000※編成任務と同様、更新されます。",
     "desc": "Organize a fleet with 5 of Kaya, Sugi, Kashi, Take, Ushio, Hibiki, Hatsushimo, Yukikaze, Fuyutsuki and Suzutsuki in your fleet and score A rank 3 times in PvP. In the next update, the last 4 ships will be replaced with 2 different ships"
+  },
+  "383": {
+    "code": "2606 Cw1",
+    "name_jp": "【期間限定任務】フランス艦隊、特別演習！",
+    "name": "[Limited Time Quest] French Fleet, Special Exercises!",
+    "desc_jp": "【期間限定演習】フランス艦艇を主軸とした作戦に備え、同国出身の艦艇で構成された特務艦隊による演習<br>を実施する！フランス艦艇3隻以上を含む特務艦隊で、本日中に演習【A判定】勝利3回以上を達成せよ！",
+    "desc": "Organize a fleet with 3 French ships in your fleet and score A rank 3 times in PvP"
   },
   "401": {
     "code": "D1",
@@ -4255,6 +4262,13 @@
     "name": "Suzunami Kai Ni, Weigh Anchor from Rabaul!\t",
     "desc_jp": "「涼波改二/補」旗艦、他に「鳥海」「鈴谷」「最上」「能代」「玉波」「藤波」「早波」2隻以上を含む艦隊<br>で、サーモン海域、サーモン海域北方、ラバウル方面海域最深部に反復出撃！ラバウル周辺の敵を駆逐せよ！",
     "desc": "Organize a fleet with Suzunami Kai Ni+ as flagship and any 2 of Choukai, Suzuya, Mogami, Noshiro, Tamanami, Fujinami and Hayanami in your fleet and score an S rank at the boss nodes on 5-4, 5-5 and 5-6 (Part 3) twice each"
+  },
+  "1048": {
+    "code": "2606 Bm1",
+    "name_jp": "【期間限定任務】戦略兵站物資、緊急輸送！",
+    "name": "[Limited Time Quest] Strategic Logistics Supplies, Emergency Transport!",
+    "desc_jp": "弾薬x2,200、ボーキサイトx1,800を準備。旗艦に輸送艦、水上機母艦または航空戦艦、随伴に駆逐艦または<br>海防艦を計4隻以上配備した艦隊で製油所地帯沿岸、南西諸島防衛線に展開、作戦準備を実施せよ！",
+    "desc": "Prepare 2200 Ammo and 1800 Bauxite. Organize a fleet with an LHA/AO/AV/BBV as flagship and 4 DD/DE in your fleet and score an S rank at the boss nodes on 1-3 and 1-4"
   },
   "1101": {
     "code": "F96",
