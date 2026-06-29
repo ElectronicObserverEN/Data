@@ -12550,11 +12550,11 @@
     "name_jp": "【期間限定任務】戦略兵站物資、緊急輸送！",
     "name_en": "[Limited Time Quest] Strategic Logistics Supplies, Emergency Transport!",
     "desc_jp": "弾薬x2,200、ボーキサイトx1,800を準備。旗艦に輸送艦、水上機母艦または航空戦艦、随伴に駆逐艦または<br>海防艦を計4隻以上配備した艦隊で製油所地帯沿岸、南西諸島防衛線に展開、作戦準備を実施せよ！",
-    "desc_en": "Prepare 2200 Ammo and 1800 Bauxite. Organize a fleet with an LHA/AO/AV/BBV as flagship and 4 DD/DE in your fleet and score an S rank at the boss nodes on 1-3 and 1-4",
+    "desc_en": "Prepare 2200 Ammo and 1800 Bauxite. Organize a fleet with an LHA/AO/AV/BBV as flagship and 4 DD/DE in your fleet and score an A rank at the boss nodes on 1-3 and 1-4",
     "added_update_id": 93,
     "removed_update_id": null,
     "season_id": null,
-    "tracker": "[[1048],[[0,[[1,3],6,1]],[0,[[1,4],6,1]]],[0,[[2,[[17,22,16,10],1,true,0,0]],[2,[[2,1],4,false,0,0]]]]]",
+    "tracker": "[[1048],[[0,[[1,3],5,1]],[0,[[1,4],5,1]]],[0,[[2,[[17,22,16,10],1,true,0,0]],[2,[[2,1],4,false,0,0]]]]]",
     "progressResetType": null
   },
   {
@@ -12578,11 +12578,11 @@
     "name_jp": "【期間限定拡張作戦】戦略兵站物資、拡張輸送！",
     "name_en": "[Limited Time Extra Quest] Strategic Logistics Supplies, Extra Transport!",
     "desc_jp": "弾薬x2,400、ボーキサイトx2,400を準備。旗艦に輸送艦、駆逐艦または海防艦計3隻以上が<br>随伴護衛する艦隊で、東部オリョール海及びジャワ島沖(Q地点)に展開、作戦を見事成功させよ！",
-    "desc_en": "Prepare 2400 Ammo and 2400 Bauxite. Organize a fleet with a LHA/AO as flagship and 3 DD/DE in your fleet and score an S rank at the boss nodes on 2-3 and 7-5 (Part 2)",
+    "desc_en": "Prepare 2400 Ammo and 2400 Bauxite. Organize a fleet with a LHA/AO as flagship and 3 DD/DE in your fleet and score an A rank at the boss nodes on 2-3 and 7-5 (Part 2)",
     "added_update_id": 93,
     "removed_update_id": null,
     "season_id": null,
-    "tracker": "[[1049],[[0,[[2,3],6,1]],[2,[[7,5],6,1,[19],\"-2\"]]],[0,[[2,[[17,22],1,true,0,0]],[2,[[2,1],3,false,0,0]]]]]",
+    "tracker": "[[1049],[[0,[[2,3],5,1]],[2,[[7,5],5,1,[19],\"-2\"]]],[0,[[2,[[17,22],1,true,0,0]],[2,[[2,1],3,false,0,0]]]]]",
     "progressResetType": null
   }
 ]
