@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030311",
+  "version": "21030312",
   "equiptype": {
     "小口径主砲": "Arma de Calibre Pequeño",
     "中口径主砲": "Arma de Calibre Mediano",
@@ -785,6 +785,7 @@
     "12.7cm単装高角砲改三": "12.7cm Twin High-angle Gun Mount Kai San",
     "試製 23号電探改三": "Prototype Type 23 Radar Kai San",
     "SCレーダー改(後期調整型)": "SC Radar Kai (Calibrated Late Model)",
-    "25mm連装機銃(熟練機銃員分隊)": "25mm Twin Autocannon (Skilled Gunner Squad)"
+    "25mm連装機銃(熟練機銃員分隊)": "25mm Twin Autocannon (Skilled Gunner Squad)",
+    "大発動艇(R35&フランス兵)": "Daihatsu Landing Craft (R35 & French Troops)"
   }
 }

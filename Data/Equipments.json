@@ -4464,5 +4464,11 @@
     "api_id": 575,
     "name_jp": "25mm連装機銃(熟練機銃員分隊)",
     "name_en": "25mm Twin Autocannon (Skilled Gunner Squad)"
+  },
+  {
+    "id": 2572,
+    "api_id": 576,
+    "name_jp": "大発動艇(R35&フランス兵)",
+    "name_en": "Daihatsu Landing Craft (R35 & French Troops)"
   }
 ]
