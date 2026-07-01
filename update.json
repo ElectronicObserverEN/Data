@@ -1,4 +1,4 @@
-﻿{
+{
   "bld_date": "2026/06/06 13:00:00",
   "ver": "5.4.1",
   "note": "Check github for release notes: https://github.com/ElectronicObserverEN/ElectronicObserver/releases",
@@ -10,11 +10,11 @@
   "Locks": 82,
   "FitBonuses": 44,
   "EquipmentUpgrades": 681,
-  "kancolle_mt": "2026/06/26 11:00:00",
-  "event_state": 0,
-  "MaintInfoLink": "https://fxtwitter.com/KanColle_STAFF/status/2065447411284369698",
-  "MaintStart": "2026/06/26 11:00:00",
-  "MaintEnd": "2026/06/26 19:30:00",
-  "MaintEventState": 0,
+  "kancolle_mt": "2026/07/04 16:00:00",
+  "event_state": 3,
+  "MaintInfoLink": "https://twitter.com/KanColle_STAFF",
+  "MaintStart": "2026/07/04 16:00:00",
+  "MaintEnd": "2026/07/04 22:00:00",
+  "MaintEventState": 1,
   "QuestsMetadata": 69
 }

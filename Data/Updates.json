@@ -889,5 +889,16 @@
     "live_update": false,
     "maint_start_tweet": "https://fxtwitter.com/KanColle_STAFF/status/2065447411284369698",
     "maint_end_tweet": ""
+  },
+  {
+    "id": 94,
+    "start_date": "2026-07-04T00:00:00",
+    "start_time": "16:00:00",
+    "end_time": "22:00:00",
+    "name": "Summer 2026 Event",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "",
+    "maint_end_tweet": ""
   }
 ]
