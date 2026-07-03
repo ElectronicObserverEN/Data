@@ -892,13 +892,13 @@
   },
   {
     "id": 94,
-    "start_date": "2026-07-04T00:00:00",
+    "start_date": "2026-07-08T00:00:00",
     "start_time": "16:00:00",
     "end_time": "22:00:00",
     "name": "Summer 2026 Event",
     "description": "",
     "live_update": false,
-    "maint_start_tweet": "",
+    "maint_start_tweet": "https://x.com/i/status/2072954628770329010",
     "maint_end_tweet": ""
   }
 ]
