@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030213",
+  "version": "21030214",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -492,7 +492,8 @@
     "樫": "Kashi",
     "野埼": "Nosaki",
     "南海": "Nankai",
-    "深海空母蜂姫": "Abyssal Aircraft Carrier Wasp Princess"
+    "深海空母蜂姫": "Abyssal Aircraft Carrier Wasp Princess",
+    "桐": "Kiri"
   },
   "class": {
     "綾波型": "Ayanami Class",
