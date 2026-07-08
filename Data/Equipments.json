@@ -4470,5 +4470,17 @@
     "api_id": 576,
     "name_jp": "大発動艇(R35&フランス兵)",
     "name_en": "Daihatsu Landing Craft (R35 & French Troops)"
+  },
+  {
+    "id": 2573,
+    "api_id": 577,
+    "name_jp": "61cm四連装(酸素)魚雷五型改三",
+    "name_en": "61cm Quadruple (Oxygen) Torpedo Mount Model 5 Kai San"
+  },
+  {
+    "id": 2574,
+    "api_id": 578,
+    "name_jp": "SB2U-2",
+    "name_en": "SB2U-2"
   }
 ]

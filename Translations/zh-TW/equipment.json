@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030312",
+  "version": "21030313",
   "equiptype": {
     "小口径主砲": "小口徑主砲",
     "中口径主砲": "中口徑主砲",
@@ -786,6 +786,8 @@
     "試製 23号電探改三": "試製 23號電探改三",
     "SCレーダー改(後期調整型)": "SC雷達改(後期調整型)",
     "25mm連装機銃(熟練機銃員分隊)": "25mm連裝機槍(熟練機槍員分隊)",
-    "大発動艇(R35&フランス兵)": "Daihatsu Landing Craft (R35 & French Troops)"
+    "大発動艇(R35&フランス兵)": "Daihatsu Landing Craft (R35 & French Troops)",
+    "61cm四連装(酸素)魚雷五型改三": "61cm Quadruple (Oxygen) Torpedo Mount Model 5 Kai San",
+    "SB2U-2": "SB2U-2"
   }
 }
