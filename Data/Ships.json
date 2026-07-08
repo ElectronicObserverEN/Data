@@ -14857,5 +14857,617 @@
     "ShipClassId": 1498,
     "ShipClassApiId": 38,
     "IsFriendly": true
+  },
+  {
+    "Id": 1847,
+    "NameEN": "Kiri Kai",
+    "NameJP": "桐改",
+    "ApiId": 746,
+    "ShipClassId": 1567,
+    "ShipClassApiId": 101,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1848,
+    "NameEN": "Reno Kai",
+    "NameJP": "Reno改",
+    "ApiId": 747,
+    "ShipClassId": 1554,
+    "ShipClassApiId": 99,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1849,
+    "NameEN": "Indiana",
+    "NameJP": "Indiana",
+    "ApiId": 932,
+    "ShipClassId": 1557,
+    "ShipClassApiId": 102,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1850,
+    "NameEN": "Indiana Kai",
+    "NameJP": "Indiana改",
+    "ApiId": 937,
+    "ShipClassId": 1557,
+    "ShipClassApiId": 102,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1851,
+    "NameEN": "Reno",
+    "NameJP": "Reno",
+    "ApiId": 991,
+    "ShipClassId": 1554,
+    "ShipClassApiId": 99,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1852,
+    "NameEN": "Independence",
+    "NameJP": "Independence",
+    "ApiId": 1023,
+    "ShipClassId": 1578,
+    "ShipClassApiId": 116,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1853,
+    "NameEN": "Independence Kai",
+    "NameJP": "Independence改",
+    "ApiId": 1028,
+    "ShipClassId": 1578,
+    "ShipClassApiId": 116,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1854,
+    "NameEN": "Independence Flight II",
+    "NameJP": "Independence Flight II",
+    "ApiId": 1036,
+    "ShipClassId": 1578,
+    "ShipClassApiId": 116,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1855,
+    "NameEN": "Hanazuki",
+    "NameJP": "花月",
+    "ApiId": 1041,
+    "ShipClassId": 1515,
+    "ShipClassApiId": 54,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1856,
+    "NameEN": "Kiri",
+    "NameJP": "桐",
+    "ApiId": 1044,
+    "ShipClassId": 1567,
+    "ShipClassApiId": 101,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1857,
+    "NameEN": "Hanazuki Kai",
+    "NameJP": "花月改",
+    "ApiId": 1046,
+    "ShipClassId": 1515,
+    "ShipClassApiId": 54,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1858,
+    "NameEN": "Light Cruiser Mu-Class",
+    "NameJP": "軽巡ム級",
+    "ApiId": 2317,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1859,
+    "NameEN": "Light Cruiser Mu-Class",
+    "NameJP": "軽巡ム級",
+    "ApiId": 2318,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1860,
+    "NameEN": "Light Cruiser Mu-Class",
+    "NameJP": "軽巡ム級",
+    "ApiId": 2319,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1861,
+    "NameEN": "Light Cruiser Mu-Class - Damaged",
+    "NameJP": "軽巡ム級-壊",
+    "ApiId": 2320,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1862,
+    "NameEN": "Light Cruiser Mu-Class - Damaged",
+    "NameJP": "軽巡ム級-壊",
+    "ApiId": 2321,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1863,
+    "NameEN": "Light Cruiser Mu-Class - Damaged",
+    "NameJP": "軽巡ム級-壊",
+    "ApiId": 2322,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1864,
+    "NameEN": "Fjord Princesses",
+    "NameJP": "フィヨルド棲姫",
+    "ApiId": 2323,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1865,
+    "NameEN": "Fjord Princesses",
+    "NameJP": "フィヨルド棲姫",
+    "ApiId": 2324,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1866,
+    "NameEN": "Fjord Princesses",
+    "NameJP": "フィヨルド棲姫",
+    "ApiId": 2325,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1867,
+    "NameEN": "Fjord Princesses - Damaged",
+    "NameJP": "フィヨルド棲姫-壊",
+    "ApiId": 2326,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1868,
+    "NameEN": "Fjord Princesses - Damaged",
+    "NameJP": "フィヨルド棲姫-壊",
+    "ApiId": 2327,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1869,
+    "NameEN": "Fjord Princesses - Damaged",
+    "NameJP": "フィヨルド棲姫-壊",
+    "ApiId": 2328,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1870,
+    "NameEN": "Abyssal Landing Imp",
+    "NameJP": "深海上陸小鬼",
+    "ApiId": 2329,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1871,
+    "NameEN": "Abyssal Landing Imp",
+    "NameJP": "深海上陸小鬼",
+    "ApiId": 2330,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1872,
+    "NameEN": "Abyssal Landing Imp",
+    "NameJP": "深海上陸小鬼",
+    "ApiId": 2331,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1873,
+    "NameEN": "Solitary Fjord Princess",
+    "NameJP": "フィヨルド単騎",
+    "ApiId": 2332,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1874,
+    "NameEN": "Solitary Fjord Princess",
+    "NameJP": "フィヨルド単騎",
+    "ApiId": 2333,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1875,
+    "NameEN": "Solitary Fjord Princess",
+    "NameJP": "フィヨルド単騎",
+    "ApiId": 2334,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1876,
+    "NameEN": "Solitary Fjord Princess - Damaged",
+    "NameJP": "フィヨルド単騎-壊",
+    "ApiId": 2335,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1877,
+    "NameEN": "Solitary Fjord Princess - Damaged",
+    "NameJP": "フィヨルド単騎-壊",
+    "ApiId": 2336,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1878,
+    "NameEN": "Solitary Fjord Princess - Damaged",
+    "NameJP": "フィヨルド単騎-壊",
+    "ApiId": 2337,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1879,
+    "NameEN": "Battlecruiser Water Princess",
+    "NameJP": "巡洋戦艦水姫",
+    "ApiId": 2338,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1880,
+    "NameEN": "Battlecruiser Water Princess",
+    "NameJP": "巡洋戦艦水姫",
+    "ApiId": 2339,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1881,
+    "NameEN": "Battlecruiser Water Princess",
+    "NameJP": "巡洋戦艦水姫",
+    "ApiId": 2340,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1882,
+    "NameEN": "Battlecruiser Water Princess - Damaged",
+    "NameJP": "巡洋戦艦水姫-壊",
+    "ApiId": 2341,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1883,
+    "NameEN": "Battlecruiser Water Princess - Damaged",
+    "NameJP": "巡洋戦艦水姫-壊",
+    "ApiId": 2342,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1884,
+    "NameEN": "Battlecruiser Water Princess - Damaged",
+    "NameJP": "巡洋戦艦水姫-壊",
+    "ApiId": 2343,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1885,
+    "NameEN": "Abyssal Aircraft Carrier Wasp Princess",
+    "NameJP": "深海空母蜂姫",
+    "ApiId": 2344,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1886,
+    "NameEN": "Abyssal Aircraft Carrier Wasp Princess",
+    "NameJP": "深海空母蜂姫",
+    "ApiId": 2345,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1887,
+    "NameEN": "Abyssal Aircraft Carrier Wasp Princess",
+    "NameJP": "深海空母蜂姫",
+    "ApiId": 2346,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1888,
+    "NameEN": "Abyssal Aircraft Carrier Wasp Princess - Damaged",
+    "NameJP": "深海空母蜂姫-壊",
+    "ApiId": 2347,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1889,
+    "NameEN": "Abyssal Aircraft Carrier Wasp Princess - Damaged",
+    "NameJP": "深海空母蜂姫-壊",
+    "ApiId": 2348,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1890,
+    "NameEN": "Abyssal Aircraft Carrier Wasp Princess - Damaged",
+    "NameJP": "深海空母蜂姫-壊",
+    "ApiId": 2349,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1891,
+    "NameEN": "層間棲艦水鬼長女",
+    "NameJP": "層間棲艦水鬼長女",
+    "ApiId": 2350,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1892,
+    "NameEN": "層間棲艦水鬼長女",
+    "NameJP": "層間棲艦水鬼長女",
+    "ApiId": 2351,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1893,
+    "NameEN": "層間棲艦水鬼長女",
+    "NameJP": "層間棲艦水鬼長女",
+    "ApiId": 2352,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1894,
+    "NameEN": "層間棲艦水鬼長女 - Damaged",
+    "NameJP": "層間棲艦水鬼長女-壊",
+    "ApiId": 2353,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1895,
+    "NameEN": "層間棲艦水鬼長女 - Damaged",
+    "NameJP": "層間棲艦水鬼長女-壊",
+    "ApiId": 2354,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1896,
+    "NameEN": "層間棲艦水鬼長女 - Damaged",
+    "NameJP": "層間棲艦水鬼長女-壊",
+    "ApiId": 2355,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1897,
+    "NameEN": "層間棲艦水鬼次女",
+    "NameJP": "層間棲艦水鬼次女",
+    "ApiId": 2356,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1898,
+    "NameEN": "層間棲艦水鬼次女",
+    "NameJP": "層間棲艦水鬼次女",
+    "ApiId": 2357,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1899,
+    "NameEN": "層間棲艦水鬼次女",
+    "NameJP": "層間棲艦水鬼次女",
+    "ApiId": 2358,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1900,
+    "NameEN": "層間棲艦水鬼次女 - Damaged",
+    "NameJP": "層間棲艦水鬼次女-壊",
+    "ApiId": 2359,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1901,
+    "NameEN": "層間棲艦水鬼次女 - Damaged",
+    "NameJP": "層間棲艦水鬼次女-壊",
+    "ApiId": 2360,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1902,
+    "NameEN": "層間棲艦水鬼次女 - Damaged",
+    "NameJP": "層間棲艦水鬼次女-壊",
+    "ApiId": 2361,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1903,
+    "NameEN": "防空巡新棲姫",
+    "NameJP": "防空巡新棲姫",
+    "ApiId": 2362,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1904,
+    "NameEN": "防空巡新棲姫",
+    "NameJP": "防空巡新棲姫",
+    "ApiId": 2363,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1905,
+    "NameEN": "防空巡新棲姫",
+    "NameJP": "防空巡新棲姫",
+    "ApiId": 2364,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1906,
+    "NameEN": "防空巡新棲姫 - Damaged",
+    "NameJP": "防空巡新棲姫-壊",
+    "ApiId": 2365,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1907,
+    "NameEN": "防空巡新棲姫 - Damaged",
+    "NameJP": "防空巡新棲姫-壊",
+    "ApiId": 2366,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1908,
+    "NameEN": "防空巡新棲姫 - Damaged",
+    "NameJP": "防空巡新棲姫-壊",
+    "ApiId": 2367,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1909,
+    "NameEN": "高速軽空母首鬼",
+    "NameJP": "高速軽空母首鬼",
+    "ApiId": 2368,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1910,
+    "NameEN": "高速軽空母首鬼",
+    "NameJP": "高速軽空母首鬼",
+    "ApiId": 2369,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1911,
+    "NameEN": "高速軽空母首鬼",
+    "NameJP": "高速軽空母首鬼",
+    "ApiId": 2370,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1912,
+    "NameEN": "高速軽空母首鬼 - Damaged",
+    "NameJP": "高速軽空母首鬼-壊",
+    "ApiId": 2371,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1913,
+    "NameEN": "高速軽空母首鬼 - Damaged",
+    "NameJP": "高速軽空母首鬼-壊",
+    "ApiId": 2372,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1914,
+    "NameEN": "高速軽空母首鬼 - Damaged",
+    "NameJP": "高速軽空母首鬼-壊",
+    "ApiId": 2373,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
   }
 ]
