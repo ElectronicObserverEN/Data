@@ -2,466 +2,52 @@
   "Locks": [
     {
       "Id": 1,
-      "A": 169,
-      "R": 235,
-      "G": 238,
+      "A": 205,
+      "R": 252,
+      "G": 255,
       "B": 255,
-      "Name": "改R4計画艦隊"
+      "Name": "第三十一戦隊"
     },
     {
       "Id": 2,
-      "A": 183,
-      "R": 231,
-      "G": 241,
-      "B": 52,
-      "Name": "ナルヴィク先遣隊"
+      "A": 209,
+      "R": 206,
+      "G": 206,
+      "B": 206,
+      "Name": "増強第三十一戦隊"
     },
     {
       "Id": 3,
-      "A": 166,
-      "R": 144,
-      "G": 255,
-      "B": 141,
-      "Name": "ナルヴィク防衛主隊"
+      "A": 213,
+      "R": 233,
+      "G": 183,
+      "B": 61,
+      "Name": "多号作戦部隊"
     },
     {
       "Id": 4,
-      "A": 183,
-      "R": 145,
-      "G": 93,
-      "B": 224,
-      "Name": "ナルヴィク駐留艦隊"
+      "A": 201,
+      "R": 78,
+      "G": 247,
+      "B": 124,
+      "Name": "連合艦隊"
     },
     {
       "Id": 5,
       "A": 208,
-      "R": 49,
-      "G": 178,
-      "B": 228,
-      "Name": "イギリス本国艦隊"
+      "R": 101,
+      "G": 195,
+      "B": 245,
+      "Name": "ウルシー攻撃部隊"
     },
     {
       "Id": 6,
-      "A": 193,
-      "R": 235,
-      "G": 117,
-      "B": 41,
-      "Name": "イギリス機動部隊"
-    },
-    {
-      "Id": 7,
-      "A": 203,
-      "R": 239,
-      "G": 239,
-      "B": 239,
-      "Name": "欧州遠征収容艦隊"
-    },
-    {
-      "Id": 8,
-      "A": 204,
-      "R": 255,
-      "G": 120,
-      "B": 234,
-      "Name": "拡張第三十一戦隊"
-    },
-    {
-      "Id": 9,
-      "A": 221,
-      "R": 132,
-      "G": 238,
-      "B": 0,
-      "Name": "機動部隊"
-    },
-    {
-      "Id": 10,
-      "A": 212,
-      "R": 255,
-      "G": 232,
-      "B": 35,
-      "Name": "礼号作戦部隊"
-    },
-    {
-      "Id": 11,
-      "A": 213,
-      "R": 79,
-      "G": 218,
-      "B": 255,
-      "Name": "横須賀防備戦隊"
-    },
-    {
-      "Id": 12,
-      "A": 212,
-      "R": 81,
-      "G": 255,
-      "B": 120,
-      "Name": "連合艦隊"
-    },
-    {
-      "Id": 13,
-      "A": 204,
-      "R": 62,
-      "G": 112,
-      "B": 255,
-      "Name": "第百四戦隊"
-    },
-    {
-      "Id": 14,
-      "A": 170,
-      "R": 133,
-      "G": 255,
-      "B": 199,
-      "Name": "決戦艦隊"
+      "A": 200,
+      "R": 58,
+      "G": 129,
+      "B": 180,
+      "Name": "第六艦隊"
     }
   ],
-  "Phases": [
-    {
-      "LockGroups": [
-        1
-      ],
-      "Name": "E1 E"
-    },
-    {
-      "LockGroups": [
-        1
-      ],
-      "Name": "E1 D"
-    },
-    {
-      "LockGroups": [
-        1
-      ],
-      "Name": "E1 I"
-    },
-    {
-      "LockGroups": [
-        1
-      ],
-      "Name": "E1 N"
-    },
-    {
-      "LockGroups": [
-        1
-      ],
-      "Name": "E1-1"
-    },
-    {
-      "LockGroups": [
-        1
-      ],
-      "Name": "E1 P"
-    },
-    {
-      "LockGroups": [
-        1
-      ],
-      "Name": "E1 S"
-    },
-    {
-      "LockGroups": [
-        1
-      ],
-      "Name": "E1-2"
-    },
-    {
-      "LockGroups": [
-        2
-      ],
-      "Name": "E2-1"
-    },
-    {
-      "LockGroups": [
-        2
-      ],
-      "Name": "E2 J"
-    },
-    {
-      "LockGroups": [
-        2
-      ],
-      "Name": "E2 R"
-    },
-    {
-      "LockGroups": [
-        2
-      ],
-      "Name": "E2 E"
-    },
-    {
-      "LockGroups": [
-        3
-      ],
-      "Name": "E2 Q"
-    },
-    {
-      "LockGroups": [
-        3
-      ],
-      "Name": "E2-2"
-    },
-    {
-      "LockGroups": [
-        2
-      ],
-      "Name": "E2 S"
-    },
-    {
-      "LockGroups": [
-        3
-      ],
-      "Name": "E2-3"
-    },
-    {
-      "LockGroups": [
-        2,
-        3,
-        4
-      ],
-      "Name": "E3 A2"
-    },
-    {
-      "LockGroups": [
-        2,
-        3,
-        4
-      ],
-      "Name": "E3 C2"
-    },
-    {
-      "LockGroups": [
-        5
-      ],
-      "Name": "E3-1"
-    },
-    {
-      "LockGroups": [
-        5
-      ],
-      "Name": "E3 G2"
-    },
-    {
-      "LockGroups": [
-        2,
-        3,
-        4
-      ],
-      "Name": "E3-2"
-    },
-    {
-      "LockGroups": [
-        2,
-        3,
-        4
-      ],
-      "Name": "E3 P"
-    },
-    {
-      "LockGroups": [
-        2,
-        3,
-        4
-      ],
-      "Name": "E3 Q"
-    },
-    {
-      "LockGroups": [
-        5
-      ],
-      "Name": "E3 S"
-    },
-    {
-      "LockGroups": [
-        6
-      ],
-      "Name": "E3-3"
-    },
-    {
-      "LockGroups": [
-        2,
-        3,
-        4,
-        7
-      ],
-      "Name": "E4 B"
-    },
-    {
-      "LockGroups": [
-        2,
-        3,
-        4,
-        7
-      ],
-      "Name": "E4 E"
-    },
-    {
-      "LockGroups": [
-        2,
-        3,
-        4,
-        7
-      ],
-      "Name": "E4 G"
-    },
-    {
-      "LockGroups": [
-        2,
-        3,
-        4,
-        7
-      ],
-      "Name": "E4-1"
-    },
-    {
-      "LockGroups": [
-        8
-      ],
-      "Name": "E4-2"
-    },
-    {
-      "LockGroups": [
-        9
-      ],
-      "Name": "E4-3"
-    },
-    {
-      "LockGroups": [
-        10
-      ],
-      "Name": "E4-4"
-    },
-    {
-      "LockGroups": [
-        11
-      ],
-      "Name": "E5 D"
-    },
-    {
-      "LockGroups": [
-        12
-      ],
-      "Name": "E5 I"
-    },
-    {
-      "LockGroups": [
-        12
-      ],
-      "Name": "E5 H"
-    },
-    {
-      "LockGroups": [
-        13
-      ],
-      "Name": "E5-1"
-    },
-    {
-      "LockGroups": [
-        13
-      ],
-      "Name": "E5-2"
-    },
-    {
-      "LockGroups": [
-        12
-      ],
-      "Name": "E5-3"
-    },
-    {
-      "LockGroups": [
-        12
-      ],
-      "Name": "E5 X"
-    },
-    {
-      "LockGroups": [
-        12
-      ],
-      "Name": "E5 Z"
-    },
-    {
-      "LockGroups": [
-        13
-      ],
-      "Name": "E5 U"
-    },
-    {
-      "LockGroups": [
-        13
-      ],
-      "Name": "E5 P"
-    },
-    {
-      "LockGroups": [
-        12
-      ],
-      "Name": "E5-4"
-    },
-    {
-      "LockGroups": [
-        14
-      ],
-      "Name": "E5-4"
-    },
-    {
-      "LockGroups": [
-        13
-      ],
-      "Name": "E5 U"
-    },
-    {
-      "LockGroups": [
-        13
-      ],
-      "Name": "E5 P"
-    },
-    {
-      "LockGroups": [
-        12
-      ],
-      "Name": "E5 X"
-    },
-    {
-      "LockGroups": [
-        12
-      ],
-      "Name": "E5 Q"
-    },
-    {
-      "LockGroups": [
-        12,
-        14
-      ],
-      "Name": "E5 Y"
-    },
-    {
-      "LockGroups": [
-        12,
-        14
-      ],
-      "Name": "E5 Z"
-    },
-    {
-      "LockGroups": [
-        11
-      ],
-      "Name": "E5 B"
-    },
-    {
-      "LockGroups": [
-        12,
-        14
-      ],
-      "Name": "E5 B2"
-    },
-    {
-      "LockGroups": [
-        13
-      ],
-      "Name": "E5 S"
-    },
-    {
-      "LockGroups": [
-        12
-      ],
-      "Name": "E5 E"
-    }
-  ]
+  "Phases": []
 }
