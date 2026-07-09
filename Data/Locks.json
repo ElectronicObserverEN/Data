@@ -49,5 +49,56 @@
       "Name": "第六艦隊"
     }
   ],
-  "Phases": []
+  "Phases": [
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 C2"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 C3"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 F"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 H"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1-1"
+    },
+    {
+      "LockGroups": [
+        1
+      ],
+      "Name": "E1 L"
+    },
+    {
+      "LockGroups": [
+        1,
+        2
+      ],
+      "Name": "E1-2"
+    },
+    {
+      "LockGroups": [
+        1,
+        2
+      ],
+      "Name": "E1-3"
+    }
+  ]
 }
