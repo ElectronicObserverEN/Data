@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030218",
+  "version": "21030219",
   "ship": {
     "長門": "Nagato",
     "陸奥": "Mutsu",
@@ -633,7 +633,11 @@
     "Thonburi級": "Thonburi Class",
     "大泊型": "Ootomari Class",
     "Киров級": "Kirov Class",
-    "特1TL型": "Special 1TL Type"
+    "特1TL型": "Special 1TL Type",
+    "Algérie級": "Algérie Class",
+    "Aigle級": "Aigle Class",
+    "Visby級": "Visby Class",
+    "Béarn級": "Béarn Class"
   },
   "suffix": {
     "改": "Kai",

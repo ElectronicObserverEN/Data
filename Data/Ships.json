@@ -15469,5 +15469,320 @@
     "ShipClassId": null,
     "ShipClassApiId": null,
     "IsFriendly": false
+  },
+  {
+    "Id": 1939,
+    "NameEN": "Algérie",
+    "NameJP": "Algérie",
+    "ApiId": 1051,
+    "ShipClassId": 1625,
+    "ShipClassApiId": 138,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1940,
+    "NameEN": "Vautour",
+    "NameJP": "Vautour",
+    "ApiId": 1053,
+    "ShipClassId": 1624,
+    "ShipClassApiId": 139,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1941,
+    "NameEN": "Béarn",
+    "NameJP": "Béarn",
+    "ApiId": 1055,
+    "ShipClassId": 1627,
+    "ShipClassApiId": 141,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1942,
+    "NameEN": "Algérie Kai",
+    "NameJP": "Algérie改",
+    "ApiId": 1056,
+    "ShipClassId": 1625,
+    "ShipClassApiId": 138,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1943,
+    "NameEN": "Vautour Kai",
+    "NameJP": "Vautour改",
+    "ApiId": 1058,
+    "ShipClassId": 1624,
+    "ShipClassApiId": 139,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1944,
+    "NameEN": "Béarn Kai",
+    "NameJP": "Béarn改",
+    "ApiId": 1060,
+    "ShipClassId": 1627,
+    "ShipClassApiId": 141,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1945,
+    "NameEN": "Béarn amélioration",
+    "NameJP": "Béarn amélioration",
+    "ApiId": 1061,
+    "ShipClassId": 1627,
+    "ShipClassApiId": 141,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1946,
+    "NameEN": "Visby",
+    "NameJP": "Visby",
+    "ApiId": 1062,
+    "ShipClassId": 1626,
+    "ShipClassApiId": 140,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1947,
+    "NameEN": "Hie Maru",
+    "NameJP": "日枝丸",
+    "ApiId": 1065,
+    "ShipClassId": 1586,
+    "ShipClassApiId": 126,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1948,
+    "NameEN": "Visby Kai",
+    "NameJP": "Visby改",
+    "ApiId": 1067,
+    "ShipClassId": 1626,
+    "ShipClassApiId": 140,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1949,
+    "NameEN": "Hie Maru Kai",
+    "NameJP": "日枝丸改",
+    "ApiId": 1070,
+    "ShipClassId": 1586,
+    "ShipClassApiId": 126,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1950,
+    "NameEN": "軽巡ウ級",
+    "NameJP": "軽巡ウ級",
+    "ApiId": 2374,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1951,
+    "NameEN": "軽巡ウ級",
+    "NameJP": "軽巡ウ級",
+    "ApiId": 2375,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1952,
+    "NameEN": "軽巡ウ級",
+    "NameJP": "軽巡ウ級",
+    "ApiId": 2376,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1953,
+    "NameEN": "軽巡ウ級 - Damaged",
+    "NameJP": "軽巡ウ級-壊",
+    "ApiId": 2377,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1954,
+    "NameEN": "軽巡ウ級 - Damaged",
+    "NameJP": "軽巡ウ級-壊",
+    "ApiId": 2378,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1955,
+    "NameEN": "軽巡ウ級 - Damaged",
+    "NameJP": "軽巡ウ級-壊",
+    "ApiId": 2379,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1956,
+    "NameEN": "重巡ヰ級",
+    "NameJP": "重巡ヰ級",
+    "ApiId": 2380,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1957,
+    "NameEN": "重巡ヰ級",
+    "NameJP": "重巡ヰ級",
+    "ApiId": 2381,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1958,
+    "NameEN": "重巡ヰ級",
+    "NameJP": "重巡ヰ級",
+    "ApiId": 2382,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1959,
+    "NameEN": "重巡ヰ級 - Damaged",
+    "NameJP": "重巡ヰ級-壊",
+    "ApiId": 2383,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1960,
+    "NameEN": "重巡ヰ級 - Damaged",
+    "NameJP": "重巡ヰ級-壊",
+    "ApiId": 2384,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1961,
+    "NameEN": "重巡ヰ級 - Damaged",
+    "NameJP": "重巡ヰ級-壊",
+    "ApiId": 2385,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1962,
+    "NameEN": "Grieving French Princess",
+    "NameJP": "仏蘭西哀重姫",
+    "ApiId": 2386,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1963,
+    "NameEN": "Grieving French Princess",
+    "NameJP": "仏蘭西哀重姫",
+    "ApiId": 2387,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1964,
+    "NameEN": "Grieving French Princess",
+    "NameJP": "仏蘭西哀重姫",
+    "ApiId": 2388,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1965,
+    "NameEN": "Grieving French Princess - Damaged",
+    "NameJP": "仏蘭西哀重姫-壊",
+    "ApiId": 2389,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1966,
+    "NameEN": "Grieving French Princess - Damaged",
+    "NameJP": "仏蘭西哀重姫-壊",
+    "ApiId": 2390,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1967,
+    "NameEN": "Grieving French Princess - Damaged",
+    "NameJP": "仏蘭西哀重姫-壊",
+    "ApiId": 2391,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1968,
+    "NameEN": "Caged French Carrier Princess",
+    "NameJP": "仏蘭西空母籠姫",
+    "ApiId": 2392,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1969,
+    "NameEN": "Caged French Carrier Princess",
+    "NameJP": "仏蘭西空母籠姫",
+    "ApiId": 2393,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1970,
+    "NameEN": "Caged French Carrier Princess",
+    "NameJP": "仏蘭西空母籠姫",
+    "ApiId": 2394,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1971,
+    "NameEN": "Caged French Carrier Princess - Damaged",
+    "NameJP": "仏蘭西空母籠姫-壊",
+    "ApiId": 2395,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1972,
+    "NameEN": "Caged French Carrier Princess - Damaged",
+    "NameJP": "仏蘭西空母籠姫-壊",
+    "ApiId": 2396,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
+  },
+  {
+    "Id": 1973,
+    "NameEN": "Caged French Carrier Princess - Damaged",
+    "NameJP": "仏蘭西空母籠姫-壊",
+    "ApiId": 2397,
+    "ShipClassId": null,
+    "ShipClassApiId": null,
+    "IsFriendly": false
   }
 ]
