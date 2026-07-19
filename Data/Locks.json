@@ -396,6 +396,36 @@
         8
       ],
       "Name": "E4 Y1"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E5 C2"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E5 D"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E5 B2"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E5 E2"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E5-1"
     }
   ]
 }
