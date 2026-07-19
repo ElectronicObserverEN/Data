@@ -369,12 +369,6 @@
     },
     {
       "LockGroups": [
-        8
-      ],
-      "Name": "E4 V"
-    },
-    {
-      "LockGroups": [
         7
       ],
       "Name": "E4 N"
@@ -390,6 +384,18 @@
         7
       ],
       "Name": "E4 E2"
+    },
+    {
+      "LockGroups": [
+        8
+      ],
+      "Name": "E4 Y"
+    },
+    {
+      "LockGroups": [
+        8
+      ],
+      "Name": "E4 Y1"
     }
   ]
 }
