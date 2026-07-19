@@ -314,6 +314,42 @@
         8
       ],
       "Name": "E4-5"
+    },
+    {
+      "LockGroups": [
+        8
+      ],
+      "Name": "E4 S"
+    },
+    {
+      "LockGroups": [
+        8
+      ],
+      "Name": "E4 X"
+    },
+    {
+      "LockGroups": [
+        8
+      ],
+      "Name": "E4 V"
+    },
+    {
+      "LockGroups": [
+        7
+      ],
+      "Name": "E4 N"
+    },
+    {
+      "LockGroups": [
+        7
+      ],
+      "Name": "E4 D"
+    },
+    {
+      "LockGroups": [
+        7
+      ],
+      "Name": "E4 E2"
     }
   ]
 }
