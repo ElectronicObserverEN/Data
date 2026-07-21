@@ -292,13 +292,6 @@
         1,
         2
       ],
-      "Name": "E3 E2"
-    },
-    {
-      "LockGroups": [
-        1,
-        2
-      ],
       "Name": "E2 Q"
     },
     {
@@ -330,6 +323,12 @@
         7
       ],
       "Name": "E4-1"
+    },
+    {
+      "LockGroups": [
+        7
+      ],
+      "Name": "E4 E2"
     },
     {
       "LockGroups": [
