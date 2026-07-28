@@ -47,6 +47,62 @@
       "G": 129,
       "B": 180,
       "Name": "第六艦隊"
+    },
+    {
+      "Id": 7,
+      "A": 211,
+      "R": 207,
+      "G": 151,
+      "B": 118,
+      "Name": "仏第3艦隊"
+    },
+    {
+      "Id": 8,
+      "A": 255,
+      "R": 233,
+      "G": 61,
+      "B": 16,
+      "Name": "仏地中海艦隊"
+    },
+    {
+      "Id": 9,
+      "A": 215,
+      "R": 50,
+      "G": 255,
+      "B": 251,
+      "Name": "2ème Escadre Légère"
+    },
+    {
+      "Id": 10,
+      "A": 211,
+      "R": 186,
+      "G": 227,
+      "B": 56,
+      "Name": "イギリス救援艦隊"
+    },
+    {
+      "Id": 11,
+      "A": 221,
+      "R": 233,
+      "G": 81,
+      "B": 81,
+      "Name": "Force de Raid"
+    },
+    {
+      "Id": 12,
+      "A": 207,
+      "R": 207,
+      "G": 116,
+      "B": 255,
+      "Name": "Force H"
+    },
+    {
+      "Id": 13,
+      "A": 199,
+      "R": 26,
+      "G": 194,
+      "B": 168,
+      "Name": "欧州連合艦隊"
     }
   ],
   "Phases": [
@@ -158,6 +214,31 @@
         1,
         2
       ],
+      "Name": "E2 H"
+    },
+    {
+      "LockGroups": [
+        3
+      ],
+      "Name": "E2 P"
+    },
+    {
+      "LockGroups": [
+        4
+      ],
+      "Name": "E2 V"
+    },
+    {
+      "LockGroups": [
+        4
+      ],
+      "Name": "E2 W2"
+    },
+    {
+      "LockGroups": [
+        1,
+        2
+      ],
       "Name": "E3 B2"
     },
     {
@@ -205,6 +286,187 @@
         5
       ],
       "Name": "E3-4"
+    },
+    {
+      "LockGroups": [
+        1,
+        2
+      ],
+      "Name": "E2 Q"
+    },
+    {
+      "LockGroups": [
+        6
+      ],
+      "Name": "E3 X"
+    },
+    {
+      "LockGroups": [
+        6
+      ],
+      "Name": "E3 W"
+    },
+    {
+      "LockGroups": [
+        5
+      ],
+      "Name": "E3 O"
+    },
+    {
+      "LockGroups": [
+        5
+      ],
+      "Name": "E3 Y3"
+    },
+    {
+      "LockGroups": [
+        7
+      ],
+      "Name": "E4-1"
+    },
+    {
+      "LockGroups": [
+        7
+      ],
+      "Name": "E4 E2"
+    },
+    {
+      "LockGroups": [
+        7
+      ],
+      "Name": "E4-2"
+    },
+    {
+      "LockGroups": [
+        8
+      ],
+      "Name": "E4-3"
+    },
+    {
+      "LockGroups": [
+        8
+      ],
+      "Name": "E4-4"
+    },
+    {
+      "LockGroups": [
+        8
+      ],
+      "Name": "E4-5"
+    },
+    {
+      "LockGroups": [
+        8
+      ],
+      "Name": "E4 S"
+    },
+    {
+      "LockGroups": [
+        8
+      ],
+      "Name": "E4 X"
+    },
+    {
+      "LockGroups": [
+        7
+      ],
+      "Name": "E4 N"
+    },
+    {
+      "LockGroups": [
+        7
+      ],
+      "Name": "E4 D"
+    },
+    {
+      "LockGroups": [
+        7
+      ],
+      "Name": "E4 E2"
+    },
+    {
+      "LockGroups": [
+        8
+      ],
+      "Name": "E4 Y"
+    },
+    {
+      "LockGroups": [
+        8
+      ],
+      "Name": "E4 Y1"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E5 C2"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E5 D"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E5 B2"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E5 E2"
+    },
+    {
+      "LockGroups": [
+        9
+      ],
+      "Name": "E5-1"
+    },
+    {
+      "LockGroups": [
+        10
+      ],
+      "Name": "5-2"
+    },
+    {
+      "LockGroups": [
+        11
+      ],
+      "Name": "E5 L1"
+    },
+    {
+      "LockGroups": [
+        11
+      ],
+      "Name": "E5 L2"
+    },
+    {
+      "LockGroups": [
+        12
+      ],
+      "Name": "E5 P"
+    },
+    {
+      "LockGroups": [
+        12
+      ],
+      "Name": "E5 P3"
+    },
+    {
+      "LockGroups": [
+        11
+      ],
+      "Name": "E5-3"
+    },
+    {
+      "LockGroups": [
+        13
+      ],
+      "Name": "E5-4"
     }
   ]
 }

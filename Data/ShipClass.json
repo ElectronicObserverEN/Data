@@ -832,5 +832,29 @@
     "ApiId": 132,
     "NameEnglish": "Special 1TL Type",
     "NameJapanese": "特1TL型"
+  },
+  {
+    "Id": 1624,
+    "ApiId": 139,
+    "NameEnglish": "Aigle Class",
+    "NameJapanese": "Aigle級"
+  },
+  {
+    "Id": 1625,
+    "ApiId": 138,
+    "NameEnglish": "Algérie Class",
+    "NameJapanese": "Algérie級"
+  },
+  {
+    "Id": 1626,
+    "ApiId": 140,
+    "NameEnglish": "Visby Class",
+    "NameJapanese": "Visby級"
+  },
+  {
+    "Id": 1627,
+    "ApiId": 141,
+    "NameEnglish": "Béarn Class",
+    "NameJapanese": "Béarn級"
   }
 ]

@@ -4482,5 +4482,77 @@
     "api_id": 578,
     "name_jp": "SB2U-2",
     "name_en": "SB2U-2"
+  },
+  {
+    "id": 2575,
+    "api_id": 1658,
+    "name_jp": "深海28.3cm L/52 三連装砲",
+    "name_en": "Abyssal 28.3cm L/52 Triple Gun Mount"
+  },
+  {
+    "id": 2576,
+    "api_id": 1659,
+    "name_jp": "深海20.3cm SHS連装砲",
+    "name_en": "Abyssal 20.3cm SHS Twin Gun Mount"
+  },
+  {
+    "id": 2577,
+    "api_id": 579,
+    "name_jp": "13.8cm単装砲 Modèle 1927",
+    "name_en": "13.8cm Single Gun Mount Modèle 1927"
+  },
+  {
+    "id": 2578,
+    "api_id": 580,
+    "name_jp": "55cm三連装魚雷 Modèle 1924",
+    "name_en": "55cm Triple Torpedo Mount Modèle 1924"
+  },
+  {
+    "id": 2579,
+    "api_id": 581,
+    "name_jp": "55cm複合配置五連装魚雷 Modèle 1932",
+    "name_en": "55cm Five-tubes Composite Arrangement Torpedo Mounts Modèle 1932"
+  },
+  {
+    "id": 2580,
+    "api_id": 582,
+    "name_jp": "20.3cm/50 連装砲 Modèle 1931",
+    "name_en": "20.3cm/50 Twin Gun Mount Modèle 1931"
+  },
+  {
+    "id": 2581,
+    "api_id": 583,
+    "name_jp": "20.3cm/50 連装砲改(SHS改良弾)",
+    "name_en": "20.3cm/50 Twin Gun Mount Kai (SHS Improved Shells)"
+  },
+  {
+    "id": 2582,
+    "api_id": 584,
+    "name_jp": "Bofors 12cm単装両用砲",
+    "name_en": "Bofors 12cm Single-barrel Dual-purpose Gun"
+  },
+  {
+    "id": 2583,
+    "api_id": 585,
+    "name_jp": "PL101(偵察)",
+    "name_en": "PL 101 (Reconnaissance)"
+  },
+  {
+    "id": 2584,
+    "api_id": 586,
+    "name_jp": "PL101(爆装)",
+    "name_en": "PL 101 (Bomber)"
+  },
+  {
+    "id": 2585,
+    "api_id": 587,
+    "name_jp": "V-156F(SB2U輸出型)",
+    "name_en": "V-156F (SB2U Export Model)"
+  },
+  {
+    "id": 2586,
+    "api_id": 588,
+    "name_jp": "G-36A(F4F輸出型)",
+    "name_en": "G-36A (F4F Export Model)"
   }
 ]
