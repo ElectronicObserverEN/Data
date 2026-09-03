@@ -911,5 +911,16 @@
     "live_update": false,
     "maint_start_tweet": "https://x.com/KanColle_STAFF/status/2082377090876465532",
     "maint_end_tweet": ""
+  },
+  {
+    "id": 96,
+    "start_date": "2026-09-10T00:00:00",
+    "start_time": "11:00:00",
+    "end_time": "20:00:00",
+    "name": "Summer 2026 event end",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://fxtwitter.com/KanColle_STAFF/status/2095347759301964029",
+    "maint_end_tweet": ""
   }
 ]
