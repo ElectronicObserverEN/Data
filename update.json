@@ -1,4 +1,4 @@
-{
+﻿{
   "bld_date": "2026/08/09 16:00:00",
   "ver": "5.4.3",
   "note": "Check github for release notes: https://github.com/ElectronicObserverEN/ElectronicObserver/releases",
@@ -16,5 +16,5 @@
   "MaintStart": "2026/09/10 11:00:00",
   "MaintEnd": "2026/09/10 20:00:00",
   "MaintEventState": 2,
-  "QuestsMetadata": 72
+  "QuestsMetadata": 73
 }

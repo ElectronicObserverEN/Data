@@ -12468,7 +12468,7 @@
     "desc_jp": "「Thonburi」「Tuscaloosa」「Gambier Bay」「榛名」「宗谷」「夕張」「早波」「浜波」「薄雲」「朧」<br>「大井」の旗艦含む3隻以上の艦隊で、モーレイ海、キス島沖、北方AL海域に反復展開！敵を撃滅せよ！",
     "desc_en": "Organize a fleet with any 3 of Thonburi, Tuscaloosa, Gambier Bay, Haruna, Souya, Yuubari, Hayanami, Hamanami, Usugumo, Oboro and Ooi with one as flagship and score an S rank at the boss nodes on 3-1, 3-2 and 3-5 twice each",
     "added_update_id": 92,
-    "removed_update_id": null,
+    "removed_update_id": 96,
     "season_id": 46,
     "tracker": "[[1031],[[0,[[3,1],6,2]],[0,[[3,2],6,2]],[0,[[3,5],6,2]]],[0,[[8,[[[973,false,0,0],[923,false,0,0],[544,false,0,0],[79,false,0,0],[699,false,0,0],[115,false,0,0],[528,false,0,0],[484,false,0,0],[631,false,0,0],[93,false,0,0],[24,false,0,0]],3]],[0,[1,[[5,[973,1,0]],[5,[923,1,0]],[5,[544,1,0]],[5,[79,1,0]],[5,[699,1,0]],[5,[115,1,0]],[5,[528,1,0]],[5,[484,1,0]],[5,[631,1,0]],[5,[93,1,0]],[5,[24,1,0]]]]]]]]",
     "progressResetType": null
@@ -12510,7 +12510,7 @@
     "desc_jp": "Lv.88以上の戦艦2隻及び軽巡1隻駆逐艦2隻を含む精鋭水上打撃部隊を編成。同艦隊により、南西諸島<br>防衛線、沖ノ島沖、北方AL海域、カレー洋リランカ島沖に反復出撃！敵戦力を連打し、これを撃滅せよ！",
     "desc_en": "Organize a fleet with 2 Lv.88+ (F)BB(V), 1 Lv.88+ CL, 2 Lv.88+ DD in your fleet and score an S rank at the boss nodes on 1-4, 2-5, 3-5 and 4-5 twice each",
     "added_update_id": 92,
-    "removed_update_id": null,
+    "removed_update_id": 96,
     "season_id": 46,
     "tracker": "[[1032],[[0,[[1,4],6,2]],[0,[[2,5],6,2]],[0,[[3,5],6,2]],[0,[[4,5],6,2]]],[0,[[2,[[8,9,10],2,false,0,88]],[2,[[3],1,false,0,88]],[2,[[2],2,false,0,88]]]]]",
     "progressResetType": null
@@ -12566,7 +12566,7 @@
     "desc_jp": "【期間限定演習】フランス艦艇を主軸とした作戦に備え、同国出身の艦艇で構成された特務艦隊による演習<br>を実施する！フランス艦艇3隻以上を含む特務艦隊で、本日中に演習【A判定】勝利3回以上を達成せよ！",
     "desc_en": "Organize a fleet with 3 French ships in your fleet and score A rank 3 times in PvP",
     "added_update_id": 93,
-    "removed_update_id": null,
+    "removed_update_id": 96,
     "season_id": null,
     "tracker": "[[383],[[9,[5,3]]],[0,[[6,[[6],3,false,0]]]]]",
     "progressResetType": 1
