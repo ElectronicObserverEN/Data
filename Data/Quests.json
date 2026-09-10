@@ -12598,5 +12598,19 @@
     "season_id": null,
     "tracker": "[[384],[[9,[4,4]]],[0,[[8,[[[132,false,0,0],[421,false,0,0],[13,false,0,0],[14,false,0,0],[42,false,0,0],[168,false,0,0],[170,false,0,0],[135,false,0,0],[485,false,0,0],[425,false,0,0],[964,false,0,0],[93,false,0,0],[94,false,0,0],[634,false,0,0],[635,false,0,0],[183,false,0,0],[55,false,0,0]],4]]]]]",
     "progressResetType": 1
+  },
+  {
+    "id": 922,
+    "api_id": 385,
+    "code": "2609 Cw2",
+    "name_jp": "【期間限定拡張任務】秋祭り拡張演習！",
+    "name_en": "[Limited Time Quest] Autumn Festival Extra Exercises!",
+    "desc_jp": "【期間限定演習】「Algérie」「Vautour」「Mogador」「Béarn」「日枝丸」「平安丸」「大泊」「陸奥」<br>「South Dakota」「Victorious」計3隻以上の艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！",
+    "desc_en": "Organize a fleet with 3 of Algérie, Vautour, Mogador, Béarn, Hie Maru, Heian Maru, Ootomari, Mutsu, South Dakota or Victorious in your fleet and score S rank four times in PvP",
+    "added_update_id": 96,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[385],[[9,[6,4]]],[0,[[8,[[[1051,false,0,0],[1053,false,0,0],[962,false,0,0],[1055,false,0,0],[1065,false,0,0],[944,false,0,0],[995,false,0,0],[81,false,0,0],[602,false,0,0],[885,false,0,0]],3]]]]]",
+    "progressResetType": 1
   }
 ]
