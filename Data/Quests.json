@@ -12612,5 +12612,19 @@
     "season_id": null,
     "tracker": "[[385],[[9,[6,4]]],[0,[[8,[[[1051,false,0,0],[1053,false,0,0],[962,false,0,0],[1055,false,0,0],[1065,false,0,0],[944,false,0,0],[995,false,0,0],[81,false,0,0],[602,false,0,0],[885,false,0,0]],3]]]]]",
     "progressResetType": 1
+  },
+  {
+    "id": 923,
+    "api_id": 1050,
+    "code": "By17",
+    "name_jp": "「第九戦隊」抜錨！前線展開せよッ！",
+    "name_en": "[9th Squadron] Weigh Anchor! Deploy to the Front Lines!",
+    "desc_jp": "旗艦及び随伴艦に「北上改二/改三」及び「大井改二」、護衛随伴に精鋭駆逐艦二隻を配備。同艦隊で<br>南西諸島防衛線、南西諸島近海、バシー海峡、東部オリョール海の前線哨戒を実施！敵を撃滅せよ！",
+    "desc_en": "Organize a fleet with Kitakami Kai Ni+ and Ooi Kai Ni, one as flagship and 2 DD in your fleet and score an S rank at the boss nodes on 1-4, 2-1, 2-2 and 2-3",
+    "added_update_id": 96,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1050],[[0,[[1,4],6,1]],[0,[[2,1],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]]],[0,[[0,[1,[[5,[119,1,1]],[5,[118,1,1]]]]],[8,[[[118,false,1,0],[119,false,1,0]],2]],[2,[[2],2,false,0,0]]]]]",
+    "progressResetType": null
   }
 ]
