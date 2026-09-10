@@ -15784,5 +15784,32 @@
     "ShipClassId": null,
     "ShipClassApiId": null,
     "IsFriendly": false
+  },
+  {
+    "Id": 1974,
+    "NameEN": "Kitakami Kai San",
+    "NameJP": "北上改三",
+    "ApiId": 1071,
+    "ShipClassId": 1465,
+    "ShipClassApiId": 4,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1975,
+    "NameEN": "Fusou Kai Ni Ho",
+    "NameJP": "扶桑改二補",
+    "ApiId": 748,
+    "ShipClassId": 1466,
+    "ShipClassApiId": 26,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1976,
+    "NameEN": "Yamashiro Kai Ni Ho",
+    "NameJP": "山城改二補",
+    "ApiId": 749,
+    "ShipClassId": 1466,
+    "ShipClassApiId": 26,
+    "IsFriendly": true
   }
 ]
