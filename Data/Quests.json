@@ -12626,5 +12626,33 @@
     "season_id": null,
     "tracker": "[[1050],[[0,[[1,4],6,1]],[0,[[2,1],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]]],[0,[[0,[1,[[5,[119,1,1]],[5,[118,1,1]]]]],[8,[[[118,false,1,0],[119,false,1,0]],2]],[2,[[2],2,false,0,0]]]]]",
     "progressResetType": null
+  },
+  {
+    "id": 924,
+    "api_id": 1170,
+    "code": "F143",
+    "name_jp": "既存装備活用による対空兵装の開発",
+    "name_en": "Development of Anti-Air Armament Utilizing Existing Equipment",
+    "desc_jp": "第一艦隊旗艦に「北上改二/改三」を配備。「12.7cm連装高角砲」x12及び「8cm高角砲」x8、<br>「25mm三連装機銃」x4を廃棄。開発資材x36、弾薬x750、改修資材x8を準備せよ！",
+    "desc_en": "Have Kitakami Kai Ni+ as secretary flagship and then proceed to scrap 12x 12.7cm Twin High-angle Gun Mount, 8x 8cm High-angle Gun and 4x 25mm Triple Autocannon Mount and have 36x Development Material, 750x Ammo and 8x Improvement Material (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 96,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1170],[[3,[10,12]],[3,[40,4]],[3,[66,8]]],[0,[[5,[119,1,1]]]]]",
+    "progressResetType": null
+  },
+  {
+    "id": 925,
+    "api_id": 1052,
+    "code": "B217",
+    "name_jp": "改装多目的搭載母艦「北上改三」、出撃ッ！",
+    "name_en": "Remodelled Multi-role Tactical Carrier Kitakami Kai San, Sortieing!",
+    "desc_jp": "「北上改三」旗艦、随伴に「花月」「潮」「響」「竹」「桐」「榧」「杉」「樫」から2隻以上を配備した<br>艦隊で、製油所地帯沿岸、沖ノ島海域、カレー洋リランカ島沖へ反復出撃！敵を撃滅せよ！",
+    "desc_en": "Organize a fleet with Kitakami Kai San as flagship and any 2 of Hanazuki, Ushio, Hibiki, Take, Kiri, Kaya, Sugi or Kashi in your fleet and score an S rank at the boss nodes on 1-3, 2-4 and 4-5 twice each",
+    "added_update_id": 96,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1052],[[0,[[1,3],6,2]],[0,[[2,4],6,2]],[0,[[4,5],6,2]]],[0,[[5,[1071,1,1]],[8,[[[1041,false,0,0],[16,false,0,0],[35,false,0,0],[642,false,0,0],[1044,false,0,0],[994,false,0,0],[992,false,0,0],[993,false,0,0]],2]]]]]",
+    "progressResetType": null
   }
 ]
