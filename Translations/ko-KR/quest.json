@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030767",
+  "version": "21030768",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1812,13 +1812,6 @@
     "name": "[Limited Time Quest] 31st Squadron Emergency Exercises!",
     "desc_jp": "期間限定任務：防空駆逐艦「花月」、丁型駆逐艦「桐」「竹」「榧」「杉」「樫」及び特型駆逐艦<br>「潮」「響」から5隻以上による第三十一戦隊で本日中に演習【A判定】勝利3回以上を達成せよ！",
     "desc": "Organize a fleet with 5 of Kaya, Sugi, Kashi, Take, Ushio, Hibiki, Hanazuki and Kiri in your fleet and score A rank 3 times in PvP."
-  },
-  "383": {
-    "code": "2606 Cw1",
-    "name_jp": "【期間限定任務】フランス艦隊、特別演習！",
-    "name": "[Limited Time Quest] French Fleet, Special Exercises!",
-    "desc_jp": "【期間限定演習】フランス艦艇を主軸とした作戦に備え、同国出身の艦艇で構成された特務艦隊による演習<br>を実施する！フランス艦艇3隻以上を含む特務艦隊で、本日中に演習【A判定】勝利3回以上を達成せよ！",
-    "desc": "Organize a fleet with 3 French ships in your fleet and score A rank 3 times in PvP"
   },
   "401": {
     "code": "D1",
@@ -4199,20 +4192,6 @@
     "name": "제32구 「하마나미 개2」 발묘! 적진을 돌파하라!",
     "desc_jp": "「浜波改二」旗艦、僚艦に第三十二駆逐隊及び「朝霜」のうち2隻を含む部隊で、鎮守府近海航路、<br>バシー海峡、東部オリョール海、沖ノ島海域に出撃！敵艦隊を撃破、敵中を駆け抜け、生還せよ！",
     "desc": "「하마나미 개2」 기함, 요함으로 제32구축대 및 「아사시모」 중 2척을 포함한 부대로 진수부 근해 항로, 바시 해협, 동부 오룔 해, 오키노시마 해역에 출격! 적 함대를 격파하고 적진을 달려 나가 생환하라!"
-  },
-  "1031": {
-    "code": "2605 B2",
-    "name_jp": "【初夏限定任務】北方海域 戦闘哨戒作戦2026",
-    "name": "[Early Summer Limited Quest] Northern Sea Area Combat Patrol Operation 2026",
-    "desc_jp": "「Thonburi」「Tuscaloosa」「Gambier Bay」「榛名」「宗谷」「夕張」「早波」「浜波」「薄雲」「朧」<br>「大井」の旗艦含む3隻以上の艦隊で、モーレイ海、キス島沖、北方AL海域に反復展開！敵を撃滅せよ！",
-    "desc": "Organize a fleet with any 3 of Thonburi, Tuscaloosa, Gambier Bay, Haruna, Souya, Yuubari, Hayanami, Hamanami, Usugumo, Oboro and Ooi with one as flagship and score an S rank at the boss nodes on 3-1, 3-2 and 3-5 twice each"
-  },
-  "1032": {
-    "code": "2605 B3",
-    "name_jp": "【初夏限定任務】水上打撃部隊 作戦運用2026",
-    "name": "[Early Summer Limited Quest] Surface Task Force Operational Deployment 2026",
-    "desc_jp": "Lv.88以上の戦艦2隻及び軽巡1隻駆逐艦2隻を含む精鋭水上打撃部隊を編成。同艦隊により、南西諸島<br>防衛線、沖ノ島沖、北方AL海域、カレー洋リランカ島沖に反復出撃！敵戦力を連打し、これを撃滅せよ！",
-    "desc": "Organize a fleet with 2 Lv.88+ (F)BB(V), 1 Lv.88+ CL, 2 Lv.88+ DD in your fleet and score an S rank at the boss nodes on 1-4, 2-5, 3-5 and 4-5 twice each"
   },
   "1033": {
     "code": "B210",
