@@ -12593,8 +12593,8 @@
     "name_en": "[Limited Time Quest] Autumn Festival Exercises with the Admiral!",
     "desc_jp": "【期間限定演習】「秋雲」「秋月」「綾波」「敷波」「白露」「浦風」「浜風」「長波」「藤波」「朝霜」<br>「白雲」「朧」「漣」「迅鯨」「長鯨」「大淀」「神通」計4隻以上の艦隊で本日中に4回以上演習勝利せよ！",
     "desc_en": "Organize a fleet with 4 of Akigumo, Akizuki, Ayanami, Shikinami, Shiratsuyu, Urakaze, Hamakaze, Naganami, Fujinami, Asashimo, Shirakumo, Oboro, Sazanami, Jingei, Chougei, Ooyodo or Jintsuu in your fleet and score B rank four times in PvP",
-    "added_update_id": null,
-    "removed_update_id": 96,
+    "added_update_id": 96,
+    "removed_update_id": null,
     "season_id": null,
     "tracker": "[[384],[[9,[4,4]]],[0,[[8,[[[132,false,0,0],[421,false,0,0],[13,false,0,0],[14,false,0,0],[42,false,0,0],[168,false,0,0],[170,false,0,0],[135,false,0,0],[485,false,0,0],[425,false,0,0],[964,false,0,0],[93,false,0,0],[94,false,0,0],[634,false,0,0],[635,false,0,0],[183,false,0,0],[55,false,0,0]],4]]]]]",
     "progressResetType": 1
