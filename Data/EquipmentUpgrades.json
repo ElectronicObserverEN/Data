@@ -14542,7 +14542,20 @@
           "id_after": 169,
           "lvl_after": 0
         },
-        "helpers": [],
+        "helpers": [
+          {
+            "ship_ids": [
+              26,
+              286
+            ],
+            "days": [
+              0,
+              6,
+              5,
+              4
+            ]
+          }
+        ],
         "costs": {
           "fuel": 330,
           "ammo": 370,
