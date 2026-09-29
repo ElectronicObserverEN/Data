@@ -12468,7 +12468,7 @@
     "desc_jp": "「Thonburi」「Tuscaloosa」「Gambier Bay」「榛名」「宗谷」「夕張」「早波」「浜波」「薄雲」「朧」<br>「大井」の旗艦含む3隻以上の艦隊で、モーレイ海、キス島沖、北方AL海域に反復展開！敵を撃滅せよ！",
     "desc_en": "Organize a fleet with any 3 of Thonburi, Tuscaloosa, Gambier Bay, Haruna, Souya, Yuubari, Hayanami, Hamanami, Usugumo, Oboro and Ooi with one as flagship and score an S rank at the boss nodes on 3-1, 3-2 and 3-5 twice each",
     "added_update_id": 92,
-    "removed_update_id": 96,
+    "removed_update_id": 97,
     "season_id": 46,
     "tracker": "[[1031],[[0,[[3,1],6,2]],[0,[[3,2],6,2]],[0,[[3,5],6,2]]],[0,[[8,[[[973,false,0,0],[923,false,0,0],[544,false,0,0],[79,false,0,0],[699,false,0,0],[115,false,0,0],[528,false,0,0],[484,false,0,0],[631,false,0,0],[93,false,0,0],[24,false,0,0]],3]],[0,[1,[[5,[973,1,0]],[5,[923,1,0]],[5,[544,1,0]],[5,[79,1,0]],[5,[699,1,0]],[5,[115,1,0]],[5,[528,1,0]],[5,[484,1,0]],[5,[631,1,0]],[5,[93,1,0]],[5,[24,1,0]]]]]]]]",
     "progressResetType": null
@@ -12496,7 +12496,7 @@
     "desc_jp": "【工廠任務】「中口径主砲」x20、「大口径主砲」x20、「副砲」x10、練度max「零式水上偵察機」x10<br>を廃棄。さらに「12.7cm連装高角砲」x10を準備せよ！(任務達成後、準備装備は消費します)",
     "desc_en": "Proceed to scrap 20x Medium Caliber Main Gun, 20x Large Caliber Main Gun, 10x Secondary Gun, and 10x ❱❱ Type 0 Reconnaissance Seaplane and have 10x 12.7cm Twin High-angle Gun Mount (All resources and Materials will be consumed upon completion)",
     "added_update_id": 92,
-    "removed_update_id": null,
+    "removed_update_id": 97,
     "season_id": 46,
     "tracker": "",
     "progressResetType": null
@@ -12510,7 +12510,7 @@
     "desc_jp": "Lv.88以上の戦艦2隻及び軽巡1隻駆逐艦2隻を含む精鋭水上打撃部隊を編成。同艦隊により、南西諸島<br>防衛線、沖ノ島沖、北方AL海域、カレー洋リランカ島沖に反復出撃！敵戦力を連打し、これを撃滅せよ！",
     "desc_en": "Organize a fleet with 2 Lv.88+ (F)BB(V), 1 Lv.88+ CL, 2 Lv.88+ DD in your fleet and score an S rank at the boss nodes on 1-4, 2-5, 3-5 and 4-5 twice each",
     "added_update_id": 92,
-    "removed_update_id": 96,
+    "removed_update_id": 97,
     "season_id": 46,
     "tracker": "[[1032],[[0,[[1,4],6,2]],[0,[[2,5],6,2]],[0,[[3,5],6,2]],[0,[[4,5],6,2]]],[0,[[2,[[8,9,10],2,false,0,88]],[2,[[3],1,false,0,88]],[2,[[2],2,false,0,88]]]]]",
     "progressResetType": null
@@ -12552,7 +12552,7 @@
     "desc_jp": "弾薬x2,200、ボーキサイトx1,800を準備。旗艦に輸送艦、水上機母艦または航空戦艦、随伴に駆逐艦または<br>海防艦を計4隻以上配備した艦隊で製油所地帯沿岸、南西諸島防衛線に展開、作戦準備を実施せよ！",
     "desc_en": "Prepare 2200 Ammo and 1800 Bauxite. Organize a fleet with an LHA/AO/AV/BBV as flagship and 4 DD/DE in your fleet and score an A rank at the boss nodes on 1-3 and 1-4",
     "added_update_id": 93,
-    "removed_update_id": null,
+    "removed_update_id": 97,
     "season_id": null,
     "tracker": "[[1048],[[0,[[1,3],5,1]],[0,[[1,4],5,1]]],[0,[[2,[[17,22,16,10],1,true,0,0]],[2,[[2,1],4,false,0,0]]]]]",
     "progressResetType": null
@@ -12580,7 +12580,7 @@
     "desc_jp": "弾薬x2,400、ボーキサイトx2,400を準備。旗艦に輸送艦、駆逐艦または海防艦計3隻以上が<br>随伴護衛する艦隊で、東部オリョール海及びジャワ島沖(Q地点)に展開、作戦を見事成功させよ！",
     "desc_en": "Prepare 2400 Ammo and 2400 Bauxite. Organize a fleet with a LHA/AO as flagship and 3 DD/DE in your fleet and score an A rank at the boss nodes on 2-3 and 7-5 (Part 2)",
     "added_update_id": 93,
-    "removed_update_id": null,
+    "removed_update_id": 97,
     "season_id": null,
     "tracker": "[[1049],[[0,[[2,3],5,1]],[2,[[7,5],5,1,[19],\"-2\"]]],[0,[[2,[[17,22],1,true,0,0]],[2,[[2,1],3,false,0,0]]]]]",
     "progressResetType": null
@@ -12594,7 +12594,7 @@
     "desc_jp": "【期間限定演習】「秋雲」「秋月」「綾波」「敷波」「白露」「浦風」「浜風」「長波」「藤波」「朝霜」<br>「白雲」「朧」「漣」「迅鯨」「長鯨」「大淀」「神通」計4隻以上の艦隊で本日中に4回以上演習勝利せよ！",
     "desc_en": "Organize a fleet with 4 of Akigumo, Akizuki, Ayanami, Shikinami, Shiratsuyu, Urakaze, Hamakaze, Naganami, Fujinami, Asashimo, Shirakumo, Oboro, Sazanami, Jingei, Chougei, Ooyodo or Jintsuu in your fleet and score B rank four times in PvP",
     "added_update_id": 96,
-    "removed_update_id": null,
+    "removed_update_id": 97,
     "season_id": null,
     "tracker": "[[384],[[9,[4,4]]],[0,[[8,[[[132,false,0,0],[421,false,0,0],[13,false,0,0],[14,false,0,0],[42,false,0,0],[168,false,0,0],[170,false,0,0],[135,false,0,0],[485,false,0,0],[425,false,0,0],[964,false,0,0],[93,false,0,0],[94,false,0,0],[634,false,0,0],[635,false,0,0],[183,false,0,0],[55,false,0,0]],4]]]]]",
     "progressResetType": 1
@@ -12608,7 +12608,7 @@
     "desc_jp": "【期間限定演習】「Algérie」「Vautour」「Mogador」「Béarn」「日枝丸」「平安丸」「大泊」「陸奥」<br>「South Dakota」「Victorious」計3隻以上の艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！",
     "desc_en": "Organize a fleet with 3 of Algérie, Vautour, Mogador, Béarn, Hie Maru, Heian Maru, Ootomari, Mutsu, South Dakota or Victorious in your fleet and score S rank four times in PvP",
     "added_update_id": 96,
-    "removed_update_id": null,
+    "removed_update_id": 97,
     "season_id": null,
     "tracker": "[[385],[[9,[6,4]]],[0,[[8,[[[1051,false,0,0],[1053,false,0,0],[962,false,0,0],[1055,false,0,0],[1065,false,0,0],[944,false,0,0],[995,false,0,0],[81,false,0,0],[602,false,0,0],[885,false,0,0]],3]]]]]",
     "progressResetType": 1
