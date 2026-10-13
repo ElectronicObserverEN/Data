@@ -927,11 +927,11 @@
     "id": 97,
     "start_date": "2026-10-14T00:00:00",
     "start_time": "11:00:00",
-    "end_time": "20:00:00",
+    "end_time": "20:30:00",
     "name": "Halloween 2026",
     "description": "",
     "live_update": false,
     "maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/2104889645935079629",
-    "maint_end_tweet": ""
+    "maint_end_tweet": "https://x.com/KanColle_STAFF/status/2109889607232036926?s=20"
   }
 ]
