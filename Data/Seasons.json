@@ -262,5 +262,11 @@
     "name": "Early Summer 2026",
     "added_update_id": 92,
     "removed_update_id": 97
+  },
+  {
+    "id": 47,
+    "name": "Pumpkin festival 2026",
+    "added_update_id": 97,
+    "removed_update_id": null
   }
 ]
