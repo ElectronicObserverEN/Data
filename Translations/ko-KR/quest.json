@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030776",
+  "version": "21030777",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1812,20 +1812,6 @@
     "name": "[Limited Time Quest] 31st Squadron Emergency Exercises!",
     "desc_jp": "期間限定任務：防空駆逐艦「花月」、丁型駆逐艦「桐」「竹」「榧」「杉」「樫」及び特型駆逐艦<br>「潮」「響」から5隻以上による第三十一戦隊で本日中に演習【A判定】勝利3回以上を達成せよ！",
     "desc": "Organize a fleet with 5 of Kaya, Sugi, Kashi, Take, Ushio, Hibiki, Hanazuki and Kiri in your fleet and score A rank 3 times in PvP."
-  },
-  "384": {
-    "code": "2609 Cw1",
-    "name_jp": "【期間限定任務】提督との秋祭り演習！",
-    "name": "[Limited Time Quest] Autumn Festival Exercises with the Admiral!",
-    "desc_jp": "【期間限定演習】「秋雲」「秋月」「綾波」「敷波」「白露」「浦風」「浜風」「長波」「藤波」「朝霜」<br>「白雲」「朧」「漣」「迅鯨」「長鯨」「大淀」「神通」計4隻以上の艦隊で本日中に4回以上演習勝利せよ！",
-    "desc": "Organize a fleet with 4 of Akigumo, Akizuki, Ayanami, Shikinami, Shiratsuyu, Urakaze, Hamakaze, Naganami, Fujinami, Asashimo, Shirakumo, Oboro, Sazanami, Jingei, Chougei, Ooyodo or Jintsuu in your fleet and score B rank four times in PvP"
-  },
-  "385": {
-    "code": "2609 Cw2",
-    "name_jp": "【期間限定拡張任務】秋祭り拡張演習！",
-    "name": "[Limited Time Quest] Autumn Festival Extra Exercises!",
-    "desc_jp": "【期間限定演習】「Algérie」「Vautour」「Mogador」「Béarn」「日枝丸」「平安丸」「大泊」「陸奥」<br>「South Dakota」「Victorious」計3隻以上の艦隊で、本日中に演習【S判定】勝利4回以上を達成せよ！",
-    "desc": "Organize a fleet with 3 of Algérie, Vautour, Mogador, Béarn, Hie Maru, Heian Maru, Ootomari, Mutsu, South Dakota or Victorious in your fleet and score S rank four times in PvP"
   },
   "401": {
     "code": "D1",
@@ -4256,20 +4242,6 @@
     "desc_jp": "「涼波改二/補」旗艦、他に「鳥海」「鈴谷」「最上」「能代」「玉波」「藤波」「早波」2隻以上を含む艦隊<br>で、サーモン海域、サーモン海域北方、ラバウル方面海域最深部に反復出撃！ラバウル周辺の敵を駆逐せよ！",
     "desc": "Organize a fleet with Suzunami Kai Ni+ as flagship and any 2 of Choukai, Suzuya, Mogami, Noshiro, Tamanami, Fujinami and Hayanami in your fleet and score an S rank at the boss nodes on 5-4, 5-5 and 5-6 (Part 3) twice each"
   },
-  "1048": {
-    "code": "2606 Bm1",
-    "name_jp": "【期間限定任務】戦略兵站物資、緊急輸送！",
-    "name": "[Limited Time Quest] Strategic Logistics Supplies, Emergency Transport!",
-    "desc_jp": "弾薬x2,200、ボーキサイトx1,800を準備。旗艦に輸送艦、水上機母艦または航空戦艦、随伴に駆逐艦または<br>海防艦を計4隻以上配備した艦隊で製油所地帯沿岸、南西諸島防衛線に展開、作戦準備を実施せよ！",
-    "desc": "Prepare 2200 Ammo and 1800 Bauxite. Organize a fleet with an LHA/AO/AV/BBV as flagship and 4 DD/DE in your fleet and score an A rank at the boss nodes on 1-3 and 1-4"
-  },
-  "1049": {
-    "code": "2606 Bm2",
-    "name_jp": "【期間限定拡張作戦】戦略兵站物資、拡張輸送！",
-    "name": "[Limited Time Extra Quest] Strategic Logistics Supplies, Extra Transport!",
-    "desc_jp": "弾薬x2,400、ボーキサイトx2,400を準備。旗艦に輸送艦、駆逐艦または海防艦計3隻以上が<br>随伴護衛する艦隊で、東部オリョール海及びジャワ島沖(Q地点)に展開、作戦を見事成功させよ！",
-    "desc": "Prepare 2400 Ammo and 2400 Bauxite. Organize a fleet with a LHA/AO as flagship and 3 DD/DE in your fleet and score an A rank at the boss nodes on 2-3 and 7-5 (Part 2)"
-  },
   "1050": {
     "code": "By17",
     "name_jp": "「第九戦隊」抜錨！前線展開せよッ！",
@@ -4542,13 +4514,6 @@
     "name": "【대공 병장의 확충】 94식 고사장치의 증가 배비",
     "desc_jp": "旗艦「白雪改二」または「吹雪改二」第一及び第二装備スロットに「91式高射装置」を装備。<br>開発資材x16及び改修資材x4を準備。「91式高射装置」x3、「13号対空電探」x3を廃棄せよ！",
     "desc": "기함 「시라유키 개2」 또는 「후부키 개2」의 제1 및 제2 장비 슬롯에 「91식 고사장치」를 장착. 개발자재 16개 및 개수자재 4개를 준비. 「91식 고사장치」 3개, 「13호 대공 전탐」 3개를 폐기하라!"
-  },
-  "1150": {
-    "code": "2605 F3",
-    "name_jp": "【初夏限定任務】海軍工廠の整理再編2026",
-    "name": "[Early Summer Limited Quest] Naval Arsenal Reorganization and Restructuring 2026",
-    "desc_jp": "【工廠任務】「中口径主砲」x20、「大口径主砲」x20、「副砲」x10、練度max「零式水上偵察機」x10<br>を廃棄。さらに「12.7cm連装高角砲」x10を準備せよ！(任務達成後、準備装備は消費します)",
-    "desc": "Proceed to scrap 20x Medium Caliber Main Gun, 20x Large Caliber Main Gun, 10x Secondary Gun, and 10x ❱❱ Type 0 Reconnaissance Seaplane and have 10x 12.7cm Twin High-angle Gun Mount (All resources and Materials will be consumed upon completion)"
   },
   "1151": {
     "code": "F131",
