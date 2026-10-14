@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030751",
+  "version": "21030752",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4269,6 +4269,13 @@
     "name": "Remodelled Multi-role Tactical Carrier Kitakami Kai San, Sortieing!",
     "desc_jp": "「北上改三」旗艦、随伴に「花月」「潮」「響」「竹」「桐」「榧」「杉」「樫」から2隻以上を配備した<br>艦隊で、製油所地帯沿岸、沖ノ島海域、カレー洋リランカ島沖へ反復出撃！敵を撃滅せよ！",
     "desc": "Organize a fleet with Kitakami Kai San as flagship and any 2 of Hanazuki, Ushio, Hibiki, Take, Kiri, Kaya, Sugi or Kashi in your fleet and score an S rank at the boss nodes on 1-3, 2-4 and 4-5 twice each"
+  },
+  "1053": {
+    "code": "B218",
+    "name_jp": "再編二十駆「天霧」「狭霧」南方へ展開せよ！",
+    "name": "Reorganized DesDiv 20 Amagiri and Sagiri, Deploy to the Southern Waters!",
+    "desc_jp": "改装特型駆逐艦「天霧改二/丁」「狭霧改二」を含む艦隊で南方に展開！南方海域前面、サブ島沖海域、<br>サーモン海域、ラバウル方面海域深部に出撃！敵艦隊主力と交戦、これを撃滅せよ！再編二十駆、抜錨！",
+    "desc": "Organize a fleet with Amagiri Kai Ni/D, Sagiri Kai Ni+ in your fleet and score an S rank at the boss nodes on 5-1, 5-3, 5-4 and 5-6 (Part 3)"
   },
   "1101": {
     "code": "F96",
