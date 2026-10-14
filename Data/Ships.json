@@ -15811,5 +15811,14 @@
     "ShipClassId": 1466,
     "ShipClassApiId": 26,
     "IsFriendly": true
+  },
+  {
+    "Id": 1977,
+    "NameEN": "Sagiri Kai Ni",
+    "NameJP": "狭霧改二",
+    "ApiId": 902,
+    "ShipClassId": 1462,
+    "ShipClassApiId": 1,
+    "IsFriendly": true
   }
 ]
