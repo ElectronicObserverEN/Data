@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030784",
+  "version": "21030785",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4031,6 +4031,13 @@
     "name": "Special Escort Squadron, Weigh Anchor!",
     "desc_jp": "「対馬」「鵜来」「稲木」「大泊」「迅鯨」「長鯨」「朝日」「村雨」「巻波」「早波」「浜波」「樫」3隻<br>以上を含む護衛戦隊で南西諸島沖、鎮守府近海、バシー海峡、東部オリョール海に展開、制海権を確立せよ！",
     "desc": "Organize a fleet with 3 of Tsushima, Ukuru, Inagi, Ootomari, Jingei, Chougei, Asahi, Murasame, Makinami, Hayanami, Hamanami, Kashi in your fleet and score an S rank at the boss nodes on 1-2, 1-5, 2-2, 2-3"
+  },
+  "986": {
+    "code": "2610 B2",
+    "name_jp": "【期間限定任務】USS Trick or Treat！",
+    "name": "USS Trick or Treat",
+    "desc_jp": "「Minneapolis」「Tuscaloosa」「Gambier Bay」「Brooklyn」「Johnston」「Richard P.Leary」<br>「Indiana」の3隻以上を含むUSS Fleetで南西諸島近海、沖ノ島沖、モーレイ海に反復！Trick or Treat！",
+    "desc": "Organize a fleet with 3 of Minneapolis, Tuscaloosa, Gambier Bay, Brooklyn, Johnston, Richard P.Leary, Indiana in your fleet and score an S rank at the boss nodes on 2-1, 2-5, 3-1 twice each"
   },
   "989": {
     "code": "B188",

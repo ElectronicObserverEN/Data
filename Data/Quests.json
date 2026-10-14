@@ -12752,5 +12752,19 @@
     "season_id": 47,
     "tracker": "[[1038],[[0,[[1,1],6,4]],[0,[[1,3],6,4]]],[0,[[8,[[[124,false,0,0],[15,false,0,0],[93,false,0,0],[993,false,0,0],[634,false,0,0],[635,false,0,0],[451,false,0,0],[562,false,0,0],[942,false,0,0],[953,false,0,0]],4]],[0,[1,[[5,[124,1,0]],[5,[15,1,0]],[5,[93,1,0]],[5,[993,1,0]],[5,[634,1,0]],[5,[635,1,0]],[5,[451,1,0]],[5,[562,1,0]],[5,[942,1,0]],[5,[953,1,0]]]]]]]]",
     "progressResetType": null
+  },
+  {
+    "id": 933,
+    "api_id": 986,
+    "code": "2610 B2",
+    "name_jp": "【期間限定任務】USS Trick or Treat！",
+    "name_en": "USS Trick or Treat",
+    "desc_jp": "「Minneapolis」「Tuscaloosa」「Gambier Bay」「Brooklyn」「Johnston」「Richard P.Leary」<br>「Indiana」の3隻以上を含むUSS Fleetで南西諸島近海、沖ノ島沖、モーレイ海に反復！Trick or Treat！",
+    "desc_en": "Organize a fleet with 3 of Minneapolis, Tuscaloosa, Gambier Bay, Brooklyn, Johnston, Richard P.Leary, Indiana in your fleet and score an S rank at the boss nodes on 2-1, 2-5, 3-1 twice each",
+    "added_update_id": 97,
+    "removed_update_id": null,
+    "season_id": 47,
+    "tracker": "[[986],[[0,[[2,1],6,2]],[0,[[2,5],6,2]],[0,[[3,1],6,2]]],[0,[[8,[[[932,false,0,0],[942,false,0,0],[562,false,0,0],[896,false,0,0],[544,false,0,0],[923,false,0,0],[1005,false,0,0]],3]]]]]",
+    "progressResetType": null
   }
 ]
