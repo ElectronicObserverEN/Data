@@ -85,7 +85,8 @@
       293,
       382,
       393,
-      394
+      394,
+      584
     ]
   },
   {
@@ -18296,7 +18297,8 @@
     ],
     "convert_to": [],
     "upgrade_for": [
-      284
+      284,
+      584
     ]
   },
   {
@@ -34224,6 +34226,87 @@
                   "eq_count": 1
                 }
               ]
+            }
+          ]
+        }
+      }
+    ],
+    "convert_to": [],
+    "upgrade_for": []
+  },
+  {
+    "eq_id": 584,
+    "improvement": [
+      {
+        "convert": null,
+        "helpers": [
+          {
+            "ship_ids": [
+              1062,
+              1067
+            ],
+            "days": [
+              3,
+              4
+            ]
+          }
+        ],
+        "costs": {
+          "fuel": 20,
+          "ammo": 60,
+          "steel": 120,
+          "baux": 60,
+          "p1": {
+            "devmats": 4,
+            "devmats_sli": 6,
+            "screws": 3,
+            "screws_sli": 3,
+            "equips": [
+              {
+                "id": 1,
+                "eq_count": 3
+              }
+            ],
+            "consumable": []
+          },
+          "p2": {
+            "devmats": 6,
+            "devmats_sli": 9,
+            "screws": 3,
+            "screws_sli": 5,
+            "equips": [
+              {
+                "id": 229,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
+          },
+          "extra": [
+            {
+              "levels": [
+                8
+              ],
+              "consumable": [
+                {
+                  "id": 100,
+                  "eq_count": 1
+                }
+              ],
+              "equips": []
+            },
+            {
+              "levels": [
+                9,
+                10
+              ],
+              "consumable": [
+                {
+                  "id": 75,
+                  "eq_count": 1
+                }
+              ],
+              "equips": []
             }
           ]
         }
