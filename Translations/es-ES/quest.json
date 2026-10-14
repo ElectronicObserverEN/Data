@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030754",
+  "version": "21030755",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4023,7 +4023,7 @@
     "name_jp": "【期間限定任務】14年目実りの秋、南瓜始め！",
     "name": "[Limited Time Quest] 14th Year Autumn Harvest, Pumpkin Festival Begins!",
     "desc_jp": "「鈴谷」「村雨」「夕立」「曙」「朧」「朝潮」「野分」「迅鯨」「長鯨」の旗艦及び僚艦2隻以上を伴う<br>艦隊で製油所地帯沿岸、南西諸島防衛線、南西諸島近海に反復出撃！これらの敵を一掃せよ！",
-    "desc": "Organize a fleet with any 3 of Suzuya, Murasame, Yuudachi, Akebono, Oboro, Asashio, Nowaki, Jingei or Chougei in your fleet and score an S rank at the boss nodes on 1-3, 1-4 and 2-1 twice each."
+    "desc": "Organize a fleet with any 3 of Suzuya, Murasame, Yuudachi, Akebono, Oboro, Asashio, Nowaki, Jingei or Chougei in your fleet with one as flagship and score an S rank at the boss nodes on 1-3, 1-4 and 2-1 twice each."
   },
   "985": {
     "code": "2610 Bw1",
@@ -4228,6 +4228,13 @@
     "desc_jp": "揚陸艦及び補給艦計2隻以上、海防艦2隻以上の艦隊で、南西諸島沖、製油所地帯沿岸、鎮守府近海、<br>南西諸島防衛線に反復出撃！護衛部隊により敵艦隊を退けて、輸送船団護衛を完遂せよ！",
     "desc": "Organize a fleet with 2 LHA/AO and 2DE in your fleet and score an A rank at the boss nodes on 1-2, 1-3, 1-4 and 1-5 twice each"
   },
+  "1038": {
+    "code": "2610 B3",
+    "name_jp": "【限定拡張作戦】Halloween、おかわり開始！",
+    "name": "Halloween, Time for Seconds!",
+    "desc_jp": "「鈴谷」「曙」「朧」「樫」「朝日」「迅鯨」「長鯨」「瑞穂」「Johnston」「Richard P.Leary」を旗艦<br>含め計4隻以上の艦隊で、鎮守府正面海域及び製油所地帯沿岸を徹底的に哨戒！完っ璧に制圧せよっ！",
+    "desc": "Organize a fleet with 4 of Suzuya, Akebono, Oboro, Kashi, Asahi, Jingei, Chougei, Mizuho, Johnston, Richard P.Leary in your fleet with one of them as flagship and score an S rank at the boss nodes on 1-1 and 1-3 four times each"
+  },
   "1041": {
     "code": "B213",
     "name_jp": "三十二駆「早波改二」、元気に出撃せよ！",
@@ -4411,7 +4418,7 @@
     "desc": "Have your secretary flagship Samuel B.Roberts Mk.II equip 5inch Single Gun Mount Mk.30 without any improvment in the first slot and have 15x Development Material, 2x Armament Material, 2x Rocket Material, 960 ammo (All resources and Materials will be consumed upon completion)"
   },
   "1119": {
-    "code": "1119",
+    "code": "2610 Fm1",
     "name_jp": "【期間限定】Halloweenの南瓜、食べりゅ?",
     "name": "Halloween Pumpkins, Wanna Eat It?",
     "desc_jp": "「小口径主砲」「中口径主砲」「水上偵察機」x各9を廃棄、「九九式艦爆」「九七式艦攻」x各10、<br>家具コインx1,031を準備せよ！(任務達成後、準備した装備・家具コインは消費します)",
