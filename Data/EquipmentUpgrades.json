@@ -319,6 +319,7 @@
       }
     ],
     "upgrade_for": [
+      63,
       66,
       71,
       120,
@@ -6732,16 +6733,6 @@
               3,
               4
             ]
-          },
-          {
-            "ship_ids": [
-              902,
-              391
-            ],
-            "days": [
-              4,
-              5
-            ]
           }
         ],
         "costs": {
@@ -6784,11 +6775,82 @@
             "consumable": []
           }
         }
+      },
+      {
+        "convert": {
+          "id_after": 296,
+          "lvl_after": 0
+        },
+        "helpers": [
+          {
+            "ship_ids": [
+              391,
+              902
+            ],
+            "days": [
+              4,
+              5
+            ]
+          }
+        ],
+        "costs": {
+          "fuel": 10,
+          "ammo": 40,
+          "steel": 70,
+          "baux": 0,
+          "p1": {
+            "devmats": 2,
+            "devmats_sli": 2,
+            "screws": 2,
+            "screws_sli": 3,
+            "equips": [],
+            "consumable": []
+          },
+          "p2": {
+            "devmats": 2,
+            "devmats_sli": 3,
+            "screws": 2,
+            "screws_sli": 4,
+            "equips": [
+              {
+                "id": 63,
+                "eq_count": 1
+              }
+            ],
+            "consumable": []
+          },
+          "conv": {
+            "devmats": 55,
+            "devmats_sli": 75,
+            "screws": 11,
+            "screws_sli": 15,
+            "equips": [
+              {
+                "id": 3,
+                "eq_count": 8
+              }
+            ],
+            "consumable": [
+              {
+                "id": 94,
+                "eq_count": 4
+              },
+              {
+                "id": 104,
+                "eq_count": 6
+              }
+            ]
+          }
+        }
       }
     ],
     "convert_to": [
       {
         "id_after": 266,
+        "lvl_after": 0
+      },
+      {
+        "id_after": 296,
         "lvl_after": 0
       }
     ],
