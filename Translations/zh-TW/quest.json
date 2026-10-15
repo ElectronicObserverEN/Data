@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030766",
+  "version": "21030767",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4097,8 +4097,8 @@
   },
   "1002": {
     "code": "2610 B4",
-    "name_jp": "限定拡張作戦】南瓜祭り2026、北方作戦！",
-    "name": "Limited Time Extra Operation] Pumpkin Festival 2026, Northern Operation!",
+    "name_jp": "【限定拡張作戦】南瓜祭り2026、北方作戦！",
+    "name": "[Limited Time Extra Operation] Pumpkin Festival 2026, Northern Operation!",
     "desc_jp": "「Minneapolis」「Tuscaloosa」「Gambier Bay」「Johnston」「鈴谷」「阿武隈」「曙」「朧」<br>「清霜」「樫」旗艦含む3隻以上の特務艦隊でキス島沖、北方AL海域、北方海域全域を制圧せよ！",
     "desc": "Organize a fleet with 3 of Minneapolis, Tuscaloosa, Gambier Bay, Johnston, Suzuya, Abukuma, Akebono, Oboro, Michishio, Kashi in your fleet with one as flagship and score an S rank at the boss nodes on 3-2, 3-4 and 3-5"
   },
