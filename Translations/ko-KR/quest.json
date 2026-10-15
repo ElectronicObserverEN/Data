@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030786",
+  "version": "21030787",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4028,16 +4028,23 @@
   "985": {
     "code": "2610 Bw1",
     "name_jp": "【期間限定任務】特務護衛戦隊、抜錨せよ！",
-    "name": "Special Escort Squadron, Weigh Anchor!",
+    "name": "[Limited Time Quest] Special Escort Squadron, Weigh Anchor!",
     "desc_jp": "「対馬」「鵜来」「稲木」「大泊」「迅鯨」「長鯨」「朝日」「村雨」「巻波」「早波」「浜波」「樫」3隻<br>以上を含む護衛戦隊で南西諸島沖、鎮守府近海、バシー海峡、東部オリョール海に展開、制海権を確立せよ！",
     "desc": "Organize a fleet with 3 of Tsushima, Ukuru, Inagi, Ootomari, Jingei, Chougei, Asahi, Murasame, Makinami, Hayanami, Hamanami, Kashi in your fleet and score an S rank at the boss nodes on 1-2, 1-5, 2-2, 2-3"
   },
   "986": {
     "code": "2610 B2",
     "name_jp": "【期間限定任務】USS Trick or Treat！",
-    "name": "USS Trick or Treat",
+    "name": "[Limited Time Quest] USS Trick or Treat!",
     "desc_jp": "「Minneapolis」「Tuscaloosa」「Gambier Bay」「Brooklyn」「Johnston」「Richard P.Leary」<br>「Indiana」の3隻以上を含むUSS Fleetで南西諸島近海、沖ノ島沖、モーレイ海に反復！Trick or Treat！",
     "desc": "Organize a fleet with 3 of Minneapolis, Tuscaloosa, Gambier Bay, Brooklyn, Johnston, Richard P.Leary, Indiana in your fleet and score an S rank at the boss nodes on 2-1, 2-5, 3-1 twice each"
+  },
+  "987": {
+    "code": "2610 Bm1",
+    "name_jp": "【期間限定任務】西方南瓜祭り!  Buono!",
+    "name": "[Limited Time Quest] Western Pumpkin Festival! Buono!",
+    "desc_jp": "「Roma」「Luigi Torelli」「Maestrale・Grecale・Libeccio・Scirocco」「Jervis」「伊47」「伊201」<br>「鈴谷」「村雨」「朧」「曙」旗艦含む3隻以上で、カレー洋海域、リランカ島、カスガダマ島を制圧せよ！",
+    "desc": "Organize a fleet with 3 of Roma, Luigi Torelli, Maestrale, Grecale, Libeccio, Scirocco, Jervis, I-47, I-201, Suzuya, Murasame, Oboro, Akebono in your fleet with one as flagship and score an S rank at the boss nodes on 4-2, 4-3, 4-4"
   },
   "989": {
     "code": "B188",
@@ -4238,9 +4245,16 @@
   "1038": {
     "code": "2610 B3",
     "name_jp": "【限定拡張作戦】Halloween、おかわり開始！",
-    "name": "Halloween, Time for Seconds!",
+    "name": "[Limited Time Extra Operation] Halloween, Time for Seconds!",
     "desc_jp": "「鈴谷」「曙」「朧」「樫」「朝日」「迅鯨」「長鯨」「瑞穂」「Johnston」「Richard P.Leary」を旗艦<br>含め計4隻以上の艦隊で、鎮守府正面海域及び製油所地帯沿岸を徹底的に哨戒！完っ璧に制圧せよっ！",
     "desc": "Organize a fleet with 4 of Suzuya, Akebono, Oboro, Kashi, Asahi, Jingei, Chougei, Mizuho, Johnston, Richard P.Leary in your fleet with one of them as flagship and score an S rank at the boss nodes on 1-1 and 1-3 four times each"
+  },
+  "1039": {
+    "code": "2610 Bw2",
+    "name_jp": "【限定拡張作戦】Halloween海上護衛隊出撃！",
+    "name": "[Limited Time Extra Operation] Halloween Maritime Escort Force Sortie!",
+    "desc_jp": "「対馬」「樫」「朝潮」「巻波」「浜波」「阿武隈」「鵜来」「稲木」「能美」または丁型海防艦、計4隻<br>以上の海上護衛隊で、鎮守府近海、南西諸島沖、南西諸島防衛線の制海権を確保せよ！ Trick or Treat！",
+    "desc": "Organize a fleet with 4 of Tsushima, Kashi, Asashio, Makinami, Hamanami, Abukuma, Ukuru, Inagi, Noumi, Kaiboukan No.4, Kaiboukan No.22 or Kaiboukan No.30 in your fleet and score an S rank at the boss nodes on 1-2, 1-4 and 1-5"
   },
   "1041": {
     "code": "B213",
@@ -4427,7 +4441,7 @@
   "1119": {
     "code": "2610 Fm1",
     "name_jp": "【期間限定】Halloweenの南瓜、食べりゅ?",
-    "name": "Halloween Pumpkins, Wanna Eat It?",
+    "name": "[Limited Time] Halloween Pumpkin, Wanna Eat Some?",
     "desc_jp": "「小口径主砲」「中口径主砲」「水上偵察機」x各9を廃棄、「九九式艦爆」「九七式艦攻」x各10、<br>家具コインx1,031を準備せよ！(任務達成後、準備した装備・家具コインは消費します)",
     "desc": "Proceed to scrap 9x Small caliber main guns, 9x Medium caliber main guns, 9x Seaplanes and have 10x Type 99 Dive Bomber, 10x Type 97 Torpedo Bomber, 1031x furniture coins (All resources and Materials will be consumed upon completion)"
   },

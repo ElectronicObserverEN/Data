@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030764",
+  "version": "21030765",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4039,6 +4039,13 @@
     "desc_jp": "「Minneapolis」「Tuscaloosa」「Gambier Bay」「Brooklyn」「Johnston」「Richard P.Leary」<br>「Indiana」の3隻以上を含むUSS Fleetで南西諸島近海、沖ノ島沖、モーレイ海に反復！Trick or Treat！",
     "desc": "以包含【明尼阿波利斯、塔斯卡卢萨、甘比尔湾、布鲁克林、约翰斯顿、理查德·P·利里、印第安纳】中3名舰娘的舰队，出击2-1、2-5、3-1击破Boss，各取得2次S胜。"
   },
+  "987": {
+    "code": "2610 Bm1",
+    "name_jp": "【期間限定任務】西方南瓜祭り!  Buono!",
+    "name": "[Limited Time Quest] Western Pumpkin Festival! Buono!",
+    "desc_jp": "「Roma」「Luigi Torelli」「Maestrale・Grecale・Libeccio・Scirocco」「Jervis」「伊47」「伊201」<br>「鈴谷」「村雨」「朧」「曙」旗艦含む3隻以上で、カレー洋海域、リランカ島、カスガダマ島を制圧せよ！",
+    "desc": "Organize a fleet with 3 of Roma, Luigi Torelli, Maestrale, Grecale, Libeccio, Scirocco, Jervis, I-47, I-201, Suzuya, Murasame, Oboro, Akebono in your fleet with one as flagship and score an S rank at the boss nodes on 4-2, 4-3, 4-4"
+  },
   "989": {
     "code": "B188",
     "name_jp": "機動部隊旗艦「鳳翔改二」、前線に出撃せよ！",
@@ -4241,6 +4248,13 @@
     "name": "【限定扩张作战】Halloween，再来一份开始！",
     "desc_jp": "「鈴谷」「曙」「朧」「樫」「朝日」「迅鯨」「長鯨」「瑞穂」「Johnston」「Richard P.Leary」を旗艦<br>含め計4隻以上の艦隊で、鎮守府正面海域及び製油所地帯沿岸を徹底的に哨戒！完っ璧に制圧せよっ！",
     "desc": "以包含【铃谷、曙、胧、㭴、朝日、迅鲸、长鲸、瑞穗、约翰斯顿、理查德·P·利里】中4名舰娘作为旗舰和伴随舰的舰队，出击1-1、1-3击破Boss，各取得4次S胜。"
+  },
+  "1039": {
+    "code": "2610 Bw2",
+    "name_jp": "【限定拡張作戦】Halloween海上護衛隊出撃！",
+    "name": "[Limited Time Extra Operation] Halloween Maritime Escort Force Sortie!",
+    "desc_jp": "「対馬」「樫」「朝潮」「巻波」「浜波」「阿武隈」「鵜来」「稲木」「能美」または丁型海防艦、計4隻<br>以上の海上護衛隊で、鎮守府近海、南西諸島沖、南西諸島防衛線の制海権を確保せよ！ Trick or Treat！",
+    "desc": "Organize a fleet with 4 of Tsushima, Kashi, Asashio, Makinami, Hamanami, Abukuma, Ukuru, Inagi, Noumi, Kaiboukan No.4, Kaiboukan No.22 or Kaiboukan No.30 in your fleet and score an S rank at the boss nodes on 1-2, 1-4 and 1-5"
   },
   "1041": {
     "code": "B213",
