@@ -4042,9 +4042,9 @@
   "987": {
     "code": "2610 Bm1",
     "name_jp": "【期間限定任務】西方南瓜祭り!  Buono!",
-    "name": "[Limited Time Quest] Western Pumpkin Festival! Buono!",
+    "name": "【期间限定任务】西方南瓜祭！Buono！",
     "desc_jp": "「Roma」「Luigi Torelli」「Maestrale・Grecale・Libeccio・Scirocco」「Jervis」「伊47」「伊201」<br>「鈴谷」「村雨」「朧」「曙」旗艦含む3隻以上で、カレー洋海域、リランカ島、カスガダマ島を制圧せよ！",
-    "desc": "Organize a fleet with 3 of Roma, Luigi Torelli, Maestrale, Grecale, Libeccio, Scirocco, Jervis, I-47, I-201, Suzuya, Murasame, Oboro, Akebono in your fleet with one as flagship and score an S rank at the boss nodes on 4-2, 4-3, 4-4"
+    "desc": "以包含【罗马、路易吉·托雷利、西北风、东北风、西南风、东南风、杰维斯、伊47、伊201、铃谷、村雨、胧、曙】中3名舰娘作为旗舰和伴随的舰队，出击4-2、4-3、4-4击破Boss，各取得1次S胜。"
   },
   "989": {
     "code": "B188",
@@ -4097,10 +4097,10 @@
   },
   "1002": {
     "code": "2610 B4",
-    "name_jp": "限定拡張作戦】南瓜祭り2026、北方作戦！",
-    "name": "Limited Time Extra Operation] Pumpkin Festival 2026, Northern Operation!",
+    "name_jp": "【限定拡張作戦】南瓜祭り2026、北方作戦！",
+    "name": "【限定扩张作战】南瓜祭2026，北方作战！",
     "desc_jp": "「Minneapolis」「Tuscaloosa」「Gambier Bay」「Johnston」「鈴谷」「阿武隈」「曙」「朧」<br>「清霜」「樫」旗艦含む3隻以上の特務艦隊でキス島沖、北方AL海域、北方海域全域を制圧せよ！",
-    "desc": "Organize a fleet with 3 of Minneapolis, Tuscaloosa, Gambier Bay, Johnston, Suzuya, Abukuma, Akebono, Oboro, Michishio, Kashi in your fleet with one as flagship and score an S rank at the boss nodes on 3-2, 3-4 and 3-5"
+    "desc": "以包含【明尼阿波利斯、塔斯卡卢萨、甘比尔湾、约翰斯顿、铃谷、阿武隈、曙、胧、清霜、㭴】中3名舰娘作为旗舰和伴随舰的舰队，出击3-2、3-4、3-5击破Boss，各取得1次S胜。"
   },
   "1003": {
     "code": "B195",
@@ -4259,16 +4259,16 @@
   "1039": {
     "code": "2610 Bw2",
     "name_jp": "【限定拡張作戦】Halloween海上護衛隊出撃！",
-    "name": "[Limited Time Extra Operation] Halloween Maritime Escort Force Sortie!",
+    "name": "【限定扩张作战】Halloween海上护卫队出击！",
     "desc_jp": "「対馬」「樫」「朝潮」「巻波」「浜波」「阿武隈」「鵜来」「稲木」「能美」または丁型海防艦、計4隻<br>以上の海上護衛隊で、鎮守府近海、南西諸島沖、南西諸島防衛線の制海権を確保せよ！ Trick or Treat！",
-    "desc": "Organize a fleet with 4 of Tsushima, Kashi, Asashio, Makinami, Hamanami, Abukuma, Ukuru, Inagi, Noumi, Kaiboukan No.4, Kaiboukan No.22 or Kaiboukan No.30 in your fleet and score an S rank at the boss nodes on 1-2, 1-4 and 1-5"
+    "desc": "以包含【对马、㭴、朝潮、卷波、滨波、阿武隈、鹈来、稻木、能美、丁型海防舰】中4名舰娘的舰队，出击1-2、1-4、1-5击破Boss，各取得1次S胜。"
   },
   "1040": {
     "code": "2610 Bm2",
     "name_jp": "【限定拡張作戦】Halloween狼隊、夜の襲撃！",
-    "name": "[Limited Time Extra Operation] Halloween Wolf Squad, Night Raid!",
+    "name": "【限定扩张作战】Halloween狼群，夜间袭击！",
     "desc_jp": "「朧」「夕立」「野分」「早波」「熊野丸」「迅鯨改」「Tuscaloosa」「Indiana」を旗艦及び僚艦2隻以上<br>配備の艦隊で、南西諸島近海・バシー海峡に遊弋する敵に反復襲撃！敵艦隊を完膚無きまで食い破れ！",
-    "desc": "Organize a fleet with 3 of Oboro, Yuudachi, Nowaki, Hayanami, Kumano Maru, Chougei Kai, Tuscaloosa, Indiana in your fleet with one as flagship and score an S rank at the boss nodes on 2-1 and 2-2 twice each"
+    "desc": "以包含【胧、夕立、野分、早波、熊野丸、迅鲸改、塔斯卡卢萨、印第安纳】中3名舰娘并以其一作为旗舰的舰队，出击2-1、2-2击破Boss，各取得2次S胜。"
   },
   "1041": {
     "code": "B213",
@@ -4700,8 +4700,8 @@
   "1171": {
     "code": "2610 F1",
     "name_jp": "【限定拡張作戦】対潜装備の整理整頓！2026",
-    "name": "[Limited Time Extra Operation] Organizing Anti-Submarine Gear! 2026",
+    "name": "【限定扩张作战】反潜装备的整理整顿！2026",
     "desc_jp": "「九四式爆雷投射機」x12、「九五式爆雷」x8、「九三式水中聴音機」x6を廃棄。さらに「南瓜」x2、<br>「三式爆雷投射機」x5、開発資材x30を準備せよ！(準備した装備・資材等は消費します)",
-    "desc": "Proceed to scrap 12x Type 94 Depth Charge Projector, 8x Type 95 Depth Charge, 6x Type 93 Passive Sonar and have 2x Pumpkin, 5x Type 3 Depth Charge Projector, 30x Development Material (All resources and Materials will be consumed upon completion)"
+    "desc": "废弃12个九四式暴雷投射机、8个九五式暴雷、6个九三式水中听音机，并准备好2个南瓜、5个三式暴雷投射机、30个开发资材。（达成任务后，准备的装备和道具会消失）"
   }
 }
