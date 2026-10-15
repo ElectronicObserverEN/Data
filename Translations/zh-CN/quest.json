@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030765",
+  "version": "21030766",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4095,6 +4095,13 @@
     "desc_jp": "改夕雲型駆逐艦「清霜改二/丁」、さらに随伴艦に「霞」「朝霜」「大淀」「足柄」から2隻を配備。同艦隊<br>で、バシー海峡、東部オリョール海、沖ノ島海域、昭南本土航路に出撃！各海域の敵戦力を撃滅せよ！",
     "desc": "配备改夕云型驱逐舰「清霜改二/丁」，并从「霞」「朝霜」「大淀」「足柄」中选2艘作为随伴舰。以该舰队<br>出击至巴士海峡、东部奥廖尔海、冲之岛海域、昭南本土航路！击灭各海域的敌战力！"
   },
+  "1002": {
+    "code": "2610 B4",
+    "name_jp": "限定拡張作戦】南瓜祭り2026、北方作戦！",
+    "name": "Limited Time Extra Operation] Pumpkin Festival 2026, Northern Operation!",
+    "desc_jp": "「Minneapolis」「Tuscaloosa」「Gambier Bay」「Johnston」「鈴谷」「阿武隈」「曙」「朧」<br>「清霜」「樫」旗艦含む3隻以上の特務艦隊でキス島沖、北方AL海域、北方海域全域を制圧せよ！",
+    "desc": "Organize a fleet with 3 of Minneapolis, Tuscaloosa, Gambier Bay, Johnston, Suzuya, Abukuma, Akebono, Oboro, Michishio, Kashi in your fleet with one as flagship and score an S rank at the boss nodes on 3-2, 3-4 and 3-5"
+  },
   "1003": {
     "code": "B195",
     "name_jp": "【潜水艦任務】潜水艦、戦闘哨戒！",
@@ -4255,6 +4262,13 @@
     "name": "[Limited Time Extra Operation] Halloween Maritime Escort Force Sortie!",
     "desc_jp": "「対馬」「樫」「朝潮」「巻波」「浜波」「阿武隈」「鵜来」「稲木」「能美」または丁型海防艦、計4隻<br>以上の海上護衛隊で、鎮守府近海、南西諸島沖、南西諸島防衛線の制海権を確保せよ！ Trick or Treat！",
     "desc": "Organize a fleet with 4 of Tsushima, Kashi, Asashio, Makinami, Hamanami, Abukuma, Ukuru, Inagi, Noumi, Kaiboukan No.4, Kaiboukan No.22 or Kaiboukan No.30 in your fleet and score an S rank at the boss nodes on 1-2, 1-4 and 1-5"
+  },
+  "1040": {
+    "code": "2610 Bm2",
+    "name_jp": "【限定拡張作戦】Halloween狼隊、夜の襲撃！",
+    "name": "[Limited Time Extra Operation] Halloween Wolf Squad, Night Raid!",
+    "desc_jp": "「朧」「夕立」「野分」「早波」「熊野丸」「迅鯨改」「Tuscaloosa」「Indiana」を旗艦及び僚艦2隻以上<br>配備の艦隊で、南西諸島近海・バシー海峡に遊弋する敵に反復襲撃！敵艦隊を完膚無きまで食い破れ！",
+    "desc": "Organize a fleet with 3 of Oboro, Yuudachi, Nowaki, Hayanami, Kumano Maru, Chougei Kai, Tuscaloosa, Indiana in your fleet with one as flagship and score an S rank at the boss nodes on 2-1 and 2-2 twice each"
   },
   "1041": {
     "code": "B213",
@@ -4682,5 +4696,12 @@
     "name": "利用现有装备开发防空兵装",
     "desc_jp": "第一艦隊旗艦に「北上改二/改三」を配備。「12.7cm連装高角砲」x12及び「8cm高角砲」x8、<br>「25mm三連装機銃」x4を廃棄。開発資材x36、弾薬x750、改修資材x8を準備せよ！",
     "desc": "以北上改二/改三作为第一舰队旗舰，废弃12.7cm连装高角炮×12、8cm高角炮×8、25mm三连装机枪×4，并准备好开发资材×36、弹药×750、改修资材×8。"
+  },
+  "1171": {
+    "code": "2610 F1",
+    "name_jp": "【限定拡張作戦】対潜装備の整理整頓！2026",
+    "name": "[Limited Time Extra Operation] Organizing Anti-Submarine Gear! 2026",
+    "desc_jp": "「九四式爆雷投射機」x12、「九五式爆雷」x8、「九三式水中聴音機」x6を廃棄。さらに「南瓜」x2、<br>「三式爆雷投射機」x5、開発資材x30を準備せよ！(準備した装備・資材等は消費します)",
+    "desc": "Proceed to scrap 12x Type 94 Depth Charge Projector, 8x Type 95 Depth Charge, 6x Type 93 Passive Sonar and have 2x Pumpkin, 5x Type 3 Depth Charge Projector, 30x Development Material (All resources and Materials will be consumed upon completion)"
   }
 }

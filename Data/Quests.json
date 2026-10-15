@@ -12794,5 +12794,47 @@
     "season_id": 47,
     "tracker": "[[987],[[0,[[4,2],6,1]],[0,[[4,3],6,1]],[0,[[4,4],6,1]]],[0,[[8,[[[442,false,0,0],[535,false,0,0],[0,false,0,61],[519,false,0,0],[636,false,0,0],[881,false,0,0],[124,false,0,0],[44,false,0,0],[93,false,0,0],[15,false,0,0]],3]],[0,[1,[[5,[442,1,0]],[5,[535,1,0]],[5,[575,1,0]],[5,[614,1,0]],[5,[443,1,0]],[5,[653,1,0]],[5,[519,1,0]],[5,[636,1,0]],[5,[881,1,0]],[5,[124,1,0]],[5,[44,1,0]],[5,[93,1,0]],[5,[15,1,0]]]]]]]]",
     "progressResetType": null
+  },
+  {
+    "id": 936,
+    "api_id": 1040,
+    "code": "2610 Bm2",
+    "name_jp": "【限定拡張作戦】Halloween狼隊、夜の襲撃！",
+    "name_en": "[Limited Time Extra Operation] Halloween Wolf Squad, Night Raid!",
+    "desc_jp": "「朧」「夕立」「野分」「早波」「熊野丸」「迅鯨改」「Tuscaloosa」「Indiana」を旗艦及び僚艦2隻以上<br>配備の艦隊で、南西諸島近海・バシー海峡に遊弋する敵に反復襲撃！敵艦隊を完膚無きまで食い破れ！",
+    "desc_en": "Organize a fleet with 3 of Oboro, Yuudachi, Nowaki, Hayanami, Kumano Maru, Chougei Kai, Tuscaloosa, Indiana in your fleet with one as flagship and score an S rank at the boss nodes on 2-1 and 2-2 twice each",
+    "added_update_id": 97,
+    "removed_update_id": null,
+    "season_id": 47,
+    "tracker": "[[1040],[[0,[[2,1],6,2]],[0,[[2,2],6,2]]],[0,[[8,[[[93,false,0,0],[45,false,0,0],[415,false,0,0],[528,false,0,0],[943,false,0,0],[640,false,1,0],[923,false,0,0],[932,false,0,0]],3]],[0,[1,[[5,[93,1,0]],[5,[45,1,0]],[5,[415,1,0]],[5,[528,1,0]],[5,[943,1,0]],[5,[640,1,1]],[5,[923,1,0]],[5,[932,1,0]]]]]]]]",
+    "progressResetType": null
+  },
+  {
+    "id": 937,
+    "api_id": 1002,
+    "code": "2610 B4",
+    "name_jp": "限定拡張作戦】南瓜祭り2026、北方作戦！",
+    "name_en": "Limited Time Extra Operation] Pumpkin Festival 2026, Northern Operation!",
+    "desc_jp": "「Minneapolis」「Tuscaloosa」「Gambier Bay」「Johnston」「鈴谷」「阿武隈」「曙」「朧」<br>「清霜」「樫」旗艦含む3隻以上の特務艦隊でキス島沖、北方AL海域、北方海域全域を制圧せよ！",
+    "desc_en": "Organize a fleet with 3 of Minneapolis, Tuscaloosa, Gambier Bay, Johnston, Suzuya, Abukuma, Akebono, Oboro, Michishio, Kashi in your fleet with one as flagship and score an S rank at the boss nodes on 3-2, 3-4 and 3-5",
+    "added_update_id": 97,
+    "removed_update_id": null,
+    "season_id": 47,
+    "tracker": "[[1002],[[0,[[3,2],6,1]],[0,[[3,4],6,1]],[0,[[3,5],6,1]]],[0,[[8,[[[1005,false,0,0],[923,false,0,0],[544,false,0,0],[562,false,0,0],[124,false,0,0],[114,false,0,0],[15,false,0,0],[93,false,0,0],[97,false,0,0],[993,false,0,0]],3]],[0,[1,[[5,[1005,1,0]],[5,[923,1,0]],[5,[544,1,0]],[5,[562,1,0]],[5,[124,1,0]],[5,[114,1,0]],[5,[15,1,0]],[5,[93,1,0]],[5,[97,1,0]],[5,[993,1,0]]]]]]]]",
+    "progressResetType": null
+  },
+  {
+    "id": 938,
+    "api_id": 1171,
+    "code": "2610 F1",
+    "name_jp": "【限定拡張作戦】対潜装備の整理整頓！2026",
+    "name_en": "[Limited Time Extra Operation] Organizing Anti-Submarine Gear! 2026",
+    "desc_jp": "「九四式爆雷投射機」x12、「九五式爆雷」x8、「九三式水中聴音機」x6を廃棄。さらに「南瓜」x2、<br>「三式爆雷投射機」x5、開発資材x30を準備せよ！(準備した装備・資材等は消費します)",
+    "desc_en": "Proceed to scrap 12x Type 94 Depth Charge Projector, 8x Type 95 Depth Charge, 6x Type 93 Passive Sonar and have 2x Pumpkin, 5x Type 3 Depth Charge Projector, 30x Development Material (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 97,
+    "removed_update_id": null,
+    "season_id": 47,
+    "tracker": "[[1171],[[3,[44,12]],[3,[46,6]],[3,[226,8]]],[0,[]]]",
+    "progressResetType": null
   }
 ]
