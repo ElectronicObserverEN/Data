@@ -1725,9 +1725,9 @@
   "359": {
     "code": "2610 Cw1",
     "name_jp": "Halloween艦隊 実りの秋、最新演習！",
-    "name": "Halloween Fleet: Autumn Harvest - Latest Exercises!",
+    "name": "万圣节舰队 丰收的秋天，最新演习！",
     "desc_jp": "「鈴谷」「阿武隈」「朧」「曙」「村雨」「夕立」「野分」「朝潮」「早波」「浜波」「伊201」「Jervis」<br>「Minneapolis」「Johnston」4隻以上を含む強襲艦隊で、本日中に演習で【A判定】以上を5回達成せよ！",
-    "desc": "Organize a fleet with 4 of Suzuya, Abukuma, Oboro, Akebono, Murasame, Yuudachi, Nowaki, Asashio, Hayanami, Hamanami, I-201, Jervis, Minneapolis, Johnston in your fleet and score A rank five times in PvP"
+    "desc": "以包含【铃谷、阿武隈、胧、曙、村雨、夕立、野分、朝潮、早波、滨波、伊201、杰维斯、明尼阿波利斯、约翰斯顿】中4名舰娘的舰队，在本日内取得5次演习A胜或以上。"
   },
   "360": {
     "code": "C70",
@@ -4021,23 +4021,23 @@
   "984": {
     "code": "2610 B1",
     "name_jp": "【期間限定任務】14年目実りの秋、南瓜始め！",
-    "name": "[Limited Time Quest] 14th Year Autumn Harvest, Pumpkin Festival Begins!",
+    "name": "【期间限定任务】14年的丰收之秋，南瓜开始！",
     "desc_jp": "「鈴谷」「村雨」「夕立」「曙」「朧」「朝潮」「野分」「迅鯨」「長鯨」の旗艦及び僚艦2隻以上を伴う<br>艦隊で製油所地帯沿岸、南西諸島防衛線、南西諸島近海に反復出撃！これらの敵を一掃せよ！",
-    "desc": "Organize a fleet with any 3 of Suzuya, Murasame, Yuudachi, Akebono, Oboro, Asashio, Nowaki, Jingei or Chougei in your fleet with one as flagship and score an S rank at the boss nodes on 1-3, 1-4 and 2-1 twice each."
+    "desc": "以包含【铃谷、村雨、夕立、曙、胧、朝潮、野分、迅鲸、长鲸】中任意3名舰娘作为旗舰和伴随舰的舰队，出击1-3、1-4、2-1击破Boss，各取得2次S胜。"
   },
   "985": {
     "code": "2610 Bw1",
     "name_jp": "【期間限定任務】特務護衛戦隊、抜錨せよ！",
-    "name": "Special Escort Squadron, Weigh Anchor!",
+    "name": "【期间限定任务】特务护卫舰队，启航！",
     "desc_jp": "「対馬」「鵜来」「稲木」「大泊」「迅鯨」「長鯨」「朝日」「村雨」「巻波」「早波」「浜波」「樫」3隻<br>以上を含む護衛戦隊で南西諸島沖、鎮守府近海、バシー海峡、東部オリョール海に展開、制海権を確立せよ！",
-    "desc": "Organize a fleet with 3 of Tsushima, Ukuru, Inagi, Ootomari, Jingei, Chougei, Asahi, Murasame, Makinami, Hayanami, Hamanami, Kashi in your fleet and score an S rank at the boss nodes on 1-2, 1-5, 2-2, 2-3"
+    "desc": "以包含【对马、稻木、大泊、迅鲸、长鲸、朝日、村雨、卷波、早波、滨波、㭴】中3名舰娘的舰队，出击1-2、1-5、2-2、2-3击破Boss，各取得1次S胜。"
   },
   "986": {
     "code": "2610 B2",
     "name_jp": "【期間限定任務】USS Trick or Treat！",
-    "name": "USS Trick or Treat",
+    "name": "【期间限定任务】USS Trick or Treat！",
     "desc_jp": "「Minneapolis」「Tuscaloosa」「Gambier Bay」「Brooklyn」「Johnston」「Richard P.Leary」<br>「Indiana」の3隻以上を含むUSS Fleetで南西諸島近海、沖ノ島沖、モーレイ海に反復！Trick or Treat！",
-    "desc": "Organize a fleet with 3 of Minneapolis, Tuscaloosa, Gambier Bay, Brooklyn, Johnston, Richard P.Leary, Indiana in your fleet and score an S rank at the boss nodes on 2-1, 2-5, 3-1 twice each"
+    "desc": "以包含【明尼阿波利斯、塔斯卡卢萨、甘比尔湾、布鲁克林、约翰斯顿、理查德·P·利里、印第安纳】中3名舰娘的舰队，出击2-1、2-5、3-1击破Boss，各取得2次S胜。"
   },
   "989": {
     "code": "B188",
@@ -4238,9 +4238,9 @@
   "1038": {
     "code": "2610 B3",
     "name_jp": "【限定拡張作戦】Halloween、おかわり開始！",
-    "name": "Halloween, Time for Seconds!",
+    "name": "【限定扩张作战】Halloween，再来一份开始！",
     "desc_jp": "「鈴谷」「曙」「朧」「樫」「朝日」「迅鯨」「長鯨」「瑞穂」「Johnston」「Richard P.Leary」を旗艦<br>含め計4隻以上の艦隊で、鎮守府正面海域及び製油所地帯沿岸を徹底的に哨戒！完っ璧に制圧せよっ！",
-    "desc": "Organize a fleet with 4 of Suzuya, Akebono, Oboro, Kashi, Asahi, Jingei, Chougei, Mizuho, Johnston, Richard P.Leary in your fleet with one of them as flagship and score an S rank at the boss nodes on 1-1 and 1-3 four times each"
+    "desc": "以包含【铃谷、曙、胧、㭴、朝日、迅鲸、长鲸、瑞穗、约翰斯顿、理查德·P·利里】中4名舰娘作为旗舰和伴随舰的舰队，出击1-1、1-3击破Boss，各取得4次S胜。"
   },
   "1041": {
     "code": "B213",
@@ -4280,30 +4280,30 @@
   "1050": {
     "code": "By17",
     "name_jp": "「第九戦隊」抜錨！前線展開せよッ！",
-    "name": "[9th Squadron] Weigh Anchor! Deploy to the Front Lines!",
+    "name": "第九战队”拔锚！向前线展开！",
     "desc_jp": "旗艦及び随伴艦に「北上改二/改三」及び「大井改二」、護衛随伴に精鋭駆逐艦二隻を配備。同艦隊で<br>南西諸島防衛線、南西諸島近海、バシー海峡、東部オリョール海の前線哨戒を実施！敵を撃滅せよ！",
-    "desc": "Organize a fleet with Kitakami Kai Ni+ and Ooi Kai Ni, one as flagship and 2 DD in your fleet and score an S rank at the boss nodes on 1-4, 2-1, 2-2 and 2-3"
+    "desc": "以旗舰和伴随舰为北上改二/改三和大井改二、并包含2名驱逐舰的舰队，出击1-4、2-1、2-2、2-3击破Boss，各取得1次S?胜。"
   },
   "1051": {
     "code": "By18",
     "name_jp": "改装「1YB3H」旗艦、敵中を突破せよ！",
-    "name": "Remodelled 1YB3H Flagship, Break Through the Enemy Lines!",
+    "name": "改装“1YB3H”旗舰，突破敌阵！",
     "desc_jp": "「山城改二補」旗艦、随伴「扶桑」または「時雨」、さらに「最上」「満潮」「朝雲」「山雲」から2隻以上<br>を配備。鎮守府近海、鎮守府近海航路、東部オリョール海、沖ノ島沖、リランカ島に展開！海域を突破せよ！",
-    "desc": "Organize a fleet with Yamashiro Kai Ni Ho as flagship, any 1 of Fusou or Shigure and 2 of Mogami, Michishio, Asagumo or Yamagumo in your fleet and score an S rank at the boss nodes on 1-5, 2-3, 2-5, 4-3 and reach the anchor node N on 1-6."
+    "desc": "以山城改二补作为旗舰、扶桑或时雨作为伴随舰，并包含【最上、满潮、朝云、山云】中2名舰娘的舰队，出击1-5、2-3、2-5、4-3击破Boss，各取得1次S?胜，并出击1-6到达1次终点。"
   },
   "1052": {
     "code": "B217",
     "name_jp": "改装多目的搭載母艦「北上改三」、出撃ッ！",
-    "name": "Remodelled Multi-role Tactical Carrier Kitakami Kai San, Sortieing!",
+    "name": "改装多用途搭载母舰“北上改三”，出击！",
     "desc_jp": "「北上改三」旗艦、随伴に「花月」「潮」「響」「竹」「桐」「榧」「杉」「樫」から2隻以上を配備した<br>艦隊で、製油所地帯沿岸、沖ノ島海域、カレー洋リランカ島沖へ反復出撃！敵を撃滅せよ！",
-    "desc": "Organize a fleet with Kitakami Kai San as flagship and any 2 of Hanazuki, Ushio, Hibiki, Take, Kiri, Kaya, Sugi or Kashi in your fleet and score an S rank at the boss nodes on 1-3, 2-4 and 4-5 twice each"
+    "desc": "以北上改三作为旗舰，花月、潮、响、竹、桐、榧、杉、㭴其中2名舰娘作为伴随舰的舰队，出击1-3、2-4、4-5击破Boss，各取得2次S胜。"
   },
   "1053": {
     "code": "B218",
     "name_jp": "再編二十駆「天霧」「狭霧」南方へ展開せよ！",
-    "name": "Reorganized DesDiv 20 Amagiri and Sagiri, Deploy to the Southern Waters!",
+    "name": "再编二十驱“天雾”“狭雾”南方部署！",
     "desc_jp": "改装特型駆逐艦「天霧改二/丁」「狭霧改二」を含む艦隊で南方に展開！南方海域前面、サブ島沖海域、<br>サーモン海域、ラバウル方面海域深部に出撃！敵艦隊主力と交戦、これを撃滅せよ！再編二十駆、抜錨！",
-    "desc": "Organize a fleet with Amagiri Kai Ni/D, Sagiri Kai Ni+ in your fleet and score an S rank at the boss nodes on 5-1, 5-3, 5-4 and 5-6 (Part 3)"
+    "desc": "以包含天雾改二/丁和狭雾改二的舰队，出击5-1、5-3、5-4、5-6（P3）击破Boss，各取得1次S胜。"
   },
   "1101": {
     "code": "F96",
@@ -4427,9 +4427,9 @@
   "1119": {
     "code": "2610 Fm1",
     "name_jp": "【期間限定】Halloweenの南瓜、食べりゅ?",
-    "name": "Halloween Pumpkins, Wanna Eat It?",
+    "name": "【期间限定】Halloween的南瓜，想吃吗？",
     "desc_jp": "「小口径主砲」「中口径主砲」「水上偵察機」x各9を廃棄、「九九式艦爆」「九七式艦攻」x各10、<br>家具コインx1,031を準備せよ！(任務達成後、準備した装備・家具コインは消費します)",
-    "desc": "Proceed to scrap 9x Small caliber main guns, 9x Medium caliber main guns, 9x Seaplanes and have 10x Type 99 Dive Bomber, 10x Type 97 Torpedo Bomber, 1031x furniture coins (All resources and Materials will be consumed upon completion)"
+    "desc": "废弃小口径主炮、中口径主炮、水上侦察机各9个，并准备好九九式舰爆、九七式舰攻各10个、1031家具币。"
   },
   "1120": {
     "code": "Fy9",
@@ -4665,8 +4665,8 @@
   "1170": {
     "code": "F143",
     "name_jp": "既存装備活用による対空兵装の開発",
-    "name": "Development of Anti-Air Armament Utilizing Existing Equipment",
+    "name": "利用现有装备开发防空兵装",
     "desc_jp": "第一艦隊旗艦に「北上改二/改三」を配備。「12.7cm連装高角砲」x12及び「8cm高角砲」x8、<br>「25mm三連装機銃」x4を廃棄。開発資材x36、弾薬x750、改修資材x8を準備せよ！",
-    "desc": "Have Kitakami Kai Ni+ as secretary flagship and then proceed to scrap 12x 12.7cm Twin High-angle Gun Mount, 8x 8cm High-angle Gun and 4x 25mm Triple Autocannon Mount and have 36x Development Material, 750x Ammo and 8x Improvement Material (All resources and Materials will be consumed upon completion)"
+    "desc": "以北上改二/改三作为第一舰队旗舰，废弃12.7cm连装高角炮×12、8cm高角炮×8、25mm三连装机枪×4，并准备好开发资材×36、弹药×750、改修资材×8。"
   }
 }
