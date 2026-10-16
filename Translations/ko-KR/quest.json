@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030790",
+  "version": "21030791",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -675,9 +675,9 @@
   "199": {
     "code": "2606 Am1",
     "name_jp": "【期間限定任務】第三十一戦隊 特務編成！",
-    "name": "[Limited Time Quest] 31st Squadron Special Operations Formation!",
+    "name": "[기간 한정 임무] 제31전대 특무 편성!",
     "desc_jp": "期間限定任務：防空駆逐艦「花月」、丁型駆逐艦「桐」「榧」「杉」「樫」「竹」及び<br>特型駆逐艦「潮」「響」から5隻以上を抽出、後期第三十一戦隊を特別編成せよ！",
-    "desc": "Assemble a fleet containing any 5 of Kaya, Sugi, Kashi, Take, Ushio, Hibiki, Hanazuki or Kiri."
+    "desc": "기간 한정 임무: 방공 구축함 「하나즈키」, 정형 구축함 「키리」「카야」「스기」「카시」「타케」 및 특형 구축함 「우시오」「히비키」 중 5척 이상을 선발하여 후기 제31전대를 특별 편성하라!"
   },
   "201": {
     "code": "Bd1",
@@ -1144,9 +1144,9 @@
   "269": {
     "code": "B37",
     "name_jp": "「第二一駆逐隊」出撃せよ！",
-    "name": "제21구축대 출격하라!",
+    "name": "「제21구축대」 출격하라!",
     "desc_jp": "「第二一駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！",
-    "desc": "Sortie Hatsuharu (初春), Nenohi (子日), Wakaba (若葉) and Hatsushimo (初霜) and up to 2 additional ships to World 3-1 and score an S rank victory at the boss node."
+    "desc": "「제21구축대」를 포함한 함대로 출격하여 북방 해역 모레이해의 적을 격멸하라!"
   },
   "270": {
     "code": "B39",
@@ -1725,9 +1725,9 @@
   "359": {
     "code": "2610 Cw1",
     "name_jp": "Halloween艦隊 実りの秋、最新演習！",
-    "name": "Halloween Fleet: Autumn Harvest - Latest Exercises!",
+    "name": "할로윈 함대, 풍요로운 가을 최신 연습!",
     "desc_jp": "「鈴谷」「阿武隈」「朧」「曙」「村雨」「夕立」「野分」「朝潮」「早波」「浜波」「伊201」「Jervis」<br>「Minneapolis」「Johnston」4隻以上を含む強襲艦隊で、本日中に演習で【A判定】以上を5回達成せよ！",
-    "desc": "Organize a fleet with 4 of Suzuya, Abukuma, Oboro, Akebono, Murasame, Yuudachi, Nowaki, Asashio, Hayanami, Hamanami, I-201, Jervis, Minneapolis, Johnston in your fleet and score A rank five times in PvP"
+    "desc": "「스즈야」「아부쿠마」「오보로」「아케보노」「무라사메」「유다치」「노와키」「아사시오」「하야나미」「하마나미」「이201」「저비스」「미니애폴리스」「존스턴」 중 4척 이상을 포함한 강습 함대로 오늘 안에 연습에서 【A판정】 이상을 5회 달성하라!"
   },
   "360": {
     "code": "C70",
@@ -1816,9 +1816,9 @@
   "382": {
     "code": "2606 Cm1",
     "name_jp": "【期間限定任務】第三十一戦隊 緊急演習！",
-    "name": "[Limited Time Quest] 31st Squadron Emergency Exercises!",
+    "name": "[기간 한정 임무] 제31전대 긴급 연습!",
     "desc_jp": "期間限定任務：防空駆逐艦「花月」、丁型駆逐艦「桐」「竹」「榧」「杉」「樫」及び特型駆逐艦<br>「潮」「響」から5隻以上による第三十一戦隊で本日中に演習【A判定】勝利3回以上を達成せよ！",
-    "desc": "Organize a fleet with 5 of Kaya, Sugi, Kashi, Take, Ushio, Hibiki, Hanazuki and Kiri in your fleet and score A rank 3 times in PvP."
+    "desc": "기간 한정 임무: 방공 구축함 「하나즈키」, 정형 구축함 「키리」「타케」「카야」「스기」「카시」 및 특형 구축함 「우시오」「히비키」 중 5척 이상으로 제31전대를 편성하여 오늘 안에 연습에서 【A판정】 승리를 3회 이상 달성하라!"
   },
   "401": {
     "code": "D1",
@@ -2985,9 +2985,9 @@
   "720": {
     "code": "2603 G2",
     "name_jp": "【期間限定:拡張任務】夕雲型改装任務！",
-    "name": "[Limited Time Offer: Extra Quest] Yuugumo-class Improvement Quest!",
+    "name": "[기간 한정: 확장 임무] 유구모형 개장 임무!",
     "desc_jp": "【期間限定拡張改装任務】：開発資材x24を用意して、任意の夕雲型駆逐艦の近代化<br>改修を重巡洋艦級x3隻以上の同時使用により3回成功させよ！",
-    "desc": "Modernize a Yuugumo-class DD using 3 CA(V) three times and prepare 24x Development Materials"
+    "desc": "【기간 한정 확장 개장 임무】: 개발 자재 24개를 준비하고, 임의의 유구모형 구축함의 근대화 개수를 중순양함급 3척 이상을 동시에 사용하여 3회 성공시켜라!"
   },
   "805": {
     "code": "B58",
@@ -4021,30 +4021,30 @@
   "984": {
     "code": "2610 B1",
     "name_jp": "【期間限定任務】14年目実りの秋、南瓜始め！",
-    "name": "[Limited Time Quest] 14th Year Autumn Harvest, Pumpkin Festival Begins!",
+    "name": "[기간 한정 임무] 14년째 풍요로운 가을, 호박 축제 시작!",
     "desc_jp": "「鈴谷」「村雨」「夕立」「曙」「朧」「朝潮」「野分」「迅鯨」「長鯨」の旗艦及び僚艦2隻以上を伴う<br>艦隊で製油所地帯沿岸、南西諸島防衛線、南西諸島近海に反復出撃！これらの敵を一掃せよ！",
-    "desc": "Organize a fleet with any 3 of Suzuya, Murasame, Yuudachi, Akebono, Oboro, Asashio, Nowaki, Jingei or Chougei in your fleet with one as flagship and score an S rank at the boss nodes on 1-3, 1-4 and 2-1 twice each."
+    "desc": "「스즈야」「무라사메」「유다치」「아케보노」「오보로」「아사시오」「노와키」「진게이」「초게이」 중 1척을 기함으로 하고 2척 이상의 동료함을 포함한 함대로 유전 지대 연안, 남서제도 방위선, 남서제도 근해에 반복 출격하여 적을 소탕하라!"
   },
   "985": {
     "code": "2610 Bw1",
     "name_jp": "【期間限定任務】特務護衛戦隊、抜錨せよ！",
-    "name": "[Limited Time Quest] Special Escort Squadron, Weigh Anchor!",
+    "name": "[기간 한정 임무] 특무 호위전대, 발묘하라!",
     "desc_jp": "「対馬」「鵜来」「稲木」「大泊」「迅鯨」「長鯨」「朝日」「村雨」「巻波」「早波」「浜波」「樫」3隻<br>以上を含む護衛戦隊で南西諸島沖、鎮守府近海、バシー海峡、東部オリョール海に展開、制海権を確立せよ！",
-    "desc": "Organize a fleet with 3 of Tsushima, Ukuru, Inagi, Ootomari, Jingei, Chougei, Asahi, Murasame, Makinami, Hayanami, Hamanami, Kashi in your fleet and score an S rank at the boss nodes on 1-2, 1-5, 2-2, 2-3"
+    "desc": "「츠시마」「우쿠루」「이나키」「오토마리」「진게이」「초게이」「아사히」「무라사메」「마키나미」「하야나미」「하마나미」「카시」 중 3척 이상을 포함한 호위전대로 남서제도 앞바다, 진수부 근해, 바시 해협, 동부 오룔해에 전개하여 제해권을 확립하라!"
   },
   "986": {
     "code": "2610 B2",
     "name_jp": "【期間限定任務】USS Trick or Treat！",
-    "name": "[Limited Time Quest] USS Trick or Treat!",
+    "name": "[기간 한정 임무] USS Trick or Treat!",
     "desc_jp": "「Minneapolis」「Tuscaloosa」「Gambier Bay」「Brooklyn」「Johnston」「Richard P.Leary」<br>「Indiana」の3隻以上を含むUSS Fleetで南西諸島近海、沖ノ島沖、モーレイ海に反復！Trick or Treat！",
-    "desc": "Organize a fleet with 3 of Minneapolis, Tuscaloosa, Gambier Bay, Brooklyn, Johnston, Richard P.Leary, Indiana in your fleet and score an S rank at the boss nodes on 2-1, 2-5, 3-1 twice each"
+    "desc": "「미니애폴리스」「터스컬루사」「갬비어 베이」「브루클린」「존스턴」「리처드 P. 리어리」「인디애나」 중 3척 이상을 포함한 USS 함대로 남서제도 근해, 오키노시마 앞바다, 모레이해에 반복 출격하라! Trick or Treat!"
   },
   "987": {
     "code": "2610 Bm1",
     "name_jp": "【期間限定任務】西方南瓜祭り!  Buono!",
-    "name": "[Limited Time Quest] Western Pumpkin Festival! Buono!",
+    "name": "[기간 한정 임무] 서방 호박 축제! Buono!",
     "desc_jp": "「Roma」「Luigi Torelli」「Maestrale・Grecale・Libeccio・Scirocco」「Jervis」「伊47」「伊201」<br>「鈴谷」「村雨」「朧」「曙」旗艦含む3隻以上で、カレー洋海域、リランカ島、カスガダマ島を制圧せよ！",
-    "desc": "Organize a fleet with 3 of Roma, Luigi Torelli, Maestrale, Grecale, Libeccio, Scirocco, Jervis, I-47, I-201, Suzuya, Murasame, Oboro, Akebono in your fleet with one as flagship and score an S rank at the boss nodes on 4-2, 4-3, 4-4"
+    "desc": "「로마」「루이지 토렐리」「마에스트랄레」「그레칼레」「리베치오」「시로코」「저비스」「이47」「이201」「스즈야」「무라사메」「오보로」「아케보노」 중 1척을 기함으로 한 3척 이상의 함대로 카레양 해역, 리랑카섬, 카스가다마섬을 제압하라!"
   },
   "989": {
     "code": "B188",
@@ -4098,9 +4098,9 @@
   "1002": {
     "code": "2610 B4",
     "name_jp": "【限定拡張作戦】南瓜祭り2026、北方作戦！",
-    "name": "[Limited Time Extra Operation] Pumpkin Festival 2026, Northern Operation!",
+    "name": "[한정 확장 작전] 호박 축제 2026, 북방 작전!",
     "desc_jp": "「Minneapolis」「Tuscaloosa」「Gambier Bay」「Johnston」「鈴谷」「阿武隈」「曙」「朧」<br>「清霜」「樫」旗艦含む3隻以上の特務艦隊でキス島沖、北方AL海域、北方海域全域を制圧せよ！",
-    "desc": "Organize a fleet with 3 of Minneapolis, Tuscaloosa, Gambier Bay, Johnston, Suzuya, Abukuma, Akebono, Oboro, Michishio, Kashi in your fleet with one as flagship and score an S rank at the boss nodes on 3-2, 3-4 and 3-5"
+    "desc": "「미니애폴리스」「터스컬루사」「갬비어 베이」「존스턴」「스즈야」「아부쿠마」「아케보노」「오보로」「키요시모」「카시」 중 1척을 기함으로 한 3척 이상의 특무함대로 키스섬 앞바다, 북방 AL 해역, 북방 해역 전역을 제압하라!"
   },
   "1003": {
     "code": "B195",
@@ -4252,23 +4252,23 @@
   "1038": {
     "code": "2610 B3",
     "name_jp": "【限定拡張作戦】Halloween、おかわり開始！",
-    "name": "[Limited Time Extra Operation] Halloween, Time for Seconds!",
+    "name": "[한정 확장 작전] 할로윈, 한 번 더 시작!",
     "desc_jp": "「鈴谷」「曙」「朧」「樫」「朝日」「迅鯨」「長鯨」「瑞穂」「Johnston」「Richard P.Leary」を旗艦<br>含め計4隻以上の艦隊で、鎮守府正面海域及び製油所地帯沿岸を徹底的に哨戒！完っ璧に制圧せよっ！",
-    "desc": "Organize a fleet with 4 of Suzuya, Akebono, Oboro, Kashi, Asahi, Jingei, Chougei, Mizuho, Johnston, Richard P.Leary in your fleet with one of them as flagship and score an S rank at the boss nodes on 1-1 and 1-3 four times each"
+    "desc": "「스즈야」「아케보노」「오보로」「카시」「아사히」「진게이」「초게이」「미즈호」「존스턴」「리처드 P. 리어리」 중 1척을 기함으로 포함해 총 4척 이상의 함대로 진수부 정면 해역 및 유전 지대 연안을 철저히 초계하라! 완벽하게 제압하라!"
   },
   "1039": {
     "code": "2610 Bw2",
     "name_jp": "【限定拡張作戦】Halloween海上護衛隊出撃！",
-    "name": "[Limited Time Extra Operation] Halloween Maritime Escort Force Sortie!",
+    "name": "[한정 확장 작전] 할로윈 해상 호위대 출격!",
     "desc_jp": "「対馬」「樫」「朝潮」「巻波」「浜波」「阿武隈」「鵜来」「稲木」「能美」または丁型海防艦、計4隻<br>以上の海上護衛隊で、鎮守府近海、南西諸島沖、南西諸島防衛線の制海権を確保せよ！ Trick or Treat！",
-    "desc": "Organize a fleet with 4 of Tsushima, Kashi, Asashio, Makinami, Hamanami, Abukuma, Ukuru, Inagi, Noumi, Kaiboukan No.4, Kaiboukan No.22 or Kaiboukan No.30 in your fleet and score an S rank at the boss nodes on 1-2, 1-4 and 1-5"
+    "desc": "「츠시마」「카시」「아사시오」「마키나미」「하마나미」「아부쿠마」「우쿠루」「이나키」「노미」 또는 정형 해방함을 합계 4척 이상 포함한 해상 호위대로 진수부 근해, 남서제도 앞바다, 남서제도 방위선의 제해권을 확보하라! Trick or Treat!"
   },
   "1040": {
     "code": "2610 Bm2",
     "name_jp": "【限定拡張作戦】Halloween狼隊、夜の襲撃！",
-    "name": "[Limited Time Extra Operation] Halloween Wolf Squad, Night Raid!",
+    "name": "[한정 확장 작전] 할로윈 늑대대, 밤의 습격!",
     "desc_jp": "「朧」「夕立」「野分」「早波」「熊野丸」「迅鯨改」「Tuscaloosa」「Indiana」を旗艦及び僚艦2隻以上<br>配備の艦隊で、南西諸島近海・バシー海峡に遊弋する敵に反復襲撃！敵艦隊を完膚無きまで食い破れ！",
-    "desc": "Organize a fleet with 3 of Oboro, Yuudachi, Nowaki, Hayanami, Kumano Maru, Chougei Kai, Tuscaloosa, Indiana in your fleet with one as flagship and score an S rank at the boss nodes on 2-1 and 2-2 twice each"
+    "desc": "「오보로」「유다치」「노와키」「하야나미」「쿠마노마루」「진게이 개」「터스컬루사」「인디애나」 중 1척을 기함으로 하고 동료함 2척 이상을 배치한 함대로 남서제도 근해·바시 해협의 적을 반복 습격하라! 적 함대를 철저히 격파하라!"
   },
   "1041": {
     "code": "B213",
@@ -4280,58 +4280,58 @@
   "1042": {
     "code": "B214",
     "name_jp": "最新鋭改装空母「飛龍改三」、疾風怒涛！",
-    "name": "The Latest Remodelled Aircraft Carrier \"Hiryuu Kai San\" is Raging!",
+    "name": "최신예 개장 항모 「히류 개3」, 질풍노도!",
     "desc_jp": "「飛龍改三」旗艦、他に「風雲」または第三十二駆逐隊計2隻以上を含む機動部隊で出撃！疾風怒涛で<br>沖ノ島沖、北方AL海域、カレー洋リランカ島沖、サーモン海域北方、中部北海域ピーコック島沖の敵を討て！",
-    "desc": "Organize a fleet with Hiryuu Kai San as flagship and any 2 of Kazagumo, Tamanami, Suzunami, Fujinami, Hayanami and Hamanami in your fleet and score an S rank at the boss nodes on 2-5, 3-5, 4-5, 5-5 and 6-4"
+    "desc": "「히류 개3」를 기함으로 하고, 그 외에 「카자구모」 또는 제32구축대 중 2척 이상을 포함한 기동부대로 출격하라! 질풍노도로 오키노시마 앞바다, 북방 AL 해역, 카레양 리랑카섬 앞바다, 새먼 해역 북방, 중부 북해역 피콕섬 앞바다의 적을 격파하라!"
   },
   "1044": {
     "code": "B215",
     "name_jp": "三十二駆「玉波改二」、出撃いたします。",
-    "name": "DesDiv32 \"Tamanami Kai Ni\" is Going to Sortie",
+    "name": "제32구축대 「타마나미 개2」, 출격합니다.",
     "desc_jp": "「玉波改二」旗艦、僚艦に「藤波」を含む艦隊で、東部オリョール海、沖ノ島沖、カレー洋リランカ島沖、<br>サーモン海域北方、グアノ環礁沖海域に展開！出没する敵艦隊主力を捕捉、これを全力で撃滅せよ！",
-    "desc": "Organize a fleet with Tamanami Kai Ni as flagship and Fujinami in your fleet and score an S rank at the boss nodes on 2-3, 2-5, 4-5, 5-5 and 6-3"
+    "desc": "「타마나미 개2」를 기함으로 하고 동료함에 「후지나미」를 포함한 함대로 동부 오룔해, 오키노시마 앞바다, 카레양 리랑카섬 앞바다, 새먼 해역 북방, 구아노 환초 앞바다 해역에 전개하라! 출몰하는 적 함대 주력을 포착하여 전력으로 격멸하라!"
   },
   "1045": {
     "code": "By16",
     "name_jp": "「吹雪改三」抜錨します！見てくださいっ！",
-    "name": "\"Fubuki Kai San\" Sets Sail! Check it Out!",
+    "name": "「후부키 개3」 발묘합니다! 지켜봐 주세요!",
     "desc_jp": "「吹雪改三/改三護(六式)」旗艦、二番艦に特I型を配備した精鋭艦隊で、ジャワ島沖最深部、南方海域前面、<br>サブ島沖海域、サーモン海域、サーモン海域北方に出撃！敵主力と交戦、蹴散らせっ！吹雪、抜錨しますっ！",
-    "desc": "Organize a fleet with Fubuki Kai San/San Go (Type 6) as flagship and another Fubuki-class as second ship in your fleet and score an S rank at the boss nodes on 5-1, 5-3, 5-4, 5-5 and 7-5 (Part 3)"
+    "desc": "「후부키 개3/개3호(6식)」을 기함으로 하고, 2번함에 특I형을 배치한 정예 함대로 자와섬 앞바다 최심부, 남방 해역 전면, 서브섬 앞바다 해역, 새먼 해역, 새먼 해역 북방에 출격하라! 적 주력과 교전하여 쓸어버려라! 후부키, 발묘합니다!"
   },
   "1047": {
     "code": "B216",
     "name_jp": "「涼波改二」ラバウルより抜錨せよ！",
-    "name": "Suzunami Kai Ni, Weigh Anchor from Rabaul!\t",
+    "name": "「스즈나미 개2」 라바울에서 발묘하라!",
     "desc_jp": "「涼波改二/補」旗艦、他に「鳥海」「鈴谷」「最上」「能代」「玉波」「藤波」「早波」2隻以上を含む艦隊<br>で、サーモン海域、サーモン海域北方、ラバウル方面海域最深部に反復出撃！ラバウル周辺の敵を駆逐せよ！",
-    "desc": "Organize a fleet with Suzunami Kai Ni+ as flagship and any 2 of Choukai, Suzuya, Mogami, Noshiro, Tamanami, Fujinami and Hayanami in your fleet and score an S rank at the boss nodes on 5-4, 5-5 and 5-6 (Part 3) twice each"
+    "desc": "「스즈나미 개2/보」를 기함으로 하고, 그 외에 「초카이」「스즈야」「모가미」「노시로」「타마나미」「후지나미」「하야나미」 중 2척 이상을 포함한 함대로 새먼 해역, 새먼 해역 북방, 라바울 방면 해역 최심부에 반복 출격하라! 라바울 주변의 적을 구축하라!"
   },
   "1050": {
     "code": "By17",
     "name_jp": "「第九戦隊」抜錨！前線展開せよッ！",
-    "name": "[9th Squadron] Weigh Anchor! Deploy to the Front Lines!",
+    "name": "「제9전대」 발묘! 전선에 전개하라!",
     "desc_jp": "旗艦及び随伴艦に「北上改二/改三」及び「大井改二」、護衛随伴に精鋭駆逐艦二隻を配備。同艦隊で<br>南西諸島防衛線、南西諸島近海、バシー海峡、東部オリョール海の前線哨戒を実施！敵を撃滅せよ！",
-    "desc": "Organize a fleet with Kitakami Kai Ni+ and Ooi Kai Ni, one as flagship and 2 DD in your fleet and score an S rank at the boss nodes on 1-4, 2-1, 2-2 and 2-3"
+    "desc": "기함 및 동료함에 「키타카미 개2/개3」 및 「오이 개2」를 배치하고, 호위 동료함으로 정예 구축함 2척을 배치하라. 해당 함대로 남서제도 방위선, 남서제도 근해, 바시 해협, 동부 오룔해의 전선 초계를 실시하여 적을 격멸하라!"
   },
   "1051": {
     "code": "By18",
     "name_jp": "改装「1YB3H」旗艦、敵中を突破せよ！",
-    "name": "Remodelled 1YB3H Flagship, Break Through the Enemy Lines!",
+    "name": "개장 「1YB3H」 기함, 적진을 돌파하라!",
     "desc_jp": "「山城改二補」旗艦、随伴「扶桑」または「時雨」、さらに「最上」「満潮」「朝雲」「山雲」から2隻以上<br>を配備。鎮守府近海、鎮守府近海航路、東部オリョール海、沖ノ島沖、リランカ島に展開！海域を突破せよ！",
-    "desc": "Organize a fleet with Yamashiro Kai Ni Ho as flagship, any 1 of Fusou or Shigure and 2 of Mogami, Michishio, Asagumo or Yamagumo in your fleet and score an S rank at the boss nodes on 1-5, 2-3, 2-5, 4-3 and reach the anchor node N on 1-6."
+    "desc": "「야마시로 개2 보」를 기함으로 하고, 동료함에 「후소」 또는 「시구레」 중 1척, 추가로 「모가미」「미치시오」「아사구모」「야마구모」 중 2척 이상을 배치하라. 진수부 근해, 진수부 근해 항로, 동부 오룔해, 오키노시마 앞바다, 리랑카섬에 전개하여 해역을 돌파하라!"
   },
   "1052": {
     "code": "B217",
     "name_jp": "改装多目的搭載母艦「北上改三」、出撃ッ！",
-    "name": "Remodelled Multi-role Tactical Carrier Kitakami Kai San, Sortieing!",
+    "name": "개장 다목적 탑재모함 「키타카미 개3」, 출격!",
     "desc_jp": "「北上改三」旗艦、随伴に「花月」「潮」「響」「竹」「桐」「榧」「杉」「樫」から2隻以上を配備した<br>艦隊で、製油所地帯沿岸、沖ノ島海域、カレー洋リランカ島沖へ反復出撃！敵を撃滅せよ！",
-    "desc": "Organize a fleet with Kitakami Kai San as flagship and any 2 of Hanazuki, Ushio, Hibiki, Take, Kiri, Kaya, Sugi or Kashi in your fleet and score an S rank at the boss nodes on 1-3, 2-4 and 4-5 twice each"
+    "desc": "「키타카미 개3」를 기함으로 하고, 동료함에 「하나즈키」「우시오」「히비키」「타케」「키리」「카야」「스기」「카시」 중 2척 이상을 배치한 함대로 유전 지대 연안, 오키노시마 해역, 카레양 리랑카섬 앞바다에 반복 출격하여 적을 격멸하라!"
   },
   "1053": {
     "code": "B218",
     "name_jp": "再編二十駆「天霧」「狭霧」南方へ展開せよ！",
-    "name": "Reorganized DesDiv 20 Amagiri and Sagiri, Deploy to the Southern Waters!",
+    "name": "재편 제20구축대 「아마기리」「사기리」 남방으로 전개하라!",
     "desc_jp": "改装特型駆逐艦「天霧改二/丁」「狭霧改二」を含む艦隊で南方に展開！南方海域前面、サブ島沖海域、<br>サーモン海域、ラバウル方面海域深部に出撃！敵艦隊主力と交戦、これを撃滅せよ！再編二十駆、抜錨！",
-    "desc": "Organize a fleet with Amagiri Kai Ni/D, Sagiri Kai Ni+ in your fleet and score an S rank at the boss nodes on 5-1, 5-3, 5-4 and 5-6 (Part 3)"
+    "desc": "개장 특형 구축함 「아마기리 개2/정」「사기리 개2」를 포함한 함대로 남방에 전개하라! 남방 해역 전면, 서브섬 앞바다 해역, 새먼 해역, 라바울 방면 해역 심부에 출격하여 적 함대 주력과 교전하고 이를 격멸하라! 재편 제20구축대, 발묘!"
   },
   "1101": {
     "code": "F96",
@@ -4455,9 +4455,9 @@
   "1119": {
     "code": "2610 Fm1",
     "name_jp": "【期間限定】Halloweenの南瓜、食べりゅ?",
-    "name": "[Limited Time] Halloween Pumpkin, Wanna Eat Some?",
+    "name": "[기간 한정] 할로윈 호박, 먹을래?",
     "desc_jp": "「小口径主砲」「中口径主砲」「水上偵察機」x各9を廃棄、「九九式艦爆」「九七式艦攻」x各10、<br>家具コインx1,031を準備せよ！(任務達成後、準備した装備・家具コインは消費します)",
-    "desc": "Proceed to scrap 9x Small caliber main guns, 9x Medium caliber main guns, 9x Seaplanes and have 10x Type 99 Dive Bomber, 10x Type 97 Torpedo Bomber, 1031x furniture coins (All resources and Materials will be consumed upon completion)"
+    "desc": "「소구경 주포」「중구경 주포」「수상 정찰기」를 각각 9개 폐기하고, 「99식 함폭」「97식 함공」을 각각 10개, 가구 코인 1,031개를 준비하라! (임무 달성 후 준비한 장비와 가구 코인은 소모됩니다)"
   },
   "1120": {
     "code": "Fy9",
@@ -4651,57 +4651,57 @@
   "1161": {
     "code": "F139",
     "name_jp": "【工廠任務】新装備運用のための工廠整備【壱】",
-    "name": "[Arsenal Quest] Arsenal Preparations for New Equipment Operation [1]",
+    "name": "[공창 임무] 신장비 운용을 위한 공창 정비 [1]",
     "desc_jp": "第一旗艦に「飛龍改二/改三」を配備。不要な「艦戦」「艦爆」「艦攻」を各9装備ずつ廃棄。<br>爆雷兵装x8、機銃兵装x8、中口径主砲x9、大口径主砲x7を廃棄！弾薬x8,800を用意せよ！",
-    "desc": "Have Hiryuu Kai Ni/Kai San as your secretary flagship and then proceed to scrap 9x Carrier fighters, 9x Carrier dive bombers, 9x Carrier torpedo bombers, 8x Depth charge, 8x AA Guns, 9x Medium-caliber main gun, 7x Large-caliber main gun and have 8800x ammo (All resources and Materials will be consumed upon completion)"
+    "desc": "제1함대 기함에 「히류 개2/개3」를 배치하라. 불필요한 「함상전투기」「함상폭격기」「함상공격기」를 각각 9개씩 폐기하고, 폭뢰 병장 8개, 기관총 병장 8개, 중구경 주포 9개, 대구경 주포 7개를 폐기하라! 탄약 8,800개를 준비하라!"
   },
   "1162": {
     "code": "F140",
     "name_jp": "【工廠任務】新装備運用のための工廠整備【弐】",
-    "name": "[Arsenal Quest] Arsenal Preparations for New Equipment Operation [2]",
+    "name": "[공창 임무] 신장비 운용을 위한 공창 정비 [2]",
     "desc_jp": "「零式艦戦52型」x6、「紫電一一型」x4、「12.7cm連装高角砲」x8、「46cm三連装砲」x2を廃棄。<br>新型兵装資材x2、さらにボーキサイト及び鉄鋼を各8,800を用意、必要な資材/機材を生産せよ！",
-    "desc": "Proceed to scrap 6x Type 0 Fighter Model 52, 4x Shiden Model 11, 8x 12.7cm Twin High-angle Gun Mount and 2x 46cm Triple Gun Mount and have 2x New Model Armament Materials, 8800x steel and 8800x bauxite (All resources and Materials will be consumed upon completion)"
+    "desc": "「0식 함전 52형」 6개, 「시덴 11형」 4개, 「12.7cm 연장고각포」 8개, 「46cm 3연장포」 2개를 폐기하라. 신형 병장 자재 2개와 보크사이트 및 강재를 각각 8,800개 준비하여 필요한 자재와 장비를 생산하라!"
   },
   "1163": {
     "code": "F141",
     "name_jp": "【工廠任務】震電の噴式推進化",
-    "name": "[Arsenal Quest] Shinden with Jet Propulsion",
+    "name": "[공창 임무] 신덴의 분식 추진화",
     "desc_jp": "旗艦「飛龍改三」第一装備スロットに「震電改二(艦戦型改二)」(★max)を搭載。新型航空兵装<br>資材x3、新型兵装資材x4、開発資材x160、熟練搭乗員x1、ネ式エンジンx1準備せよ！",
-    "desc": "Have your secretary flagship Hiryuu Kai San equip a ★max Shinden Kai 2 (Carrier-based Fighter Model Kai 2) in the first slot and have 1x Ne Type Engine, 1x Skilled Crew Member, 3x New Model Aerial Armament Materials, 4x New Model Armament Material and 160x Development Materials (All resources and Materials will be consumed upon completion)"
+    "desc": "기함 「히류 개3」의 첫 번째 장비 슬롯에 ★max 「신덴 개2(함전형 개2)」를 장비하라. 신형 항공병장 자재 3개, 신형 병장 자재 4개, 개발 자재 160개, 숙련 탑승원 1개, 네식 엔진 1개를 준비하라!"
   },
   "1164": {
     "code": "F142",
     "name_jp": "【工廠任務】水雷戦隊新改装艦、改装準備！",
-    "name": "[Arsenal Quest] Newly Remodelled Ship of Torpedo Squadron, Ready for Renovation!",
+    "name": "[공창 임무] 수뢰전대 신개장함, 개장 준비!",
     "desc_jp": "第一艦隊に旗艦「玉波」。僚艦に「藤波」「北上」を配備して「三式爆雷投射機」x8、「三式水中<br>探信儀」x4、「12.7cm連装高角砲」x8廃棄。「新型兵装資材」x1及び「15.2cm連装砲」x4用意！",
-    "desc": "Have Tamanami as your secretary flagship with Fujinami and Kitakami in the fleet then proceed to scrap 8x Type 3 Depth Charge Projector, 4x Type 3 Active Sonar and 8x 12.7cm Twin High-angle Gun Mount and have 1x New Model Armament Material and 4x 15.2cm Twin Gun Mount (All resources and Materials will be consumed upon completion)"
+    "desc": "제1함대 기함에 「타마나미」를 배치하고, 동료함에 「후지나미」「키타카미」를 배치하라. 「3식 폭뢰투사기」 8개, 「3식 수중탐신의」 4개, 「12.7cm 연장고각포」 8개를 폐기하고, 「신형 병장 자재」 1개와 「15.2cm 연장포」 4개를 준비하라!"
   },
   "1166": {
     "code": "Fd9",
     "name_jp": "続：装備の改修強化",
-    "name": "Continued: Enhancing Equipment Via Improvement",
+    "name": "계속: 장비 개수 강화",
     "desc_jp": "工廠任務：「改修工廠」で「装備」のさらなる改修強化を実施せよ！",
-    "desc": "Attempt equipment modernisation once."
+    "desc": "공창 임무: 「개수공창」에서 「장비」를 추가로 개수 강화하라!"
   },
   "1167": {
     "code": "Fw5",
     "name_jp": "装備の改修集中強化",
-    "name": "Intensive reinforcement of equipment renovation",
+    "name": "장비 개수 집중 강화",
     "desc_jp": "工廠任務：さらなる戦力強化のため、本日中に「改修工廠」で「装備」改修強化を連続三回実施せよ！",
-    "desc": "Attempt equipment modernisation three times in one day."
+    "desc": "공창 임무: 더욱 전력을 강화하기 위해 오늘 안에 「개수공창」에서 「장비」 개수 강화를 연속 3회 실시하라!"
   },
   "1170": {
     "code": "F143",
     "name_jp": "既存装備活用による対空兵装の開発",
-    "name": "Development of Anti-Air Armament Utilizing Existing Equipment",
+    "name": "기존 장비 활용에 의한 대공 병장의 개발",
     "desc_jp": "第一艦隊旗艦に「北上改二/改三」を配備。「12.7cm連装高角砲」x12及び「8cm高角砲」x8、<br>「25mm三連装機銃」x4を廃棄。開発資材x36、弾薬x750、改修資材x8を準備せよ！",
-    "desc": "Have Kitakami Kai Ni+ as secretary flagship and then proceed to scrap 12x 12.7cm Twin High-angle Gun Mount, 8x 8cm High-angle Gun and 4x 25mm Triple Autocannon Mount and have 36x Development Material, 750x Ammo and 8x Improvement Material (All resources and Materials will be consumed upon completion)"
+    "desc": "제1함대 기함에 「키타카미 개2/개3」를 배치하라. 「12.7cm 연장고각포」 12개, 「8cm 고각포」 8개, 「25mm 3연장 기관총」 4개를 폐기하고, 개발 자재 36개, 탄약 750개, 개수 자재 8개를 준비하라!"
   },
   "1171": {
     "code": "2610 F1",
     "name_jp": "【限定拡張作戦】対潜装備の整理整頓！2026",
-    "name": "[Limited Time Extra Operation] Organizing Anti-Submarine Gear! 2026",
+    "name": "[한정 확장 작전] 대잠 장비 정리정돈! 2026",
     "desc_jp": "「九四式爆雷投射機」x12、「九五式爆雷」x8、「九三式水中聴音機」x6を廃棄。さらに「南瓜」x2、<br>「三式爆雷投射機」x5、開発資材x30を準備せよ！(準備した装備・資材等は消費します)",
-    "desc": "Proceed to scrap 12x Type 94 Depth Charge Projector, 8x Type 95 Depth Charge, 6x Type 93 Passive Sonar and have 2x Pumpkin, 5x Type 3 Depth Charge Projector, 30x Development Material (All resources and Materials will be consumed upon completion)"
+    "desc": "「94식 폭뢰투사기」 12개, 「95식 폭뢰」 8개, 「93식 수중청음기」 6개를 폐기하라. 또한 「호박」 2개, 「3식 폭뢰투사기」 5개, 개발 자재 30개를 준비하라! (준비한 장비와 자재 등은 소모됩니다)"
   }
 }
