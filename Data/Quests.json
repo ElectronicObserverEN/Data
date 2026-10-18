@@ -12802,11 +12802,11 @@
     "name_jp": "【限定拡張作戦】Halloween狼隊、夜の襲撃！",
     "name_en": "[Limited Time Extra Operation] Halloween Wolf Squad, Night Raid!",
     "desc_jp": "「朧」「夕立」「野分」「早波」「熊野丸」「迅鯨改」「Tuscaloosa」「Indiana」を旗艦及び僚艦2隻以上<br>配備の艦隊で、南西諸島近海・バシー海峡に遊弋する敵に反復襲撃！敵艦隊を完膚無きまで食い破れ！",
-    "desc_en": "Organize a fleet with 3 of Oboro, Yuudachi, Nowaki, Hayanami, Kumano Maru, Chougei Kai, Tuscaloosa, Indiana in your fleet with one as flagship and score an S rank at the boss nodes on 2-1 and 2-2 twice each",
+    "desc_en": "Organize a fleet with 3 of Oboro, Yuudachi, Nowaki, Hayanami, Kumano Maru, Jingei Kai, Tuscaloosa, Indiana in your fleet with one as flagship and score an S rank at the boss nodes on 2-1 and 2-2 twice each",
     "added_update_id": 97,
     "removed_update_id": null,
     "season_id": 47,
-    "tracker": "[[1040],[[0,[[2,1],6,2]],[0,[[2,2],6,2]]],[0,[[8,[[[93,false,0,0],[45,false,0,0],[415,false,0,0],[528,false,0,0],[943,false,0,0],[640,false,1,0],[923,false,0,0],[932,false,0,0]],3]],[0,[1,[[5,[93,1,0]],[5,[45,1,0]],[5,[415,1,0]],[5,[528,1,0]],[5,[943,1,0]],[5,[640,1,1]],[5,[923,1,0]],[5,[932,1,0]]]]]]]]",
+    "tracker": "[[1040],[[0,[[2,1],6,2]],[0,[[2,2],6,2]]],[0,[[8,[[[93,false,0,0],[45,false,0,0],[415,false,0,0],[528,false,0,0],[943,false,0,0],[639,false,1,0],[923,false,0,0],[932,false,0,0]],3]],[0,[1,[[5,[93,1,0]],[5,[45,1,0]],[5,[415,1,0]],[5,[528,1,0]],[5,[943,1,0]],[5,[639,1,1]],[5,[923,1,0]],[5,[932,1,0]]]]]]]]",
     "progressResetType": null
   },
   {
