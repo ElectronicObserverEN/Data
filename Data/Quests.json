@@ -12678,7 +12678,7 @@
     "desc_jp": "「鈴谷」「村雨」「夕立」「曙」「朧」「朝潮」「野分」「迅鯨」「長鯨」の旗艦及び僚艦2隻以上を伴う<br>艦隊で製油所地帯沿岸、南西諸島防衛線、南西諸島近海に反復出撃！これらの敵を一掃せよ！",
     "desc_en": "Organize a fleet with any 3 of Suzuya, Murasame, Yuudachi, Akebono, Oboro, Asashio, Nowaki, Jingei or Chougei in your fleet with one as flagship and score an S rank at the boss nodes on 1-3, 1-4 and 2-1 twice each.",
     "added_update_id": 97,
-    "removed_update_id": null,
+    "removed_update_id": 98,
     "season_id": 47,
     "tracker": "[[984],[[0,[[1,3],6,2]],[0,[[1,4],6,2]],[0,[[2,1],6,2]]],[0,[[8,[[[124,false,0,0],[44,false,0,0],[45,false,0,0],[15,false,0,0],[93,false,0,0],[95,false,0,0],[415,false,0,0],[634,false,0,0],[635,false,0,0]],3]],[0,[1,[[5,[124,1,0]],[5,[44,1,0]],[5,[45,1,0]],[5,[15,1,0]],[5,[93,1,0]],[5,[95,1,0]],[5,[415,1,0]],[5,[634,1,0]],[5,[635,1,0]]]]]]]]",
     "progressResetType": null
@@ -12706,7 +12706,7 @@
     "desc_jp": "「対馬」「鵜来」「稲木」「大泊」「迅鯨」「長鯨」「朝日」「村雨」「巻波」「早波」「浜波」「樫」3隻<br>以上を含む護衛戦隊で南西諸島沖、鎮守府近海、バシー海峡、東部オリョール海に展開、制海権を確立せよ！",
     "desc_en": "Organize a fleet with 3 of Tsushima, Ukuru, Inagi, Ootomari, Jingei, Chougei, Asahi, Murasame, Makinami, Hayanami, Hamanami, Kashi in your fleet and score an S rank at the boss nodes on 1-2, 1-5, 2-2, 2-3",
     "added_update_id": 97,
-    "removed_update_id": null,
+    "removed_update_id": 98,
     "season_id": 47,
     "tracker": "[[985],[[0,[[1,2],6,1]],[0,[[1,5],6,1]],[0,[[2,2],6,1]],[0,[[2,3],6,1]]],[0,[[8,[[[540,false,0,0],[921,false,0,0],[922,false,0,0],[995,false,0,0],[634,false,0,0],[635,false,0,0],[953,false,0,0],[44,false,0,0],[671,false,0,0],[528,false,0,0],[484,false,0,0],[993,false,0,0]],3]]]]]",
     "progressResetType": null
@@ -12720,7 +12720,7 @@
     "desc_jp": "「小口径主砲」「中口径主砲」「水上偵察機」x各9を廃棄、「九九式艦爆」「九七式艦攻」x各10、<br>家具コインx1,031を準備せよ！(任務達成後、準備した装備・家具コインは消費します)",
     "desc_en": "Proceed to scrap 9x Small caliber main guns, 9x Medium caliber main guns, 9x Seaplanes and have 10x Type 99 Dive Bomber, 10x Type 97 Torpedo Bomber, 1031x furniture coins (All resources and Materials will be consumed upon completion)",
     "added_update_id": 97,
-    "removed_update_id": null,
+    "removed_update_id": 98,
     "season_id": 47,
     "tracker": "[[1119],[[4,[1,9]],[4,[2,9]],[6,[10,9]]],[0,[]]]",
     "progressResetType": null
@@ -12734,7 +12734,7 @@
     "desc_jp": "「鈴谷」「阿武隈」「朧」「曙」「村雨」「夕立」「野分」「朝潮」「早波」「浜波」「伊201」「Jervis」<br>「Minneapolis」「Johnston」4隻以上を含む強襲艦隊で、本日中に演習で【A判定】以上を5回達成せよ！",
     "desc_en": "Organize a fleet with 4 of Suzuya, Abukuma, Oboro, Akebono, Murasame, Yuudachi, Nowaki, Asashio, Hayanami, Hamanami, I-201, Jervis, Minneapolis, Johnston in your fleet and score A rank five times in PvP",
     "added_update_id": 97,
-    "removed_update_id": null,
+    "removed_update_id": 98,
     "season_id": 47,
     "tracker": "[[359],[[9,[5,5]]],[0,[[8,[[[124,false,0,0],[114,false,0,0],[93,false,0,0],[15,false,0,0],[44,false,0,0],[45,false,0,0],[415,false,0,0],[95,false,0,0],[528,false,0,0],[484,false,0,0],[881,false,0,0],[519,false,0,0],[1005,false,0,0],[562,false,0,0]],4]]]]]",
     "progressResetType": 1
@@ -12748,7 +12748,7 @@
     "desc_jp": "「鈴谷」「曙」「朧」「樫」「朝日」「迅鯨」「長鯨」「瑞穂」「Johnston」「Richard P.Leary」を旗艦<br>含め計4隻以上の艦隊で、鎮守府正面海域及び製油所地帯沿岸を徹底的に哨戒！完っ璧に制圧せよっ！",
     "desc_en": "Organize a fleet with 4 of Suzuya, Akebono, Oboro, Kashi, Asahi, Jingei, Chougei, Mizuho, Johnston, Richard P.Leary in your fleet with one of them as flagship and score an S rank at the boss nodes on 1-1 and 1-3 four times each",
     "added_update_id": 97,
-    "removed_update_id": null,
+    "removed_update_id": 98,
     "season_id": 47,
     "tracker": "[[1038],[[0,[[1,1],6,4]],[0,[[1,3],6,4]]],[0,[[8,[[[124,false,0,0],[15,false,0,0],[93,false,0,0],[993,false,0,0],[634,false,0,0],[635,false,0,0],[451,false,0,0],[562,false,0,0],[942,false,0,0],[953,false,0,0]],4]],[0,[1,[[5,[124,1,0]],[5,[15,1,0]],[5,[93,1,0]],[5,[993,1,0]],[5,[634,1,0]],[5,[635,1,0]],[5,[451,1,0]],[5,[562,1,0]],[5,[942,1,0]],[5,[953,1,0]]]]]]]]",
     "progressResetType": null
@@ -12762,7 +12762,7 @@
     "desc_jp": "「Minneapolis」「Tuscaloosa」「Gambier Bay」「Brooklyn」「Johnston」「Richard P.Leary」<br>「Indiana」の3隻以上を含むUSS Fleetで南西諸島近海、沖ノ島沖、モーレイ海に反復！Trick or Treat！",
     "desc_en": "Organize a fleet with 3 of Minneapolis, Tuscaloosa, Gambier Bay, Brooklyn, Johnston, Richard P.Leary, Indiana in your fleet and score an S rank at the boss nodes on 2-1, 2-5, 3-1 twice each",
     "added_update_id": 97,
-    "removed_update_id": null,
+    "removed_update_id": 98,
     "season_id": 47,
     "tracker": "[[986],[[0,[[2,1],6,2]],[0,[[2,5],6,2]],[0,[[3,1],6,2]]],[0,[[8,[[[932,false,0,0],[942,false,0,0],[562,false,0,0],[896,false,0,0],[544,false,0,0],[923,false,0,0],[1005,false,0,0]],3]]]]]",
     "progressResetType": null
@@ -12776,7 +12776,7 @@
     "desc_jp": "「対馬」「樫」「朝潮」「巻波」「浜波」「阿武隈」「鵜来」「稲木」「能美」または丁型海防艦、計4隻<br>以上の海上護衛隊で、鎮守府近海、南西諸島沖、南西諸島防衛線の制海権を確保せよ！ Trick or Treat！",
     "desc_en": "Organize a fleet with 4 of Tsushima, Kashi, Asashio, Makinami, Hamanami, Abukuma, Ukuru, Inagi, Noumi, Kaiboukan No.4, Kaiboukan No.22 or Kaiboukan No.30 in your fleet and score an S rank at the boss nodes on 1-2, 1-4 and 1-5",
     "added_update_id": 97,
-    "removed_update_id": null,
+    "removed_update_id": 98,
     "season_id": 47,
     "tracker": "[[1039],[[0,[[1,2],6,1]],[0,[[1,4],6,1]],[0,[[1,5],6,1]]],[0,[[8,[[[540,false,0,0],[993,false,0,0],[95,false,0,0],[671,false,0,0],[484,false,0,0],[114,false,0,0],[921,false,0,0],[922,false,0,0],[904,false,0,0],[0,false,0,104]],4]]]]]",
     "progressResetType": null
@@ -12790,7 +12790,7 @@
     "desc_jp": "「Roma」「Luigi Torelli」「Maestrale・Grecale・Libeccio・Scirocco」「Jervis」「伊47」「伊201」<br>「鈴谷」「村雨」「朧」「曙」旗艦含む3隻以上で、カレー洋海域、リランカ島、カスガダマ島を制圧せよ！",
     "desc_en": "Organize a fleet with 3 of Roma, Luigi Torelli, Maestrale, Grecale, Libeccio, Scirocco, Jervis, I-47, I-201, Suzuya, Murasame, Oboro, Akebono in your fleet with one as flagship and score an S rank at the boss nodes on 4-2, 4-3, 4-4",
     "added_update_id": 97,
-    "removed_update_id": null,
+    "removed_update_id": 98,
     "season_id": 47,
     "tracker": "[[987],[[0,[[4,2],6,1]],[0,[[4,3],6,1]],[0,[[4,4],6,1]]],[0,[[8,[[[442,false,0,0],[535,false,0,0],[0,false,0,61],[519,false,0,0],[636,false,0,0],[881,false,0,0],[124,false,0,0],[44,false,0,0],[93,false,0,0],[15,false,0,0]],3]],[0,[1,[[5,[442,1,0]],[5,[535,1,0]],[5,[575,1,0]],[5,[614,1,0]],[5,[443,1,0]],[5,[653,1,0]],[5,[519,1,0]],[5,[636,1,0]],[5,[881,1,0]],[5,[124,1,0]],[5,[44,1,0]],[5,[93,1,0]],[5,[15,1,0]]]]]]]]",
     "progressResetType": null
@@ -12804,7 +12804,7 @@
     "desc_jp": "「朧」「夕立」「野分」「早波」「熊野丸」「迅鯨改」「Tuscaloosa」「Indiana」を旗艦及び僚艦2隻以上<br>配備の艦隊で、南西諸島近海・バシー海峡に遊弋する敵に反復襲撃！敵艦隊を完膚無きまで食い破れ！",
     "desc_en": "Organize a fleet with 3 of Oboro, Yuudachi, Nowaki, Hayanami, Kumano Maru, Jingei Kai, Tuscaloosa, Indiana in your fleet with one as flagship and score an S rank at the boss nodes on 2-1 and 2-2 twice each",
     "added_update_id": 97,
-    "removed_update_id": null,
+    "removed_update_id": 98,
     "season_id": 47,
     "tracker": "[[1040],[[0,[[2,1],6,2]],[0,[[2,2],6,2]]],[0,[[8,[[[93,false,0,0],[45,false,0,0],[415,false,0,0],[528,false,0,0],[943,false,0,0],[639,false,1,0],[923,false,0,0],[932,false,0,0]],3]],[0,[1,[[5,[93,1,0]],[5,[45,1,0]],[5,[415,1,0]],[5,[528,1,0]],[5,[943,1,0]],[5,[639,1,1]],[5,[923,1,0]],[5,[932,1,0]]]]]]]]",
     "progressResetType": null
@@ -12818,7 +12818,7 @@
     "desc_jp": "「Minneapolis」「Tuscaloosa」「Gambier Bay」「Johnston」「鈴谷」「阿武隈」「曙」「朧」<br>「清霜」「樫」旗艦含む3隻以上の特務艦隊でキス島沖、北方AL海域、北方海域全域を制圧せよ！",
     "desc_en": "Organize a fleet with 3 of Minneapolis, Tuscaloosa, Gambier Bay, Johnston, Suzuya, Abukuma, Akebono, Oboro, Kiyoshimo, Kashi in your fleet with one as flagship and score an S rank at the boss nodes on 3-2, 3-4 and 3-5",
     "added_update_id": 97,
-    "removed_update_id": null,
+    "removed_update_id": 98,
     "season_id": 47,
     "tracker": "[[1002],[[0,[[3,2],6,1]],[0,[[3,4],6,1]],[0,[[3,5],6,1]]],[0,[[8,[[[1005,false,0,0],[923,false,0,0],[544,false,0,0],[562,false,0,0],[124,false,0,0],[114,false,0,0],[15,false,0,0],[93,false,0,0],[410,false,0,0],[993,false,0,0]],3]],[0,[1,[[5,[1005,1,0]],[5,[923,1,0]],[5,[544,1,0]],[5,[562,1,0]],[5,[124,1,0]],[5,[114,1,0]],[5,[15,1,0]],[5,[93,1,0]],[5,[410,1,0]],[5,[993,1,0]]]]]]]]",
     "progressResetType": null
@@ -12832,7 +12832,7 @@
     "desc_jp": "「九四式爆雷投射機」x12、「九五式爆雷」x8、「九三式水中聴音機」x6を廃棄。さらに「南瓜」x2、<br>「三式爆雷投射機」x5、開発資材x30を準備せよ！(準備した装備・資材等は消費します)",
     "desc_en": "Proceed to scrap 12x Type 94 Depth Charge Projector, 8x Type 95 Depth Charge, 6x Type 93 Passive Sonar and have 2x Pumpkin, 5x Type 3 Depth Charge Projector, 30x Development Material (All resources and Materials will be consumed upon completion)",
     "added_update_id": 97,
-    "removed_update_id": null,
+    "removed_update_id": 98,
     "season_id": 47,
     "tracker": "[[1171],[[3,[44,12]],[3,[46,6]],[3,[226,8]]],[0,[]]]",
     "progressResetType": null
