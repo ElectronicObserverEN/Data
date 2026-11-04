@@ -933,5 +933,16 @@
     "live_update": false,
     "maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/2104889645935079629",
     "maint_end_tweet": "https://x.com/KanColle_STAFF/status/2109889607232036926?s=20"
+  },
+  {
+    "id": 98,
+    "start_date": "2026-11-11T00:00:00",
+    "start_time": "13:00:00",
+    "end_time": "19:00:00",
+    "name": "Pumkin 2026 end",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://x.com/KanColle_STAFF/status/2117869806686962024",
+    "maint_end_tweet": ""
   }
 ]
