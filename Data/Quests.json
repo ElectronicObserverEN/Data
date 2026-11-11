@@ -13753,5 +13753,50 @@
     "tracker": "[[1171],[[3,[44,12]],[3,[46,6]],[3,[226,8]]],[0,[]]]",
     "trackerV2": "",
     "progressResetType": null
+  },
+  {
+    "id": 939,
+    "api_id": 1172,
+    "code": "2611 F1",
+    "name_jp": "【雷装強化工廠任務】夜戦突撃装備の強化【I】",
+    "name_en": "[Torpedo Armament Enhancement Arsenal Quest] Strengthening Night-Battle Assault Equipment [I]",
+    "desc_jp": "旗艦第一及び第二装備スロに「61cm五連装(酸素)魚雷(★不問)」、同第三スロに「61cm四連装(酸素)魚雷<br>(★max)」装備して「61cm四連装魚雷」x10を廃棄。開発資材x60、新型兵装資材x2、工廠資源x2を準備！",
+    "desc_en": "Have your secretary flagship equip 2x 61cm Quintuple (Oxygen) Torpedo Mount in her 1st and 2nd slots and a ★max 61cm Quadruple (Oxygen) Torpedo Mount in her 3rd slot and then proceed to scrap 10x 61cm Quadruple Torpedo Mount and have 2x New Model Armament Materials, 2x Arsenal Resources and 60x Development Materials (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 98,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[1172],[[3,[14,10]]],[0,[]]]",
+    "trackerV2": "{\"QuestId\":1172,\"Tasks\":[{\"type\":7,\"Id\":14,\"Count\":10}],\"Conditions\":{\"Definitions\":[],\"Condition\":null}}",
+    "progressResetType": null
+  },
+  {
+    "id": 940,
+    "api_id": 381,
+    "code": "2611 Cw1",
+    "name_jp": "【期間限定任務】秋月型演習任務2026",
+    "name_en": "[Limited Time Quest] Akizuki-class Exercise Quest 2026",
+    "desc_jp": "【期間限定演習】秋月型または「秋雲」「秋霜」「秋津洲」の計3隻以上を含む演習艦隊を編成。<br>同艦隊で本日中に演習【A判定】勝利3回以上を達成せよ！秋月型駆逐艦他、この秋も、演習始めっ！",
+    "desc_en": "Organize a fleet with 3 of Akizuki-class, Akigumo, Akishimo or Akitsushima in your fleet and score A rank three times in PvP",
+    "added_update_id": 98,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[381],[[9,[5,3]]],[0,[[8,[[[0,false,0,54],[132,false,0,0],[625,false,0,0],[445,false,0,0]],3]]]]]",
+    "trackerV2": "{\"QuestId\":381,\"Tasks\":[{\"type\":6,\"Rank\":5,\"Count\":3}],\"Conditions\":{\"Definitions\":[],\"Condition\":{\"type\":7,\"Count\":3,\"Operator\":0,\"Condition\":{\"type\":0,\"Operator\":0,\"Conditions\":[{\"type\":5,\"ShipClass\":54},{\"type\":3,\"Id\":625,\"Remodel\":0},{\"type\":3,\"Id\":132,\"Remodel\":0},{\"type\":3,\"Id\":445,\"Remodel\":0}]}}}}",
+    "progressResetType": 1
+  },
+  {
+    "id": 941,
+    "api_id": 386,
+    "code": "2611 Cw2",
+    "name_jp": "【期間限定任務】秋刀魚祭り準備演習！",
+    "name_en": "[Limited Time Quest] Saury Festival Preparation Exercises!",
+    "desc_jp": "【秋刀魚祭り準備演習】「曙」「天霧」「村雨」「大潮」「熊野丸」「山汐丸」「第四号海防艦」「Ranger」<br>「Heywood L.E.」の旗艦を含む計4隻以上の艦隊で、本日中に演習【S判定】勝利3回以上を達成せよ！",
+    "desc_en": "Organize a fleet with 4 of Akebono, Amagiri, Murasame, Ooshio, Kumano Maru, Yamashio Maru, Kaiboukan No.4, Ranger or Heywood L. Edwards with one as flagship in your fleet and score S rank three times in PvP",
+    "added_update_id": 98,
+    "removed_update_id": null,
+    "season_id": null,
+    "tracker": "[[386],[[9,[6,3]]],[0,[[8,[[[15,false,0,0],[479,false,0,0],[44,false,0,0],[96,false,0,0],[943,false,0,0],[900,false,0,0],[637,false,0,0],[931,false,0,0],[941,false,0,0]],4]],[0,[1,[[5,[15,1,0]],[5,[479,1,0]],[5,[44,1,0]],[5,[96,1,0]],[5,[943,1,0]],[5,[900,1,0]],[5,[637,1,0]],[5,[931,1,0]],[5,[941,1,0]]]]]]]]",
+    "trackerV2": "{\"QuestId\":386,\"Tasks\":[{\"type\":6,\"Rank\":6,\"Count\":3}],\"Conditions\":{\"Definitions\":[{\"Name\":\"A\",\"Condition\":{\"type\":0,\"Operator\":0,\"Conditions\":[{\"type\":3,\"Id\":15,\"Remodel\":0},{\"type\":3,\"Id\":479,\"Remodel\":0},{\"type\":3,\"Id\":44,\"Remodel\":0},{\"type\":3,\"Id\":96,\"Remodel\":0},{\"type\":3,\"Id\":943,\"Remodel\":0},{\"type\":3,\"Id\":900,\"Remodel\":0},{\"type\":3,\"Id\":637,\"Remodel\":0},{\"type\":3,\"Id\":931,\"Remodel\":0},{\"type\":3,\"Id\":941,\"Remodel\":0}]}}],\"Condition\":{\"type\":0,\"Operator\":0,\"Conditions\":[{\"type\":7,\"Count\":4,\"Operator\":0,\"Condition\":{\"type\":2,\"Reference\":\"A\"}},{\"type\":6,\"Positions\":[1],\"Condition\":{\"type\":2,\"Reference\":\"A\"}}]}}}",
+    "progressResetType": 1
   }
 ]
