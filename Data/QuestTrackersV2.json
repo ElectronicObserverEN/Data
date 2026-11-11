@@ -1,3 +1,5 @@
 ﻿[
-	
+	{"QuestId":381,"Tasks":[{"type":6,"Rank":5,"Count":3}],"Conditions":{"Definitions":[],"Condition":{"type":7,"Count":3,"Operator":0,"Condition":{"type":0,"Operator":0,"Conditions":[{"type":5,"ShipClass":54},{"type":3,"Id":625,"Remodel":0},{"type":3,"Id":132,"Remodel":0},{"type":3,"Id":445,"Remodel":0}]}}}},
+	{"QuestId":386,"Tasks":[{"type":6,"Rank":6,"Count":3}],"Conditions":{"Definitions":[{"Name":"A","Condition":{"type":0,"Operator":0,"Conditions":[{"type":3,"Id":15,"Remodel":0},{"type":3,"Id":479,"Remodel":0},{"type":3,"Id":44,"Remodel":0},{"type":3,"Id":96,"Remodel":0},{"type":3,"Id":943,"Remodel":0},{"type":3,"Id":900,"Remodel":0},{"type":3,"Id":637,"Remodel":0},{"type":3,"Id":931,"Remodel":0},{"type":3,"Id":941,"Remodel":0}]}}],"Condition":{"type":0,"Operator":0,"Conditions":[{"type":7,"Count":4,"Operator":0,"Condition":{"type":2,"Reference":"A"}},{"type":6,"Positions":[1],"Condition":{"type":2,"Reference":"A"}}]}}},
+	{"QuestId":1172,"Tasks":[{"type":7,"Id":14,"Count":10}],"Conditions":{"Definitions":[],"Condition":null}}
 ]
