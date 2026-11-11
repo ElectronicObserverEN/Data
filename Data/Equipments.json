@@ -1907,6 +1907,7 @@
   },
   {
     "id": 2146,
+    "max_upg": 4,
     "api_id": 305,
     "name_jp": "Ju87C改二(KMX搭載機)",
     "name_en": "Ju 87C Kai Ni (KMX)"
@@ -2864,6 +2865,7 @@
   },
   {
     "id": 2304,
+    "max_upg": 4,
     "api_id": 466,
     "name_jp": "流星改(熟練)",
     "name_en": "Ryuusei Kai (Skilled)"
@@ -4497,12 +4499,14 @@
   },
   {
     "id": 2577,
+    "max_upg": 4,
     "api_id": 579,
     "name_jp": "13.8cm単装砲 Modèle 1927",
     "name_en": "13.8cm Single Gun Mount Modèle 1927"
   },
   {
     "id": 2578,
+    "max_upg": 4,
     "api_id": 580,
     "name_jp": "55cm三連装魚雷 Modèle 1924",
     "name_en": "55cm Triple Torpedo Mount Modèle 1924"
