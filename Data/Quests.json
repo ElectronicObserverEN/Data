@@ -12636,12 +12636,12 @@
     "name_jp": "【工廠任務】試製震電の艦戦型改二への改修",
     "name_en": "[Arsenal Quest] Modification of the Prototype Shinden to the Carrier-based Fighter Model Kai Ni",
     "desc_jp": "第一旗艦に「飛龍」改二以降、32駆改二及び「風雲改二」から計3隻以上を随伴配備。零式艦戦<br>52型及び紫電改二を各x5廃棄。新型航空兵装資材x2、試製 震電(局地戦闘機)★maxを用意せよ！",
-    "desc_en": "Have Hiryuu Kai Ni/San as your secretary flagship and three of Fujinami Kai Ni, Hayanami Kai Ni, Hamanami Kai Ni and Kazagumo Kai Ni in your fleet and then proceed to scrap 5x Type 0 Fighter Model 52 and 5x Shiden Kai Ni and have 2x Aviation Material, 1x Prototype Shinden (LB Fighter) ★max (All resources and Materials will be consumed upon completion)",
+    "desc_en": "Have Hiryuu Kai Ni/San as your secretary flagship and three of Fujinami Kai Ni, Hayanami Kai Ni, Hamanami Kai Ni, Tamanami Kai Ni, Suzunami Kai Ni+ and Kazagumo Kai Ni in your fleet and then proceed to scrap 5x Type 0 Fighter Model 52 and 5x Shiden Kai Ni and have 2x Aviation Material, 1x Prototype Shinden (LB Fighter) ★max (All resources and Materials will be consumed upon completion)",
     "added_update_id": 85,
     "removed_update_id": null,
     "season_id": null,
-    "tracker": "[[1160],[[3,[21,5]],[3,[55,5]]],[0,[[7,[196,true,1,0]],[8,[[[981,false,1,0],[983,false,1,0],[982,false,1,0],[564,false,1,0]],3]]]]]",
-    "trackerV2": "",
+    "tracker": "[[1160],[[3,[21,5]],[3,[55,5]]],[0,[[7,[196,true,1,0]],[8,[[[981,false,1,0],[983,false,1,0],[982,false,1,0],[564,false,1,0],[1033,false,1,0],[1034,false,1,0]],3]]]]]",
+    "trackerV2": "{\"QuestId\":1160,\"Tasks\":[{\"type\":7,\"Id\":21,\"Count\":5},{\"type\":7,\"Id\":55,\"Count\":5}],\"Conditions\":{\"Definitions\":[],\"Condition\":{\"type\":0,\"Operator\":0,\"Conditions\":[{\"type\":6,\"Positions\":[1],\"Condition\":{\"type\":3,\"Id\":196,\"Remodel\":1}},{\"type\":7,\"Count\":3,\"Operator\":0,\"Condition\":{\"type\":0,\"Operator\":1,\"Conditions\":[{\"type\":3,\"Id\":981,\"Remodel\":1},{\"type\":3,\"Id\":983,\"Remodel\":1},{\"type\":3,\"Id\":982,\"Remodel\":1},{\"type\":3,\"Id\":564,\"Remodel\":1},{\"type\":3,\"Id\":1033,\"Remodel\":1},{\"type\":3,\"Id\":1034,\"Remodel\":1}]}}]}}}",
     "progressResetType": null
   },
   {
