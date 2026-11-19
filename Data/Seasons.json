@@ -268,5 +268,11 @@
     "name": "Pumpkin festival 2026",
     "added_update_id": 97,
     "removed_update_id": 98
+  },
+  {
+    "id": 48,
+    "name": "Saury 2026",
+    "added_update_id": 99,
+    "removed_update_id": null
   }
 ]

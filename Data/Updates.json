@@ -944,5 +944,16 @@
     "live_update": false,
     "maint_start_tweet": "https://x.com/KanColle_STAFF/status/2117869806686962024",
     "maint_end_tweet": ""
+  },
+  {
+    "id": 99,
+    "start_date": "2026-11-24T00:00:00",
+    "start_time": "11:00:00",
+    "end_time": "20:30:00",
+    "name": "Saury 2026",
+    "description": "",
+    "live_update": false,
+    "maint_start_tweet": "https://twitter.com/KanColle_STAFF/status/2123434814997238135",
+    "maint_end_tweet": ""
   }
 ]
