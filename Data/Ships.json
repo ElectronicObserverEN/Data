@@ -15820,5 +15820,41 @@
     "ShipClassId": 1462,
     "ShipClassApiId": 1,
     "IsFriendly": true
+  },
+  {
+    "Id": 1978,
+    "NameEN": "Yura Kai Ni Tei",
+    "NameJP": "由良改二偵",
+    "ApiId": 750,
+    "ShipClassId": 1464,
+    "ShipClassApiId": 20,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1979,
+    "NameEN": "Sendai Kai Ni Tei",
+    "NameJP": "川内改二偵",
+    "ApiId": 751,
+    "ShipClassId": 1473,
+    "ShipClassApiId": 16,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1980,
+    "NameEN": "Takanami Kai Ni Tei",
+    "NameJP": "高波改二偵",
+    "ApiId": 752,
+    "ShipClassId": 1498,
+    "ShipClassApiId": 38,
+    "IsFriendly": true
+  },
+  {
+    "Id": 1981,
+    "NameEN": "Aoba Kai Tei",
+    "NameJP": "青葉改偵",
+    "ApiId": 753,
+    "ShipClassId": 1475,
+    "ShipClassApiId": 13,
+    "IsFriendly": true
   }
 ]
