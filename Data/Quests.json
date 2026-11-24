@@ -13828,5 +13828,20 @@
     "tracker": "[[369],[[9,[5,4]]],[0,[[8,[[[93,false,0,0],[15,false,0,0],[94,false,0,0],[16,false,0,0],[144,false,1,0],[145,false,1,0],[421,false,0,0],[423,false,0,0],[14,false,0,0],[167,false,0,0],[74,false,0,0],[995,false,0,0],[944,false,0,0],[1055,false,0,0],[1053,false,0,0],[962,false,0,0]],4]]]]]",
     "trackerV2": "{\"QuestId\":369,\"Tasks\":[{\"type\":6,\"Rank\":5,\"Count\":4}],\"Conditions\":{\"Definitions\":[],\"Condition\":{\"type\":0,\"Operator\":0,\"Conditions\":[{\"type\":7,\"Count\":4,\"Operator\":0,\"Condition\":{\"type\":0,\"Operator\":1,\"Conditions\":[{\"type\":3,\"Id\":93,\"Remodel\":0},{\"type\":3,\"Id\":15,\"Remodel\":0},{\"type\":3,\"Id\":94,\"Remodel\":0},{\"type\":3,\"Id\":16,\"Remodel\":0},{\"type\":3,\"Id\":144,\"Remodel\":1},{\"type\":3,\"Id\":145,\"Remodel\":1},{\"type\":3,\"Id\":421,\"Remodel\":0},{\"type\":3,\"Id\":423,\"Remodel\":0},{\"type\":3,\"Id\":14,\"Remodel\":0},{\"type\":3,\"Id\":167,\"Remodel\":0},{\"type\":3,\"Id\":74,\"Remodel\":0},{\"type\":3,\"Id\":995,\"Remodel\":0},{\"type\":3,\"Id\":944,\"Remodel\":0},{\"type\":3,\"Id\":1055,\"Remodel\":0},{\"type\":3,\"Id\":1053,\"Remodel\":0},{\"type\":3,\"Id\":962,\"Remodel\":0}]}}]}}}",
     "progressResetType": 1
+  },
+  {
+    "id": 944,
+    "api_id": 867,
+    "code": "2611 B2",
+    "name_jp": "秋刀魚漁：こんな量じゃ、多聞丸に怒られちゃうなぁ！",
+    "name_en": "Saury Fishing: With a Haul This Size, Tamon-maru Is Sure to Scold Me!",
+    "desc_jp": "【秋刀魚漁】え？こんな水揚げじゃ、美味いけど量が足りないって多聞丸に怒られちゃうなあ！仕方ない……<br>まだまだいくから！新鮮「秋刀魚」を16尾獲得します！飛龍、海に在り！駆逐艦たちも頑張って！やるぞぉ！",
+    "desc_en": "Have 16 Saury in the inventory.",
+    "added_update_id": 99,
+    "removed_update_id": null,
+    "season_id": 48,
+    "tracker": "",
+    "trackerV2": "",
+    "progressResetType": null
   }
 ]

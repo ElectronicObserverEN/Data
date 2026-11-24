@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030781",
+  "version": "21030782",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3387,6 +3387,13 @@
     "name": "Saury Fishing: Naval Base Saury Festival - CarDiv 2 Is Heading Out!",
     "desc_jp": "【秋刀魚漁】よしっ！我、これより秋刀魚漁の指揮を執る！駆逐艦たち、探照灯や熟練見張員の準備はいい？<br>じゃ、いきますか！二航戦、抜錨！短期間で、新鮮な「秋刀魚」を8尾獲得する！楽勝よ！多聞丸、見ててっ！",
     "desc": "Have 8 Saury in the inventory."
+  },
+  "867": {
+    "code": "2611 B2",
+    "name_jp": "秋刀魚漁：こんな量じゃ、多聞丸に怒られちゃうなぁ！",
+    "name": "Saury Fishing: With a Haul This Size, Tamon-maru Is Sure to Scold Me!",
+    "desc_jp": "【秋刀魚漁】え？こんな水揚げじゃ、美味いけど量が足りないって多聞丸に怒られちゃうなあ！仕方ない……<br>まだまだいくから！新鮮「秋刀魚」を16尾獲得します！飛龍、海に在り！駆逐艦たちも頑張って！やるぞぉ！",
+    "desc": "Have 16 Saury in the inventory."
   },
   "869": {
     "code": "B107",
