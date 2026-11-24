@@ -2271,6 +2271,7 @@
   },
   {
     "id": 2206,
+    "max_upg": 4,
     "api_id": 366,
     "name_jp": "12.7cm連装砲D型改三",
     "name_en": "12.7cm Twin Gun Model D Kai San"
@@ -2548,6 +2549,7 @@
   },
   {
     "id": 2252,
+    "max_upg": 4,
     "api_id": 412,
     "name_jp": "水雷戦隊 熟練見張員",
     "name_en": "Torpedo Squadron Skilled Lookouts"
@@ -2885,6 +2887,7 @@
   },
   {
     "id": 2307,
+    "max_upg": 4,
     "api_id": 469,
     "name_jp": "零式水上偵察機11型乙改(夜偵)",
     "name_en": "Type 0 Reconnaissance Seaplane Model 11B Kai (Night Recon)"
