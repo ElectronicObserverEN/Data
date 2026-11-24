@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030784",
+  "version": "21030785",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -1811,7 +1811,7 @@
     "name_jp": "【期間限定任務】秋刀魚祭り準備演習！",
     "name": "[Limited Time Quest] Saury Festival Preparation Exercises!",
     "desc_jp": "【秋刀魚祭り準備演習】「曙」「天霧」「村雨」「大潮」「熊野丸」「山汐丸」「第四号海防艦」「Ranger」<br>「Heywood L.E.」の旗艦を含む計4隻以上の艦隊で、本日中に演習【S判定】勝利3回以上を達成せよ！",
-    "desc": "Organize a fleet with 4 of Akebono, Amagiri, Murasame, Ooshio, Kumano Maru, Yamashio Maru, Kaiboukan No.4, Ranger or Heywood L. Edwards with one as flagship in your fleet and score S rank three times in PvP"
+    "desc": "Organize a fleet with 4 of Akebono, Amagiri, Murasame, Ooshio, Kumano Maru, Yamashio Maru, Shimane Maru, Béarn, Sagiri, Yuudachi Kai Ni or Shikinami with one as flagship in your fleet and score S rank three times in PvP"
   },
   "401": {
     "code": "D1",
