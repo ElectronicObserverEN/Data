@@ -1598,7 +1598,8 @@
       285,
       400,
       440,
-      213
+      213,
+      580
     ]
   },
   {
@@ -30767,7 +30768,8 @@
               750
             ],
             "days": [
-              2
+              2,
+              3
             ]
           },
           {
@@ -34949,13 +34951,32 @@
             "consumable": []
           },
           "p2": {
-            "devmats": 0,
-            "devmats_sli": 0,
-            "screws": 0,
-            "screws_sli": 0,
-            "equips": [],
+            "devmats": 3,
+            "devmats_sli": 4,
+            "screws": 1,
+            "screws_sli": 3,
+            "equips": [
+              {
+                "id": 13,
+                "eq_count": 2
+              }
+            ],
             "consumable": []
-          }
+          },
+          "extra": [
+            {
+              "levels": [
+                10
+              ],
+              "consumable": [
+                {
+                  "id": 100,
+                  "eq_count": 1
+                }
+              ],
+              "equips": []
+            }
+          ]
         }
       }
     ],
