@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030787",
+  "version": "21030788",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -3395,6 +3395,13 @@
     "desc_jp": "【秋刀魚漁】え？こんな水揚げじゃ、美味いけど量が足りないって多聞丸に怒られちゃうなあ！仕方ない……<br>まだまだいくから！新鮮「秋刀魚」を16尾獲得します！飛龍、海に在り！駆逐艦たちも頑張って！やるぞぉ！",
     "desc": "Have 16 Saury in the inventory."
   },
+  "868": {
+    "code": "2611 B3",
+    "name_jp": "秋刀魚漁：どんな逆境でも、大漁にしてみせます！",
+    "name": "Saury Fishing: No Matter How Tough the Odds, We'll Make Sure We Bring In a Massive Catch!",
+    "desc_jp": "【秋刀魚漁】はぁはぁ……流石に今年は少し不漁って訳ね、でも関係ない！この飛龍が秋刀魚漁の指揮を執る<br>限り、どんな逆境だろうが不漁だろうが、大漁にしてみせますっ！艦隊出漁！27尾獲得せよっ！フィナーレ！",
+    "desc": "Have 27 Saury in the inventory."
+  },
   "869": {
     "code": "B107",
     "name_jp": "補給線の安全を確保せよ！",
@@ -4353,6 +4360,13 @@
     "name": "配备登陆作战支援装备",
     "desc_jp": "旗艦「神州丸」の第一装備スロットに最大改修「大発動艇(八九式中戦車＆陸戦隊)」を搭載。<br>「7.7mm機銃」「大発動艇」各x2廃棄。高速建造材x8、開発資材x10、鋼材800を準備せよ！",
     "desc": "以旗舰「神州丸」第一装备格搭载最大改修「大发动艇(八九式中战车＆陆战队)」。<br>废弃「7.7mm机枪」「大发动艇」各x2。准备高速建造材x8、开发资材x10、钢材x800！"
+  },
+  "1110": {
+    "code": "2611 F1",
+    "name_jp": "秋刀魚祭り【拡張任務】新秋刀魚を美味しく料理！",
+    "name": "Saury Festival [Extra Operation] Prepare Delicious Meal Using Fresh Saury!",
+    "desc_jp": "旗艦「野埼(南海)」またはケッコン済の「長波」を配備。「戦闘糧食」(★+4以上)を第1スロに装備。<br>「熟練見張員」x4廃棄。水揚げ「秋刀魚」8尾、高速建造材x8、開発資材x32を準備せよ！",
+    "desc": "Have your secretary flagship Nankai or Lv100+ Naganami as Secretary equip ★4+ Combat Ration in her 1st slot, in the first slot and then proceed to scrap 4x Skilled Lookouts and have 8x Saury, 8x Instant Construction Materials and 32x Development Materials (All resources and Materials will be consumed upon completion)"
   },
   "1111": {
     "code": "F105",

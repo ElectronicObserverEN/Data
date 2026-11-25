@@ -13843,5 +13843,35 @@
     "tracker": "",
     "trackerV2": "",
     "progressResetType": null
+  },
+  {
+    "id": 945,
+    "api_id": 1110,
+    "code": "2611 F1",
+    "name_jp": "秋刀魚祭り【拡張任務】新秋刀魚を美味しく料理！",
+    "name_en": "Saury Festival [Extra Operation] Prepare Delicious Meal Using Fresh Saury!",
+    "desc_jp": "旗艦「野埼(南海)」またはケッコン済の「長波」を配備。「戦闘糧食」(★+4以上)を第1スロに装備。<br>「熟練見張員」x4廃棄。水揚げ「秋刀魚」8尾、高速建造材x8、開発資材x32を準備せよ！",
+    "desc_en": "Have your secretary flagship Nankai or Lv100+ Naganami as Secretary equip ★4+ Combat Ration in her 1st slot, in the first slot and then proceed to scrap 4x Skilled Lookouts and have 8x Saury, 8x Instant Construction Materials and 32x Development Materials (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 99,
+    "removed_update_id": null,
+    "season_id": 48,
+    "tracker": "",
+    "trackerV2": "{\"QuestId\":1110,\"Tasks\":[{\"type\":7,\"Id\":129,\"Count\":4}],\"Conditions\":{\"Definitions\":[],\"Condition\":{\"type\":0,\"Operator\":1,\"Conditions\":[{\"type\":0,\"Operator\":0,\"Conditions\":[{\"type\":6,\"Positions\":[1],\"Condition\":{\"type\":0,\"Operator\":0,\"Conditions\":[{\"type\":3,\"Id\":135,\"Remodel\":0},{\"type\":8,\"Level\":100}]}}]},{\"type\":0,\"Operator\":0,\"Conditions\":[{\"type\":6,\"Positions\":[1],\"Condition\":{\"type\":0,\"Operator\":0,\"Conditions\":[{\"type\":3,\"Id\":988,\"Remodel\":0}]}}]}]}}}",
+    "progressResetType": null
+  },
+  {
+    "id": 946,
+    "api_id": 868,
+    "code": "2611 B3",
+    "name_jp": "秋刀魚漁：どんな逆境でも、大漁にしてみせます！",
+    "name_en": "Saury Fishing: No Matter How Tough the Odds, We'll Make Sure We Bring In a Massive Catch!",
+    "desc_jp": "【秋刀魚漁】はぁはぁ……流石に今年は少し不漁って訳ね、でも関係ない！この飛龍が秋刀魚漁の指揮を執る<br>限り、どんな逆境だろうが不漁だろうが、大漁にしてみせますっ！艦隊出漁！27尾獲得せよっ！フィナーレ！",
+    "desc_en": "Have 27 Saury in the inventory.",
+    "added_update_id": 99,
+    "removed_update_id": null,
+    "season_id": 48,
+    "tracker": "",
+    "trackerV2": "",
+    "progressResetType": null
   }
 ]
