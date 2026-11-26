@@ -13795,7 +13795,7 @@
     "added_update_id": 98,
     "removed_update_id": null,
     "season_id": null,
-    "tracker": "[[386],[[9,[6,3]]],[0,[[8,[[[15,false,0,0],[479,false,0,0],[44,false,0,0],[96,false,0,0],[943,false,0,0],[900,false,0,0],[1003,false,0,0],[1055,false,0,0],[480,false,0,0],[144,false,1,0],[14,false,0,0]],4]],[0,[1,[[5,[15,1,0]],[5,[479,1,0]],[5,[44,1,0]],[5,[96,1,0]],[5,[943,1,0]],[5,[900,1,0]],[5,[637,1,0]],[5,[931,1,0]],[5,[941,1,0]]]]]]]]",
+    "tracker": "[[386],[[9,[6,3]]],[0,[[8,[[[15,false,0,0],[479,false,0,0],[44,false,0,0],[96,false,0,0],[943,false,0,0],[900,false,0,0],[1003,false,0,0],[1055,false,0,0],[480,false,0,0],[144,false,1,0],[14,false,0,0]],4]],[0,[1,[[5,[15,1,0]],[5,[479,1,0]],[5,[44,1,0]],[5,[96,1,0]],[5,[943,1,0]],[5,[900,1,0]],[5,[1003,1,0]],[5,[1055,1,0]],[5,[480,1,0]],[5,[144,1,1]],[5,[14,1,0]]]]]]]]",
     "trackerV2": "{\"QuestId\":386,\"Tasks\":[{\"type\":6,\"Rank\":6,\"Count\":3}],\"Conditions\":{\"Definitions\":[{\"Name\":\"A\",\"Condition\":{\"type\":0,\"Operator\":1,\"Conditions\":[{\"type\":3,\"Id\":15,\"Remodel\":0},{\"type\":3,\"Id\":479,\"Remodel\":0},{\"type\":3,\"Id\":44,\"Remodel\":0},{\"type\":3,\"Id\":96,\"Remodel\":0},{\"type\":3,\"Id\":943,\"Remodel\":0},{\"type\":3,\"Id\":900,\"Remodel\":0},{\"type\":3,\"Id\":1003,\"Remodel\":0},{\"type\":3,\"Id\":1055,\"Remodel\":0},{\"type\":3,\"Id\":480,\"Remodel\":0},{\"type\":3,\"Id\":144,\"Remodel\":1},{\"type\":3,\"Id\":14,\"Remodel\":0}]}}],\"Condition\":{\"type\":0,\"Operator\":0,\"Conditions\":[{\"type\":7,\"Count\":4,\"Operator\":0,\"Condition\":{\"type\":2,\"Reference\":\"A\"}},{\"type\":6,\"Positions\":[1],\"Condition\":{\"type\":2,\"Reference\":\"A\"}}]}}}",
     "progressResetType": 1
   },
