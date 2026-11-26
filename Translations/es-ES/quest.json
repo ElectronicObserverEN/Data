@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030785",
+  "version": "21030786",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4366,7 +4366,7 @@
     "name_jp": "秋刀魚祭り【拡張任務】新秋刀魚を美味しく料理！",
     "name": "Saury Festival [Extra Operation] Prepare Delicious Meal Using Fresh Saury!",
     "desc_jp": "旗艦「野埼(南海)」またはケッコン済の「長波」を配備。「戦闘糧食」(★+4以上)を第1スロに装備。<br>「熟練見張員」x4廃棄。水揚げ「秋刀魚」8尾、高速建造材x8、開発資材x32を準備せよ！",
-    "desc": "Have your secretary flagship Nankai or Lv100+ Naganami as Secretary equip ★4+ Combat Ration in her 1st slot, in the first slot and then proceed to scrap 4x Skilled Lookouts and have 8x Saury, 8x Instant Construction Materials and 32x Development Materials (All resources and Materials will be consumed upon completion)"
+    "desc": "Have Nankai or Lv100+ Naganami as Secretary equip ★4+ Combat Ration in her 1st slot and then proceed to scrap 4x Skilled Lookouts and have 8x Saury, 8x Instant Construction Materials and 32x Development Materials (All resources and Materials will be consumed upon completion)"
   },
   "1111": {
     "code": "F105",
