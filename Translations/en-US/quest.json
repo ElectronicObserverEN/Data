@@ -1,5 +1,5 @@
 ﻿{
-  "version": "21030790",
+  "version": "21030791",
   "101": {
     "code": "A1",
     "name_jp": "はじめての「編成」！",
@@ -4542,6 +4542,13 @@
     "name": "\"Kirishima Kai Ni C\" Arsenal Remodel Quest",
     "desc_jp": "旗艦「霧島改二丙」第一スロに「35.6cm連装砲改二」(★+8以上)装備。「35.6cm連装砲」x8を<br>廃棄。「35.6cm連装砲改」x1、新型砲熕兵装資材x2、鋼材7,800、新型兵装資材x2準備！",
     "desc": "Have your secretary flagship Kirishima Kai Ni C equip a ★+8 35.6cm Twin Gun Mount Kai Ni in the first slot and then proceed to scrap 8x 35.6cm Twin Gun and have 1x 35.6cm Twin Gun Mount Kai, 2x New Model Gun Mount Improvement Material, 2x New Model Armament Material and 7800x steel (All resources and Materials will be consumed upon completion)"
+  },
+  "1144": {
+    "code": "2611 F2",
+    "name_jp": "超秋刀魚祭り【局戦震電持ち専用】特別拡張任務",
+    "name": "Super Saury Festival [Exclusive to Shinden Interceptor Owners] Special Extra Quest",
+    "desc_jp": "「試製 震電(局地戦闘機)」(★+8以上)を用意。「飛龍改二/改三」を旗艦で、「零式艦戦52型」x4廃棄。<br>「秋刀魚」20尾、「紫電改二」x2、新型航空兵装資材x2、開発資材x60、工廠資源x2をそれぞれ準備せよ！",
+    "desc": "Have Hiryuu Kai Ni+ as secretary flagship and then proceed to scrap 4x Type 0 Fighter Model 52 and have 1x ★+8 Prototype Shinden (Land-based Fighter), 20x Saury, 2x Shiden Kai 2, 2x New Model Aerial Armament Materials, 2x Arsenal Resources and 60x Development Materials (All resources and Materials will be consumed upon completion)"
   },
   "1145": {
     "code": "F129",

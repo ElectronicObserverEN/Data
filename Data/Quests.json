@@ -13873,5 +13873,20 @@
     "tracker": "",
     "trackerV2": "",
     "progressResetType": null
+  },
+  {
+    "id": 947,
+    "api_id": 1144,
+    "code": "2611 F2",
+    "name_jp": "超秋刀魚祭り【局戦震電持ち専用】特別拡張任務",
+    "name_en": "Super Saury Festival [Exclusive to Shinden Interceptor Owners] Special Extra Quest",
+    "desc_jp": "「試製 震電(局地戦闘機)」(★+8以上)を用意。「飛龍改二/改三」を旗艦で、「零式艦戦52型」x4廃棄。<br>「秋刀魚」20尾、「紫電改二」x2、新型航空兵装資材x2、開発資材x60、工廠資源x2をそれぞれ準備せよ！",
+    "desc_en": "Have Hiryuu Kai Ni+ as secretary flagship and then proceed to scrap 4x Type 0 Fighter Model 52 and have 1x ★+8 Prototype Shinden (Land-based Fighter), 20x Saury, 2x Shiden Kai 2, 2x New Model Aerial Armament Materials, 2x Arsenal Resources and 60x Development Materials (All resources and Materials will be consumed upon completion)",
+    "added_update_id": 99,
+    "removed_update_id": null,
+    "season_id": 48,
+    "tracker": "",
+    "trackerV2": "{\"QuestId\":1144,\"Tasks\":[{\"type\":7,\"Id\":21,\"Count\":4}],\"Conditions\":{\"Definitions\":[],\"Condition\":{\"type\":6,\"Positions\":[1],\"Condition\":{\"type\":0,\"Operator\":0,\"Conditions\":[{\"type\":3,\"Id\":196,\"Remodel\":1}]}}}}",
+    "progressResetType": null
   }
 ]
